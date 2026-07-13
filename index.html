@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Painel de Leads — FG Advogados</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js"></script>
+<style>
+  :root{--navy:#16233f;--navy2:#223458;--burg:#7a2e3a;--ink:#1b2130;--muted:#667085;--line:#e6e9f0;--bg:#f6f7fb;--card:#fff;--good:#1f7a4d;--warn:#b06a00;--bad:#a3212f;--accent:#3a5a9a}
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font:14px/1.5 -apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+  .wrap{max-width:1040px;margin:0 auto;padding:20px 18px 56px}
+  h1{font-size:20px;color:var(--navy);margin:0}
+  .sub{color:var(--muted);font-size:12.5px}
+  .kpis{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:16px}
+  @media(max-width:760px){.kpis{grid-template-columns:repeat(2,1fr)}}
+  .kpi{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+  .kpi.alert{border-color:#f2c9ce;background:#fff7f7}
+  .kpi.ok{border-color:#cfe8da;background:#f5fbf7}
+  .kpi .lab{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.4px}
+  .kpi .val{font-size:30px;font-weight:650;color:var(--navy);margin-top:4px}
+  .kpi.alert .val{color:var(--bad)} .kpi.ok .val{color:var(--good)}
+  .kpi .hint{font-size:11px;color:var(--muted);margin-top:2px}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:12px}
+  @media(max-width:760px){.grid2{grid-template-columns:1fr}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px;margin-top:12px}
+  .card h2{font-size:13.5px;margin:0 0 10px;color:var(--navy2)}
+  .chartbox{position:relative;height:230px}
+  table{width:100%;border-collapse:collapse;font-size:13px}
+  th,td{text-align:left;padding:7px 6px;border-bottom:1px solid var(--line)}
+  th{color:var(--muted);font-weight:600;font-size:11px;text-transform:uppercase;letter-spacing:.3px}
+  td.num,th.num{text-align:right;font-variant-numeric:tabular-nums}
+  .bar{height:8px;border-radius:4px;background:var(--accent)}
+  .tag{display:inline-block;font-size:11px;padding:1px 8px;border-radius:999px}
+  .t-ok{background:#e7f4ec;color:var(--good)} .t-bad{background:#fdecee;color:var(--bad)} .t-warn{background:#fff3e0;color:var(--warn)} .t-off{background:#eef2fa;color:var(--accent)}
+  .status{font-size:15px;font-weight:600;margin:14px 0 0;padding:10px 14px;border-radius:10px}
+  .status.red{background:#fff5f5;border:1px solid #f2c9ce;color:var(--bad)}
+  .status.green{background:#f2fbf6;border:1px solid #cfe8da;color:var(--good)}
+  .foot{margin-top:20px;font-size:11px;color:var(--muted)}
+  .err{display:none;background:#fff5f5;border:1px solid #f2c9ce;color:var(--bad);padding:10px 12px;border-radius:10px;margin-top:12px;font-size:12.5px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Painel de Leads — WhatsApp</h1>
+  <div class="sub">FG Advogados Associados · somente visualização · <span id="gerado">—</span></div>
+  <div id="err" class="err"></div>
+  <div id="status" class="status"></div>
+
+  <div class="kpis">
+    <div class="kpi" id="k1"><div class="lab">Leads recebidos hoje</div><div class="val" id="v_total">—</div><div class="hint" id="h_total">primeiro contato no dia</div></div>
+    <div class="kpi ok"><div class="lab">Dentro do SLA (≤15 min)</div><div class="val" id="v_sla">—</div><div class="hint" id="h_sla">% dos respondidos</div></div>
+    <div class="kpi alert"><div class="lab">Fora do SLA</div><div class="val" id="v_fora">—</div><div class="hint">demora > 15 min</div></div>
+    <div class="kpi alert"><div class="lab">Sem resposta</div><div class="val" id="v_sem">—</div><div class="hint">nenhum atendente ainda</div></div>
+  </div>
+
+  <div class="grid2">
+    <div class="card"><h2>Leads e tempo de resposta por atendente</h2>
+      <table id="tAtend"><thead><tr><th>Atendente</th><th class="num">Leads</th><th class="num">Tempo mediano</th><th style="width:30%">Volume</th></tr></thead><tbody></tbody></table>
+      <div class="sub" style="margin-top:6px">Tempo mediano de 1ª resposta (horário comercial). Fonte: 1ª mensagem do atendente por lead.</div>
+    </div>
+    <div class="card"><h2>Origem dos leads</h2><div class="chartbox"><canvas id="chOrigem"></canvas></div></div>
+  </div>
+
+  <div class="grid2">
+    <div class="card"><h2>Top criativos (anúncio Meta)</h2>
+      <table id="tCri"><thead><tr><th>Criativo</th><th class="num">Leads</th></tr></thead><tbody></tbody></table></div>
+    <div class="card"><h2>Leads por área</h2><div class="chartbox"><canvas id="chArea"></canvas></div></div>
+  </div>
+
+  <div class="card"><h2>⚠️ Sem resposta — resgate imediato</h2>
+    <table id="tSem"><thead><tr><th>Nome</th><th>Telefone</th><th>1º contato</th><th>Área</th></tr></thead><tbody></tbody></table></div>
+
+  <div class="card"><h2>⏱️ Fora do SLA (demora acima de 15 min)</h2>
+    <table id="tForaTbl"><thead><tr><th>Nome</th><th>Telefone</th><th>1º contato</th><th class="num">Espera</th><th>Atendente</th></tr></thead><tbody></tbody></table></div>
+
+  <div class="foot">
+    Dados do dia de referência, gerados a partir do DigiSac. Telefones mascarados (LGPD). Conversão para cliente não é medida aqui.
+    Página apenas de visualização — atualiza quando o gerador (GitHub Actions/n8n) regrava <code>data.json</code>.
+  </div>
+</div>
+<script>
+const $=id=>document.getElementById(id);
+const fmt=n=>(n==null||isNaN(n))?"—":Number(n).toLocaleString("pt-BR");
+const minLabel=m=>m==null?"—":(m<60?m+" min":(m/60).toFixed(1).replace(".",",")+" h");
+function bar(id,labels,data,colors){new Chart($(id),{type:"doughnut",data:{labels,datasets:[{data,backgroundColor:colors||["#3a5a9a","#7a2e3a","#b06a00","#1f7a4d","#667085"]}]},options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{position:"right",labels:{boxWidth:12,font:{size:11}}}}}});}
+fetch("./data.json?_="+Date.now()).then(r=>r.json()).then(render).catch(e=>{$("err").style.display="block";$("err").textContent="Não foi possível carregar data.json: "+e;});
+function render(d){
+  $("gerado").textContent="atualizado em "+d.gerado_em+" · ref "+d.data_ref+" · SLA "+d.sla_min+" min";
+  const k=d.kpi;
+  $("v_total").textContent=fmt(k.total);
+  $("h_total").textContent="primeiro contato no dia · "+fmt(k.fora_horario)+" fora de horário";
+  $("v_sla").textContent=k.pct_sla+"%"; $("h_sla").textContent=fmt(k.no_sla)+" de "+fmt(k.no_sla+k.fora_sla)+" respondidos · mediana "+minLabel(k.mediana_geral);
+  $("v_fora").textContent=fmt(k.fora_sla);
+  $("v_sem").textContent=fmt(k.sem_resposta);
+  const alerta=k.sem_resposta>0||k.fora_sla>k.no_sla;
+  $("status").className="status "+(alerta?"red":"green");
+  $("status").textContent=alerta?`🔴 Atenção: ${k.sem_resposta} sem resposta e ${k.fora_sla} fora do SLA de ${d.sla_min} min.`:`🟢 Atendimento em dia — ${k.pct_sla}% dentro do SLA.`;
+  const max=Math.max(1,...d.atendentes.map(a=>a.leads));
+  $("tAtend").querySelector("tbody").innerHTML=d.atendentes.map(a=>`<tr><td>${a.nome}</td><td class="num">${fmt(a.leads)}</td><td class="num">${minLabel(a.mediana_min)}</td><td><div class="bar" style="width:${Math.round(100*a.leads/max)}%"></div></td></tr>`).join("");
+  bar("chOrigem",Object.keys(d.origem),Object.values(d.origem),["#3a5a9a","#7a2e3a"]);
+  $("tCri").querySelector("tbody").innerHTML=d.criativos.map(c=>`<tr><td style="font-size:12px">${c.url}</td><td class="num">${fmt(c.leads)}</td></tr>`).join("")||"<tr><td colspan=2>—</td></tr>";
+  bar("chArea",Object.keys(d.areas),Object.values(d.areas));
+  $("tSem").querySelector("tbody").innerHTML=d.sem_resposta_lista.map(x=>`<tr><td>${x.nome}</td><td>${x.tel}</td><td>${x.criado}</td><td>${x.area}</td></tr>`).join("")||"<tr><td colspan=4>Nenhum — ótimo.</td></tr>";
+  $("tForaTbl").querySelector("tbody").innerHTML=d.fora_sla_lista.map(x=>`<tr><td>${x.nome}</td><td>${x.tel}</td><td>${x.criado}</td><td class="num">${minLabel(x.espera_min)}</td><td>${x.atendente}</td></tr>`).join("")||"<tr><td colspan=5>Nenhum.</td></tr>";
+}
+</script>
+</body>
+</html>

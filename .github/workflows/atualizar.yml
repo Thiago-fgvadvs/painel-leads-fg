@@ -1,0 +1,43 @@
+name: Atualizar painel de leads
+
+# Regenera data.json a partir da API DigiSac e publica no GitHub Pages.
+# O token fica em Settings > Secrets and variables > Actions > DIGISAC_TOKEN
+# (NUNCA no código). Cron em UTC; 11–23 UTC ≈ 08–20 em São Paulo.
+
+on:
+  schedule:
+    - cron: "*/15 11-23 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Gerar data.json
+        env:
+          DIGISAC_TOKEN: ${{ secrets.DIGISAC_TOKEN }}
+          DIGISAC_BASE_URL: ${{ vars.DIGISAC_BASE_URL }}
+          SLA_MIN: "15"
+        run: node generate.mjs
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+      - id: deploy
+        uses: actions/deploy-pages@v4
