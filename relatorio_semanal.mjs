@@ -53,18 +53,20 @@ async function main() {
   let leads = [], p = 1, l = 1;
   do { const r = await api("/contacts", { perPage: 500, page: p, "where[isGroup]": false, "where[hadChat]": true, "where[createdAt][$gte]": fromISO, "where[createdAt][$lte]": toISO }); leads.push(...rows(r)); l = r.lastPage || 1; p++; } while (p <= l && p <= 3);
   const amostraLeads = leads.slice(0, 400);
-  const recs = amostraLeads.map(c => ({ c, fc: Date.parse(c.createdAt), fu: null, uid: null, ad: null, texts: [], lastMsg: null }));
+  const recs = amostraLeads.map(c => ({ c, fc: Date.parse(c.createdAt), fu: null, uid: null, ad: null, texts: [], lastMsg: null, lastOrigin: null }));
   for (let i = 0; i < recs.length; i += 20) {
     const lote = recs.slice(i, i + 20); const where = {}; lote.forEach((r, j) => where[`where[contactId][$in][${j}]`] = r.c.id);
     let mp = 1, ml = 1;
-    do { const r = await api("/messages", { perPage: 500, page: mp, "order[0][0]": "timestamp", "order[0][1]": "ASC", ...where }); for (const m of rows(r)) { if (m.type === "ticket") continue; const rc = recs.find(x => x.c.id === m.contactId); if (!rc) continue; if (m.origin === "user") { const t = Date.parse(m.timestamp); if (!rc.fu || t < rc.fu) { rc.fu = t; rc.uid = m.userId; } } else if (!m.isFromMe && !m.isFromBot) { if (m.text && rc.texts.length < 4) rc.texts.push(m.text); if (m.text) rc.lastMsg = m.text; const cw = m.data?.ctwaContext?.sourceUrl; if (cw && !rc.ad) rc.ad = cw.replace(/^https?:\/\//, ""); } } ml = r.lastPage || 1; mp++; } while (mp <= ml && mp <= 2);
+    do { const r = await api("/messages", { perPage: 500, page: mp, "order[0][0]": "timestamp", "order[0][1]": "ASC", ...where }); for (const m of rows(r)) { if (m.type === "ticket") continue; const rc = recs.find(x => x.c.id === m.contactId); if (!rc) continue; if (m.origin === "user") { const t = Date.parse(m.timestamp); if (!rc.fu || t < rc.fu) { rc.fu = t; rc.uid = m.userId; } } else if (!m.isFromMe && !m.isFromBot) { if (m.text && rc.texts.length < 4) rc.texts.push(m.text); if (m.text) rc.lastMsg = m.text; const cw = m.data?.ctwaContext?.sourceUrl; if (cw && !rc.ad) rc.ad = cw.replace(/^https?:\/\//, ""); } rc.lastOrigin = m.origin === "user" ? "user" : "cliente"; } ml = r.lastPage || 1; mp++; } while (mp <= ml && mp <= 2);
   }
   const waits = [], perAt = {}, crit = {}, areas = {}, pendLeads = []; let anuncio = 0, sem = 0, nosla = 0, fora = 0, offh = 0;
   for (const r of recs) {
     const area = areaOf(r.texts.join(" ")); areas[area] = (areas[area] || 0) + 1;
     if (r.ad) { anuncio++; crit[r.ad] = (crit[r.ad] || 0) + 1; }
-    if (r.fu == null) { sem++; pendLeads.push({ nome: r.c.name || "(sem nome)", tel: r.c.data?.number || r.c.number, dia: diaMes(new Date(r.fc)), ts: r.fc, msg: (r.lastMsg || "(mídia/sem texto)").slice(0, 90) }); }
-    else { const w = Math.round((r.fu - r.fc) / 6000) / 10; const nome = users[r.uid] || "—"; (perAt[nome] ??= { n: 0, w: [] }).n++; if (biz(r.fc)) { waits.push(w); perAt[nome].w.push(w); if (w <= SLA) nosla++; else fora++; } else offh++; }
+    // Sem resposta = nunca houve resposta humana E o ticket AINDA está aberto; encerrado = resolvido.
+    const pend = !!r.c.currentTicketId && r.fu == null;
+    if (pend) { sem++; pendLeads.push({ nome: r.c.name || "(sem nome)", tel: r.c.data?.number || r.c.number, dia: diaMes(new Date(r.fc)), ts: r.fc, msg: (r.lastMsg || "(mídia/sem texto)").slice(0, 90) }); }
+    if (r.fu != null) { const w = Math.round((r.fu - r.fc) / 6000) / 10; const nome = users[r.uid] || "—"; (perAt[nome] ??= { n: 0, w: [] }).n++; if (biz(r.fc)) { waits.push(w); perAt[nome].w.push(w); if (w <= SLA) nosla++; else fora++; } else offh++; }
   }
   pendLeads.sort((a, b) => a.ts - b.ts);
   const resp = nosla + fora;

@@ -1,28 +1,33 @@
 {
- "gerado_em": "14/07/2026, 10:31",
+ "gerado_em": "14/07/2026, 11:07",
  "data_ref": "14/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 28,
-  "no_sla": 4,
-  "fora_sla": 3,
-  "sem_resposta": 11,
+  "total": 32,
+  "no_sla": 5,
+  "fora_sla": 5,
+  "sem_resposta": 9,
   "fora_horario": 10,
-  "pct_sla": 57,
-  "mediana_geral": 11.5,
-  "leads_7d": 225,
-  "tickets_abertos": 179,
+  "pct_sla": 50,
+  "mediana_geral": 14.9,
+  "leads_7d": 229,
+  "tickets_abertos": 187,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 17,
-   "mediana_min": 11.5
+   "leads": 18,
+   "mediana_min": 9.7
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 2,
+   "mediana_min": 19.5
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 26,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -32,39 +37,45 @@
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 3
+   "leads": 4
+  },
+  {
+   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "url": "fb.me/3XGIUGElT",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "url": "www.instagram.com/p/DaVuNbaM1sG/",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
    "leads": 1
   },
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 1
-  },
-  {
-   "url": "fb.me/69fxJ9cYA",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/k186mT53Y",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 10,
   "Nao identificada": 18,
-  "Trabalhista": 6,
   "Previdenciario": 4
  },
  "sem_resposta_lista": [
+  {
+   "nome": "554499927955",
+   "tel": "5544*****955",
+   "criado": "10:36",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Alfredo",
    "tel": "5569*****866",
@@ -112,39 +123,35 @@
    "tel": "5511*****888",
    "criado": "21:27",
    "area": "Previdenciario"
-  },
-  {
-   "nome": "559384181387",
-   "tel": "5593*****387",
-   "criado": "08:27",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "559784289269",
-   "tel": "5597*****269",
-   "criado": "08:12",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "554196451696",
-   "tel": "5541*****696",
-   "criado": "04:58",
-   "area": "Nao identificada"
   }
  ],
  "fora_sla_lista": [
   {
-   "nome": "Renata",
-   "tel": "5537*****177",
-   "criado": "08:00",
-   "espera_min": 125.6,
-   "atendente": "Eduardo"
+   "nome": "Deus Cuida De Mim 🥰",
+   "tel": "5522*****711",
+   "criado": "10:43",
+   "espera_min": 20.9,
+   "atendente": "Tiago Bernardo"
+  },
+  {
+   "nome": "Wl",
+   "tel": "5521*****326",
+   "criado": "10:45",
+   "espera_min": 18.2,
+   "atendente": "Tiago Bernardo"
   },
   {
    "nome": "Wesley",
    "tel": "5591*****613",
    "criado": "09:28",
    "espera_min": 36.2,
+   "atendente": "Eduardo"
+  },
+  {
+   "nome": "Renata",
+   "tel": "5537*****177",
+   "criado": "08:00",
+   "espera_min": 125.6,
    "atendente": "Eduardo"
   },
   {
@@ -157,21 +164,21 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 131,
-  "turnos": 403,
-  "respondidos": 333,
+  "grupos_ativos": 134,
+  "turnos": 416,
+  "respondidos": 346,
   "sem_resposta": 70,
   "sem_resposta_grupos": 70,
-  "mediana_min": 39.7,
+  "mediana_min": 41,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 149,
-    "mediana_min": 83.1
+    "respostas": 159,
+    "mediana_min": 85
    },
    {
     "nome": "Nicolas",
-    "respostas": 95,
+    "respostas": 97,
     "mediana_min": 20.7
    },
    {
@@ -196,8 +203,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 4,
-    "mediana_min": 42.8
+    "respostas": 5,
+    "mediana_min": 85.6
    },
    {
     "nome": "Tiago Bernardo",
@@ -212,16 +219,64 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "14/07",
+    "desde": "11:04",
+    "ts": 1784037871512
+   },
+   {
+    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
+    "dia": "14/07",
+    "desde": "11:01",
+    "ts": 1784037662505
+   },
+   {
+    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
+    "dia": "14/07",
+    "desde": "10:58",
+    "ts": 1784037505497
+   },
+   {
     "grupo": "C.M.D.S.A.B.D.E.P.A.D",
     "dia": "14/07",
-    "desde": "09:44",
-    "ts": 1784033093411
+    "desde": "10:59",
+    "ts": 1784037575515
+   },
+   {
+    "grupo": "R.D.C.D.B x TCM SERVICOS DE LIMPEZA E CONSERVACAO LTDA",
+    "dia": "14/07",
+    "desde": "10:42",
+    "ts": 1784036544490
+   },
+   {
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "dia": "14/07",
+    "desde": "10:54",
+    "ts": 1784037288493
+   },
+   {
+    "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
+    "dia": "14/07",
+    "desde": "10:45",
+    "ts": 1784036758479
    },
    {
     "grupo": "W.O.V x INSS",
     "dia": "14/07",
     "desde": "10:28",
     "ts": 1784035692464
+   },
+   {
+    "grupo": "G.D.F.F x R G DE ASSIS LTDA",
+    "dia": "14/07",
+    "desde": "10:37",
+    "ts": 1784036233467
+   },
+   {
+    "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
+    "dia": "14/07",
+    "desde": "10:35",
+    "ts": 1784036110483
    },
    {
     "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
@@ -252,12 +307,6 @@
     "dia": "14/07",
     "desde": "10:09",
     "ts": 1784034577442
-   },
-   {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
-    "dia": "10/07",
-    "desde": "12:52",
-    "ts": 1783698724330
    },
    {
     "grupo": "K.D.P.N x IN HAUS INDUSTRIAL E SERVICOS DE LOGISTICA S A",
@@ -308,12 +357,6 @@
     "ts": 1784028821339
    },
    {
-    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
-    "dia": "14/07",
-    "desde": "07:19",
-    "ts": 1784024384320
-   },
-   {
     "grupo": "W.D.G.D.S x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
     "dia": "13/07",
     "desde": "20:23",
@@ -324,12 +367,6 @@
     "dia": "13/07",
     "desde": "19:05",
     "ts": 1783980312301
-   },
-   {
-    "grupo": "F.D.L.B.D.O x CASA DE SAUDE SANTA MARCELINA",
-    "dia": "13/07",
-    "desde": "18:35",
-    "ts": 1783978559287
    },
    {
     "grupo": "S.D.O.P x RN PNEUS LTDA",
@@ -392,12 +429,6 @@
     "ts": 1783694932227
    },
    {
-    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
-    "dia": "13/07",
-    "desde": "16:53",
-    "ts": 1783972399203
-   },
-   {
     "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
     "dia": "13/07",
     "desde": "16:54",
@@ -416,28 +447,10 @@
     "ts": 1783968497120
    },
    {
-    "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
-    "dia": "13/07",
-    "desde": "15:32",
-    "ts": 1783967522117
-   },
-   {
     "grupo": "T.D.S.C x AMAZON SERVICOS DE VAREJO DO BRASIL LTDA",
     "dia": "13/07",
     "desde": "11:00",
     "ts": 1783951243866
-   },
-   {
-    "grupo": "A.C.B.M x INSS",
-    "dia": "13/07",
-    "desde": "12:09",
-    "ts": 1783955342941
-   },
-   {
-    "grupo": "P.L.R.J",
-    "dia": "13/07",
-    "desde": "11:31",
-    "ts": 1783953078893
    },
    {
     "grupo": "N.J.D.S.M x SAVANEGO SUPERMERCADOS LTDA",
@@ -468,12 +481,6 @@
     "dia": "10/07",
     "desde": "18:25",
     "ts": 1783718722608
-   },
-   {
-    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
-    "dia": "10/07",
-    "desde": "17:39",
-    "ts": 1783715994558
    },
    {
     "grupo": "N x Fundação Bradesco ",
@@ -637,34 +644,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Farima Lemos",
-    "tel": "5585*****185",
-    "dia": "08/07",
-    "desde": "15:23",
-    "ts": 1783534993215
-   },
-   {
-    "nome": "Cyn ❤️🤍💛🧡",
-    "tel": "5521*****529",
-    "dia": "10/07",
-    "desde": "20:49",
-    "ts": 1783727389617
-   },
-   {
-    "nome": "Noelio",
-    "tel": "5511*****292",
-    "dia": "10/07",
-    "desde": "20:58",
-    "ts": 1783727919016
-   },
-   {
-    "nome": "Mikaela Vilela",
-    "tel": "5511*****227",
-    "dia": "11/07",
-    "desde": "23:23",
-    "ts": 1783823001936
-   },
-   {
     "nome": "Nilda 💞",
     "tel": "5511*****026",
     "dia": "12/07",
@@ -728,13 +707,6 @@
     "ts": 1784006896993
    },
    {
-    "nome": "554196451696",
-    "tel": "5541*****696",
-    "dia": "14/07",
-    "desde": "04:58",
-    "ts": 1784015936449
-   },
-   {
     "nome": "🌻Yane🌻😎",
     "tel": "5541*****797",
     "dia": "14/07",
@@ -749,18 +721,11 @@
     "ts": 1784026350371
    },
    {
-    "nome": "559784289269",
-    "tel": "5597*****269",
+    "nome": "554499927955",
+    "tel": "5544*****955",
     "dia": "14/07",
-    "desde": "08:12",
-    "ts": 1784027552426
-   },
-   {
-    "nome": "559384181387",
-    "tel": "5593*****387",
-    "dia": "14/07",
-    "desde": "08:27",
-    "ts": 1784028443012
+    "desde": "10:36",
+    "ts": 1784036206279
    }
   ],
   "grupos": [
@@ -909,12 +874,6 @@
     "ts": 1783696873278
    },
    {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
-    "dia": "10/07",
-    "desde": "12:52",
-    "ts": 1783698724330
-   },
-   {
     "grupo": "Á.C",
     "dia": "10/07",
     "desde": "13:19",
@@ -943,12 +902,6 @@
     "dia": "10/07",
     "desde": "17:24",
     "ts": 1783715051559
-   },
-   {
-    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
-    "dia": "10/07",
-    "desde": "17:39",
-    "ts": 1783715994558
    },
    {
     "grupo": "K.G.D.S.C x CENTRAL IT TECNOLOGIA DA INFORMACAO S/A",
@@ -987,34 +940,10 @@
     "ts": 1783951243866
    },
    {
-    "grupo": "P.L.R.J",
-    "dia": "13/07",
-    "desde": "11:31",
-    "ts": 1783953078893
-   },
-   {
-    "grupo": "A.C.B.M x INSS",
-    "dia": "13/07",
-    "desde": "12:09",
-    "ts": 1783955342941
-   },
-   {
-    "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
-    "dia": "13/07",
-    "desde": "15:32",
-    "ts": 1783967522117
-   },
-   {
     "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
     "dia": "13/07",
     "desde": "15:48",
     "ts": 1783968497120
-   },
-   {
-    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
-    "dia": "13/07",
-    "desde": "16:53",
-    "ts": 1783972399203
    },
    {
     "grupo": "R.D.S.C x FUNDACAO JOSE SILVEIRA",
@@ -1077,12 +1006,6 @@
     "ts": 1783977895288
    },
    {
-    "grupo": "F.D.L.B.D.O x CASA DE SAUDE SANTA MARCELINA",
-    "dia": "13/07",
-    "desde": "18:35",
-    "ts": 1783978559287
-   },
-   {
     "grupo": "L.M x F B Dos Reis ",
     "dia": "13/07",
     "desde": "19:05",
@@ -1093,12 +1016,6 @@
     "dia": "13/07",
     "desde": "20:23",
     "ts": 1783984980316
-   },
-   {
-    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
-    "dia": "14/07",
-    "desde": "07:19",
-    "ts": 1784024384320
    },
    {
     "grupo": "B.K.D.S x HOSPLOG LOGISTICA LTDA",
@@ -1135,12 +1052,6 @@
     "dia": "14/07",
     "desde": "09:40",
     "ts": 1784032801404
-   },
-   {
-    "grupo": "C.M.D.S.A.B.D.E.P.A.D",
-    "dia": "14/07",
-    "desde": "09:44",
-    "ts": 1784033093411
    },
    {
     "grupo": "K.D.P.N x IN HAUS INDUSTRIAL E SERVICOS DE LOGISTICA S A",
@@ -1183,16 +1094,113 @@
     "dia": "14/07",
     "desde": "10:28",
     "ts": 1784035692464
+   },
+   {
+    "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
+    "dia": "14/07",
+    "desde": "10:35",
+    "ts": 1784036110483
+   },
+   {
+    "grupo": "G.D.F.F x R G DE ASSIS LTDA",
+    "dia": "14/07",
+    "desde": "10:37",
+    "ts": 1784036233467
+   },
+   {
+    "grupo": "R.D.C.D.B x TCM SERVICOS DE LIMPEZA E CONSERVACAO LTDA",
+    "dia": "14/07",
+    "desde": "10:42",
+    "ts": 1784036544490
+   },
+   {
+    "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
+    "dia": "14/07",
+    "desde": "10:45",
+    "ts": 1784036758479
+   },
+   {
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "dia": "14/07",
+    "desde": "10:54",
+    "ts": 1784037288493
+   },
+   {
+    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
+    "dia": "14/07",
+    "desde": "10:58",
+    "ts": 1784037505497
+   },
+   {
+    "grupo": "C.M.D.S.A.B.D.E.P.A.D",
+    "dia": "14/07",
+    "desde": "10:59",
+    "ts": 1784037575515
+   },
+   {
+    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
+    "dia": "14/07",
+    "desde": "11:01",
+    "ts": 1784037662505
+   },
+   {
+    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "14/07",
+    "desde": "11:04",
+    "ts": 1784037871512
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 1,
+  "total": 7,
   "por_vendedor": {
+   "Tiago Bernardo": 6,
    "Eduardo": 1
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "E.N.S",
+    "dia": "14/07",
+    "hora": "10:38",
+    "ts": 1784036328207
+   },
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "A.L",
+    "dia": "14/07",
+    "hora": "10:37",
+    "ts": 1784036263226
+   },
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "S",
+    "dia": "14/07",
+    "hora": "10:37",
+    "ts": 1784036238671
+   },
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "T.H",
+    "dia": "14/07",
+    "hora": "10:37",
+    "ts": 1784036221898
+   },
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "L",
+    "dia": "14/07",
+    "hora": "10:36",
+    "ts": 1784036174013
+   },
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "B",
+    "dia": "14/07",
+    "hora": "10:36",
+    "ts": 1784036160560
+   },
    {
     "vendedor": "Eduardo",
     "cliente": "D",
@@ -1203,6 +1211,39 @@
   ]
  },
  "leads": [
+  {
+   "nome": "luz fé ação",
+   "tel": "5522*****529",
+   "criado": "06:40",
+   "atendente": "Eduardo",
+   "espera_min": 208,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Deus Cuida De Mim 🥰",
+   "tel": "5522*****711",
+   "criado": "10:43",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 20.9,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Wl",
+   "tel": "5521*****326",
+   "criado": "10:45",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 18.2,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "RAFAELA POSSIVEL CLIENTE",
    "tel": "5511*****920",
@@ -1215,15 +1256,37 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "ANDRE MARTINS",
-   "tel": "5511*****175",
-   "criado": "10:20",
+   "nome": "Daniela",
+   "tel": "5511*****144",
+   "criado": "10:53",
    "atendente": "Eduardo",
-   "espera_min": 0.3,
+   "espera_min": 7.8,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "origem": "Anuncio",
+   "criativo": "fb.me/3XGIUGElT",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554499927955",
+   "tel": "5544*****955",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Wesley",
+   "tel": "5591*****613",
+   "criado": "09:28",
+   "atendente": "Eduardo",
+   "espera_min": 36.2,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Pedagogia 🦉❤️",
@@ -1234,6 +1297,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "ANDRE MARTINS",
+   "tel": "5511*****175",
+   "criado": "10:20",
+   "atendente": "Eduardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   },
   {
@@ -1303,17 +1377,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "luz fé ação",
-   "tel": "5522*****529",
-   "criado": "06:40",
-   "atendente": "Eduardo",
-   "espera_min": 208,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "🙂",
    "tel": "5591*****604",
    "criado": "09:59",
@@ -1356,17 +1419,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Wesley",
-   "tel": "5591*****613",
-   "criado": "09:28",
-   "atendente": "Eduardo",
-   "espera_min": 36.2,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Ketlin Vitória Santos",
@@ -1484,7 +1536,7 @@
    "criado": "08:27",
    "atendente": "—",
    "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "status": "RESOLVIDO",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
@@ -1495,7 +1547,7 @@
    "criado": "08:12",
    "atendente": "—",
    "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "status": "RESOLVIDO",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
@@ -1506,7 +1558,7 @@
    "criado": "04:58",
    "atendente": "—",
    "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "status": "RESOLVIDO",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"

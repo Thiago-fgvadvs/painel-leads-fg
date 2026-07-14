@@ -50,7 +50,7 @@ async function main() {
   // leads de hoje
   let leads = [], page = 1, last = 1;
   do { const r = await api("/contacts", { perPage: 500, page, "where[isGroup]": false, "where[hadChat]": true, "where[createdAt][$gte]": `${today}T00:00:00.000Z` }); leads.push(...rows(r)); last = r.lastPage || 1; page++; } while (page <= last && page <= 6);
-  const recs = leads.map(c => ({ c, firstUser: null, uid: null, ad: null, texts: [] }));
+  const recs = leads.map(c => ({ c, firstUser: null, uid: null, ad: null, texts: [], lastOrigin: null }));
   for (let i = 0; i < recs.length; i += 20) {
     const batch = recs.slice(i, i + 20); const where = {}; batch.forEach((r, j) => where[`where[contactId][$in][${j}]`] = r.c.id);
     let mp = 1, ml = 1;
@@ -61,6 +61,7 @@ async function main() {
         const rec = recs.find(x => x.c.id === m.contactId); if (!rec) continue;
         if (m.origin === "user") { const ts = Date.parse(m.timestamp); if (!rec.firstUser || ts < rec.firstUser) { rec.firstUser = ts; rec.uid = m.userId; } }
         else if (!m.isFromMe && !m.isFromBot) { if (m.text && rec.texts.length < 4) rec.texts.push(m.text); const cw = m.data?.ctwaContext?.sourceUrl; if (cw && !rec.ad) rec.ad = cw.replace(/^https?:\/\//, ""); }
+        rec.lastOrigin = m.origin === "user" ? "user" : "cliente";
       }
       ml = r.lastPage || 1; mp++;
     } while (mp <= ml && mp <= 3);
@@ -68,7 +69,8 @@ async function main() {
   const L = recs.map(r => {
     const created = Date.parse(r.c.createdAt); const { biz } = spHourDow(new Date(created));
     const wait = r.firstUser ? Math.round((r.firstUser - created) / 6000) / 10 : null;
-    let status = !r.firstUser ? "SEM_RESPOSTA" : (!biz ? "FORA_HORARIO" : (wait <= SLA_MIN ? "NO_SLA" : "FORA_SLA"));
+    // Sem resposta só se nunca houve resposta humana E o ticket AINDA está aberto; encerrado = resolvido.
+    let status = r.firstUser ? (!biz ? "FORA_HORARIO" : (wait <= SLA_MIN ? "NO_SLA" : "FORA_SLA")) : (r.c.currentTicketId ? "SEM_RESPOSTA" : "RESOLVIDO");
     return { nome: r.c.name || "(sem nome)", tel: mask(r.c.data?.number || r.c.number), criado: hhmm(new Date(created)), atendente: r.uid ? (users[r.uid] || "—") : "—", espera_min: wait, status, origem: r.ad ? "Anuncio" : "Direto/Indicacao", criativo: r.ad, area: areaOf(r.texts.join(" ")) };
   });
   const per = {}, waits = [];
@@ -121,10 +123,10 @@ async function main() {
   // ---- FILA DE PENDÊNCIAS: leads dos últimos 7 dias SEM resposta humana ----
   let leads7dAll = [], lp = 1, ll = 1;
   do { const r = await api("/contacts", { perPage: 500, page: lp, "where[isGroup]": false, "where[hadChat]": true, "where[createdAt][$gte]": d7ISO }); leads7dAll.push(...rows(r)); ll = r.lastPage || 1; lp++; } while (lp <= ll && lp <= 3);
-  leads7dAll = leads7dAll.slice(0, 400);
+  const openLeads = leads7dAll.filter(c => c.currentTicketId).slice(0, 400);
   const pendLeads = [];
-  for (let i = 0; i < leads7dAll.length; i += 20) {
-    const lote = leads7dAll.slice(i, i + 20); const where = {}; lote.forEach((c, j) => where[`where[contactId][$in][${j}]`] = c.id);
+  for (let i = 0; i < openLeads.length; i += 20) {
+    const lote = openLeads.slice(i, i + 20); const where = {}; lote.forEach((c, j) => where[`where[contactId][$in][${j}]`] = c.id);
     const hasUser = {};
     let mp = 1, ml = 1;
     do { const r = await api("/messages", { perPage: 500, page: mp, "order[0][0]": "timestamp", "order[0][1]": "ASC", ...where }); for (const m of rows(r)) { if (m.origin === "user") hasUser[m.contactId] = true; } ml = r.lastPage || 1; mp++; } while (mp <= ml && mp <= 2);
