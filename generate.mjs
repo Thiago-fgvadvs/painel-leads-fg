@@ -102,7 +102,8 @@ async function main() {
         if (cli) { if (awaiting == null) awaiting = Date.parse(m.timestamp); }
         else if (m.origin === "user" && awaiting != null) { gturns.push({ min: Math.round((Date.parse(m.timestamp) - awaiting) / 6000) / 10, uid: m.userId }); awaiting = null; }
       }
-      if (awaiting != null) { gturns.push({ min: null, uid: null }); gUnanswered.push({ grupo: initials(g.name), dia: diaMes(new Date(awaiting)), desde: hhmm(new Date(awaiting)), ts: awaiting }); }
+      // Só é pendência se o ticket do grupo ainda estiver ABERTO (currentTicketId!=null); encerrado = resolvido.
+      if (awaiting != null && g.currentTicketId) { gturns.push({ min: null, uid: null }); gUnanswered.push({ grupo: initials(g.name), dia: diaMes(new Date(awaiting)), desde: hhmm(new Date(awaiting)), ts: awaiting }); }
     }
   }
   const gResp = gturns.filter(t => t.min != null);
