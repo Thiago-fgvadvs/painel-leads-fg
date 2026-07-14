@@ -83,8 +83,9 @@
     <div class="card"><h2>Leads por área</h2><div class="chartbox"><canvas id="chArea"></canvas></div></div>
   </div>
 
-  <div class="card"><h2>⚠️ Sem resposta — resgate imediato</h2>
-    <table id="tSem"><thead><tr><th>Nome</th><th>Telefone</th><th>1º contato</th><th>Área</th></tr></thead><tbody></tbody></table></div>
+  <div class="card" style="border-color:#f2c9ce;background:#fff7f7"><h2 style="color:var(--bad)">⚠️ Fila de pendências — leads SEM resposta (7 dias) · <span id="p_leadsn">—</span></h2>
+    <table id="tSem"><thead><tr><th>Nome</th><th>Telefone</th><th>Sem resposta desde</th></tr></thead><tbody></tbody></table>
+    <div class="sub" style="margin-top:6px">Leads sem nenhuma resposta humana nos últimos 7 dias — do mais antigo (crítico) ao mais novo. Telefone mascarado (LGPD).</div></div>
 
   <div class="card"><h2>⏱️ Fora do SLA (demora acima de 15 min)</h2>
     <table id="tForaTbl"><thead><tr><th>Nome</th><th>Telefone</th><th>1º contato</th><th class="num">Espera</th><th>Atendente</th></tr></thead><tbody></tbody></table></div>
@@ -137,7 +138,9 @@ function render(d){
   bar("chOrigem",Object.keys(d.origem),Object.values(d.origem),["#3a5a9a","#7a2e3a"]);
   $("tCri").querySelector("tbody").innerHTML=d.criativos.map(c=>`<tr><td style="font-size:12px">${c.url}</td><td class="num">${fmt(c.leads)}</td></tr>`).join("")||"<tr><td colspan=2>—</td></tr>";
   bar("chArea",Object.keys(d.areas),Object.values(d.areas));
-  $("tSem").querySelector("tbody").innerHTML=d.sem_resposta_lista.map(x=>`<tr><td>${x.nome}</td><td>${x.tel}</td><td>${x.criado}</td><td>${x.area}</td></tr>`).join("")||"<tr><td colspan=4>Nenhum — ótimo.</td></tr>";
+  const pl=(d.pendencias&&d.pendencias.leads)||[];
+  $("p_leadsn").textContent=fmt(pl.length);
+  $("tSem").querySelector("tbody").innerHTML=pl.map(x=>`<tr><td>${x.nome}</td><td>${x.tel}</td><td>${x.dia} ${x.desde||""}</td></tr>`).join("")||"<tr><td colspan=3>Nenhum — ótimo.</td></tr>";
   $("tForaTbl").querySelector("tbody").innerHTML=d.fora_sla_lista.map(x=>`<tr><td>${x.nome}</td><td>${x.tel}</td><td>${x.criado}</td><td class="num">${minLabel(x.espera_min)}</td><td>${x.atendente}</td></tr>`).join("")||"<tr><td colspan=5>Nenhum.</td></tr>";
   const j=d.juridico;
   if(j){
@@ -148,9 +151,9 @@ function render(d){
     $("j_semg").textContent=fmt(j.sem_resposta_grupos)+" grupos aguardando";
     $("j_turnos").textContent=fmt(j.turnos);
     $("tJur").querySelector("tbody").innerHTML=(j.atendentes||[]).map(a=>`<tr><td>${a.nome}</td><td class="num">${fmt(a.respostas)}</td><td class="num">${minLabel(a.mediana_min)}</td></tr>`).join("")||"<tr><td colspan=3>—</td></tr>";
-    const sl=j.sem_resposta_lista||[];
-    $("j_semn").textContent=fmt(sl.length);
-    $("tJurSem").querySelector("tbody").innerHTML=sl.map(x=>`<tr><td>${x.grupo}</td><td>${x.desde||"—"}</td></tr>`).join("")||"<tr><td colspan=2>Nenhum grupo pendente — ótimo.</td></tr>";
+    const sg=(d.pendencias&&d.pendencias.grupos)||[];
+    $("j_semn").textContent=fmt(sg.length);
+    $("tJurSem").querySelector("tbody").innerHTML=sg.map(x=>`<tr><td>${x.grupo}</td><td>${(x.dia||"")+" "+(x.desde||"")}</td></tr>`).join("")||"<tr><td colspan=2>Nenhum grupo pendente — ótimo.</td></tr>";
   }
 }
 </script>

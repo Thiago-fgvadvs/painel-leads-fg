@@ -30,6 +30,7 @@ const mask = n => { const s = String(n || "").replace(/\D/g, ""); return s.lengt
 const spParts = d => new Intl.DateTimeFormat("pt-BR", { timeZone: TZ, weekday: "short", hour: "2-digit", minute: "2-digit", hour12: false }).formatToParts(d);
 function spHourDow(d) { const p = spParts(d); const h = +p.find(x => x.type === "hour").value; const wd = p.find(x => x.type === "weekday").value; const biz = !/sáb|dom/i.test(wd) && h >= 8 && h < 19; return { h, biz }; }
 const hhmm = d => new Intl.DateTimeFormat("pt-BR", { timeZone: TZ, hour: "2-digit", minute: "2-digit", hour12: false }).format(d);
+const diaMes = d => new Intl.DateTimeFormat("pt-BR", { timeZone: TZ, day: "2-digit", month: "2-digit" }).format(d);
 // pseudonimiza: "ANA PAULA GRACA x BRADESCO" -> "A.P.G x BRADESCO" (iniciais do cliente, mantém a parte adversa)
 const initials = name => {
   if (!name) return "—";
@@ -99,7 +100,7 @@ async function main() {
         if (cli) { if (awaiting == null) awaiting = Date.parse(m.timestamp); }
         else if (m.origin === "user" && awaiting != null) { gturns.push({ min: Math.round((Date.parse(m.timestamp) - awaiting) / 6000) / 10, uid: m.userId }); awaiting = null; }
       }
-      if (awaiting != null) { gturns.push({ min: null, uid: null }); gUnanswered.push({ grupo: initials(g.name), desde: hhmm(new Date(awaiting)) }); }
+      if (awaiting != null) { gturns.push({ min: null, uid: null }); gUnanswered.push({ grupo: initials(g.name), dia: diaMes(new Date(awaiting)), desde: hhmm(new Date(awaiting)), ts: awaiting }); }
     }
   }
   const gResp = gturns.filter(t => t.min != null);
@@ -117,6 +118,21 @@ async function main() {
   const leads7d = Number((await api("/contacts", { perPage: 1, "where[isGroup]": false, "where[hadChat]": true, "where[createdAt][$gte]": d7ISO }))?.total || 0);
   const ticketsAbertos = Number((await api("/tickets", { perPage: 1, "where[isOpen]": true }))?.total || 0);
 
+  // ---- FILA DE PENDÊNCIAS: leads dos últimos 7 dias SEM resposta humana ----
+  let leads7dAll = [], lp = 1, ll = 1;
+  do { const r = await api("/contacts", { perPage: 500, page: lp, "where[isGroup]": false, "where[hadChat]": true, "where[createdAt][$gte]": d7ISO }); leads7dAll.push(...rows(r)); ll = r.lastPage || 1; lp++; } while (lp <= ll && lp <= 3);
+  leads7dAll = leads7dAll.slice(0, 400);
+  const pendLeads = [];
+  for (let i = 0; i < leads7dAll.length; i += 20) {
+    const lote = leads7dAll.slice(i, i + 20); const where = {}; lote.forEach((c, j) => where[`where[contactId][$in][${j}]`] = c.id);
+    const hasUser = {};
+    let mp = 1, ml = 1;
+    do { const r = await api("/messages", { perPage: 500, page: mp, "order[0][0]": "timestamp", "order[0][1]": "ASC", ...where }); for (const m of rows(r)) { if (m.origin === "user") hasUser[m.contactId] = true; } ml = r.lastPage || 1; mp++; } while (mp <= ml && mp <= 2);
+    for (const c of lote) { if (!hasUser[c.id]) { const ts = Date.parse(c.createdAt); pendLeads.push({ nome: c.name || "(sem nome)", tel: mask(c.data?.number || c.number), dia: diaMes(new Date(ts)), desde: hhmm(new Date(ts)), ts }); } }
+  }
+  pendLeads.sort((a, b) => a.ts - b.ts); // mais antigo primeiro (mais crítico)
+  const pendGrupos = [...gUnanswered].sort((a, b) => (a.ts || 0) - (b.ts || 0));
+
   const out = {
     gerado_em: new Intl.DateTimeFormat("pt-BR", { timeZone: TZ, dateStyle: "short", timeStyle: "short" }).format(new Date()),
     data_ref: new Intl.DateTimeFormat("pt-BR", { timeZone: TZ, dateStyle: "short" }).format(new Date()), sla_min: SLA_MIN,
@@ -128,6 +144,7 @@ async function main() {
     sem_resposta_lista: L.filter(l => l.status === "SEM_RESPOSTA").map(l => ({ nome: l.nome, tel: l.tel, criado: l.criado, area: l.area })),
     fora_sla_lista: L.filter(l => l.status === "FORA_SLA").map(l => ({ nome: l.nome, tel: l.tel, criado: l.criado, espera_min: l.espera_min, atendente: l.atendente })),
     juridico,
+    pendencias: { dias: 7, leads: pendLeads, grupos: pendGrupos },
     leads: L,
   };
   writeFileSync(new URL("./data.json", import.meta.url), JSON.stringify(out, null, 1));
