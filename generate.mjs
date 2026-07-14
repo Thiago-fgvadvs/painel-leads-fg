@@ -133,6 +133,14 @@ async function main() {
   pendLeads.sort((a, b) => a.ts - b.ts); // mais antigo primeiro (mais crítico)
   const pendGrupos = [...gUnanswered].sort((a, b) => (a.ts || 0) - (b.ts || 0));
 
+  // ---- Contratos fechados (CRM · funil · status Ganho) nos últimos 7 dias ----
+  let wonCards = [], wcp = 1, wcl = 1;
+  do { const r = await api("/cards", { perPage: 500, page: wcp, "where[success]": "true", "where[finishedAt][$gte]": d7ISO, "order[0][0]": "finishedAt", "order[0][1]": "DESC" }); wonCards.push(...rows(r)); wcl = r.lastPage || 1; wcp++; } while (wcp <= wcl && wcp <= 5);
+  const wIds = [...new Set(wonCards.map(c => c.contactId).filter(Boolean))]; const wName = {};
+  for (let i = 0; i < wIds.length; i += 20) { const lote = wIds.slice(i, i + 20); if (!lote.length) break; const where = {}; lote.forEach((id, j) => where[`where[id][$in][${j}]`] = id); for (const c of rows(await api("/contacts", { perPage: 500, ...where }))) wName[c.id] = c.name; }
+  const contratosLista = wonCards.filter(c => c.finishedAt).map(c => ({ vendedor: users[c.ownerId] || "—", cliente: initials(wName[c.contactId] || "—"), dia: diaMes(new Date(c.finishedAt)), hora: hhmm(new Date(c.finishedAt)), ts: Date.parse(c.finishedAt) })).sort((a, b) => b.ts - a.ts);
+  const contratosPorVend = {}; contratosLista.forEach(x => { contratosPorVend[x.vendedor] = (contratosPorVend[x.vendedor] || 0) + 1; });
+
   const out = {
     gerado_em: new Intl.DateTimeFormat("pt-BR", { timeZone: TZ, dateStyle: "short", timeStyle: "short" }).format(new Date()),
     data_ref: new Intl.DateTimeFormat("pt-BR", { timeZone: TZ, dateStyle: "short" }).format(new Date()), sla_min: SLA_MIN,
@@ -145,6 +153,7 @@ async function main() {
     fora_sla_lista: L.filter(l => l.status === "FORA_SLA").map(l => ({ nome: l.nome, tel: l.tel, criado: l.criado, espera_min: l.espera_min, atendente: l.atendente })),
     juridico,
     pendencias: { dias: 7, leads: pendLeads, grupos: pendGrupos },
+    contratos: { dias: 7, total: contratosLista.length, por_vendedor: contratosPorVend, lista: contratosLista },
     leads: L,
   };
   writeFileSync(new URL("./data.json", import.meta.url), JSON.stringify(out, null, 1));
