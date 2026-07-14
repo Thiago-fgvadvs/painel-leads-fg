@@ -1,12 +1,12 @@
 {
- "gerado_em": "13/07/2026, 20:30",
+ "gerado_em": "13/07/2026, 21:13",
  "data_ref": "13/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
+  "total": 27,
   "no_sla": 9,
   "fora_sla": 11,
-  "sem_resposta": 4,
+  "sem_resposta": 5,
   "fora_horario": 2,
   "pct_sla": 45,
   "mediana_geral": 16.2
@@ -24,7 +24,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -41,6 +41,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/4EDzR2aSz",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 1
   },
@@ -55,18 +59,20 @@
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7lT4VOQ25",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 9,
   "Previdenciario": 5,
-  "Nao identificada": 13,
-  "Trabalhista": 8
+  "Nao identificada": 13
  },
  "sem_resposta_lista": [
+  {
+   "nome": "553192828970",
+   "tel": "5531*****970",
+   "criado": "21:09",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5514998556372",
    "tel": "5514*****372",
@@ -171,7 +177,74 @@
    "atendente": "Eduardo"
   }
  ],
+ "juridico": {
+  "dias": 7,
+  "grupos_ativos": 40,
+  "turnos": 151,
+  "respondidos": 127,
+  "sem_resposta": 24,
+  "sem_resposta_grupos": 24,
+  "mediana_min": 14.3,
+  "atendentes": [
+   {
+    "nome": "Julia",
+    "respostas": 63,
+    "mediana_min": 60.1
+   },
+   {
+    "nome": "Nicolas",
+    "respostas": 33,
+    "mediana_min": 15
+   },
+   {
+    "nome": "Luisa",
+    "respostas": 21,
+    "mediana_min": 1.3
+   },
+   {
+    "nome": "Thauany",
+    "respostas": 3,
+    "mediana_min": 0.8
+   },
+   {
+    "nome": "Eduardo",
+    "respostas": 3,
+    "mediana_min": 0.1
+   },
+   {
+    "nome": "Tiago Bernardo",
+    "respostas": 1,
+    "mediana_min": 582.6
+   },
+   {
+    "nome": "Roseli",
+    "respostas": 1,
+    "mediana_min": 1.1
+   },
+   {
+    "nome": "Gabrielle",
+    "respostas": 1,
+    "mediana_min": 3.2
+   },
+   {
+    "nome": "—",
+    "respostas": 1,
+    "mediana_min": 126.4
+   }
+  ]
+ },
  "leads": [
+  {
+   "nome": "553192828970",
+   "tel": "5531*****970",
+   "criado": "21:09",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
   {
    "nome": "🙏🙏",
    "tel": "5531*****833",

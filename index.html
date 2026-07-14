@@ -63,9 +63,9 @@
   </div>
 
   <div class="grid2">
-    <div class="card"><h2>Leads e tempo de resposta por atendente</h2>
+    <div class="card"><h2>Comercial — atendentes (leads)</h2>
       <table id="tAtend"><thead><tr><th>Atendente</th><th class="num">Leads</th><th class="num">Tempo mediano</th><th style="width:30%">Volume</th></tr></thead><tbody></tbody></table>
-      <div class="sub" style="margin-top:6px">Tempo mediano de 1ª resposta (horário comercial). Fonte: 1ª mensagem do atendente por lead.</div>
+      <div class="sub" style="margin-top:6px">Tempo mediano de 1ª resposta ao lead (horário comercial). Setor Comercial.</div>
     </div>
     <div class="card"><h2>Origem dos leads</h2><div class="chartbox"><canvas id="chOrigem"></canvas></div></div>
   </div>
@@ -81,6 +81,18 @@
 
   <div class="card"><h2>⏱️ Fora do SLA (demora acima de 15 min)</h2>
     <table id="tForaTbl"><thead><tr><th>Nome</th><th>Telefone</th><th>1º contato</th><th class="num">Espera</th><th>Atendente</th></tr></thead><tbody></tbody></table></div>
+
+  <h2 style="margin:22px 0 0;color:var(--navy)">Jurídico — grupos de processo (clientes)</h2>
+  <div class="kpis" style="margin-top:10px">
+    <div class="kpi"><div class="lab">Grupos ativos</div><div class="val" id="j_grupos">—</div><div class="hint" id="j_dias">últimos dias</div></div>
+    <div class="kpi"><div class="lab">Tempo mediano de resposta</div><div class="val" id="j_med">—</div><div class="hint">1ª resposta por turno do cliente</div></div>
+    <div class="kpi alert"><div class="lab">Turnos sem resposta</div><div class="val" id="j_sem">—</div><div class="hint" id="j_semg">grupos aguardando</div></div>
+    <div class="kpi"><div class="lab">Turnos analisados</div><div class="val" id="j_turnos">—</div><div class="hint">falas de cliente</div></div>
+  </div>
+  <div class="card"><h2>Jurídico — tempo de resposta por atendente (grupos)</h2>
+    <table id="tJur"><thead><tr><th>Atendente</th><th class="num">Respostas</th><th class="num">Tempo mediano</th></tr></thead><tbody></tbody></table>
+    <div class="sub" style="margin-top:6px">Turno = fala do cliente no grupo seguida da 1ª resposta humana. Amostra dos grupos mais ativos. A lista nominal de grupos sem resposta fica no painel interno (LGPD).</div>
+  </div>
 
   <div class="foot">
     Dados do dia de referência, gerados a partir do DigiSac. Telefones mascarados (LGPD). Conversão para cliente não é medida aqui.
@@ -111,6 +123,16 @@ function render(d){
   bar("chArea",Object.keys(d.areas),Object.values(d.areas));
   $("tSem").querySelector("tbody").innerHTML=d.sem_resposta_lista.map(x=>`<tr><td>${x.nome}</td><td>${x.tel}</td><td>${x.criado}</td><td>${x.area}</td></tr>`).join("")||"<tr><td colspan=4>Nenhum — ótimo.</td></tr>";
   $("tForaTbl").querySelector("tbody").innerHTML=d.fora_sla_lista.map(x=>`<tr><td>${x.nome}</td><td>${x.tel}</td><td>${x.criado}</td><td class="num">${minLabel(x.espera_min)}</td><td>${x.atendente}</td></tr>`).join("")||"<tr><td colspan=5>Nenhum.</td></tr>";
+  const j=d.juridico;
+  if(j){
+    $("j_grupos").textContent=fmt(j.grupos_ativos);
+    $("j_dias").textContent="últimos "+(j.dias||7)+" dias";
+    $("j_med").textContent=minLabel(j.mediana_min);
+    $("j_sem").textContent=fmt(j.sem_resposta);
+    $("j_semg").textContent=fmt(j.sem_resposta_grupos)+" grupos aguardando";
+    $("j_turnos").textContent=fmt(j.turnos);
+    $("tJur").querySelector("tbody").innerHTML=(j.atendentes||[]).map(a=>`<tr><td>${a.nome}</td><td class="num">${fmt(a.respostas)}</td><td class="num">${minLabel(a.mediana_min)}</td></tr>`).join("")||"<tr><td colspan=3>—</td></tr>";
+  }
 }
 </script>
 </body>

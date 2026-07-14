@@ -68,6 +68,41 @@ async function main() {
   const nosla = cnt("NO_SLA"), fora = cnt("FORA_SLA"), sem = cnt("SEM_RESPOSTA"), offh = cnt("FORA_HORARIO"), resp = nosla + fora;
   const crit = {}; L.forEach(l => { if (l.criativo) crit[l.criativo] = (crit[l.criativo] || 0) + 1; });
   const areas = {}; L.forEach(l => areas[l.area] = (areas[l.area] || 0) + 1);
+
+  // ---- Jurídico: grupos de processo (últimos 7 dias) ----
+  const GDAYS = Number(process.env.GRUPO_DIAS || 7);
+  const gFromMs = Date.parse(`${today}T00:00:00.000Z`) - (GDAYS - 1) * 864e5;
+  const gFromISO = new Date(gFromMs).toISOString();
+  let grupos = [], gpg = 1, glast = 1;
+  do { const r = await api("/contacts", { perPage: 500, page: gpg, "where[isGroup]": true, "where[hadChat]": true }); grupos.push(...rows(r)); glast = r.lastPage || 1; gpg++; } while (gpg <= glast && gpg <= 5);
+  const gAtivos = grupos.filter(g => g.lastMessageAt && Date.parse(g.lastMessageAt) >= gFromMs)
+    .sort((a, b) => Date.parse(b.lastMessageAt) - Date.parse(a.lastMessageAt)).slice(0, 40);
+  const gturns = []; let gUnansweredCount = 0;
+  for (let i = 0; i < gAtivos.length; i += 20) {
+    const lote = gAtivos.slice(i, i + 20); const where = {}; lote.forEach((g, j) => where[`where[contactId][$in][${j}]`] = g.id);
+    const byId = {}; lote.forEach(g => byId[g.id] = []);
+    let mp = 1, ml = 1;
+    do { const r = await api("/messages", { perPage: 500, page: mp, "order[0][0]": "timestamp", "order[0][1]": "ASC", "where[timestamp][$gte]": gFromISO, ...where });
+      for (const m of rows(r)) { if (m.type === "ticket") continue; if (byId[m.contactId]) byId[m.contactId].push(m); } ml = r.lastPage || 1; mp++; } while (mp <= ml && mp <= 3);
+    for (const g of lote) {
+      const ms = byId[g.id].sort((a, b) => Date.parse(a.timestamp) - Date.parse(b.timestamp)); let awaiting = null;
+      for (const m of ms) {
+        const cli = (m.origin !== "user" && !m.isFromMe && !m.isFromBot);
+        if (cli) { if (awaiting == null) awaiting = Date.parse(m.timestamp); }
+        else if (m.origin === "user" && awaiting != null) { gturns.push({ min: Math.round((Date.parse(m.timestamp) - awaiting) / 6000) / 10, uid: m.userId }); awaiting = null; }
+      }
+      if (awaiting != null) { gturns.push({ min: null, uid: null }); gUnansweredCount++; }
+    }
+  }
+  const gResp = gturns.filter(t => t.min != null);
+  const gPer = {}; gResp.forEach(t => { const n = users[t.uid] || "—"; (gPer[n] ??= []).push(t.min); });
+  const juridico = {
+    dias: GDAYS, grupos_ativos: gAtivos.length, turnos: gturns.length, respondidos: gResp.length,
+    sem_resposta: gturns.length - gResp.length, sem_resposta_grupos: gUnansweredCount,
+    mediana_min: median(gResp.map(t => t.min)),
+    atendentes: Object.entries(gPer).map(([nome, a]) => ({ nome, respostas: a.length, mediana_min: median(a) })).sort((x, y) => y.respostas - x.respostas),
+  };
+
   const out = {
     gerado_em: new Intl.DateTimeFormat("pt-BR", { timeZone: TZ, dateStyle: "short", timeStyle: "short" }).format(new Date()),
     data_ref: new Intl.DateTimeFormat("pt-BR", { timeZone: TZ, dateStyle: "short" }).format(new Date()), sla_min: SLA_MIN,
@@ -78,9 +113,10 @@ async function main() {
     areas,
     sem_resposta_lista: L.filter(l => l.status === "SEM_RESPOSTA").map(l => ({ nome: l.nome, tel: l.tel, criado: l.criado, area: l.area })),
     fora_sla_lista: L.filter(l => l.status === "FORA_SLA").map(l => ({ nome: l.nome, tel: l.tel, criado: l.criado, espera_min: l.espera_min, atendente: l.atendente })),
+    juridico,
     leads: L,
   };
   writeFileSync(new URL("./data.json", import.meta.url), JSON.stringify(out, null, 1));
-  console.log(`OK: ${L.length} leads | ${nosla} no SLA | ${fora} fora | ${sem} sem resposta`);
+  console.log(`OK: ${L.length} leads | ${nosla} no SLA | ${fora} fora | ${sem} sem resposta | grupos ${juridico.grupos_ativos} med ${juridico.mediana_min} semResp ${juridico.sem_resposta}`);
 }
 main().catch(e => { console.error(e); process.exit(1); });
