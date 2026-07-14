@@ -56,10 +56,17 @@
   <div id="status" class="status"></div>
 
   <div class="kpis">
-    <div class="kpi" id="k1"><div class="lab">Leads recebidos hoje</div><div class="val" id="v_total">—</div><div class="hint" id="h_total">primeiro contato no dia</div></div>
-    <div class="kpi ok"><div class="lab">Dentro do SLA (≤15 min)</div><div class="val" id="v_sla">—</div><div class="hint" id="h_sla">% dos respondidos</div></div>
-    <div class="kpi alert"><div class="lab">Fora do SLA</div><div class="val" id="v_fora">—</div><div class="hint">demora > 15 min</div></div>
-    <div class="kpi alert"><div class="lab">Sem resposta</div><div class="val" id="v_sem">—</div><div class="hint">nenhum atendente ainda</div></div>
+    <div class="kpi"><div class="lab">Leads recebidos</div><div class="val" id="v_p7">—</div><div class="hint" id="h_p7">últimos 7 dias</div></div>
+    <div class="kpi"><div class="lab">Novos hoje</div><div class="val" id="v_total">—</div><div class="hint" id="h_total">primeiro contato no dia</div></div>
+    <div class="kpi"><div class="lab">Em atendimento agora</div><div class="val" id="v_open">—</div><div class="hint">tickets abertos</div></div>
+    <div class="kpi alert"><div class="lab">Sem resposta hoje</div><div class="val" id="v_sem">—</div><div class="hint">nenhum atendente ainda</div></div>
+  </div>
+
+  <div class="kpis" style="margin-top:12px">
+    <div class="kpi ok"><div class="lab">Dentro do SLA (≤15 min)</div><div class="val" id="v_sla">—</div><div class="hint" id="h_sla">% dos respondidos hoje</div></div>
+    <div class="kpi alert"><div class="lab">Fora do SLA hoje</div><div class="val" id="v_fora">—</div><div class="hint">demora > 15 min</div></div>
+    <div class="kpi"><div class="lab">Tempo mediano 1ª resposta</div><div class="val" id="v_med">—</div><div class="hint">leads de hoje</div></div>
+    <div class="kpi"><div class="lab">Fora de horário</div><div class="val" id="v_offh">—</div><div class="hint">chegaram fora do comercial</div></div>
   </div>
 
   <div class="grid2">
@@ -113,10 +120,14 @@ fetch("./data.json?_="+Date.now()).then(r=>r.json()).then(render).catch(e=>{$("e
 function render(d){
   $("gerado").textContent="atualizado em "+d.gerado_em+" · ref "+d.data_ref+" · SLA "+d.sla_min+" min";
   const k=d.kpi;
+  $("v_p7").textContent=fmt(k.leads_7d); $("h_p7").textContent="últimos "+(k.periodo_dias||7)+" dias";
   $("v_total").textContent=fmt(k.total);
-  $("h_total").textContent="primeiro contato no dia · "+fmt(k.fora_horario)+" fora de horário";
-  $("v_sla").textContent=k.pct_sla+"%"; $("h_sla").textContent=fmt(k.no_sla)+" de "+fmt(k.no_sla+k.fora_sla)+" respondidos · mediana "+minLabel(k.mediana_geral);
+  $("h_total").textContent="primeiro contato no dia";
+  $("v_open").textContent=fmt(k.tickets_abertos);
+  $("v_sla").textContent=k.pct_sla+"%"; $("h_sla").textContent=fmt(k.no_sla)+" de "+fmt(k.no_sla+k.fora_sla)+" respondidos hoje";
   $("v_fora").textContent=fmt(k.fora_sla);
+  $("v_med").textContent=minLabel(k.mediana_geral);
+  $("v_offh").textContent=fmt(k.fora_horario);
   $("v_sem").textContent=fmt(k.sem_resposta);
   const alerta=k.sem_resposta>0||k.fora_sla>k.no_sla;
   $("status").className="status "+(alerta?"red":"green");

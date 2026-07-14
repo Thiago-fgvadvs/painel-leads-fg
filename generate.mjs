@@ -112,10 +112,15 @@ async function main() {
     sem_resposta_lista: gUnanswered,
   };
 
+  // KPIs adicionais para espelhar o artefato
+  const d7ISO = new Date(Date.parse(`${today}T00:00:00.000Z`) - 6 * 864e5).toISOString();
+  const leads7d = Number((await api("/contacts", { perPage: 1, "where[isGroup]": false, "where[hadChat]": true, "where[createdAt][$gte]": d7ISO }))?.total || 0);
+  const ticketsAbertos = Number((await api("/tickets", { perPage: 1, "where[isOpen]": true }))?.total || 0);
+
   const out = {
     gerado_em: new Intl.DateTimeFormat("pt-BR", { timeZone: TZ, dateStyle: "short", timeStyle: "short" }).format(new Date()),
     data_ref: new Intl.DateTimeFormat("pt-BR", { timeZone: TZ, dateStyle: "short" }).format(new Date()), sla_min: SLA_MIN,
-    kpi: { total: L.length, no_sla: nosla, fora_sla: fora, sem_resposta: sem, fora_horario: offh, pct_sla: resp ? Math.round(100 * nosla / resp) : 0, mediana_geral: median(waits) },
+    kpi: { total: L.length, no_sla: nosla, fora_sla: fora, sem_resposta: sem, fora_horario: offh, pct_sla: resp ? Math.round(100 * nosla / resp) : 0, mediana_geral: median(waits), leads_7d: leads7d, tickets_abertos: ticketsAbertos, periodo_dias: 7 },
     atendentes: Object.entries(per).map(([nome, v]) => ({ nome, leads: v.leads, mediana_min: median(v.waits) })).sort((a, b) => b.leads - a.leads),
     origem: { Anuncio: L.filter(l => l.origem === "Anuncio").length, "Direto/Indicacao": L.filter(l => l.origem !== "Anuncio").length },
     criativos: Object.entries(crit).sort((a, b) => b[1] - a[1]).slice(0, 8).map(([url, leads]) => ({ url, leads })),
