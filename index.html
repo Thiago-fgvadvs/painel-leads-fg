@@ -91,7 +91,12 @@
   </div>
   <div class="card"><h2>Jurídico — tempo de resposta por atendente (grupos)</h2>
     <table id="tJur"><thead><tr><th>Atendente</th><th class="num">Respostas</th><th class="num">Tempo mediano</th></tr></thead><tbody></tbody></table>
-    <div class="sub" style="margin-top:6px">Turno = fala do cliente no grupo seguida da 1ª resposta humana. Amostra dos grupos mais ativos. A lista nominal de grupos sem resposta fica no painel interno (LGPD).</div>
+    <div class="sub" style="margin-top:6px">Turno = fala do cliente no grupo seguida da 1ª resposta humana. Todos os grupos que entraram em contato no período.</div>
+  </div>
+
+  <div class="card" style="border-color:#f2c9ce;background:#fff7f7"><h2 style="color:var(--bad)">⚠️ Grupos sem resposta — cobrar o Jurídico (<span id="j_semn">—</span>)</h2>
+    <table id="tJurSem"><thead><tr><th>Grupo (processo)</th><th>Aguardando desde</th></tr></thead><tbody></tbody></table>
+    <div class="sub" style="margin-top:6px">Nome do cliente em iniciais (LGPD). Ordem: grupos com fala do cliente ainda sem 1ª resposta humana no período.</div>
   </div>
 
   <div class="foot">
@@ -132,6 +137,9 @@ function render(d){
     $("j_semg").textContent=fmt(j.sem_resposta_grupos)+" grupos aguardando";
     $("j_turnos").textContent=fmt(j.turnos);
     $("tJur").querySelector("tbody").innerHTML=(j.atendentes||[]).map(a=>`<tr><td>${a.nome}</td><td class="num">${fmt(a.respostas)}</td><td class="num">${minLabel(a.mediana_min)}</td></tr>`).join("")||"<tr><td colspan=3>—</td></tr>";
+    const sl=j.sem_resposta_lista||[];
+    $("j_semn").textContent=fmt(sl.length);
+    $("tJurSem").querySelector("tbody").innerHTML=sl.map(x=>`<tr><td>${x.grupo}</td><td>${x.desde||"—"}</td></tr>`).join("")||"<tr><td colspan=2>Nenhum grupo pendente — ótimo.</td></tr>";
   }
 }
 </script>

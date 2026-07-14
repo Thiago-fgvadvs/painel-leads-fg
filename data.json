@@ -1,12 +1,12 @@
 {
- "gerado_em": "13/07/2026, 21:13",
+ "gerado_em": "13/07/2026, 23:11",
  "data_ref": "13/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
+  "total": 30,
   "no_sla": 9,
   "fora_sla": 11,
-  "sem_resposta": 5,
+  "sem_resposta": 8,
   "fora_horario": 2,
   "pct_sla": 45,
   "mediana_geral": 16.2
@@ -24,12 +24,16 @@
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 24,
   "Direto/Indicacao": 6
  },
  "criativos": [
   {
    "url": "fb.me/9jVtPYvrK",
+   "leads": 4
+  },
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 3
   },
   {
@@ -42,10 +46,6 @@
   },
   {
    "url": "fb.me/4EDzR2aSz",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 1
   },
   {
@@ -62,16 +62,34 @@
   }
  ],
  "areas": {
+  "Nao identificada": 15,
   "Trabalhista": 9,
-  "Previdenciario": 5,
-  "Nao identificada": 13
+  "Previdenciario": 6
  },
  "sem_resposta_lista": [
+  {
+   "nome": "Edson Rizzo",
+   "tel": "5513*****666",
+   "criado": "23:06",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511973294042",
+   "tel": "5511*****042",
+   "criado": "21:41",
+   "area": "Nao identificada"
+  },
   {
    "nome": "553192828970",
    "tel": "5531*****970",
    "criado": "21:09",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "pinheirocarmelito",
+   "tel": "5511*****888",
+   "criado": "21:27",
+   "area": "Previdenciario"
   },
   {
    "nome": "5514998556372",
@@ -179,61 +197,401 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 40,
-  "turnos": 151,
-  "respondidos": 127,
-  "sem_resposta": 24,
-  "sem_resposta_grupos": 24,
-  "mediana_min": 14.3,
+  "grupos_ativos": 151,
+  "turnos": 483,
+  "respondidos": 404,
+  "sem_resposta": 79,
+  "sem_resposta_grupos": 79,
+  "mediana_min": 24.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 63,
-    "mediana_min": 60.1
+    "respostas": 190,
+    "mediana_min": 65.1
    },
    {
     "nome": "Nicolas",
-    "respostas": 33,
-    "mediana_min": 15
-   },
-   {
-    "nome": "Luisa",
-    "respostas": 21,
-    "mediana_min": 1.3
-   },
-   {
-    "nome": "Thauany",
-    "respostas": 3,
-    "mediana_min": 0.8
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 3,
-    "mediana_min": 0.1
-   },
-   {
-    "nome": "Tiago Bernardo",
-    "respostas": 1,
-    "mediana_min": 582.6
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 1,
-    "mediana_min": 1.1
-   },
-   {
-    "nome": "Gabrielle",
-    "respostas": 1,
-    "mediana_min": 3.2
+    "respostas": 88,
+    "mediana_min": 18.7
    },
    {
     "nome": "—",
-    "respostas": 1,
-    "mediana_min": 126.4
+    "respostas": 57,
+    "mediana_min": 33
+   },
+   {
+    "nome": "Luisa",
+    "respostas": 26,
+    "mediana_min": 1.5
+   },
+   {
+    "nome": "Thauany",
+    "respostas": 22,
+    "mediana_min": 0.9
+   },
+   {
+    "nome": "Gabrielle",
+    "respostas": 13,
+    "mediana_min": 2.4
+   },
+   {
+    "nome": "Eduardo",
+    "respostas": 4,
+    "mediana_min": 42.8
+   },
+   {
+    "nome": "Tiago Bernardo",
+    "respostas": 2,
+    "mediana_min": 1682.7
+   },
+   {
+    "nome": "Roseli",
+    "respostas": 2,
+    "mediana_min": 1.8
+   }
+  ],
+  "sem_resposta_lista": [
+   {
+    "grupo": "W.D.G.D.S x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
+    "desde": "20:23"
+   },
+   {
+    "grupo": "C.M.D.S.A.B.D.E.P.A.D",
+    "desde": "19:28"
+   },
+   {
+    "grupo": "A.F.G",
+    "desde": "19:05"
+   },
+   {
+    "grupo": "L.M x F B Dos Reis ",
+    "desde": "19:05"
+   },
+   {
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "desde": "18:55"
+   },
+   {
+    "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "desde": "18:52"
+   },
+   {
+    "grupo": "B.K.D.S x HOSPLOG LOGISTICA LTDA",
+    "desde": "18:42"
+   },
+   {
+    "grupo": "F.D.L.B.D.O x CASA DE SAUDE SANTA MARCELINA",
+    "desde": "18:35"
+   },
+   {
+    "grupo": "S.D.O.P x RN PNEUS LTDA",
+    "desde": "18:24"
+   },
+   {
+    "grupo": "M.D.S.S x PREFEITURA MUNICIPAL DE BOA VISTA",
+    "desde": "18:11"
+   },
+   {
+    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
+    "desde": "18:10"
+   },
+   {
+    "grupo": "A.H.G x INSS",
+    "desde": "18:01"
+   },
+   {
+    "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
+    "desde": "17:59"
+   },
+   {
+    "grupo": "A.L.M.J x ARCOS DOURADOS COMERCIO DE ALIMENTO SA",
+    "desde": "17:46"
+   },
+   {
+    "grupo": "J.S.R x KRCON EMPREENDIMENTOS IMOBILIÁRIOS LTDA",
+    "desde": "16:38"
+   },
+   {
+    "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
+    "desde": "17:19"
+   },
+   {
+    "grupo": "G.F.N x FARMACIA E DROGARIA NISSEI SA",
+    "desde": "17:20"
+   },
+   {
+    "grupo": "A.D.S.R x NOVO HORIZONTE JACAREPAGUA IMPORTACAO E EXPORTACAO S.A",
+    "desde": "17:17"
+   },
+   {
+    "grupo": "A.H.G x ANNA MARIA MAURICIO DA ROCHA PINOTTI",
+    "desde": "17:12"
+   },
+   {
+    "grupo": "B.M.S x KLOPER MENDONCA LANCHES LTDA",
+    "desde": "11:48"
+   },
+   {
+    "grupo": "J.A.L x CONSTRUTORA RAMON AGUILERA",
+    "desde": "17:06"
+   },
+   {
+    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
+    "desde": "16:53"
+   },
+   {
+    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "desde": "16:54"
+   },
+   {
+    "grupo": "R.D.S.C x FUNDACAO JOSE SILVEIRA",
+    "desde": "16:54"
+   },
+   {
+    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
+    "desde": "15:48"
+   },
+   {
+    "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
+    "desde": "15:32"
+   },
+   {
+    "grupo": "T.D.S.C x AMAZON SERVICOS DE VAREJO DO BRASIL LTDA",
+    "desde": "11:00"
+   },
+   {
+    "grupo": "G.D.F.F x R G DE ASSIS LTDA",
+    "desde": "14:21"
+   },
+   {
+    "grupo": "A.C.B.M x INSS",
+    "desde": "12:09"
+   },
+   {
+    "grupo": "P.L.R.J",
+    "desde": "11:31"
+   },
+   {
+    "grupo": "N.J.D.S.M x SAVANEGO SUPERMERCADOS LTDA",
+    "desde": "10:35"
+   },
+   {
+    "grupo": "I.D.S.L x HOSPITAL NOSSA SENHORA DAS GRAÇAS",
+    "desde": "09:15"
+   },
+   {
+    "grupo": "V.E.F.R x PAULO CESAR ALVES TAMANAHA",
+    "desde": "20:06"
+   },
+   {
+    "grupo": "J.F.B.J x GCP SERVICOS LOGISTICA E SOLUCOES EM TRANSPORTES LIMITADA",
+    "desde": "18:51"
+   },
+   {
+    "grupo": "K.G.D.S.C x CENTRAL IT TECNOLOGIA DA INFORMACAO S/A",
+    "desde": "18:25"
+   },
+   {
+    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
+    "desde": "17:39"
+   },
+   {
+    "grupo": "N x Fundação Bradesco ",
+    "desde": "09:51"
+   },
+   {
+    "grupo": "E.L.C.D.S.G x LINKCALL SERVICOS DE CALL CENTER S.A",
+    "desde": "17:24"
+   },
+   {
+    "grupo": "P.M.C x RITA DE FATIMA HOFFMANN LONGHI",
+    "desde": "16:09"
+   },
+   {
+    "grupo": "Á.C",
+    "desde": "13:19"
+   },
+   {
+    "grupo": "D.S.S x GMS INDUSTRIALIZACAO DE ALIMENTOS LTDA",
+    "desde": "13:20"
+   },
+   {
+    "grupo": "E",
+    "desde": "01:50"
+   },
+   {
+    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "desde": "12:52"
+   },
+   {
+    "grupo": "L.E.S.D.S x EAOS SERVICOS TERCEIRIZADOS LTDA",
+    "desde": "12:21"
+   },
+   {
+    "grupo": "J.J.B",
+    "desde": "08:57"
+   },
+   {
+    "grupo": "I.C.D.S.R x REDE PLUS HORTIFRUTI 8 LTDA",
+    "desde": "12:14"
+   },
+   {
+    "grupo": "R.R.S x COBE SERVICOS DE COBRANCAS LTDA",
+    "desde": "12:11"
+   },
+   {
+    "grupo": "M.C.T.E x ASSOCIACAO HOSPITALAR SANTA ROSALIA",
+    "desde": "11:13"
+   },
+   {
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "desde": "09:49"
+   },
+   {
+    "grupo": "A.J.M.M.B.C",
+    "desde": "09:40"
+   },
+   {
+    "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
+    "desde": "09:24"
+   },
+   {
+    "grupo": "T.D.B.C x VERO SA",
+    "desde": "09:09"
+   },
+   {
+    "grupo": "C.L.M.D.O x HABIBS",
+    "desde": "19:11"
+   },
+   {
+    "grupo": "A.L.V.R x MIRANDA TREINAMENTO E ASSESSORIA FINANCEIRA LTDA",
+    "desde": "18:08"
+   },
+   {
+    "grupo": "F.V.D.M x IRMANDADE DA SANTA CASA DE LONDRINA",
+    "desde": "17:31"
+   },
+   {
+    "grupo": "J.M.J x 2 SHARE PRODUCOES E REPRESENTACOES LTDA",
+    "desde": "17:02"
+   },
+   {
+    "grupo": "M.F.D.S x EBS2 TRADE E GESTAO LTDA x SHPX LOGISTICA LTDA",
+    "desde": "16:53"
+   },
+   {
+    "grupo": "N.P.D.M x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "desde": "13:48"
+   },
+   {
+    "grupo": "J.R.A.D.O x DORGIA CONSTRUCOES LTDA",
+    "desde": "12:34"
+   },
+   {
+    "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
+    "desde": "12:14"
+   },
+   {
+    "grupo": "T.H.D.S.C x G4 EDUCAÇÃO LTDA",
+    "desde": "11:25"
+   },
+   {
+    "grupo": "J.P.F x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
+    "desde": "12:08"
+   },
+   {
+    "grupo": "A.N.D.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "desde": "11:36"
+   },
+   {
+    "grupo": "R.J.M.F x MINAS VERDE MAQUINAS LTDA",
+    "desde": "10:57"
+   },
+   {
+    "grupo": "R.D.F.C x KFC - HORIZONTE RESTAURANTES S.A.",
+    "desde": "18:16"
+   },
+   {
+    "grupo": "I.F.D.L x CBAF COMERCIO DE ALIMENTOS LTDA",
+    "desde": "17:05"
+   },
+   {
+    "grupo": "C.G x Caixa ",
+    "desde": "16:33"
+   },
+   {
+    "grupo": "L.R.S.B x WMS SUPERMERCADOS DO BRASIL LTDA",
+    "desde": "16:14"
+   },
+   {
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
+    "desde": "10:59"
+   },
+   {
+    "grupo": "B.D.O.B x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "desde": "15:39"
+   },
+   {
+    "grupo": "M.F.F x WMS SUPERMERCADOS DO BRASIL LTDA",
+    "desde": "15:22"
+   },
+   {
+    "grupo": "M.D.M.B x GERMANS DISTRIB DE COMESTIVEIS LTDA x",
+    "desde": "14:49"
+   },
+   {
+    "grupo": "A.S.D.S.L x BRAVO ASSESORIA E SERVICOS EMPRESARIAIS LTDA",
+    "desde": "13:36"
+   },
+   {
+    "grupo": "L.D.S.R x INSS",
+    "desde": "12:53"
+   },
+   {
+    "grupo": "M.R.B x PIRACICABA AMABIENTAL LTDA",
+    "desde": "10:48"
+   },
+   {
+    "grupo": "M.D.D.S.M.D.S x MAXPAR ASSISTENCIA 24H LTDA",
+    "desde": "12:28"
+   },
+   {
+    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
+    "desde": "11:33"
+   },
+   {
+    "grupo": "L.A.S.N x SOLUCOES SERVICOS TERCEIRIZADOS LTDA",
+    "desde": "08:33"
+   },
+   {
+    "grupo": "P.D.S x AMERICANAS S.A",
+    "desde": "08:44"
    }
   ]
  },
  "leads": [
+  {
+   "nome": "Edson Rizzo",
+   "tel": "5513*****666",
+   "criado": "23:06",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511973294042",
+   "tel": "5511*****042",
+   "criado": "21:41",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "553192828970",
    "tel": "5531*****970",
@@ -244,6 +602,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4EDzR2aSz",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "pinheirocarmelito",
+   "tel": "5511*****888",
+   "criado": "21:27",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9jVtPYvrK",
+   "area": "Previdenciario"
   },
   {
    "nome": "🙏🙏",

@@ -30,6 +30,14 @@ const mask = n => { const s = String(n || "").replace(/\D/g, ""); return s.lengt
 const spParts = d => new Intl.DateTimeFormat("pt-BR", { timeZone: TZ, weekday: "short", hour: "2-digit", minute: "2-digit", hour12: false }).formatToParts(d);
 function spHourDow(d) { const p = spParts(d); const h = +p.find(x => x.type === "hour").value; const wd = p.find(x => x.type === "weekday").value; const biz = !/sáb|dom/i.test(wd) && h >= 8 && h < 19; return { h, biz }; }
 const hhmm = d => new Intl.DateTimeFormat("pt-BR", { timeZone: TZ, hour: "2-digit", minute: "2-digit", hour12: false }).format(d);
+// pseudonimiza: "ANA PAULA GRACA x BRADESCO" -> "A.P.G x BRADESCO" (iniciais do cliente, mantém a parte adversa)
+const initials = name => {
+  if (!name) return "—";
+  const parts = String(name).split(/\s+[x×]\s+/i);
+  const cli = (parts[0] || name).trim().split(/\s+/).filter(w => /[0-9A-Za-zÀ-ÿ]/.test(w)).map(w => w[0].toUpperCase()).join(".");
+  const resto = parts.length > 1 ? " x " + parts.slice(1).join(" x ") : "";
+  return (cli || "—") + resto;
+};
 function todaySP() { const p = new Intl.DateTimeFormat("en-CA", { timeZone: TZ, year: "numeric", month: "2-digit", day: "2-digit" }).format(new Date()); return p; }
 const median = a => { if (!a.length) return null; const s = [...a].sort((x, y) => x - y), m = s.length >> 1; return Math.round((s.length % 2 ? s[m] : (s[m - 1] + s[m]) / 2) * 10) / 10; };
 const AREAS = [["Previdenciario", /\b(inss|aposentad|bpc|loas|aux[ií]lio|benef[ií]cio|previdenc)\b/i], ["Trabalhista", /(trabalh|resc|horas?\s+extra|ass[eé]dio|demiss|carteira|fgts|insalubr|periculos|justa\s+causa|v[ií]nculo|doen[çc]a)/i]];
@@ -76,8 +84,8 @@ async function main() {
   let grupos = [], gpg = 1, glast = 1;
   do { const r = await api("/contacts", { perPage: 500, page: gpg, "where[isGroup]": true, "where[hadChat]": true }); grupos.push(...rows(r)); glast = r.lastPage || 1; gpg++; } while (gpg <= glast && gpg <= 5);
   const gAtivos = grupos.filter(g => g.lastMessageAt && Date.parse(g.lastMessageAt) >= gFromMs)
-    .sort((a, b) => Date.parse(b.lastMessageAt) - Date.parse(a.lastMessageAt)).slice(0, 40);
-  const gturns = []; let gUnansweredCount = 0;
+    .sort((a, b) => Date.parse(b.lastMessageAt) - Date.parse(a.lastMessageAt)).slice(0, 400);
+  const gturns = []; const gUnanswered = [];
   for (let i = 0; i < gAtivos.length; i += 20) {
     const lote = gAtivos.slice(i, i + 20); const where = {}; lote.forEach((g, j) => where[`where[contactId][$in][${j}]`] = g.id);
     const byId = {}; lote.forEach(g => byId[g.id] = []);
@@ -91,16 +99,17 @@ async function main() {
         if (cli) { if (awaiting == null) awaiting = Date.parse(m.timestamp); }
         else if (m.origin === "user" && awaiting != null) { gturns.push({ min: Math.round((Date.parse(m.timestamp) - awaiting) / 6000) / 10, uid: m.userId }); awaiting = null; }
       }
-      if (awaiting != null) { gturns.push({ min: null, uid: null }); gUnansweredCount++; }
+      if (awaiting != null) { gturns.push({ min: null, uid: null }); gUnanswered.push({ grupo: initials(g.name), desde: hhmm(new Date(awaiting)) }); }
     }
   }
   const gResp = gturns.filter(t => t.min != null);
   const gPer = {}; gResp.forEach(t => { const n = users[t.uid] || "—"; (gPer[n] ??= []).push(t.min); });
   const juridico = {
     dias: GDAYS, grupos_ativos: gAtivos.length, turnos: gturns.length, respondidos: gResp.length,
-    sem_resposta: gturns.length - gResp.length, sem_resposta_grupos: gUnansweredCount,
+    sem_resposta: gturns.length - gResp.length, sem_resposta_grupos: gUnanswered.length,
     mediana_min: median(gResp.map(t => t.min)),
     atendentes: Object.entries(gPer).map(([nome, a]) => ({ nome, respostas: a.length, mediana_min: median(a) })).sort((x, y) => y.respostas - x.respostas),
+    sem_resposta_lista: gUnanswered,
   };
 
   const out = {
