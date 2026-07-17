@@ -139,9 +139,19 @@ async function main() {
   // ---- Contratos fechados (CRM · funil · status Ganho) nos últimos 7 dias ----
   let wonCards = [], wcp = 1, wcl = 1;
   do { const r = await api("/cards", { perPage: 500, page: wcp, "where[success]": "true", "where[finishedAt][$gte]": d7ISO, "order[0][0]": "finishedAt", "order[0][1]": "DESC" }); wonCards.push(...rows(r)); wcl = r.lastPage || 1; wcp++; } while (wcp <= wcl && wcp <= 5);
-  const wIds = [...new Set(wonCards.map(c => c.contactId).filter(Boolean))]; const wName = {};
-  for (let i = 0; i < wIds.length; i += 20) { const lote = wIds.slice(i, i + 20); if (!lote.length) break; const where = {}; lote.forEach((id, j) => where[`where[id][$in][${j}]`] = id); for (const c of rows(await api("/contacts", { perPage: 500, ...where }))) wName[c.id] = c.name; }
-  const contratosLista = wonCards.filter(c => c.finishedAt).map(c => ({ vendedor: users[c.ownerId] || "—", cliente: initials(wName[c.contactId] || "—"), dia: diaMes(new Date(c.finishedAt)), hora: hhmm(new Date(c.finishedAt)), ts: Date.parse(c.finishedAt) })).sort((a, b) => b.ts - a.ts);
+  const wIds = [...new Set(wonCards.map(c => c.contactId).filter(Boolean))]; const wName = {}; const wAd = {};
+  for (let i = 0; i < wIds.length; i += 20) {
+    const lote = wIds.slice(i, i + 20); if (!lote.length) break;
+    const where = {}; lote.forEach((id, j) => where[`where[id][$in][${j}]`] = id);
+    for (const c of rows(await api("/contacts", { perPage: 500, ...where }))) wName[c.id] = c.name;
+    const wm = {}; lote.forEach((id, j) => wm[`where[contactId][$in][${j}]`] = id);
+    for (const m of rows(await api("/messages", { perPage: 500, "order[0][0]": "timestamp", "order[0][1]": "ASC", ...wm }))) { const cw = m.data?.ctwaContext?.sourceUrl; if (cw && !wAd[m.contactId]) wAd[m.contactId] = cw; }
+  }
+  const contratosLista = wonCards.filter(c => c.finishedAt).map(c => {
+    const ad = wAd[c.contactId] || null; const canal = (c.originChannel || "").trim(); const camp = (c.originCampaign || "").trim();
+    const origem = ad ? "Anúncio: " + ad.replace(/^https?:\/\/(www\.)?/, "").slice(0, 40) : (/meta|insta|face/i.test(canal) ? "Anúncio: " + (camp || canal) : (canal || camp || "Direto/Indicação"));
+    return { vendedor: users[c.ownerId] || "—", cliente: initials(wName[c.contactId] || "—"), dia: diaMes(new Date(c.finishedAt)), hora: hhmm(new Date(c.finishedAt)), ts: Date.parse(c.finishedAt), origem, de_anuncio: !!(ad || /meta|insta|face/i.test(canal)) };
+  }).sort((a, b) => b.ts - a.ts);
   const contratosPorVend = {}; contratosLista.forEach(x => { contratosPorVend[x.vendedor] = (contratosPorVend[x.vendedor] || 0) + 1; });
 
   const out = {

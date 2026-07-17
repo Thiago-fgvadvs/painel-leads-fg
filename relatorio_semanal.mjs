@@ -98,10 +98,21 @@ async function main() {
   // 5b) Contratos fechados (CRM · funil · status Ganho) no período — fonte de verdade do fechamento
   let wonCards = [], wp = 1, wl = 1;
   do { const r = await api("/cards", { perPage: 500, page: wp, "where[success]": "true", "where[finishedAt][$gte]": fromISO, "where[finishedAt][$lte]": toISO, "order[0][0]": "finishedAt", "order[0][1]": "DESC" }); wonCards.push(...rows(r)); wl = r.lastPage || 1; wp++; } while (wp <= wl && wp <= 5);
-  const wonIds = [...new Set(wonCards.map(c => c.contactId).filter(Boolean))]; const wonNames = {};
-  for (let i = 0; i < wonIds.length; i += 20) { const lote = wonIds.slice(i, i + 20); if (!lote.length) break; const where = {}; lote.forEach((id, j) => where[`where[id][$in][${j}]`] = id); for (const c of rows(await api("/contacts", { perPage: 500, ...where }))) wonNames[c.id] = c.name || "(sem nome)"; }
-  const contratos = wonCards.filter(c => c.finishedAt).map(c => ({ vendedor: users[c.ownerId] || "—", cliente: wonNames[c.contactId] || "(sem nome)", ts: Date.parse(c.finishedAt), dia: diaMes(new Date(c.finishedAt)), hora: hhmm(new Date(c.finishedAt)), titulo: c.title || "", campanha: c.originCampaign || "" })).sort((a, b) => b.ts - a.ts);
+  const wonIds = [...new Set(wonCards.map(c => c.contactId).filter(Boolean))]; const wonNames = {}; const wonAds = {};
+  for (let i = 0; i < wonIds.length; i += 20) {
+    const lote = wonIds.slice(i, i + 20); if (!lote.length) break;
+    const where = {}; lote.forEach((id, j) => where[`where[id][$in][${j}]`] = id);
+    for (const c of rows(await api("/contacts", { perPage: 500, ...where }))) wonNames[c.id] = c.name || "(sem nome)";
+    // anúncio exato (CTWA) na 1ª mensagem de cada cliente
+    const wm = {}; lote.forEach((id, j) => wm[`where[contactId][$in][${j}]`] = id);
+    for (const m of rows(await api("/messages", { perPage: 500, "order[0][0]": "timestamp", "order[0][1]": "ASC", ...wm }))) {
+      const cw = m.data?.ctwaContext?.sourceUrl; if (cw && !wonAds[m.contactId]) wonAds[m.contactId] = cw;
+    }
+  }
+  const contratos = wonCards.filter(c => c.finishedAt).map(c => ({ vendedor: users[c.ownerId] || "—", cliente: wonNames[c.contactId] || "(sem nome)", ts: Date.parse(c.finishedAt), dia: diaMes(new Date(c.finishedAt)), hora: hhmm(new Date(c.finishedAt)), titulo: c.title || "", campanha: (c.originCampaign || "").trim(), canal: (c.originChannel || "").trim(), anuncio: wonAds[c.contactId] || null })).sort((a, b) => b.ts - a.ts);
   const contratosPorVend = {}; contratos.forEach(x => { contratosPorVend[x.vendedor] = (contratosPorVend[x.vendedor] || 0) + 1; });
+  const contratosAnuncio = contratos.filter(x => x.anuncio || /meta|insta|face/i.test(x.canal)).length;
+  const contratosPorAd = {}; contratos.forEach(x => { if (x.anuncio) { const k = x.anuncio.replace(/^https?:\/\/(www\.)?/, ""); contratosPorAd[k] = (contratosPorAd[k] || 0) + 1; } });
 
   const dados = {
     from: FROM, to: TO, geradoEm: new Intl.DateTimeFormat("pt-BR", { timeZone: TZ, dateStyle: "short", timeStyle: "short" }).format(new Date()),
@@ -110,7 +121,7 @@ async function main() {
     amostra: recs.length, sla: { nosla, fora, sem, offh, pct: resp ? Math.round(100 * nosla / resp) : 0, mediana: med(waits) },
     atendComercial, origem: { anuncio, direto: recs.length - anuncio }, criativos, areas, pendLeads,
     juridico: { ativos: gAtivos.length, turnos: gturns.length, semResposta: gPend.length, mediana: med(gturns.map(t => t.min)), atendentes: gAt, lentos: gLentos, pend: gPend },
-    conversao, contratos, contratosPorVend,
+    conversao, contratos, contratosPorVend, contratosAnuncio, contratosPorAd,
   };
   writeFileSync(new URL("./report.html", import.meta.url), render(dados));
   console.log(`OK relatório ${FROM}..${TO}: ${totalPeriodo} leads | SLA ${dados.sla.pct}% | pend leads ${pendLeads.length} | grupos ${gAtivos.length} pend ${gPend.length}`);
@@ -186,12 +197,13 @@ function render(d) {
 
   <div class="pb"></div>
   <h2>7. Contratos fechados (Ganho) por vendedor</h2>
-  <div class="kpis"><div class="kpi"><div class="l">Contratos fechados</div><div class="v">${d.contratos.length}</div></div>${Object.entries(d.contratosPorVend).sort((a, b) => b[1] - a[1]).map(([v, n]) => `<div class="kpi"><div class="l">${esc(v)}</div><div class="v">${n}</div></div>`).join("")}</div>
+  <div class="kpis"><div class="kpi"><div class="l">Contratos fechados</div><div class="v">${d.contratos.length}</div></div><div class="kpi"><div class="l">Vindos de anúncio</div><div class="v">${d.contratosAnuncio}</div></div>${Object.entries(d.contratosPorVend).sort((a, b) => b[1] - a[1]).map(([v, n]) => `<div class="kpi"><div class="l">${esc(v)}</div><div class="v">${n}</div></div>`).join("")}</div>
   ${d.contratos.length
-      ? tbl(["Vendedor", "Cliente", "Data", "Hora"], d.contratos.map(x => `<tr><td>${esc(x.vendedor)}</td><td>${esc(x.cliente)}</td><td>${x.dia}</td><td class="n">${x.hora}</td></tr>`))
+      ? tbl(["Vendedor", "Cliente", "Data", "Hora", "Origem (anúncio)"], d.contratos.map(x => `<tr><td>${esc(x.vendedor)}</td><td>${esc(x.cliente)}</td><td>${x.dia}</td><td class="n">${x.hora}</td><td style="font-size:9.5px">${x.anuncio ? "Anúncio: " + esc(x.anuncio.replace(/^https?:\/\/(www\.)?/, "").slice(0, 44)) : (/meta|insta|face/i.test(x.canal) ? "Anúncio: " + esc(x.campanha || x.canal) : esc(x.canal || x.campanha || "Direto/Indicação"))}</td></tr>`))
       : `<p class="pend">Nenhum contrato marcado como <b>Ganho</b> no funil do DigiSac neste período. O comercial passou a sinalizar o fechamento (status <b>Ganho</b>); assim que houver marcações, os contratos fechados aparecem aqui automaticamente — dispensando busca no Projuris/Notion.</p>`}
-  <p class="muted">Fonte: funil de vendas do DigiSac (cards com status <b>Ganho</b>), pela data de fechamento no período. Substitui a conversão estimada por tag.</p>
-  ${d.conversao.modo === "tags" ? `<h3>7.1 Tags de fechamento (referência)</h3>${conv}` : ""}
+  ${Object.keys(d.contratosPorAd).length ? `<h3>7.1 Anúncios que fecharam contrato (CTWA)</h3>${tbl(["Anúncio (sourceUrl)", "Contratos"], Object.entries(d.contratosPorAd).sort((a, b) => b[1] - a[1]).map(([u, n]) => `<tr><td style="font-size:9.5px">${esc(u)}</td><td class="n">${n}</td></tr>`))}` : ""}
+  <p class="muted">Fonte: funil de vendas do DigiSac (cards com status <b>Ganho</b>) + metadado CTWA da 1ª mensagem do cliente (anúncio exato). Substitui a conversão estimada por tag.</p>
+  ${d.conversao.modo === "tags" ? `<h3>7.2 Tags de fechamento (referência)</h3>${conv}` : ""}
 
   <h2>8. Fila de pendências — SEM resposta (janela do período)</h2>
   <div class="alert">Leads sem resposta: <b>${d.pendLeads.length}</b> · Grupos sem resposta: <b>${d.juridico.pend.length}</b></div>

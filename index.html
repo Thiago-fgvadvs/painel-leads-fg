@@ -92,7 +92,7 @@
 
   <div class="card" style="border-color:#cfe3d4;background:#f5fbf7"><h2 style="color:#1f7a4d">✅ Contratos fechados por vendedor (7 dias) · <span id="c_total">—</span></h2>
     <div id="c_resumo" class="sub" style="margin:2px 0 8px"></div>
-    <table id="tCon"><thead><tr><th>Vendedor</th><th>Cliente</th><th>Data</th><th class="num">Hora</th></tr></thead><tbody></tbody></table>
+    <table id="tCon"><thead><tr><th>Vendedor</th><th>Cliente</th><th>Data</th><th class="num">Hora</th><th>Origem (anúncio)</th></tr></thead><tbody></tbody></table>
     <div class="sub" style="margin-top:6px">Fonte: funil de vendas do DigiSac (status Ganho). Cliente em iniciais (LGPD).</div></div>
 
   <h2 style="margin:22px 0 0;color:var(--navy)">Jurídico — grupos de processo (clientes)</h2>
@@ -149,8 +149,9 @@ function render(d){
   $("tForaTbl").querySelector("tbody").innerHTML=d.fora_sla_lista.map(x=>`<tr><td>${x.nome}</td><td>${x.tel}</td><td>${x.criado}</td><td class="num">${minLabel(x.espera_min)}</td><td>${x.atendente}</td></tr>`).join("")||"<tr><td colspan=5>Nenhum.</td></tr>";
   const con=d.contratos||{total:0,por_vendedor:{},lista:[]};
   $("c_total").textContent=fmt(con.total);
-  $("c_resumo").innerHTML=Object.entries(con.por_vendedor||{}).sort((a,b)=>b[1]-a[1]).map(([v,n])=>`<b>${v}</b>: ${n}`).join(" · ")||"Nenhum contrato marcado como Ganho no período.";
-  $("tCon").querySelector("tbody").innerHTML=(con.lista||[]).map(x=>`<tr><td>${x.vendedor}</td><td>${x.cliente}</td><td>${x.dia}</td><td class="num">${x.hora}</td></tr>`).join("")||"<tr><td colspan=4>Nenhum contrato fechado no período.</td></tr>";
+  const nAd=(con.lista||[]).filter(x=>x.de_anuncio).length;
+  $("c_resumo").innerHTML=(Object.entries(con.por_vendedor||{}).sort((a,b)=>b[1]-a[1]).map(([v,n])=>`<b>${v}</b>: ${n}`).join(" · ")||"Nenhum contrato marcado como Ganho no período.")+(con.total?` · <b>${nAd}</b> de anúncio`:"");
+  $("tCon").querySelector("tbody").innerHTML=(con.lista||[]).map(x=>`<tr><td>${x.vendedor}</td><td>${x.cliente}</td><td>${x.dia}</td><td class="num">${x.hora}</td><td style="font-size:12px">${x.origem||"—"}</td></tr>`).join("")||"<tr><td colspan=5>Nenhum contrato fechado no período.</td></tr>";
   const j=d.juridico;
   if(j){
     $("j_grupos").textContent=fmt(j.grupos_ativos);
