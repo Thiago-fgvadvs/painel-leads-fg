@@ -116,6 +116,10 @@ async function main() {
     sem_resposta_lista: gUnanswered,
   };
 
+  // Tempo real (tela Agora do Digisac) — sem PII
+  let agora = null;
+  try { const nr = await api("/now/resume"); const t = nr?.totals || {}; agora = { fila: Number(t.queueTickets || 0), abertos: Number(t.openTickets || 0), com_atendimento: Number(t.usersWithAttendance || 0), online: Number(t.onlineUsersCount || 0), offline: Number(t.offlineUsersCount || 0), ausentes: Number(t.absentUsersCount || 0), espera_media_s: Math.round(Number(t.averageOpenTicketsWaitTime || 0)) }; } catch (e) { }
+
   // KPIs adicionais para espelhar o artefato
   const d7ISO = new Date(Date.parse(`${today}T00:00:00.000Z`) - 6 * 864e5).toISOString();
   const leads7d = Number((await api("/contacts", { perPage: 1, "where[isGroup]": false, "where[hadChat]": true, "where[createdAt][$gte]": d7ISO }))?.total || 0);
@@ -167,6 +171,7 @@ async function main() {
     juridico,
     pendencias: { dias: 7, leads: pendLeads, grupos: pendGrupos },
     contratos: { dias: 7, total: contratosLista.length, por_vendedor: contratosPorVend, lista: contratosLista },
+    agora,
     leads: L,
   };
   writeFileSync(new URL("./data.json", import.meta.url), JSON.stringify(out, null, 1));

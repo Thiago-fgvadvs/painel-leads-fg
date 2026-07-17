@@ -83,6 +83,15 @@
     <div class="card"><h2>Leads por área</h2><div class="chartbox"><canvas id="chArea"></canvas></div></div>
   </div>
 
+  <div class="card" id="agoraCard" style="display:none;border-color:#cfe0f5;background:#f7faff"><h2 style="color:#1d4e89">⚡ Agora — tempo real</h2>
+    <div class="kpis" style="margin-top:6px">
+      <div class="kpi alert"><div class="lab">Na fila</div><div class="val" id="a_fila">—</div><div class="hint">sem atendente</div></div>
+      <div class="kpi"><div class="lab">Abertos agora</div><div class="val" id="a_abertos">—</div><div class="hint" id="a_att">—</div></div>
+      <div class="kpi"><div class="lab">Atendentes online</div><div class="val" id="a_online">—</div><div class="hint" id="a_off">—</div></div>
+      <div class="kpi"><div class="lab">Espera média (abertos)</div><div class="val" id="a_espera">—</div></div>
+    </div>
+    <div class="sub" style="margin-top:6px">Fotografia no momento da última atualização do painel (a cada 15 min).</div></div>
+
   <div class="card" style="border-color:#f2c9ce;background:#fff7f7"><h2 style="color:var(--bad)">⚠️ Fila de pendências — leads SEM resposta (7 dias) · <span id="p_leadsn">—</span></h2>
     <table id="tSem"><thead><tr><th>Nome</th><th>Telefone</th><th>Sem resposta desde</th></tr></thead><tbody></tbody></table>
     <div class="sub" style="margin-top:6px">Leads sem nenhuma resposta humana nos últimos 7 dias — do mais antigo (crítico) ao mais novo. Telefone mascarado (LGPD).</div></div>
@@ -147,6 +156,15 @@ function render(d){
   $("p_leadsn").textContent=fmt(pl.length);
   $("tSem").querySelector("tbody").innerHTML=pl.map(x=>`<tr><td>${x.nome}</td><td>${x.tel}</td><td>${x.dia} ${x.desde||""}</td></tr>`).join("")||"<tr><td colspan=3>Nenhum — ótimo.</td></tr>";
   $("tForaTbl").querySelector("tbody").innerHTML=d.fora_sla_lista.map(x=>`<tr><td>${x.nome}</td><td>${x.tel}</td><td>${x.criado}</td><td class="num">${minLabel(x.espera_min)}</td><td>${x.atendente}</td></tr>`).join("")||"<tr><td colspan=5>Nenhum.</td></tr>";
+  const ag=d.agora;
+  if(ag){$("agoraCard").style.display="block";
+    $("a_fila").textContent=fmt(ag.fila);
+    $("a_abertos").textContent=fmt(ag.abertos);
+    $("a_att").textContent=fmt(ag.com_atendimento)+" atendente(s) com atendimento";
+    $("a_online").textContent=fmt(ag.online);
+    $("a_off").textContent=fmt(ag.offline)+" offline · "+fmt(ag.ausentes)+" ausente(s)";
+    $("a_espera").textContent=minLabel(Math.round(ag.espera_media_s/60));
+  }
   const con=d.contratos||{total:0,por_vendedor:{},lista:[]};
   $("c_total").textContent=fmt(con.total);
   const nAd=(con.lista||[]).filter(x=>x.de_anuncio).length;

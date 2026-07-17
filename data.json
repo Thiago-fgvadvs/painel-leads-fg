@@ -1,33 +1,37 @@
 {
- "gerado_em": "17/07/2026, 09:55",
+ "gerado_em": "17/07/2026, 10:45",
  "data_ref": "17/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 1,
-  "fora_sla": 2,
-  "sem_resposta": 6,
-  "fora_horario": 5,
-  "pct_sla": 33,
-  "mediana_geral": 27.6,
-  "leads_7d": 254,
-  "tickets_abertos": 202,
+  "total": 17,
+  "no_sla": 2,
+  "fora_sla": 3,
+  "sem_resposta": 5,
+  "fora_horario": 7,
+  "pct_sla": 40,
+  "mediana_geral": 25.8,
+  "leads_7d": 257,
+  "tickets_abertos": 201,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 8,
-   "mediana_min": 27.6
+   "leads": 12,
+   "mediana_min": 25.8
   }
  ],
  "origem": {
-  "Anuncio": 14,
-  "Direto/Indicacao": 0
+  "Anuncio": 16,
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 4
+  },
+  {
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 3
   },
   {
@@ -35,11 +39,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 2
+   "url": "www.instagram.com/p/DaQvm7HspOM/",
+   "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DaQvm7HspOM/",
+   "url": "www.instagram.com/p/DYVTWI6DPYt/",
    "leads": 1
   },
   {
@@ -53,17 +57,19 @@
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 5,
-  "Nao identificada": 9
+  "Nao identificada": 12,
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [
+  {
+   "nome": "Leticia Trubat 🌼",
+   "tel": "5521*****094",
+   "criado": "10:08",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Socorro Leite",
    "tel": "5581*****225",
@@ -77,7 +83,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "557196523279",
+   "nome": "Joana Silva",
    "tel": "5571*****279",
    "criado": "22:58",
    "area": "Trabalhista"
@@ -87,21 +93,16 @@
    "tel": "5591*****024",
    "criado": "22:50",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "5511954306814",
-   "tel": "5511*****814",
-   "criado": "22:05",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Caroly",
-   "tel": "5587*****019",
-   "criado": "21:39",
-   "area": "Nao identificada"
   }
  ],
  "fora_sla_lista": [
+  {
+   "nome": "Elis",
+   "tel": "5543*****556",
+   "criado": "10:07",
+   "espera_min": 25.8,
+   "atendente": "Eduardo"
+  },
   {
    "nome": "Deus e Bom",
    "tel": "5571*****554",
@@ -119,22 +120,22 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 152,
-  "turnos": 502,
-  "respondidos": 478,
-  "sem_resposta": 24,
-  "sem_resposta_grupos": 24,
-  "mediana_min": 22.8,
+  "grupos_ativos": 153,
+  "turnos": 508,
+  "respondidos": 487,
+  "sem_resposta": 21,
+  "sem_resposta_grupos": 21,
+  "mediana_min": 24.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 238,
-    "mediana_min": 29.9
+    "respostas": 246,
+    "mediana_min": 31.7
    },
    {
     "nome": "Nicolas",
-    "respostas": 138,
-    "mediana_min": 29.2
+    "respostas": 139,
+    "mediana_min": 30.8
    },
    {
     "nome": "Eduardo",
@@ -169,22 +170,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "P.D.P.G x STERILENO COMERCIO E SERVICOS LTDA",
+    "dia": "16/07",
+    "desde": "18:12",
+    "ts": 1784236335268
+   },
+   {
     "grupo": "D.S.D.S x CIRURGICA FERNANDES - COMERCIO DE MATERIAIS CIRURGICOS E HOSPITALARES SA",
     "dia": "17/07",
     "desde": "09:50",
     "ts": 1784292654046
-   },
-   {
-    "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
-    "dia": "17/07",
-    "desde": "09:46",
-    "ts": 1784292412053
-   },
-   {
-    "grupo": "A.F.G",
-    "dia": "17/07",
-    "desde": "09:23",
-    "ts": 1784291018039
    },
    {
     "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
@@ -223,22 +218,10 @@
     "ts": 1784237361270
    },
    {
-    "grupo": "P.D.P.G x STERILENO COMERCIO E SERVICOS LTDA",
-    "dia": "16/07",
-    "desde": "18:12",
-    "ts": 1784236335268
-   },
-   {
     "grupo": "G.C.A x Opção Facilities Service, Alarcenter e PKS Serviços",
     "dia": "16/07",
     "desde": "17:59",
     "ts": 1784235580260
-   },
-   {
-    "grupo": "R.L.M.D.O x LÍLIA RAMOS MARQUES",
-    "dia": "16/07",
-    "desde": "15:38",
-    "ts": 1784227124159
    },
    {
     "grupo": "D.D.A.F x ITAU",
@@ -332,34 +315,6 @@
     "ts": 1784224401571
    },
    {
-    "nome": "saviobezerra",
-    "tel": "5566*****033",
-    "dia": "16/07",
-    "desde": "19:42",
-    "ts": 1784241733659
-   },
-   {
-    "nome": "555197825220",
-    "tel": "5551*****220",
-    "dia": "16/07",
-    "desde": "20:39",
-    "ts": 1784245197865
-   },
-   {
-    "nome": "Caroly",
-    "tel": "5587*****019",
-    "dia": "16/07",
-    "desde": "21:39",
-    "ts": 1784248762491
-   },
-   {
-    "nome": "5511954306814",
-    "tel": "5511*****814",
-    "dia": "16/07",
-    "desde": "22:05",
-    "ts": 1784250332905
-   },
-   {
     "nome": "559184220024",
     "tel": "5591*****024",
     "dia": "16/07",
@@ -367,7 +322,7 @@
     "ts": 1784253033266
    },
    {
-    "nome": "557196523279",
+    "nome": "Joana Silva",
     "tel": "5571*****279",
     "dia": "16/07",
     "desde": "22:58",
@@ -386,6 +341,13 @@
     "dia": "17/07",
     "desde": "08:44",
     "ts": 1784288657489
+   },
+   {
+    "nome": "Leticia Trubat 🌼",
+    "tel": "5521*****094",
+    "dia": "17/07",
+    "desde": "10:08",
+    "ts": 1784293720631
    }
   ],
   "grupos": [
@@ -462,12 +424,6 @@
     "ts": 1784221362003
    },
    {
-    "grupo": "R.L.M.D.O x LÍLIA RAMOS MARQUES",
-    "dia": "16/07",
-    "desde": "15:38",
-    "ts": 1784227124159
-   },
-   {
     "grupo": "G.C.A x Opção Facilities Service, Alarcenter e PKS Serviços",
     "dia": "16/07",
     "desde": "17:59",
@@ -510,22 +466,10 @@
     "ts": 1784286594013
    },
    {
-    "grupo": "A.F.G",
-    "dia": "17/07",
-    "desde": "09:23",
-    "ts": 1784291018039
-   },
-   {
     "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
     "dia": "17/07",
     "desde": "09:26",
     "ts": 1784291187041
-   },
-   {
-    "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
-    "dia": "17/07",
-    "desde": "09:46",
-    "ts": 1784292412053
    },
    {
     "grupo": "D.S.D.S x CIRURGICA FERNANDES - COMERCIO DE MATERIAIS CIRURGICOS E HOSPITALARES SA",
@@ -1166,14 +1110,34 @@
    }
   ]
  },
+ "agora": {
+  "fila": 21,
+  "abertos": 201,
+  "com_atendimento": 6,
+  "online": 2,
+  "offline": 4,
+  "ausentes": 3,
+  "espera_media_s": 22395
+ },
  "leads": [
   {
-   "nome": "Luis Felipe 🦅",
-   "tel": "5511*****087",
-   "criado": "09:29",
+   "nome": "Elis",
+   "tel": "5543*****556",
+   "criado": "10:07",
    "atendente": "Eduardo",
-   "espera_min": 2.2,
-   "status": "NO_SLA",
+   "espera_min": 25.8,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Thiago",
+   "tel": "5511*****814",
+   "criado": "22:05",
+   "atendente": "Eduardo",
+   "espera_min": 722.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
    "area": "Trabalhista"
@@ -1187,6 +1151,50 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaQvm7HspOM/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Luis Felipe 🦅",
+   "tel": "5511*****087",
+   "criado": "09:29",
+   "atendente": "Eduardo",
+   "espera_min": 2.2,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Caroly",
+   "tel": "5587*****019",
+   "criado": "21:39",
+   "atendente": "Eduardo",
+   "espera_min": 740.7,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Leticia Trubat 🌼",
+   "tel": "5521*****094",
+   "criado": "10:08",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Fabio⚡😎⚡🐶🔥🐖🌹⚡",
+   "tel": "5514*****103",
+   "criado": "10:04",
+   "atendente": "Eduardo",
+   "espera_min": 3.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
   },
   {
@@ -1278,7 +1286,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "557196523279",
+   "nome": "Joana Silva",
    "tel": "5571*****279",
    "criado": "22:58",
    "atendente": "—",
@@ -1298,28 +1306,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/k186mT53Y",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "5511954306814",
-   "tel": "5511*****814",
-   "criado": "22:05",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Caroly",
-   "tel": "5587*****019",
-   "criado": "21:39",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
-   "area": "Nao identificada"
   }
  ]
 }
