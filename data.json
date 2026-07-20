@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 19:42",
+ "gerado_em": "20/07/2026, 19:57",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
+  "total": 35,
   "no_sla": 15,
   "fora_sla": 12,
-  "sem_resposta": 4,
+  "sem_resposta": 6,
   "fora_horario": 2,
   "pct_sla": 56,
   "mediana_geral": 13.3,
-  "leads_7d": 257,
-  "tickets_abertos": 222,
+  "leads_7d": 259,
+  "tickets_abertos": 224,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -37,16 +37,16 @@
   }
  ],
  "origem": {
-  "Anuncio": 28,
+  "Anuncio": 30,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 8
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 10
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 8
   },
   {
@@ -75,11 +75,23 @@
   }
  ],
  "areas": {
-  "Nao identificada": 21,
+  "Nao identificada": 23,
   "Trabalhista": 11,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
+  {
+   "nome": "554891214540",
+   "tel": "5548*****540",
+   "criado": "19:47",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "554899054228",
+   "tel": "5548*****228",
+   "criado": "19:43",
+   "area": "Nao identificada"
+  },
   {
    "nome": "556294551143",
    "tel": "5562*****143",
@@ -444,6 +456,20 @@
     "dia": "20/07",
     "desde": "19:01",
     "ts": 1784584885635
+   },
+   {
+    "nome": "554899054228",
+    "tel": "5548*****228",
+    "dia": "20/07",
+    "desde": "19:43",
+    "ts": 1784587387422
+   },
+   {
+    "nome": "554891214540",
+    "tel": "5548*****540",
+    "dia": "20/07",
+    "desde": "19:47",
+    "ts": 1784587636010
    }
   ],
   "grupos": [
@@ -1462,8 +1488,8 @@
   ]
  },
  "agora": {
-  "fila": 20,
-  "abertos": 222,
+  "fila": 22,
+  "abertos": 224,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
@@ -1471,10 +1497,32 @@
   "espera_media_s": 96496
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-20T22:01:25.635Z",
-  "min_sem_lead": 41
+  "ultimo_lead_at": "2026-07-20T22:47:16.010Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "554891214540",
+   "tel": "5548*****540",
+   "criado": "19:47",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "554899054228",
+   "tel": "5548*****228",
+   "criado": "19:43",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "556294551143",
    "tel": "5562*****143",
