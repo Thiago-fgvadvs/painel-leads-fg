@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 18:11",
+ "gerado_em": "20/07/2026, 18:26",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 32,
-  "no_sla": 14,
-  "fora_sla": 11,
-  "sem_resposta": 5,
+  "no_sla": 15,
+  "fora_sla": 12,
+  "sem_resposta": 3,
   "fora_horario": 2,
   "pct_sla": 56,
   "mediana_geral": 13.3,
   "leads_7d": 256,
-  "tickets_abertos": 222,
+  "tickets_abertos": 221,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,8 +22,8 @@
   },
   {
    "nome": "Tiago Bernardo",
-   "leads": 11,
-   "mediana_min": 31
+   "leads": 13,
+   "mediana_min": 20.5
   },
   {
    "nome": "Nicolas",
@@ -81,18 +81,6 @@
  },
  "sem_resposta_lista": [
   {
-   "nome": "Stefany",
-   "tel": "5511*****442",
-   "criado": "18:02",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553173662835",
-   "tel": "5531*****835",
-   "criado": "17:55",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "lemay81martinez",
    "tel": "5545*****354",
    "criado": "16:00",
@@ -112,6 +100,13 @@
   }
  ],
  "fora_sla_lista": [
+  {
+   "nome": "Mateus 😎",
+   "tel": "5531*****835",
+   "criado": "17:55",
+   "espera_min": 20.5,
+   "atendente": "Tiago Bernardo"
+  },
   {
    "nome": "Denise",
    "tel": "5513*****347",
@@ -193,21 +188,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 165,
-  "turnos": 536,
-  "respondidos": 509,
-  "sem_resposta": 27,
-  "sem_resposta_grupos": 27,
-  "mediana_min": 19.6,
+  "turnos": 540,
+  "respondidos": 515,
+  "sem_resposta": 25,
+  "sem_resposta_grupos": 25,
+  "mediana_min": 19.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 238,
-    "mediana_min": 26.9
+    "respostas": 242,
+    "mediana_min": 27.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 184,
-    "mediana_min": 17.1
+    "respostas": 186,
+    "mediana_min": 18
    },
    {
     "nome": "Eduardo",
@@ -260,12 +255,6 @@
     "ts": 1784579789963
    },
    {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "20/07",
-    "desde": "16:15",
-    "ts": 1784574916932
-   },
-   {
     "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
     "dia": "20/07",
     "desde": "15:49",
@@ -300,12 +289,6 @@
     "dia": "20/07",
     "desde": "09:15",
     "ts": 1784549738592
-   },
-   {
-    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
-    "dia": "20/07",
-    "desde": "09:45",
-    "ts": 1784551506620
    },
    {
     "grupo": "E.S.N.D.S x INSS",
@@ -442,20 +425,6 @@
     "dia": "20/07",
     "desde": "16:00",
     "ts": 1784574037461
-   },
-   {
-    "nome": "553173662835",
-    "tel": "5531*****835",
-    "dia": "20/07",
-    "desde": "17:55",
-    "ts": 1784580933904
-   },
-   {
-    "nome": "Stefany",
-    "tel": "5511*****442",
-    "dia": "20/07",
-    "desde": "18:02",
-    "ts": 1784581364761
    }
   ],
   "grupos": [
@@ -568,12 +537,6 @@
     "ts": 1784549738592
    },
    {
-    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
-    "dia": "20/07",
-    "desde": "09:45",
-    "ts": 1784551506620
-   },
-   {
     "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
     "dia": "20/07",
     "desde": "10:04",
@@ -596,12 +559,6 @@
     "dia": "20/07",
     "desde": "15:49",
     "ts": 1784573355916
-   },
-   {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "20/07",
-    "desde": "16:15",
-    "ts": 1784574916932
    },
    {
     "grupo": "W.O.V x INSS",
@@ -1480,48 +1437,26 @@
   ]
  },
  "agora": {
-  "fila": 20,
-  "abertos": 222,
-  "com_atendimento": 5,
+  "fila": 18,
+  "abertos": 221,
+  "com_atendimento": 6,
   "online": 3,
   "offline": 6,
   "ausentes": 0,
-  "espera_media_s": 97359
+  "espera_media_s": 96496
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-20T12:42:23.656Z",
-  "min_sem_lead": 509
+  "ultimo_lead_at": "2026-07-20T20:55:33.904Z",
+  "min_sem_lead": 31
  },
  "leads": [
   {
-   "nome": "Adriana",
-   "tel": "5521*****537",
-   "criado": "09:42",
-   "atendente": "Nicolas",
-   "espera_min": 4.2,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Stefany",
-   "tel": "5511*****442",
-   "criado": "18:02",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553173662835",
+   "nome": "Mateus 😎",
    "tel": "5531*****835",
    "criado": "17:55",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 20.5,
+   "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
@@ -1536,6 +1471,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Stefany",
+   "tel": "5511*****442",
+   "criado": "18:02",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 13.1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Adriana",
+   "tel": "5521*****537",
+   "criado": "09:42",
+   "atendente": "Nicolas",
+   "espera_min": 4.2,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Tati🥰",
