@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 12:04",
+ "gerado_em": "20/07/2026, 12:19",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 4,
+  "total": 15,
+  "no_sla": 5,
   "fora_sla": 5,
   "sem_resposta": 2,
   "fora_horario": 2,
-  "pct_sla": 44,
-  "mediana_geral": 16.6,
-  "leads_7d": 238,
-  "tickets_abertos": 221,
+  "pct_sla": 50,
+  "mediana_geral": 15,
+  "leads_7d": 239,
+  "tickets_abertos": 204,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,8 +22,8 @@
   },
   {
    "nome": "Tiago Bernardo",
-   "leads": 3,
-   "mediana_min": 35.3
+   "leads": 4,
+   "mediana_min": 20.5
   },
   {
    "nome": "Nicolas",
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
@@ -54,14 +54,14 @@
   }
  ],
  "areas": {
-  "Nao identificada": 10,
+  "Nao identificada": 11,
   "Trabalhista": 4
  },
  "sem_resposta_lista": [
   {
-   "nome": "Kamila ✨",
-   "tel": "5547*****287",
-   "criado": "12:02",
+   "nome": "Rejane",
+   "tel": "5584*****007",
+   "criado": "12:18",
    "area": "Nao identificada"
   },
   {
@@ -111,26 +111,26 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 150,
-  "turnos": 484,
-  "respondidos": 458,
-  "sem_resposta": 26,
-  "sem_resposta_grupos": 26,
-  "mediana_min": 19.7,
+  "turnos": 490,
+  "respondidos": 462,
+  "sem_resposta": 28,
+  "sem_resposta_grupos": 28,
+  "mediana_min": 19.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 233,
-    "mediana_min": 26.4
+    "respostas": 234,
+    "mediana_min": 26.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 148,
-    "mediana_min": 16.3
+    "respostas": 150,
+    "mediana_min": 16.1
    },
    {
     "nome": "Eduardo",
-    "respostas": 37,
-    "mediana_min": 9
+    "respostas": 38,
+    "mediana_min": 8.7
    },
    {
     "nome": "Gabrielle",
@@ -160,10 +160,28 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
+    "dia": "20/07",
+    "desde": "12:19",
+    "ts": 1784560746698
+   },
+   {
+    "grupo": "I.F x CONSTRUTORA RAMON AGUILERA",
+    "dia": "20/07",
+    "desde": "12:13",
+    "ts": 1784560381760
+   },
+   {
     "grupo": "I.C.D.S.R x REDE PLUS HORTIFRUTI 8 LTDA",
     "dia": "20/07",
-    "desde": "12:03",
-    "ts": 1784559825680
+    "desde": "12:12",
+    "ts": 1784560331759
+   },
+   {
+    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "dia": "20/07",
+    "desde": "12:07",
+    "ts": 1784560023754
    },
    {
     "grupo": "A.F.G",
@@ -218,12 +236,6 @@
     "dia": "17/07",
     "desde": "15:30",
     "ts": 1784313018373
-   },
-   {
-    "grupo": "D.S.D.S x CIRURGICA FERNANDES - COMERCIO DE MATERIAIS CIRURGICOS E HOSPITALARES SA",
-    "dia": "17/07",
-    "desde": "15:02",
-    "ts": 1784311332390
    },
    {
     "grupo": "A.L.M.J x ARCOS DOURADOS COMERCIO DE ALIMENTO SA",
@@ -377,13 +389,6 @@
     "ts": 1784392762888
    },
    {
-    "nome": "Tata",
-    "tel": "5521*****276",
-    "dia": "18/07",
-    "desde": "13:45",
-    "ts": 1784393154068
-   },
-   {
     "nome": "Jhonata",
     "tel": "5566*****789",
     "dia": "18/07",
@@ -405,11 +410,11 @@
     "ts": 1784547229280
    },
    {
-    "nome": "Kamila ✨",
-    "tel": "5547*****287",
+    "nome": "Rejane",
+    "tel": "5584*****007",
     "dia": "20/07",
-    "desde": "12:02",
-    "ts": 1784559776734
+    "desde": "12:18",
+    "ts": 1784560704144
    }
   ],
   "grupos": [
@@ -504,12 +509,6 @@
     "ts": 1784304166000
    },
    {
-    "grupo": "D.S.D.S x CIRURGICA FERNANDES - COMERCIO DE MATERIAIS CIRURGICOS E HOSPITALARES SA",
-    "dia": "17/07",
-    "desde": "15:02",
-    "ts": 1784311332390
-   },
-   {
     "grupo": "A.F.D.S x ZARA ALIMENTACAO LTDA",
     "dia": "17/07",
     "desde": "15:30",
@@ -564,10 +563,28 @@
     "ts": 1784553971675
    },
    {
+    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "dia": "20/07",
+    "desde": "12:07",
+    "ts": 1784560023754
+   },
+   {
     "grupo": "I.C.D.S.R x REDE PLUS HORTIFRUTI 8 LTDA",
     "dia": "20/07",
-    "desde": "12:03",
-    "ts": 1784559825680
+    "desde": "12:12",
+    "ts": 1784560331759
+   },
+   {
+    "grupo": "I.F x CONSTRUTORA RAMON AGUILERA",
+    "dia": "20/07",
+    "desde": "12:13",
+    "ts": 1784560381760
+   },
+   {
+    "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
+    "dia": "20/07",
+    "desde": "12:19",
+    "ts": 1784560746698
    }
   ]
  },
@@ -1428,26 +1445,37 @@
   ]
  },
  "agora": {
-  "fila": 34,
-  "abertos": 221,
+  "fila": 33,
+  "abertos": 204,
   "com_atendimento": 6,
   "online": 5,
   "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 83377
+  "espera_media_s": 93920
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-17T12:04:45.619Z",
-  "min_sem_lead": 4500
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 650880
  },
  "leads": [
   {
-   "nome": "Renata Oltramari",
-   "tel": "5511*****299",
-   "criado": "11:49",
-   "atendente": "Eduardo",
-   "espera_min": 13.3,
+   "nome": "Adriana Arruda Pereira ",
+   "tel": "5521*****537",
+   "criado": "09:42",
+   "atendente": "Nicolas",
+   "espera_min": 4.2,
    "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Rejane",
+   "tel": "5584*****007",
+   "criado": "12:18",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
@@ -1456,9 +1484,20 @@
    "nome": "Kamila ✨",
    "tel": "5547*****287",
    "criado": "12:02",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 5.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Renata Oltramari",
+   "tel": "5511*****299",
+   "criado": "11:49",
+   "atendente": "Eduardo",
+   "espera_min": 13.3,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
@@ -1484,17 +1523,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4EDzR2aSz",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Adriana Arruda Pereira ",
-   "tel": "5521*****537",
-   "criado": "09:42",
-   "atendente": "Nicolas",
-   "espera_min": 4.2,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "BeaTriz 🦋",
