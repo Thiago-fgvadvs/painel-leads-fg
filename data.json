@@ -1,16 +1,16 @@
 {
- "gerado_em": "20/07/2026, 16:39",
+ "gerado_em": "20/07/2026, 16:54",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 28,
+  "total": 29,
   "no_sla": 12,
   "fora_sla": 11,
-  "sem_resposta": 3,
+  "sem_resposta": 4,
   "fora_horario": 2,
   "pct_sla": 52,
   "mediana_geral": 14.8,
-  "leads_7d": 252,
+  "leads_7d": 253,
   "tickets_abertos": 220,
   "periodo_dias": 7
  },
@@ -37,7 +37,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 24,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -54,6 +54,10 @@
    "leads": 3
   },
   {
+   "url": "fb.me/6mRwhMfKR",
+   "leads": 2
+  },
+  {
    "url": "fb.me/4EDzR2aSz",
    "leads": 2
   },
@@ -66,20 +70,22 @@
    "leads": 1
   },
   {
-   "url": "fb.me/6mRwhMfKR",
-   "leads": 1
-  },
-  {
    "url": "fb.me/8B5V96ay5",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
+  "Trabalhista": 11,
   "Previdenciario": 1,
   "Nao identificada": 17
  },
  "sem_resposta_lista": [
+  {
+   "nome": "5511919314687",
+   "tel": "5511*****687",
+   "criado": "16:47",
+   "area": "Trabalhista"
+  },
   {
    "nome": "lemay81martinez",
    "tel": "5545*****354",
@@ -101,17 +107,17 @@
  ],
  "fora_sla_lista": [
   {
-   "nome": "Denise",
-   "tel": "5513*****347",
-   "criado": "15:44",
-   "espera_min": 35.7,
-   "atendente": "Tiago Bernardo"
-  },
-  {
    "nome": "Rejane",
    "tel": "5584*****007",
    "criado": "12:18",
    "espera_min": 31,
+   "atendente": "Tiago Bernardo"
+  },
+  {
+   "nome": "Denise",
+   "tel": "5513*****347",
+   "criado": "15:44",
+   "espera_min": 35.7,
    "atendente": "Tiago Bernardo"
   },
   {
@@ -181,10 +187,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 165,
-  "turnos": 525,
-  "respondidos": 499,
-  "sem_resposta": 26,
-  "sem_resposta_grupos": 26,
+  "turnos": 527,
+  "respondidos": 500,
+  "sem_resposta": 27,
+  "sem_resposta_grupos": 27,
   "mediana_min": 19.2,
   "atendentes": [
    {
@@ -194,8 +200,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 177,
-    "mediana_min": 16.5
+    "respostas": 178,
+    "mediana_min": 16.6
    },
    {
     "nome": "Eduardo",
@@ -230,6 +236,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
+    "dia": "20/07",
+    "desde": "16:51",
+    "ts": 1784577072943
+   },
+   {
+    "grupo": "W.O.V x INSS",
+    "dia": "20/07",
+    "desde": "16:48",
+    "ts": 1784576930817
+   },
+   {
     "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "20/07",
     "desde": "16:15",
@@ -252,12 +270,6 @@
     "dia": "20/07",
     "desde": "15:29",
     "ts": 1784572178778
-   },
-   {
-    "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
-    "dia": "20/07",
-    "desde": "15:15",
-    "ts": 1784571336882
    },
    {
     "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
@@ -398,13 +410,6 @@
     "ts": 1784392762888
    },
    {
-    "nome": "Jhonata",
-    "tel": "5566*****789",
-    "dia": "18/07",
-    "desde": "14:01",
-    "ts": 1784394082348
-   },
-   {
     "nome": "Márcia☕",
     "tel": "5511*****405",
     "dia": "18/07",
@@ -431,6 +436,13 @@
     "dia": "20/07",
     "desde": "16:00",
     "ts": 1784574037461
+   },
+   {
+    "nome": "5511919314687",
+    "tel": "5511*****687",
+    "dia": "20/07",
+    "desde": "16:47",
+    "ts": 1784576872872
    }
   ],
   "grupos": [
@@ -567,12 +579,6 @@
     "ts": 1784568292738
    },
    {
-    "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
-    "dia": "20/07",
-    "desde": "15:15",
-    "ts": 1784571336882
-   },
-   {
     "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
     "dia": "20/07",
     "desde": "15:29",
@@ -589,6 +595,18 @@
     "dia": "20/07",
     "desde": "16:15",
     "ts": 1784574916932
+   },
+   {
+    "grupo": "W.O.V x INSS",
+    "dia": "20/07",
+    "desde": "16:48",
+    "ts": 1784576930817
+   },
+   {
+    "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
+    "dia": "20/07",
+    "desde": "16:51",
+    "ts": 1784577072943
    }
   ]
  },
@@ -1449,28 +1467,28 @@
   ]
  },
  "agora": {
-  "fila": 19,
+  "fila": 18,
   "abertos": 220,
   "com_atendimento": 5,
-  "online": 3,
+  "online": 2,
   "offline": 4,
-  "ausentes": 2,
-  "espera_media_s": 96923
+  "ausentes": 3,
+  "espera_media_s": 98177
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:35.773Z",
-  "min_sem_lead": 430637
+  "ultimo_lead_at": "2026-07-17T22:30:39.514Z",
+  "min_sem_lead": 4164
  },
  "leads": [
   {
-   "nome": "Denise",
-   "tel": "5513*****347",
-   "criado": "15:44",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 35.7,
-   "status": "FORA_SLA",
+   "nome": "5511919314687",
+   "tel": "5511*****687",
+   "criado": "16:47",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "criativo": "fb.me/6mRwhMfKR",
    "area": "Trabalhista"
   },
   {
@@ -1483,6 +1501,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "Denise",
+   "tel": "5513*****347",
+   "criado": "15:44",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 35.7,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
   },
   {
    "nome": "553185164015",
