@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/07/2026, 13:51",
+ "gerado_em": "20/07/2026, 14:06",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -144,11 +144,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 155,
-  "turnos": 496,
-  "respondidos": 469,
+  "turnos": 499,
+  "respondidos": 472,
   "sem_resposta": 27,
   "sem_resposta_grupos": 27,
-  "mediana_min": 19.2,
+  "mediana_min": 19,
   "atendentes": [
    {
     "nome": "Julia",
@@ -162,8 +162,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 40,
-    "mediana_min": 9.3
+    "respostas": 43,
+    "mediana_min": 9
    },
    {
     "nome": "Gabrielle",
@@ -193,6 +193,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.F.G",
+    "dia": "20/07",
+    "desde": "14:01",
+    "ts": 1784566868841
+   },
+   {
     "grupo": "A.H.G x INSS",
     "dia": "20/07",
     "desde": "13:34",
@@ -215,12 +221,6 @@
     "dia": "20/07",
     "desde": "12:33",
     "ts": 1784561590791
-   },
-   {
-    "grupo": "A.F.G",
-    "dia": "20/07",
-    "desde": "10:26",
-    "ts": 1784553971675
    },
    {
     "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
@@ -585,12 +585,6 @@
     "ts": 1784552677579
    },
    {
-    "grupo": "A.F.G",
-    "dia": "20/07",
-    "desde": "10:26",
-    "ts": 1784553971675
-   },
-   {
     "grupo": "I.F x CONSTRUTORA RAMON AGUILERA",
     "dia": "20/07",
     "desde": "12:13",
@@ -613,6 +607,12 @@
     "dia": "20/07",
     "desde": "13:34",
     "ts": 1784565283829
+   },
+   {
+    "grupo": "A.F.G",
+    "dia": "20/07",
+    "desde": "14:01",
+    "ts": 1784566868841
    }
   ]
  },
@@ -1473,17 +1473,17 @@
   ]
  },
  "agora": {
-  "fila": 36,
+  "fila": 35,
   "abertos": 214,
   "com_atendimento": 6,
-  "online": 5,
-  "offline": 4,
+  "online": 4,
+  "offline": 5,
   "ausentes": 0,
   "espera_media_s": 89048
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-02T23:02:31.774Z",
-  "min_sem_lead": 25549
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 650987
  },
  "leads": [
   {
