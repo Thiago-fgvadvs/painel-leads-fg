@@ -116,6 +116,12 @@ async function main() {
     sem_resposta_lista: gUnanswered,
   };
 
+
+  // Sentinela de captação: último lead novo (não-grupo, com conversa)
+  let ultimoLead = null;
+  try { const ul = await api("/contacts", { perPage: 1, "where[isGroup]": false, "where[hadChat]": true, "order[0][0]": "createdAt", "order[0][1]": "DESC" }); const c = (ul?.data || [])[0]; if (c?.createdAt) ultimoLead = c.createdAt; } catch (e) { }
+  const minSemLead = ultimoLead ? Math.round((Date.now() - Date.parse(ultimoLead)) / 60000) : null;
+
   // Tempo real (tela Agora do Digisac) — sem PII
   let agora = null;
   try { const nr = await api("/now/resume"); const t = nr?.totals || {}; agora = { fila: Number(t.queueTickets || 0), abertos: Number(t.openTickets || 0), com_atendimento: Number(t.usersWithAttendance || 0), online: Number(t.onlineUsersCount || 0), offline: Number(t.offlineUsersCount || 0), ausentes: Number(t.absentUsersCount || 0), espera_media_s: Math.round(Number(t.averageOpenTicketsWaitTime || 0)) }; } catch (e) { }
@@ -172,6 +178,7 @@ async function main() {
     pendencias: { dias: 7, leads: pendLeads, grupos: pendGrupos },
     contratos: { dias: 7, total: contratosLista.length, por_vendedor: contratosPorVend, lista: contratosLista },
     agora,
+    captacao: { ultimo_lead_at: ultimoLead, min_sem_lead: minSemLead },
     leads: L,
   };
   writeFileSync(new URL("./data.json", import.meta.url), JSON.stringify(out, null, 1));

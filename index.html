@@ -155,6 +155,17 @@ function render(d){
     $("status").className="status "+(alerta?"red":"green");
     $("status").textContent=alerta?`🔴 Atenção: ${k.sem_resposta} sem resposta e ${k.fora_sla} fora do SLA de ${d.sla_min} min.`:(respondidos?`🟢 Atendimento em dia — ${k.pct_sla}% dentro do SLA.`:`🟡 ${k.total} lead(s) hoje, nenhum respondido ainda.`);
   }
+  const cap=d.captacao;
+  if(cap&&cap.min_sem_lead!=null){
+    const h=new Date().getHours();
+    if(cap.min_sem_lead>180&&h>=8&&h<=20){
+      const el=document.createElement("div");
+      el.className="status red";
+      el.style.marginTop="8px";
+      el.textContent="🚨 CAPTAÇÃO PARADA? Nenhum lead novo há "+Math.round(cap.min_sem_lead/60)+"h (último: "+new Date(cap.ultimo_lead_at).toLocaleString("pt-BR",{timeZone:"America/Sao_Paulo"})+"). Verifique os anúncios no Gerenciador Meta e a conexão do WhatsApp.";
+      $("status").after(el);
+    }
+  }
   const max=Math.max(1,...d.atendentes.map(a=>a.leads));
   $("tAtend").querySelector("tbody").innerHTML=d.atendentes.map(a=>`<tr><td>${a.nome}</td><td class="num">${fmt(a.leads)}</td><td class="num">${minLabel(a.mediana_min)}</td><td><div class="bar" style="width:${Math.round(100*a.leads/max)}%"></div></td></tr>`).join("")||"<tr><td colspan=4>Sem leads atendidos hoje até o momento.</td></tr>";
   bar("chOrigem",Object.keys(d.origem),Object.values(d.origem),["#3a5a9a","#7a2e3a"]);
