@@ -1,28 +1,28 @@
 {
- "gerado_em": "20/07/2026, 09:16",
+ "gerado_em": "20/07/2026, 09:31",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
+  "total": 5,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 4,
+  "sem_resposta": 5,
   "fora_horario": 0,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 228,
-  "tickets_abertos": 244,
+  "leads_7d": 229,
+  "tickets_abertos": 245,
   "periodo_dias": 7
  },
  "atendentes": [],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 1
+   "leads": 2
   },
   {
    "url": "fb.me/4EDzR2aSz",
@@ -38,10 +38,16 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
+  "Nao identificada": 4,
   "Trabalhista": 1
  },
  "sem_resposta_lista": [
+  {
+   "nome": "554396236634",
+   "tel": "5543*****634",
+   "criado": "09:22",
+   "area": "Nao identificada"
+  },
   {
    "nome": "5511946165274",
    "tel": "5511*****274",
@@ -71,21 +77,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 139,
-  "turnos": 442,
-  "respondidos": 418,
-  "sem_resposta": 24,
-  "sem_resposta_grupos": 24,
-  "mediana_min": 17.6,
+  "turnos": 449,
+  "respondidos": 426,
+  "sem_resposta": 23,
+  "sem_resposta_grupos": 23,
+  "mediana_min": 19.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 225,
-    "mediana_min": 24.3
+    "respostas": 229,
+    "mediana_min": 25.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 119,
-    "mediana_min": 16.2
+    "respostas": 123,
+    "mediana_min": 20.3
    },
    {
     "nome": "Eduardo",
@@ -122,21 +128,15 @@
    },
    {
     "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
-    "dia": "16/07",
-    "desde": "21:00",
-    "ts": 1784246401004
+    "dia": "20/07",
+    "desde": "09:24",
+    "ts": 1784550249601
    },
    {
-    "grupo": "J.G x GM COMÉRCIO LTDA",
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "17/07",
-    "desde": "21:10",
-    "ts": 1784333452528
-   },
-   {
-    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
-    "dia": "17/07",
-    "desde": "17:26",
-    "ts": 1784320015428
+    "desde": "15:23",
+    "ts": 1784312598365
    },
    {
     "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
@@ -598,6 +598,13 @@
     "dia": "20/07",
     "desde": "08:33",
     "ts": 1784547229280
+   },
+   {
+    "nome": "554396236634",
+    "tel": "5543*****634",
+    "dia": "20/07",
+    "desde": "09:22",
+    "ts": 1784550151455
    }
   ],
   "grupos": [
@@ -668,12 +675,6 @@
     "ts": 1784239615314
    },
    {
-    "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
-    "dia": "16/07",
-    "desde": "21:00",
-    "ts": 1784246401004
-   },
-   {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
     "dia": "17/07",
     "desde": "08:09",
@@ -704,6 +705,12 @@
     "ts": 1784311332390
    },
    {
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "17/07",
+    "desde": "15:23",
+    "ts": 1784312598365
+   },
+   {
     "grupo": "A.F.D.S x ZARA ALIMENTACAO LTDA",
     "dia": "17/07",
     "desde": "15:30",
@@ -728,22 +735,16 @@
     "ts": 1784317776470
    },
    {
-    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
-    "dia": "17/07",
-    "desde": "17:26",
-    "ts": 1784320015428
-   },
-   {
-    "grupo": "J.G x GM COMÉRCIO LTDA",
-    "dia": "17/07",
-    "desde": "21:10",
-    "ts": 1784333452528
-   },
-   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "20/07",
     "desde": "09:15",
     "ts": 1784549738592
+   },
+   {
+    "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
+    "dia": "20/07",
+    "desde": "09:24",
+    "ts": 1784550249601
    }
   ]
  },
@@ -1614,18 +1615,29 @@
  },
  "agora": {
   "fila": 73,
-  "abertos": 244,
-  "com_atendimento": 5,
-  "online": 4,
-  "offline": 4,
-  "ausentes": 1,
+  "abertos": 245,
+  "com_atendimento": 6,
+  "online": 3,
+  "offline": 3,
+  "ausentes": 3,
   "espera_media_s": 24177
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-16T02:46:20.624Z",
-  "min_sem_lead": 6330
+  "ultimo_lead_at": "2026-07-01T14:31:55.964Z",
+  "min_sem_lead": 27240
  },
  "leads": [
+  {
+   "nome": "554396236634",
+   "tel": "5543*****634",
+   "criado": "09:22",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "5511946165274",
    "tel": "5511*****274",
