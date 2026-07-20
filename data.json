@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 12:19",
+ "gerado_em": "20/07/2026, 12:35",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
-  "no_sla": 5,
+  "total": 17,
+  "no_sla": 6,
   "fora_sla": 5,
-  "sem_resposta": 2,
+  "sem_resposta": 3,
   "fora_horario": 2,
-  "pct_sla": 50,
-  "mediana_geral": 15,
-  "leads_7d": 239,
-  "tickets_abertos": 204,
+  "pct_sla": 55,
+  "mediana_geral": 13.3,
+  "leads_7d": 241,
+  "tickets_abertos": 206,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -26,14 +26,19 @@
    "mediana_min": 20.5
   },
   {
+   "nome": "Julia",
+   "leads": 1,
+   "mediana_min": 0.3
+  },
+  {
    "nome": "Nicolas",
    "leads": 1,
    "mediana_min": 4.2
   }
  ],
  "origem": {
-  "Anuncio": 13,
-  "Direto/Indicacao": 2
+  "Anuncio": 14,
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -42,7 +47,7 @@
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 4
+   "leads": 5
   },
   {
    "url": "www.instagram.com/p/DYVTAskDMJ6/",
@@ -54,10 +59,16 @@
   }
  ],
  "areas": {
-  "Nao identificada": 11,
-  "Trabalhista": 4
+  "Nao identificada": 12,
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [
+  {
+   "nome": "554185217193",
+   "tel": "5541*****193",
+   "criado": "12:29",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Rejane",
    "tel": "5584*****007",
@@ -110,12 +121,12 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 150,
-  "turnos": 490,
-  "respondidos": 462,
-  "sem_resposta": 28,
-  "sem_resposta_grupos": 28,
-  "mediana_min": 19.4,
+  "grupos_ativos": 151,
+  "turnos": 491,
+  "respondidos": 465,
+  "sem_resposta": 26,
+  "sem_resposta_grupos": 26,
+  "mediana_min": 19.2,
   "atendentes": [
    {
     "nome": "Julia",
@@ -124,7 +135,7 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 150,
+    "respostas": 152,
     "mediana_min": 16.1
    },
    {
@@ -134,8 +145,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 13,
-    "mediana_min": 1.7
+    "respostas": 14,
+    "mediana_min": 2.7
    },
    {
     "nome": "Thauany",
@@ -160,28 +171,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
-    "dia": "20/07",
-    "desde": "12:19",
-    "ts": 1784560746698
-   },
-   {
     "grupo": "I.F x CONSTRUTORA RAMON AGUILERA",
     "dia": "20/07",
     "desde": "12:13",
     "ts": 1784560381760
    },
    {
-    "grupo": "I.C.D.S.R x REDE PLUS HORTIFRUTI 8 LTDA",
+    "grupo": "G.L.T.P x INSS",
     "dia": "20/07",
-    "desde": "12:12",
-    "ts": 1784560331759
-   },
-   {
-    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
-    "dia": "20/07",
-    "desde": "12:07",
-    "ts": 1784560023754
+    "desde": "12:33",
+    "ts": 1784561590791
    },
    {
     "grupo": "A.F.G",
@@ -415,6 +414,13 @@
     "dia": "20/07",
     "desde": "12:18",
     "ts": 1784560704144
+   },
+   {
+    "nome": "554185217193",
+    "tel": "5541*****193",
+    "dia": "20/07",
+    "desde": "12:29",
+    "ts": 1784561380695
    }
   ],
   "grupos": [
@@ -563,28 +569,16 @@
     "ts": 1784553971675
    },
    {
-    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
-    "dia": "20/07",
-    "desde": "12:07",
-    "ts": 1784560023754
-   },
-   {
-    "grupo": "I.C.D.S.R x REDE PLUS HORTIFRUTI 8 LTDA",
-    "dia": "20/07",
-    "desde": "12:12",
-    "ts": 1784560331759
-   },
-   {
     "grupo": "I.F x CONSTRUTORA RAMON AGUILERA",
     "dia": "20/07",
     "desde": "12:13",
     "ts": 1784560381760
    },
    {
-    "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
+    "grupo": "G.L.T.P x INSS",
     "dia": "20/07",
-    "desde": "12:19",
-    "ts": 1784560746698
+    "desde": "12:33",
+    "ts": 1784561590791
    }
   ]
  },
@@ -1445,19 +1439,52 @@
   ]
  },
  "agora": {
-  "fila": 33,
-  "abertos": 204,
+  "fila": 35,
+  "abertos": 206,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 4,
   "offline": 4,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 93920
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 650880
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 650895
  },
  "leads": [
+  {
+   "nome": "VIVIANE NUNES x INSS",
+   "tel": "5565*****448",
+   "criado": "12:31",
+   "atendente": "Julia",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Kamila ✨",
+   "tel": "5547*****287",
+   "criado": "12:02",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 5.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554185217193",
+   "tel": "5541*****193",
+   "criado": "12:29",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Adriana Arruda Pereira ",
    "tel": "5521*****537",
@@ -1470,34 +1497,23 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Rejane",
-   "tel": "5584*****007",
-   "criado": "12:18",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Kamila ✨",
-   "tel": "5547*****287",
-   "criado": "12:02",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 5.7,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Renata Oltramari",
    "tel": "5511*****299",
    "criado": "11:49",
    "atendente": "Eduardo",
    "espera_min": 13.3,
    "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Rejane",
+   "tel": "5584*****007",
+   "criado": "12:18",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
