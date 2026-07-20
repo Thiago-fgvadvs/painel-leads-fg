@@ -1,24 +1,24 @@
 {
- "gerado_em": "20/07/2026, 13:36",
+ "gerado_em": "20/07/2026, 13:51",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 23,
-  "no_sla": 9,
+  "no_sla": 10,
   "fora_sla": 7,
-  "sem_resposta": 4,
+  "sem_resposta": 3,
   "fora_horario": 2,
-  "pct_sla": 56,
-  "mediana_geral": 11.8,
+  "pct_sla": 59,
+  "mediana_geral": 10.3,
   "leads_7d": 247,
-  "tickets_abertos": 213,
+  "tickets_abertos": 214,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 10,
-   "mediana_min": 15
+   "leads": 11,
+   "mediana_min": 13.3
   },
   {
    "nome": "Tiago Bernardo",
@@ -71,12 +71,6 @@
   "Trabalhista": 6
  },
  "sem_resposta_lista": [
-  {
-   "nome": "556199453826",
-   "tel": "5561*****826",
-   "criado": "13:30",
-   "area": "Nao identificada"
-  },
   {
    "nome": "559292121820",
    "tel": "5592*****820",
@@ -455,13 +449,6 @@
     "dia": "20/07",
     "desde": "13:24",
     "ts": 1784564658780
-   },
-   {
-    "nome": "556199453826",
-    "tel": "5561*****826",
-    "dia": "20/07",
-    "desde": "13:30",
-    "ts": 1784565046874
    }
   ],
   "grupos": [
@@ -1487,25 +1474,25 @@
  },
  "agora": {
   "fila": 36,
-  "abertos": 213,
+  "abertos": 214,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 5,
   "offline": 4,
-  "ausentes": 1,
-  "espera_media_s": 89991
+  "ausentes": 0,
+  "espera_media_s": 89048
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-20T16:30:46.874Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2026-07-02T23:02:31.774Z",
+  "min_sem_lead": 25549
  },
  "leads": [
   {
-   "nome": "556199453826",
+   "nome": "rodrigues",
    "tel": "5561*****826",
    "criado": "13:30",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Eduardo",
+   "espera_min": 7.9,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
