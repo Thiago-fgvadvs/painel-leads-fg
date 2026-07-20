@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/07/2026, 18:26",
+ "gerado_em": "20/07/2026, 18:41",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -188,21 +188,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 165,
-  "turnos": 540,
-  "respondidos": 515,
-  "sem_resposta": 25,
-  "sem_resposta_grupos": 25,
+  "turnos": 541,
+  "respondidos": 517,
+  "sem_resposta": 24,
+  "sem_resposta_grupos": 24,
   "mediana_min": 19.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 242,
+    "respostas": 243,
     "mediana_min": 27.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 186,
-    "mediana_min": 18
+    "respostas": 187,
+    "mediana_min": 18.5
    },
    {
     "nome": "Eduardo",
@@ -237,10 +237,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "W.O.V x INSS",
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
     "dia": "20/07",
-    "desde": "16:48",
-    "ts": 1784576930817
+    "desde": "18:38",
+    "ts": 1784583487009
    },
    {
     "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
@@ -259,12 +259,6 @@
     "dia": "20/07",
     "desde": "15:49",
     "ts": 1784573355916
-   },
-   {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "17/07",
-    "desde": "16:49",
-    "ts": 1784317776470
    },
    {
     "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
@@ -525,12 +519,6 @@
     "ts": 1784315706456
    },
    {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "17/07",
-    "desde": "16:49",
-    "ts": 1784317776470
-   },
-   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "20/07",
     "desde": "09:15",
@@ -561,12 +549,6 @@
     "ts": 1784573355916
    },
    {
-    "grupo": "W.O.V x INSS",
-    "dia": "20/07",
-    "desde": "16:48",
-    "ts": 1784576930817
-   },
-   {
     "grupo": "A.D.S.R x NOVO HORIZONTE JACAREPAGUA IMPORTACAO E EXPORTACAO S.A",
     "dia": "20/07",
     "desde": "17:36",
@@ -577,6 +559,12 @@
     "dia": "20/07",
     "desde": "18:08",
     "ts": 1784581697846
+   },
+   {
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "dia": "20/07",
+    "desde": "18:38",
+    "ts": 1784583487009
    }
   ]
  },
@@ -1437,17 +1425,17 @@
   ]
  },
  "agora": {
-  "fila": 18,
+  "fila": 19,
   "abertos": 221,
-  "com_atendimento": 6,
-  "online": 3,
-  "offline": 6,
+  "com_atendimento": 5,
+  "online": 0,
+  "offline": 9,
   "ausentes": 0,
   "espera_media_s": 96496
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-20T20:55:33.904Z",
-  "min_sem_lead": 31
+  "ultimo_lead_at": "2026-07-17T20:25:19.347Z",
+  "min_sem_lead": 4396
  },
  "leads": [
   {
