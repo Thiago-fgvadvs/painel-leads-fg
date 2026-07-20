@@ -1,24 +1,24 @@
 {
- "gerado_em": "20/07/2026, 11:49",
+ "gerado_em": "20/07/2026, 12:04",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 2,
+  "total": 14,
+  "no_sla": 4,
   "fora_sla": 5,
-  "sem_resposta": 1,
+  "sem_resposta": 2,
   "fora_horario": 2,
-  "pct_sla": 29,
-  "mediana_geral": 17.1,
-  "leads_7d": 235,
+  "pct_sla": 44,
+  "mediana_geral": 16.6,
+  "leads_7d": 238,
   "tickets_abertos": 221,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 5,
-   "mediana_min": 17.1
+   "leads": 7,
+   "mediana_min": 16.6
   },
   {
    "nome": "Tiago Bernardo",
@@ -32,32 +32,38 @@
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 12,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 5
+  },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 3
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "leads": 2
   },
   {
    "url": "fb.me/4EDzR2aSz",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DYVTAskDMJ6/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 7,
+  "Nao identificada": 10,
   "Trabalhista": 4
  },
  "sem_resposta_lista": [
+  {
+   "nome": "Kamila ✨",
+   "tel": "5547*****287",
+   "criado": "12:02",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Edson / Pai do Eduardo",
    "tel": "5511*****274",
@@ -104,21 +110,21 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 149,
-  "turnos": 479,
-  "respondidos": 452,
-  "sem_resposta": 27,
-  "sem_resposta_grupos": 27,
+  "grupos_ativos": 150,
+  "turnos": 484,
+  "respondidos": 458,
+  "sem_resposta": 26,
+  "sem_resposta_grupos": 26,
   "mediana_min": 19.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 232,
-    "mediana_min": 26.2
+    "respostas": 233,
+    "mediana_min": 26.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 143,
+    "respostas": 148,
     "mediana_min": 16.3
    },
    {
@@ -142,28 +148,22 @@
     "mediana_min": 39.6
    },
    {
-    "nome": "Luisa",
-    "respostas": 3,
-    "mediana_min": 61.1
-   },
-   {
     "nome": "—",
     "respostas": 3,
     "mediana_min": 0.7
+   },
+   {
+    "nome": "Luisa",
+    "respostas": 3,
+    "mediana_min": 61.1
    }
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "D.L.A.S x EUGENIO CROSARA JUNIOR ",
+    "grupo": "I.C.D.S.R x REDE PLUS HORTIFRUTI 8 LTDA",
     "dia": "20/07",
-    "desde": "11:43",
-    "ts": 1784558594737
-   },
-   {
-    "grupo": "G.L.T.P x INSS",
-    "dia": "20/07",
-    "desde": "11:27",
-    "ts": 1784557643644
+    "desde": "12:03",
+    "ts": 1784559825680
    },
    {
     "grupo": "A.F.G",
@@ -342,13 +342,6 @@
     "ts": 1784334783157
    },
    {
-    "nome": "Leila costa",
-    "tel": "5585*****191",
-    "dia": "17/07",
-    "desde": "22:18",
-    "ts": 1784337513023
-   },
-   {
     "nome": "Jéssica Pereira",
     "tel": "5518*****549",
     "dia": "17/07",
@@ -405,18 +398,18 @@
     "ts": 1784400221873
    },
    {
-    "nome": "Gab",
-    "tel": "5547*****958",
-    "dia": "18/07",
-    "desde": "16:16",
-    "ts": 1784402179547
-   },
-   {
     "nome": "Edson / Pai do Eduardo",
     "tel": "5511*****274",
     "dia": "20/07",
     "desde": "08:33",
     "ts": 1784547229280
+   },
+   {
+    "nome": "Kamila ✨",
+    "tel": "5547*****287",
+    "dia": "20/07",
+    "desde": "12:02",
+    "ts": 1784559776734
    }
   ],
   "grupos": [
@@ -571,16 +564,10 @@
     "ts": 1784553971675
    },
    {
-    "grupo": "G.L.T.P x INSS",
+    "grupo": "I.C.D.S.R x REDE PLUS HORTIFRUTI 8 LTDA",
     "dia": "20/07",
-    "desde": "11:27",
-    "ts": 1784557643644
-   },
-   {
-    "grupo": "D.L.A.S x EUGENIO CROSARA JUNIOR ",
-    "dia": "20/07",
-    "desde": "11:43",
-    "ts": 1784558594737
+    "desde": "12:03",
+    "ts": 1784559825680
    }
   ]
  },
@@ -1441,28 +1428,50 @@
   ]
  },
  "agora": {
-  "fila": 35,
+  "fila": 34,
   "abertos": 221,
   "com_atendimento": 6,
-  "online": 4,
-  "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 80521
+  "online": 5,
+  "offline": 4,
+  "ausentes": 0,
+  "espera_media_s": 83377
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-08T17:14:59.805Z",
-  "min_sem_lead": 17134
+  "ultimo_lead_at": "2026-07-17T12:04:45.619Z",
+  "min_sem_lead": 4500
  },
  "leads": [
   {
-   "nome": "Adriana Arruda Pereira ",
-   "tel": "5521*****537",
-   "criado": "09:42",
-   "atendente": "Nicolas",
-   "espera_min": 4.2,
+   "nome": "Renata Oltramari",
+   "tel": "5511*****299",
+   "criado": "11:49",
+   "atendente": "Eduardo",
+   "espera_min": 13.3,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Kamila ✨",
+   "tel": "5547*****287",
+   "criado": "12:02",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Deus é fiel",
+   "tel": "5571*****312",
+   "criado": "11:54",
+   "atendente": "Eduardo",
+   "espera_min": 7.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
    "area": "Nao identificada"
   },
   {
@@ -1475,6 +1484,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4EDzR2aSz",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Adriana Arruda Pereira ",
+   "tel": "5521*****537",
+   "criado": "09:42",
+   "atendente": "Nicolas",
+   "espera_min": 4.2,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "BeaTriz 🦋",
