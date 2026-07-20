@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/07/2026, 09:01",
+ "gerado_em": "20/07/2026, 09:16",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 228,
-  "tickets_abertos": 243,
+  "tickets_abertos": 244,
   "periodo_dias": 7
  },
  "atendentes": [],
@@ -71,11 +71,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 139,
-  "turnos": 438,
-  "respondidos": 415,
-  "sem_resposta": 23,
-  "sem_resposta_grupos": 23,
-  "mediana_min": 17.9,
+  "turnos": 442,
+  "respondidos": 418,
+  "sem_resposta": 24,
+  "sem_resposta_grupos": 24,
+  "mediana_min": 17.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -89,8 +89,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 34,
-    "mediana_min": 8.7
+    "respostas": 37,
+    "mediana_min": 9
    },
    {
     "nome": "Gabrielle",
@@ -116,15 +116,21 @@
   "sem_resposta_lista": [
    {
     "grupo": "Z.D.F.M.M.D.A.C",
-    "dia": "18/07",
-    "desde": "09:46",
-    "ts": 1784378803488
+    "dia": "20/07",
+    "desde": "09:15",
+    "ts": 1784549738592
    },
    {
     "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
     "dia": "16/07",
     "desde": "21:00",
     "ts": 1784246401004
+   },
+   {
+    "grupo": "J.G x GM COMÉRCIO LTDA",
+    "dia": "17/07",
+    "desde": "21:10",
+    "ts": 1784333452528
    },
    {
     "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
@@ -728,10 +734,16 @@
     "ts": 1784320015428
    },
    {
+    "grupo": "J.G x GM COMÉRCIO LTDA",
+    "dia": "17/07",
+    "desde": "21:10",
+    "ts": 1784333452528
+   },
+   {
     "grupo": "Z.D.F.M.M.D.A.C",
-    "dia": "18/07",
-    "desde": "09:46",
-    "ts": 1784378803488
+    "dia": "20/07",
+    "desde": "09:15",
+    "ts": 1784549738592
    }
   ]
  },
@@ -1601,17 +1613,17 @@
   ]
  },
  "agora": {
-  "fila": 72,
-  "abertos": 243,
+  "fila": 73,
+  "abertos": 244,
   "com_atendimento": 5,
-  "online": 2,
-  "offline": 7,
-  "ausentes": 0,
+  "online": 4,
+  "offline": 4,
+  "ausentes": 1,
   "espera_media_s": 24177
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 650681
+  "ultimo_lead_at": "2026-07-16T02:46:20.624Z",
+  "min_sem_lead": 6330
  },
  "leads": [
   {
