@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 15:07",
+ "gerado_em": "20/07/2026, 15:23",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
+  "total": 25,
   "no_sla": 11,
   "fora_sla": 9,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 55,
   "mediana_geral": 14.1,
-  "leads_7d": 248,
-  "tickets_abertos": 208,
+  "leads_7d": 249,
+  "tickets_abertos": 210,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -38,7 +38,7 @@
  ],
  "origem": {
   "Anuncio": 19,
-  "Direto/Indicacao": 5
+  "Direto/Indicacao": 6
  },
  "criativos": [
   {
@@ -67,7 +67,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 18,
+  "Nao identificada": 19,
   "Trabalhista": 6
  },
  "sem_resposta_lista": [
@@ -145,11 +145,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 159,
-  "turnos": 510,
-  "respondidos": 487,
-  "sem_resposta": 23,
-  "sem_resposta_grupos": 23,
+  "grupos_ativos": 160,
+  "turnos": 514,
+  "respondidos": 490,
+  "sem_resposta": 24,
+  "sem_resposta_grupos": 24,
   "mediana_min": 19.2,
   "atendentes": [
    {
@@ -159,8 +159,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 165,
-    "mediana_min": 16.3
+    "respostas": 168,
+    "mediana_min": 16.4
    },
    {
     "nome": "Eduardo",
@@ -197,8 +197,14 @@
    {
     "grupo": "A.H.G x INSS",
     "dia": "20/07",
-    "desde": "14:58",
-    "ts": 1784570305871
+    "desde": "15:16",
+    "ts": 1784571382895
+   },
+   {
+    "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
+    "dia": "20/07",
+    "desde": "15:15",
+    "ts": 1784571336882
    },
    {
     "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
@@ -500,10 +506,16 @@
     "ts": 1784568292738
    },
    {
+    "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
+    "dia": "20/07",
+    "desde": "15:15",
+    "ts": 1784571336882
+   },
+   {
     "grupo": "A.H.G x INSS",
     "dia": "20/07",
-    "desde": "14:58",
-    "ts": 1784570305871
+    "desde": "15:16",
+    "ts": 1784571382895
    }
   ]
  },
@@ -1365,7 +1377,7 @@
  },
  "agora": {
   "fila": 15,
-  "abertos": 208,
+  "abertos": 210,
   "com_atendimento": 5,
   "online": 4,
   "offline": 4,
@@ -1373,8 +1385,8 @@
   "espera_media_s": 99642
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-17T20:25:19.347Z",
-  "min_sem_lead": 4182
+  "ultimo_lead_at": "2025-09-24T18:22:35.773Z",
+  "min_sem_lead": 430560
  },
  "leads": [
   {
@@ -1634,6 +1646,17 @@
    "nome": "553185164015",
    "tel": "5531*****015",
    "criado": "11:11",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511939306669",
+   "tel": "5511*****669",
+   "criado": "15:20",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
