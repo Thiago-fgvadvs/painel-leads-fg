@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/07/2026, 10:17",
+ "gerado_em": "20/07/2026, 10:32",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 25,
   "mediana_geral": 16.9,
   "leads_7d": 232,
-  "tickets_abertos": 236,
+  "tickets_abertos": 217,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -49,8 +49,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
-  "Trabalhista": 2
+  "Nao identificada": 5,
+  "Trabalhista": 3
  },
  "sem_resposta_lista": [
   {
@@ -92,8 +92,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 141,
-  "turnos": 465,
-  "respondidos": 441,
+  "turnos": 467,
+  "respondidos": 443,
   "sem_resposta": 24,
   "sem_resposta_grupos": 24,
   "mediana_min": 19.7,
@@ -105,7 +105,7 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 133,
+    "respostas": 135,
     "mediana_min": 16.5
    },
    {
@@ -547,27 +547,6 @@
     "dia": "18/07",
     "desde": "14:01",
     "ts": 1784394082348
-   },
-   {
-    "nome": "Jalva",
-    "tel": "5555*****828",
-    "dia": "18/07",
-    "desde": "14:23",
-    "ts": 1784395428061
-   },
-   {
-    "nome": "Vinha 😘",
-    "tel": "5511*****196",
-    "dia": "18/07",
-    "desde": "14:29",
-    "ts": 1784395778899
-   },
-   {
-    "nome": "Tuiane 🥰",
-    "tel": "5521*****664",
-    "dia": "18/07",
-    "desde": "15:07",
-    "ts": 1784398061949
    },
    {
     "nome": "Márcia☕",
@@ -1602,17 +1581,17 @@
   ]
  },
  "agora": {
-  "fila": 70,
-  "abertos": 236,
+  "fila": 66,
+  "abertos": 217,
   "com_atendimento": 5,
-  "online": 5,
+  "online": 4,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 28344
+  "ausentes": 2,
+  "espera_media_s": 38634
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-17T14:04:06.900Z",
-  "min_sem_lead": 4273
+  "ultimo_lead_at": "2026-06-17T10:27:14.823Z",
+  "min_sem_lead": 47706
  },
  "leads": [
   {
@@ -1635,7 +1614,7 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "Paloma Moraes",
