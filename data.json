@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 13:20",
+ "gerado_em": "20/07/2026, 13:36",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
+  "total": 23,
   "no_sla": 9,
   "fora_sla": 7,
-  "sem_resposta": 2,
+  "sem_resposta": 4,
   "fora_horario": 2,
   "pct_sla": 56,
   "mediana_geral": 11.8,
-  "leads_7d": 245,
-  "tickets_abertos": 211,
+  "leads_7d": 247,
+  "tickets_abertos": 213,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -37,7 +37,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 19,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -47,11 +47,11 @@
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "www.instagram.com/p/DYVTAskDMJ6/",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "fb.me/8B5V96ay5",
@@ -67,10 +67,22 @@
   }
  ],
  "areas": {
-  "Nao identificada": 15,
+  "Nao identificada": 17,
   "Trabalhista": 6
  },
  "sem_resposta_lista": [
+  {
+   "nome": "556199453826",
+   "tel": "5561*****826",
+   "criado": "13:30",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "559292121820",
+   "tel": "5592*****820",
+   "criado": "13:24",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Denise",
    "tel": "5555*****759",
@@ -137,12 +149,12 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 154,
-  "turnos": 495,
-  "respondidos": 468,
+  "grupos_ativos": 155,
+  "turnos": 496,
+  "respondidos": 469,
   "sem_resposta": 27,
   "sem_resposta_grupos": 27,
-  "mediana_min": 19,
+  "mediana_min": 19.2,
   "atendentes": [
    {
     "nome": "Julia",
@@ -156,8 +168,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 39,
-    "mediana_min": 9
+    "respostas": 40,
+    "mediana_min": 9.3
    },
    {
     "nome": "Gabrielle",
@@ -187,16 +199,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "grupo": "A.H.G x INSS",
     "dia": "20/07",
-    "desde": "12:50",
-    "ts": 1784562658816
+    "desde": "13:34",
+    "ts": 1784565283829
    },
    {
     "grupo": "I.F x CONSTRUTORA RAMON AGUILERA",
     "dia": "20/07",
     "desde": "12:13",
     "ts": 1784560381760
+   },
+   {
+    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "dia": "20/07",
+    "desde": "12:50",
+    "ts": 1784562658816
    },
    {
     "grupo": "G.L.T.P x INSS",
@@ -275,12 +293,6 @@
     "dia": "17/07",
     "desde": "11:16",
     "ts": 1784297792097
-   },
-   {
-    "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
-    "dia": "17/07",
-    "desde": "08:09",
-    "ts": 1784286594013
    },
    {
     "grupo": "A.F.D.S x INSS",
@@ -436,6 +448,20 @@
     "dia": "20/07",
     "desde": "12:35",
     "ts": 1784561720597
+   },
+   {
+    "nome": "559292121820",
+    "tel": "5592*****820",
+    "dia": "20/07",
+    "desde": "13:24",
+    "ts": 1784564658780
+   },
+   {
+    "nome": "556199453826",
+    "tel": "5561*****826",
+    "dia": "20/07",
+    "desde": "13:30",
+    "ts": 1784565046874
    }
   ],
   "grupos": [
@@ -504,12 +530,6 @@
     "dia": "16/07",
     "desde": "19:06",
     "ts": 1784239615314
-   },
-   {
-    "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
-    "dia": "17/07",
-    "desde": "08:09",
-    "ts": 1784286594013
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
@@ -600,6 +620,12 @@
     "dia": "20/07",
     "desde": "12:50",
     "ts": 1784562658816
+   },
+   {
+    "grupo": "A.H.G x INSS",
+    "dia": "20/07",
+    "desde": "13:34",
+    "ts": 1784565283829
    }
   ]
  },
@@ -1460,19 +1486,41 @@
   ]
  },
  "agora": {
-  "fila": 34,
-  "abertos": 211,
+  "fila": 36,
+  "abertos": 213,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 4,
   "offline": 4,
-  "ausentes": 3,
+  "ausentes": 1,
   "espera_media_s": 89991
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-20T15:54:10.446Z",
-  "min_sem_lead": 27
+  "ultimo_lead_at": "2026-07-20T16:30:46.874Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "556199453826",
+   "tel": "5561*****826",
+   "criado": "13:30",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "559292121820",
+   "tel": "5592*****820",
+   "criado": "13:24",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Raffah Alvees 🦋",
    "tel": "5514*****956",
