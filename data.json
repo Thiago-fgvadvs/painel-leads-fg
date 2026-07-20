@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/07/2026, 17:25",
+ "gerado_em": "20/07/2026, 17:40",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 56,
   "mediana_geral": 13.3,
   "leads_7d": 254,
-  "tickets_abertos": 222,
+  "tickets_abertos": 221,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -181,10 +181,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 165,
-  "turnos": 532,
-  "respondidos": 505,
-  "sem_resposta": 27,
-  "sem_resposta_grupos": 27,
+  "turnos": 534,
+  "respondidos": 506,
+  "sem_resposta": 28,
+  "sem_resposta_grupos": 28,
   "mediana_min": 19.2,
   "atendentes": [
    {
@@ -194,8 +194,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 182,
-    "mediana_min": 17.1
+    "respostas": 183,
+    "mediana_min": 16.7
    },
    {
     "nome": "Eduardo",
@@ -229,6 +229,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.D.S.R x NOVO HORIZONTE JACAREPAGUA IMPORTACAO E EXPORTACAO S.A",
+    "dia": "20/07",
+    "desde": "17:36",
+    "ts": 1784579789963
+   },
    {
     "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
     "dia": "20/07",
@@ -594,6 +600,12 @@
     "dia": "20/07",
     "desde": "17:13",
     "ts": 1784578380940
+   },
+   {
+    "grupo": "A.D.S.R x NOVO HORIZONTE JACAREPAGUA IMPORTACAO E EXPORTACAO S.A",
+    "dia": "20/07",
+    "desde": "17:36",
+    "ts": 1784579789963
    }
   ]
  },
@@ -1455,16 +1467,16 @@
  },
  "agora": {
   "fila": 17,
-  "abertos": 222,
+  "abertos": 221,
   "com_atendimento": 5,
-  "online": 3,
+  "online": 4,
   "offline": 5,
-  "ausentes": 1,
-  "espera_media_s": 96434
+  "ausentes": 0,
+  "espera_media_s": 97359
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-15T20:10:29.023Z",
-  "min_sem_lead": 7215
+  "ultimo_lead_at": "2026-07-17T22:30:39.514Z",
+  "min_sem_lead": 4210
  },
  "leads": [
   {
