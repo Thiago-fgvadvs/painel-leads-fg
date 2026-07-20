@@ -1,24 +1,24 @@
 {
- "gerado_em": "20/07/2026, 13:05",
+ "gerado_em": "20/07/2026, 13:20",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 21,
   "no_sla": 9,
-  "fora_sla": 6,
-  "sem_resposta": 3,
+  "fora_sla": 7,
+  "sem_resposta": 2,
   "fora_horario": 2,
-  "pct_sla": 60,
-  "mediana_geral": 10.3,
+  "pct_sla": 56,
+  "mediana_geral": 11.8,
   "leads_7d": 245,
-  "tickets_abertos": 210,
+  "tickets_abertos": 211,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 9,
-   "mediana_min": 13.3
+   "leads": 10,
+   "mediana_min": 15
   },
   {
    "nome": "Tiago Bernardo",
@@ -78,12 +78,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "554185217193",
-   "tel": "5541*****193",
-   "criado": "12:29",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Edson / Pai do Eduardo",
    "tel": "5511*****274",
    "criado": "08:33",
@@ -91,6 +85,13 @@
   }
  ],
  "fora_sla_lista": [
+  {
+   "nome": "Victor Boeno",
+   "tel": "5541*****193",
+   "criado": "12:29",
+   "espera_min": 36.6,
+   "atendente": "Eduardo"
+  },
   {
    "nome": "Rejane",
    "tel": "5584*****007",
@@ -428,13 +429,6 @@
     "dia": "20/07",
     "desde": "08:33",
     "ts": 1784547229280
-   },
-   {
-    "nome": "554185217193",
-    "tel": "5541*****193",
-    "dia": "20/07",
-    "desde": "12:29",
-    "ts": 1784561380695
    },
    {
     "nome": "Denise",
@@ -1467,16 +1461,16 @@
  },
  "agora": {
   "fila": 34,
-  "abertos": 210,
+  "abertos": 211,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 2,
   "offline": 4,
-  "ausentes": 2,
-  "espera_media_s": 90935
+  "ausentes": 3,
+  "espera_media_s": 89991
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 650926
+  "ultimo_lead_at": "2026-07-20T15:54:10.446Z",
+  "min_sem_lead": 27
  },
  "leads": [
   {
@@ -1488,6 +1482,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/8B5V96ay5",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Victor Boeno",
+   "tel": "5541*****193",
+   "criado": "12:29",
+   "atendente": "Eduardo",
+   "espera_min": 36.6,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
   },
   {
@@ -1565,17 +1570,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "554185217193",
-   "tel": "5541*****193",
-   "criado": "12:29",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
   },
   {
