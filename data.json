@@ -1,24 +1,24 @@
 {
- "gerado_em": "20/07/2026, 14:06",
+ "gerado_em": "20/07/2026, 14:21",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 23,
   "no_sla": 10,
-  "fora_sla": 7,
-  "sem_resposta": 3,
+  "fora_sla": 8,
+  "sem_resposta": 2,
   "fora_horario": 2,
-  "pct_sla": 59,
-  "mediana_geral": 10.3,
+  "pct_sla": 56,
+  "mediana_geral": 11.8,
   "leads_7d": 247,
-  "tickets_abertos": 214,
+  "tickets_abertos": 215,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 11,
-   "mediana_min": 13.3
+   "leads": 12,
+   "mediana_min": 15
   },
   {
    "nome": "Tiago Bernardo",
@@ -72,12 +72,6 @@
  },
  "sem_resposta_lista": [
   {
-   "nome": "559292121820",
-   "tel": "5592*****820",
-   "criado": "13:24",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Denise",
    "tel": "5555*****759",
    "criado": "12:35",
@@ -91,6 +85,13 @@
   }
  ],
  "fora_sla_lista": [
+  {
+   "nome": "Fabinho Souza",
+   "tel": "5592*****820",
+   "criado": "13:24",
+   "espera_min": 50.8,
+   "atendente": "Eduardo"
+  },
   {
    "nome": "Victor Boeno",
    "tel": "5541*****193",
@@ -144,10 +145,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 155,
-  "turnos": 499,
-  "respondidos": 472,
-  "sem_resposta": 27,
-  "sem_resposta_grupos": 27,
+  "turnos": 500,
+  "respondidos": 474,
+  "sem_resposta": 26,
+  "sem_resposta_grupos": 26,
   "mediana_min": 19,
   "atendentes": [
    {
@@ -162,13 +163,13 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 43,
-    "mediana_min": 9
+    "respostas": 44,
+    "mediana_min": 9.3
    },
    {
     "nome": "Gabrielle",
-    "respostas": 14,
-    "mediana_min": 2.7
+    "respostas": 15,
+    "mediana_min": 3.6
    },
    {
     "nome": "Thauany",
@@ -193,10 +194,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.F.G",
+    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
     "dia": "20/07",
-    "desde": "14:01",
-    "ts": 1784566868841
+    "desde": "14:19",
+    "ts": 1784567940737
    },
    {
     "grupo": "A.H.G x INSS",
@@ -209,12 +210,6 @@
     "dia": "20/07",
     "desde": "12:13",
     "ts": 1784560381760
-   },
-   {
-    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
-    "dia": "20/07",
-    "desde": "12:50",
-    "ts": 1784562658816
    },
    {
     "grupo": "G.L.T.P x INSS",
@@ -442,13 +437,6 @@
     "dia": "20/07",
     "desde": "12:35",
     "ts": 1784561720597
-   },
-   {
-    "nome": "559292121820",
-    "tel": "5592*****820",
-    "dia": "20/07",
-    "desde": "13:24",
-    "ts": 1784564658780
    }
   ],
   "grupos": [
@@ -597,22 +585,16 @@
     "ts": 1784561590791
    },
    {
-    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
-    "dia": "20/07",
-    "desde": "12:50",
-    "ts": 1784562658816
-   },
-   {
     "grupo": "A.H.G x INSS",
     "dia": "20/07",
     "desde": "13:34",
     "ts": 1784565283829
    },
    {
-    "grupo": "A.F.G",
+    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
     "dia": "20/07",
-    "desde": "14:01",
-    "ts": 1784566868841
+    "desde": "14:19",
+    "ts": 1784567940737
    }
   ]
  },
@@ -1473,19 +1455,30 @@
   ]
  },
  "agora": {
-  "fila": 35,
-  "abertos": 214,
+  "fila": 34,
+  "abertos": 215,
   "com_atendimento": 6,
-  "online": 4,
-  "offline": 5,
+  "online": 5,
+  "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 89048
+  "espera_media_s": 88153
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 650987
+  "ultimo_lead_at": "2025-09-24T18:22:35.773Z",
+  "min_sem_lead": 430499
  },
  "leads": [
+  {
+   "nome": "Fabinho Souza",
+   "tel": "5592*****820",
+   "criado": "13:24",
+   "atendente": "Eduardo",
+   "espera_min": 50.8,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "rodrigues",
    "tel": "5561*****826",
@@ -1495,17 +1488,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "559292121820",
-   "tel": "5592*****820",
-   "criado": "13:24",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
    "area": "Nao identificada"
   },
   {
