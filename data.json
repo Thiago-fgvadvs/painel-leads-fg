@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 15:23",
+ "gerado_em": "20/07/2026, 15:38",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 25,
   "no_sla": 11,
   "fora_sla": 9,
-  "sem_resposta": 1,
+  "sem_resposta": 2,
   "fora_horario": 2,
   "pct_sla": 55,
   "mediana_geral": 14.1,
   "leads_7d": 249,
-  "tickets_abertos": 210,
+  "tickets_abertos": 211,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -37,8 +37,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 19,
-  "Direto/Indicacao": 6
+  "Anuncio": 20,
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
@@ -54,6 +54,10 @@
    "leads": 3
   },
   {
+   "url": "fb.me/6mRwhMfKR",
+   "leads": 1
+  },
+  {
    "url": "fb.me/8B5V96ay5",
    "leads": 1
   },
@@ -67,10 +71,16 @@
   }
  ],
  "areas": {
-  "Nao identificada": 19,
-  "Trabalhista": 6
+  "Trabalhista": 7,
+  "Nao identificada": 18
  },
  "sem_resposta_lista": [
+  {
+   "nome": "5511939306669",
+   "tel": "5511*****669",
+   "criado": "15:20",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Edson / Pai do Eduardo",
    "tel": "5511*****274",
@@ -145,9 +155,9 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 160,
-  "turnos": 514,
-  "respondidos": 490,
+  "grupos_ativos": 162,
+  "turnos": 517,
+  "respondidos": 493,
   "sem_resposta": 24,
   "sem_resposta_grupos": 24,
   "mediana_min": 19.2,
@@ -159,8 +169,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 168,
-    "mediana_min": 16.4
+    "respostas": 171,
+    "mediana_min": 16.3
    },
    {
     "nome": "Eduardo",
@@ -195,10 +205,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.H.G x INSS",
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "dia": "17/07",
+    "desde": "16:49",
+    "ts": 1784317776470
+   },
+   {
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
     "dia": "20/07",
-    "desde": "15:16",
-    "ts": 1784571382895
+    "desde": "15:29",
+    "ts": 1784572178778
    },
    {
     "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
@@ -235,12 +251,6 @@
     "dia": "20/07",
     "desde": "09:45",
     "ts": 1784551506620
-   },
-   {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "17/07",
-    "desde": "16:49",
-    "ts": 1784317776470
    },
    {
     "grupo": "E.S.N.D.S x INSS",
@@ -370,6 +380,13 @@
     "dia": "20/07",
     "desde": "08:33",
     "ts": 1784547229280
+   },
+   {
+    "nome": "5511939306669",
+    "tel": "5511*****669",
+    "dia": "20/07",
+    "desde": "15:20",
+    "ts": 1784571615656
    }
   ],
   "grupos": [
@@ -512,10 +529,10 @@
     "ts": 1784571336882
    },
    {
-    "grupo": "A.H.G x INSS",
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
     "dia": "20/07",
-    "desde": "15:16",
-    "ts": 1784571382895
+    "desde": "15:29",
+    "ts": 1784572178778
    }
   ]
  },
@@ -1376,8 +1393,8 @@
   ]
  },
  "agora": {
-  "fila": 15,
-  "abertos": 210,
+  "fila": 17,
+  "abertos": 211,
   "com_atendimento": 5,
   "online": 4,
   "offline": 4,
@@ -1386,9 +1403,20 @@
  },
  "captacao": {
   "ultimo_lead_at": "2025-09-24T18:22:35.773Z",
-  "min_sem_lead": 430560
+  "min_sem_lead": 430576
  },
  "leads": [
+  {
+   "nome": "5511939306669",
+   "tel": "5511*****669",
+   "criado": "15:20",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6mRwhMfKR",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Denise",
    "tel": "5555*****759",
@@ -1646,17 +1674,6 @@
    "nome": "553185164015",
    "tel": "5531*****015",
    "criado": "11:11",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5511939306669",
-   "tel": "5511*****669",
-   "criado": "15:20",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
