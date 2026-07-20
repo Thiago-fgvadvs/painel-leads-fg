@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/07/2026, 14:52",
+ "gerado_em": "20/07/2026, 15:07",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 55,
   "mediana_geral": 14.1,
   "leads_7d": 248,
-  "tickets_abertos": 217,
+  "tickets_abertos": 208,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -145,11 +145,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 157,
-  "turnos": 508,
-  "respondidos": 483,
-  "sem_resposta": 25,
-  "sem_resposta_grupos": 25,
+  "grupos_ativos": 159,
+  "turnos": 510,
+  "respondidos": 487,
+  "sem_resposta": 23,
+  "sem_resposta_grupos": 23,
   "mediana_min": 19.2,
   "atendentes": [
    {
@@ -159,7 +159,7 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 162,
+    "respostas": 165,
     "mediana_min": 16.3
    },
    {
@@ -169,8 +169,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 15,
-    "mediana_min": 3.6
+    "respostas": 16,
+    "mediana_min": 6.1
    },
    {
     "nome": "Thauany",
@@ -197,20 +197,14 @@
    {
     "grupo": "A.H.G x INSS",
     "dia": "20/07",
-    "desde": "14:40",
-    "ts": 1784569257859
+    "desde": "14:58",
+    "ts": 1784570305871
    },
    {
     "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
     "dia": "20/07",
     "desde": "14:24",
     "ts": 1784568292738
-   },
-   {
-    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
-    "dia": "20/07",
-    "desde": "14:19",
-    "ts": 1784567940737
    },
    {
     "grupo": "G.L.T.P x INSS",
@@ -279,12 +273,6 @@
     "ts": 1784297792097
    },
    {
-    "grupo": "A.F.D.S x INSS",
-    "dia": "16/07",
-    "desde": "19:06",
-    "ts": 1784239615314
-   },
-   {
     "grupo": "E.A.D.J x GR SEGURANCA LTDA",
     "dia": "16/07",
     "desde": "18:29",
@@ -349,55 +337,6 @@
  "pendencias": {
   "dias": 7,
   "leads": [
-   {
-    "nome": "CARLÃO",
-    "tel": "5567*****216",
-    "dia": "16/07",
-    "desde": "11:22",
-    "ts": 1784211723153
-   },
-   {
-    "nome": "anepinheirogatah",
-    "tel": "5511*****363",
-    "dia": "16/07",
-    "desde": "14:53",
-    "ts": 1784224401571
-   },
-   {
-    "nome": "Dany",
-    "tel": "5515*****617",
-    "dia": "17/07",
-    "desde": "21:33",
-    "ts": 1784334783157
-   },
-   {
-    "nome": "Jéssica Pereira",
-    "tel": "5518*****549",
-    "dia": "17/07",
-    "desde": "23:59",
-    "ts": 1784343569661
-   },
-   {
-    "nome": "😝",
-    "tel": "5535*****707",
-    "dia": "18/07",
-    "desde": "08:49",
-    "ts": 1784375359410
-   },
-   {
-    "nome": "Eliane Brisolara",
-    "tel": "5553*****063",
-    "dia": "18/07",
-    "desde": "09:11",
-    "ts": 1784376679346
-   },
-   {
-    "nome": "Alessandra Santos ‘ 💕",
-    "tel": "5511*****196",
-    "dia": "18/07",
-    "desde": "09:59",
-    "ts": 1784379577674
-   },
    {
     "nome": "Luzia Neri Dr Aguiar Ferr",
     "tel": "5586*****323",
@@ -489,12 +428,6 @@
     "ts": 1784237361270
    },
    {
-    "grupo": "A.F.D.S x INSS",
-    "dia": "16/07",
-    "desde": "19:06",
-    "ts": 1784239615314
-   },
-   {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
     "dia": "17/07",
     "desde": "11:16",
@@ -561,12 +494,6 @@
     "ts": 1784561590791
    },
    {
-    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
-    "dia": "20/07",
-    "desde": "14:19",
-    "ts": 1784567940737
-   },
-   {
     "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
     "dia": "20/07",
     "desde": "14:24",
@@ -575,8 +502,8 @@
    {
     "grupo": "A.H.G x INSS",
     "dia": "20/07",
-    "desde": "14:40",
-    "ts": 1784569257859
+    "desde": "14:58",
+    "ts": 1784570305871
    }
   ]
  },
@@ -1437,17 +1364,17 @@
   ]
  },
  "agora": {
-  "fila": 30,
-  "abertos": 217,
-  "com_atendimento": 6,
-  "online": 3,
+  "fila": 15,
+  "abertos": 208,
+  "com_atendimento": 5,
+  "online": 4,
   "offline": 4,
-  "ausentes": 2,
-  "espera_media_s": 85604
+  "ausentes": 1,
+  "espera_media_s": 99642
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 651033
+  "ultimo_lead_at": "2026-07-17T20:25:19.347Z",
+  "min_sem_lead": 4182
  },
  "leads": [
   {
