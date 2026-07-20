@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/07/2026, 11:33",
+ "gerado_em": "20/07/2026, 11:49",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 29,
   "mediana_geral": 17.1,
   "leads_7d": 235,
-  "tickets_abertos": 223,
+  "tickets_abertos": 221,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -54,8 +54,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
-  "Nao identificada": 7
+  "Nao identificada": 7,
+  "Trabalhista": 4
  },
  "sem_resposta_lista": [
   {
@@ -104,12 +104,12 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 147,
-  "turnos": 478,
-  "respondidos": 451,
+  "grupos_ativos": 149,
+  "turnos": 479,
+  "respondidos": 452,
   "sem_resposta": 27,
   "sem_resposta_grupos": 27,
-  "mediana_min": 19.6,
+  "mediana_min": 19.7,
   "atendentes": [
    {
     "nome": "Julia",
@@ -118,7 +118,7 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 142,
+    "respostas": 143,
     "mediana_min": 16.3
    },
    {
@@ -154,16 +154,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "D.L.A.S x EUGENIO CROSARA JUNIOR ",
+    "dia": "20/07",
+    "desde": "11:43",
+    "ts": 1784558594737
+   },
+   {
     "grupo": "G.L.T.P x INSS",
     "dia": "20/07",
     "desde": "11:27",
     "ts": 1784557643644
-   },
-   {
-    "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
-    "dia": "20/07",
-    "desde": "11:00",
-    "ts": 1784556024701
    },
    {
     "grupo": "A.F.G",
@@ -571,16 +571,16 @@
     "ts": 1784553971675
    },
    {
-    "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
-    "dia": "20/07",
-    "desde": "11:00",
-    "ts": 1784556024701
-   },
-   {
     "grupo": "G.L.T.P x INSS",
     "dia": "20/07",
     "desde": "11:27",
     "ts": 1784557643644
+   },
+   {
+    "grupo": "D.L.A.S x EUGENIO CROSARA JUNIOR ",
+    "dia": "20/07",
+    "desde": "11:43",
+    "ts": 1784558594737
    }
   ]
  },
@@ -1441,19 +1441,30 @@
   ]
  },
  "agora": {
-  "fila": 36,
-  "abertos": 223,
-  "com_atendimento": 7,
+  "fila": 35,
+  "abertos": 221,
+  "com_atendimento": 6,
   "online": 4,
   "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 80501
+  "espera_media_s": 80521
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-18T02:12:06.552Z",
-  "min_sem_lead": 3622
+  "ultimo_lead_at": "2026-07-08T17:14:59.805Z",
+  "min_sem_lead": 17134
  },
  "leads": [
+  {
+   "nome": "Adriana Arruda Pereira ",
+   "tel": "5521*****537",
+   "criado": "09:42",
+   "atendente": "Nicolas",
+   "espera_min": 4.2,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Salve",
    "tel": "5519*****258",
@@ -1519,17 +1530,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Adriana Arruda Pereira ",
-   "tel": "5521*****537",
-   "criado": "09:42",
-   "atendente": "Nicolas",
-   "espera_min": 4.2,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Paloma Moraes",
