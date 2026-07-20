@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 20:13",
+ "gerado_em": "20/07/2026, 20:28",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 36,
+  "total": 37,
   "no_sla": 15,
   "fora_sla": 12,
-  "sem_resposta": 7,
+  "sem_resposta": 8,
   "fora_horario": 2,
   "pct_sla": 56,
   "mediana_geral": 13.3,
-  "leads_7d": 260,
-  "tickets_abertos": 225,
+  "leads_7d": 261,
+  "tickets_abertos": 226,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -37,7 +37,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 30,
+  "Anuncio": 31,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -62,24 +62,30 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DaVuNbaM1sG/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 1
   },
   {
    "url": "fb.me/9Pf9FTshS",
    "leads": 1
-  },
-  {
-   "url": "fb.me/8B5V96ay5",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 12,
   "Nao identificada": 24,
-  "Trabalhista": 11,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
+  {
+   "nome": "5514988101541",
+   "tel": "5514*****541",
+   "criado": "20:22",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Nicolly",
    "tel": "5541*****910",
@@ -489,6 +495,13 @@
     "dia": "20/07",
     "desde": "20:06",
     "ts": 1784588791993
+   },
+   {
+    "nome": "5514988101541",
+    "tel": "5514*****541",
+    "dia": "20/07",
+    "desde": "20:22",
+    "ts": 1784589747137
    }
   ],
   "grupos": [
@@ -1513,8 +1526,8 @@
   ]
  },
  "agora": {
-  "fila": 23,
-  "abertos": 225,
+  "fila": 24,
+  "abertos": 226,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
@@ -1522,10 +1535,21 @@
   "espera_media_s": 96496
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-20T23:06:31.993Z",
+  "ultimo_lead_at": "2026-07-20T23:22:27.137Z",
   "min_sem_lead": 6
  },
  "leads": [
+  {
+   "nome": "5514988101541",
+   "tel": "5514*****541",
+   "criado": "20:22",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Nicolly",
    "tel": "5541*****910",
