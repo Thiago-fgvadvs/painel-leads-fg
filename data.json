@@ -1,24 +1,24 @@
 {
- "gerado_em": "20/07/2026, 12:50",
+ "gerado_em": "20/07/2026, 13:05",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
-  "no_sla": 8,
+  "total": 21,
+  "no_sla": 9,
   "fora_sla": 6,
   "sem_resposta": 3,
   "fora_horario": 2,
-  "pct_sla": 57,
-  "mediana_geral": 11.8,
-  "leads_7d": 244,
-  "tickets_abertos": 209,
+  "pct_sla": 60,
+  "mediana_geral": 10.3,
+  "leads_7d": 245,
+  "tickets_abertos": 210,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 8,
-   "mediana_min": 15
+   "leads": 9,
+   "mediana_min": 13.3
   },
   {
    "nome": "Tiago Bernardo",
@@ -37,7 +37,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 17,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -54,6 +54,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/8B5V96ay5",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
    "leads": 1
   },
@@ -63,12 +67,12 @@
   }
  ],
  "areas": {
-  "Nao identificada": 14,
+  "Nao identificada": 15,
   "Trabalhista": 6
  },
  "sem_resposta_lista": [
   {
-   "nome": "555596605759",
+   "nome": "Denise",
    "tel": "5555*****759",
    "criado": "12:35",
    "area": "Nao identificada"
@@ -133,11 +137,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 154,
-  "turnos": 493,
-  "respondidos": 467,
-  "sem_resposta": 26,
-  "sem_resposta_grupos": 26,
-  "mediana_min": 19.2,
+  "turnos": 495,
+  "respondidos": 468,
+  "sem_resposta": 27,
+  "sem_resposta_grupos": 27,
+  "mediana_min": 19,
   "atendentes": [
    {
     "nome": "Julia",
@@ -146,7 +150,7 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 153,
+    "respostas": 154,
     "mediana_min": 16
    },
    {
@@ -181,6 +185,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "dia": "20/07",
+    "desde": "12:50",
+    "ts": 1784562658816
+   },
    {
     "grupo": "I.F x CONSTRUTORA RAMON AGUILERA",
     "dia": "20/07",
@@ -427,7 +437,7 @@
     "ts": 1784561380695
    },
    {
-    "nome": "555596605759",
+    "nome": "Denise",
     "tel": "5555*****759",
     "dia": "20/07",
     "desde": "12:35",
@@ -590,6 +600,12 @@
     "dia": "20/07",
     "desde": "12:33",
     "ts": 1784561590791
+   },
+   {
+    "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "dia": "20/07",
+    "desde": "12:50",
+    "ts": 1784562658816
    }
   ]
  },
@@ -1450,19 +1466,30 @@
   ]
  },
  "agora": {
-  "fila": 35,
-  "abertos": 209,
+  "fila": 34,
+  "abertos": 210,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 3,
   "offline": 4,
-  "ausentes": 0,
-  "espera_media_s": 92908
+  "ausentes": 2,
+  "espera_media_s": 90935
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 650910
+  "min_sem_lead": 650926
  },
  "leads": [
+  {
+   "nome": "Raffah Alvees 🦋",
+   "tel": "5514*****956",
+   "criado": "12:54",
+   "atendente": "Eduardo",
+   "espera_min": 1.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8B5V96ay5",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Rejane",
    "tel": "5584*****007",
@@ -1519,7 +1546,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "555596605759",
+   "nome": "Denise",
    "tel": "5555*****759",
    "criado": "12:35",
    "atendente": "—",
