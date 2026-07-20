@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 15:38",
+ "gerado_em": "20/07/2026, 15:53",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
+  "total": 27,
   "no_sla": 11,
   "fora_sla": 9,
-  "sem_resposta": 2,
+  "sem_resposta": 4,
   "fora_horario": 2,
   "pct_sla": 55,
   "mediana_geral": 14.1,
-  "leads_7d": 249,
-  "tickets_abertos": 211,
+  "leads_7d": 251,
+  "tickets_abertos": 215,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -37,7 +37,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 22,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -54,6 +54,14 @@
    "leads": 3
   },
   {
+   "url": "fb.me/4EDzR2aSz",
+   "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/6mRwhMfKR",
    "leads": 1
   },
@@ -64,17 +72,25 @@
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4EDzR2aSz",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 9,
   "Nao identificada": 18
  },
  "sem_resposta_lista": [
+  {
+   "nome": "flamengo de coração",
+   "tel": "5599*****054",
+   "criado": "15:52",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Denise",
+   "tel": "5513*****347",
+   "criado": "15:44",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511939306669",
    "tel": "5511*****669",
@@ -155,12 +171,12 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 162,
-  "turnos": 517,
-  "respondidos": 493,
-  "sem_resposta": 24,
-  "sem_resposta_grupos": 24,
-  "mediana_min": 19.2,
+  "grupos_ativos": 165,
+  "turnos": 521,
+  "respondidos": 496,
+  "sem_resposta": 25,
+  "sem_resposta_grupos": 25,
+  "mediana_min": 19,
   "atendentes": [
    {
     "nome": "Julia",
@@ -169,7 +185,7 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 171,
+    "respostas": 174,
     "mediana_min": 16.3
    },
    {
@@ -204,6 +220,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
+    "dia": "20/07",
+    "desde": "15:49",
+    "ts": 1784573355916
+   },
    {
     "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
     "dia": "17/07",
@@ -387,6 +409,20 @@
     "dia": "20/07",
     "desde": "15:20",
     "ts": 1784571615656
+   },
+   {
+    "nome": "Denise",
+    "tel": "5513*****347",
+    "dia": "20/07",
+    "desde": "15:44",
+    "ts": 1784573088607
+   },
+   {
+    "nome": "flamengo de coração",
+    "tel": "5599*****054",
+    "dia": "20/07",
+    "desde": "15:52",
+    "ts": 1784573546781
    }
   ],
   "grupos": [
@@ -533,6 +569,12 @@
     "dia": "20/07",
     "desde": "15:29",
     "ts": 1784572178778
+   },
+   {
+    "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
+    "dia": "20/07",
+    "desde": "15:49",
+    "ts": 1784573355916
    }
   ]
  },
@@ -1393,19 +1435,41 @@
   ]
  },
  "agora": {
-  "fila": 17,
-  "abertos": 211,
+  "fila": 19,
+  "abertos": 215,
   "com_atendimento": 5,
-  "online": 4,
+  "online": 5,
   "offline": 4,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 99642
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:35.773Z",
-  "min_sem_lead": 430576
+  "ultimo_lead_at": "2026-07-20T18:52:26.781Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "flamengo de coração",
+   "tel": "5599*****054",
+   "criado": "15:52",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Denise",
+   "tel": "5513*****347",
+   "criado": "15:44",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511939306669",
    "tel": "5511*****669",
