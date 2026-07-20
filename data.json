@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 14:21",
+ "gerado_em": "20/07/2026, 14:37",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
+  "total": 24,
   "no_sla": 10,
   "fora_sla": 8,
-  "sem_resposta": 2,
+  "sem_resposta": 3,
   "fora_horario": 2,
   "pct_sla": 56,
   "mediana_geral": 11.8,
-  "leads_7d": 247,
-  "tickets_abertos": 215,
+  "leads_7d": 248,
+  "tickets_abertos": 219,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -38,7 +38,7 @@
  ],
  "origem": {
   "Anuncio": 19,
-  "Direto/Indicacao": 4
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
@@ -67,10 +67,16 @@
   }
  ],
  "areas": {
-  "Nao identificada": 17,
+  "Nao identificada": 18,
   "Trabalhista": 6
  },
  "sem_resposta_lista": [
+  {
+   "nome": "Débora Rocha",
+   "tel": "5585*****073",
+   "criado": "14:27",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Denise",
    "tel": "5555*****759",
@@ -144,12 +150,12 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 155,
-  "turnos": 500,
-  "respondidos": 474,
-  "sem_resposta": 26,
-  "sem_resposta_grupos": 26,
-  "mediana_min": 19,
+  "grupos_ativos": 156,
+  "turnos": 506,
+  "respondidos": 479,
+  "sem_resposta": 27,
+  "sem_resposta_grupos": 27,
+  "mediana_min": 19.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -158,8 +164,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 154,
-    "mediana_min": 16
+    "respostas": 159,
+    "mediana_min": 16.3
    },
    {
     "nome": "Eduardo",
@@ -194,22 +200,28 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.H.G x INSS",
+    "dia": "20/07",
+    "desde": "14:35",
+    "ts": 1784568958853
+   },
+   {
+    "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
+    "dia": "20/07",
+    "desde": "14:29",
+    "ts": 1784568574849
+   },
+   {
+    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "20/07",
+    "desde": "14:24",
+    "ts": 1784568292738
+   },
+   {
     "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
     "dia": "20/07",
     "desde": "14:19",
     "ts": 1784567940737
-   },
-   {
-    "grupo": "A.H.G x INSS",
-    "dia": "20/07",
-    "desde": "13:34",
-    "ts": 1784565283829
-   },
-   {
-    "grupo": "I.F x CONSTRUTORA RAMON AGUILERA",
-    "dia": "20/07",
-    "desde": "12:13",
-    "ts": 1784560381760
    },
    {
     "grupo": "G.L.T.P x INSS",
@@ -437,6 +449,13 @@
     "dia": "20/07",
     "desde": "12:35",
     "ts": 1784561720597
+   },
+   {
+    "nome": "Débora Rocha",
+    "tel": "5585*****073",
+    "dia": "20/07",
+    "desde": "14:27",
+    "ts": 1784568426824
    }
   ],
   "grupos": [
@@ -573,28 +592,34 @@
     "ts": 1784552677579
    },
    {
-    "grupo": "I.F x CONSTRUTORA RAMON AGUILERA",
-    "dia": "20/07",
-    "desde": "12:13",
-    "ts": 1784560381760
-   },
-   {
     "grupo": "G.L.T.P x INSS",
     "dia": "20/07",
     "desde": "12:33",
     "ts": 1784561590791
    },
    {
-    "grupo": "A.H.G x INSS",
-    "dia": "20/07",
-    "desde": "13:34",
-    "ts": 1784565283829
-   },
-   {
     "grupo": "M.S.D.J x AMIDA INFORMACOES CADASTRAIS LTDA",
     "dia": "20/07",
     "desde": "14:19",
     "ts": 1784567940737
+   },
+   {
+    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "20/07",
+    "desde": "14:24",
+    "ts": 1784568292738
+   },
+   {
+    "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
+    "dia": "20/07",
+    "desde": "14:29",
+    "ts": 1784568574849
+   },
+   {
+    "grupo": "A.H.G x INSS",
+    "dia": "20/07",
+    "desde": "14:35",
+    "ts": 1784568958853
    }
   ]
  },
@@ -1455,19 +1480,30 @@
   ]
  },
  "agora": {
-  "fila": 34,
-  "abertos": 215,
+  "fila": 35,
+  "abertos": 219,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 4,
   "offline": 4,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 88153
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:35.773Z",
-  "min_sem_lead": 430499
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 651017
  },
  "leads": [
+  {
+   "nome": "Débora Rocha",
+   "tel": "5585*****073",
+   "criado": "14:27",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Fabinho Souza",
    "tel": "5592*****820",
