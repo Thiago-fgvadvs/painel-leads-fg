@@ -1,16 +1,16 @@
 {
- "gerado_em": "20/07/2026, 11:03",
+ "gerado_em": "20/07/2026, 11:18",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
+  "total": 11,
   "no_sla": 2,
   "fora_sla": 4,
   "sem_resposta": 2,
   "fora_horario": 2,
   "pct_sla": 33,
   "mediana_geral": 16.9,
-  "leads_7d": 234,
+  "leads_7d": 235,
   "tickets_abertos": 222,
   "periodo_dias": 7
  },
@@ -33,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 9,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -45,17 +45,17 @@
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "url": "fb.me/4EDzR2aSz",
    "leads": 1
   },
   {
-   "url": "fb.me/4EDzR2aSz",
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
    "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 3,
-  "Nao identificada": 7
+  "Nao identificada": 8
  },
  "sem_resposta_lista": [
   {
@@ -72,6 +72,13 @@
   }
  ],
  "fora_sla_lista": [
+  {
+   "nome": "Salve",
+   "tel": "5519*****258",
+   "criado": "08:12",
+   "espera_min": 87,
+   "atendente": "Eduardo"
+  },
   {
    "nome": "Rayane Narciso ❣️",
    "tel": "5524*****459",
@@ -92,20 +99,13 @@
    "criado": "09:22",
    "espera_min": 16.6,
    "atendente": "Eduardo"
-  },
-  {
-   "nome": "Salve",
-   "tel": "5519*****258",
-   "criado": "08:12",
-   "espera_min": 87,
-   "atendente": "Eduardo"
   }
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 143,
-  "turnos": 472,
-  "respondidos": 445,
+  "grupos_ativos": 144,
+  "turnos": 473,
+  "respondidos": 446,
   "sem_resposta": 27,
   "sem_resposta_grupos": 27,
   "mediana_min": 19.7,
@@ -141,28 +141,28 @@
     "mediana_min": 39.6
    },
    {
+    "nome": "Luisa",
+    "respostas": 3,
+    "mediana_min": 61.1
+   },
+   {
     "nome": "—",
     "respostas": 3,
     "mediana_min": 0.7
-   },
-   {
-    "nome": "Luisa",
-    "respostas": 2,
-    "mediana_min": 3536.2
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
-    "dia": "20/07",
-    "desde": "11:00",
-    "ts": 1784556024701
-   },
    {
     "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
     "dia": "20/07",
     "desde": "10:57",
     "ts": 1784555873623
+   },
+   {
+    "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
+    "dia": "20/07",
+    "desde": "11:00",
+    "ts": 1784556024701
    },
    {
     "grupo": "A.F.G",
@@ -341,27 +341,6 @@
     "ts": 1784304209973
    },
    {
-    "nome": "Tainara Silva 🖤",
-    "tel": "5532*****127",
-    "dia": "17/07",
-    "desde": "13:26",
-    "ts": 1784305605594
-   },
-   {
-    "nome": "Danielson Brito",
-    "tel": "5596*****690",
-    "dia": "17/07",
-    "desde": "16:39",
-    "ts": 1784317160781
-   },
-   {
-    "nome": "Nando",
-    "tel": "5592*****575",
-    "dia": "17/07",
-    "desde": "18:23",
-    "ts": 1784323424244
-   },
-   {
     "nome": "Regina Camargo",
     "tel": "5519*****296",
     "dia": "17/07",
@@ -467,13 +446,6 @@
     "ts": 1784378454665
    },
    {
-    "nome": "Ana Paula",
-    "tel": "5585*****886",
-    "dia": "18/07",
-    "desde": "09:54",
-    "ts": 1784379277091
-   },
-   {
     "nome": "Alessandra Santos ‘ 💕",
     "tel": "5511*****196",
     "dia": "18/07",
@@ -493,13 +465,6 @@
     "dia": "18/07",
     "desde": "10:30",
     "ts": 1784381405855
-   },
-   {
-    "nome": "...",
-    "tel": "5513*****680",
-    "dia": "18/07",
-    "desde": "12:57",
-    "ts": 1784390261238
    },
    {
     "nome": "Kevlin",
@@ -1580,19 +1545,41 @@
   ]
  },
  "agora": {
-  "fila": 58,
+  "fila": 52,
   "abertos": 222,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 5,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 50408
+  "ausentes": 1,
+  "espera_media_s": 61866
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-20T10:56:06.519Z",
-  "min_sem_lead": 187
+  "ultimo_lead_at": "2026-07-01T14:31:55.964Z",
+  "min_sem_lead": 27347
  },
  "leads": [
+  {
+   "nome": "Salve",
+   "tel": "5519*****258",
+   "criado": "08:12",
+   "atendente": "Eduardo",
+   "espera_min": 87,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "P ❤️ W",
+   "tel": "5511*****375",
+   "criado": "10:44",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 2.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Juliane",
    "tel": "5528*****225",
@@ -1638,17 +1625,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "P ❤️ W",
-   "tel": "5511*****375",
-   "criado": "10:44",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 2.8,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Adriana Arruda Pereira ",
    "tel": "5521*****537",
    "criado": "09:42",
@@ -1682,17 +1658,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Salve",
-   "tel": "5519*****258",
-   "criado": "08:12",
-   "atendente": "Eduardo",
-   "espera_min": 87,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4EDzR2aSz",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Edson / Pai do Eduardo",
    "tel": "5511*****274",
    "criado": "08:33",
@@ -1701,6 +1666,17 @@
    "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553185164015",
+   "tel": "5531*****015",
+   "criado": "11:11",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
