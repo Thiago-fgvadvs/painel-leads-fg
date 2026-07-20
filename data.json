@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/07/2026, 17:40",
+ "gerado_em": "20/07/2026, 17:55",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -10,8 +10,8 @@
   "fora_horario": 2,
   "pct_sla": 56,
   "mediana_geral": 13.3,
-  "leads_7d": 254,
-  "tickets_abertos": 221,
+  "leads_7d": 255,
+  "tickets_abertos": 222,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -436,6 +436,13 @@
     "dia": "20/07",
     "desde": "16:00",
     "ts": 1784574037461
+   },
+   {
+    "nome": "553173662835",
+    "tel": "5531*****835",
+    "dia": "20/07",
+    "desde": "17:55",
+    "ts": 1784580933904
    }
   ],
   "grupos": [
@@ -1466,17 +1473,17 @@
   ]
  },
  "agora": {
-  "fila": 17,
-  "abertos": 221,
+  "fila": 18,
+  "abertos": 222,
   "com_atendimento": 5,
-  "online": 4,
-  "offline": 5,
-  "ausentes": 0,
+  "online": 1,
+  "offline": 6,
+  "ausentes": 2,
   "espera_media_s": 97359
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-17T22:30:39.514Z",
-  "min_sem_lead": 4210
+  "ultimo_lead_at": "2026-07-20T20:55:33.904Z",
+  "min_sem_lead": 0
  },
  "leads": [
   {
