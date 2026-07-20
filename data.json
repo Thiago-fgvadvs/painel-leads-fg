@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 20:43",
+ "gerado_em": "20/07/2026, 20:58",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 38,
+  "total": 39,
   "no_sla": 15,
   "fora_sla": 12,
-  "sem_resposta": 9,
+  "sem_resposta": 10,
   "fora_horario": 2,
   "pct_sla": 56,
   "mediana_geral": 13.3,
-  "leads_7d": 262,
-  "tickets_abertos": 227,
+  "leads_7d": 263,
+  "tickets_abertos": 228,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -37,13 +37,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 32,
+  "Anuncio": 33,
   "Direto/Indicacao": 6
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 10
+   "leads": 11
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
@@ -75,11 +75,17 @@
   }
  ],
  "areas": {
-  "Nao identificada": 25,
+  "Nao identificada": 26,
   "Trabalhista": 12,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
+  {
+   "nome": "553798054628",
+   "tel": "5537*****628",
+   "criado": "20:46",
+   "area": "Nao identificada"
+  },
   {
    "nome": "554784024456",
    "tel": "5547*****456",
@@ -223,7 +229,7 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 165,
+  "grupos_ativos": 166,
   "turnos": 544,
   "respondidos": 517,
   "sem_resposta": 27,
@@ -515,6 +521,13 @@
     "dia": "20/07",
     "desde": "20:28",
     "ts": 1784590100927
+   },
+   {
+    "nome": "553798054628",
+    "tel": "5537*****628",
+    "dia": "20/07",
+    "desde": "20:46",
+    "ts": 1784591194878
    }
   ],
   "grupos": [
@@ -1539,8 +1552,8 @@
   ]
  },
  "agora": {
-  "fila": 25,
-  "abertos": 227,
+  "fila": 26,
+  "abertos": 228,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
@@ -1549,9 +1562,20 @@
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 651384
+  "min_sem_lead": 651399
  },
  "leads": [
+  {
+   "nome": "553798054628",
+   "tel": "5537*****628",
+   "criado": "20:46",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "554784024456",
    "tel": "5547*****456",
