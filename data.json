@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 18:56",
+ "gerado_em": "20/07/2026, 19:12",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 32,
+  "total": 33,
   "no_sla": 15,
   "fora_sla": 12,
-  "sem_resposta": 3,
+  "sem_resposta": 4,
   "fora_horario": 2,
   "pct_sla": 56,
   "mediana_geral": 13.3,
-  "leads_7d": 256,
-  "tickets_abertos": 221,
+  "leads_7d": 257,
+  "tickets_abertos": 222,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -37,17 +37,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 27,
+  "Anuncio": 28,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 8
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 7
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 8
   },
   {
    "url": "www.instagram.com/p/DYVTAskDMJ6/",
@@ -75,11 +75,17 @@
   }
  ],
  "areas": {
-  "Nao identificada": 20,
+  "Nao identificada": 21,
   "Trabalhista": 11,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
+  {
+   "nome": "556294551143",
+   "tel": "5562*****143",
+   "criado": "19:01",
+   "area": "Nao identificada"
+  },
   {
    "nome": "lemay81martinez",
    "tel": "5545*****354",
@@ -419,6 +425,13 @@
     "dia": "20/07",
     "desde": "16:00",
     "ts": 1784574037461
+   },
+   {
+    "nome": "556294551143",
+    "tel": "5562*****143",
+    "dia": "20/07",
+    "desde": "19:01",
+    "ts": 1784584885635
    }
   ],
   "grupos": [
@@ -1425,8 +1438,8 @@
   ]
  },
  "agora": {
-  "fila": 19,
-  "abertos": 221,
+  "fila": 20,
+  "abertos": 222,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
@@ -1434,10 +1447,21 @@
   "espera_media_s": 96496
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-17T20:25:19.347Z",
-  "min_sem_lead": 4411
+  "ultimo_lead_at": "2026-07-20T22:01:25.635Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "556294551143",
+   "tel": "5562*****143",
+   "criado": "19:01",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Mateus 😎",
    "tel": "5531*****835",
