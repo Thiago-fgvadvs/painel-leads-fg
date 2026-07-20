@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 17:09",
+ "gerado_em": "20/07/2026, 17:25",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 30,
-  "no_sla": 13,
+  "no_sla": 14,
   "fora_sla": 11,
-  "sem_resposta": 4,
+  "sem_resposta": 3,
   "fora_horario": 2,
-  "pct_sla": 54,
-  "mediana_geral": 14.1,
+  "pct_sla": 56,
+  "mediana_geral": 13.3,
   "leads_7d": 254,
-  "tickets_abertos": 221,
+  "tickets_abertos": 222,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,8 +22,8 @@
   },
   {
    "nome": "Tiago Bernardo",
-   "leads": 10,
-   "mediana_min": 33.2
+   "leads": 11,
+   "mediana_min": 31
   },
   {
    "nome": "Nicolas",
@@ -80,12 +80,6 @@
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
-  {
-   "nome": "5521965258369",
-   "tel": "5521*****369",
-   "criado": "17:04",
-   "area": "Nao identificada"
-  },
   {
    "nome": "lemay81martinez",
    "tel": "5545*****354",
@@ -187,21 +181,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 165,
-  "turnos": 529,
-  "respondidos": 503,
-  "sem_resposta": 26,
-  "sem_resposta_grupos": 26,
+  "turnos": 532,
+  "respondidos": 505,
+  "sem_resposta": 27,
+  "sem_resposta_grupos": 27,
   "mediana_min": 19.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 235,
-    "mediana_min": 26.4
+    "respostas": 236,
+    "mediana_min": 26.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 181,
-    "mediana_min": 16.7
+    "respostas": 182,
+    "mediana_min": 17.1
    },
    {
     "nome": "Eduardo",
@@ -235,6 +229,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "dia": "20/07",
+    "desde": "17:13",
+    "ts": 1784578380940
+   },
    {
     "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
     "dia": "20/07",
@@ -430,13 +430,6 @@
     "dia": "20/07",
     "desde": "16:00",
     "ts": 1784574037461
-   },
-   {
-    "nome": "5521965258369",
-    "tel": "5521*****369",
-    "dia": "20/07",
-    "desde": "17:04",
-    "ts": 1784577867249
    }
   ],
   "grupos": [
@@ -595,6 +588,12 @@
     "dia": "20/07",
     "desde": "17:01",
     "ts": 1784577683820
+   },
+   {
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "dia": "20/07",
+    "desde": "17:13",
+    "ts": 1784578380940
    }
   ]
  },
@@ -1456,40 +1455,18 @@
  },
  "agora": {
   "fila": 17,
-  "abertos": 221,
+  "abertos": 222,
   "com_atendimento": 5,
-  "online": 4,
+  "online": 3,
   "offline": 5,
-  "ausentes": 0,
-  "espera_media_s": 97298
+  "ausentes": 1,
+  "espera_media_s": 96434
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-17T22:30:39.514Z",
-  "min_sem_lead": 4179
+  "ultimo_lead_at": "2026-07-15T20:10:29.023Z",
+  "min_sem_lead": 7215
  },
  "leads": [
-  {
-   "nome": "flamengo de coração",
-   "tel": "5599*****054",
-   "criado": "15:52",
-   "atendente": "Eduardo",
-   "espera_min": 1.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4EDzR2aSz",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5521965258369",
-   "tel": "5521*****369",
-   "criado": "17:04",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Denise",
    "tel": "5513*****347",
@@ -1499,6 +1476,28 @@
    "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Tati🥰",
+   "tel": "5521*****369",
+   "criado": "17:04",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "flamengo de coração",
+   "tel": "5599*****054",
+   "criado": "15:52",
+   "atendente": "Eduardo",
+   "espera_min": 1.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
    "area": "Trabalhista"
   },
   {
