@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 10:32",
+ "gerado_em": "20/07/2026, 10:48",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 1,
+  "total": 9,
+  "no_sla": 2,
   "fora_sla": 3,
   "sem_resposta": 2,
   "fora_horario": 2,
-  "pct_sla": 25,
-  "mediana_geral": 16.9,
-  "leads_7d": 232,
-  "tickets_abertos": 217,
+  "pct_sla": 40,
+  "mediana_geral": 16.6,
+  "leads_7d": 233,
+  "tickets_abertos": 222,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -21,23 +21,28 @@
    "mediana_min": 17.1
   },
   {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 2.8
+  },
+  {
    "nome": "Nicolas",
    "leads": 1,
    "mediana_min": 4.2
   }
  ],
  "origem": {
-  "Anuncio": 7,
+  "Anuncio": 8,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 2
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 3
   },
   {
    "url": "www.instagram.com/p/DYVTAskDMJ6/",
@@ -49,7 +54,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 5,
+  "Nao identificada": 6,
   "Trabalhista": 3
  },
  "sem_resposta_lista": [
@@ -68,17 +73,17 @@
  ],
  "fora_sla_lista": [
   {
-   "nome": "Paloma Moraes",
-   "tel": "5543*****634",
-   "criado": "09:22",
-   "espera_min": 16.6,
-   "atendente": "Eduardo"
-  },
-  {
    "nome": "Rayane Narciso ❣️",
    "tel": "5524*****459",
    "criado": "09:53",
    "espera_min": 17.1,
+   "atendente": "Eduardo"
+  },
+  {
+   "nome": "Paloma Moraes",
+   "tel": "5543*****634",
+   "criado": "09:22",
+   "espera_min": 16.6,
    "atendente": "Eduardo"
   },
   {
@@ -91,11 +96,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 141,
-  "turnos": 467,
-  "respondidos": 443,
-  "sem_resposta": 24,
-  "sem_resposta_grupos": 24,
+  "grupos_ativos": 143,
+  "turnos": 469,
+  "respondidos": 444,
+  "sem_resposta": 25,
+  "sem_resposta_grupos": 25,
   "mediana_min": 19.7,
   "atendentes": [
    {
@@ -105,8 +110,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 135,
-    "mediana_min": 16.5
+    "respostas": 136,
+    "mediana_min": 17.7
    },
    {
     "nome": "Eduardo",
@@ -140,6 +145,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.F.G",
+    "dia": "20/07",
+    "desde": "10:26",
+    "ts": 1784553971675
+   },
    {
     "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
     "dia": "20/07",
@@ -721,6 +732,12 @@
     "dia": "20/07",
     "desde": "10:04",
     "ts": 1784552677579
+   },
+   {
+    "grupo": "A.F.G",
+    "dia": "20/07",
+    "desde": "10:26",
+    "ts": 1784553971675
    }
   ]
  },
@@ -1581,28 +1598,28 @@
   ]
  },
  "agora": {
-  "fila": 66,
-  "abertos": 217,
+  "fila": 67,
+  "abertos": 222,
   "com_atendimento": 5,
   "online": 4,
   "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 38634
+  "espera_media_s": 37579
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-17T10:27:14.823Z",
-  "min_sem_lead": 47706
+  "ultimo_lead_at": "2026-07-20T13:44:05.056Z",
+  "min_sem_lead": 4
  },
  "leads": [
   {
-   "nome": "Adriana Arruda Pereira ",
-   "tel": "5521*****537",
-   "criado": "09:42",
-   "atendente": "Nicolas",
-   "espera_min": 4.2,
+   "nome": "P ❤️ W",
+   "tel": "5511*****375",
+   "criado": "10:44",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 2.8,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
   },
   {
@@ -1617,22 +1634,33 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Paloma Moraes",
-   "tel": "5543*****634",
-   "criado": "09:22",
+   "nome": "Rayane Narciso ❣️",
+   "tel": "5524*****459",
+   "criado": "09:53",
    "atendente": "Eduardo",
-   "espera_min": 16.6,
+   "espera_min": 17.1,
    "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
   },
   {
-   "nome": "Rayane Narciso ❣️",
-   "tel": "5524*****459",
-   "criado": "09:53",
+   "nome": "Adriana Arruda Pereira ",
+   "tel": "5521*****537",
+   "criado": "09:42",
+   "atendente": "Nicolas",
+   "espera_min": 4.2,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Paloma Moraes",
+   "tel": "5543*****634",
+   "criado": "09:22",
    "atendente": "Eduardo",
-   "espera_min": 17.1,
+   "espera_min": 16.6,
    "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
