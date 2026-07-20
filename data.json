@@ -1,16 +1,16 @@
 {
- "gerado_em": "20/07/2026, 17:55",
+ "gerado_em": "20/07/2026, 18:11",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
+  "total": 32,
   "no_sla": 14,
   "fora_sla": 11,
-  "sem_resposta": 3,
+  "sem_resposta": 5,
   "fora_horario": 2,
   "pct_sla": 56,
   "mediana_geral": 13.3,
-  "leads_7d": 255,
+  "leads_7d": 256,
   "tickets_abertos": 222,
   "periodo_dias": 7
  },
@@ -37,21 +37,21 @@
   }
  ],
  "origem": {
-  "Anuncio": 25,
+  "Anuncio": 27,
   "Direto/Indicacao": 5
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 8
+  },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 7
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 7
-  },
-  {
    "url": "www.instagram.com/p/DYVTAskDMJ6/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/4EDzR2aSz",
@@ -75,11 +75,23 @@
   }
  ],
  "areas": {
+  "Nao identificada": 20,
   "Trabalhista": 11,
-  "Nao identificada": 18,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
+  {
+   "nome": "Stefany",
+   "tel": "5511*****442",
+   "criado": "18:02",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553173662835",
+   "tel": "5531*****835",
+   "criado": "17:55",
+   "area": "Nao identificada"
+  },
   {
    "nome": "lemay81martinez",
    "tel": "5545*****354",
@@ -181,21 +193,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 165,
-  "turnos": 534,
-  "respondidos": 506,
-  "sem_resposta": 28,
-  "sem_resposta_grupos": 28,
-  "mediana_min": 19.2,
+  "turnos": 536,
+  "respondidos": 509,
+  "sem_resposta": 27,
+  "sem_resposta_grupos": 27,
+  "mediana_min": 19.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 236,
-    "mediana_min": 26.2
+    "respostas": 238,
+    "mediana_min": 26.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 183,
-    "mediana_min": 16.7
+    "respostas": 184,
+    "mediana_min": 17.1
    },
    {
     "nome": "Eduardo",
@@ -230,28 +242,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.D.S.R x NOVO HORIZONTE JACAREPAGUA IMPORTACAO E EXPORTACAO S.A",
-    "dia": "20/07",
-    "desde": "17:36",
-    "ts": 1784579789963
-   },
-   {
-    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
-    "dia": "20/07",
-    "desde": "17:13",
-    "ts": 1784578380940
-   },
-   {
-    "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
-    "dia": "20/07",
-    "desde": "17:01",
-    "ts": 1784577683820
-   },
-   {
     "grupo": "W.O.V x INSS",
     "dia": "20/07",
     "desde": "16:48",
     "ts": 1784576930817
+   },
+   {
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "dia": "20/07",
+    "desde": "18:08",
+    "ts": 1784581697846
+   },
+   {
+    "grupo": "A.D.S.R x NOVO HORIZONTE JACAREPAGUA IMPORTACAO E EXPORTACAO S.A",
+    "dia": "20/07",
+    "desde": "17:36",
+    "ts": 1784579789963
    },
    {
     "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
@@ -443,6 +449,13 @@
     "dia": "20/07",
     "desde": "17:55",
     "ts": 1784580933904
+   },
+   {
+    "nome": "Stefany",
+    "tel": "5511*****442",
+    "dia": "20/07",
+    "desde": "18:02",
+    "ts": 1784581364761
    }
   ],
   "grupos": [
@@ -597,22 +610,16 @@
     "ts": 1784576930817
    },
    {
-    "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
-    "dia": "20/07",
-    "desde": "17:01",
-    "ts": 1784577683820
-   },
-   {
-    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
-    "dia": "20/07",
-    "desde": "17:13",
-    "ts": 1784578380940
-   },
-   {
     "grupo": "A.D.S.R x NOVO HORIZONTE JACAREPAGUA IMPORTACAO E EXPORTACAO S.A",
     "dia": "20/07",
     "desde": "17:36",
     "ts": 1784579789963
+   },
+   {
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "dia": "20/07",
+    "desde": "18:08",
+    "ts": 1784581697846
    }
   ]
  },
@@ -1473,19 +1480,52 @@
   ]
  },
  "agora": {
-  "fila": 18,
+  "fila": 20,
   "abertos": 222,
   "com_atendimento": 5,
-  "online": 1,
+  "online": 3,
   "offline": 6,
-  "ausentes": 2,
+  "ausentes": 0,
   "espera_media_s": 97359
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-20T20:55:33.904Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-07-20T12:42:23.656Z",
+  "min_sem_lead": 509
  },
  "leads": [
+  {
+   "nome": "Adriana",
+   "tel": "5521*****537",
+   "criado": "09:42",
+   "atendente": "Nicolas",
+   "espera_min": 4.2,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Stefany",
+   "tel": "5511*****442",
+   "criado": "18:02",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553173662835",
+   "tel": "5531*****835",
+   "criado": "17:55",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Denise",
    "tel": "5513*****347",
@@ -1638,17 +1678,6 @@
    "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Adriana",
-   "tel": "5521*****537",
-   "criado": "09:42",
-   "atendente": "Nicolas",
-   "espera_min": 4.2,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Nao identificada"
   },
   {
