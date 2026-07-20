@@ -49,7 +49,7 @@ async function main() {
   const users = {}; for (const u of rows(await api("/users", { perPage: 100 }))) users[u.id] = u.name;
   // leads de hoje
   let leads = [], page = 1, last = 1;
-  do { const r = await api("/contacts", { perPage: 500, page, "where[isGroup]": false, "where[hadChat]": true, "where[createdAt][$gte]": `${today}T00:00:00.000Z` }); leads.push(...rows(r)); last = r.lastPage || 1; page++; } while (page <= last && page <= 6);
+  do { const r = await api("/contacts", { perPage: 500, page, "where[isGroup]": false, "where[hadChat]": true, "where[createdAt][$gte]": `${today}T03:00:00.000Z` }); leads.push(...rows(r)); last = r.lastPage || 1; page++; } while (page <= last && page <= 6);
   const recs = leads.map(c => ({ c, firstUser: null, uid: null, ad: null, texts: [], lastOrigin: null }));
   for (let i = 0; i < recs.length; i += 20) {
     const batch = recs.slice(i, i + 20); const where = {}; batch.forEach((r, j) => where[`where[contactId][$in][${j}]`] = r.c.id);
@@ -82,7 +82,7 @@ async function main() {
 
   // ---- Jurídico: grupos de processo (últimos 7 dias) ----
   const GDAYS = Number(process.env.GRUPO_DIAS || 7);
-  const gFromMs = Date.parse(`${today}T00:00:00.000Z`) - (GDAYS - 1) * 864e5;
+  const gFromMs = Date.parse(`${today}T03:00:00.000Z`) - (GDAYS - 1) * 864e5;
   const gFromISO = new Date(gFromMs).toISOString();
   let grupos = [], gpg = 1, glast = 1;
   do { const r = await api("/contacts", { perPage: 500, page: gpg, "where[isGroup]": true, "where[hadChat]": true }); grupos.push(...rows(r)); glast = r.lastPage || 1; gpg++; } while (gpg <= glast && gpg <= 5);
@@ -121,7 +121,7 @@ async function main() {
   try { const nr = await api("/now/resume"); const t = nr?.totals || {}; agora = { fila: Number(t.queueTickets || 0), abertos: Number(t.openTickets || 0), com_atendimento: Number(t.usersWithAttendance || 0), online: Number(t.onlineUsersCount || 0), offline: Number(t.offlineUsersCount || 0), ausentes: Number(t.absentUsersCount || 0), espera_media_s: Math.round(Number(t.averageOpenTicketsWaitTime || 0)) }; } catch (e) { }
 
   // KPIs adicionais para espelhar o artefato
-  const d7ISO = new Date(Date.parse(`${today}T00:00:00.000Z`) - 6 * 864e5).toISOString();
+  const d7ISO = new Date(Date.parse(`${today}T03:00:00.000Z`) - 6 * 864e5).toISOString();
   const leads7d = Number((await api("/contacts", { perPage: 1, "where[isGroup]": false, "where[hadChat]": true, "where[createdAt][$gte]": d7ISO }))?.total || 0);
   const ticketsAbertos = Number((await api("/tickets", { perPage: 1, "where[isOpen]": true }))?.total || 0);
 

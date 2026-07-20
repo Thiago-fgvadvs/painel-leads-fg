@@ -144,11 +144,19 @@ function render(d){
   $("v_med").textContent=minLabel(k.mediana_geral);
   $("v_offh").textContent=fmt(k.fora_horario);
   $("v_sem").textContent=fmt(k.sem_resposta);
-  const alerta=k.sem_resposta>0||k.fora_sla>k.no_sla;
-  $("status").className="status "+(alerta?"red":"green");
-  $("status").textContent=alerta?`🔴 Atenção: ${k.sem_resposta} sem resposta e ${k.fora_sla} fora do SLA de ${d.sla_min} min.`:`🟢 Atendimento em dia — ${k.pct_sla}% dentro do SLA.`;
+  const respondidos=k.no_sla+k.fora_sla;
+  if(k.total===0){
+    $("status").className="status";
+    $("status").style.cssText="background:#eef2f8;color:#3a4a63;border:1px solid #d7dfec";
+    $("status").textContent="🕗 Sem leads novos hoje até o momento — os indicadores diários zeram à meia-noite. Acompanhe pelos últimos 7 dias, pela fila de pendências e pelo card Agora.";
+    $("v_sla").textContent="—";$("h_sla").textContent="sem leads respondidos hoje ainda";
+  }else{
+    const alerta=k.sem_resposta>0||k.fora_sla>k.no_sla;
+    $("status").className="status "+(alerta?"red":"green");
+    $("status").textContent=alerta?`🔴 Atenção: ${k.sem_resposta} sem resposta e ${k.fora_sla} fora do SLA de ${d.sla_min} min.`:(respondidos?`🟢 Atendimento em dia — ${k.pct_sla}% dentro do SLA.`:`🟡 ${k.total} lead(s) hoje, nenhum respondido ainda.`);
+  }
   const max=Math.max(1,...d.atendentes.map(a=>a.leads));
-  $("tAtend").querySelector("tbody").innerHTML=d.atendentes.map(a=>`<tr><td>${a.nome}</td><td class="num">${fmt(a.leads)}</td><td class="num">${minLabel(a.mediana_min)}</td><td><div class="bar" style="width:${Math.round(100*a.leads/max)}%"></div></td></tr>`).join("");
+  $("tAtend").querySelector("tbody").innerHTML=d.atendentes.map(a=>`<tr><td>${a.nome}</td><td class="num">${fmt(a.leads)}</td><td class="num">${minLabel(a.mediana_min)}</td><td><div class="bar" style="width:${Math.round(100*a.leads/max)}%"></div></td></tr>`).join("")||"<tr><td colspan=4>Sem leads atendidos hoje até o momento.</td></tr>";
   bar("chOrigem",Object.keys(d.origem),Object.values(d.origem),["#3a5a9a","#7a2e3a"]);
   $("tCri").querySelector("tbody").innerHTML=d.criativos.map(c=>`<tr><td style="font-size:12px">${c.url}</td><td class="num">${fmt(c.leads)}</td></tr>`).join("")||"<tr><td colspan=2>—</td></tr>";
   bar("chArea",Object.keys(d.areas),Object.values(d.areas));
