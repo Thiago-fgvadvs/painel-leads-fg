@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 11:18",
+ "gerado_em": "20/07/2026, 11:33",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 11,
   "no_sla": 2,
-  "fora_sla": 4,
-  "sem_resposta": 2,
+  "fora_sla": 5,
+  "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 33,
-  "mediana_geral": 16.9,
+  "pct_sla": 29,
+  "mediana_geral": 17.1,
   "leads_7d": 235,
-  "tickets_abertos": 222,
+  "tickets_abertos": 223,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,8 +22,8 @@
   },
   {
    "nome": "Tiago Bernardo",
-   "leads": 2,
-   "mediana_min": 37.9
+   "leads": 3,
+   "mediana_min": 35.3
   },
   {
    "nome": "Nicolas",
@@ -54,16 +54,10 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3,
-  "Nao identificada": 8
+  "Trabalhista": 4,
+  "Nao identificada": 7
  },
  "sem_resposta_lista": [
-  {
-   "nome": "BeaTriz 🦋",
-   "tel": "5511*****367",
-   "criado": "10:52",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Edson / Pai do Eduardo",
    "tel": "5511*****274",
@@ -78,6 +72,13 @@
    "criado": "08:12",
    "espera_min": 87,
    "atendente": "Eduardo"
+  },
+  {
+   "nome": "BeaTriz 🦋",
+   "tel": "5511*****367",
+   "criado": "10:52",
+   "espera_min": 35.3,
+   "atendente": "Tiago Bernardo"
   },
   {
    "nome": "Rayane Narciso ❣️",
@@ -103,12 +104,12 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 144,
-  "turnos": 473,
-  "respondidos": 446,
+  "grupos_ativos": 147,
+  "turnos": 478,
+  "respondidos": 451,
   "sem_resposta": 27,
   "sem_resposta_grupos": 27,
-  "mediana_min": 19.7,
+  "mediana_min": 19.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -117,8 +118,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 137,
-    "mediana_min": 16.5
+    "respostas": 142,
+    "mediana_min": 16.3
    },
    {
     "nome": "Eduardo",
@@ -153,10 +154,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
+    "grupo": "G.L.T.P x INSS",
     "dia": "20/07",
-    "desde": "10:57",
-    "ts": 1784555873623
+    "desde": "11:27",
+    "ts": 1784557643644
    },
    {
     "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
@@ -334,39 +335,11 @@
     "ts": 1784224401571
    },
    {
-    "nome": "Dirceu",
-    "tel": "5547*****315",
-    "dia": "17/07",
-    "desde": "13:03",
-    "ts": 1784304209973
-   },
-   {
-    "nome": "Regina Camargo",
-    "tel": "5519*****296",
-    "dia": "17/07",
-    "desde": "19:21",
-    "ts": 1784326862619
-   },
-   {
-    "nome": "Mili✨❤️",
-    "tel": "5511*****852",
-    "dia": "17/07",
-    "desde": "19:30",
-    "ts": 1784327439514
-   },
-   {
     "nome": "Dany",
     "tel": "5515*****617",
     "dia": "17/07",
     "desde": "21:33",
     "ts": 1784334783157
-   },
-   {
-    "nome": "Majiolo  Da Mota",
-    "tel": "5519*****306",
-    "dia": "17/07",
-    "desde": "21:51",
-    "ts": 1784335863367
    },
    {
     "nome": "Leila costa",
@@ -376,53 +349,11 @@
     "ts": 1784337513023
    },
    {
-    "nome": "Jesus Rabello",
-    "tel": "5531*****635",
-    "dia": "17/07",
-    "desde": "23:12",
-    "ts": 1784340726552
-   },
-   {
     "nome": "Jéssica Pereira",
     "tel": "5518*****549",
     "dia": "17/07",
     "desde": "23:59",
     "ts": 1784343569661
-   },
-   {
-    "nome": "mymy❤️",
-    "tel": "5521*****432",
-    "dia": "18/07",
-    "desde": "00:21",
-    "ts": 1784344880540
-   },
-   {
-    "nome": "Faby 🎀🍀🌻🌀💕!!!",
-    "tel": "5517*****926",
-    "dia": "18/07",
-    "desde": "03:42",
-    "ts": 1784356939013
-   },
-   {
-    "nome": "Emilly",
-    "tel": "5511*****192",
-    "dia": "18/07",
-    "desde": "06:32",
-    "ts": 1784367158465
-   },
-   {
-    "nome": "Francisco",
-    "tel": "5548*****750",
-    "dia": "18/07",
-    "desde": "07:11",
-    "ts": 1784369519024
-   },
-   {
-    "nome": "Andar Com Fé Eu Vou",
-    "tel": "5599*****707",
-    "dia": "18/07",
-    "desde": "08:17",
-    "ts": 1784373473877
    },
    {
     "nome": "😝",
@@ -439,39 +370,11 @@
     "ts": 1784376679346
    },
    {
-    "nome": "Pretinha❤️",
-    "tel": "5511*****520",
-    "dia": "18/07",
-    "desde": "09:40",
-    "ts": 1784378454665
-   },
-   {
     "nome": "Alessandra Santos ‘ 💕",
     "tel": "5511*****196",
     "dia": "18/07",
     "desde": "09:59",
     "ts": 1784379577674
-   },
-   {
-    "nome": "Tamine",
-    "tel": "5562*****907",
-    "dia": "18/07",
-    "desde": "10:12",
-    "ts": 1784380334376
-   },
-   {
-    "nome": "😊Raquel",
-    "tel": "5521*****189",
-    "dia": "18/07",
-    "desde": "10:30",
-    "ts": 1784381405855
-   },
-   {
-    "nome": "Kevlin",
-    "tel": "5547*****562",
-    "dia": "18/07",
-    "desde": "13:27",
-    "ts": 1784392030745
    },
    {
     "nome": "Luzia Neri Dr Aguiar Ferr",
@@ -514,13 +417,6 @@
     "dia": "20/07",
     "desde": "08:33",
     "ts": 1784547229280
-   },
-   {
-    "nome": "BeaTriz 🦋",
-    "tel": "5511*****367",
-    "dia": "20/07",
-    "desde": "10:52",
-    "ts": 1784555549322
    }
   ],
   "grupos": [
@@ -675,16 +571,16 @@
     "ts": 1784553971675
    },
    {
-    "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
-    "dia": "20/07",
-    "desde": "10:57",
-    "ts": 1784555873623
-   },
-   {
     "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
     "dia": "20/07",
     "desde": "11:00",
     "ts": 1784556024701
+   },
+   {
+    "grupo": "G.L.T.P x INSS",
+    "dia": "20/07",
+    "desde": "11:27",
+    "ts": 1784557643644
    }
   ]
  },
@@ -1545,17 +1441,17 @@
   ]
  },
  "agora": {
-  "fila": 52,
-  "abertos": 222,
-  "com_atendimento": 6,
-  "online": 5,
+  "fila": 36,
+  "abertos": 223,
+  "com_atendimento": 7,
+  "online": 4,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 61866
+  "ausentes": 2,
+  "espera_media_s": 80501
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-01T14:31:55.964Z",
-  "min_sem_lead": 27347
+  "ultimo_lead_at": "2026-07-18T02:12:06.552Z",
+  "min_sem_lead": 3622
  },
  "leads": [
   {
@@ -1567,6 +1463,17 @@
    "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "BeaTriz 🦋",
+   "tel": "5511*****367",
+   "criado": "10:52",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 35.3,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
   },
   {
@@ -1590,17 +1497,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "BeaTriz 🦋",
-   "tel": "5511*****367",
-   "criado": "10:52",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
   },
   {
    "nome": "Rayane Narciso ❣️",
