@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/07/2026, 14:37",
+ "gerado_em": "20/07/2026, 14:52",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 24,
-  "no_sla": 10,
-  "fora_sla": 8,
-  "sem_resposta": 3,
+  "no_sla": 11,
+  "fora_sla": 9,
+  "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 56,
-  "mediana_geral": 11.8,
+  "pct_sla": 55,
+  "mediana_geral": 14.1,
   "leads_7d": 248,
-  "tickets_abertos": 219,
+  "tickets_abertos": 217,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,8 +22,8 @@
   },
   {
    "nome": "Tiago Bernardo",
-   "leads": 6,
-   "mediana_min": 20.7
+   "leads": 8,
+   "mediana_min": 22.9
   },
   {
    "nome": "Nicolas",
@@ -72,18 +72,6 @@
  },
  "sem_resposta_lista": [
   {
-   "nome": "Débora Rocha",
-   "tel": "5585*****073",
-   "criado": "14:27",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Denise",
-   "tel": "5555*****759",
-   "criado": "12:35",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Edson / Pai do Eduardo",
    "tel": "5511*****274",
    "criado": "08:33",
@@ -91,6 +79,13 @@
   }
  ],
  "fora_sla_lista": [
+  {
+   "nome": "Denise",
+   "tel": "5555*****759",
+   "criado": "12:35",
+   "espera_min": 127,
+   "atendente": "Tiago Bernardo"
+  },
   {
    "nome": "Fabinho Souza",
    "tel": "5592*****820",
@@ -150,21 +145,21 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 156,
-  "turnos": 506,
-  "respondidos": 479,
-  "sem_resposta": 27,
-  "sem_resposta_grupos": 27,
-  "mediana_min": 19.6,
+  "grupos_ativos": 157,
+  "turnos": 508,
+  "respondidos": 483,
+  "sem_resposta": 25,
+  "sem_resposta_grupos": 25,
+  "mediana_min": 19.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 234,
-    "mediana_min": 26.9
+    "respostas": 235,
+    "mediana_min": 26.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 159,
+    "respostas": 162,
     "mediana_min": 16.3
    },
    {
@@ -202,14 +197,8 @@
    {
     "grupo": "A.H.G x INSS",
     "dia": "20/07",
-    "desde": "14:35",
-    "ts": 1784568958853
-   },
-   {
-    "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
-    "dia": "20/07",
-    "desde": "14:29",
-    "ts": 1784568574849
+    "desde": "14:40",
+    "ts": 1784569257859
    },
    {
     "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
@@ -246,12 +235,6 @@
     "dia": "20/07",
     "desde": "09:45",
     "ts": 1784551506620
-   },
-   {
-    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
-    "dia": "19/07",
-    "desde": "16:31",
-    "ts": 1784489514579
    },
    {
     "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
@@ -442,20 +425,6 @@
     "dia": "20/07",
     "desde": "08:33",
     "ts": 1784547229280
-   },
-   {
-    "nome": "Denise",
-    "tel": "5555*****759",
-    "dia": "20/07",
-    "desde": "12:35",
-    "ts": 1784561720597
-   },
-   {
-    "nome": "Débora Rocha",
-    "tel": "5585*****073",
-    "dia": "20/07",
-    "desde": "14:27",
-    "ts": 1784568426824
    }
   ],
   "grupos": [
@@ -568,12 +537,6 @@
     "ts": 1784317776470
    },
    {
-    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
-    "dia": "19/07",
-    "desde": "16:31",
-    "ts": 1784489514579
-   },
-   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "20/07",
     "desde": "09:15",
@@ -610,16 +573,10 @@
     "ts": 1784568292738
    },
    {
-    "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
-    "dia": "20/07",
-    "desde": "14:29",
-    "ts": 1784568574849
-   },
-   {
     "grupo": "A.H.G x INSS",
     "dia": "20/07",
-    "desde": "14:35",
-    "ts": 1784568958853
+    "desde": "14:40",
+    "ts": 1784569257859
    }
   ]
  },
@@ -1480,26 +1437,37 @@
   ]
  },
  "agora": {
-  "fila": 35,
-  "abertos": 219,
+  "fila": 30,
+  "abertos": 217,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 3,
   "offline": 4,
-  "ausentes": 1,
-  "espera_media_s": 88153
+  "ausentes": 2,
+  "espera_media_s": 85604
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 651017
+  "min_sem_lead": 651033
  },
  "leads": [
+  {
+   "nome": "Denise",
+   "tel": "5555*****759",
+   "criado": "12:35",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 127,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Débora Rocha",
    "tel": "5585*****073",
    "criado": "14:27",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 14.8,
+   "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
@@ -1601,17 +1569,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Denise",
-   "tel": "5555*****759",
-   "criado": "12:35",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
   },
   {
