@@ -1,24 +1,24 @@
 {
- "gerado_em": "20/07/2026, 10:02",
+ "gerado_em": "20/07/2026, 10:17",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 8,
   "no_sla": 1,
-  "fora_sla": 2,
-  "sem_resposta": 3,
+  "fora_sla": 3,
+  "sem_resposta": 2,
   "fora_horario": 2,
-  "pct_sla": 33,
-  "mediana_geral": 16.6,
+  "pct_sla": 25,
+  "mediana_geral": 16.9,
   "leads_7d": 232,
-  "tickets_abertos": 237,
+  "tickets_abertos": 236,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 4,
-   "mediana_min": 51.8
+   "leads": 5,
+   "mediana_min": 17.1
   },
   {
    "nome": "Nicolas",
@@ -54,12 +54,6 @@
  },
  "sem_resposta_lista": [
   {
-   "nome": "Rayane Narciso ❣️",
-   "tel": "5524*****459",
-   "criado": "09:53",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "MAIK",
    "tel": "5511*****426",
    "criado": "09:36",
@@ -81,6 +75,13 @@
    "atendente": "Eduardo"
   },
   {
+   "nome": "Rayane Narciso ❣️",
+   "tel": "5524*****459",
+   "criado": "09:53",
+   "espera_min": 17.1,
+   "atendente": "Eduardo"
+  },
+  {
    "nome": "Salve",
    "tel": "5519*****258",
    "criado": "08:12",
@@ -90,11 +91,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 140,
-  "turnos": 457,
-  "respondidos": 432,
-  "sem_resposta": 25,
-  "sem_resposta_grupos": 25,
+  "grupos_ativos": 141,
+  "turnos": 465,
+  "respondidos": 441,
+  "sem_resposta": 24,
+  "sem_resposta_grupos": 24,
   "mediana_min": 19.7,
   "atendentes": [
    {
@@ -104,8 +105,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 126,
-    "mediana_min": 17.7
+    "respostas": 133,
+    "mediana_min": 16.5
    },
    {
     "nome": "Eduardo",
@@ -131,14 +132,19 @@
     "nome": "—",
     "respostas": 3,
     "mediana_min": 0.7
+   },
+   {
+    "nome": "Luisa",
+    "respostas": 2,
+    "mediana_min": 3536.2
    }
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.F.G",
+    "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
     "dia": "20/07",
-    "desde": "09:56",
-    "ts": 1784552176631
+    "desde": "10:04",
+    "ts": 1784552677579
    },
    {
     "grupo": "Z.D.F.M.M.D.A.C",
@@ -151,12 +157,6 @@
     "dia": "20/07",
     "desde": "09:45",
     "ts": 1784551506620
-   },
-   {
-    "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
-    "dia": "20/07",
-    "desde": "09:24",
-    "ts": 1784550249601
    },
    {
     "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
@@ -596,13 +596,6 @@
     "dia": "20/07",
     "desde": "09:36",
     "ts": 1784550973447
-   },
-   {
-    "nome": "Rayane Narciso ❣️",
-    "tel": "5524*****459",
-    "dia": "20/07",
-    "desde": "09:53",
-    "ts": 1784552015655
    }
   ],
   "grupos": [
@@ -739,22 +732,16 @@
     "ts": 1784549738592
    },
    {
-    "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
-    "dia": "20/07",
-    "desde": "09:24",
-    "ts": 1784550249601
-   },
-   {
     "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
     "dia": "20/07",
     "desde": "09:45",
     "ts": 1784551506620
    },
    {
-    "grupo": "A.F.G",
+    "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
     "dia": "20/07",
-    "desde": "09:56",
-    "ts": 1784552176631
+    "desde": "10:04",
+    "ts": 1784552677579
    }
   ]
  },
@@ -1615,17 +1602,17 @@
   ]
  },
  "agora": {
-  "fila": 71,
-  "abertos": 237,
+  "fila": 70,
+  "abertos": 236,
   "com_atendimento": 5,
-  "online": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 28473
+  "ausentes": 1,
+  "espera_media_s": 28344
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-20T12:42:23.656Z",
-  "min_sem_lead": 20
+  "ultimo_lead_at": "2026-07-17T14:04:06.900Z",
+  "min_sem_lead": 4273
  },
  "leads": [
   {
@@ -1637,6 +1624,17 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Juliane",
+   "tel": "5528*****225",
+   "criado": "07:56",
+   "atendente": "Eduardo",
+   "espera_min": 106.2,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
    "area": "Nao identificada"
   },
   {
@@ -1654,22 +1652,11 @@
    "nome": "Rayane Narciso ❣️",
    "tel": "5524*****459",
    "criado": "09:53",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Eduardo",
+   "espera_min": 17.1,
+   "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Juliane",
-   "tel": "5528*****225",
-   "criado": "07:56",
-   "atendente": "Eduardo",
-   "espera_min": 106.2,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
    "area": "Nao identificada"
   },
   {
