@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/07/2026, 19:27",
+ "gerado_em": "20/07/2026, 19:42",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -194,10 +194,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 165,
-  "turnos": 542,
+  "turnos": 543,
   "respondidos": 517,
-  "sem_resposta": 25,
-  "sem_resposta_grupos": 25,
+  "sem_resposta": 26,
+  "sem_resposta_grupos": 26,
   "mediana_min": 19.7,
   "atendentes": [
    {
@@ -242,6 +242,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "G.F.D x BANCO DO BRASIL S.A",
+    "dia": "20/07",
+    "desde": "19:32",
+    "ts": 1784586752873
+   },
    {
     "grupo": "L.H.F.D.C x NETUS TRANSPORTE LTDA",
     "dia": "20/07",
@@ -590,6 +596,12 @@
     "dia": "20/07",
     "desde": "19:19",
     "ts": 1784585954976
+   },
+   {
+    "grupo": "G.F.D x BANCO DO BRASIL S.A",
+    "dia": "20/07",
+    "desde": "19:32",
+    "ts": 1784586752873
    }
   ]
  },
@@ -1460,7 +1472,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-20T22:01:25.635Z",
-  "min_sem_lead": 26
+  "min_sem_lead": 41
  },
  "leads": [
   {
