@@ -1,24 +1,24 @@
 {
- "gerado_em": "20/07/2026, 16:54",
+ "gerado_em": "20/07/2026, 17:09",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
-  "no_sla": 12,
+  "total": 30,
+  "no_sla": 13,
   "fora_sla": 11,
   "sem_resposta": 4,
   "fora_horario": 2,
-  "pct_sla": 52,
-  "mediana_geral": 14.8,
-  "leads_7d": 253,
-  "tickets_abertos": 220,
+  "pct_sla": 54,
+  "mediana_geral": 14.1,
+  "leads_7d": 254,
+  "tickets_abertos": 221,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 13,
-   "mediana_min": 13.3
+   "leads": 14,
+   "mediana_min": 12
   },
   {
    "nome": "Tiago Bernardo",
@@ -37,28 +37,28 @@
   }
  ],
  "origem": {
-  "Anuncio": 24,
+  "Anuncio": 25,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 7
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 6
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 7
   },
   {
    "url": "www.instagram.com/p/DYVTAskDMJ6/",
    "leads": 3
   },
   {
-   "url": "fb.me/6mRwhMfKR",
+   "url": "fb.me/4EDzR2aSz",
    "leads": 2
   },
   {
-   "url": "fb.me/4EDzR2aSz",
+   "url": "fb.me/6mRwhMfKR",
    "leads": 2
   },
   {
@@ -76,15 +76,15 @@
  ],
  "areas": {
   "Trabalhista": 11,
-  "Previdenciario": 1,
-  "Nao identificada": 17
+  "Nao identificada": 18,
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [
   {
-   "nome": "5511919314687",
-   "tel": "5511*****687",
-   "criado": "16:47",
-   "area": "Trabalhista"
+   "nome": "5521965258369",
+   "tel": "5521*****369",
+   "criado": "17:04",
+   "area": "Nao identificada"
   },
   {
    "nome": "lemay81martinez",
@@ -107,17 +107,17 @@
  ],
  "fora_sla_lista": [
   {
-   "nome": "Rejane",
-   "tel": "5584*****007",
-   "criado": "12:18",
-   "espera_min": 31,
-   "atendente": "Tiago Bernardo"
-  },
-  {
    "nome": "Denise",
    "tel": "5513*****347",
    "criado": "15:44",
    "espera_min": 35.7,
+   "atendente": "Tiago Bernardo"
+  },
+  {
+   "nome": "Rejane",
+   "tel": "5584*****007",
+   "criado": "12:18",
+   "espera_min": 31,
    "atendente": "Tiago Bernardo"
   },
   {
@@ -187,10 +187,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 165,
-  "turnos": 527,
-  "respondidos": 500,
-  "sem_resposta": 27,
-  "sem_resposta_grupos": 27,
+  "turnos": 529,
+  "respondidos": 503,
+  "sem_resposta": 26,
+  "sem_resposta_grupos": 26,
   "mediana_min": 19.2,
   "atendentes": [
    {
@@ -200,8 +200,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 178,
-    "mediana_min": 16.6
+    "respostas": 181,
+    "mediana_min": 16.7
    },
    {
     "nome": "Eduardo",
@@ -238,8 +238,8 @@
    {
     "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
     "dia": "20/07",
-    "desde": "16:51",
-    "ts": 1784577072943
+    "desde": "17:01",
+    "ts": 1784577683820
    },
    {
     "grupo": "W.O.V x INSS",
@@ -264,12 +264,6 @@
     "dia": "17/07",
     "desde": "16:49",
     "ts": 1784317776470
-   },
-   {
-    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
-    "dia": "20/07",
-    "desde": "15:29",
-    "ts": 1784572178778
    },
    {
     "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
@@ -438,11 +432,11 @@
     "ts": 1784574037461
    },
    {
-    "nome": "5511919314687",
-    "tel": "5511*****687",
+    "nome": "5521965258369",
+    "tel": "5521*****369",
     "dia": "20/07",
-    "desde": "16:47",
-    "ts": 1784576872872
+    "desde": "17:04",
+    "ts": 1784577867249
    }
   ],
   "grupos": [
@@ -579,12 +573,6 @@
     "ts": 1784568292738
    },
    {
-    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
-    "dia": "20/07",
-    "desde": "15:29",
-    "ts": 1784572178778
-   },
-   {
     "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
     "dia": "20/07",
     "desde": "15:49",
@@ -605,8 +593,8 @@
    {
     "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
     "dia": "20/07",
-    "desde": "16:51",
-    "ts": 1784577072943
+    "desde": "17:01",
+    "ts": 1784577683820
    }
   ]
  },
@@ -1467,26 +1455,59 @@
   ]
  },
  "agora": {
-  "fila": 18,
-  "abertos": 220,
+  "fila": 17,
+  "abertos": 221,
   "com_atendimento": 5,
-  "online": 2,
-  "offline": 4,
-  "ausentes": 3,
-  "espera_media_s": 98177
+  "online": 4,
+  "offline": 5,
+  "ausentes": 0,
+  "espera_media_s": 97298
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-17T22:30:39.514Z",
-  "min_sem_lead": 4164
+  "min_sem_lead": 4179
  },
  "leads": [
   {
-   "nome": "5511919314687",
-   "tel": "5511*****687",
-   "criado": "16:47",
+   "nome": "flamengo de coração",
+   "tel": "5599*****054",
+   "criado": "15:52",
+   "atendente": "Eduardo",
+   "espera_min": 1.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5521965258369",
+   "tel": "5521*****369",
+   "criado": "17:04",
    "atendente": "—",
    "espera_min": null,
    "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Denise",
+   "tel": "5513*****347",
+   "criado": "15:44",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 35.7,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Fernando Rodrigues",
+   "tel": "5511*****687",
+   "criado": "16:47",
+   "atendente": "Eduardo",
+   "espera_min": 10.7,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/6mRwhMfKR",
    "area": "Trabalhista"
@@ -1501,17 +1522,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Previdenciario"
-  },
-  {
-   "nome": "Denise",
-   "tel": "5513*****347",
-   "criado": "15:44",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 35.7,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
   },
   {
    "nome": "553185164015",
@@ -1533,17 +1543,6 @@
    "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
    "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "flamengo de coração",
-   "tel": "5599*****054",
-   "criado": "15:52",
-   "atendente": "Eduardo",
-   "espera_min": 1.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4EDzR2aSz",
    "area": "Trabalhista"
   },
   {
