@@ -1,13 +1,13 @@
 {
- "gerado_em": "21/07/2026, 20:36",
+ "gerado_em": "21/07/2026, 20:52",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 41,
   "no_sla": 16,
   "fora_sla": 17,
-  "sem_resposta": 3,
-  "fora_horario": 3,
+  "sem_resposta": 2,
+  "fora_horario": 4,
   "pct_sla": 48,
   "mediana_geral": 16.2,
   "leads_7d": 249,
@@ -27,7 +27,7 @@
   },
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 7,
+   "leads": 8,
    "mediana_min": 0.4
   }
  ],
@@ -70,17 +70,11 @@
   }
  ],
  "areas": {
+  "Previdenciario": 4,
   "Nao identificada": 16,
-  "Trabalhista": 21,
-  "Previdenciario": 4
+  "Trabalhista": 21
  },
  "sem_resposta_lista": [
-  {
-   "nome": "558396108660",
-   "tel": "5583*****660",
-   "criado": "20:36",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Damarcia Sueli",
    "tel": "5511*****649",
@@ -320,13 +314,6 @@
     "dia": "21/07",
     "desde": "15:42",
     "ts": 1784659373252
-   },
-   {
-    "nome": "558396108660",
-    "tel": "5583*****660",
-    "dia": "21/07",
-    "desde": "20:36",
-    "ts": 1784676985280
    }
   ],
   "grupos": [
@@ -1205,20 +1192,31 @@
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 27021
+  "espera_media_s": 26656
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T23:36:25.280Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-07-21T23:06:45.984Z",
+  "min_sem_lead": 45
  },
  "leads": [
+  {
+   "nome": "Camila Andrade",
+   "tel": "5594*****071",
+   "criado": "20:06",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Previdenciario"
+  },
   {
    "nome": "558396108660",
    "tel": "5583*****660",
    "criado": "20:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
@@ -1233,17 +1231,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Camila Andrade",
-   "tel": "5594*****071",
-   "criado": "20:06",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Previdenciario"
   },
   {
    "nome": "556791910214",
