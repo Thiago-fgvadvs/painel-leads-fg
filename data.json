@@ -1,17 +1,17 @@
 {
- "gerado_em": "21/07/2026, 14:30",
+ "gerado_em": "21/07/2026, 14:45",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
+  "total": 29,
   "no_sla": 11,
   "fora_sla": 12,
-  "sem_resposta": 1,
+  "sem_resposta": 4,
   "fora_horario": 1,
   "pct_sla": 48,
   "mediana_geral": 16.2,
-  "leads_7d": 235,
-  "tickets_abertos": 176,
+  "leads_7d": 237,
+  "tickets_abertos": 179,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 21,
   "Direto/Indicacao": 8
  },
  "criativos": [
@@ -40,8 +40,16 @@
    "leads": 3
   },
   {
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 2
+  },
+  {
    "url": "www.instagram.com/p/DYVTKQODOlC/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/cMY7LLYxT",
+   "leads": 1
   },
   {
    "url": "fb.me/bB3uetOH6",
@@ -54,22 +62,32 @@
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DYVTWI6DPYt/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/7vEH579Vm",
-   "leads": 1
   }
  ],
  "areas": {
   "Nao identificada": 12,
-  "Trabalhista": 13,
-  "Previdenciario": 2
+  "Trabalhista": 14,
+  "Previdenciario": 3
  },
  "sem_resposta_lista": [
+  {
+   "nome": "556798818325",
+   "tel": "5567*****325",
+   "criado": "14:37",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Patricia Soares.",
+   "tel": "5512*****703",
+   "criado": "14:34",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553588371009",
+   "tel": "5535*****009",
+   "criado": "13:39",
+   "area": "Previdenciario"
+  },
   {
    "nome": "Pedro Wellington",
    "tel": "5585*****602",
@@ -166,16 +184,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 164,
-  "turnos": 546,
-  "respondidos": 520,
+  "turnos": 552,
+  "respondidos": 526,
   "sem_resposta": 26,
   "sem_resposta_grupos": 26,
-  "mediana_min": 19.7,
+  "mediana_min": 20,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 235,
-    "mediana_min": 25.9
+    "respostas": 241,
+    "mediana_min": 27.9
    },
    {
     "nome": "Nicolas",
@@ -381,6 +399,27 @@
     "dia": "21/07",
     "desde": "10:35",
     "ts": 1784640930731
+   },
+   {
+    "nome": "553588371009",
+    "tel": "5535*****009",
+    "dia": "21/07",
+    "desde": "13:39",
+    "ts": 1784651959682
+   },
+   {
+    "nome": "Patricia Soares.",
+    "tel": "5512*****703",
+    "dia": "21/07",
+    "desde": "14:34",
+    "ts": 1784655253226
+   },
+   {
+    "nome": "556798818325",
+    "tel": "5567*****325",
+    "dia": "21/07",
+    "desde": "14:37",
+    "ts": 1784655465458
    }
   ],
   "grupos": [
@@ -1373,19 +1412,52 @@
   ]
  },
  "agora": {
-  "fila": 6,
-  "abertos": 176,
+  "fila": 9,
+  "abertos": 179,
   "com_atendimento": 7,
-  "online": 3,
+  "online": 1,
   "offline": 3,
-  "ausentes": 3,
+  "ausentes": 5,
   "espera_media_s": 34579
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 652450
+  "min_sem_lead": 652466
  },
  "leads": [
+  {
+   "nome": "556798818325",
+   "tel": "5567*****325",
+   "criado": "14:37",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Patricia Soares.",
+   "tel": "5512*****703",
+   "criado": "14:34",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553588371009",
+   "tel": "5535*****009",
+   "criado": "13:39",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Previdenciario"
+  },
   {
    "nome": "Renata",
    "tel": "5511*****910",
@@ -1659,17 +1731,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553588371009",
-   "tel": "5535*****009",
-   "criado": "13:39",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Nao identificada"
   },
   {
