@@ -1,34 +1,45 @@
 {
- "gerado_em": "21/07/2026, 08:04",
+ "gerado_em": "21/07/2026, 08:20",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 1,
+  "total": 2,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 2,
   "fora_horario": 0,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 209,
-  "tickets_abertos": 235,
+  "leads_7d": 210,
+  "tickets_abertos": 236,
   "periodo_dias": 7
  },
  "atendentes": [],
  "origem": {
-  "Anuncio": 1,
+  "Anuncio": 2,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DYVTAskDMJ6/",
    "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 1,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [
+  {
+   "nome": "5521993843559",
+   "tel": "5521*****559",
+   "criado": "08:17",
+   "area": "Trabalhista"
+  },
   {
    "nome": "554399829566",
    "tel": "5543*****566",
@@ -39,11 +50,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 144,
-  "turnos": 427,
+  "grupos_ativos": 145,
+  "turnos": 428,
   "respondidos": 401,
-  "sem_resposta": 26,
-  "sem_resposta_grupos": 26,
+  "sem_resposta": 27,
+  "sem_resposta_grupos": 27,
   "mediana_min": 18,
   "atendentes": [
    {
@@ -88,6 +99,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
+    "dia": "21/07",
+    "desde": "08:12",
+    "ts": 1784632333003
+   },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
     "dia": "21/07",
@@ -367,6 +384,13 @@
     "dia": "21/07",
     "desde": "07:42",
     "ts": 1784630529554
+   },
+   {
+    "nome": "5521993843559",
+    "tel": "5521*****559",
+    "dia": "21/07",
+    "desde": "08:17",
+    "ts": 1784632663406
    }
   ],
   "grupos": [
@@ -525,6 +549,12 @@
     "dia": "21/07",
     "desde": "07:54",
     "ts": 1784631264002
+   },
+   {
+    "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
+    "dia": "21/07",
+    "desde": "08:12",
+    "ts": 1784632333003
    }
   ]
  },
@@ -1331,8 +1361,8 @@
   ]
  },
  "agora": {
-  "fila": 33,
-  "abertos": 235,
+  "fila": 34,
+  "abertos": 236,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
@@ -1340,10 +1370,21 @@
   "espera_media_s": 96496
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 652065
+  "ultimo_lead_at": "2026-07-21T11:17:43.406Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "5521993843559",
+   "tel": "5521*****559",
+   "criado": "08:17",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
   {
    "nome": "554399829566",
    "tel": "5543*****566",
