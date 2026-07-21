@@ -1,17 +1,17 @@
 {
- "gerado_em": "21/07/2026, 14:45",
+ "gerado_em": "21/07/2026, 15:00",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
+  "total": 30,
   "no_sla": 11,
-  "fora_sla": 12,
+  "fora_sla": 13,
   "sem_resposta": 4,
   "fora_horario": 1,
-  "pct_sla": 48,
-  "mediana_geral": 16.2,
-  "leads_7d": 237,
-  "tickets_abertos": 179,
+  "pct_sla": 46,
+  "mediana_geral": 16.5,
+  "leads_7d": 238,
+  "tickets_abertos": 182,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,13 +22,13 @@
   },
   {
    "nome": "Tiago Bernardo",
-   "leads": 7,
-   "mediana_min": 2.8
+   "leads": 8,
+   "mediana_min": 9.9
   }
  ],
  "origem": {
   "Anuncio": 21,
-  "Direto/Indicacao": 8
+  "Direto/Indicacao": 9
  },
  "criativos": [
   {
@@ -65,22 +65,22 @@
   }
  ],
  "areas": {
+  "Trabalhista": 15,
   "Nao identificada": 12,
-  "Trabalhista": 14,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [
+  {
+   "nome": "555184463987",
+   "tel": "5551*****987",
+   "criado": "14:58",
+   "area": "Trabalhista"
+  },
   {
    "nome": "556798818325",
    "tel": "5567*****325",
    "criado": "14:37",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Patricia Soares.",
-   "tel": "5512*****703",
-   "criado": "14:34",
-   "area": "Trabalhista"
   },
   {
    "nome": "553588371009",
@@ -96,6 +96,13 @@
   }
  ],
  "fora_sla_lista": [
+  {
+   "nome": "Patricia Soares.",
+   "tel": "5512*****703",
+   "criado": "14:34",
+   "espera_min": 17,
+   "atendente": "Tiago Bernardo"
+  },
   {
    "nome": "Expedito Sales Moreira Sa",
    "tel": "5521*****559",
@@ -183,17 +190,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 164,
-  "turnos": 552,
-  "respondidos": 526,
-  "sem_resposta": 26,
-  "sem_resposta_grupos": 26,
-  "mediana_min": 20,
+  "grupos_ativos": 165,
+  "turnos": 559,
+  "respondidos": 531,
+  "sem_resposta": 28,
+  "sem_resposta_grupos": 28,
+  "mediana_min": 20.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 241,
-    "mediana_min": 27.9
+    "respostas": 246,
+    "mediana_min": 28.7
    },
    {
     "nome": "Nicolas",
@@ -232,6 +239,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "N.J.D.S.M x SAVANEGO SUPERMERCADOS LTDA",
+    "dia": "21/07",
+    "desde": "14:43",
+    "ts": 1784655822414
+   },
    {
     "grupo": "W.O.V x INSS",
     "dia": "21/07",
@@ -303,6 +316,12 @@
     "dia": "20/07",
     "desde": "19:58",
     "ts": 1784588281015
+   },
+   {
+    "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
+    "dia": "20/07",
+    "desde": "18:37",
+    "ts": 1784583422006
    },
    {
     "grupo": "J.A.L x CONSTRUTORA RAMON AGUILERA",
@@ -408,18 +427,18 @@
     "ts": 1784651959682
    },
    {
-    "nome": "Patricia Soares.",
-    "tel": "5512*****703",
-    "dia": "21/07",
-    "desde": "14:34",
-    "ts": 1784655253226
-   },
-   {
     "nome": "556798818325",
     "tel": "5567*****325",
     "dia": "21/07",
     "desde": "14:37",
     "ts": 1784655465458
+   },
+   {
+    "nome": "555184463987",
+    "tel": "5551*****987",
+    "dia": "21/07",
+    "desde": "14:58",
+    "ts": 1784656708677
    }
   ],
   "grupos": [
@@ -508,6 +527,12 @@
     "ts": 1784559686742
    },
    {
+    "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
+    "dia": "20/07",
+    "desde": "18:37",
+    "ts": 1784583422006
+   },
+   {
     "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
     "dia": "20/07",
     "desde": "19:58",
@@ -578,6 +603,12 @@
     "dia": "21/07",
     "desde": "14:06",
     "ts": 1784653600388
+   },
+   {
+    "grupo": "N.J.D.S.M x SAVANEGO SUPERMERCADOS LTDA",
+    "dia": "21/07",
+    "desde": "14:43",
+    "ts": 1784655822414
    }
   ]
  },
@@ -1413,18 +1444,40 @@
  },
  "agora": {
   "fila": 9,
-  "abertos": 179,
+  "abertos": 182,
   "com_atendimento": 7,
-  "online": 1,
-  "offline": 3,
-  "ausentes": 5,
-  "espera_media_s": 34579
+  "online": 3,
+  "offline": 4,
+  "ausentes": 2,
+  "espera_media_s": 34165
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 652466
+  "ultimo_lead_at": "2026-07-21T17:58:28.677Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "555184463987",
+   "tel": "5551*****987",
+   "criado": "14:58",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Patricia Soares.",
+   "tel": "5512*****703",
+   "criado": "14:34",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 17,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "556798818325",
    "tel": "5567*****325",
@@ -1435,17 +1488,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Patricia Soares.",
-   "tel": "5512*****703",
-   "criado": "14:34",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
   },
   {
    "nome": "553588371009",
