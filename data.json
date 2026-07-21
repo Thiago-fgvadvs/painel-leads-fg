@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/07/2026, 18:19",
+ "gerado_em": "21/07/2026, 18:34",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -212,10 +212,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 172,
-  "turnos": 577,
+  "turnos": 578,
   "respondidos": 572,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 20,
   "atendentes": [
    {
@@ -260,6 +260,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
+    "dia": "21/07",
+    "desde": "18:27",
+    "ts": 1784669269540
+   },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
     "dia": "21/07",
@@ -340,6 +346,12 @@
     "dia": "21/07",
     "desde": "12:19",
     "ts": 1784647171172
+   },
+   {
+    "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
+    "dia": "21/07",
+    "desde": "18:27",
+    "ts": 1784669269540
    }
   ]
  },
@@ -1177,14 +1189,14 @@
   "fila": 7,
   "abertos": 102,
   "com_atendimento": 6,
-  "online": 2,
-  "offline": 7,
+  "online": 1,
+  "offline": 8,
   "ausentes": 0,
   "espera_media_s": 28178
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T17:34:13.226Z",
-  "min_sem_lead": 225
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 652695
  },
  "leads": [
   {
