@@ -1,17 +1,17 @@
 {
- "gerado_em": "21/07/2026, 15:46",
+ "gerado_em": "21/07/2026, 16:02",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 32,
-  "no_sla": 11,
+  "total": 34,
+  "no_sla": 13,
   "fora_sla": 17,
   "sem_resposta": 2,
   "fora_horario": 1,
-  "pct_sla": 39,
-  "mediana_geral": 17.5,
-  "leads_7d": 240,
-  "tickets_abertos": 161,
+  "pct_sla": 43,
+  "mediana_geral": 16.9,
+  "leads_7d": 242,
+  "tickets_abertos": 162,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -24,16 +24,21 @@
    "nome": "Tiago Bernardo",
    "leads": 9,
    "mediana_min": 17
+  },
+  {
+   "nome": "Fernanda Gehm - Administradora",
+   "leads": 2,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 25,
   "Direto/Indicacao": 9
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 4
+   "leads": 5
   },
   {
    "url": "www.instagram.com/p/DYVTKQODOlC/",
@@ -52,26 +57,26 @@
    "leads": 2
   },
   {
+   "url": "fb.me/46jmJaUVk",
+   "leads": 1
+  },
+  {
    "url": "fb.me/cMY7LLYxT",
    "leads": 1
   },
   {
    "url": "fb.me/bB3uetOH6",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 18,
   "Previdenciario": 3,
-  "Trabalhista": 16,
   "Nao identificada": 13
  },
  "sem_resposta_lista": [
   {
-   "nome": "5511914895649",
+   "nome": "Damarcia Sueli",
    "tel": "5511*****649",
    "criado": "15:42",
    "area": "Trabalhista"
@@ -208,10 +213,10 @@
   "dias": 7,
   "grupos_ativos": 166,
   "turnos": 557,
-  "respondidos": 537,
-  "sem_resposta": 20,
-  "sem_resposta_grupos": 20,
-  "mediana_min": 20.5,
+  "respondidos": 538,
+  "sem_resposta": 19,
+  "sem_resposta_grupos": 19,
+  "mediana_min": 20.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -220,8 +225,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 201,
-    "mediana_min": 23.1
+    "respostas": 202,
+    "mediana_min": 23.2
    },
    {
     "nome": "Eduardo",
@@ -316,12 +321,6 @@
     "ts": 1784315706456
    },
    {
-    "grupo": "F.G x ITAU UNIBANCO",
-    "dia": "17/07",
-    "desde": "16:04",
-    "ts": 1784315052366
-   },
-   {
     "grupo": "T.G.R x FLASH TECNOLOGIA E INSTITUICAO DE PAGAMENTO LTDA",
     "dia": "17/07",
     "desde": "12:33",
@@ -388,7 +387,7 @@
     "ts": 1784640930731
    },
    {
-    "nome": "5511914895649",
+    "nome": "Damarcia Sueli",
     "tel": "5511*****649",
     "dia": "21/07",
     "desde": "15:42",
@@ -449,12 +448,6 @@
     "dia": "17/07",
     "desde": "12:33",
     "ts": 1784302439171
-   },
-   {
-    "grupo": "F.G x ITAU UNIBANCO",
-    "dia": "17/07",
-    "desde": "16:04",
-    "ts": 1784315052366
    },
    {
     "grupo": "E.S.N.D.S x INSS",
@@ -1349,19 +1342,41 @@
   ]
  },
  "agora": {
-  "fila": 7,
-  "abertos": 161,
+  "fila": 9,
+  "abertos": 162,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 6,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 33800
+  "ausentes": 0,
+  "espera_media_s": 32995
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T16:39:19.682Z",
-  "min_sem_lead": 127
+  "ultimo_lead_at": "2026-07-21T18:56:05.548Z",
+  "min_sem_lead": 6
  },
  "leads": [
+  {
+   "nome": "Maah🥰",
+   "tel": "5513*****987",
+   "criado": "15:56",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Mandinha❤",
+   "tel": "5516*****962",
+   "criado": "15:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/46jmJaUVk",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Daniela Lemos",
    "tel": "5535*****009",
@@ -1374,7 +1389,7 @@
    "area": "Previdenciario"
   },
   {
-   "nome": "5511914895649",
+   "nome": "Damarcia Sueli",
    "tel": "5511*****649",
    "criado": "15:42",
    "atendente": "—",
