@@ -1,24 +1,24 @@
 {
- "gerado_em": "21/07/2026, 12:12",
+ "gerado_em": "21/07/2026, 12:28",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
+  "total": 21,
   "no_sla": 6,
-  "fora_sla": 10,
+  "fora_sla": 11,
   "sem_resposta": 2,
   "fora_horario": 1,
-  "pct_sla": 38,
-  "mediana_geral": 21.7,
-  "leads_7d": 228,
+  "pct_sla": 35,
+  "mediana_geral": 21.3,
+  "leads_7d": 229,
   "tickets_abertos": 245,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 13,
-   "mediana_min": 19.7
+   "leads": 14,
+   "mediana_min": 18
   },
   {
    "nome": "Tiago Bernardo",
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 14,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -41,6 +41,10 @@
   },
   {
    "url": "fb.me/7vEH579Vm",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
    "leads": 1
   },
   {
@@ -58,22 +62,18 @@
   {
    "url": "fb.me/7x2nrMW0Q",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DYhcT7SDBWR/",
-   "leads": 1
   }
  ],
  "areas": {
   "Nao identificada": 11,
-  "Trabalhista": 9
+  "Trabalhista": 10
  },
  "sem_resposta_lista": [
   {
-   "nome": "5527996113662",
-   "tel": "5527*****662",
-   "criado": "12:05",
-   "area": "Nao identificada"
+   "nome": "5527997003281",
+   "tel": "5527*****281",
+   "criado": "12:17",
+   "area": "Trabalhista"
   },
   {
    "nome": "Pedro Wellington",
@@ -83,6 +83,13 @@
   }
  ],
  "fora_sla_lista": [
+  {
+   "nome": "Magna Ķelly",
+   "tel": "5527*****662",
+   "criado": "12:05",
+   "espera_min": 16.7,
+   "atendente": "Eduardo"
+  },
   {
    "nome": "Marcos Souza",
    "tel": "5595*****968",
@@ -156,22 +163,22 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 156,
-  "turnos": 506,
-  "respondidos": 483,
-  "sem_resposta": 23,
-  "sem_resposta_grupos": 23,
+  "grupos_ativos": 157,
+  "turnos": 516,
+  "respondidos": 491,
+  "sem_resposta": 25,
+  "sem_resposta_grupos": 25,
   "mediana_min": 19.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 214,
-    "mediana_min": 27.7
+    "respostas": 219,
+    "mediana_min": 25.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 184,
-    "mediana_min": 21.8
+    "respostas": 186,
+    "mediana_min": 22.7
    },
    {
     "nome": "Eduardo",
@@ -200,22 +207,34 @@
    },
    {
     "nome": "—",
-    "respostas": 3,
+    "respostas": 4,
     "mediana_min": 0.7
    }
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.H.F.D.C x NETUS TRANSPORTE LTDA",
+    "dia": "21/07",
+    "desde": "12:24",
+    "ts": 1784647448175
+   },
+   {
+    "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
+    "dia": "21/07",
+    "desde": "12:19",
+    "ts": 1784647171172
+   },
+   {
+    "grupo": "M.D.F.R.P x CENTRO DE ESTUDOS E PESQUISAS CIENTIFICAS FRANCISCO ANTONIO",
+    "dia": "21/07",
+    "desde": "12:15",
+    "ts": 1784646905276
+   },
+   {
     "grupo": "G.L.T.P x INSS",
     "dia": "21/07",
     "desde": "11:45",
     "ts": 1784645106132
-   },
-   {
-    "grupo": "A.L.M.J x ARCOS DOURADOS COMERCIO DE ALIMENTO SA",
-    "dia": "21/07",
-    "desde": "11:42",
-    "ts": 1784644968130
    },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
@@ -356,11 +375,11 @@
     "ts": 1784640930731
    },
    {
-    "nome": "5527996113662",
-    "tel": "5527*****662",
+    "nome": "5527997003281",
+    "tel": "5527*****281",
     "dia": "21/07",
-    "desde": "12:05",
-    "ts": 1784646314046
+    "desde": "12:17",
+    "ts": 1784647072047
    }
   ],
   "grupos": [
@@ -491,16 +510,28 @@
     "ts": 1784643932231
    },
    {
-    "grupo": "A.L.M.J x ARCOS DOURADOS COMERCIO DE ALIMENTO SA",
-    "dia": "21/07",
-    "desde": "11:42",
-    "ts": 1784644968130
-   },
-   {
     "grupo": "G.L.T.P x INSS",
     "dia": "21/07",
     "desde": "11:45",
     "ts": 1784645106132
+   },
+   {
+    "grupo": "M.D.F.R.P x CENTRO DE ESTUDOS E PESQUISAS CIENTIFICAS FRANCISCO ANTONIO",
+    "dia": "21/07",
+    "desde": "12:15",
+    "ts": 1784646905276
+   },
+   {
+    "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
+    "dia": "21/07",
+    "desde": "12:19",
+    "ts": 1784647171172
+   },
+   {
+    "grupo": "L.H.F.D.C x NETUS TRANSPORTE LTDA",
+    "dia": "21/07",
+    "desde": "12:24",
+    "ts": 1784647448175
    }
   ]
  },
@@ -1307,29 +1338,40 @@
   ]
  },
  "agora": {
-  "fila": 9,
-  "abertos": 244,
-  "com_atendimento": 6,
+  "fila": 8,
+  "abertos": 245,
+  "com_atendimento": 7,
   "online": 4,
   "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 81393
+  "espera_media_s": 80842
  },
  "captacao": {
-  "ultimo_lead_at": "2026-02-14T06:09:51.714Z",
-  "min_sem_lead": 226623
+  "ultimo_lead_at": "2026-06-17T14:32:49.408Z",
+  "min_sem_lead": 49015
  },
  "leads": [
   {
-   "nome": "5527996113662",
+   "nome": "Magna Ķelly",
    "tel": "5527*****662",
    "criado": "12:05",
+   "atendente": "Eduardo",
+   "espera_min": 16.7,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7vEH579Vm",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5527997003281",
+   "tel": "5527*****281",
+   "criado": "12:17",
    "atendente": "—",
    "espera_min": null,
    "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
-   "criativo": "fb.me/7vEH579Vm",
-   "area": "Nao identificada"
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Marcos Souza",
