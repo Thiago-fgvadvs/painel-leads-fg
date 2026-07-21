@@ -1,17 +1,17 @@
 {
- "gerado_em": "21/07/2026, 13:29",
+ "gerado_em": "21/07/2026, 13:44",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
+  "total": 25,
   "no_sla": 8,
   "fora_sla": 12,
-  "sem_resposta": 1,
+  "sem_resposta": 2,
   "fora_horario": 1,
   "pct_sla": 40,
   "mediana_geral": 17.4,
-  "leads_7d": 231,
-  "tickets_abertos": 179,
+  "leads_7d": 233,
+  "tickets_abertos": 176,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 16,
-  "Direto/Indicacao": 7
+  "Anuncio": 17,
+  "Direto/Indicacao": 8
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 3
+  },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 3
@@ -40,8 +44,8 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 2
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
@@ -58,18 +62,20 @@
   {
    "url": "fb.me/4TMXZ8MDm",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7x2nrMW0Q",
-   "leads": 1
   }
  ],
  "areas": {
+  "Nao identificada": 13,
   "Trabalhista": 11,
-  "Nao identificada": 11,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
+  {
+   "nome": "554491014452",
+   "tel": "5544*****452",
+   "criado": "13:43",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Pedro Wellington",
    "tel": "5585*****602",
@@ -78,6 +84,13 @@
   }
  ],
  "fora_sla_lista": [
+  {
+   "nome": "Expedito Sales Moreira Sa",
+   "tel": "5521*****559",
+   "criado": "08:17",
+   "espera_min": 92.2,
+   "atendente": "Tiago Bernardo"
+  },
   {
    "nome": "❤",
    "tel": "5527*****281",
@@ -128,13 +141,6 @@
    "atendente": "Tiago Bernardo"
   },
   {
-   "nome": "Expedito Sales Moreira Sa",
-   "tel": "5521*****559",
-   "criado": "08:17",
-   "espera_min": 92.2,
-   "atendente": "Tiago Bernardo"
-  },
-  {
    "nome": "Luan Daniel",
    "tel": "5584*****396",
    "criado": "08:49",
@@ -165,11 +171,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 163,
-  "turnos": 532,
+  "grupos_ativos": 164,
+  "turnos": 533,
   "respondidos": 506,
-  "sem_resposta": 26,
-  "sem_resposta_grupos": 26,
+  "sem_resposta": 27,
+  "sem_resposta_grupos": 27,
   "mediana_min": 19.2,
   "atendentes": [
    {
@@ -219,6 +225,12 @@
     "dia": "21/07",
     "desde": "13:19",
     "ts": 1784650765345
+   },
+   {
+    "grupo": "W.O.V x INSS",
+    "dia": "21/07",
+    "desde": "13:16",
+    "ts": 1784650615251
    },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
@@ -381,6 +393,13 @@
     "dia": "21/07",
     "desde": "10:35",
     "ts": 1784640930731
+   },
+   {
+    "nome": "554491014452",
+    "tel": "5544*****452",
+    "dia": "21/07",
+    "desde": "13:43",
+    "ts": 1784652222028
    }
   ],
   "grupos": [
@@ -535,6 +554,12 @@
     "ts": 1784650427339
    },
    {
+    "grupo": "W.O.V x INSS",
+    "dia": "21/07",
+    "desde": "13:16",
+    "ts": 1784650615251
+   },
+   {
     "grupo": "E.B.D.S x INSS",
     "dia": "21/07",
     "desde": "13:19",
@@ -544,13 +569,22 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 89,
+  "total": 90,
   "por_vendedor": {
-   "Roseli": 1,
+   "Roseli": 2,
    "Eduardo": 76,
    "Tiago Bernardo": 12
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "—",
+    "dia": "21/07",
+    "hora": "13:34",
+    "ts": 1784651696916,
+    "origem": "Anúncio: Trabalhista - justa causa",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "V",
@@ -1356,18 +1390,51 @@
  },
  "agora": {
   "fila": 10,
-  "abertos": 179,
+  "abertos": 176,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 4,
+  "online": 4,
+  "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 38082
+  "espera_media_s": 35922
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-15T20:10:29.023Z",
-  "min_sem_lead": 8419
+  "ultimo_lead_at": "2026-07-21T16:43:42.028Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "554491014452",
+   "tel": "5544*****452",
+   "criado": "13:43",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Silvana Tondin",
+   "tel": "5554*****135",
+   "criado": "13:11",
+   "atendente": "Eduardo",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Expedito Sales Moreira Sa",
+   "tel": "5521*****559",
+   "criado": "08:17",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 92.2,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
   {
    "nome": "$âmella",
    "tel": "5513*****001",
@@ -1389,17 +1456,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Silvana Tondin",
-   "tel": "5554*****135",
-   "criado": "13:11",
-   "atendente": "Eduardo",
-   "espera_min": 0.8,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
-   "area": "Nao identificada"
   },
   {
    "nome": "Eliane",
@@ -1534,17 +1590,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Expedito Sales Moreira Sa",
-   "tel": "5521*****559",
-   "criado": "08:17",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 92.2,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Cleusa Da Silva",
    "tel": "5543*****566",
    "criado": "07:42",
@@ -1614,6 +1659,17 @@
    "nome": "558288902718",
    "tel": "5582*****718",
    "criado": "08:49",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553588371009",
+   "tel": "5535*****009",
+   "criado": "13:39",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
