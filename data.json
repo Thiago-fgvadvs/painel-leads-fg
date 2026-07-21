@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/07/2026, 17:03",
+ "gerado_em": "21/07/2026, 17:18",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 48,
   "mediana_geral": 16.2,
   "leads_7d": 246,
-  "tickets_abertos": 162,
+  "tickets_abertos": 160,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -41,11 +41,11 @@
    "leads": 6
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DYVTKQODOlC/",
    "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DYVTKQODOlC/",
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 4
   },
   {
@@ -57,11 +57,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/46jmJaUVk",
+   "url": "fb.me/cMY7LLYxT",
    "leads": 1
   },
   {
-   "url": "fb.me/cMY7LLYxT",
+   "url": "fb.me/46jmJaUVk",
    "leads": 1
   },
   {
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 16,
   "Trabalhista": 19,
+  "Nao identificada": 16,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [
@@ -97,6 +97,13 @@
    "atendente": "Tiago Bernardo"
   },
   {
+   "nome": "mari finamor",
+   "tel": "5567*****325",
+   "criado": "14:37",
+   "espera_min": 58.7,
+   "atendente": "Eduardo"
+  },
+  {
    "nome": "Daniela Lemos",
    "tel": "5535*****009",
    "criado": "13:39",
@@ -109,13 +116,6 @@
    "criado": "15:12",
    "espera_min": 24.6,
    "atendente": "Tiago Bernardo"
-  },
-  {
-   "nome": "mari finamor",
-   "tel": "5567*****325",
-   "criado": "14:37",
-   "espera_min": 58.7,
-   "atendente": "Eduardo"
   },
   {
    "nome": "✨Carol Rodrigues✨",
@@ -211,17 +211,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 168,
-  "turnos": 567,
-  "respondidos": 549,
+  "grupos_ativos": 169,
+  "turnos": 568,
+  "respondidos": 550,
   "sem_resposta": 18,
   "sem_resposta_grupos": 18,
-  "mediana_min": 21.2,
+  "mediana_min": 21,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 255,
-    "mediana_min": 27.9
+    "respostas": 256,
+    "mediana_min": 27.7
    },
    {
     "nome": "Nicolas",
@@ -261,6 +261,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "F.D.L.B.D.O x CASA DE SAUDE SANTA MARCELINA",
+    "dia": "21/07",
+    "desde": "16:54",
+    "ts": 1784663699384
+   },
+   {
     "grupo": "D.D.A.F x ITAU",
     "dia": "16/07",
     "desde": "14:02",
@@ -271,12 +277,6 @@
     "dia": "21/07",
     "desde": "12:19",
     "ts": 1784647171172
-   },
-   {
-    "grupo": "L.H.F.D.C x NETUS TRANSPORTE LTDA",
-    "dia": "21/07",
-    "desde": "12:24",
-    "ts": 1784647448175
    },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
@@ -492,10 +492,10 @@
     "ts": 1784647171172
    },
    {
-    "grupo": "L.H.F.D.C x NETUS TRANSPORTE LTDA",
+    "grupo": "F.D.L.B.D.O x CASA DE SAUDE SANTA MARCELINA",
     "dia": "21/07",
-    "desde": "12:24",
-    "ts": 1784647448175
+    "desde": "16:54",
+    "ts": 1784663699384
    }
   ]
  },
@@ -1330,30 +1330,19 @@
   ]
  },
  "agora": {
-  "fila": 8,
-  "abertos": 162,
+  "fila": 7,
+  "abertos": 160,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 5,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 31470
+  "ausentes": 1,
+  "espera_media_s": 31838
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:51.431Z",
-  "min_sem_lead": 652603
+  "ultimo_lead_at": "2026-07-21T17:34:13.226Z",
+  "min_sem_lead": 164
  },
  "leads": [
-  {
-   "nome": "Giza 🌹🌻",
-   "tel": "5522*****127",
-   "criado": "16:53",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Patricia Soares.",
    "tel": "5512*****703",
@@ -1366,17 +1355,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Mandinha❤",
-   "tel": "5516*****962",
-   "criado": "15:54",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/46jmJaUVk",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "RCE-Publicidades",
    "tel": "5527*****377",
    "criado": "16:24",
@@ -1386,6 +1364,39 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTKQODOlC/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "mari finamor",
+   "tel": "5567*****325",
+   "criado": "14:37",
+   "atendente": "Eduardo",
+   "espera_min": 58.7,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Giza 🌹🌻",
+   "tel": "5522*****127",
+   "criado": "16:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Mandinha❤",
+   "tel": "5516*****962",
+   "criado": "15:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/46jmJaUVk",
+   "area": "Trabalhista"
   },
   {
    "nome": "fabiomotta5507",
@@ -1451,17 +1462,6 @@
    "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTKQODOlC/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "mari finamor",
-   "tel": "5567*****325",
-   "criado": "14:37",
-   "atendente": "Eduardo",
-   "espera_min": 58.7,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
    "area": "Nao identificada"
   },
   {
