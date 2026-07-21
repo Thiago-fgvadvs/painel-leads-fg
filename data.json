@@ -1,17 +1,17 @@
 {
- "gerado_em": "21/07/2026, 16:47",
+ "gerado_em": "21/07/2026, 17:03",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 36,
-  "no_sla": 15,
+  "total": 38,
+  "no_sla": 16,
   "fora_sla": 17,
   "sem_resposta": 2,
   "fora_horario": 1,
-  "pct_sla": 47,
-  "mediana_geral": 16.5,
-  "leads_7d": 244,
-  "tickets_abertos": 160,
+  "pct_sla": 48,
+  "mediana_geral": 16.2,
+  "leads_7d": 246,
+  "tickets_abertos": 162,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,13 +27,13 @@
   },
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 27,
-  "Direto/Indicacao": 9
+  "Anuncio": 28,
+  "Direto/Indicacao": 10
  },
  "criativos": [
   {
@@ -41,12 +41,12 @@
    "leads": 6
   },
   {
-   "url": "www.instagram.com/p/DYVTKQODOlC/",
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 3
+   "url": "www.instagram.com/p/DYVTKQODOlC/",
+   "leads": 4
   },
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
+  "Nao identificada": 16,
   "Trabalhista": 19,
-  "Nao identificada": 14,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [
@@ -211,22 +211,22 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 166,
-  "turnos": 563,
-  "respondidos": 544,
-  "sem_resposta": 19,
-  "sem_resposta_grupos": 19,
+  "grupos_ativos": 168,
+  "turnos": 567,
+  "respondidos": 549,
+  "sem_resposta": 18,
+  "sem_resposta_grupos": 18,
   "mediana_min": 21.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 254,
-    "mediana_min": 27.7
+    "respostas": 255,
+    "mediana_min": 27.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 203,
-    "mediana_min": 23.3
+    "respostas": 204,
+    "mediana_min": 23.6
    },
    {
     "nome": "Eduardo",
@@ -235,8 +235,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 26,
-    "mediana_min": 3.2
+    "respostas": 29,
+    "mediana_min": 2.3
    },
    {
     "nome": "Luisa",
@@ -261,10 +261,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "21/07",
-    "desde": "15:39",
-    "ts": 1784659184430
+    "grupo": "D.D.A.F x ITAU",
+    "dia": "16/07",
+    "desde": "14:02",
+    "ts": 1784221362003
    },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -343,12 +343,6 @@
     "dia": "16/07",
     "desde": "17:59",
     "ts": 1784235580260
-   },
-   {
-    "grupo": "D.D.A.F x ITAU",
-    "dia": "16/07",
-    "desde": "14:02",
-    "ts": 1784221362003
    },
    {
     "grupo": "J.L x SumUp ",
@@ -502,12 +496,6 @@
     "dia": "21/07",
     "desde": "12:24",
     "ts": 1784647448175
-   },
-   {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "21/07",
-    "desde": "15:39",
-    "ts": 1784659184430
    }
   ]
  },
@@ -1342,19 +1330,30 @@
   ]
  },
  "agora": {
-  "fila": 6,
-  "abertos": 160,
+  "fila": 8,
+  "abertos": 162,
   "com_atendimento": 7,
   "online": 4,
   "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 32228
+  "espera_media_s": 31470
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T17:34:13.226Z",
-  "min_sem_lead": 134
+  "ultimo_lead_at": "2025-04-24T15:19:51.431Z",
+  "min_sem_lead": 652603
  },
  "leads": [
+  {
+   "nome": "Giza 🌹🌻",
+   "tel": "5522*****127",
+   "criado": "16:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Patricia Soares.",
    "tel": "5512*****703",
@@ -1364,6 +1363,17 @@
    "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Mandinha❤",
+   "tel": "5516*****962",
+   "criado": "15:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/46jmJaUVk",
    "area": "Trabalhista"
   },
   {
@@ -1386,17 +1396,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Mandinha❤",
-   "tel": "5516*****962",
-   "criado": "15:54",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/46jmJaUVk",
    "area": "Trabalhista"
   },
   {
@@ -1738,6 +1737,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511957220938",
+   "tel": "5511*****938",
+   "criado": "16:48",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   },
   {
