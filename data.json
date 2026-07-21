@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/07/2026, 16:32",
+ "gerado_em": "21/07/2026, 16:47",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 47,
   "mediana_geral": 16.5,
   "leads_7d": 244,
-  "tickets_abertos": 161,
+  "tickets_abertos": 160,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -213,20 +213,20 @@
   "dias": 7,
   "grupos_ativos": 166,
   "turnos": 563,
-  "respondidos": 542,
-  "sem_resposta": 21,
-  "sem_resposta_grupos": 21,
-  "mediana_min": 21,
+  "respondidos": 544,
+  "sem_resposta": 19,
+  "sem_resposta_grupos": 19,
+  "mediana_min": 21.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 253,
-    "mediana_min": 27.4
+    "respostas": 254,
+    "mediana_min": 27.7
    },
    {
     "nome": "Nicolas",
-    "respostas": 202,
-    "mediana_min": 23.2
+    "respostas": 203,
+    "mediana_min": 23.3
    },
    {
     "nome": "Eduardo",
@@ -261,12 +261,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "21/07",
-    "desde": "14:07",
-    "ts": 1784653629282
-   },
-   {
     "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
     "dia": "21/07",
     "desde": "15:39",
@@ -283,12 +277,6 @@
     "dia": "21/07",
     "desde": "12:24",
     "ts": 1784647448175
-   },
-   {
-    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
-    "dia": "21/07",
-    "desde": "11:54",
-    "ts": 1784645665147
    },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
@@ -504,12 +492,6 @@
     "ts": 1784643932231
    },
    {
-    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
-    "dia": "21/07",
-    "desde": "11:54",
-    "ts": 1784645665147
-   },
-   {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
     "dia": "21/07",
     "desde": "12:19",
@@ -520,12 +502,6 @@
     "dia": "21/07",
     "desde": "12:24",
     "ts": 1784647448175
-   },
-   {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "21/07",
-    "desde": "14:07",
-    "ts": 1784653629282
    },
    {
     "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
@@ -1367,16 +1343,16 @@
  },
  "agora": {
   "fila": 6,
-  "abertos": 161,
+  "abertos": 160,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 4,
   "offline": 3,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 32228
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-21T17:34:13.226Z",
-  "min_sem_lead": 118
+  "min_sem_lead": 134
  },
  "leads": [
   {
@@ -1389,6 +1365,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "RCE-Publicidades",
+   "tel": "5527*****377",
+   "criado": "16:24",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
+   "area": "Nao identificada"
   },
   {
    "nome": "fabiomotta5507",
@@ -1422,17 +1409,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "RCE-Publicidades",
-   "tel": "5527*****377",
-   "criado": "16:24",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
-   "area": "Nao identificada"
   },
   {
    "nome": "Raquel Corano",
