@@ -1,17 +1,17 @@
 {
- "gerado_em": "21/07/2026, 16:17",
+ "gerado_em": "21/07/2026, 16:32",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 35,
-  "no_sla": 14,
+  "total": 36,
+  "no_sla": 15,
   "fora_sla": 17,
   "sem_resposta": 2,
   "fora_horario": 1,
-  "pct_sla": 45,
-  "mediana_geral": 16.7,
-  "leads_7d": 243,
-  "tickets_abertos": 160,
+  "pct_sla": 47,
+  "mediana_geral": 16.5,
+  "leads_7d": 244,
+  "tickets_abertos": 161,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,12 +27,12 @@
   },
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 3,
+   "leads": 4,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 26,
+  "Anuncio": 27,
   "Direto/Indicacao": 9
  },
  "criativos": [
@@ -42,18 +42,18 @@
   },
   {
    "url": "www.instagram.com/p/DYVTKQODOlC/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 3
   },
   {
-   "url": "fb.me/9Pf9FTshS",
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "url": "fb.me/9Pf9FTshS",
    "leads": 2
   },
   {
@@ -71,8 +71,8 @@
  ],
  "areas": {
   "Trabalhista": 19,
-  "Previdenciario": 3,
-  "Nao identificada": 13
+  "Nao identificada": 14,
+  "Previdenciario": 3
  },
  "sem_resposta_lista": [
   {
@@ -89,6 +89,13 @@
   }
  ],
  "fora_sla_lista": [
+  {
+   "nome": "Patricia Soares.",
+   "tel": "5512*****703",
+   "criado": "14:34",
+   "espera_min": 17,
+   "atendente": "Tiago Bernardo"
+  },
   {
    "nome": "Daniela Lemos",
    "tel": "5535*****009",
@@ -116,13 +123,6 @@
    "criado": "14:58",
    "espera_min": 37.5,
    "atendente": "Eduardo"
-  },
-  {
-   "nome": "Patricia Soares.",
-   "tel": "5512*****703",
-   "criado": "14:34",
-   "espera_min": 17,
-   "atendente": "Tiago Bernardo"
   },
   {
    "nome": "Expedito Sales Moreira Sa",
@@ -212,16 +212,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 166,
-  "turnos": 557,
-  "respondidos": 538,
-  "sem_resposta": 19,
-  "sem_resposta_grupos": 19,
-  "mediana_min": 20.6,
+  "turnos": 563,
+  "respondidos": 542,
+  "sem_resposta": 21,
+  "sem_resposta_grupos": 21,
+  "mediana_min": 21,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 250,
-    "mediana_min": 27.3
+    "respostas": 253,
+    "mediana_min": 27.4
    },
    {
     "nome": "Nicolas",
@@ -240,7 +240,7 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 8,
+    "respostas": 9,
     "mediana_min": 5.7
    },
    {
@@ -261,6 +261,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "21/07",
+    "desde": "14:07",
+    "ts": 1784653629282
+   },
+   {
     "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
     "dia": "21/07",
     "desde": "15:39",
@@ -277,6 +283,12 @@
     "dia": "21/07",
     "desde": "12:24",
     "ts": 1784647448175
+   },
+   {
+    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
+    "dia": "21/07",
+    "desde": "11:54",
+    "ts": 1784645665147
    },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
@@ -492,6 +504,12 @@
     "ts": 1784643932231
    },
    {
+    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
+    "dia": "21/07",
+    "desde": "11:54",
+    "ts": 1784645665147
+   },
+   {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
     "dia": "21/07",
     "desde": "12:19",
@@ -502,6 +520,12 @@
     "dia": "21/07",
     "desde": "12:24",
     "ts": 1784647448175
+   },
+   {
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "21/07",
+    "desde": "14:07",
+    "ts": 1784653629282
    },
    {
     "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
@@ -1342,19 +1366,30 @@
   ]
  },
  "agora": {
-  "fila": 7,
-  "abertos": 160,
+  "fila": 6,
+  "abertos": 161,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 31846
+  "ausentes": 1,
+  "espera_media_s": 32228
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T19:02:57.059Z",
-  "min_sem_lead": 14
+  "ultimo_lead_at": "2026-07-21T17:34:13.226Z",
+  "min_sem_lead": 118
  },
  "leads": [
+  {
+   "nome": "Patricia Soares.",
+   "tel": "5512*****703",
+   "criado": "14:34",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 17,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "fabiomotta5507",
    "tel": "5524*****679",
@@ -1387,6 +1422,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "RCE-Publicidades",
+   "tel": "5527*****377",
+   "criado": "16:24",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Raquel Corano",
+   "tel": "5544*****452",
+   "criado": "13:43",
+   "atendente": "Eduardo",
+   "espera_min": 2.2,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Previdenciario"
   },
   {
    "nome": "Daniela Lemos",
@@ -1444,17 +1501,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Patricia Soares.",
-   "tel": "5512*****703",
-   "criado": "14:34",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 17,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Renata",
    "tel": "5511*****910",
    "criado": "14:16",
@@ -1475,17 +1521,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTKQODOlC/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Raquel Corano",
-   "tel": "5544*****452",
-   "criado": "13:43",
-   "atendente": "Eduardo",
-   "espera_min": 2.2,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Previdenciario"
   },
   {
    "nome": "Leeh🥰",
