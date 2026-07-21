@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/07/2026, 17:48",
+ "gerado_em": "21/07/2026, 18:04",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -211,22 +211,22 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 170,
-  "turnos": 568,
-  "respondidos": 561,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "grupos_ativos": 171,
+  "turnos": 576,
+  "respondidos": 571,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 20.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 264,
-    "mediana_min": 26.4
+    "respostas": 269,
+    "mediana_min": 25.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 206,
-    "mediana_min": 23.6
+    "respostas": 211,
+    "mediana_min": 23.3
    },
    {
     "nome": "Eduardo",
@@ -285,22 +285,10 @@
     "ts": 1784641627144
    },
    {
-    "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
-    "dia": "20/07",
-    "desde": "10:04",
-    "ts": 1784552677579
-   },
-   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "20/07",
     "desde": "09:15",
     "ts": 1784549738592
-   },
-   {
-    "grupo": "D.S.S x GMS INDUSTRIALIZACAO DE ALIMENTOS LTDA",
-    "dia": "15/07",
-    "desde": "11:40",
-    "ts": 1784126427198
    }
   ]
  },
@@ -324,22 +312,10 @@
   ],
   "grupos": [
    {
-    "grupo": "D.S.S x GMS INDUSTRIALIZACAO DE ALIMENTOS LTDA",
-    "dia": "15/07",
-    "desde": "11:40",
-    "ts": 1784126427198
-   },
-   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "20/07",
     "desde": "09:15",
     "ts": 1784549738592
-   },
-   {
-    "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
-    "dia": "20/07",
-    "desde": "10:04",
-    "ts": 1784552677579
    },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
@@ -1201,27 +1177,16 @@
   "fila": 7,
   "abertos": 103,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 3,
   "offline": 4,
-  "ausentes": 3,
+  "ausentes": 2,
   "espera_media_s": 27795
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T19:24:42.214Z",
-  "min_sem_lead": 84
+  "ultimo_lead_at": "2026-07-21T17:34:13.226Z",
+  "min_sem_lead": 210
  },
  "leads": [
-  {
-   "nome": "RCE-Publicidades",
-   "tel": "5527*****377",
-   "criado": "16:24",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Patricia Soares.",
    "tel": "5512*****703",
@@ -1243,6 +1208,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "RCE-Publicidades",
+   "tel": "5527*****377",
+   "criado": "16:24",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Giza 🌹🌻",
