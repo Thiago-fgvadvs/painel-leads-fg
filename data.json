@@ -1,27 +1,41 @@
 {
- "gerado_em": "21/07/2026, 07:34",
+ "gerado_em": "21/07/2026, 07:49",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 0,
+  "total": 1,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 0,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 208,
-  "tickets_abertos": 234,
+  "leads_7d": 209,
+  "tickets_abertos": 235,
   "periodo_dias": 7
  },
  "atendentes": [],
  "origem": {
-  "Anuncio": 0,
+  "Anuncio": 1,
   "Direto/Indicacao": 0
  },
- "criativos": [],
- "areas": {},
- "sem_resposta_lista": [],
+ "criativos": [
+  {
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "leads": 1
+  }
+ ],
+ "areas": {
+  "Nao identificada": 1
+ },
+ "sem_resposta_lista": [
+  {
+   "nome": "554399829566",
+   "tel": "5543*****566",
+   "criado": "07:42",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -340,6 +354,13 @@
     "dia": "20/07",
     "desde": "23:02",
     "ts": 1784599366145
+   },
+   {
+    "nome": "554399829566",
+    "tel": "5543*****566",
+    "dia": "21/07",
+    "desde": "07:42",
+    "ts": 1784630529554
    }
   ],
   "grupos": [
@@ -1298,8 +1319,8 @@
   ]
  },
  "agora": {
-  "fila": 32,
-  "abertos": 234,
+  "fila": 33,
+  "abertos": 235,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
@@ -1307,8 +1328,20 @@
   "espera_media_s": 96496
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 652035
+  "ultimo_lead_at": "2026-07-21T10:42:09.554Z",
+  "min_sem_lead": 8
  },
- "leads": []
+ "leads": [
+  {
+   "nome": "554399829566",
+   "tel": "5543*****566",
+   "criado": "07:42",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Nao identificada"
+  }
+ ]
 }
