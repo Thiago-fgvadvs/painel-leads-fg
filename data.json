@@ -1,24 +1,24 @@
 {
- "gerado_em": "21/07/2026, 12:28",
+ "gerado_em": "21/07/2026, 12:43",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 21,
   "no_sla": 6,
-  "fora_sla": 11,
-  "sem_resposta": 2,
+  "fora_sla": 12,
+  "sem_resposta": 1,
   "fora_horario": 1,
-  "pct_sla": 35,
-  "mediana_geral": 21.3,
+  "pct_sla": 33,
+  "mediana_geral": 19.7,
   "leads_7d": 229,
-  "tickets_abertos": 245,
+  "tickets_abertos": 229,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 14,
-   "mediana_min": 18
+   "leads": 15,
+   "mediana_min": 17.4
   },
   {
    "nome": "Tiago Bernardo",
@@ -40,7 +40,7 @@
    "leads": 2
   },
   {
-   "url": "fb.me/7vEH579Vm",
+   "url": "www.instagram.com/p/DYVTWI6DPYt/",
    "leads": 1
   },
   {
@@ -48,7 +48,7 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DYVTWI6DPYt/",
+   "url": "fb.me/7vEH579Vm",
    "leads": 1
   },
   {
@@ -65,16 +65,11 @@
   }
  ],
  "areas": {
-  "Nao identificada": 11,
-  "Trabalhista": 10
+  "Previdenciario": 1,
+  "Trabalhista": 10,
+  "Nao identificada": 10
  },
  "sem_resposta_lista": [
-  {
-   "nome": "5527997003281",
-   "tel": "5527*****281",
-   "criado": "12:17",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Pedro Wellington",
    "tel": "5585*****602",
@@ -83,6 +78,20 @@
   }
  ],
  "fora_sla_lista": [
+  {
+   "nome": "Eliane",
+   "tel": "5587*****076",
+   "criado": "09:01",
+   "espera_min": 29.4,
+   "atendente": "Eduardo"
+  },
+  {
+   "nome": "❤",
+   "tel": "5527*****281",
+   "criado": "12:17",
+   "espera_min": 16.2,
+   "atendente": "Eduardo"
+  },
   {
    "nome": "Magna Ķelly",
    "tel": "5527*****662",
@@ -95,13 +104,6 @@
    "tel": "5595*****968",
    "criado": "10:17",
    "espera_min": 21.3,
-   "atendente": "Eduardo"
-  },
-  {
-   "nome": "Eliane",
-   "tel": "5587*****076",
-   "criado": "09:01",
-   "espera_min": 29.4,
    "atendente": "Eduardo"
   },
   {
@@ -164,21 +166,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 157,
-  "turnos": 516,
-  "respondidos": 491,
-  "sem_resposta": 25,
-  "sem_resposta_grupos": 25,
-  "mediana_min": 19.7,
+  "turnos": 523,
+  "respondidos": 497,
+  "sem_resposta": 26,
+  "sem_resposta_grupos": 26,
+  "mediana_min": 19.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 219,
-    "mediana_min": 25.9
+    "respostas": 224,
+    "mediana_min": 25.1
    },
    {
     "nome": "Nicolas",
-    "respostas": 186,
-    "mediana_min": 22.7
+    "respostas": 187,
+    "mediana_min": 22.3
    },
    {
     "nome": "Eduardo",
@@ -213,6 +215,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "M.F.D.S x EBS2 TRADE E GESTAO LTDA x SHPX LOGISTICA LTDA",
+    "dia": "21/07",
+    "desde": "12:24",
+    "ts": 1784647485177
+   },
+   {
+    "grupo": "M.I.S x SUPERMERCADOS IRMAOS LOPES S/A",
+    "dia": "21/07",
+    "desde": "12:28",
+    "ts": 1784647739179
+   },
+   {
     "grupo": "L.H.F.D.C x NETUS TRANSPORTE LTDA",
     "dia": "21/07",
     "desde": "12:24",
@@ -223,12 +237,6 @@
     "dia": "21/07",
     "desde": "12:19",
     "ts": 1784647171172
-   },
-   {
-    "grupo": "M.D.F.R.P x CENTRO DE ESTUDOS E PESQUISAS CIENTIFICAS FRANCISCO ANTONIO",
-    "dia": "21/07",
-    "desde": "12:15",
-    "ts": 1784646905276
    },
    {
     "grupo": "G.L.T.P x INSS",
@@ -373,13 +381,6 @@
     "dia": "21/07",
     "desde": "10:35",
     "ts": 1784640930731
-   },
-   {
-    "nome": "5527997003281",
-    "tel": "5527*****281",
-    "dia": "21/07",
-    "desde": "12:17",
-    "ts": 1784647072047
    }
   ],
   "grupos": [
@@ -516,12 +517,6 @@
     "ts": 1784645106132
    },
    {
-    "grupo": "M.D.F.R.P x CENTRO DE ESTUDOS E PESQUISAS CIENTIFICAS FRANCISCO ANTONIO",
-    "dia": "21/07",
-    "desde": "12:15",
-    "ts": 1784646905276
-   },
-   {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
     "dia": "21/07",
     "desde": "12:19",
@@ -532,6 +527,18 @@
     "dia": "21/07",
     "desde": "12:24",
     "ts": 1784647448175
+   },
+   {
+    "grupo": "M.F.D.S x EBS2 TRADE E GESTAO LTDA x SHPX LOGISTICA LTDA",
+    "dia": "21/07",
+    "desde": "12:24",
+    "ts": 1784647485177
+   },
+   {
+    "grupo": "M.I.S x SUPERMERCADOS IRMAOS LOPES S/A",
+    "dia": "21/07",
+    "desde": "12:28",
+    "ts": 1784647739179
    }
   ]
  },
@@ -1338,19 +1345,41 @@
   ]
  },
  "agora": {
-  "fila": 8,
-  "abertos": 245,
+  "fila": 7,
+  "abertos": 229,
   "com_atendimento": 7,
   "online": 4,
   "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 80842
+  "espera_media_s": 80097
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-17T14:32:49.408Z",
-  "min_sem_lead": 49015
+  "ultimo_lead_at": "2026-07-20T14:54:41.306Z",
+  "min_sem_lead": 1489
  },
  "leads": [
+  {
+   "nome": "Eliane",
+   "tel": "5587*****076",
+   "criado": "09:01",
+   "atendente": "Eduardo",
+   "espera_min": 29.4,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "❤",
+   "tel": "5527*****281",
+   "criado": "12:17",
+   "atendente": "Eduardo",
+   "espera_min": 16.2,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Magna Ķelly",
    "tel": "5527*****662",
@@ -1363,17 +1392,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5527997003281",
-   "tel": "5527*****281",
-   "criado": "12:17",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Marcos Souza",
    "tel": "5595*****968",
    "criado": "10:17",
@@ -1382,17 +1400,6 @@
    "status": "FORA_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Eliane",
-   "tel": "5587*****076",
-   "criado": "09:01",
-   "atendente": "Eduardo",
-   "espera_min": 29.4,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
    "area": "Nao identificada"
   },
   {
