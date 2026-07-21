@@ -1,33 +1,33 @@
 {
- "gerado_em": "21/07/2026, 15:31",
+ "gerado_em": "21/07/2026, 15:46",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 31,
+  "total": 32,
   "no_sla": 11,
-  "fora_sla": 13,
-  "sem_resposta": 5,
+  "fora_sla": 17,
+  "sem_resposta": 2,
   "fora_horario": 1,
-  "pct_sla": 46,
-  "mediana_geral": 16.5,
-  "leads_7d": 239,
-  "tickets_abertos": 179,
+  "pct_sla": 39,
+  "mediana_geral": 17.5,
+  "leads_7d": 240,
+  "tickets_abertos": 161,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 17,
-   "mediana_min": 16.5
+   "leads": 20,
+   "mediana_min": 18
   },
   {
    "nome": "Tiago Bernardo",
-   "leads": 8,
-   "mediana_min": 9.9
+   "leads": 9,
+   "mediana_min": 17
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 23,
   "Direto/Indicacao": 9
  },
  "criativos": [
@@ -44,6 +44,10 @@
    "leads": 3
   },
   {
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 2
+  },
+  {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 2
   },
@@ -56,43 +60,21 @@
    "leads": 1
   },
   {
-   "url": "fb.me/9Pf9FTshS",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 13,
-  "Trabalhista": 15,
-  "Previdenciario": 3
+  "Previdenciario": 3,
+  "Trabalhista": 16,
+  "Nao identificada": 13
  },
  "sem_resposta_lista": [
   {
-   "nome": "Josi",
-   "tel": "5584*****284",
-   "criado": "15:12",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "555184463987",
-   "tel": "5551*****987",
-   "criado": "14:58",
+   "nome": "5511914895649",
+   "tel": "5511*****649",
+   "criado": "15:42",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "556798818325",
-   "tel": "5567*****325",
-   "criado": "14:37",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Daniela Lemos",
-   "tel": "5535*****009",
-   "criado": "13:39",
-   "area": "Previdenciario"
   },
   {
    "nome": "Pedro Wellington",
@@ -102,6 +84,34 @@
   }
  ],
  "fora_sla_lista": [
+  {
+   "nome": "Daniela Lemos",
+   "tel": "5535*****009",
+   "criado": "13:39",
+   "espera_min": 124.6,
+   "atendente": "Eduardo"
+  },
+  {
+   "nome": "Josi",
+   "tel": "5584*****284",
+   "criado": "15:12",
+   "espera_min": 24.6,
+   "atendente": "Tiago Bernardo"
+  },
+  {
+   "nome": "mari finamor",
+   "tel": "5567*****325",
+   "criado": "14:37",
+   "espera_min": 58.7,
+   "atendente": "Eduardo"
+  },
+  {
+   "nome": "✨Carol Rodrigues✨",
+   "tel": "5551*****987",
+   "criado": "14:58",
+   "espera_min": 37.5,
+   "atendente": "Eduardo"
+  },
   {
    "nome": "Patricia Soares.",
    "tel": "5512*****703",
@@ -196,12 +206,12 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 165,
-  "turnos": 561,
-  "respondidos": 535,
-  "sem_resposta": 26,
-  "sem_resposta_grupos": 26,
-  "mediana_min": 20.3,
+  "grupos_ativos": 166,
+  "turnos": 557,
+  "respondidos": 537,
+  "sem_resposta": 20,
+  "sem_resposta_grupos": 20,
+  "mediana_min": 20.5,
   "atendentes": [
    {
     "nome": "Julia",
@@ -210,8 +220,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 199,
-    "mediana_min": 22.8
+    "respostas": 201,
+    "mediana_min": 23.1
    },
    {
     "nome": "Eduardo",
@@ -246,16 +256,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
     "dia": "21/07",
-    "desde": "13:13",
-    "ts": 1784650427339
-   },
-   {
-    "grupo": "M.I.S x SUPERMERCADOS IRMAOS LOPES S/A",
-    "dia": "21/07",
-    "desde": "13:10",
-    "ts": 1784650213334
+    "desde": "15:39",
+    "ts": 1784659184430
    },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -270,12 +274,6 @@
     "ts": 1784647448175
    },
    {
-    "grupo": "G.L.T.P x INSS",
-    "dia": "21/07",
-    "desde": "11:45",
-    "ts": 1784645106132
-   },
-   {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "21/07",
     "desde": "11:25",
@@ -288,40 +286,16 @@
     "ts": 1784642125185
    },
    {
-    "grupo": "A.F.D.S x ZARA ALIMENTACAO LTDA",
-    "dia": "21/07",
-    "desde": "10:57",
-    "ts": 1784642247076
-   },
-   {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
     "dia": "21/07",
     "desde": "10:47",
     "ts": 1784641627144
    },
    {
-    "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
-    "dia": "21/07",
-    "desde": "08:12",
-    "ts": 1784632333003
-   },
-   {
     "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
     "dia": "20/07",
     "desde": "19:58",
     "ts": 1784588281015
-   },
-   {
-    "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
-    "dia": "20/07",
-    "desde": "18:37",
-    "ts": 1784583422006
-   },
-   {
-    "grupo": "J.A.L x CONSTRUTORA RAMON AGUILERA",
-    "dia": "20/07",
-    "desde": "12:01",
-    "ts": 1784559686742
    },
    {
     "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
@@ -414,32 +388,11 @@
     "ts": 1784640930731
    },
    {
-    "nome": "Daniela Lemos",
-    "tel": "5535*****009",
+    "nome": "5511914895649",
+    "tel": "5511*****649",
     "dia": "21/07",
-    "desde": "13:39",
-    "ts": 1784651959682
-   },
-   {
-    "nome": "556798818325",
-    "tel": "5567*****325",
-    "dia": "21/07",
-    "desde": "14:37",
-    "ts": 1784655465458
-   },
-   {
-    "nome": "555184463987",
-    "tel": "5551*****987",
-    "dia": "21/07",
-    "desde": "14:58",
-    "ts": 1784656708677
-   },
-   {
-    "nome": "Josi",
-    "tel": "5584*****284",
-    "dia": "21/07",
-    "desde": "15:12",
-    "ts": 1784657533340
+    "desde": "15:42",
+    "ts": 1784659373252
    }
   ],
   "grupos": [
@@ -522,28 +475,10 @@
     "ts": 1784552677579
    },
    {
-    "grupo": "J.A.L x CONSTRUTORA RAMON AGUILERA",
-    "dia": "20/07",
-    "desde": "12:01",
-    "ts": 1784559686742
-   },
-   {
-    "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
-    "dia": "20/07",
-    "desde": "18:37",
-    "ts": 1784583422006
-   },
-   {
     "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
     "dia": "20/07",
     "desde": "19:58",
     "ts": 1784588281015
-   },
-   {
-    "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
-    "dia": "21/07",
-    "desde": "08:12",
-    "ts": 1784632333003
    },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
@@ -558,22 +493,10 @@
     "ts": 1784642125185
    },
    {
-    "grupo": "A.F.D.S x ZARA ALIMENTACAO LTDA",
-    "dia": "21/07",
-    "desde": "10:57",
-    "ts": 1784642247076
-   },
-   {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "21/07",
     "desde": "11:25",
     "ts": 1784643932231
-   },
-   {
-    "grupo": "G.L.T.P x INSS",
-    "dia": "21/07",
-    "desde": "11:45",
-    "ts": 1784645106132
    },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -588,16 +511,10 @@
     "ts": 1784647448175
    },
    {
-    "grupo": "M.I.S x SUPERMERCADOS IRMAOS LOPES S/A",
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
     "dia": "21/07",
-    "desde": "13:10",
-    "ts": 1784650213334
-   },
-   {
-    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
-    "dia": "21/07",
-    "desde": "13:13",
-    "ts": 1784650427339
+    "desde": "15:39",
+    "ts": 1784659184430
    }
   ]
  },
@@ -1432,37 +1349,70 @@
   ]
  },
  "agora": {
-  "fila": 10,
-  "abertos": 179,
-  "com_atendimento": 6,
+  "fila": 7,
+  "abertos": 161,
+  "com_atendimento": 7,
   "online": 5,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 34165
+  "espera_media_s": 33800
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 652512
+  "ultimo_lead_at": "2026-07-21T16:39:19.682Z",
+  "min_sem_lead": 127
  },
  "leads": [
+  {
+   "nome": "Daniela Lemos",
+   "tel": "5535*****009",
+   "criado": "13:39",
+   "atendente": "Eduardo",
+   "espera_min": 124.6,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "5511914895649",
+   "tel": "5511*****649",
+   "criado": "15:42",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Josi",
    "tel": "5584*****284",
    "criado": "15:12",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 24.6,
+   "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTKQODOlC/",
    "area": "Nao identificada"
   },
   {
-   "nome": "555184463987",
+   "nome": "mari finamor",
+   "tel": "5567*****325",
+   "criado": "14:37",
+   "atendente": "Eduardo",
+   "espera_min": 58.7,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "✨Carol Rodrigues✨",
    "tel": "5551*****987",
    "criado": "14:58",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Eduardo",
+   "espera_min": 37.5,
+   "status": "FORA_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
@@ -1477,28 +1427,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "556798818325",
-   "tel": "5567*****325",
-   "criado": "14:37",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Daniela Lemos",
-   "tel": "5535*****009",
-   "criado": "13:39",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Previdenciario"
   },
   {
    "nome": "Renata",
