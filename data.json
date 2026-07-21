@@ -1,17 +1,17 @@
 {
- "gerado_em": "21/07/2026, 20:06",
+ "gerado_em": "21/07/2026, 20:21",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 39,
+  "total": 40,
   "no_sla": 16,
   "fora_sla": 17,
   "sem_resposta": 2,
-  "fora_horario": 2,
+  "fora_horario": 3,
   "pct_sla": 48,
   "mediana_geral": 16.2,
-  "leads_7d": 247,
-  "tickets_abertos": 104,
+  "leads_7d": 248,
+  "tickets_abertos": 105,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,13 +27,13 @@
   },
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 29,
-  "Direto/Indicacao": 10
+  "Direto/Indicacao": 11
  },
  "criativos": [
   {
@@ -70,9 +70,9 @@
   }
  ],
  "areas": {
+  "Previdenciario": 4,
   "Trabalhista": 21,
-  "Nao identificada": 15,
-  "Previdenciario": 3
+  "Nao identificada": 15
  },
  "sem_resposta_lista": [
   {
@@ -1186,19 +1186,30 @@
   ]
  },
  "agora": {
-  "fila": 9,
-  "abertos": 104,
+  "fila": 10,
+  "abertos": 105,
   "com_atendimento": 6,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 27396
+  "espera_media_s": 27021
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T22:05:26.998Z",
-  "min_sem_lead": 61
+  "ultimo_lead_at": "2026-07-21T23:06:45.984Z",
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "Camila Andrade",
+   "tel": "5594*****071",
+   "criado": "20:06",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Previdenciario"
+  },
   {
    "nome": "556791910214",
    "tel": "5567*****214",
