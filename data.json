@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/07/2026, 18:04",
+ "gerado_em": "21/07/2026, 18:19",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 48,
   "mediana_geral": 16.2,
   "leads_7d": 246,
-  "tickets_abertos": 103,
+  "tickets_abertos": 102,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -211,12 +211,12 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 171,
-  "turnos": 576,
-  "respondidos": 571,
+  "grupos_ativos": 172,
+  "turnos": 577,
+  "respondidos": 572,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 20.3,
+  "mediana_min": 20,
   "atendentes": [
    {
     "nome": "Julia",
@@ -225,8 +225,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 211,
-    "mediana_min": 23.3
+    "respostas": 212,
+    "mediana_min": 23.2
    },
    {
     "nome": "Eduardo",
@@ -1175,16 +1175,16 @@
  },
  "agora": {
   "fila": 7,
-  "abertos": 103,
+  "abertos": 102,
   "com_atendimento": 6,
-  "online": 3,
-  "offline": 4,
-  "ausentes": 2,
-  "espera_media_s": 27795
+  "online": 2,
+  "offline": 7,
+  "ausentes": 0,
+  "espera_media_s": 28178
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-21T17:34:13.226Z",
-  "min_sem_lead": 210
+  "min_sem_lead": 225
  },
  "leads": [
   {
@@ -1199,17 +1199,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "mari finamor",
-   "tel": "5567*****325",
-   "criado": "14:37",
-   "atendente": "Eduardo",
-   "espera_min": 58.7,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "RCE-Publicidades",
    "tel": "5527*****377",
    "criado": "16:24",
@@ -1219,6 +1208,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTKQODOlC/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "mari finamor",
+   "tel": "5567*****325",
+   "criado": "14:37",
+   "atendente": "Eduardo",
+   "espera_min": 58.7,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
   },
   {
    "nome": "Giza 🌹🌻",
