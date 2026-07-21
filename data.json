@@ -1,12 +1,12 @@
 {
- "gerado_em": "20/07/2026, 21:14",
+ "gerado_em": "20/07/2026, 21:29",
  "data_ref": "20/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 39,
+  "total": 40,
   "no_sla": 15,
   "fora_sla": 12,
-  "sem_resposta": 10,
+  "sem_resposta": 11,
   "fora_horario": 2,
   "pct_sla": 56,
   "mediana_geral": 13.3,
@@ -37,13 +37,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 33,
+  "Anuncio": 34,
   "Direto/Indicacao": 6
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 11
+   "leads": 12
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
@@ -75,11 +75,17 @@
   }
  ],
  "areas": {
-  "Nao identificada": 26,
+  "Nao identificada": 27,
   "Trabalhista": 12,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
+  {
+   "nome": "Silvana",
+   "tel": "5511*****517",
+   "criado": "21:14",
+   "area": "Nao identificada"
+  },
   {
    "nome": "553798054628",
    "tel": "5537*****628",
@@ -1559,8 +1565,8 @@
   ]
  },
  "agora": {
-  "fila": 26,
-  "abertos": 228,
+  "fila": 27,
+  "abertos": 229,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
@@ -1568,10 +1574,21 @@
   "espera_media_s": 96496
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 651414
+  "ultimo_lead_at": "2026-07-21T00:14:03.638Z",
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "Silvana",
+   "tel": "5511*****517",
+   "criado": "21:14",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "553798054628",
    "tel": "5537*****628",
