@@ -1,25 +1,29 @@
 {
- "gerado_em": "21/07/2026, 08:35",
+ "gerado_em": "21/07/2026, 08:50",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
+  "total": 4,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 2,
+  "sem_resposta": 3,
   "fora_horario": 0,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 210,
-  "tickets_abertos": 240,
+  "leads_7d": 212,
+  "tickets_abertos": 241,
   "periodo_dias": 7
  },
  "atendentes": [],
  "origem": {
-  "Anuncio": 2,
-  "Direto/Indicacao": 0
+  "Anuncio": 3,
+  "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 1
+  },
   {
    "url": "fb.me/9Pf9FTshS",
    "leads": 1
@@ -30,10 +34,16 @@
   }
  ],
  "areas": {
-  "Trabalhista": 1,
-  "Nao identificada": 1
+  "Nao identificada": 3,
+  "Trabalhista": 1
  },
  "sem_resposta_lista": [
+  {
+   "nome": "558488451396",
+   "tel": "5584*****396",
+   "criado": "08:49",
+   "area": "Nao identificada"
+  },
   {
    "nome": "5521993843559",
    "tel": "5521*****559",
@@ -50,11 +60,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 145,
-  "turnos": 428,
+  "grupos_ativos": 146,
+  "turnos": 429,
   "respondidos": 401,
-  "sem_resposta": 27,
-  "sem_resposta_grupos": 27,
+  "sem_resposta": 28,
+  "sem_resposta_grupos": 28,
   "mediana_min": 18,
   "atendentes": [
    {
@@ -104,6 +114,12 @@
     "dia": "21/07",
     "desde": "08:12",
     "ts": 1784632333003
+   },
+   {
+    "grupo": "I.C.D.S.R x REDE PLUS HORTIFRUTI 8 LTDA",
+    "dia": "21/07",
+    "desde": "08:39",
+    "ts": 1784633961910
    },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -391,6 +407,13 @@
     "dia": "21/07",
     "desde": "08:17",
     "ts": 1784632663406
+   },
+   {
+    "nome": "558488451396",
+    "tel": "5584*****396",
+    "dia": "21/07",
+    "desde": "08:49",
+    "ts": 1784634571837
    }
   ],
   "grupos": [
@@ -555,6 +578,12 @@
     "dia": "21/07",
     "desde": "08:12",
     "ts": 1784632333003
+   },
+   {
+    "grupo": "I.C.D.S.R x REDE PLUS HORTIFRUTI 8 LTDA",
+    "dia": "21/07",
+    "desde": "08:39",
+    "ts": 1784633961910
    }
   ]
  },
@@ -1361,8 +1390,8 @@
   ]
  },
  "agora": {
-  "fila": 37,
-  "abertos": 240,
+  "fila": 38,
+  "abertos": 241,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
@@ -1370,10 +1399,21 @@
   "espera_media_s": 96496
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-26T16:30:21.556Z",
-  "min_sem_lead": 80345
+  "ultimo_lead_at": "2026-07-21T11:49:31.837Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "558488451396",
+   "tel": "5584*****396",
+   "criado": "08:49",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "5521993843559",
    "tel": "5521*****559",
@@ -1394,6 +1434,17 @@
    "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "558288902718",
+   "tel": "5582*****718",
+   "criado": "08:49",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
