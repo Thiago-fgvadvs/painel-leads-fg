@@ -1,17 +1,17 @@
 {
- "gerado_em": "21/07/2026, 15:00",
+ "gerado_em": "21/07/2026, 15:16",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
+  "total": 31,
   "no_sla": 11,
   "fora_sla": 13,
-  "sem_resposta": 4,
+  "sem_resposta": 5,
   "fora_horario": 1,
   "pct_sla": 46,
   "mediana_geral": 16.5,
-  "leads_7d": 238,
-  "tickets_abertos": 182,
+  "leads_7d": 239,
+  "tickets_abertos": 181,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 22,
   "Direto/Indicacao": 9
  },
  "criativos": [
@@ -36,15 +36,15 @@
    "leads": 4
   },
   {
+   "url": "www.instagram.com/p/DYVTKQODOlC/",
+   "leads": 3
+  },
+  {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 3
   },
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
-   "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DYVTKQODOlC/",
    "leads": 2
   },
   {
@@ -65,11 +65,17 @@
   }
  ],
  "areas": {
+  "Nao identificada": 13,
   "Trabalhista": 15,
-  "Nao identificada": 12,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [
+  {
+   "nome": "Josi",
+   "tel": "5584*****284",
+   "criado": "15:12",
+   "area": "Nao identificada"
+  },
   {
    "nome": "555184463987",
    "tel": "5551*****987",
@@ -191,16 +197,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 165,
-  "turnos": 559,
-  "respondidos": 531,
-  "sem_resposta": 28,
-  "sem_resposta_grupos": 28,
-  "mediana_min": 20.3,
+  "turnos": 561,
+  "respondidos": 534,
+  "sem_resposta": 27,
+  "sem_resposta_grupos": 27,
+  "mediana_min": 20.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 246,
-    "mediana_min": 28.7
+    "respostas": 249,
+    "mediana_min": 27.4
    },
    {
     "nome": "Nicolas",
@@ -239,12 +245,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "N.J.D.S.M x SAVANEGO SUPERMERCADOS LTDA",
-    "dia": "21/07",
-    "desde": "14:43",
-    "ts": 1784655822414
-   },
    {
     "grupo": "W.O.V x INSS",
     "dia": "21/07",
@@ -439,6 +439,13 @@
     "dia": "21/07",
     "desde": "14:58",
     "ts": 1784656708677
+   },
+   {
+    "nome": "Josi",
+    "tel": "5584*****284",
+    "dia": "21/07",
+    "desde": "15:12",
+    "ts": 1784657533340
    }
   ],
   "grupos": [
@@ -603,12 +610,6 @@
     "dia": "21/07",
     "desde": "14:06",
     "ts": 1784653600388
-   },
-   {
-    "grupo": "N.J.D.S.M x SAVANEGO SUPERMERCADOS LTDA",
-    "dia": "21/07",
-    "desde": "14:43",
-    "ts": 1784655822414
    }
   ]
  },
@@ -1443,19 +1444,30 @@
   ]
  },
  "agora": {
-  "fila": 9,
-  "abertos": 182,
-  "com_atendimento": 7,
-  "online": 3,
+  "fila": 10,
+  "abertos": 181,
+  "com_atendimento": 6,
+  "online": 1,
   "offline": 4,
-  "ausentes": 2,
+  "ausentes": 4,
   "espera_media_s": 34165
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T17:58:28.677Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-07-15T20:10:29.023Z",
+  "min_sem_lead": 8526
  },
  "leads": [
+  {
+   "nome": "Josi",
+   "tel": "5584*****284",
+   "criado": "15:12",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "555184463987",
    "tel": "5551*****987",
