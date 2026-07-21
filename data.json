@@ -1,42 +1,42 @@
 {
- "gerado_em": "21/07/2026, 13:44",
+ "gerado_em": "21/07/2026, 13:59",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
-  "no_sla": 8,
+  "total": 26,
+  "no_sla": 10,
   "fora_sla": 12,
-  "sem_resposta": 2,
+  "sem_resposta": 1,
   "fora_horario": 1,
-  "pct_sla": 40,
-  "mediana_geral": 17.4,
-  "leads_7d": 233,
-  "tickets_abertos": 176,
+  "pct_sla": 45,
+  "mediana_geral": 16.5,
+  "leads_7d": 234,
+  "tickets_abertos": 173,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 16,
-   "mediana_min": 16.7
+   "leads": 17,
+   "mediana_min": 16.5
   },
   {
    "nome": "Tiago Bernardo",
-   "leads": 5,
-   "mediana_min": 59.3
+   "leads": 6,
+   "mediana_min": 31.1
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 8
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 3
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 3
   },
   {
@@ -65,17 +65,11 @@
   }
  ],
  "areas": {
-  "Nao identificada": 13,
-  "Trabalhista": 11,
-  "Previdenciario": 1
+  "Trabalhista": 13,
+  "Previdenciario": 2,
+  "Nao identificada": 11
  },
  "sem_resposta_lista": [
-  {
-   "nome": "554491014452",
-   "tel": "5544*****452",
-   "criado": "13:43",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Pedro Wellington",
    "tel": "5585*****602",
@@ -172,11 +166,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 164,
-  "turnos": 533,
-  "respondidos": 506,
-  "sem_resposta": 27,
-  "sem_resposta_grupos": 27,
-  "mediana_min": 19.2,
+  "turnos": 534,
+  "respondidos": 508,
+  "sem_resposta": 26,
+  "sem_resposta_grupos": 26,
+  "mediana_min": 19.4,
   "atendentes": [
    {
     "nome": "Julia",
@@ -185,8 +179,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 193,
-    "mediana_min": 22.3
+    "respostas": 195,
+    "mediana_min": 22.8
    },
    {
     "nome": "Eduardo",
@@ -221,16 +215,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.B.D.S x INSS",
+    "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
     "dia": "21/07",
-    "desde": "13:19",
-    "ts": 1784650765345
-   },
-   {
-    "grupo": "W.O.V x INSS",
-    "dia": "21/07",
-    "desde": "13:16",
-    "ts": 1784650615251
+    "desde": "13:58",
+    "ts": 1784653138365
    },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
@@ -393,13 +381,6 @@
     "dia": "21/07",
     "desde": "10:35",
     "ts": 1784640930731
-   },
-   {
-    "nome": "554491014452",
-    "tel": "5544*****452",
-    "dia": "21/07",
-    "desde": "13:43",
-    "ts": 1784652222028
    }
   ],
   "grupos": [
@@ -554,28 +535,31 @@
     "ts": 1784650427339
    },
    {
-    "grupo": "W.O.V x INSS",
+    "grupo": "N.H.R.B x GUARA COMERCIO DE CALCADOS EIRELI",
     "dia": "21/07",
-    "desde": "13:16",
-    "ts": 1784650615251
-   },
-   {
-    "grupo": "E.B.D.S x INSS",
-    "dia": "21/07",
-    "desde": "13:19",
-    "ts": 1784650765345
+    "desde": "13:58",
+    "ts": 1784653138365
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 90,
+  "total": 91,
   "por_vendedor": {
+   "Tiago Bernardo": 13,
    "Roseli": 2,
-   "Eduardo": 76,
-   "Tiago Bernardo": 12
+   "Eduardo": 76
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "E",
+    "dia": "21/07",
+    "hora": "13:55",
+    "ts": 1784652911085,
+    "origem": "Anúncio: Previdenciário - INSS negou auxílio doença",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "—",
@@ -753,7 +737,7 @@
     "dia": "17/07",
     "hora": "18:38",
     "ts": 1784324317602,
-    "origem": "Anúncio: instagram.com/p/DYQDXAHjFHa/",
+    "origem": "Anúncio: Trabalhista - justa causa",
     "de_anuncio": true
    },
    {
@@ -1389,30 +1373,19 @@
   ]
  },
  "agora": {
-  "fila": 10,
-  "abertos": 176,
+  "fila": 6,
+  "abertos": 173,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 3,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 35922
+  "ausentes": 3,
+  "espera_media_s": 35463
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T16:43:42.028Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-07-21T16:11:56.114Z",
+  "min_sem_lead": 48
  },
  "leads": [
-  {
-   "nome": "554491014452",
-   "tel": "5544*****452",
-   "criado": "13:43",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Silvana Tondin",
    "tel": "5554*****135",
@@ -1422,7 +1395,29 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTKQODOlC/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Leeh🥰",
+   "tel": "5511*****378",
+   "criado": "13:47",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 1.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Raquel Corano",
+   "tel": "5544*****452",
+   "criado": "13:43",
+   "atendente": "Eduardo",
+   "espera_min": 2.2,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Previdenciario"
   },
   {
    "nome": "Expedito Sales Moreira Sa",
@@ -1656,9 +1651,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "558288902718",
-   "tel": "5582*****718",
-   "criado": "08:49",
+   "nome": "553588371009",
+   "tel": "5535*****009",
+   "criado": "13:39",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -1667,9 +1662,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553588371009",
-   "tel": "5535*****009",
-   "criado": "13:39",
+   "nome": "558288902718",
+   "tel": "5582*****718",
+   "criado": "08:49",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
