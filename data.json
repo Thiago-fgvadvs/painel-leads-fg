@@ -1,27 +1,37 @@
 {
- "gerado_em": "21/07/2026, 09:21",
+ "gerado_em": "21/07/2026, 09:36",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 0,
-  "fora_sla": 0,
-  "sem_resposta": 9,
+  "total": 13,
+  "no_sla": 4,
+  "fora_sla": 5,
+  "sem_resposta": 3,
   "fora_horario": 0,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 218,
-  "tickets_abertos": 250,
+  "pct_sla": 44,
+  "mediana_geral": 18,
+  "leads_7d": 221,
+  "tickets_abertos": 253,
   "periodo_dias": 7
  },
- "atendentes": [],
+ "atendentes": [
+  {
+   "nome": "Eduardo",
+   "leads": 9,
+   "mediana_min": 18
+  }
+ ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 8,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 1
   },
   {
@@ -29,7 +39,11 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "fb.me/4EDzR2aSz",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/7x2nrMW0Q",
    "leads": 1
   },
   {
@@ -42,51 +56,15 @@
   }
  ],
  "areas": {
-  "Nao identificada": 7,
-  "Trabalhista": 3
+  "Nao identificada": 8,
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [
   {
-   "nome": "Ingrid Lorrany",
-   "tel": "5531*****340",
-   "criado": "09:18",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Ls",
-   "tel": "5511*****434",
-   "criado": "09:12",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "557183604756",
+   "nome": "Soraya🥰",
    "tel": "5571*****756",
    "criado": "09:10",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "559584130804",
-   "tel": "5595*****804",
-   "criado": "09:08",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "558781777076",
-   "tel": "5587*****076",
-   "criado": "09:01",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553384000031",
-   "tel": "5533*****031",
-   "criado": "08:58",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "558488451396",
-   "tel": "5584*****396",
-   "criado": "08:49",
-   "area": "Nao identificada"
   },
   {
    "nome": "5521993843559",
@@ -101,25 +79,61 @@
    "area": "Nao identificada"
   }
  ],
- "fora_sla_lista": [],
+ "fora_sla_lista": [
+  {
+   "nome": "Luan Daniel",
+   "tel": "5584*****396",
+   "criado": "08:49",
+   "espera_min": 46,
+   "atendente": "Eduardo"
+  },
+  {
+   "nome": "ronybruno96",
+   "tel": "5533*****031",
+   "criado": "08:58",
+   "espera_min": 33,
+   "atendente": "Eduardo"
+  },
+  {
+   "nome": "Eliane",
+   "tel": "5587*****076",
+   "criado": "09:01",
+   "espera_min": 29.4,
+   "atendente": "Eduardo"
+  },
+  {
+   "nome": "italo",
+   "tel": "5595*****804",
+   "criado": "09:08",
+   "espera_min": 22.1,
+   "atendente": "Eduardo"
+  },
+  {
+   "nome": "Ls",
+   "tel": "5511*****434",
+   "criado": "09:12",
+   "espera_min": 18,
+   "atendente": "Eduardo"
+  }
+ ],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 148,
-  "turnos": 432,
-  "respondidos": 404,
-  "sem_resposta": 28,
-  "sem_resposta_grupos": 28,
-  "mediana_min": 18.7,
+  "turnos": 439,
+  "respondidos": 412,
+  "sem_resposta": 27,
+  "sem_resposta_grupos": 27,
+  "mediana_min": 19,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 177,
-    "mediana_min": 24.3
+    "respostas": 181,
+    "mediana_min": 24.8
    },
    {
     "nome": "Nicolas",
-    "respostas": 161,
-    "mediana_min": 18.8
+    "respostas": 163,
+    "mediana_min": 19.2
    },
    {
     "nome": "Eduardo",
@@ -128,7 +142,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 15,
+    "respostas": 17,
     "mediana_min": 3.6
    },
    {
@@ -154,28 +168,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.C.F.D.A.C x DE CRIANCA COMERCIO DE PRODUTOS INFANTINS LTDA",
-    "dia": "20/07",
-    "desde": "11:20",
-    "ts": 1784557258722
-   },
-   {
     "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
     "dia": "21/07",
     "desde": "08:12",
     "ts": 1784632333003
    },
    {
-    "grupo": "A.L.M.J x ARCOS DOURADOS COMERCIO DE ALIMENTO SA",
-    "dia": "17/07",
-    "desde": "13:02",
-    "ts": 1784304166000
-   },
-   {
     "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
     "dia": "21/07",
     "desde": "09:09",
     "ts": 1784635751071
+   },
+   {
+    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
+    "dia": "21/07",
+    "desde": "08:57",
+    "ts": 1784635049007
    },
    {
     "grupo": "I.C.D.S.R x REDE PLUS HORTIFRUTI 8 LTDA",
@@ -453,53 +461,11 @@
     "ts": 1784632663406
    },
    {
-    "nome": "558488451396",
-    "tel": "5584*****396",
-    "dia": "21/07",
-    "desde": "08:49",
-    "ts": 1784634571837
-   },
-   {
-    "nome": "553384000031",
-    "tel": "5533*****031",
-    "dia": "21/07",
-    "desde": "08:58",
-    "ts": 1784635136090
-   },
-   {
-    "nome": "558781777076",
-    "tel": "5587*****076",
-    "dia": "21/07",
-    "desde": "09:01",
-    "ts": 1784635286963
-   },
-   {
-    "nome": "559584130804",
-    "tel": "5595*****804",
-    "dia": "21/07",
-    "desde": "09:08",
-    "ts": 1784635714068
-   },
-   {
-    "nome": "557183604756",
+    "nome": "Soraya🥰",
     "tel": "5571*****756",
     "dia": "21/07",
     "desde": "09:10",
     "ts": 1784635827225
-   },
-   {
-    "nome": "Ls",
-    "tel": "5511*****434",
-    "dia": "21/07",
-    "desde": "09:12",
-    "ts": 1784635951941
-   },
-   {
-    "nome": "Ingrid Lorrany",
-    "tel": "5531*****340",
-    "dia": "21/07",
-    "desde": "09:18",
-    "ts": 1784636327215
    }
   ],
   "grupos": [
@@ -564,12 +530,6 @@
     "ts": 1784302439171
    },
    {
-    "grupo": "A.L.M.J x ARCOS DOURADOS COMERCIO DE ALIMENTO SA",
-    "dia": "17/07",
-    "desde": "13:02",
-    "ts": 1784304166000
-   },
-   {
     "grupo": "A.F.D.S x ZARA ALIMENTACAO LTDA",
     "dia": "17/07",
     "desde": "15:30",
@@ -598,12 +558,6 @@
     "dia": "20/07",
     "desde": "10:04",
     "ts": 1784552677579
-   },
-   {
-    "grupo": "M.C.F.D.A.C x DE CRIANCA COMERCIO DE PRODUTOS INFANTINS LTDA",
-    "dia": "20/07",
-    "desde": "11:20",
-    "ts": 1784557258722
    },
    {
     "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
@@ -664,6 +618,12 @@
     "dia": "21/07",
     "desde": "08:39",
     "ts": 1784633961910
+   },
+   {
+    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
+    "dia": "21/07",
+    "desde": "08:57",
+    "ts": 1784635049007
    },
    {
     "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
@@ -1476,43 +1436,120 @@
   ]
  },
  "agora": {
-  "fila": 44,
-  "abertos": 250,
+  "fila": 38,
+  "abertos": 253,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 3,
   "offline": 4,
-  "ausentes": 1,
-  "espera_media_s": 96496
+  "ausentes": 2,
+  "espera_media_s": 88704
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T12:18:47.215Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-06-17T10:47:58.752Z",
+  "min_sem_lead": 49068
  },
  "leads": [
   {
-   "nome": "Ingrid Lorrany",
-   "tel": "5531*****340",
-   "criado": "09:18",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "nome": "julia 🩷",
+   "tel": "5511*****992",
+   "criado": "09:35",
+   "atendente": "Eduardo",
+   "espera_min": 0.1,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Luan Daniel",
+   "tel": "5584*****396",
+   "criado": "08:49",
+   "atendente": "Eduardo",
+   "espera_min": 46,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "ronybruno96",
+   "tel": "5533*****031",
+   "criado": "08:58",
+   "atendente": "Eduardo",
+   "espera_min": 33,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Eliane",
+   "tel": "5587*****076",
+   "criado": "09:01",
+   "atendente": "Eduardo",
+   "espera_min": 29.4,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "italo",
+   "tel": "5595*****804",
+   "criado": "09:08",
+   "atendente": "Eduardo",
+   "espera_min": 22.1,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   },
   {
    "nome": "Ls",
    "tel": "5511*****434",
    "criado": "09:12",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Eduardo",
+   "espera_min": 18,
+   "status": "FORA_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
   },
   {
-   "nome": "557183604756",
+   "nome": "😎",
+   "tel": "5565*****743",
+   "criado": "09:22",
+   "atendente": "Eduardo",
+   "espera_min": 5.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Carlos",
+   "tel": "5511*****254",
+   "criado": "09:29",
+   "atendente": "Eduardo",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7x2nrMW0Q",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ingrid Lorrany",
+   "tel": "5531*****340",
+   "criado": "09:18",
+   "atendente": "Eduardo",
+   "espera_min": 10.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Soraya🥰",
    "tel": "5571*****756",
    "criado": "09:10",
    "atendente": "—",
@@ -1521,50 +1558,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
-  },
-  {
-   "nome": "559584130804",
-   "tel": "5595*****804",
-   "criado": "09:08",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "558781777076",
-   "tel": "5587*****076",
-   "criado": "09:01",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553384000031",
-   "tel": "5533*****031",
-   "criado": "08:58",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "558488451396",
-   "tel": "5584*****396",
-   "criado": "08:49",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
   },
   {
    "nome": "5521993843559",
