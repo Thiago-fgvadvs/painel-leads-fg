@@ -1,16 +1,16 @@
 {
- "gerado_em": "21/07/2026, 14:15",
+ "gerado_em": "21/07/2026, 14:30",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
-  "no_sla": 10,
+  "total": 27,
+  "no_sla": 11,
   "fora_sla": 12,
   "sem_resposta": 1,
   "fora_horario": 1,
-  "pct_sla": 45,
-  "mediana_geral": 16.5,
-  "leads_7d": 234,
+  "pct_sla": 48,
+  "mediana_geral": 16.2,
+  "leads_7d": 235,
   "tickets_abertos": 176,
   "periodo_dias": 7
  },
@@ -22,12 +22,12 @@
   },
   {
    "nome": "Tiago Bernardo",
-   "leads": 6,
-   "mediana_min": 31.1
+   "leads": 7,
+   "mediana_min": 2.8
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 8
  },
  "criativos": [
@@ -44,6 +44,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/bB3uetOH6",
+   "leads": 1
+  },
+  {
    "url": "fb.me/9Pf9FTshS",
    "leads": 1
   },
@@ -58,16 +62,12 @@
   {
    "url": "fb.me/7vEH579Vm",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4TMXZ8MDm",
-   "leads": 1
   }
  ],
  "areas": {
-  "Previdenciario": 2,
+  "Nao identificada": 12,
   "Trabalhista": 13,
-  "Nao identificada": 11
+  "Previdenciario": 2
  },
  "sem_resposta_lista": [
   {
@@ -166,16 +166,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 164,
-  "turnos": 539,
-  "respondidos": 513,
+  "turnos": 546,
+  "respondidos": 520,
   "sem_resposta": 26,
   "sem_resposta_grupos": 26,
-  "mediana_min": 19.2,
+  "mediana_min": 19.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 228,
-    "mediana_min": 24.6
+    "respostas": 235,
+    "mediana_min": 25.9
    },
    {
     "nome": "Nicolas",
@@ -1373,29 +1373,29 @@
   ]
  },
  "agora": {
-  "fila": 7,
+  "fila": 6,
   "abertos": 176,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 3,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 35016
+  "ausentes": 3,
+  "espera_media_s": 34579
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-18T12:59:32.509Z",
-  "min_sem_lead": 4575
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 652450
  },
  "leads": [
   {
-   "nome": "Raquel Corano",
-   "tel": "5544*****452",
-   "criado": "13:43",
-   "atendente": "Eduardo",
-   "espera_min": 2.2,
+   "nome": "Renata",
+   "tel": "5511*****910",
+   "criado": "14:16",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 1.3,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Previdenciario"
+   "criativo": "fb.me/bB3uetOH6",
+   "area": "Nao identificada"
   },
   {
    "nome": "Silvana Tondin",
@@ -1407,6 +1407,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTKQODOlC/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Raquel Corano",
+   "tel": "5544*****452",
+   "criado": "13:43",
+   "atendente": "Eduardo",
+   "espera_min": 2.2,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Previdenciario"
   },
   {
    "nome": "Leeh🥰",
