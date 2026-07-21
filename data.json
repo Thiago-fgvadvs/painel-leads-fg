@@ -1,17 +1,17 @@
 {
- "gerado_em": "21/07/2026, 20:21",
+ "gerado_em": "21/07/2026, 20:36",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 40,
+  "total": 41,
   "no_sla": 16,
   "fora_sla": 17,
-  "sem_resposta": 2,
+  "sem_resposta": 3,
   "fora_horario": 3,
   "pct_sla": 48,
   "mediana_geral": 16.2,
-  "leads_7d": 248,
-  "tickets_abertos": 105,
+  "leads_7d": 249,
+  "tickets_abertos": 106,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 29,
+  "Anuncio": 30,
   "Direto/Indicacao": 11
  },
  "criativos": [
@@ -41,19 +41,19 @@
    "leads": 6
   },
   {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 5
+  },
+  {
    "url": "www.instagram.com/p/DYVTKQODOlC/",
    "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 4
-  },
-  {
-   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
    "leads": 2
   },
   {
@@ -70,11 +70,17 @@
   }
  ],
  "areas": {
-  "Previdenciario": 4,
+  "Nao identificada": 16,
   "Trabalhista": 21,
-  "Nao identificada": 15
+  "Previdenciario": 4
  },
  "sem_resposta_lista": [
+  {
+   "nome": "558396108660",
+   "tel": "5583*****660",
+   "criado": "20:36",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Damarcia Sueli",
    "tel": "5511*****649",
@@ -314,6 +320,13 @@
     "dia": "21/07",
     "desde": "15:42",
     "ts": 1784659373252
+   },
+   {
+    "nome": "558396108660",
+    "tel": "5583*****660",
+    "dia": "21/07",
+    "desde": "20:36",
+    "ts": 1784676985280
    }
   ],
   "grupos": [
@@ -1186,8 +1199,8 @@
   ]
  },
  "agora": {
-  "fila": 10,
-  "abertos": 105,
+  "fila": 11,
+  "abertos": 106,
   "com_atendimento": 6,
   "online": 1,
   "offline": 8,
@@ -1195,10 +1208,32 @@
   "espera_media_s": 27021
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T23:06:45.984Z",
-  "min_sem_lead": 15
+  "ultimo_lead_at": "2026-07-21T23:36:25.280Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "558396108660",
+   "tel": "5583*****660",
+   "criado": "20:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Patricia Soares.",
+   "tel": "5512*****703",
+   "criado": "14:34",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 17,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Camila Andrade",
    "tel": "5594*****071",
@@ -1230,17 +1265,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTKQODOlC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Patricia Soares.",
-   "tel": "5512*****703",
-   "criado": "14:34",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 17,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
   },
   {
