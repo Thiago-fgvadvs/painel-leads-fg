@@ -1,17 +1,17 @@
 {
- "gerado_em": "21/07/2026, 19:05",
+ "gerado_em": "21/07/2026, 19:20",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 38,
+  "total": 39,
   "no_sla": 16,
   "fora_sla": 17,
   "sem_resposta": 2,
-  "fora_horario": 1,
+  "fora_horario": 2,
   "pct_sla": 48,
   "mediana_geral": 16.2,
-  "leads_7d": 246,
-  "tickets_abertos": 103,
+  "leads_7d": 247,
+  "tickets_abertos": 104,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,12 +27,12 @@
   },
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 5,
+   "leads": 6,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 28,
+  "Anuncio": 29,
   "Direto/Indicacao": 10
  },
  "criativos": [
@@ -49,6 +49,10 @@
    "leads": 4
   },
   {
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "leads": 2
+  },
+  {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 2
   },
@@ -63,14 +67,10 @@
   {
    "url": "fb.me/46jmJaUVk",
    "leads": 1
-  },
-  {
-   "url": "fb.me/bB3uetOH6",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 20,
+  "Trabalhista": 21,
   "Nao identificada": 15,
   "Previdenciario": 3
  },
@@ -1186,19 +1186,30 @@
   ]
  },
  "agora": {
-  "fila": 8,
-  "abertos": 103,
+  "fila": 9,
+  "abertos": 104,
   "com_atendimento": 6,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 27782
+  "espera_media_s": 27396
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 652725
+  "ultimo_lead_at": "2026-07-21T22:05:26.998Z",
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "556791910214",
+   "tel": "5567*****214",
+   "criado": "19:05",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "RCE-Publicidades",
    "tel": "5527*****377",
