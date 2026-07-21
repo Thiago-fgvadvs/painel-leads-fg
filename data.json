@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/07/2026, 18:34",
+ "gerado_em": "21/07/2026, 18:50",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 48,
   "mediana_geral": 16.2,
   "leads_7d": 246,
-  "tickets_abertos": 102,
+  "tickets_abertos": 103,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -211,7 +211,7 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 172,
+  "grupos_ativos": 173,
   "turnos": 578,
   "respondidos": 572,
   "sem_resposta": 6,
@@ -1186,30 +1186,19 @@
   ]
  },
  "agora": {
-  "fila": 7,
-  "abertos": 102,
+  "fila": 8,
+  "abertos": 103,
   "com_atendimento": 6,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 28178
+  "espera_media_s": 27782
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 652695
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 652710
  },
  "leads": [
-  {
-   "nome": "Patricia Soares.",
-   "tel": "5512*****703",
-   "criado": "14:34",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 17,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "RCE-Publicidades",
    "tel": "5527*****377",
@@ -1219,6 +1208,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTKQODOlC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Patricia Soares.",
+   "tel": "5512*****703",
+   "criado": "14:34",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 17,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
   },
   {
