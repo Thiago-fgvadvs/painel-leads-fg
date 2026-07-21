@@ -1,37 +1,46 @@
 {
- "gerado_em": "21/07/2026, 09:36",
+ "gerado_em": "21/07/2026, 12:12",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
-  "no_sla": 4,
-  "fora_sla": 5,
-  "sem_resposta": 3,
-  "fora_horario": 0,
-  "pct_sla": 44,
-  "mediana_geral": 18,
-  "leads_7d": 221,
-  "tickets_abertos": 253,
+  "total": 20,
+  "no_sla": 6,
+  "fora_sla": 10,
+  "sem_resposta": 2,
+  "fora_horario": 1,
+  "pct_sla": 38,
+  "mediana_geral": 21.7,
+  "leads_7d": 228,
+  "tickets_abertos": 245,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 9,
-   "mediana_min": 18
+   "leads": 13,
+   "mediana_min": 19.7
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 4,
+   "mediana_min": 60.7
   }
  ],
  "origem": {
-  "Anuncio": 8,
-  "Direto/Indicacao": 5
+  "Anuncio": 13,
+  "Direto/Indicacao": 7
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "fb.me/7vEH579Vm",
    "leads": 1
   },
   {
@@ -39,7 +48,11 @@
    "leads": 1
   },
   {
-   "url": "fb.me/4EDzR2aSz",
+   "url": "www.instagram.com/p/DYVTKQODOlC/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4TMXZ8MDm",
    "leads": 1
   },
   {
@@ -47,39 +60,71 @@
    "leads": 1
   },
   {
-   "url": "fb.me/9Pf9FTshS",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 8,
-  "Trabalhista": 5
+  "Nao identificada": 11,
+  "Trabalhista": 9
  },
  "sem_resposta_lista": [
+  {
+   "nome": "5527996113662",
+   "tel": "5527*****662",
+   "criado": "12:05",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Pedro Wellington",
+   "tel": "5585*****602",
+   "criado": "10:35",
+   "area": "Trabalhista"
+  }
+ ],
+ "fora_sla_lista": [
+  {
+   "nome": "Marcos Souza",
+   "tel": "5595*****968",
+   "criado": "10:17",
+   "espera_min": 21.3,
+   "atendente": "Eduardo"
+  },
+  {
+   "nome": "Eliane",
+   "tel": "5587*****076",
+   "criado": "09:01",
+   "espera_min": 29.4,
+   "atendente": "Eduardo"
+  },
+  {
+   "nome": "~ Tha",
+   "tel": "5511*****539",
+   "criado": "10:17",
+   "espera_min": 62,
+   "atendente": "Tiago Bernardo"
+  },
+  {
+   "nome": "neide",
+   "tel": "5592*****536",
+   "criado": "10:42",
+   "espera_min": 32.8,
+   "atendente": "Eduardo"
+  },
   {
    "nome": "Soraya🥰",
    "tel": "5571*****756",
    "criado": "09:10",
-   "area": "Trabalhista"
+   "espera_min": 59.3,
+   "atendente": "Tiago Bernardo"
   },
   {
-   "nome": "5521993843559",
+   "nome": "Expedito Sales Moreira Sa",
    "tel": "5521*****559",
    "criado": "08:17",
-   "area": "Trabalhista"
+   "espera_min": 92.2,
+   "atendente": "Tiago Bernardo"
   },
-  {
-   "nome": "554399829566",
-   "tel": "5543*****566",
-   "criado": "07:42",
-   "area": "Nao identificada"
-  }
- ],
- "fora_sla_lista": [
   {
    "nome": "Luan Daniel",
    "tel": "5584*****396",
@@ -92,13 +137,6 @@
    "tel": "5533*****031",
    "criado": "08:58",
    "espera_min": 33,
-   "atendente": "Eduardo"
-  },
-  {
-   "nome": "Eliane",
-   "tel": "5587*****076",
-   "criado": "09:01",
-   "espera_min": 29.4,
    "atendente": "Eduardo"
   },
   {
@@ -118,32 +156,37 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 148,
-  "turnos": 439,
-  "respondidos": 412,
-  "sem_resposta": 27,
-  "sem_resposta_grupos": 27,
-  "mediana_min": 19,
+  "grupos_ativos": 156,
+  "turnos": 506,
+  "respondidos": 483,
+  "sem_resposta": 23,
+  "sem_resposta_grupos": 23,
+  "mediana_min": 19.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 181,
-    "mediana_min": 24.8
+    "respostas": 214,
+    "mediana_min": 27.7
    },
    {
     "nome": "Nicolas",
-    "respostas": 163,
-    "mediana_min": 19.2
+    "respostas": 184,
+    "mediana_min": 21.8
    },
    {
     "nome": "Eduardo",
-    "respostas": 32,
-    "mediana_min": 10.4
+    "respostas": 35,
+    "mediana_min": 11.2
    },
    {
     "nome": "Gabrielle",
-    "respostas": 17,
-    "mediana_min": 3.6
+    "respostas": 26,
+    "mediana_min": 3.2
+   },
+   {
+    "nome": "Luisa",
+    "respostas": 8,
+    "mediana_min": 5.7
    },
    {
     "nome": "Tiago Bernardo",
@@ -159,37 +202,50 @@
     "nome": "—",
     "respostas": 3,
     "mediana_min": 0.7
-   },
-   {
-    "nome": "Luisa",
-    "respostas": 3,
-    "mediana_min": 61.1
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "G.L.T.P x INSS",
+    "dia": "21/07",
+    "desde": "11:45",
+    "ts": 1784645106132
+   },
+   {
+    "grupo": "A.L.M.J x ARCOS DOURADOS COMERCIO DE ALIMENTO SA",
+    "dia": "21/07",
+    "desde": "11:42",
+    "ts": 1784644968130
+   },
+   {
+    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
+    "dia": "21/07",
+    "desde": "11:25",
+    "ts": 1784643932231
+   },
+   {
+    "grupo": "A.F.D.S x INSS",
+    "dia": "21/07",
+    "desde": "10:55",
+    "ts": 1784642125185
+   },
+   {
+    "grupo": "A.F.D.S x ZARA ALIMENTACAO LTDA",
+    "dia": "21/07",
+    "desde": "10:57",
+    "ts": 1784642247076
+   },
+   {
+    "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
+    "dia": "21/07",
+    "desde": "10:47",
+    "ts": 1784641627144
+   },
    {
     "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
     "dia": "21/07",
     "desde": "08:12",
     "ts": 1784632333003
-   },
-   {
-    "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
-    "dia": "21/07",
-    "desde": "09:09",
-    "ts": 1784635751071
-   },
-   {
-    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
-    "dia": "21/07",
-    "desde": "08:57",
-    "ts": 1784635049007
-   },
-   {
-    "grupo": "I.C.D.S.R x REDE PLUS HORTIFRUTI 8 LTDA",
-    "dia": "21/07",
-    "desde": "08:39",
-    "ts": 1784633961910
    },
    {
     "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
@@ -198,46 +254,10 @@
     "ts": 1784588281015
    },
    {
-    "grupo": "G.F.D x BANCO DO BRASIL S.A",
+    "grupo": "J.A.L x CONSTRUTORA RAMON AGUILERA",
     "dia": "20/07",
-    "desde": "19:32",
-    "ts": 1784586752873
-   },
-   {
-    "grupo": "L.H.F.D.C x NETUS TRANSPORTE LTDA",
-    "dia": "20/07",
-    "desde": "19:19",
-    "ts": 1784585954976
-   },
-   {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "20/07",
-    "desde": "18:38",
-    "ts": 1784583487009
-   },
-   {
-    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
-    "dia": "20/07",
-    "desde": "18:08",
-    "ts": 1784581697846
-   },
-   {
-    "grupo": "A.D.S.R x NOVO HORIZONTE JACAREPAGUA IMPORTACAO E EXPORTACAO S.A",
-    "dia": "20/07",
-    "desde": "17:36",
-    "ts": 1784579789963
-   },
-   {
-    "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
-    "dia": "20/07",
-    "desde": "15:49",
-    "ts": 1784573355916
-   },
-   {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
-    "dia": "20/07",
-    "desde": "14:24",
-    "ts": 1784568292738
+    "desde": "12:01",
+    "ts": 1784559686742
    },
    {
     "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
@@ -262,12 +282,6 @@
     "dia": "17/07",
     "desde": "16:04",
     "ts": 1784315052366
-   },
-   {
-    "grupo": "A.F.D.S x ZARA ALIMENTACAO LTDA",
-    "dia": "17/07",
-    "desde": "15:30",
-    "ts": 1784313018373
    },
    {
     "grupo": "T.G.R x FLASH TECNOLOGIA E INSTITUICAO DE PAGAMENTO LTDA",
@@ -335,137 +349,18 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Luzia Neri Dr Aguiar Ferr",
-    "tel": "5586*****323",
-    "dia": "18/07",
-    "desde": "13:39",
-    "ts": 1784392762888
-   },
-   {
-    "nome": "Márcia☕",
-    "tel": "5511*****405",
-    "dia": "18/07",
-    "desde": "15:43",
-    "ts": 1784400221873
-   },
-   {
-    "nome": "Edson / Pai do Eduardo",
-    "tel": "5511*****274",
-    "dia": "20/07",
-    "desde": "08:33",
-    "ts": 1784547229280
-   },
-   {
-    "nome": "Elisângela lima",
-    "tel": "5511*****669",
-    "dia": "20/07",
-    "desde": "15:20",
-    "ts": 1784571615656
-   },
-   {
-    "nome": "lemay81martinez",
-    "tel": "5545*****354",
-    "dia": "20/07",
-    "desde": "16:00",
-    "ts": 1784574037461
-   },
-   {
-    "nome": "556294551143",
-    "tel": "5562*****143",
-    "dia": "20/07",
-    "desde": "19:01",
-    "ts": 1784584885635
-   },
-   {
-    "nome": "554899054228",
-    "tel": "5548*****228",
-    "dia": "20/07",
-    "desde": "19:43",
-    "ts": 1784587387422
-   },
-   {
-    "nome": "554891214540",
-    "tel": "5548*****540",
-    "dia": "20/07",
-    "desde": "19:47",
-    "ts": 1784587636010
-   },
-   {
-    "nome": "Nicolly",
-    "tel": "5541*****910",
-    "dia": "20/07",
-    "desde": "20:06",
-    "ts": 1784588791993
-   },
-   {
-    "nome": "5514988101541",
-    "tel": "5514*****541",
-    "dia": "20/07",
-    "desde": "20:22",
-    "ts": 1784589747137
-   },
-   {
-    "nome": "554784024456",
-    "tel": "5547*****456",
-    "dia": "20/07",
-    "desde": "20:28",
-    "ts": 1784590100927
-   },
-   {
-    "nome": "553798054628",
-    "tel": "5537*****628",
-    "dia": "20/07",
-    "desde": "20:46",
-    "ts": 1784591194878
-   },
-   {
-    "nome": "Silvana",
-    "tel": "5511*****517",
-    "dia": "20/07",
-    "desde": "21:14",
-    "ts": 1784592843638
-   },
-   {
-    "nome": "555198627972",
-    "tel": "5551*****972",
-    "dia": "20/07",
-    "desde": "21:59",
-    "ts": 1784595565937
-   },
-   {
-    "nome": "5521975971899",
-    "tel": "5521*****899",
-    "dia": "20/07",
-    "desde": "22:19",
-    "ts": 1784596770525
-   },
-   {
-    "nome": "5519996217776",
-    "tel": "5519*****776",
-    "dia": "20/07",
-    "desde": "23:02",
-    "ts": 1784599366145
-   },
-   {
-    "nome": "554399829566",
-    "tel": "5543*****566",
+    "nome": "Pedro Wellington",
+    "tel": "5585*****602",
     "dia": "21/07",
-    "desde": "07:42",
-    "ts": 1784630529554
+    "desde": "10:35",
+    "ts": 1784640930731
    },
    {
-    "nome": "5521993843559",
-    "tel": "5521*****559",
+    "nome": "5527996113662",
+    "tel": "5527*****662",
     "dia": "21/07",
-    "desde": "08:17",
-    "ts": 1784632663406
-   },
-   {
-    "nome": "Soraya🥰",
-    "tel": "5571*****756",
-    "dia": "21/07",
-    "desde": "09:10",
-    "ts": 1784635827225
+    "desde": "12:05",
+    "ts": 1784646314046
    }
   ],
   "grupos": [
@@ -530,12 +425,6 @@
     "ts": 1784302439171
    },
    {
-    "grupo": "A.F.D.S x ZARA ALIMENTACAO LTDA",
-    "dia": "17/07",
-    "desde": "15:30",
-    "ts": 1784313018373
-   },
-   {
     "grupo": "F.G x ITAU UNIBANCO",
     "dia": "17/07",
     "desde": "16:04",
@@ -560,46 +449,10 @@
     "ts": 1784552677579
    },
    {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "grupo": "J.A.L x CONSTRUTORA RAMON AGUILERA",
     "dia": "20/07",
-    "desde": "14:24",
-    "ts": 1784568292738
-   },
-   {
-    "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
-    "dia": "20/07",
-    "desde": "15:49",
-    "ts": 1784573355916
-   },
-   {
-    "grupo": "A.D.S.R x NOVO HORIZONTE JACAREPAGUA IMPORTACAO E EXPORTACAO S.A",
-    "dia": "20/07",
-    "desde": "17:36",
-    "ts": 1784579789963
-   },
-   {
-    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
-    "dia": "20/07",
-    "desde": "18:08",
-    "ts": 1784581697846
-   },
-   {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "20/07",
-    "desde": "18:38",
-    "ts": 1784583487009
-   },
-   {
-    "grupo": "L.H.F.D.C x NETUS TRANSPORTE LTDA",
-    "dia": "20/07",
-    "desde": "19:19",
-    "ts": 1784585954976
-   },
-   {
-    "grupo": "G.F.D x BANCO DO BRASIL S.A",
-    "dia": "20/07",
-    "desde": "19:32",
-    "ts": 1784586752873
+    "desde": "12:01",
+    "ts": 1784559686742
    },
    {
     "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
@@ -614,22 +467,40 @@
     "ts": 1784632333003
    },
    {
-    "grupo": "I.C.D.S.R x REDE PLUS HORTIFRUTI 8 LTDA",
+    "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
     "dia": "21/07",
-    "desde": "08:39",
-    "ts": 1784633961910
+    "desde": "10:47",
+    "ts": 1784641627144
    },
    {
-    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
+    "grupo": "A.F.D.S x INSS",
     "dia": "21/07",
-    "desde": "08:57",
-    "ts": 1784635049007
+    "desde": "10:55",
+    "ts": 1784642125185
    },
    {
-    "grupo": "C.O.D.S x CISOL DO BRASIL EXPORTACAO LTDA",
+    "grupo": "A.F.D.S x ZARA ALIMENTACAO LTDA",
     "dia": "21/07",
-    "desde": "09:09",
-    "ts": 1784635751071
+    "desde": "10:57",
+    "ts": 1784642247076
+   },
+   {
+    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
+    "dia": "21/07",
+    "desde": "11:25",
+    "ts": 1784643932231
+   },
+   {
+    "grupo": "A.L.M.J x ARCOS DOURADOS COMERCIO DE ALIMENTO SA",
+    "dia": "21/07",
+    "desde": "11:42",
+    "ts": 1784644968130
+   },
+   {
+    "grupo": "G.L.T.P x INSS",
+    "dia": "21/07",
+    "desde": "11:45",
+    "ts": 1784645106132
    }
   ]
  },
@@ -1436,19 +1307,96 @@
   ]
  },
  "agora": {
-  "fila": 38,
-  "abertos": 253,
-  "com_atendimento": 7,
-  "online": 3,
-  "offline": 4,
+  "fila": 9,
+  "abertos": 244,
+  "com_atendimento": 6,
+  "online": 4,
+  "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 88704
+  "espera_media_s": 81393
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-17T10:47:58.752Z",
-  "min_sem_lead": 49068
+  "ultimo_lead_at": "2026-02-14T06:09:51.714Z",
+  "min_sem_lead": 226623
  },
  "leads": [
+  {
+   "nome": "5527996113662",
+   "tel": "5527*****662",
+   "criado": "12:05",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7vEH579Vm",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Marcos Souza",
+   "tel": "5595*****968",
+   "criado": "10:17",
+   "atendente": "Eduardo",
+   "espera_min": 21.3,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Eliane",
+   "tel": "5587*****076",
+   "criado": "09:01",
+   "atendente": "Eduardo",
+   "espera_min": 29.4,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "~ Tha",
+   "tel": "5511*****539",
+   "criado": "10:17",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 62,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Daniel",
+   "tel": "5511*****794",
+   "criado": "10:34",
+   "atendente": "Eduardo",
+   "espera_min": 6.1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "neide",
+   "tel": "5592*****536",
+   "criado": "10:42",
+   "atendente": "Eduardo",
+   "espera_min": 32.8,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4TMXZ8MDm",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Danyzinha 🥰",
+   "tel": "5527*****248",
+   "criado": "10:13",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 2.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "julia 🩷",
    "tel": "5511*****992",
@@ -1458,6 +1406,72 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Carlos",
+   "tel": "5511*****254",
+   "criado": "09:29",
+   "atendente": "Eduardo",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7x2nrMW0Q",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Pedro Wellington",
+   "tel": "5585*****602",
+   "criado": "10:35",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "😎",
+   "tel": "5565*****743",
+   "criado": "09:22",
+   "atendente": "Eduardo",
+   "espera_min": 5.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Soraya🥰",
+   "tel": "5571*****756",
+   "criado": "09:10",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 59.3,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Expedito Sales Moreira Sa",
+   "tel": "5521*****559",
+   "criado": "08:17",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 92.2,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Cleusa Da Silva",
+   "tel": "5543*****566",
+   "criado": "07:42",
+   "atendente": "Eduardo",
+   "espera_min": 114.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
    "area": "Nao identificada"
   },
   {
@@ -1483,17 +1497,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Eliane",
-   "tel": "5587*****076",
-   "criado": "09:01",
-   "atendente": "Eduardo",
-   "espera_min": 29.4,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "italo",
    "tel": "5595*****804",
    "criado": "09:08",
@@ -1516,28 +1519,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "😎",
-   "tel": "5565*****743",
-   "criado": "09:22",
-   "atendente": "Eduardo",
-   "espera_min": 5.7,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4EDzR2aSz",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Carlos",
-   "tel": "5511*****254",
-   "criado": "09:29",
-   "atendente": "Eduardo",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7x2nrMW0Q",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Ingrid Lorrany",
    "tel": "5531*****340",
    "criado": "09:18",
@@ -1546,39 +1527,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Soraya🥰",
-   "tel": "5571*****756",
-   "criado": "09:10",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5521993843559",
-   "tel": "5521*****559",
-   "criado": "08:17",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "554399829566",
-   "tel": "5543*****566",
-   "criado": "07:42",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
    "area": "Nao identificada"
   },
   {
