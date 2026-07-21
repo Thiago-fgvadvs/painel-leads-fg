@@ -1,24 +1,24 @@
 {
- "gerado_em": "21/07/2026, 12:58",
+ "gerado_em": "21/07/2026, 13:14",
  "data_ref": "21/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
-  "no_sla": 7,
+  "total": 23,
+  "no_sla": 8,
   "fora_sla": 12,
   "sem_resposta": 1,
   "fora_horario": 1,
-  "pct_sla": 37,
-  "mediana_geral": 18,
-  "leads_7d": 230,
-  "tickets_abertos": 211,
+  "pct_sla": 40,
+  "mediana_geral": 17.4,
+  "leads_7d": 231,
+  "tickets_abertos": 214,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 15,
-   "mediana_min": 17.4
+   "leads": 16,
+   "mediana_min": 16.7
   },
   {
    "nome": "Tiago Bernardo",
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 15,
+  "Anuncio": 16,
   "Direto/Indicacao": 7
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DYVTKQODOlC/",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
@@ -52,10 +56,6 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DYVTKQODOlC/",
-   "leads": 1
-  },
-  {
    "url": "fb.me/4TMXZ8MDm",
    "leads": 1
   },
@@ -65,9 +65,9 @@
   }
  ],
  "areas": {
+  "Nao identificada": 11,
   "Trabalhista": 11,
-  "Previdenciario": 1,
-  "Nao identificada": 10
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [
   {
@@ -165,12 +165,12 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 160,
-  "turnos": 526,
-  "respondidos": 501,
-  "sem_resposta": 25,
-  "sem_resposta_grupos": 25,
-  "mediana_min": 19.2,
+  "grupos_ativos": 163,
+  "turnos": 531,
+  "respondidos": 504,
+  "sem_resposta": 27,
+  "sem_resposta_grupos": 27,
+  "mediana_min": 19,
   "atendentes": [
    {
     "nome": "Julia",
@@ -179,8 +179,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 188,
-    "mediana_min": 22.7
+    "respostas": 191,
+    "mediana_min": 21.2
    },
    {
     "nome": "Eduardo",
@@ -217,8 +217,20 @@
    {
     "grupo": "M.I.S x SUPERMERCADOS IRMAOS LOPES S/A",
     "dia": "21/07",
-    "desde": "12:57",
-    "ts": 1784649421223
+    "desde": "13:10",
+    "ts": 1784650213334
+   },
+   {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "21/07",
+    "desde": "13:13",
+    "ts": 1784650427339
+   },
+   {
+    "grupo": "E.B.D.S x INSS",
+    "dia": "21/07",
+    "desde": "12:53",
+    "ts": 1784649210219
    },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -523,10 +535,22 @@
     "ts": 1784647448175
    },
    {
+    "grupo": "E.B.D.S x INSS",
+    "dia": "21/07",
+    "desde": "12:53",
+    "ts": 1784649210219
+   },
+   {
     "grupo": "M.I.S x SUPERMERCADOS IRMAOS LOPES S/A",
     "dia": "21/07",
-    "desde": "12:57",
-    "ts": 1784649421223
+    "desde": "13:10",
+    "ts": 1784650213334
+   },
+   {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "21/07",
+    "desde": "13:13",
+    "ts": 1784650427339
    }
   ]
  },
@@ -1333,29 +1357,29 @@
   ]
  },
  "agora": {
-  "fila": 9,
-  "abertos": 211,
+  "fila": 10,
+  "abertos": 214,
   "com_atendimento": 7,
   "online": 3,
   "offline": 4,
   "ausentes": 2,
-  "espera_media_s": 72259
+  "espera_media_s": 71579
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T15:46:46.015Z",
-  "min_sem_lead": 12
+  "ultimo_lead_at": "2026-06-17T02:15:11.108Z",
+  "min_sem_lead": 49799
  },
  "leads": [
   {
-   "nome": "$âmella",
-   "tel": "5513*****001",
-   "criado": "12:46",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 2.8,
+   "nome": "Silvana Tondin",
+   "tel": "5554*****135",
+   "criado": "13:11",
+   "atendente": "Eduardo",
+   "espera_min": 0.8,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
+   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
+   "area": "Nao identificada"
   },
   {
    "nome": "❤",
@@ -1366,6 +1390,17 @@
    "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "$âmella",
+   "tel": "5513*****001",
+   "criado": "12:46",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 2.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
   },
   {
