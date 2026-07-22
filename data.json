@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/07/2026, 17:48",
+ "gerado_em": "22/07/2026, 18:03",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -99,17 +99,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 176,
-  "turnos": 575,
-  "respondidos": 572,
+  "grupos_ativos": 177,
+  "turnos": 579,
+  "respondidos": 576,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
   "mediana_min": 20,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 268,
-    "mediana_min": 30.8
+    "respostas": 271,
+    "mediana_min": 30.7
    },
    {
     "nome": "Nicolas",
@@ -122,14 +122,14 @@
     "mediana_min": 12.1
    },
    {
+    "nome": "Thauany",
+    "respostas": 27,
+    "mediana_min": 0.6
+   },
+   {
     "nome": "Gabrielle",
     "respostas": 27,
     "mediana_min": 3.9
-   },
-   {
-    "nome": "Thauany",
-    "respostas": 26,
-    "mediana_min": 0.6
    },
    {
     "nome": "Luisa",
@@ -591,25 +591,25 @@
   "fila": 28,
   "abertos": 98,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 3,
   "offline": 5,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 10692
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T15:02:03.063Z",
-  "min_sem_lead": 346
+  "ultimo_lead_at": "2026-07-22T10:43:28.978Z",
+  "min_sem_lead": 620
  },
  "leads": [
   {
-   "nome": ".",
-   "tel": "5514*****527",
-   "criado": "12:02",
+   "nome": "Thayna",
+   "tel": "5521*****979",
+   "criado": "07:43",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
   },
   {
@@ -624,6 +624,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "Lavinha Peres",
+   "tel": "5585*****415",
+   "criado": "12:51",
+   "atendente": "Eduardo",
+   "espera_min": 0.2,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
    "nome": "Leandro",
    "tel": "5527*****559",
    "criado": "17:03",
@@ -632,6 +643,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4f2wMcRQZ",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": ".",
+   "tel": "5514*****527",
+   "criado": "12:02",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
   },
   {
@@ -677,17 +699,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Thayna",
-   "tel": "5521*****979",
-   "criado": "07:43",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
   },
   {
    "nome": "553188548986",
@@ -798,17 +809,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Lavinha Peres",
-   "tel": "5585*****415",
-   "criado": "12:51",
-   "atendente": "Eduardo",
-   "espera_min": 0.2,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "🥰",
