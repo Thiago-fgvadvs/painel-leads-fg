@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/07/2026, 14:14",
+ "gerado_em": "22/07/2026, 14:29",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
-  "no_sla": 22,
+  "total": 31,
+  "no_sla": 23,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 235,
-  "tickets_abertos": 89,
+  "leads_7d": 236,
+  "tickets_abertos": 93,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 23,
+   "leads": 24,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 25,
+  "Anuncio": 26,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 6
+   "leads": 7
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 17,
+  "Trabalhista": 18,
   "Nao identificada": 13
  },
  "sem_resposta_lista": [],
@@ -86,15 +86,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 169,
-  "turnos": 525,
-  "respondidos": 518,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 21.4,
+  "turnos": 533,
+  "respondidos": 525,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 21.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 236,
+    "respostas": 238,
     "mediana_min": 33.2
    },
    {
@@ -114,13 +114,13 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 23,
-    "mediana_min": 4.2
+    "respostas": 24,
+    "mediana_min": 4.3
    },
    {
     "nome": "Thauany",
-    "respostas": 12,
-    "mediana_min": 0.6
+    "respostas": 16,
+    "mediana_min": 0.9
    },
    {
     "nome": "—",
@@ -135,22 +135,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.F.B x CONSTRUTORA ALAIATE LTDA",
-    "dia": "22/07",
-    "desde": "14:14",
-    "ts": 1784740453855
-   },
-   {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
     "dia": "22/07",
     "desde": "12:54",
     "ts": 1784735649767
-   },
-   {
-    "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
-    "dia": "22/07",
-    "desde": "11:52",
-    "ts": 1784731977724
    },
    {
     "grupo": "A.J.P.B",
@@ -165,10 +153,28 @@
     "ts": 1784730303808
    },
    {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "22/07",
+    "desde": "09:35",
+    "ts": 1784723747688
+   },
+   {
+    "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
+    "dia": "21/07",
+    "desde": "15:32",
+    "ts": 1784658767323
+   },
+   {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
     "dia": "21/07",
     "desde": "12:19",
     "ts": 1784647171172
+   },
+   {
+    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
+    "dia": "21/07",
+    "desde": "11:25",
+    "ts": 1784643932231
    },
    {
     "grupo": "A.F.D.S x INSS",
@@ -204,10 +210,28 @@
     "ts": 1784642125185
    },
    {
+    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
+    "dia": "21/07",
+    "desde": "11:25",
+    "ts": 1784643932231
+   },
+   {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
     "dia": "21/07",
     "desde": "12:19",
     "ts": 1784647171172
+   },
+   {
+    "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
+    "dia": "21/07",
+    "desde": "15:32",
+    "ts": 1784658767323
+   },
+   {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "22/07",
+    "desde": "09:35",
+    "ts": 1784723747688
    },
    {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
@@ -222,22 +246,10 @@
     "ts": 1784731574819
    },
    {
-    "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
-    "dia": "22/07",
-    "desde": "11:52",
-    "ts": 1784731977724
-   },
-   {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
     "dia": "22/07",
     "desde": "12:54",
     "ts": 1784735649767
-   },
-   {
-    "grupo": "R.F.B x CONSTRUTORA ALAIATE LTDA",
-    "dia": "22/07",
-    "desde": "14:14",
-    "ts": 1784740453855
    }
   ]
  },
@@ -623,22 +635,22 @@
  },
  "agora": {
   "fila": 24,
-  "abertos": 89,
+  "abertos": 93,
   "com_atendimento": 8,
-  "online": 3,
+  "online": 4,
   "offline": 2,
-  "ausentes": 4,
-  "espera_media_s": 12326
+  "ausentes": 3,
+  "espera_media_s": 12121
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T16:47:49.014Z",
-  "min_sem_lead": 27
+  "ultimo_lead_at": "2026-07-22T17:15:07.982Z",
+  "min_sem_lead": 15
  },
  "leads": [
   {
-   "nome": "Dressa Santos 💋",
-   "tel": "5571*****031",
-   "criado": "13:47",
+   "nome": "🥰",
+   "tel": "5527*****532",
+   "criado": "14:15",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
@@ -656,6 +668,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Dressa Santos 💋",
+   "tel": "5571*****031",
+   "criado": "13:47",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Francisco e Vitória ❤️👩‍❤️‍👨",
