@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/07/2026, 11:11",
+ "gerado_em": "22/07/2026, 11:27",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 223,
-  "tickets_abertos": 92,
+  "tickets_abertos": 85,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,16 +65,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 164,
-  "turnos": 492,
-  "respondidos": 486,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 23.4,
+  "turnos": 493,
+  "respondidos": 489,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 23.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 223,
-    "mediana_min": 33.2
+    "respostas": 226,
+    "mediana_min": 32.7
    },
    {
     "nome": "Nicolas",
@@ -114,10 +114,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
     "dia": "22/07",
-    "desde": "11:10",
-    "ts": 1784729455779
+    "desde": "11:25",
+    "ts": 1784730303808
    },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -136,18 +136,6 @@
     "dia": "21/07",
     "desde": "10:55",
     "ts": 1784642125185
-   },
-   {
-    "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
-    "dia": "21/07",
-    "desde": "10:47",
-    "ts": 1784641627144
-   },
-   {
-    "grupo": "Z.D.F.M.M.D.A.C",
-    "dia": "20/07",
-    "desde": "09:15",
-    "ts": 1784549738592
    }
   ]
  },
@@ -171,18 +159,6 @@
   ],
   "grupos": [
    {
-    "grupo": "Z.D.F.M.M.D.A.C",
-    "dia": "20/07",
-    "desde": "09:15",
-    "ts": 1784549738592
-   },
-   {
-    "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
-    "dia": "21/07",
-    "desde": "10:47",
-    "ts": 1784641627144
-   },
-   {
     "grupo": "A.F.D.S x INSS",
     "dia": "21/07",
     "desde": "10:55",
@@ -201,22 +177,31 @@
     "ts": 1784647171172
    },
    {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
     "dia": "22/07",
-    "desde": "11:10",
-    "ts": 1784729455779
+    "desde": "11:25",
+    "ts": 1784730303808
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 40,
+  "total": 41,
   "por_vendedor": {
+   "Eduardo": 26,
    "Tiago Bernardo": 13,
-   "Roseli": 2,
-   "Eduardo": 25
+   "Roseli": 2
   },
   "lista": [
+   {
+    "vendedor": "Eduardo",
+    "cliente": "A.M",
+    "dia": "22/07",
+    "hora": "11:12",
+    "ts": 1784729574852,
+    "origem": "Indicacao",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "E",
@@ -581,18 +566,40 @@
  },
  "agora": {
   "fila": 23,
-  "abertos": 92,
-  "com_atendimento": 6,
-  "online": 6,
+  "abertos": 85,
+  "com_atendimento": 5,
+  "online": 4,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 16906
+  "ausentes": 2,
+  "espera_media_s": 13859
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-20T23:28:20.927Z",
-  "min_sem_lead": 2323
+  "ultimo_lead_at": "2026-07-22T14:08:03.330Z",
+  "min_sem_lead": 19
  },
  "leads": [
+  {
+   "nome": "Simone Morais",
+   "tel": "5548*****053",
+   "criado": "11:08",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ana 😘",
+   "tel": "5564*****125",
+   "criado": "10:21",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
   {
    "nome": ".",
    "tel": "5521*****037",
@@ -605,17 +612,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554898458053",
-   "tel": "5548*****053",
-   "criado": "11:08",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Gilvan Araujo",
    "tel": "5531*****812",
    "criado": "11:05",
@@ -625,17 +621,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Ana 😘",
-   "tel": "5564*****125",
-   "criado": "10:21",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Deus É Fiel",
