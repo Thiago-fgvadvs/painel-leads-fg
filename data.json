@@ -1,17 +1,17 @@
 {
- "gerado_em": "22/07/2026, 14:29",
+ "gerado_em": "22/07/2026, 14:45",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 31,
+  "total": 32,
   "no_sla": 23,
   "fora_sla": 1,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 4,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 236,
-  "tickets_abertos": 93,
+  "leads_7d": 237,
+  "tickets_abertos": 94,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 26,
+  "Anuncio": 27,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 7
+   "leads": 8
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
@@ -70,10 +70,17 @@
   }
  ],
  "areas": {
-  "Trabalhista": 18,
-  "Nao identificada": 13
+  "Nao identificada": 14,
+  "Trabalhista": 18
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5511975921238",
+   "tel": "5511*****238",
+   "criado": "14:43",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [
   {
    "nome": "Ray",
@@ -86,16 +93,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 169,
-  "turnos": 533,
-  "respondidos": 525,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 21.2,
+  "turnos": 542,
+  "respondidos": 535,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 20.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 238,
-    "mediana_min": 33.2
+    "respostas": 242,
+    "mediana_min": 33.4
    },
    {
     "nome": "Nicolas",
@@ -119,8 +126,8 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 16,
-    "mediana_min": 0.9
+    "respostas": 22,
+    "mediana_min": 0.6
    },
    {
     "nome": "—",
@@ -171,12 +178,6 @@
     "ts": 1784647171172
    },
    {
-    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
-    "dia": "21/07",
-    "desde": "11:25",
-    "ts": 1784643932231
-   },
-   {
     "grupo": "A.F.D.S x INSS",
     "dia": "21/07",
     "desde": "10:55",
@@ -200,6 +201,13 @@
     "dia": "21/07",
     "desde": "15:42",
     "ts": 1784659373252
+   },
+   {
+    "nome": "5511975921238",
+    "tel": "5511*****238",
+    "dia": "22/07",
+    "desde": "14:43",
+    "ts": 1784742223842
    }
   ],
   "grupos": [
@@ -208,12 +216,6 @@
     "dia": "21/07",
     "desde": "10:55",
     "ts": 1784642125185
-   },
-   {
-    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
-    "dia": "21/07",
-    "desde": "11:25",
-    "ts": 1784643932231
    },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -634,29 +636,29 @@
   ]
  },
  "agora": {
-  "fila": 24,
-  "abertos": 93,
+  "fila": 25,
+  "abertos": 94,
   "com_atendimento": 8,
-  "online": 4,
-  "offline": 2,
-  "ausentes": 3,
+  "online": 2,
+  "offline": 3,
+  "ausentes": 4,
   "espera_media_s": 12121
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T17:15:07.982Z",
-  "min_sem_lead": 15
+  "ultimo_lead_at": "2026-07-22T17:43:43.842Z",
+  "min_sem_lead": 1
  },
  "leads": [
   {
-   "nome": "🥰",
-   "tel": "5527*****532",
-   "criado": "14:15",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
+   "nome": "5511975921238",
+   "tel": "5511*****238",
+   "criado": "14:43",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
+   "area": "Nao identificada"
   },
   {
    "nome": "OLAVIANA",
@@ -668,6 +670,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "🥰",
+   "tel": "5527*****532",
+   "criado": "14:15",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Dressa Santos 💋",
