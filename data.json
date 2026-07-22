@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/07/2026, 16:47",
+ "gerado_em": "22/07/2026, 17:02",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 91,
   "mediana_geral": 0.4,
   "leads_7d": 244,
-  "tickets_abertos": 95,
+  "tickets_abertos": 97,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -99,11 +99,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 173,
-  "turnos": 568,
+  "grupos_ativos": 174,
+  "turnos": 569,
   "respondidos": 564,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 19.7,
   "atendentes": [
    {
@@ -148,6 +148,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "P.D.P.G x STERILENO COMERCIO E SERVICOS LTDA",
+    "dia": "22/07",
+    "desde": "16:41",
+    "ts": 1784749302999
+   },
    {
     "grupo": "S.M.L.M.B x BANCO DO BRASIL S.A ",
     "dia": "22/07",
@@ -216,6 +222,12 @@
     "dia": "22/07",
     "desde": "16:27",
     "ts": 1784748424098
+   },
+   {
+    "grupo": "P.D.P.G x STERILENO COMERCIO E SERVICOS LTDA",
+    "dia": "22/07",
+    "desde": "16:41",
+    "ts": 1784749302999
    }
   ]
  },
@@ -601,27 +613,27 @@
  },
  "agora": {
   "fila": 26,
-  "abertos": 95,
-  "com_atendimento": 6,
-  "online": 4,
+  "abertos": 97,
+  "com_atendimento": 7,
+  "online": 3,
   "offline": 3,
-  "ausentes": 2,
+  "ausentes": 3,
   "espera_media_s": 11006
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T10:43:28.978Z",
-  "min_sem_lead": 544
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 654043
  },
  "leads": [
   {
-   "nome": "Thayna",
-   "tel": "5521*****979",
-   "criado": "07:43",
+   "nome": "Paola Baesso",
+   "tel": "5524*****015",
+   "criado": "15:46",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
   },
   {
@@ -636,14 +648,14 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Paola Baesso",
-   "tel": "5524*****015",
-   "criado": "15:46",
+   "nome": "Thayna",
+   "tel": "5521*****979",
+   "criado": "07:43",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
   },
   {
