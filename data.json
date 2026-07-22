@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/07/2026, 12:58",
+ "gerado_em": "22/07/2026, 13:13",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
-  "no_sla": 18,
+  "total": 28,
+  "no_sla": 20,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 231,
-  "tickets_abertos": 82,
+  "leads_7d": 233,
+  "tickets_abertos": 84,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 19,
+   "leads": 21,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 23,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -53,21 +53,25 @@
    "leads": 3
   },
   {
+   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/cMY7LLYxT",
    "leads": 1
   },
   {
    "url": "fb.me/9Pf9FTshS",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 12,
-  "Trabalhista": 14
+  "Trabalhista": 15,
+  "Nao identificada": 13
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -81,11 +85,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 168,
+  "grupos_ativos": 169,
   "turnos": 512,
-  "respondidos": 505,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "respondidos": 506,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 22.8,
   "atendentes": [
    {
@@ -95,8 +99,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 178,
-    "mediana_min": 30.9
+    "respostas": 179,
+    "mediana_min": 30.8
    },
    {
     "nome": "Eduardo",
@@ -130,12 +134,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
-    "dia": "22/07",
-    "desde": "12:54",
-    "ts": 1784735656768
-   },
    {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
     "dia": "22/07",
@@ -228,12 +226,6 @@
     "dia": "22/07",
     "desde": "12:54",
     "ts": 1784735649767
-   },
-   {
-    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
-    "dia": "22/07",
-    "desde": "12:54",
-    "ts": 1784735656768
    }
   ]
  },
@@ -618,19 +610,30 @@
   ]
  },
  "agora": {
-  "fila": 24,
-  "abertos": 82,
+  "fila": 25,
+  "abertos": 84,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 3,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 13220
+  "ausentes": 3,
+  "espera_media_s": 12757
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-15T20:10:29.023Z",
-  "min_sem_lead": 9828
+  "ultimo_lead_at": "2026-07-22T16:01:33.931Z",
+  "min_sem_lead": 12
  },
  "leads": [
+  {
+   "nome": "Marden Machado",
+   "tel": "5567*****442",
+   "criado": "13:01",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Ray",
    "tel": "5561*****747",
@@ -643,17 +646,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": ".",
-   "tel": "5514*****527",
-   "criado": "12:02",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "OLAVIANA",
    "tel": "5585*****415",
    "criado": "12:51",
@@ -663,6 +655,28 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Pedro Ivo💙",
+   "tel": "5586*****488",
+   "criado": "12:58",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": ".",
+   "tel": "5514*****527",
+   "criado": "12:02",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Gleyce",
