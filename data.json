@@ -1,17 +1,17 @@
 {
- "gerado_em": "22/07/2026, 12:28",
+ "gerado_em": "22/07/2026, 12:43",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
+  "total": 23,
   "no_sla": 16,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 227,
-  "tickets_abertos": 78,
+  "leads_7d": 228,
+  "tickets_abertos": 79,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 5
+  },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 5
@@ -38,10 +42,6 @@
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 5
-  },
-  {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 4
   },
   {
    "url": "fb.me/4EDzR2aSz",
@@ -62,28 +62,35 @@
  ],
  "areas": {
   "Trabalhista": 14,
-  "Nao identificada": 8
+  "Nao identificada": 9
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Ray",
+   "tel": "5561*****747",
+   "criado": "12:30",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 168,
-  "turnos": 505,
-  "respondidos": 498,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 22.9,
+  "turnos": 508,
+  "respondidos": 502,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 22.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 229,
-    "mediana_min": 33.1
+    "respostas": 231,
+    "mediana_min": 32.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 175,
-    "mediana_min": 31
+    "respostas": 177,
+    "mediana_min": 30.8
    },
    {
     "nome": "Eduardo",
@@ -117,12 +124,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "22/07",
-    "desde": "12:09",
-    "ts": 1784732967850
-   },
    {
     "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
     "dia": "22/07",
@@ -177,6 +178,13 @@
     "dia": "21/07",
     "desde": "15:42",
     "ts": 1784659373252
+   },
+   {
+    "nome": "Ray",
+    "tel": "5561*****747",
+    "dia": "22/07",
+    "desde": "12:30",
+    "ts": 1784734226567
    }
   ],
   "grupos": [
@@ -215,12 +223,6 @@
     "dia": "22/07",
     "desde": "11:52",
     "ts": 1784731977724
-   },
-   {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "22/07",
-    "desde": "12:09",
-    "ts": 1784732967850
    }
   ]
  },
@@ -606,16 +608,16 @@
  },
  "agora": {
   "fila": 25,
-  "abertos": 78,
-  "com_atendimento": 5,
+  "abertos": 79,
+  "com_atendimento": 6,
   "online": 5,
   "offline": 3,
   "ausentes": 1,
   "espera_media_s": 13437
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T15:02:03.063Z",
-  "min_sem_lead": 26
+  "ultimo_lead_at": "2026-07-15T20:10:29.023Z",
+  "min_sem_lead": 9813
  },
  "leads": [
   {
@@ -628,6 +630,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "me amoooooo muito!!!😘@",
+   "tel": "5521*****899",
+   "criado": "12:02",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Ray",
+   "tel": "5561*****747",
+   "criado": "12:30",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
   },
   {
    "nome": "Ana 😘",
@@ -644,17 +668,6 @@
    "nome": "Gilvan Araujo",
    "tel": "5531*****812",
    "criado": "11:05",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "me amoooooo muito!!!😘@",
-   "tel": "5521*****899",
-   "criado": "12:02",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
