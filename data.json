@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/07/2026, 15:15",
+ "gerado_em": "22/07/2026, 15:30",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
-  "no_sla": 24,
+  "total": 34,
+  "no_sla": 25,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 4,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 238,
-  "tickets_abertos": 96,
+  "leads_7d": 239,
+  "tickets_abertos": 94,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 27,
+  "Anuncio": 28,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -50,7 +50,7 @@
   },
   {
    "url": "fb.me/4EDzR2aSz",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 19,
+  "Trabalhista": 20,
   "Nao identificada": 14
  },
  "sem_resposta_lista": [
@@ -94,10 +94,10 @@
   "dias": 7,
   "grupos_ativos": 170,
   "turnos": 552,
-  "respondidos": 543,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 20.3,
+  "respondidos": 544,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 20.4,
   "atendentes": [
    {
     "nome": "Julia",
@@ -106,8 +106,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 181,
-    "mediana_min": 28.6
+    "respostas": 182,
+    "mediana_min": 29.7
    },
    {
     "nome": "Eduardo",
@@ -142,16 +142,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.F.B x CONSTRUTORA ALAIATE LTDA",
-    "dia": "22/07",
-    "desde": "15:11",
-    "ts": 1784743899020
-   },
-   {
     "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
     "dia": "22/07",
     "desde": "14:56",
     "ts": 1784743013001
+   },
+   {
+    "grupo": "D.F.D.S x TOKIO MARINE SEGURADORA S/A",
+    "dia": "22/07",
+    "desde": "14:49",
+    "ts": 1784742591991
    },
    {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
@@ -188,12 +188,6 @@
     "dia": "21/07",
     "desde": "12:19",
     "ts": 1784647171172
-   },
-   {
-    "grupo": "A.F.D.S x INSS",
-    "dia": "21/07",
-    "desde": "10:55",
-    "ts": 1784642125185
    }
   ]
  },
@@ -224,12 +218,6 @@
   ],
   "grupos": [
    {
-    "grupo": "A.F.D.S x INSS",
-    "dia": "21/07",
-    "desde": "10:55",
-    "ts": 1784642125185
-   },
-   {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
     "dia": "21/07",
     "desde": "12:19",
@@ -266,16 +254,16 @@
     "ts": 1784735649767
    },
    {
+    "grupo": "D.F.D.S x TOKIO MARINE SEGURADORA S/A",
+    "dia": "22/07",
+    "desde": "14:49",
+    "ts": 1784742591991
+   },
+   {
     "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
     "dia": "22/07",
     "desde": "14:56",
     "ts": 1784743013001
-   },
-   {
-    "grupo": "R.F.B x CONSTRUTORA ALAIATE LTDA",
-    "dia": "22/07",
-    "desde": "15:11",
-    "ts": 1784743899020
    }
   ]
  },
@@ -660,19 +648,30 @@
   ]
  },
  "agora": {
-  "fila": 25,
-  "abertos": 96,
+  "fila": 26,
+  "abertos": 94,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 3,
+  "online": 5,
+  "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 11737
+  "espera_media_s": 11929
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 653936
+  "ultimo_lead_at": "2026-07-22T18:23:34.688Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "paludonilva938",
+   "tel": "5549*****491",
+   "criado": "15:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Maria Eduarda ",
    "tel": "5514*****379",
@@ -682,6 +681,28 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Dressa Santos 💋",
+   "tel": "5571*****031",
+   "criado": "13:47",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Marden Machado",
+   "tel": "5567*****442",
+   "criado": "13:01",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
   },
   {
@@ -718,17 +739,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Dressa Santos 💋",
-   "tel": "5571*****031",
-   "criado": "13:47",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Francisco e Vitória ❤️👩‍❤️‍👨",
    "tel": "5586*****520",
    "criado": "13:23",
@@ -737,17 +747,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/dc5RfTfpv",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Marden Machado",
-   "tel": "5567*****442",
-   "criado": "13:01",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
   },
   {
