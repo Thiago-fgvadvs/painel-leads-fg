@@ -1,28 +1,33 @@
 {
- "gerado_em": "22/07/2026, 09:25",
+ "gerado_em": "22/07/2026, 09:40",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 5,
+  "total": 11,
+  "no_sla": 6,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 3,
+  "sem_resposta": 0,
+  "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 215,
+  "leads_7d": 216,
   "tickets_abertos": 119,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 8,
+   "leads": 9,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Eduardo",
+   "leads": 1,
+   "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -43,40 +48,37 @@
    "leads": 1
   },
   {
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 8,
   "Nao identificada": 3
  },
- "sem_resposta_lista": [
-  {
-   "nome": "Léo",
-   "tel": "5519*****704",
-   "criado": "05:16",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 161,
-  "turnos": 455,
-  "respondidos": 448,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 24.2,
+  "turnos": 460,
+  "respondidos": 454,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 24,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 203,
+    "respostas": 205,
     "mediana_min": 33.1
    },
    {
     "nome": "Nicolas",
-    "respostas": 172,
+    "respostas": 174,
     "mediana_min": 30.9
    },
    {
@@ -91,7 +93,7 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 11,
+    "respostas": 12,
     "mediana_min": 5.7
    },
    {
@@ -101,7 +103,7 @@
    },
    {
     "nome": "—",
-    "respostas": 3,
+    "respostas": 4,
     "mediana_min": 0.7
    },
    {
@@ -111,12 +113,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "F.S x FLORENCE INDUSTRIAL E COMERCIAL LTDA",
-    "dia": "22/07",
-    "desde": "09:06",
-    "ts": 1784722009671
-   },
    {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
     "dia": "22/07",
@@ -171,13 +167,6 @@
     "dia": "21/07",
     "desde": "15:42",
     "ts": 1784659373252
-   },
-   {
-    "nome": "Léo",
-    "tel": "5519*****704",
-    "dia": "22/07",
-    "desde": "05:16",
-    "ts": 1784708182896
    }
   ],
   "grupos": [
@@ -216,12 +205,6 @@
     "dia": "22/07",
     "desde": "08:21",
     "ts": 1784719263650
-   },
-   {
-    "grupo": "F.S x FLORENCE INDUSTRIAL E COMERCIAL LTDA",
-    "dia": "22/07",
-    "desde": "09:06",
-    "ts": 1784722009671
    }
   ]
  },
@@ -597,26 +580,26 @@
   ]
  },
  "agora": {
-  "fila": 24,
+  "fila": 23,
   "abertos": 119,
-  "com_atendimento": 7,
-  "online": 4,
+  "com_atendimento": 6,
+  "online": 5,
   "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 22940
+  "ausentes": 2,
+  "espera_media_s": 22598
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T12:15:23.722Z",
-  "min_sem_lead": 10
+  "ultimo_lead_at": "2026-07-21T17:37:45.458Z",
+  "min_sem_lead": 1143
  },
  "leads": [
   {
-   "nome": "tn896271",
-   "tel": "5585*****962",
-   "criado": "09:15",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
+   "nome": "Léo",
+   "tel": "5519*****704",
+   "criado": "05:16",
+   "atendente": "Eduardo",
+   "espera_min": 262.8,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4EDzR2aSz",
    "area": "Trabalhista"
@@ -641,6 +624,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "tn896271",
+   "tel": "5585*****962",
+   "criado": "09:15",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Marcia",
+   "tel": "5521*****614",
+   "criado": "09:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
    "area": "Trabalhista"
   },
   {
@@ -685,17 +690,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Léo",
-   "tel": "5519*****704",
-   "criado": "05:16",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4EDzR2aSz",
    "area": "Trabalhista"
   },
   {
