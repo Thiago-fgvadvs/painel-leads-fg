@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/07/2026, 09:55",
+ "gerado_em": "22/07/2026, 10:10",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 6,
+  "total": 13,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 216,
-  "tickets_abertos": 123,
+  "leads_7d": 218,
+  "tickets_abertos": 126,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 9,
+   "leads": 11,
    "mediana_min": 0.4
   },
   {
@@ -27,28 +27,28 @@
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 12,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 3
+  },
   {
    "url": "fb.me/4EDzR2aSz",
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DYhcT7SDBWR/",
-   "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "fb.me/9Pf9FTshS",
    "leads": 1
   },
   {
-   "url": "fb.me/9Pf9FTshS",
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 1
   },
   {
@@ -57,24 +57,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 8
+  "Trabalhista": 9,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 162,
-  "turnos": 471,
-  "respondidos": 463,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 25.3,
+  "turnos": 476,
+  "respondidos": 466,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 24.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 213,
-    "mediana_min": 34.3
+    "respostas": 214,
+    "mediana_min": 33.9
    },
    {
     "nome": "Nicolas",
@@ -93,8 +93,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 13,
-    "mediana_min": 5.7
+    "respostas": 15,
+    "mediana_min": 5.6
    },
    {
     "nome": "Thauany",
@@ -114,10 +114,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.S.V.D.S x MY SUSTENTABILIDADE LTDA",
+    "grupo": "F.V.D.M x IRMANDADE DA SANTA CASA DE LONDRINA",
     "dia": "22/07",
-    "desde": "09:44",
-    "ts": 1784724260694
+    "desde": "10:05",
+    "ts": 1784725540709
+   },
+   {
+    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "dia": "22/07",
+    "desde": "10:05",
+    "ts": 1784725521619
+   },
+   {
+    "grupo": "F.S x FLORENCE INDUSTRIAL E COMERCIAL LTDA",
+    "dia": "22/07",
+    "desde": "09:37",
+    "ts": 1784723876667
    },
    {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
@@ -225,10 +237,22 @@
     "ts": 1784719943655
    },
    {
-    "grupo": "E.S.V.D.S x MY SUSTENTABILIDADE LTDA",
+    "grupo": "F.S x FLORENCE INDUSTRIAL E COMERCIAL LTDA",
     "dia": "22/07",
-    "desde": "09:44",
-    "ts": 1784724260694
+    "desde": "09:37",
+    "ts": 1784723876667
+   },
+   {
+    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "dia": "22/07",
+    "desde": "10:05",
+    "ts": 1784725521619
+   },
+   {
+    "grupo": "F.V.D.M x IRMANDADE DA SANTA CASA DE LONDRINA",
+    "dia": "22/07",
+    "desde": "10:05",
+    "ts": 1784725540709
    }
   ]
  },
@@ -604,19 +628,52 @@
   ]
  },
  "agora": {
-  "fila": 21,
-  "abertos": 123,
-  "com_atendimento": 7,
-  "online": 6,
+  "fila": 23,
+  "abertos": 126,
+  "com_atendimento": 8,
+  "online": 3,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 22598
+  "ausentes": 4,
+  "espera_media_s": 22096
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T12:08:57.086Z",
-  "min_sem_lead": 47
+  "ultimo_lead_at": "2026-06-09T14:20:41.789Z",
+  "min_sem_lead": 61850
  },
  "leads": [
+  {
+   "nome": ".",
+   "tel": "5521*****037",
+   "criado": "10:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Marcia",
+   "tel": "5521*****614",
+   "criado": "09:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "😎",
+   "tel": "5571*****765",
+   "criado": "09:57",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Erika Pereira",
    "tel": "5548*****695",
@@ -670,17 +727,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4EDzR2aSz",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Marcia",
-   "tel": "5521*****614",
-   "criado": "09:28",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
    "area": "Trabalhista"
   },
   {
