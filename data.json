@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/07/2026, 18:34",
+ "gerado_em": "22/07/2026, 18:49",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 41,
-  "no_sla": 32,
+  "total": 42,
+  "no_sla": 33,
   "fora_sla": 3,
   "sem_resposta": 0,
   "fora_horario": 4,
-  "pct_sla": 91,
+  "pct_sla": 92,
   "mediana_geral": 0.4,
-  "leads_7d": 246,
-  "tickets_abertos": 98,
+  "leads_7d": 247,
+  "tickets_abertos": 99,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 34,
+   "leads": 35,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 35,
+  "Anuncio": 36,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -50,7 +50,7 @@
   },
   {
    "url": "fb.me/4EDzR2aSz",
-   "leads": 4
+   "leads": 5
   },
   {
    "url": "fb.me/dc5RfTfpv",
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 24,
+  "Trabalhista": 25,
   "Nao identificada": 17
  },
  "sem_resposta_lista": [],
@@ -612,19 +612,30 @@
   ]
  },
  "agora": {
-  "fila": 28,
-  "abertos": 98,
+  "fila": 29,
+  "abertos": 99,
   "com_atendimento": 6,
-  "online": 0,
-  "offline": 8,
+  "online": 1,
+  "offline": 7,
   "ausentes": 1,
-  "espera_media_s": 10692
+  "espera_media_s": 10541
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T20:03:58.865Z",
-  "min_sem_lead": 90
+  "ultimo_lead_at": "2026-07-22T21:39:47.985Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "Daniel tec cell",
+   "tel": "5596*****970",
+   "criado": "18:39",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Leandro",
    "tel": "5527*****559",
@@ -637,17 +648,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Lavinha Peres",
-   "tel": "5585*****415",
-   "criado": "12:51",
-   "atendente": "Eduardo",
-   "espera_min": 0.2,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": ".",
    "tel": "5514*****527",
    "criado": "12:02",
@@ -657,6 +657,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Lavinha Peres",
+   "tel": "5585*****415",
+   "criado": "12:51",
+   "atendente": "Eduardo",
+   "espera_min": 0.2,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Deus acima de tudo",
@@ -1055,9 +1066,9 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511917594210",
-   "tel": "5511*****210",
-   "criado": "07:56",
+   "nome": "samantha💕",
+   "tel": "5511*****638",
+   "criado": "12:43",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -1066,9 +1077,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "samantha💕",
-   "tel": "5511*****638",
-   "criado": "12:43",
+   "nome": "5511917594210",
+   "tel": "5511*****210",
+   "criado": "07:56",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
