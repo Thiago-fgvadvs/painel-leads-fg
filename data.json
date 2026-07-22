@@ -1,17 +1,17 @@
 {
- "gerado_em": "22/07/2026, 12:43",
+ "gerado_em": "22/07/2026, 12:58",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
-  "no_sla": 16,
-  "fora_sla": 0,
-  "sem_resposta": 1,
+  "total": 26,
+  "no_sla": 18,
+  "fora_sla": 1,
+  "sem_resposta": 0,
   "fora_horario": 4,
-  "pct_sla": 100,
+  "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 228,
-  "tickets_abertos": 79,
+  "leads_7d": 231,
+  "tickets_abertos": 82,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,13 +22,18 @@
   },
   {
    "nome": "Eduardo",
+   "leads": 3,
+   "mediana_min": 0.4
+  },
+  {
+   "nome": "Tiago Bernardo",
    "leads": 1,
-   "mediana_min": null
+   "mediana_min": 25.1
   }
  ],
  "origem": {
   "Anuncio": 21,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
@@ -61,36 +66,37 @@
   }
  ],
  "areas": {
-  "Trabalhista": 14,
-  "Nao identificada": 9
+  "Nao identificada": 12,
+  "Trabalhista": 14
  },
- "sem_resposta_lista": [
+ "sem_resposta_lista": [],
+ "fora_sla_lista": [
   {
    "nome": "Ray",
    "tel": "5561*****747",
    "criado": "12:30",
-   "area": "Nao identificada"
+   "espera_min": 25.1,
+   "atendente": "Tiago Bernardo"
   }
  ],
- "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 168,
-  "turnos": 508,
-  "respondidos": 502,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "turnos": 512,
+  "respondidos": 505,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 22.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 231,
+    "respostas": 233,
     "mediana_min": 32.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 177,
-    "mediana_min": 30.8
+    "respostas": 178,
+    "mediana_min": 30.9
    },
    {
     "nome": "Eduardo",
@@ -125,6 +131,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
+    "dia": "22/07",
+    "desde": "12:54",
+    "ts": 1784735656768
+   },
+   {
+    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "dia": "22/07",
+    "desde": "12:54",
+    "ts": 1784735649767
+   },
+   {
     "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
     "dia": "22/07",
     "desde": "11:52",
@@ -135,12 +153,6 @@
     "dia": "22/07",
     "desde": "11:46",
     "ts": 1784731574819
-   },
-   {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
-    "dia": "22/07",
-    "desde": "11:10",
-    "ts": 1784729455779
    },
    {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
@@ -178,13 +190,6 @@
     "dia": "21/07",
     "desde": "15:42",
     "ts": 1784659373252
-   },
-   {
-    "nome": "Ray",
-    "tel": "5561*****747",
-    "dia": "22/07",
-    "desde": "12:30",
-    "ts": 1784734226567
    }
   ],
   "grupos": [
@@ -199,12 +204,6 @@
     "dia": "21/07",
     "desde": "12:19",
     "ts": 1784647171172
-   },
-   {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
-    "dia": "22/07",
-    "desde": "11:10",
-    "ts": 1784729455779
    },
    {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
@@ -223,6 +222,18 @@
     "dia": "22/07",
     "desde": "11:52",
     "ts": 1784731977724
+   },
+   {
+    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "dia": "22/07",
+    "desde": "12:54",
+    "ts": 1784735649767
+   },
+   {
+    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
+    "dia": "22/07",
+    "desde": "12:54",
+    "ts": 1784735656768
    }
   ]
  },
@@ -607,19 +618,30 @@
   ]
  },
  "agora": {
-  "fila": 25,
-  "abertos": 79,
+  "fila": 24,
+  "abertos": 82,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 4,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 13437
+  "ausentes": 2,
+  "espera_media_s": 13220
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-15T20:10:29.023Z",
-  "min_sem_lead": 9813
+  "min_sem_lead": 9828
  },
  "leads": [
+  {
+   "nome": "Ray",
+   "tel": "5561*****747",
+   "criado": "12:30",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 25.1,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
   {
    "nome": ".",
    "tel": "5514*****527",
@@ -632,6 +654,28 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "OLAVIANA",
+   "tel": "5585*****415",
+   "criado": "12:51",
+   "atendente": "Eduardo",
+   "espera_min": 0.2,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Gleyce",
+   "tel": "5585*****219",
+   "criado": "12:48",
+   "atendente": "Eduardo",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
    "nome": "me amoooooo muito!!!😘@",
    "tel": "5521*****899",
    "criado": "12:02",
@@ -640,17 +684,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Ray",
-   "tel": "5561*****747",
-   "criado": "12:30",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
   },
   {
@@ -850,6 +883,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "samantha💕",
+   "tel": "5511*****638",
+   "criado": "12:43",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "553188548986",
