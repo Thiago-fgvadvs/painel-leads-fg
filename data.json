@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/07/2026, 18:18",
+ "gerado_em": "22/07/2026, 18:34",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 91,
   "mediana_geral": 0.4,
   "leads_7d": 246,
-  "tickets_abertos": 99,
+  "tickets_abertos": 98,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 17,
-  "Trabalhista": 24
+  "Trabalhista": 24,
+  "Nao identificada": 17
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -149,16 +149,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "E.I.R.T.D.S x V N SILVA CONSTRUCAO CIVIL LTDA",
+    "dia": "22/07",
+    "desde": "18:32",
+    "ts": 1784755971195
+   },
+   {
     "grupo": "S.R.D.S x FIBRA NEGOCIOS E SERVICOS LTDA",
     "dia": "22/07",
     "desde": "18:10",
     "ts": 1784754648150
-   },
-   {
-    "grupo": "T.K.D.S.T x FUNDACAO GESTAO HOSPITALAR MARTINIANO FERNANDES - FGH",
-    "dia": "22/07",
-    "desde": "18:07",
-    "ts": 1784754452183
    },
    {
     "grupo": "A.J.P.B",
@@ -218,16 +218,16 @@
     "ts": 1784731574819
    },
    {
-    "grupo": "T.K.D.S.T x FUNDACAO GESTAO HOSPITALAR MARTINIANO FERNANDES - FGH",
-    "dia": "22/07",
-    "desde": "18:07",
-    "ts": 1784754452183
-   },
-   {
     "grupo": "S.R.D.S x FIBRA NEGOCIOS E SERVICOS LTDA",
     "dia": "22/07",
     "desde": "18:10",
     "ts": 1784754648150
+   },
+   {
+    "grupo": "E.I.R.T.D.S x V N SILVA CONSTRUCAO CIVIL LTDA",
+    "dia": "22/07",
+    "desde": "18:32",
+    "ts": 1784755971195
    }
   ]
  },
@@ -613,18 +613,29 @@
  },
  "agora": {
   "fila": 28,
-  "abertos": 99,
+  "abertos": 98,
   "com_atendimento": 6,
-  "online": 1,
-  "offline": 7,
+  "online": 0,
+  "offline": 8,
   "ausentes": 1,
   "espera_media_s": 10692
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-14T23:50:58.354Z",
-  "min_sem_lead": 11368
+  "ultimo_lead_at": "2026-07-22T20:03:58.865Z",
+  "min_sem_lead": 90
  },
  "leads": [
+  {
+   "nome": "Leandro",
+   "tel": "5527*****559",
+   "criado": "17:03",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4f2wMcRQZ",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Lavinha Peres",
    "tel": "5585*****415",
@@ -635,17 +646,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Deus acima de tudo",
-   "tel": "5548*****669",
-   "criado": "17:41",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
   },
   {
    "nome": ".",
@@ -659,6 +659,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "Deus acima de tudo",
+   "tel": "5548*****669",
+   "criado": "17:41",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "Thayna",
    "tel": "5521*****979",
    "criado": "07:43",
@@ -667,17 +678,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Leandro",
-   "tel": "5527*****559",
-   "criado": "17:03",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4f2wMcRQZ",
    "area": "Trabalhista"
   },
   {
