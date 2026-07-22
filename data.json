@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/07/2026, 16:01",
+ "gerado_em": "22/07/2026, 16:16",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 38,
   "no_sla": 29,
-  "fora_sla": 2,
+  "fora_sla": 3,
   "sem_resposta": 0,
   "fora_horario": 4,
-  "pct_sla": 94,
+  "pct_sla": 91,
   "mediana_geral": 0.4,
   "leads_7d": 243,
-  "tickets_abertos": 94,
+  "tickets_abertos": 95,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 30,
+   "leads": 31,
    "mediana_min": 0.4
   },
   {
@@ -41,11 +41,11 @@
    "leads": 9
   },
   {
-   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 6
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 6
   },
   {
@@ -70,11 +70,18 @@
   }
  ],
  "areas": {
-  "Trabalhista": 22,
-  "Nao identificada": 16
+  "Nao identificada": 16,
+  "Trabalhista": 22
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
+  {
+   "nome": "553188548986",
+   "tel": "5531*****986",
+   "criado": "12:19",
+   "espera_min": 233.3,
+   "atendente": "Fernanda Gehm - Administradora"
+  },
   {
    "nome": "Suehllem Fagá 🍀✨",
    "tel": "5511*****238",
@@ -92,22 +99,22 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 171,
-  "turnos": 553,
-  "respondidos": 548,
+  "grupos_ativos": 172,
+  "turnos": 556,
+  "respondidos": 551,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 20.6,
+  "mediana_min": 20.5,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 249,
-    "mediana_min": 33.5
+    "respostas": 251,
+    "mediana_min": 33.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 183,
-    "mediana_min": 30.8
+    "respostas": 184,
+    "mediana_min": 30.9
    },
    {
     "nome": "Eduardo",
@@ -142,10 +149,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
     "dia": "22/07",
-    "desde": "14:56",
-    "ts": 1784743013001
+    "desde": "16:06",
+    "ts": 1784747176055
    },
    {
     "grupo": "A.J.P.B",
@@ -217,10 +224,10 @@
     "ts": 1784731574819
    },
    {
-    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
     "dia": "22/07",
-    "desde": "14:56",
-    "ts": 1784743013001
+    "desde": "16:06",
+    "ts": 1784747176055
    }
   ]
  },
@@ -605,19 +612,30 @@
   ]
  },
  "agora": {
-  "fila": 27,
-  "abertos": 94,
+  "fila": 28,
+  "abertos": 95,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 4,
   "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 11073
+  "ausentes": 2,
+  "espera_media_s": 11003
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-16T12:50:50.881Z",
-  "min_sem_lead": 9011
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 653997
  },
  "leads": [
+  {
+   "nome": "Jonas Silveira",
+   "tel": "5551*****931",
+   "criado": "15:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/dc5RfTfpv",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Paola Baesso",
    "tel": "5524*****015",
@@ -627,6 +645,39 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Eliane",
+   "tel": "5562*****067",
+   "criado": "15:43",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553188548986",
+   "tel": "5531*****986",
+   "criado": "12:19",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 233.3,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "paludonilva938",
+   "tel": "5549*****491",
+   "criado": "15:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
    "area": "Trabalhista"
   },
   {
@@ -649,39 +700,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Jonas Silveira",
-   "tel": "5551*****931",
-   "criado": "15:49",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/dc5RfTfpv",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Eliane",
-   "tel": "5562*****067",
-   "criado": "15:43",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "paludonilva938",
-   "tel": "5549*****491",
-   "criado": "15:23",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4EDzR2aSz",
    "area": "Trabalhista"
   },
   {
@@ -729,7 +747,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "OLAVIANA",
+   "nome": "Lavinha Peres",
    "tel": "5585*****415",
    "criado": "12:51",
    "atendente": "Eduardo",
@@ -1007,17 +1025,6 @@
    "nome": "samantha💕",
    "tel": "5511*****638",
    "criado": "12:43",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553188548986",
-   "tel": "5531*****986",
-   "criado": "12:19",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
