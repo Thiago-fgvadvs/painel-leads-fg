@@ -1,31 +1,35 @@
 {
- "gerado_em": "22/07/2026, 08:54",
+ "gerado_em": "22/07/2026, 09:10",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 2,
+  "total": 9,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 212,
-  "tickets_abertos": 116,
+  "leads_7d": 214,
+  "tickets_abertos": 119,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 5,
+   "leads": 7,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 8,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/4EDzR2aSz",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 2
@@ -35,7 +39,7 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4EDzR2aSz",
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 1
   },
   {
@@ -44,12 +48,12 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 5
+  "Nao identificada": 3,
+  "Trabalhista": 6
  },
  "sem_resposta_lista": [
   {
-   "nome": "5519920135704",
+   "nome": "Léo",
    "tel": "5519*****704",
    "criado": "05:16",
    "area": "Trabalhista"
@@ -58,11 +62,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 158,
-  "turnos": 452,
+  "grupos_ativos": 159,
+  "turnos": 453,
   "respondidos": 445,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 24.1,
   "atendentes": [
    {
@@ -112,6 +116,12 @@
     "dia": "22/07",
     "desde": "08:21",
     "ts": 1784719263650
+   },
+   {
+    "grupo": "E.M x FUNDAÇÃO BRADESCO",
+    "dia": "22/07",
+    "desde": "08:39",
+    "ts": 1784720349632
    },
    {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
@@ -169,7 +179,7 @@
     "ts": 1784659373252
    },
    {
-    "nome": "5519920135704",
+    "nome": "Léo",
     "tel": "5519*****704",
     "dia": "22/07",
     "desde": "05:16",
@@ -218,6 +228,12 @@
     "dia": "22/07",
     "desde": "08:21",
     "ts": 1784719263650
+   },
+   {
+    "grupo": "E.M x FUNDAÇÃO BRADESCO",
+    "dia": "22/07",
+    "desde": "08:39",
+    "ts": 1784720349632
    }
   ]
  },
@@ -593,21 +609,43 @@
   ]
  },
  "agora": {
-  "fila": 22,
-  "abertos": 116,
+  "fila": 25,
+  "abertos": 119,
   "com_atendimento": 6,
-  "online": 3,
-  "offline": 6,
+  "online": 5,
+  "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 23486
+  "espera_media_s": 22940
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T01:01:50.547Z",
-  "min_sem_lead": 653
+  "ultimo_lead_at": "2026-07-22T12:08:57.086Z",
+  "min_sem_lead": 1
  },
  "leads": [
   {
-   "nome": "5511949340693",
+   "nome": "Erika Pereira",
+   "tel": "5548*****695",
+   "criado": "09:08",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Roberto",
+   "tel": "5521*****477",
+   "criado": "09:08",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Braziliovi",
    "tel": "5511*****693",
    "criado": "08:23",
    "atendente": "Fernanda Gehm - Administradora",
@@ -651,7 +689,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5519920135704",
+   "nome": "Léo",
    "tel": "5519*****704",
    "criado": "05:16",
    "atendente": "—",
