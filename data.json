@@ -1,38 +1,38 @@
 {
- "gerado_em": "22/07/2026, 08:09",
+ "gerado_em": "22/07/2026, 08:24",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 1,
+  "total": 7,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 211,
-  "tickets_abertos": 116,
+  "leads_7d": 212,
+  "tickets_abertos": 117,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 1
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 2
   },
   {
    "url": "fb.me/4EDzR2aSz",
@@ -44,8 +44,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
-  "Nao identificada": 1
+  "Nao identificada": 2,
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [
   {
@@ -59,10 +59,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 157,
-  "turnos": 451,
+  "turnos": 452,
   "respondidos": 445,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 24.1,
   "atendentes": [
    {
@@ -107,6 +107,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
+    "dia": "22/07",
+    "desde": "08:21",
+    "ts": 1784719263650
+   },
    {
     "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
     "dia": "21/07",
@@ -206,6 +212,12 @@
     "dia": "21/07",
     "desde": "18:27",
     "ts": 1784669269540
+   },
+   {
+    "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
+    "dia": "22/07",
+    "desde": "08:21",
+    "ts": 1784719263650
    }
   ]
  },
@@ -581,19 +593,41 @@
   ]
  },
  "agora": {
-  "fila": 21,
-  "abertos": 116,
+  "fila": 22,
+  "abertos": 117,
   "com_atendimento": 6,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 23769
+  "espera_media_s": 23486
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T11:06:47.010Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-07-22T11:23:39.590Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "5511949340693",
+   "tel": "5511*****693",
+   "criado": "08:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Lari A.",
+   "tel": "5511*****487",
+   "criado": "05:03",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "vivo por vc luan💙",
    "tel": "5561*****538",
@@ -614,17 +648,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Lari A.",
-   "tel": "5511*****487",
-   "criado": "05:03",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
   },
   {
