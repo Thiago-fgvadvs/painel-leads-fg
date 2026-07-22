@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/07/2026, 10:41",
+ "gerado_em": "22/07/2026, 10:56",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 221,
-  "tickets_abertos": 126,
+  "tickets_abertos": 125,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -36,11 +36,11 @@
    "leads": 5
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "url": "fb.me/4EDzR2aSz",
    "leads": 3
   },
   {
-   "url": "fb.me/4EDzR2aSz",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 3
   },
   {
@@ -57,24 +57,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 12,
-  "Nao identificada": 4
+  "Nao identificada": 4,
+  "Trabalhista": 12
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 163,
-  "turnos": 481,
-  "respondidos": 474,
+  "grupos_ativos": 164,
+  "turnos": 489,
+  "respondidos": 482,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 24.8,
+  "mediana_min": 23.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 219,
-    "mediana_min": 33.5
+    "respostas": 221,
+    "mediana_min": 33.2
    },
    {
     "nome": "Nicolas",
@@ -87,14 +87,14 @@
     "mediana_min": 12.1
    },
    {
+    "nome": "Luisa",
+    "respostas": 22,
+    "mediana_min": 3.3
+   },
+   {
     "nome": "Gabrielle",
     "respostas": 21,
     "mediana_min": 3.9
-   },
-   {
-    "nome": "Luisa",
-    "respostas": 16,
-    "mediana_min": 5.7
    },
    {
     "nome": "Thauany",
@@ -114,16 +114,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.G.D.S.F x BANCO BRADESCO S.A.",
-    "dia": "22/07",
-    "desde": "10:40",
-    "ts": 1784727605751
-   },
-   {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
     "dia": "22/07",
-    "desde": "10:26",
-    "ts": 1784726802644
+    "desde": "10:53",
+    "ts": 1784728416778
+   },
+   {
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "dia": "22/07",
+    "desde": "10:48",
+    "ts": 1784728081773
    },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -207,16 +207,16 @@
     "ts": 1784647171172
    },
    {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
     "dia": "22/07",
-    "desde": "10:26",
-    "ts": 1784726802644
+    "desde": "10:48",
+    "ts": 1784728081773
    },
    {
-    "grupo": "L.G.D.S.F x BANCO BRADESCO S.A.",
+    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
     "dia": "22/07",
-    "desde": "10:40",
-    "ts": 1784727605751
+    "desde": "10:53",
+    "ts": 1784728416778
    }
   ]
  },
@@ -592,19 +592,30 @@
   ]
  },
  "agora": {
-  "fila": 24,
-  "abertos": 126,
+  "fila": 23,
+  "abertos": 125,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 3,
-  "ausentes": 2,
+  "online": 7,
+  "offline": 2,
+  "ausentes": 0,
   "espera_media_s": 21385
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T13:21:03.822Z",
-  "min_sem_lead": 20
+  "ultimo_lead_at": "2026-07-22T12:08:57.086Z",
+  "min_sem_lead": 108
  },
  "leads": [
+  {
+   "nome": "Erika Pereira",
+   "tel": "5548*****695",
+   "criado": "09:08",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Ana 😘",
    "tel": "5564*****125",
@@ -614,6 +625,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Léo",
+   "tel": "5519*****704",
+   "criado": "05:16",
+   "atendente": "Eduardo",
+   "espera_min": 262.8,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": ".",
+   "tel": "5521*****037",
+   "criado": "10:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
   },
   {
@@ -639,17 +672,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": ".",
-   "tel": "5521*****037",
-   "criado": "10:00",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "😎",
    "tel": "5571*****765",
    "criado": "09:57",
@@ -661,17 +683,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Erika Pereira",
-   "tel": "5548*****695",
-   "criado": "09:08",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Marcia",
    "tel": "5521*****614",
    "criado": "09:28",
@@ -680,17 +691,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Léo",
-   "tel": "5519*****704",
-   "criado": "05:16",
-   "atendente": "Eduardo",
-   "espera_min": 262.8,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4EDzR2aSz",
    "area": "Trabalhista"
   },
   {
