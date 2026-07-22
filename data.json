@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/07/2026, 16:16",
+ "gerado_em": "22/07/2026, 16:32",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 38,
-  "no_sla": 29,
+  "total": 39,
+  "no_sla": 30,
   "fora_sla": 3,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 91,
   "mediana_geral": 0.4,
-  "leads_7d": 243,
-  "tickets_abertos": 95,
+  "leads_7d": 244,
+  "tickets_abertos": 96,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 31,
+   "leads": 32,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 32,
+  "Anuncio": 33,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -42,7 +42,7 @@
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 6
+   "leads": 7
   },
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 16,
-  "Trabalhista": 22
+  "Trabalhista": 22,
+  "Nao identificada": 17
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -99,22 +99,22 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 172,
-  "turnos": 556,
-  "respondidos": 551,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 20.5,
+  "grupos_ativos": 173,
+  "turnos": 562,
+  "respondidos": 558,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 20.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 251,
-    "mediana_min": 33.2
+    "respostas": 257,
+    "mediana_min": 32.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 184,
-    "mediana_min": 30.9
+    "respostas": 185,
+    "mediana_min": 31
    },
    {
     "nome": "Eduardo",
@@ -149,10 +149,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
+    "grupo": "J.B.D.M x INSS",
     "dia": "22/07",
-    "desde": "16:06",
-    "ts": 1784747176055
+    "desde": "15:52",
+    "ts": 1784746322054
    },
    {
     "grupo": "A.J.P.B",
@@ -165,12 +165,6 @@
     "dia": "22/07",
     "desde": "11:25",
     "ts": 1784730303808
-   },
-   {
-    "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
-    "dia": "21/07",
-    "desde": "15:32",
-    "ts": 1784658767323
    },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -206,12 +200,6 @@
     "ts": 1784647171172
    },
    {
-    "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
-    "dia": "21/07",
-    "desde": "15:32",
-    "ts": 1784658767323
-   },
-   {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
     "dia": "22/07",
     "desde": "11:25",
@@ -224,10 +212,10 @@
     "ts": 1784731574819
    },
    {
-    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
+    "grupo": "J.B.D.M x INSS",
     "dia": "22/07",
-    "desde": "16:06",
-    "ts": 1784747176055
+    "desde": "15:52",
+    "ts": 1784746322054
    }
   ]
  },
@@ -612,30 +600,19 @@
   ]
  },
  "agora": {
-  "fila": 28,
-  "abertos": 95,
-  "com_atendimento": 6,
+  "fila": 26,
+  "abertos": 96,
+  "com_atendimento": 7,
   "online": 4,
   "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 11003
+  "espera_media_s": 10692
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 653997
+  "ultimo_lead_at": "2026-07-22T15:58:33.606Z",
+  "min_sem_lead": 213
  },
  "leads": [
-  {
-   "nome": "Jonas Silveira",
-   "tel": "5551*****931",
-   "criado": "15:49",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/dc5RfTfpv",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Paola Baesso",
    "tel": "5524*****015",
@@ -646,6 +623,61 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "paludonilva938",
+   "tel": "5549*****491",
+   "criado": "15:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Gilvan Araujo",
+   "tel": "5531*****812",
+   "criado": "11:05",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Fabiana Vieira Master Terapeuta TRG",
+   "tel": "5577*****546",
+   "criado": "16:20",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Maria Eduarda ",
+   "tel": "5514*****379",
+   "criado": "14:52",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Jonas Silveira",
+   "tel": "5551*****931",
+   "criado": "15:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/dc5RfTfpv",
+   "area": "Nao identificada"
   },
   {
    "nome": "Eliane",
@@ -668,28 +700,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "paludonilva938",
-   "tel": "5549*****491",
-   "criado": "15:23",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4EDzR2aSz",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Maria Eduarda ",
-   "tel": "5514*****379",
-   "criado": "14:52",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
   },
   {
    "nome": "Marcelo De Paula Martins🥰",
@@ -827,17 +837,6 @@
    "nome": "me amoooooo muito!!!😘@",
    "tel": "5521*****899",
    "criado": "12:02",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Gilvan Araujo",
-   "tel": "5531*****812",
-   "criado": "11:05",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
