@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/07/2026, 09:40",
+ "gerado_em": "22/07/2026, 09:55",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 216,
-  "tickets_abertos": 119,
+  "tickets_abertos": 123,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -57,24 +57,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
-  "Nao identificada": 3
+  "Nao identificada": 3,
+  "Trabalhista": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 161,
-  "turnos": 460,
-  "respondidos": 454,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 24,
+  "grupos_ativos": 162,
+  "turnos": 471,
+  "respondidos": 463,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 25.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 205,
-    "mediana_min": 33.1
+    "respostas": 213,
+    "mediana_min": 34.3
    },
    {
     "nome": "Nicolas",
@@ -93,7 +93,7 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 12,
+    "respostas": 13,
     "mediana_min": 5.7
    },
    {
@@ -114,10 +114,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "E.S.V.D.S x MY SUSTENTABILIDADE LTDA",
+    "dia": "22/07",
+    "desde": "09:44",
+    "ts": 1784724260694
+   },
+   {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
     "dia": "22/07",
     "desde": "08:21",
     "ts": 1784719263650
+   },
+   {
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "dia": "22/07",
+    "desde": "08:32",
+    "ts": 1784719943655
    },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -205,6 +217,18 @@
     "dia": "22/07",
     "desde": "08:21",
     "ts": 1784719263650
+   },
+   {
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "dia": "22/07",
+    "desde": "08:32",
+    "ts": 1784719943655
+   },
+   {
+    "grupo": "E.S.V.D.S x MY SUSTENTABILIDADE LTDA",
+    "dia": "22/07",
+    "desde": "09:44",
+    "ts": 1784724260694
    }
   ]
  },
@@ -580,19 +604,30 @@
   ]
  },
  "agora": {
-  "fila": 23,
-  "abertos": 119,
-  "com_atendimento": 6,
-  "online": 5,
+  "fila": 21,
+  "abertos": 123,
+  "com_atendimento": 7,
+  "online": 6,
   "offline": 2,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 22598
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T17:37:45.458Z",
-  "min_sem_lead": 1143
+  "ultimo_lead_at": "2026-07-22T12:08:57.086Z",
+  "min_sem_lead": 47
  },
  "leads": [
+  {
+   "nome": "Erika Pereira",
+   "tel": "5548*****695",
+   "criado": "09:08",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Léo",
    "tel": "5519*****704",
@@ -605,15 +640,15 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Erika Pereira",
-   "tel": "5548*****695",
-   "criado": "09:08",
+   "nome": "Lari A.",
+   "tel": "5511*****487",
+   "criado": "05:03",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
-   "status": "NO_SLA",
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Roberto",
@@ -668,17 +703,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Lari A.",
-   "tel": "5511*****487",
-   "criado": "05:03",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
   },
   {
