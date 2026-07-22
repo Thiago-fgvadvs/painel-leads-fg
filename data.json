@@ -1,31 +1,35 @@
 {
- "gerado_em": "22/07/2026, 07:38",
+ "gerado_em": "22/07/2026, 07:53",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
+  "total": 4,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 2,
+  "fora_horario": 3,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 208,
-  "tickets_abertos": 114,
+  "leads_7d": 209,
+  "tickets_abertos": 115,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 2,
+   "leads": 3,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 1
@@ -40,7 +44,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3
+  "Trabalhista": 4
  },
  "sem_resposta_lista": [
   {
@@ -576,19 +580,30 @@
   ]
  },
  "agora": {
-  "fila": 19,
-  "abertos": 114,
+  "fila": 20,
+  "abertos": 115,
   "com_atendimento": 6,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 24355
+  "espera_media_s": 24058
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 653479
+  "ultimo_lead_at": "2026-07-22T10:43:28.978Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "Thayna",
+   "tel": "5521*****979",
+   "criado": "07:43",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Lari A.",
    "tel": "5511*****487",
