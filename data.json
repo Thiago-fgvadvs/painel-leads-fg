@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/07/2026, 13:13",
+ "gerado_em": "22/07/2026, 13:28",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 28,
-  "no_sla": 20,
+  "total": 29,
+  "no_sla": 21,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 233,
-  "tickets_abertos": 84,
+  "leads_7d": 234,
+  "tickets_abertos": 87,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 24,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -57,20 +57,20 @@
    "leads": 2
   },
   {
+   "url": "fb.me/dc5RfTfpv",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DYVTAskDMJ6/",
    "leads": 1
   },
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9Pf9FTshS",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
+  "Trabalhista": 16,
   "Nao identificada": 13
  },
  "sem_resposta_lista": [],
@@ -86,8 +86,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 169,
-  "turnos": 512,
-  "respondidos": 506,
+  "turnos": 513,
+  "respondidos": 507,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 22.8,
@@ -99,8 +99,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 179,
-    "mediana_min": 30.8
+    "respostas": 180,
+    "mediana_min": 29.7
    },
    {
     "nome": "Eduardo",
@@ -611,18 +611,40 @@
  },
  "agora": {
   "fila": 25,
-  "abertos": 84,
+  "abertos": 87,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 5,
   "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 12757
+  "ausentes": 1,
+  "espera_media_s": 12538
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T16:01:33.931Z",
-  "min_sem_lead": 12
+  "ultimo_lead_at": "2026-07-22T16:23:40.593Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "Francisco e Vitória ❤️👩‍❤️‍👨",
+   "tel": "5586*****520",
+   "criado": "13:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/dc5RfTfpv",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "OLAVIANA",
+   "tel": "5585*****415",
+   "criado": "12:51",
+   "atendente": "Eduardo",
+   "espera_min": 0.2,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Marden Machado",
    "tel": "5567*****442",
@@ -643,17 +665,6 @@
    "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "OLAVIANA",
-   "tel": "5585*****415",
-   "criado": "12:51",
-   "atendente": "Eduardo",
-   "espera_min": 0.2,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Nao identificada"
   },
   {
