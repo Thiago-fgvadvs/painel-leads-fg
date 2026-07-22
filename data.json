@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/07/2026, 10:56",
+ "gerado_em": "22/07/2026, 11:11",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 11,
+  "total": 18,
+  "no_sla": 13,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 221,
-  "tickets_abertos": 125,
+  "leads_7d": 223,
+  "tickets_abertos": 92,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 14,
+   "leads": 16,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 15,
+  "Anuncio": 17,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -36,16 +36,16 @@
    "leads": 5
   },
   {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 4
+  },
+  {
    "url": "fb.me/4EDzR2aSz",
    "leads": 3
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 3
-  },
-  {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 2
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -57,23 +57,23 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 12
+  "Trabalhista": 13,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 164,
-  "turnos": 489,
-  "respondidos": 482,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 23.6,
+  "turnos": 492,
+  "respondidos": 486,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 23.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 221,
+    "respostas": 223,
     "mediana_min": 33.2
    },
    {
@@ -88,8 +88,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 22,
-    "mediana_min": 3.3
+    "respostas": 23,
+    "mediana_min": 4.2
    },
    {
     "nome": "Gabrielle",
@@ -97,14 +97,14 @@
     "mediana_min": 3.9
    },
    {
+    "nome": "—",
+    "respostas": 5,
+    "mediana_min": 0.7
+   },
+   {
     "nome": "Thauany",
     "respostas": 5,
     "mediana_min": 0.9
-   },
-   {
-    "nome": "—",
-    "respostas": 4,
-    "mediana_min": 0.7
    },
    {
     "nome": "Tiago Bernardo",
@@ -116,14 +116,8 @@
    {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
     "dia": "22/07",
-    "desde": "10:53",
-    "ts": 1784728416778
-   },
-   {
-    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
-    "dia": "22/07",
-    "desde": "10:48",
-    "ts": 1784728081773
+    "desde": "11:10",
+    "ts": 1784729455779
    },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -207,16 +201,10 @@
     "ts": 1784647171172
    },
    {
-    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
-    "dia": "22/07",
-    "desde": "10:48",
-    "ts": 1784728081773
-   },
-   {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
     "dia": "22/07",
-    "desde": "10:53",
-    "ts": 1784728416778
+    "desde": "11:10",
+    "ts": 1784729455779
    }
   ]
  },
@@ -593,22 +581,44 @@
  },
  "agora": {
   "fila": 23,
-  "abertos": 125,
-  "com_atendimento": 7,
-  "online": 7,
-  "offline": 2,
+  "abertos": 92,
+  "com_atendimento": 6,
+  "online": 6,
+  "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 21385
+  "espera_media_s": 16906
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T12:08:57.086Z",
-  "min_sem_lead": 108
+  "ultimo_lead_at": "2026-07-20T23:28:20.927Z",
+  "min_sem_lead": 2323
  },
  "leads": [
   {
-   "nome": "Erika Pereira",
-   "tel": "5548*****695",
-   "criado": "09:08",
+   "nome": ".",
+   "tel": "5521*****037",
+   "criado": "10:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554898458053",
+   "tel": "5548*****053",
+   "criado": "11:08",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Gilvan Araujo",
+   "tel": "5531*****812",
+   "criado": "11:05",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
@@ -628,6 +638,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "Deus É Fiel",
+   "tel": "5574*****249",
+   "criado": "10:38",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "Léo",
    "tel": "5519*****704",
    "criado": "05:16",
@@ -639,15 +660,15 @@
    "area": "Trabalhista"
   },
   {
-   "nome": ".",
-   "tel": "5521*****037",
-   "criado": "10:00",
+   "nome": "Erika Pereira",
+   "tel": "5548*****695",
+   "criado": "09:08",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
   },
   {
    "nome": "Wellington Kelly",
@@ -655,17 +676,6 @@
    "criado": "10:15",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "557499556249",
-   "tel": "5574*****249",
-   "criado": "10:38",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
