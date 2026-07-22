@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/07/2026, 18:03",
+ "gerado_em": "22/07/2026, 18:18",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 91,
   "mediana_geral": 0.4,
   "leads_7d": 246,
-  "tickets_abertos": 98,
+  "tickets_abertos": 99,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 24,
-  "Nao identificada": 17
+  "Nao identificada": 17,
+  "Trabalhista": 24
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -100,16 +100,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 177,
-  "turnos": 579,
-  "respondidos": 576,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 20,
+  "turnos": 582,
+  "respondidos": 577,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 19.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 271,
-    "mediana_min": 30.7
+    "respostas": 272,
+    "mediana_min": 29.5
    },
    {
     "nome": "Nicolas",
@@ -148,6 +148,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "S.R.D.S x FIBRA NEGOCIOS E SERVICOS LTDA",
+    "dia": "22/07",
+    "desde": "18:10",
+    "ts": 1784754648150
+   },
+   {
+    "grupo": "T.K.D.S.T x FUNDACAO GESTAO HOSPITALAR MARTINIANO FERNANDES - FGH",
+    "dia": "22/07",
+    "desde": "18:07",
+    "ts": 1784754452183
+   },
    {
     "grupo": "A.J.P.B",
     "dia": "22/07",
@@ -204,6 +216,18 @@
     "dia": "22/07",
     "desde": "11:46",
     "ts": 1784731574819
+   },
+   {
+    "grupo": "T.K.D.S.T x FUNDACAO GESTAO HOSPITALAR MARTINIANO FERNANDES - FGH",
+    "dia": "22/07",
+    "desde": "18:07",
+    "ts": 1784754452183
+   },
+   {
+    "grupo": "S.R.D.S x FIBRA NEGOCIOS E SERVICOS LTDA",
+    "dia": "22/07",
+    "desde": "18:10",
+    "ts": 1784754648150
    }
   ]
  },
@@ -589,28 +613,28 @@
  },
  "agora": {
   "fila": 28,
-  "abertos": 98,
+  "abertos": 99,
   "com_atendimento": 6,
-  "online": 3,
-  "offline": 5,
+  "online": 1,
+  "offline": 7,
   "ausentes": 1,
   "espera_media_s": 10692
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T10:43:28.978Z",
-  "min_sem_lead": 620
+  "ultimo_lead_at": "2026-07-14T23:50:58.354Z",
+  "min_sem_lead": 11368
  },
  "leads": [
   {
-   "nome": "Thayna",
-   "tel": "5521*****979",
-   "criado": "07:43",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
+   "nome": "Lavinha Peres",
+   "tel": "5585*****415",
+   "criado": "12:51",
+   "atendente": "Eduardo",
+   "espera_min": 0.2,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Deus acima de tudo",
@@ -624,15 +648,26 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Lavinha Peres",
-   "tel": "5585*****415",
-   "criado": "12:51",
-   "atendente": "Eduardo",
-   "espera_min": 0.2,
+   "nome": ".",
+   "tel": "5514*****527",
+   "criado": "12:02",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Thayna",
+   "tel": "5521*****979",
+   "criado": "07:43",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Leandro",
@@ -643,17 +678,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4f2wMcRQZ",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": ".",
-   "tel": "5514*****527",
-   "criado": "12:02",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
   },
   {
@@ -1031,9 +1055,9 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "samantha💕",
-   "tel": "5511*****638",
-   "criado": "12:43",
+   "nome": "5511917594210",
+   "tel": "5511*****210",
+   "criado": "07:56",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -1042,9 +1066,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5511917594210",
-   "tel": "5511*****210",
-   "criado": "07:56",
+   "nome": "samantha💕",
+   "tel": "5511*****638",
+   "criado": "12:43",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
