@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/07/2026, 17:02",
+ "gerado_em": "22/07/2026, 17:17",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 39,
-  "no_sla": 30,
+  "total": 40,
+  "no_sla": 31,
   "fora_sla": 3,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 91,
   "mediana_geral": 0.4,
-  "leads_7d": 244,
+  "leads_7d": 245,
   "tickets_abertos": 97,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 32,
+   "leads": 33,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 33,
+  "Anuncio": 34,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -61,16 +61,16 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "url": "fb.me/4f2wMcRQZ",
    "leads": 1
   },
   {
-   "url": "fb.me/cMY7LLYxT",
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 22,
+  "Trabalhista": 23,
   "Nao identificada": 17
  },
  "sem_resposta_lista": [],
@@ -100,21 +100,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 174,
-  "turnos": 569,
-  "respondidos": 564,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 19.7,
+  "turnos": 574,
+  "respondidos": 570,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 20.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 263,
-    "mediana_min": 30.9
+    "respostas": 268,
+    "mediana_min": 30.8
    },
    {
     "nome": "Nicolas",
-    "respostas": 185,
-    "mediana_min": 31
+    "respostas": 186,
+    "mediana_min": 31.8
    },
    {
     "nome": "Eduardo",
@@ -149,16 +149,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "P.D.P.G x STERILENO COMERCIO E SERVICOS LTDA",
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
     "dia": "22/07",
-    "desde": "16:41",
-    "ts": 1784749302999
-   },
-   {
-    "grupo": "S.M.L.M.B x BANCO DO BRASIL S.A ",
-    "dia": "22/07",
-    "desde": "16:27",
-    "ts": 1784748424098
+    "desde": "17:10",
+    "ts": 1784751044015
    },
    {
     "grupo": "A.J.P.B",
@@ -218,16 +212,10 @@
     "ts": 1784731574819
    },
    {
-    "grupo": "S.M.L.M.B x BANCO DO BRASIL S.A ",
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
     "dia": "22/07",
-    "desde": "16:27",
-    "ts": 1784748424098
-   },
-   {
-    "grupo": "P.D.P.G x STERILENO COMERCIO E SERVICOS LTDA",
-    "dia": "22/07",
-    "desde": "16:41",
-    "ts": 1784749302999
+    "desde": "17:10",
+    "ts": 1784751044015
    }
   ]
  },
@@ -612,19 +600,63 @@
   ]
  },
  "agora": {
-  "fila": 26,
+  "fila": 27,
   "abertos": 97,
-  "com_atendimento": 7,
-  "online": 3,
+  "com_atendimento": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 11006
+  "ausentes": 1,
+  "espera_media_s": 10846
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 654043
+  "ultimo_lead_at": "2026-07-22T15:02:03.063Z",
+  "min_sem_lead": 316
  },
  "leads": [
+  {
+   "nome": ".",
+   "tel": "5514*****527",
+   "criado": "12:02",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "paludonilva938",
+   "tel": "5549*****491",
+   "criado": "15:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Maria Eduarda ",
+   "tel": "5514*****379",
+   "criado": "14:52",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5527988528559",
+   "tel": "5527*****559",
+   "criado": "17:03",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4f2wMcRQZ",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Paola Baesso",
    "tel": "5524*****015",
@@ -659,28 +691,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": ".",
-   "tel": "5514*****527",
-   "criado": "12:02",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Maria Eduarda ",
-   "tel": "5514*****379",
-   "criado": "14:52",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
    "nome": "553188548986",
    "tel": "5531*****986",
    "criado": "12:19",
@@ -701,17 +711,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "paludonilva938",
-   "tel": "5549*****491",
-   "criado": "15:23",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4EDzR2aSz",
-   "area": "Trabalhista"
   },
   {
    "nome": "Gilvan Araujo",
