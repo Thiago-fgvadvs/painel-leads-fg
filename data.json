@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/07/2026, 15:30",
+ "gerado_em": "22/07/2026, 15:46",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 34,
-  "no_sla": 25,
-  "fora_sla": 1,
-  "sem_resposta": 1,
+  "total": 35,
+  "no_sla": 26,
+  "fora_sla": 2,
+  "sem_resposta": 0,
   "fora_horario": 4,
-  "pct_sla": 96,
+  "pct_sla": 93,
   "mediana_geral": 0.4,
-  "leads_7d": 239,
-  "tickets_abertos": 94,
+  "leads_7d": 240,
+  "tickets_abertos": 92,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 26,
+   "leads": 27,
    "mediana_min": 0.4
   },
   {
@@ -27,12 +27,12 @@
   },
   {
    "nome": "Tiago Bernardo",
-   "leads": 1,
-   "mediana_min": 25.1
+   "leads": 2,
+   "mediana_min": 38.1
   }
  ],
  "origem": {
-  "Anuncio": 28,
+  "Anuncio": 29,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -42,7 +42,7 @@
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
@@ -70,18 +70,18 @@
   }
  ],
  "areas": {
-  "Trabalhista": 20,
-  "Nao identificada": 14
+  "Nao identificada": 15,
+  "Trabalhista": 20
  },
- "sem_resposta_lista": [
+ "sem_resposta_lista": [],
+ "fora_sla_lista": [
   {
    "nome": "Suehllem Fagá 🍀✨",
    "tel": "5511*****238",
    "criado": "14:43",
-   "area": "Nao identificada"
-  }
- ],
- "fora_sla_lista": [
+   "espera_min": 51,
+   "atendente": "Tiago Bernardo"
+  },
   {
    "nome": "Ray",
    "tel": "5561*****747",
@@ -94,15 +94,15 @@
   "dias": 7,
   "grupos_ativos": 170,
   "turnos": 552,
-  "respondidos": 544,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 20.4,
+  "respondidos": 546,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 20.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 246,
-    "mediana_min": 33.4
+    "respostas": 248,
+    "mediana_min": 33.5
    },
    {
     "nome": "Nicolas",
@@ -148,12 +148,6 @@
     "ts": 1784743013001
    },
    {
-    "grupo": "D.F.D.S x TOKIO MARINE SEGURADORA S/A",
-    "dia": "22/07",
-    "desde": "14:49",
-    "ts": 1784742591991
-   },
-   {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
     "dia": "22/07",
     "desde": "12:54",
@@ -170,12 +164,6 @@
     "dia": "22/07",
     "desde": "11:25",
     "ts": 1784730303808
-   },
-   {
-    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
-    "dia": "22/07",
-    "desde": "09:35",
-    "ts": 1784723747688
    },
    {
     "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
@@ -207,13 +195,6 @@
     "dia": "21/07",
     "desde": "15:42",
     "ts": 1784659373252
-   },
-   {
-    "nome": "Suehllem Fagá 🍀✨",
-    "tel": "5511*****238",
-    "dia": "22/07",
-    "desde": "14:43",
-    "ts": 1784742223842
    }
   ],
   "grupos": [
@@ -228,12 +209,6 @@
     "dia": "21/07",
     "desde": "15:32",
     "ts": 1784658767323
-   },
-   {
-    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
-    "dia": "22/07",
-    "desde": "09:35",
-    "ts": 1784723747688
    },
    {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
@@ -252,12 +227,6 @@
     "dia": "22/07",
     "desde": "12:54",
     "ts": 1784735649767
-   },
-   {
-    "grupo": "D.F.D.S x TOKIO MARINE SEGURADORA S/A",
-    "dia": "22/07",
-    "desde": "14:49",
-    "ts": 1784742591991
    },
    {
     "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
@@ -648,19 +617,30 @@
   ]
  },
  "agora": {
-  "fila": 26,
-  "abertos": 94,
-  "com_atendimento": 7,
+  "fila": 25,
+  "abertos": 92,
+  "com_atendimento": 6,
   "online": 5,
-  "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 11929
+  "offline": 3,
+  "ausentes": 1,
+  "espera_media_s": 11599
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T18:23:34.688Z",
-  "min_sem_lead": 7
+  "ultimo_lead_at": "2026-07-22T18:43:57.818Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "556294467067",
+   "tel": "5562*****067",
+   "criado": "15:43",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "paludonilva938",
    "tel": "5549*****491",
@@ -673,6 +653,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "Ana 😘",
+   "tel": "5564*****125",
+   "criado": "10:21",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "Maria Eduarda ",
    "tel": "5514*****379",
    "criado": "14:52",
@@ -682,6 +673,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Suehllem Fagá 🍀✨",
+   "tel": "5511*****238",
+   "criado": "14:43",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 51,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
   },
   {
    "nome": "Dressa Santos 💋",
@@ -714,17 +716,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Suehllem Fagá 🍀✨",
-   "tel": "5511*****238",
-   "criado": "14:43",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
   },
   {
@@ -803,17 +794,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Ana 😘",
-   "tel": "5564*****125",
-   "criado": "10:21",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Gilvan Araujo",
