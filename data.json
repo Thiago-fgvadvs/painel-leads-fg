@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/07/2026, 11:27",
+ "gerado_em": "22/07/2026, 11:42",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
-  "no_sla": 13,
+  "total": 19,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 223,
-  "tickets_abertos": 85,
+  "leads_7d": 224,
+  "tickets_abertos": 88,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -48,6 +48,10 @@
    "leads": 3
   },
   {
+   "url": "fb.me/cMY7LLYxT",
+   "leads": 1
+  },
+  {
    "url": "fb.me/9Pf9FTshS",
    "leads": 1
   },
@@ -58,18 +62,18 @@
  ],
  "areas": {
   "Trabalhista": 13,
-  "Nao identificada": 5
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 164,
-  "turnos": 493,
-  "respondidos": 489,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 23.3,
+  "grupos_ativos": 165,
+  "turnos": 497,
+  "respondidos": 491,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 23.1,
   "atendentes": [
    {
     "nome": "Julia",
@@ -87,14 +91,14 @@
     "mediana_min": 12.1
    },
    {
+    "nome": "Gabrielle",
+    "respostas": 23,
+    "mediana_min": 4
+   },
+   {
     "nome": "Luisa",
     "respostas": 23,
     "mediana_min": 4.2
-   },
-   {
-    "nome": "Gabrielle",
-    "respostas": 21,
-    "mediana_min": 3.9
    },
    {
     "nome": "—",
@@ -114,10 +118,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "dia": "22/07",
+    "desde": "11:10",
+    "ts": 1784729455779
+   },
+   {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
     "dia": "22/07",
     "desde": "11:25",
     "ts": 1784730303808
+   },
+   {
+    "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
+    "dia": "22/07",
+    "desde": "11:23",
+    "ts": 1784730194805
    },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -175,6 +191,18 @@
     "dia": "21/07",
     "desde": "12:19",
     "ts": 1784647171172
+   },
+   {
+    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "dia": "22/07",
+    "desde": "11:10",
+    "ts": 1784729455779
+   },
+   {
+    "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
+    "dia": "22/07",
+    "desde": "11:23",
+    "ts": 1784730194805
    },
    {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
@@ -565,17 +593,17 @@
   ]
  },
  "agora": {
-  "fila": 23,
-  "abertos": 85,
-  "com_atendimento": 5,
+  "fila": 25,
+  "abertos": 88,
+  "com_atendimento": 6,
   "online": 4,
   "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 13859
+  "espera_media_s": 13636
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T14:08:03.330Z",
-  "min_sem_lead": 19
+  "ultimo_lead_at": "2026-07-20T18:20:15.656Z",
+  "min_sem_lead": 2662
  },
  "leads": [
   {
@@ -588,6 +616,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Cah",
+   "tel": "5511*****136",
+   "criado": "11:33",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Gilvan Araujo",
+   "tel": "5531*****812",
+   "criado": "11:05",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
   },
   {
    "nome": "Ana 😘",
@@ -610,17 +660,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Gilvan Araujo",
-   "tel": "5531*****812",
-   "criado": "11:05",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
   },
   {
    "nome": "Deus É Fiel",
