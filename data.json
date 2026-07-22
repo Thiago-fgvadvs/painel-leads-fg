@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/07/2026, 13:44",
+ "gerado_em": "22/07/2026, 13:59",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
-  "no_sla": 21,
+  "total": 30,
+  "no_sla": 22,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 4,
-  "pct_sla": 95,
+  "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 234,
-  "tickets_abertos": 87,
+  "leads_7d": 235,
+  "tickets_abertos": 90,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 22,
+   "leads": 23,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 24,
+  "Anuncio": 25,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
@@ -71,7 +71,7 @@
  ],
  "areas": {
   "Nao identificada": 13,
-  "Trabalhista": 16
+  "Trabalhista": 17
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -86,10 +86,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 169,
-  "turnos": 513,
+  "turnos": 514,
   "respondidos": 507,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 22.8,
   "atendentes": [
    {
@@ -134,6 +134,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "dia": "22/07",
+    "desde": "13:50",
+    "ts": 1784739018929
+   },
    {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
     "dia": "22/07",
@@ -226,6 +232,12 @@
     "dia": "22/07",
     "desde": "12:54",
     "ts": 1784735649767
+   },
+   {
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "dia": "22/07",
+    "desde": "13:50",
+    "ts": 1784739018929
    }
   ]
  },
@@ -610,17 +622,17 @@
   ]
  },
  "agora": {
-  "fila": 25,
-  "abertos": 87,
-  "com_atendimento": 6,
-  "online": 4,
-  "offline": 3,
+  "fila": 26,
+  "abertos": 90,
+  "com_atendimento": 7,
+  "online": 5,
+  "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 12538
+  "espera_media_s": 12326
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-14T23:50:58.354Z",
-  "min_sem_lead": 11093
+  "ultimo_lead_at": "2026-07-22T15:51:20.696Z",
+  "min_sem_lead": 68
  },
  "leads": [
   {
@@ -633,6 +645,28 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "557192347031",
+   "tel": "5571*****031",
+   "criado": "13:47",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Marden Machado",
+   "tel": "5567*****442",
+   "criado": "13:01",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Pedro Ivo💙",
@@ -654,17 +688,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/dc5RfTfpv",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Marden Machado",
-   "tel": "5567*****442",
-   "criado": "13:01",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
   },
   {
