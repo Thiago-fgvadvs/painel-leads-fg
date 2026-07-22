@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/07/2026, 17:17",
+ "gerado_em": "22/07/2026, 17:33",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 91,
   "mediana_geral": 0.4,
   "leads_7d": 245,
-  "tickets_abertos": 97,
+  "tickets_abertos": 94,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -99,12 +99,12 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 174,
+  "grupos_ativos": 175,
   "turnos": 574,
-  "respondidos": 570,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 20.4,
+  "respondidos": 571,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 20.3,
   "atendentes": [
    {
     "nome": "Julia",
@@ -113,8 +113,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 186,
-    "mediana_min": 31.8
+    "respostas": 187,
+    "mediana_min": 31
    },
    {
     "nome": "Eduardo",
@@ -148,12 +148,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
-    "dia": "22/07",
-    "desde": "17:10",
-    "ts": 1784751044015
-   },
    {
     "grupo": "A.J.P.B",
     "dia": "22/07",
@@ -210,12 +204,6 @@
     "dia": "22/07",
     "desde": "11:46",
     "ts": 1784731574819
-   },
-   {
-    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
-    "dia": "22/07",
-    "desde": "17:10",
-    "ts": 1784751044015
    }
   ]
  },
@@ -601,16 +589,16 @@
  },
  "agora": {
   "fila": 27,
-  "abertos": 97,
-  "com_atendimento": 6,
-  "online": 5,
-  "offline": 3,
-  "ausentes": 1,
+  "abertos": 94,
+  "com_atendimento": 5,
+  "online": 3,
+  "offline": 4,
+  "ausentes": 2,
   "espera_media_s": 10846
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-22T15:02:03.063Z",
-  "min_sem_lead": 316
+  "min_sem_lead": 331
  },
  "leads": [
   {
@@ -622,6 +610,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Leandro",
+   "tel": "5527*****559",
+   "criado": "17:03",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4f2wMcRQZ",
    "area": "Trabalhista"
   },
   {
@@ -644,17 +643,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5527988528559",
-   "tel": "5527*****559",
-   "criado": "17:03",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4f2wMcRQZ",
    "area": "Trabalhista"
   },
   {
