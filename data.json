@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/07/2026, 11:42",
+ "gerado_em": "22/07/2026, 11:57",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 224,
-  "tickets_abertos": 88,
+  "tickets_abertos": 79,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,17 +68,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 165,
-  "turnos": 497,
-  "respondidos": 491,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "grupos_ativos": 167,
+  "turnos": 502,
+  "respondidos": 493,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 23.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 226,
-    "mediana_min": 32.7
+    "respostas": 227,
+    "mediana_min": 33.1
    },
    {
     "nome": "Nicolas",
@@ -92,7 +92,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 23,
+    "respostas": 24,
     "mediana_min": 4
    },
    {
@@ -118,6 +118,30 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "M.D.F.R.P x CENTRO DE ESTUDOS E PESQUISAS CIENTIFICAS FRANCISCO ANTONIO",
+    "dia": "22/07",
+    "desde": "11:53",
+    "ts": 1784732023837
+   },
+   {
+    "grupo": "G.C.M x EVO W12 INOVACOES TECNOLOGICAS LTDA",
+    "dia": "22/07",
+    "desde": "11:53",
+    "ts": 1784732019836
+   },
+   {
+    "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
+    "dia": "22/07",
+    "desde": "11:52",
+    "ts": 1784731977724
+   },
+   {
+    "grupo": "A.J.P.B",
+    "dia": "22/07",
+    "desde": "11:46",
+    "ts": 1784731574819
+   },
+   {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
     "dia": "22/07",
     "desde": "11:10",
@@ -140,12 +164,6 @@
     "dia": "21/07",
     "desde": "12:19",
     "ts": 1784647171172
-   },
-   {
-    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
-    "dia": "21/07",
-    "desde": "11:25",
-    "ts": 1784643932231
    },
    {
     "grupo": "A.F.D.S x INSS",
@@ -181,12 +199,6 @@
     "ts": 1784642125185
    },
    {
-    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
-    "dia": "21/07",
-    "desde": "11:25",
-    "ts": 1784643932231
-   },
-   {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
     "dia": "21/07",
     "desde": "12:19",
@@ -209,6 +221,30 @@
     "dia": "22/07",
     "desde": "11:25",
     "ts": 1784730303808
+   },
+   {
+    "grupo": "A.J.P.B",
+    "dia": "22/07",
+    "desde": "11:46",
+    "ts": 1784731574819
+   },
+   {
+    "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
+    "dia": "22/07",
+    "desde": "11:52",
+    "ts": 1784731977724
+   },
+   {
+    "grupo": "G.C.M x EVO W12 INOVACOES TECNOLOGICAS LTDA",
+    "dia": "22/07",
+    "desde": "11:53",
+    "ts": 1784732019836
+   },
+   {
+    "grupo": "M.D.F.R.P x CENTRO DE ESTUDOS E PESQUISAS CIENTIFICAS FRANCISCO ANTONIO",
+    "dia": "22/07",
+    "desde": "11:53",
+    "ts": 1784732023837
    }
   ]
  },
@@ -593,17 +629,17 @@
   ]
  },
  "agora": {
-  "fila": 25,
-  "abertos": 88,
+  "fila": 26,
+  "abertos": 79,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 5,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 13636
+  "ausentes": 1,
+  "espera_media_s": 13690
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-20T18:20:15.656Z",
-  "min_sem_lead": 2662
+  "ultimo_lead_at": "2026-06-17T08:38:24.305Z",
+  "min_sem_lead": 50779
  },
  "leads": [
   {
