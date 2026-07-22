@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/07/2026, 14:45",
+ "gerado_em": "22/07/2026, 15:00",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 32,
-  "no_sla": 23,
+  "total": 33,
+  "no_sla": 24,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 4,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 237,
-  "tickets_abertos": 94,
+  "leads_7d": 238,
+  "tickets_abertos": 95,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 24,
+   "leads": 25,
    "mediana_min": 0.4
   },
   {
@@ -33,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 27,
-  "Direto/Indicacao": 5
+  "Direto/Indicacao": 6
  },
  "criativos": [
   {
@@ -70,12 +70,12 @@
   }
  ],
  "areas": {
-  "Nao identificada": 14,
-  "Trabalhista": 18
+  "Trabalhista": 19,
+  "Nao identificada": 14
  },
  "sem_resposta_lista": [
   {
-   "nome": "5511975921238",
+   "nome": "Suehllem Fagá 🍀✨",
    "tel": "5511*****238",
    "criado": "14:43",
    "area": "Nao identificada"
@@ -92,16 +92,16 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 169,
-  "turnos": 542,
-  "respondidos": 535,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 20.7,
+  "grupos_ativos": 170,
+  "turnos": 548,
+  "respondidos": 539,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 20.5,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 242,
+    "respostas": 244,
     "mediana_min": 33.4
    },
    {
@@ -120,14 +120,14 @@
     "mediana_min": 3.9
    },
    {
+    "nome": "Thauany",
+    "respostas": 24,
+    "mediana_min": 0.6
+   },
+   {
     "nome": "Luisa",
     "respostas": 24,
     "mediana_min": 4.3
-   },
-   {
-    "nome": "Thauany",
-    "respostas": 22,
-    "mediana_min": 0.6
    },
    {
     "nome": "—",
@@ -141,6 +141,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.F.B x CONSTRUTORA ALAIATE LTDA",
+    "dia": "22/07",
+    "desde": "14:59",
+    "ts": 1784743181007
+   },
+   {
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "dia": "22/07",
+    "desde": "14:56",
+    "ts": 1784743013001
+   },
    {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
     "dia": "22/07",
@@ -203,7 +215,7 @@
     "ts": 1784659373252
    },
    {
-    "nome": "5511975921238",
+    "nome": "Suehllem Fagá 🍀✨",
     "tel": "5511*****238",
     "dia": "22/07",
     "desde": "14:43",
@@ -252,6 +264,18 @@
     "dia": "22/07",
     "desde": "12:54",
     "ts": 1784735649767
+   },
+   {
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "dia": "22/07",
+    "desde": "14:56",
+    "ts": 1784743013001
+   },
+   {
+    "grupo": "R.F.B x CONSTRUTORA ALAIATE LTDA",
+    "dia": "22/07",
+    "desde": "14:59",
+    "ts": 1784743181007
    }
   ]
  },
@@ -636,29 +660,29 @@
   ]
  },
  "agora": {
-  "fila": 25,
-  "abertos": 94,
-  "com_atendimento": 8,
-  "online": 2,
+  "fila": 26,
+  "abertos": 95,
+  "com_atendimento": 7,
+  "online": 3,
   "offline": 3,
-  "ausentes": 4,
-  "espera_media_s": 12121
+  "ausentes": 3,
+  "espera_media_s": 11922
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T17:43:43.842Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-07-22T17:52:16.519Z",
+  "min_sem_lead": 8
  },
  "leads": [
   {
-   "nome": "5511975921238",
-   "tel": "5511*****238",
-   "criado": "14:43",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
+   "nome": "Maria Eduarda ",
+   "tel": "5514*****379",
+   "criado": "14:52",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
   },
   {
    "nome": "OLAVIANA",
@@ -669,6 +693,17 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Suehllem Fagá 🍀✨",
+   "tel": "5511*****238",
+   "criado": "14:43",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
   },
   {
