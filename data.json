@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/07/2026, 13:59",
+ "gerado_em": "22/07/2026, 14:14",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 96,
   "mediana_geral": 0.4,
   "leads_7d": 235,
-  "tickets_abertos": 90,
+  "tickets_abertos": 89,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -57,11 +57,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "url": "fb.me/dc5RfTfpv",
    "leads": 1
   },
   {
-   "url": "fb.me/dc5RfTfpv",
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
    "leads": 1
   },
   {
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 13,
-  "Trabalhista": 17
+  "Trabalhista": 17,
+  "Nao identificada": 13
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -86,21 +86,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 169,
-  "turnos": 514,
-  "respondidos": 507,
+  "turnos": 525,
+  "respondidos": 518,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 22.8,
+  "mediana_min": 21.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 233,
-    "mediana_min": 32.2
+    "respostas": 236,
+    "mediana_min": 33.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 180,
-    "mediana_min": 29.7
+    "respostas": 181,
+    "mediana_min": 28.6
    },
    {
     "nome": "Eduardo",
@@ -118,14 +118,14 @@
     "mediana_min": 4.2
    },
    {
+    "nome": "Thauany",
+    "respostas": 12,
+    "mediana_min": 0.6
+   },
+   {
     "nome": "—",
     "respostas": 5,
     "mediana_min": 0.7
-   },
-   {
-    "nome": "Thauany",
-    "respostas": 5,
-    "mediana_min": 0.9
    },
    {
     "nome": "Tiago Bernardo",
@@ -135,10 +135,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "grupo": "R.F.B x CONSTRUTORA ALAIATE LTDA",
     "dia": "22/07",
-    "desde": "13:50",
-    "ts": 1784739018929
+    "desde": "14:14",
+    "ts": 1784740453855
    },
    {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
@@ -234,10 +234,10 @@
     "ts": 1784735649767
    },
    {
-    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "grupo": "R.F.B x CONSTRUTORA ALAIATE LTDA",
     "dia": "22/07",
-    "desde": "13:50",
-    "ts": 1784739018929
+    "desde": "14:14",
+    "ts": 1784740453855
    }
   ]
  },
@@ -622,19 +622,30 @@
   ]
  },
  "agora": {
-  "fila": 26,
-  "abertos": 90,
-  "com_atendimento": 7,
-  "online": 5,
+  "fila": 24,
+  "abertos": 89,
+  "com_atendimento": 8,
+  "online": 3,
   "offline": 2,
-  "ausentes": 2,
+  "ausentes": 4,
   "espera_media_s": 12326
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T15:51:20.696Z",
-  "min_sem_lead": 68
+  "ultimo_lead_at": "2026-07-22T16:47:49.014Z",
+  "min_sem_lead": 27
  },
  "leads": [
+  {
+   "nome": "Dressa Santos 💋",
+   "tel": "5571*****031",
+   "criado": "13:47",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "OLAVIANA",
    "tel": "5585*****415",
@@ -647,14 +658,14 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "557192347031",
-   "tel": "5571*****031",
-   "criado": "13:47",
+   "nome": "Francisco e Vitória ❤️👩‍❤️‍👨",
+   "tel": "5586*****520",
+   "criado": "13:23",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
+   "espera_min": 0.7,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "criativo": "fb.me/dc5RfTfpv",
    "area": "Trabalhista"
   },
   {
@@ -678,17 +689,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Francisco e Vitória ❤️👩‍❤️‍👨",
-   "tel": "5586*****520",
-   "criado": "13:23",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/dc5RfTfpv",
-   "area": "Trabalhista"
   },
   {
    "nome": "Ray",
