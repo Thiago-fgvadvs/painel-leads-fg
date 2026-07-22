@@ -1,34 +1,34 @@
 {
- "gerado_em": "22/07/2026, 09:10",
+ "gerado_em": "22/07/2026, 09:25",
  "data_ref": "22/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 4,
+  "total": 10,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 214,
+  "leads_7d": 215,
   "tickets_abertos": 119,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 7,
+   "leads": 8,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 9,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "fb.me/4EDzR2aSz",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
@@ -48,8 +48,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 6
+  "Trabalhista": 7,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [
   {
@@ -62,12 +62,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 159,
-  "turnos": 453,
-  "respondidos": 445,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 24.1,
+  "grupos_ativos": 161,
+  "turnos": 455,
+  "respondidos": 448,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 24.2,
   "atendentes": [
    {
     "nome": "Julia",
@@ -76,8 +76,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 171,
-    "mediana_min": 30.8
+    "respostas": 172,
+    "mediana_min": 30.9
    },
    {
     "nome": "Eduardo",
@@ -91,7 +91,7 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 9,
+    "respostas": 11,
     "mediana_min": 5.7
    },
    {
@@ -112,22 +112,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "F.S x FLORENCE INDUSTRIAL E COMERCIAL LTDA",
+    "dia": "22/07",
+    "desde": "09:06",
+    "ts": 1784722009671
+   },
+   {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
     "dia": "22/07",
     "desde": "08:21",
     "ts": 1784719263650
-   },
-   {
-    "grupo": "E.M x FUNDAÇÃO BRADESCO",
-    "dia": "22/07",
-    "desde": "08:39",
-    "ts": 1784720349632
-   },
-   {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
-    "dia": "21/07",
-    "desde": "18:08",
-    "ts": 1784668119566
    },
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -218,22 +212,16 @@
     "ts": 1784647171172
    },
    {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
-    "dia": "21/07",
-    "desde": "18:08",
-    "ts": 1784668119566
-   },
-   {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
     "dia": "22/07",
     "desde": "08:21",
     "ts": 1784719263650
    },
    {
-    "grupo": "E.M x FUNDAÇÃO BRADESCO",
+    "grupo": "F.S x FLORENCE INDUSTRIAL E COMERCIAL LTDA",
     "dia": "22/07",
-    "desde": "08:39",
-    "ts": 1784720349632
+    "desde": "09:06",
+    "ts": 1784722009671
    }
   ]
  },
@@ -609,19 +597,30 @@
   ]
  },
  "agora": {
-  "fila": 25,
+  "fila": 24,
   "abertos": 119,
-  "com_atendimento": 6,
-  "online": 5,
-  "offline": 4,
-  "ausentes": 0,
+  "com_atendimento": 7,
+  "online": 4,
+  "offline": 2,
+  "ausentes": 3,
   "espera_media_s": 22940
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T12:08:57.086Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-07-22T12:15:23.722Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "tn896271",
+   "tel": "5585*****962",
+   "criado": "09:15",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Erika Pereira",
    "tel": "5548*****695",
