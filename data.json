@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/07/2026, 16:36",
+ "gerado_em": "23/07/2026, 16:51",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 97,
   "mediana_geral": 0.4,
   "leads_7d": 241,
-  "tickets_abertos": 136,
+  "tickets_abertos": 132,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,9 +65,9 @@
   }
  ],
  "areas": {
-  "Previdenciario": 3,
+  "Nao identificada": 13,
   "Trabalhista": 15,
-  "Nao identificada": 13
+  "Previdenciario": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -81,22 +81,22 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 174,
-  "turnos": 574,
-  "respondidos": 566,
+  "grupos_ativos": 175,
+  "turnos": 577,
+  "respondidos": 569,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
   "mediana_min": 18.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 272,
+    "respostas": 274,
     "mediana_min": 27.8
    },
    {
     "nome": "Nicolas",
-    "respostas": 176,
-    "mediana_min": 25.2
+    "respostas": 177,
+    "mediana_min": 26.3
    },
    {
     "nome": "Gabrielle",
@@ -126,10 +126,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
+    "grupo": "D.D.A.F x ITAU",
     "dia": "23/07",
-    "desde": "15:28",
-    "ts": 1784831323682
+    "desde": "16:20",
+    "ts": 1784834422698
    },
    {
     "grupo": "A.D.S.S x ESSE ALIMENTAR COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
@@ -222,10 +222,10 @@
     "ts": 1784829853551
    },
    {
-    "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
+    "grupo": "D.D.A.F x ITAU",
     "dia": "23/07",
-    "desde": "15:28",
-    "ts": 1784831323682
+    "desde": "16:20",
+    "ts": 1784834422698
    }
   ]
  },
@@ -520,51 +520,29 @@
   ]
  },
  "agora": {
-  "fila": 59,
-  "abertos": 136,
-  "com_atendimento": 6,
+  "fila": 52,
+  "abertos": 132,
+  "com_atendimento": 7,
   "online": 6,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 7069
+  "espera_media_s": 7418
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-23T14:28:13.734Z",
-  "min_sem_lead": 308
+  "ultimo_lead_at": "2026-06-25T12:23:07.259Z",
+  "min_sem_lead": 40769
  },
  "leads": [
   {
-   "nome": "Ana Beatriz",
-   "tel": "5531*****284",
-   "criado": "11:28",
+   "nome": "Luana",
+   "tel": "5522*****570",
+   "criado": "13:00",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Previdenciario"
-  },
-  {
-   "nome": "Hugo Valente",
-   "tel": "5521*****508",
-   "criado": "14:27",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Cleane Santos ",
-   "tel": "5579*****431",
-   "criado": "14:18",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
+   "espera_min": 192.4,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Adão",
@@ -578,15 +556,37 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Luana",
-   "tel": "5522*****570",
-   "criado": "13:00",
+   "nome": "Hugo Valente",
+   "tel": "5521*****508",
+   "criado": "14:27",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 192.4,
-   "status": "FORA_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ana Beatriz",
+   "tel": "5531*****284",
+   "criado": "11:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Cleane Santos ",
+   "tel": "5579*****431",
+   "criado": "14:18",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Luciana",
