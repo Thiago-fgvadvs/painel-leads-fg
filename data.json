@@ -1,23 +1,23 @@
 {
- "gerado_em": "23/07/2026, 14:19",
+ "gerado_em": "23/07/2026, 14:34",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 28,
-  "no_sla": 24,
+  "total": 29,
+  "no_sla": 26,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 238,
-  "tickets_abertos": 138,
+  "leads_7d": 239,
+  "tickets_abertos": 140,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 25,
+   "leads": 27,
    "mediana_min": 0.4
   },
   {
@@ -27,17 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 24,
+  "Anuncio": 25,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 9
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 8
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 9
   },
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
@@ -61,32 +61,25 @@
   }
  ],
  "areas": {
-  "Nao identificada": 13,
-  "Trabalhista": 12,
+  "Trabalhista": 14,
+  "Nao identificada": 12,
   "Previdenciario": 3
  },
- "sem_resposta_lista": [
-  {
-   "nome": "Cleane Santos ",
-   "tel": "5579*****431",
-   "criado": "14:18",
-   "area": "Nao identificada"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 174,
-  "turnos": 559,
-  "respondidos": 551,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 18.5,
+  "turnos": 562,
+  "respondidos": 553,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 18.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 261,
-    "mediana_min": 27.2
+    "respostas": 263,
+    "mediana_min": 27.4
    },
    {
     "nome": "Nicolas",
@@ -121,16 +114,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "J.P.D.S.J x VR MARKETING INTEGRADO SA",
+    "grupo": "A.D.S.S x ESSE ALIMENTAR COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
     "dia": "23/07",
-    "desde": "11:12",
-    "ts": 1784815939478
+    "desde": "14:21",
+    "ts": 1784827319641
    },
    {
     "grupo": "R.P x SEARA ALIMENTOS LTDA",
     "dia": "23/07",
     "desde": "13:44",
     "ts": 1784825093468
+   },
+   {
+    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
+    "dia": "23/07",
+    "desde": "13:40",
+    "ts": 1784824848592
    },
    {
     "grupo": "A.C.M x INSS",
@@ -214,12 +213,6 @@
     "ts": 1784754648150
    },
    {
-    "grupo": "J.P.D.S.J x VR MARKETING INTEGRADO SA",
-    "dia": "23/07",
-    "desde": "11:12",
-    "ts": 1784815939478
-   },
-   {
     "grupo": "E.I.R.T.D.S x V N SILVA CONSTRUCAO CIVIL LTDA",
     "dia": "23/07",
     "desde": "11:52",
@@ -232,10 +225,22 @@
     "ts": 1784824026455
    },
    {
+    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
+    "dia": "23/07",
+    "desde": "13:40",
+    "ts": 1784824848592
+   },
+   {
     "grupo": "R.P x SEARA ALIMENTOS LTDA",
     "dia": "23/07",
     "desde": "13:44",
     "ts": 1784825093468
+   },
+   {
+    "grupo": "A.D.S.S x ESSE ALIMENTAR COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
+    "dia": "23/07",
+    "desde": "14:21",
+    "ts": 1784827319641
    }
   ]
  },
@@ -530,29 +535,62 @@
   ]
  },
  "agora": {
-  "fila": 61,
-  "abertos": 138,
+  "fila": 63,
+  "abertos": 140,
   "com_atendimento": 7,
   "online": 6,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 7136
+  "espera_media_s": 7003
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-23T17:18:36.361Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-06-25T12:23:07.259Z",
+  "min_sem_lead": 40631
  },
  "leads": [
+  {
+   "nome": "Hugo Valente",
+   "tel": "5521*****508",
+   "criado": "14:27",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "ta",
+   "tel": "5535*****410",
+   "criado": "13:56",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511992483474",
+   "tel": "5511*****474",
+   "criado": "14:06",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Cleane Santos ",
    "tel": "5579*****431",
    "criado": "14:18",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "Cintia",
@@ -586,28 +624,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
-  },
-  {
-   "nome": "5511992483474",
-   "tel": "5511*****474",
-   "criado": "14:06",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "ta",
-   "tel": "5535*****410",
-   "criado": "13:56",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
   },
   {
    "nome": "Rômulo Evaristo",
