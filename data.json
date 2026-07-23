@@ -1,23 +1,23 @@
 {
- "gerado_em": "23/07/2026, 15:20",
+ "gerado_em": "23/07/2026, 15:35",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
-  "no_sla": 27,
+  "total": 31,
+  "no_sla": 28,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 240,
+  "leads_7d": 241,
   "tickets_abertos": 139,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 28,
+   "leads": 29,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 26,
+  "Anuncio": 27,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -42,6 +42,10 @@
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DYVTKQODOlC/",
@@ -61,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 14,
+  "Trabalhista": 15,
   "Nao identificada": 13,
   "Previdenciario": 3
  },
@@ -70,16 +74,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 174,
-  "turnos": 572,
-  "respondidos": 565,
+  "turnos": 573,
+  "respondidos": 566,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 18.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 271,
-    "mediana_min": 28.2
+    "respostas": 272,
+    "mediana_min": 27.8
    },
    {
     "nome": "Nicolas",
@@ -511,19 +515,30 @@
   ]
  },
  "agora": {
-  "fila": 63,
+  "fila": 65,
   "abertos": 139,
   "com_atendimento": 5,
-  "online": 5,
+  "online": 6,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 6875
+  "ausentes": 1,
+  "espera_media_s": 6938
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-17T02:15:11.108Z",
-  "min_sem_lead": 52805
+  "ultimo_lead_at": "2026-07-22T14:08:03.330Z",
+  "min_sem_lead": 1707
  },
  "leads": [
+  {
+   "nome": "Luciana",
+   "tel": "5538*****995",
+   "criado": "15:20",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Cleane Santos ",
    "tel": "5579*****431",
