@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/07/2026, 11:00",
+ "gerado_em": "23/07/2026, 11:15",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 222,
-  "tickets_abertos": 122,
+  "tickets_abertos": 120,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -58,20 +58,20 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 168,
-  "turnos": 529,
-  "respondidos": 522,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 19.7,
+  "turnos": 534,
+  "respondidos": 529,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 19.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 244,
-    "mediana_min": 29.4
+    "respostas": 249,
+    "mediana_min": 27.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 170,
+    "respostas": 172,
     "mediana_min": 26.6
    },
    {
@@ -101,18 +101,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
-    "dia": "23/07",
-    "desde": "10:51",
-    "ts": 1784814718460
-   },
-   {
-    "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
-    "dia": "22/07",
-    "desde": "21:45",
-    "ts": 1784767515223
-   },
    {
     "grupo": "E.I.R.T.D.S x V N SILVA CONSTRUCAO CIVIL LTDA",
     "dia": "22/07",
@@ -193,18 +181,6 @@
     "dia": "22/07",
     "desde": "18:32",
     "ts": 1784755971195
-   },
-   {
-    "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
-    "dia": "22/07",
-    "desde": "21:45",
-    "ts": 1784767515223
-   },
-   {
-    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
-    "dia": "23/07",
-    "desde": "10:51",
-    "ts": 1784814718460
    }
   ]
  },
@@ -500,7 +476,7 @@
  },
  "agora": {
   "fila": 45,
-  "abertos": 122,
+  "abertos": 120,
   "com_atendimento": 7,
   "online": 4,
   "offline": 3,
@@ -509,11 +485,11 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-23T13:58:04.865Z",
-  "min_sem_lead": 2
+  "min_sem_lead": 18
  },
  "leads": [
   {
-   "nome": "558699841721",
+   "nome": "Rafael Alves",
    "tel": "5586*****721",
    "criado": "10:58",
    "atendente": "Fernanda Gehm - Administradora",
