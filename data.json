@@ -1,23 +1,23 @@
 {
- "gerado_em": "23/07/2026, 11:46",
+ "gerado_em": "23/07/2026, 12:01",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 12,
+  "total": 16,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 224,
-  "tickets_abertos": 123,
+  "leads_7d": 226,
+  "tickets_abertos": 125,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 13,
+   "leads": 15,
    "mediana_min": 0.4
   },
   {
@@ -27,8 +27,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 13,
-  "Direto/Indicacao": 1
+  "Anuncio": 14,
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -37,7 +37,7 @@
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 4
+   "leads": 5
   },
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
@@ -54,18 +54,18 @@
  ],
  "areas": {
   "Previdenciario": 2,
-  "Trabalhista": 7,
-  "Nao identificada": 5
+  "Trabalhista": 8,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 168,
-  "turnos": 536,
+  "turnos": 537,
   "respondidos": 532,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 19,
   "atendentes": [
    {
@@ -105,6 +105,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.I.R.T.D.S x V N SILVA CONSTRUCAO CIVIL LTDA",
+    "dia": "23/07",
+    "desde": "11:52",
+    "ts": 1784818370380
+   },
    {
     "grupo": "S.R.D.S x FIBRA NEGOCIOS E SERVICOS LTDA",
     "dia": "22/07",
@@ -173,6 +179,12 @@
     "dia": "22/07",
     "desde": "18:10",
     "ts": 1784754648150
+   },
+   {
+    "grupo": "E.I.R.T.D.S x V N SILVA CONSTRUCAO CIVIL LTDA",
+    "dia": "23/07",
+    "desde": "11:52",
+    "ts": 1784818370380
    }
   ]
  },
@@ -467,17 +479,17 @@
   ]
  },
  "agora": {
-  "fila": 48,
-  "abertos": 123,
+  "fila": 50,
+  "abertos": 125,
   "com_atendimento": 7,
   "online": 0,
-  "offline": 3,
-  "ausentes": 6,
-  "espera_media_s": 8054
+  "offline": 5,
+  "ausentes": 4,
+  "espera_media_s": 7885
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-23T13:58:04.865Z",
-  "min_sem_lead": 48
+  "ultimo_lead_at": "2026-07-20T15:38:02.130Z",
+  "min_sem_lead": 4284
  },
  "leads": [
   {
@@ -490,6 +502,50 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "うめい ユウナ",
+   "tel": "5511*****133",
+   "criado": "11:50",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rômulo Evaristo",
+   "tel": "5521*****509",
+   "criado": "11:21",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rafael Alves",
+   "tel": "5586*****721",
+   "criado": "10:58",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554499447202",
+   "tel": "5544*****202",
+   "criado": "11:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
   },
   {
    "nome": "Keisy Silva",
@@ -514,17 +570,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Rômulo Evaristo",
-   "tel": "5521*****509",
-   "criado": "11:21",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "5521983936195",
    "tel": "5521*****195",
    "criado": "10:48",
@@ -533,17 +578,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Rafael Alves",
-   "tel": "5586*****721",
-   "criado": "10:58",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
    "area": "Trabalhista"
   },
   {
