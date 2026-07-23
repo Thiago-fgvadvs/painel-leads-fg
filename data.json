@@ -1,23 +1,23 @@
 {
- "gerado_em": "23/07/2026, 13:17",
+ "gerado_em": "23/07/2026, 13:33",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 18,
+  "total": 22,
+  "no_sla": 19,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 231,
-  "tickets_abertos": 128,
+  "leads_7d": 232,
+  "tickets_abertos": 130,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   },
   {
@@ -27,17 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 7
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 6
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 7
   },
   {
    "url": "www.instagram.com/p/DYVTKQODOlC/",
@@ -61,19 +61,19 @@
   }
  ],
  "areas": {
+  "Nao identificada": 10,
   "Trabalhista": 9,
-  "Nao identificada": 9,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 171,
-  "turnos": 551,
+  "grupos_ativos": 172,
+  "turnos": 552,
   "respondidos": 546,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 18.6,
   "atendentes": [
    {
@@ -113,6 +113,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.C.M x INSS",
+    "dia": "23/07",
+    "desde": "13:27",
+    "ts": 1784824026455
+   },
    {
     "grupo": "E.I.R.T.D.S x V N SILVA CONSTRUCAO CIVIL LTDA",
     "dia": "23/07",
@@ -193,6 +199,12 @@
     "dia": "23/07",
     "desde": "11:52",
     "ts": 1784818370380
+   },
+   {
+    "grupo": "A.C.M x INSS",
+    "dia": "23/07",
+    "desde": "13:27",
+    "ts": 1784824026455
    }
   ]
  },
@@ -487,19 +499,30 @@
   ]
  },
  "agora": {
-  "fila": 53,
-  "abertos": 128,
+  "fila": 55,
+  "abertos": 130,
   "com_atendimento": 6,
   "online": 5,
   "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 7644
+  "espera_media_s": 7567
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-23T16:10:16.234Z",
-  "min_sem_lead": 8
+  "ultimo_lead_at": "2026-07-22T02:42:45.522Z",
+  "min_sem_lead": 2270
  },
  "leads": [
+  {
+   "nome": "5511943250146",
+   "tel": "5511*****146",
+   "criado": "13:18",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Adão",
    "tel": "5547*****206",
