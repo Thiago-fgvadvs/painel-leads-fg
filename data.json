@@ -1,23 +1,23 @@
 {
- "gerado_em": "23/07/2026, 14:03",
+ "gerado_em": "23/07/2026, 14:19",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
-  "no_sla": 23,
+  "total": 28,
+  "no_sla": 24,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 236,
-  "tickets_abertos": 135,
+  "leads_7d": 238,
+  "tickets_abertos": 138,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 24,
+   "leads": 25,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 24,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -37,11 +37,11 @@
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 7
+   "leads": 8
   },
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "www.instagram.com/p/DYVTKQODOlC/",
@@ -61,25 +61,32 @@
   }
  ],
  "areas": {
-  "Nao identificada": 12,
-  "Trabalhista": 11,
+  "Nao identificada": 13,
+  "Trabalhista": 12,
   "Previdenciario": 3
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Cleane Santos ",
+   "tel": "5579*****431",
+   "criado": "14:18",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 172,
-  "turnos": 553,
-  "respondidos": 546,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 18.6,
+  "grupos_ativos": 174,
+  "turnos": 559,
+  "respondidos": 551,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 18.5,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 256,
-    "mediana_min": 27.3
+    "respostas": 261,
+    "mediana_min": 27.2
    },
    {
     "nome": "Nicolas",
@@ -113,6 +120,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.P.D.S.J x VR MARKETING INTEGRADO SA",
+    "dia": "23/07",
+    "desde": "11:12",
+    "ts": 1784815939478
+   },
    {
     "grupo": "R.P x SEARA ALIMENTOS LTDA",
     "dia": "23/07",
@@ -199,6 +212,12 @@
     "dia": "22/07",
     "desde": "18:10",
     "ts": 1784754648150
+   },
+   {
+    "grupo": "J.P.D.S.J x VR MARKETING INTEGRADO SA",
+    "dia": "23/07",
+    "desde": "11:12",
+    "ts": 1784815939478
    },
    {
     "grupo": "E.I.R.T.D.S x V N SILVA CONSTRUCAO CIVIL LTDA",
@@ -511,28 +530,28 @@
   ]
  },
  "agora": {
-  "fila": 59,
-  "abertos": 135,
+  "fila": 61,
+  "abertos": 138,
   "com_atendimento": 7,
   "online": 6,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 7274
+  "espera_media_s": 7136
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-23T16:56:11.700Z",
-  "min_sem_lead": 8
+  "ultimo_lead_at": "2026-07-23T17:18:36.361Z",
+  "min_sem_lead": 0
  },
  "leads": [
   {
-   "nome": "ta",
-   "tel": "5535*****410",
-   "criado": "13:56",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
+   "nome": "Cleane Santos ",
+   "tel": "5579*****431",
+   "criado": "14:18",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
   },
   {
@@ -547,6 +566,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "LDA",
+   "tel": "5567*****368",
+   "criado": "13:44",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
    "nome": "❤️",
    "tel": "5511*****818",
    "criado": "13:51",
@@ -556,6 +586,28 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5511992483474",
+   "tel": "5511*****474",
+   "criado": "14:06",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "ta",
+   "tel": "5535*****410",
+   "criado": "13:56",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
   },
   {
    "nome": "Rômulo Evaristo",
@@ -572,17 +624,6 @@
    "nome": "Pretinha ♥️",
    "tel": "5511*****146",
    "criado": "13:18",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "LDA",
-   "tel": "5567*****368",
-   "criado": "13:44",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
