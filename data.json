@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/07/2026, 11:31",
+ "gerado_em": "23/07/2026, 11:46",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -53,9 +53,9 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
+  "Previdenciario": 2,
   "Trabalhista": 7,
-  "Previdenciario": 1
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -470,14 +470,14 @@
   "fila": 48,
   "abertos": 123,
   "com_atendimento": 7,
-  "online": 3,
+  "online": 0,
   "offline": 3,
-  "ausentes": 3,
+  "ausentes": 6,
   "espera_media_s": 8054
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-23T14:28:13.734Z",
-  "min_sem_lead": 3
+  "ultimo_lead_at": "2026-07-23T13:58:04.865Z",
+  "min_sem_lead": 48
  },
  "leads": [
   {
@@ -489,7 +489,18 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Keisy Silva",
+   "tel": "5519*****793",
+   "criado": "10:14",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
   },
   {
    "nome": "...",
@@ -533,17 +544,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Keisy Silva",
-   "tel": "5519*****793",
-   "criado": "10:14",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
   },
   {
