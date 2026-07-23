@@ -1,17 +1,17 @@
 {
- "gerado_em": "23/07/2026, 12:47",
+ "gerado_em": "23/07/2026, 13:02",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
+  "total": 20,
   "no_sla": 17,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 229,
-  "tickets_abertos": 130,
+  "leads_7d": 230,
+  "tickets_abertos": 128,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 17,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -57,7 +57,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 8,
+  "Nao identificada": 9,
   "Previdenciario": 3,
   "Trabalhista": 8
  },
@@ -66,15 +66,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 168,
-  "turnos": 548,
-  "respondidos": 540,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 18.8,
+  "turnos": 550,
+  "respondidos": 544,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 18.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 253,
+    "respostas": 255,
     "mediana_min": 27.2
    },
    {
@@ -84,7 +84,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 37,
+    "respostas": 39,
     "mediana_min": 3.9
    },
    {
@@ -110,22 +110,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
-    "dia": "23/07",
-    "desde": "12:46",
-    "ts": 1784821599542
-   },
-   {
     "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
     "dia": "23/07",
     "desde": "12:09",
     "ts": 1784819372536
-   },
-   {
-    "grupo": "R.F.B x CONSTRUTORA ALAIATE LTDA",
-    "dia": "23/07",
-    "desde": "11:58",
-    "ts": 1784818732525
    },
    {
     "grupo": "E.I.R.T.D.S x V N SILVA CONSTRUCAO CIVIL LTDA",
@@ -209,22 +197,10 @@
     "ts": 1784818370380
    },
    {
-    "grupo": "R.F.B x CONSTRUTORA ALAIATE LTDA",
-    "dia": "23/07",
-    "desde": "11:58",
-    "ts": 1784818732525
-   },
-   {
     "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
     "dia": "23/07",
     "desde": "12:09",
     "ts": 1784819372536
-   },
-   {
-    "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
-    "dia": "23/07",
-    "desde": "12:46",
-    "ts": 1784821599542
    }
   ]
  },
@@ -519,17 +495,17 @@
   ]
  },
  "agora": {
-  "fila": 53,
-  "abertos": 130,
+  "fila": 52,
+  "abertos": 128,
   "com_atendimento": 7,
   "online": 5,
-  "offline": 3,
-  "ausentes": 1,
+  "offline": 2,
+  "ausentes": 2,
   "espera_media_s": 7644
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-23T15:45:48.257Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-06-23T17:40:17.851Z",
+  "min_sem_lead": 43102
  },
  "leads": [
   {
@@ -555,7 +531,7 @@
    "area": "Previdenciario"
   },
   {
-   "nome": "554499447202",
+   "nome": "Lucimara Sofientini",
    "tel": "5544*****202",
    "criado": "11:49",
    "atendente": "Fernanda Gehm - Administradora",
@@ -739,6 +715,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5522998646570",
+   "tel": "5522*****570",
+   "criado": "13:00",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
