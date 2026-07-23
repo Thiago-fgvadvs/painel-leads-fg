@@ -1,17 +1,17 @@
 {
- "gerado_em": "23/07/2026, 09:59",
+ "gerado_em": "23/07/2026, 10:14",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
+  "total": 7,
   "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 216,
-  "tickets_abertos": 117,
+  "leads_7d": 217,
+  "tickets_abertos": 120,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 6,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -40,30 +40,30 @@
   }
  ],
  "areas": {
+  "Trabalhista": 1,
   "Previdenciario": 1,
-  "Nao identificada": 4,
-  "Trabalhista": 1
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 167,
-  "turnos": 502,
-  "respondidos": 494,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 20.8,
+  "turnos": 510,
+  "respondidos": 501,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 21.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 223,
-    "mediana_min": 33.5
+    "respostas": 226,
+    "mediana_min": 33.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 164,
-    "mediana_min": 27.6
+    "respostas": 168,
+    "mediana_min": 27.3
    },
    {
     "nome": "Gabrielle",
@@ -93,10 +93,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "23/07",
-    "desde": "09:43",
-    "ts": 1784810632368
+    "desde": "10:06",
+    "ts": 1784811989289
+   },
+   {
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "23/07",
+    "desde": "10:01",
+    "ts": 1784811692285
    },
    {
     "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
@@ -158,6 +164,13 @@
     "dia": "21/07",
     "desde": "15:42",
     "ts": 1784659373252
+   },
+   {
+    "nome": "5519983286793",
+    "tel": "5519*****793",
+    "dia": "23/07",
+    "desde": "10:14",
+    "ts": 1784812476930
    }
   ],
   "grupos": [
@@ -204,10 +217,16 @@
     "ts": 1784808250296
    },
    {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "23/07",
-    "desde": "09:43",
-    "ts": 1784810632368
+    "desde": "10:01",
+    "ts": 1784811692285
+   },
+   {
+    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
+    "dia": "23/07",
+    "desde": "10:06",
+    "ts": 1784811989289
    }
   ]
  },
@@ -503,18 +522,29 @@
  },
  "agora": {
   "fila": 42,
-  "abertos": 117,
+  "abertos": 120,
   "com_atendimento": 7,
   "online": 6,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 8810
+  "espera_media_s": 8707
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-09T23:05:11.011Z",
-  "min_sem_lead": 62754
+  "ultimo_lead_at": "2026-07-20T15:38:02.130Z",
+  "min_sem_lead": 4177
  },
  "leads": [
+  {
+   "nome": "Daiane Fernandes",
+   "tel": "5519*****690",
+   "criado": "09:19",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "José Augusto",
    "tel": "5514*****831",
@@ -536,17 +566,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Daiane Fernandes",
-   "tel": "5519*****690",
-   "criado": "09:19",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
   },
   {
    "nome": "ingridyvitoria062705",
@@ -579,6 +598,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5519983286793",
+   "tel": "5519*****793",
+   "criado": "10:14",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
