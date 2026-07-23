@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/07/2026, 09:29",
+ "gerado_em": "23/07/2026, 09:44",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -40,34 +40,35 @@
   }
  ],
  "areas": {
-  "Nao identificada": 5,
-  "Trabalhista": 1
+  "Previdenciario": 1,
+  "Trabalhista": 1,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 159,
-  "turnos": 490,
-  "respondidos": 483,
+  "grupos_ativos": 163,
+  "turnos": 498,
+  "respondidos": 491,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 19.6,
+  "mediana_min": 20.5,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 219,
+    "respostas": 223,
     "mediana_min": 33.5
    },
    {
     "nome": "Nicolas",
-    "respostas": 159,
-    "mediana_min": 24.1
+    "respostas": 162,
+    "mediana_min": 27.3
    },
    {
     "nome": "Gabrielle",
-    "respostas": 27,
-    "mediana_min": 3.9
+    "respostas": 28,
+    "mediana_min": 3.8
    },
    {
     "nome": "Eduardo",
@@ -92,10 +93,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "P.D.P.G x STERILENO COMERCIO E SERVICOS LTDA",
+    "grupo": "A.M x INSS",
     "dia": "23/07",
-    "desde": "09:09",
-    "ts": 1784808559332
+    "desde": "09:04",
+    "ts": 1784808250296
    },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
@@ -191,10 +192,10 @@
     "ts": 1784806525307
    },
    {
-    "grupo": "P.D.P.G x STERILENO COMERCIO E SERVICOS LTDA",
+    "grupo": "A.M x INSS",
     "dia": "23/07",
-    "desde": "09:09",
-    "ts": 1784808559332
+    "desde": "09:04",
+    "ts": 1784808250296
    }
   ]
  },
@@ -489,29 +490,29 @@
   ]
  },
  "agora": {
-  "fila": 41,
+  "fila": 43,
   "abertos": 117,
-  "com_atendimento": 7,
-  "online": 7,
+  "com_atendimento": 8,
+  "online": 6,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 8809
+  "ausentes": 1,
+  "espera_media_s": 8810
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T15:51:20.696Z",
-  "min_sem_lead": 1238
+  "ultimo_lead_at": "2026-07-23T12:19:23.231Z",
+  "min_sem_lead": 25
  },
  "leads": [
   {
-   "nome": "ingridyvitoria062705",
-   "tel": "5511*****416",
-   "criado": "08:49",
+   "nome": "José Augusto",
+   "tel": "5514*****831",
+   "criado": "09:19",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Previdenciario"
   },
   {
    "nome": "Daiane Fernandes",
@@ -525,14 +526,14 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "José Augusto",
-   "tel": "5514*****831",
-   "criado": "09:19",
+   "nome": "ingridyvitoria062705",
+   "tel": "5511*****416",
+   "criado": "08:49",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
+   "espera_min": 0.3,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
   },
   {
