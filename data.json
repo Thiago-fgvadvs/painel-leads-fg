@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/07/2026, 16:21",
+ "gerado_em": "23/07/2026, 16:36",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 97,
   "mediana_geral": 0.4,
   "leads_7d": 241,
-  "tickets_abertos": 141,
+  "tickets_abertos": 136,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,14 +65,14 @@
   }
  ],
  "areas": {
-  "Trabalhista": 15,
   "Previdenciario": 3,
+  "Trabalhista": 15,
   "Nao identificada": 13
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
   {
-   "nome": "5522998646570",
+   "nome": "Luana",
    "tel": "5522*****570",
    "criado": "13:00",
    "espera_min": 192.4,
@@ -82,10 +82,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 174,
-  "turnos": 573,
+  "turnos": 574,
   "respondidos": 566,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 18.8,
   "atendentes": [
    {
@@ -125,6 +125,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
+    "dia": "23/07",
+    "desde": "15:28",
+    "ts": 1784831323682
+   },
    {
     "grupo": "A.D.S.S x ESSE ALIMENTAR COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
     "dia": "23/07",
@@ -171,22 +177,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Pedro Wellington",
-    "tel": "5585*****602",
-    "dia": "21/07",
-    "desde": "10:35",
-    "ts": 1784640930731
-   },
-   {
-    "nome": "Damarcia Sueli",
-    "tel": "5511*****649",
-    "dia": "21/07",
-    "desde": "15:42",
-    "ts": 1784659373252
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -229,6 +220,12 @@
     "dia": "23/07",
     "desde": "15:04",
     "ts": 1784829853551
+   },
+   {
+    "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
+    "dia": "23/07",
+    "desde": "15:28",
+    "ts": 1784831323682
    }
   ]
  },
@@ -523,30 +520,19 @@
   ]
  },
  "agora": {
-  "fila": 67,
-  "abertos": 141,
-  "com_atendimento": 5,
-  "online": 3,
-  "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 6875
+  "fila": 59,
+  "abertos": 136,
+  "com_atendimento": 6,
+  "online": 6,
+  "offline": 2,
+  "ausentes": 1,
+  "espera_media_s": 7069
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 655441
+  "ultimo_lead_at": "2026-07-23T14:28:13.734Z",
+  "min_sem_lead": 308
  },
  "leads": [
-  {
-   "nome": "Cleane Santos ",
-   "tel": "5579*****431",
-   "criado": "14:18",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Ana Beatriz",
    "tel": "5531*****284",
@@ -570,6 +556,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "Cleane Santos ",
+   "tel": "5579*****431",
+   "criado": "14:18",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "Adão",
    "tel": "5547*****206",
    "criado": "13:10",
@@ -581,7 +578,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5522998646570",
+   "nome": "Luana",
    "tel": "5522*****570",
    "criado": "13:00",
    "atendente": "Fernanda Gehm - Administradora",
