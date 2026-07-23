@@ -1,17 +1,17 @@
 {
- "gerado_em": "23/07/2026, 10:30",
+ "gerado_em": "23/07/2026, 10:45",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 6,
+  "total": 9,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 218,
-  "tickets_abertos": 121,
+  "leads_7d": 219,
+  "tickets_abertos": 119,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "Fernanda Gehm - Administradora",
    "leads": 8,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Eduardo",
+   "leads": 1,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 8,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -40,8 +45,8 @@
   }
  ],
  "areas": {
+  "Trabalhista": 3,
   "Nao identificada": 5,
-  "Trabalhista": 2,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -49,16 +54,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 168,
-  "turnos": 516,
-  "respondidos": 508,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 21,
+  "turnos": 524,
+  "respondidos": 515,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 19.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 231,
-    "mediana_min": 32.2
+    "respostas": 238,
+    "mediana_min": 30.6
    },
    {
     "nome": "Nicolas",
@@ -93,10 +98,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.D.A.O.B x CENTRO EDUCACIONAL ESCOLA JARDIM GUANABARA LTDA oficial",
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "23/07",
-    "desde": "10:21",
-    "ts": 1784812905436
+    "desde": "10:40",
+    "ts": 1784814036448
+   },
+   {
+    "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
+    "dia": "23/07",
+    "desde": "10:33",
+    "ts": 1784813612318
    },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
@@ -204,10 +215,16 @@
     "ts": 1784811989289
    },
    {
-    "grupo": "L.D.A.O.B x CENTRO EDUCACIONAL ESCOLA JARDIM GUANABARA LTDA oficial",
+    "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
     "dia": "23/07",
-    "desde": "10:21",
-    "ts": 1784812905436
+    "desde": "10:33",
+    "ts": 1784813612318
+   },
+   {
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "23/07",
+    "desde": "10:40",
+    "ts": 1784814036448
    }
   ]
  },
@@ -502,17 +519,17 @@
   ]
  },
  "agora": {
-  "fila": 43,
-  "abertos": 121,
+  "fila": 41,
+  "abertos": 119,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 2,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 8510
+  "ausentes": 4,
+  "espera_media_s": 8708
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-23T13:25:40.804Z",
-  "min_sem_lead": 4
+  "min_sem_lead": 20
  },
  "leads": [
   {
@@ -524,7 +541,7 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "Keisy Silva",
@@ -536,6 +553,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "GABRIELE FERREIRA",
+   "tel": "5521*****836",
+   "criado": "10:30",
+   "atendente": "Eduardo",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Daiane Fernandes",
