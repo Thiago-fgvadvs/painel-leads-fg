@@ -1,23 +1,23 @@
 {
- "gerado_em": "23/07/2026, 10:45",
+ "gerado_em": "23/07/2026, 11:00",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 7,
+  "total": 12,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 219,
-  "tickets_abertos": 119,
+  "leads_7d": 222,
+  "tickets_abertos": 122,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 8,
+   "leads": 11,
    "mediana_min": 0.4
   },
   {
@@ -27,17 +27,21 @@
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 11,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 4
+   "leads": 6
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DaVuNbaM1sG/",
+   "leads": 1
   },
   {
    "url": "fb.me/cMY7LLYxT",
@@ -45,8 +49,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3,
-  "Nao identificada": 5,
+  "Trabalhista": 5,
+  "Nao identificada": 6,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -54,16 +58,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 168,
-  "turnos": 524,
-  "respondidos": 515,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "turnos": 529,
+  "respondidos": 522,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 19.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 238,
-    "mediana_min": 30.6
+    "respostas": 244,
+    "mediana_min": 29.4
    },
    {
     "nome": "Nicolas",
@@ -72,8 +76,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 29,
-    "mediana_min": 3.9
+    "respostas": 30,
+    "mediana_min": 4
    },
    {
     "nome": "Eduardo",
@@ -98,28 +102,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "23/07",
-    "desde": "10:40",
-    "ts": 1784814036448
-   },
-   {
-    "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
-    "dia": "23/07",
-    "desde": "10:33",
-    "ts": 1784813612318
-   },
-   {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "23/07",
-    "desde": "10:06",
-    "ts": 1784811989289
+    "desde": "10:51",
+    "ts": 1784814718460
    },
    {
-    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
-    "dia": "20/07",
-    "desde": "19:58",
-    "ts": 1784588281015
+    "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
+    "dia": "22/07",
+    "desde": "21:45",
+    "ts": 1784767515223
    },
    {
     "grupo": "E.I.R.T.D.S x V N SILVA CONSTRUCAO CIVIL LTDA",
@@ -173,12 +165,6 @@
   ],
   "grupos": [
    {
-    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
-    "dia": "20/07",
-    "desde": "19:58",
-    "ts": 1784588281015
-   },
-   {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
     "dia": "21/07",
     "desde": "12:19",
@@ -209,22 +195,16 @@
     "ts": 1784755971195
    },
    {
+    "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
+    "dia": "22/07",
+    "desde": "21:45",
+    "ts": 1784767515223
+   },
+   {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "23/07",
-    "desde": "10:06",
-    "ts": 1784811989289
-   },
-   {
-    "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
-    "dia": "23/07",
-    "desde": "10:33",
-    "ts": 1784813612318
-   },
-   {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "23/07",
-    "desde": "10:40",
-    "ts": 1784814036448
+    "desde": "10:51",
+    "ts": 1784814718460
    }
   ]
  },
@@ -519,25 +499,36 @@
   ]
  },
  "agora": {
-  "fila": 41,
-  "abertos": 119,
+  "fila": 45,
+  "abertos": 122,
   "com_atendimento": 7,
-  "online": 2,
+  "online": 4,
   "offline": 3,
-  "ausentes": 4,
-  "espera_media_s": 8708
+  "ausentes": 2,
+  "espera_media_s": 8322
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-23T13:25:40.804Z",
-  "min_sem_lead": 20
+  "ultimo_lead_at": "2026-07-23T13:58:04.865Z",
+  "min_sem_lead": 2
  },
  "leads": [
   {
-   "nome": "Tainara",
-   "tel": "5592*****187",
-   "criado": "10:25",
+   "nome": "558699841721",
+   "tel": "5586*****721",
+   "criado": "10:58",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5521983936195",
+   "tel": "5521*****195",
+   "criado": "10:48",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
@@ -547,6 +538,28 @@
    "nome": "Keisy Silva",
    "tel": "5519*****793",
    "criado": "10:14",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5521970704724",
+   "tel": "5521*****724",
+   "criado": "10:48",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Tainara",
+   "tel": "5592*****187",
+   "criado": "10:25",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
