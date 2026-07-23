@@ -1,31 +1,35 @@
 {
- "gerado_em": "23/07/2026, 09:13",
+ "gerado_em": "23/07/2026, 09:29",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 1,
+  "total": 6,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
-  "mediana_geral": 0.3,
-  "leads_7d": 213,
-  "tickets_abertos": 111,
+  "mediana_geral": 0.4,
+  "leads_7d": 216,
+  "tickets_abertos": 117,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 3,
-   "mediana_min": 0.3
+   "leads": 6,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 6,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 3
+  },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 2
@@ -36,33 +40,34 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3
+  "Nao identificada": 5,
+  "Trabalhista": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 159,
-  "turnos": 484,
-  "respondidos": 478,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 19.4,
+  "turnos": 490,
+  "respondidos": 483,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 19.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 217,
+    "respostas": 219,
     "mediana_min": 33.5
    },
    {
     "nome": "Nicolas",
-    "respostas": 158,
-    "mediana_min": 24
+    "respostas": 159,
+    "mediana_min": 24.1
    },
    {
     "nome": "Gabrielle",
-    "respostas": 26,
-    "mediana_min": 3.8
+    "respostas": 27,
+    "mediana_min": 3.9
    },
    {
     "nome": "Eduardo",
@@ -70,14 +75,14 @@
     "mediana_min": 13
    },
    {
+    "nome": "Thauany",
+    "respostas": 24,
+    "mediana_min": 0.6
+   },
+   {
     "nome": "Luisa",
     "respostas": 24,
     "mediana_min": 4.3
-   },
-   {
-    "nome": "Thauany",
-    "respostas": 23,
-    "mediana_min": 0.6
    },
    {
     "nome": "—",
@@ -86,6 +91,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "P.D.P.G x STERILENO COMERCIO E SERVICOS LTDA",
+    "dia": "23/07",
+    "desde": "09:09",
+    "ts": 1784808559332
+   },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "23/07",
@@ -178,18 +189,33 @@
     "dia": "23/07",
     "desde": "08:35",
     "ts": 1784806525307
+   },
+   {
+    "grupo": "P.D.P.G x STERILENO COMERCIO E SERVICOS LTDA",
+    "dia": "23/07",
+    "desde": "09:09",
+    "ts": 1784808559332
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 30,
+  "total": 31,
   "por_vendedor": {
+   "Tiago Bernardo": 3,
    "Eduardo": 26,
-   "Tiago Bernardo": 2,
    "Roseli": 2
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "—",
+    "dia": "23/07",
+    "hora": "09:20",
+    "ts": 1784809219022,
+    "origem": "Anúncio: Trabalhista - fast foods",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Eduardo",
     "cliente": "A.M",
@@ -349,7 +375,7 @@
     "dia": "17/07",
     "hora": "18:40",
     "ts": 1784324410606,
-    "origem": "Anúncio: Trabalhista - redes varejistas",
+    "origem": "Anúncio: instagram.com/p/DYxXNqoDFAS/",
     "de_anuncio": true
    },
    {
@@ -367,7 +393,7 @@
     "dia": "17/07",
     "hora": "18:39",
     "ts": 1784324364306,
-    "origem": "Anúncio: fb.me/8V4QmfBLN",
+    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
     "de_anuncio": true
    },
    {
@@ -463,17 +489,17 @@
   ]
  },
  "agora": {
-  "fila": 38,
-  "abertos": 111,
-  "com_atendimento": 6,
-  "online": 4,
-  "offline": 4,
-  "ausentes": 1,
-  "espera_media_s": 9131
+  "fila": 41,
+  "abertos": 117,
+  "com_atendimento": 7,
+  "online": 7,
+  "offline": 2,
+  "ausentes": 0,
+  "espera_media_s": 8809
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-16T15:45:19.579Z",
-  "min_sem_lead": 9868
+  "ultimo_lead_at": "2026-07-22T15:51:20.696Z",
+  "min_sem_lead": 1238
  },
  "leads": [
   {
@@ -485,6 +511,39 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Daiane Fernandes",
+   "tel": "5519*****690",
+   "criado": "09:19",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "José Augusto",
+   "tel": "5514*****831",
+   "criado": "09:19",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Joyce Schultz",
+   "tel": "5527*****261",
+   "criado": "09:15",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
   },
   {
