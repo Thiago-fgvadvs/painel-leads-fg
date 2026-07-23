@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/07/2026, 14:49",
+ "gerado_em": "23/07/2026, 15:04",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 240,
-  "tickets_abertos": 142,
+  "tickets_abertos": 141,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -70,16 +70,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 174,
-  "turnos": 562,
-  "respondidos": 553,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 18.7,
+  "turnos": 564,
+  "respondidos": 556,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 18.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 263,
-    "mediana_min": 27.4
+    "respostas": 265,
+    "mediana_min": 28.2
    },
    {
     "nome": "Nicolas",
@@ -93,8 +93,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 25,
-    "mediana_min": 13
+    "respostas": 26,
+    "mediana_min": 14.5
    },
    {
     "nome": "Thauany",
@@ -116,20 +116,14 @@
    {
     "grupo": "A.D.S.S x ESSE ALIMENTAR COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
     "dia": "23/07",
-    "desde": "14:21",
-    "ts": 1784827319641
+    "desde": "15:04",
+    "ts": 1784829853551
    },
    {
     "grupo": "R.P x SEARA ALIMENTOS LTDA",
     "dia": "23/07",
     "desde": "13:44",
     "ts": 1784825093468
-   },
-   {
-    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
-    "dia": "23/07",
-    "desde": "13:40",
-    "ts": 1784824848592
    },
    {
     "grupo": "A.C.M x INSS",
@@ -225,12 +219,6 @@
     "ts": 1784824026455
    },
    {
-    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
-    "dia": "23/07",
-    "desde": "13:40",
-    "ts": 1784824848592
-   },
-   {
     "grupo": "R.P x SEARA ALIMENTOS LTDA",
     "dia": "23/07",
     "desde": "13:44",
@@ -239,8 +227,8 @@
    {
     "grupo": "A.D.S.S x ESSE ALIMENTAR COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
     "dia": "23/07",
-    "desde": "14:21",
-    "ts": 1784827319641
+    "desde": "15:04",
+    "ts": 1784829853551
    }
   ]
  },
@@ -535,25 +523,25 @@
   ]
  },
  "agora": {
-  "fila": 65,
-  "abertos": 142,
-  "com_atendimento": 7,
+  "fila": 64,
+  "abertos": 141,
+  "com_atendimento": 6,
   "online": 5,
   "offline": 2,
   "ausentes": 2,
   "espera_media_s": 6875
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T17:58:28.677Z",
-  "min_sem_lead": 2871
+  "ultimo_lead_at": "2026-06-17T02:15:11.108Z",
+  "min_sem_lead": 52790
  },
  "leads": [
   {
-   "nome": "Hugo Valente",
-   "tel": "5521*****508",
-   "criado": "14:27",
+   "nome": "Cleane Santos ",
+   "tel": "5579*****431",
+   "criado": "14:18",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
@@ -569,6 +557,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Cintia",
+   "tel": "5545*****821",
+   "criado": "13:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Hugo Valente",
+   "tel": "5521*****508",
+   "criado": "14:27",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
   },
   {
    "nome": "ta",
@@ -587,28 +597,6 @@
    "criado": "14:06",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Cleane Santos ",
-   "tel": "5579*****431",
-   "criado": "14:18",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Cintia",
-   "tel": "5545*****821",
-   "criado": "13:59",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
