@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/07/2026, 09:44",
+ "gerado_em": "23/07/2026, 09:59",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -41,19 +41,19 @@
  ],
  "areas": {
   "Previdenciario": 1,
-  "Trabalhista": 1,
-  "Nao identificada": 4
+  "Nao identificada": 4,
+  "Trabalhista": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 163,
-  "turnos": 498,
-  "respondidos": 491,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 20.5,
+  "grupos_ativos": 167,
+  "turnos": 502,
+  "respondidos": 494,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 20.8,
   "atendentes": [
    {
     "nome": "Julia",
@@ -62,13 +62,13 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 162,
-    "mediana_min": 27.3
+    "respostas": 164,
+    "mediana_min": 27.6
    },
    {
     "nome": "Gabrielle",
-    "respostas": 28,
-    "mediana_min": 3.8
+    "respostas": 29,
+    "mediana_min": 3.9
    },
    {
     "nome": "Eduardo",
@@ -93,16 +93,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "dia": "23/07",
+    "desde": "09:43",
+    "ts": 1784810632368
+   },
+   {
+    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
+    "dia": "20/07",
+    "desde": "19:58",
+    "ts": 1784588281015
+   },
+   {
     "grupo": "A.M x INSS",
     "dia": "23/07",
     "desde": "09:04",
     "ts": 1784808250296
-   },
-   {
-    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
-    "dia": "23/07",
-    "desde": "08:35",
-    "ts": 1784806525307
    },
    {
     "grupo": "E.I.R.T.D.S x V N SILVA CONSTRUCAO CIVIL LTDA",
@@ -156,6 +162,12 @@
   ],
   "grupos": [
    {
+    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
+    "dia": "20/07",
+    "desde": "19:58",
+    "ts": 1784588281015
+   },
+   {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
     "dia": "21/07",
     "desde": "12:19",
@@ -186,16 +198,16 @@
     "ts": 1784755971195
    },
    {
-    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
-    "dia": "23/07",
-    "desde": "08:35",
-    "ts": 1784806525307
-   },
-   {
     "grupo": "A.M x INSS",
     "dia": "23/07",
     "desde": "09:04",
     "ts": 1784808250296
+   },
+   {
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "dia": "23/07",
+    "desde": "09:43",
+    "ts": 1784810632368
    }
   ]
  },
@@ -490,17 +502,17 @@
   ]
  },
  "agora": {
-  "fila": 43,
+  "fila": 42,
   "abertos": 117,
-  "com_atendimento": 8,
+  "com_atendimento": 7,
   "online": 6,
-  "offline": 2,
-  "ausentes": 1,
+  "offline": 3,
+  "ausentes": 0,
   "espera_media_s": 8810
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-23T12:19:23.231Z",
-  "min_sem_lead": 25
+  "ultimo_lead_at": "2026-06-09T23:05:11.011Z",
+  "min_sem_lead": 62754
  },
  "leads": [
   {
@@ -513,6 +525,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "Joyce Schultz",
+   "tel": "5527*****261",
+   "criado": "09:15",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
   },
   {
    "nome": "Daiane Fernandes",
@@ -534,17 +557,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Joyce Schultz",
-   "tel": "5527*****261",
-   "criado": "09:15",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
   },
   {
