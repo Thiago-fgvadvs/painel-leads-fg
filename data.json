@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/07/2026, 08:28",
+ "gerado_em": "23/07/2026, 08:43",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -43,10 +43,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 156,
-  "turnos": 481,
+  "turnos": 482,
   "respondidos": 476,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 19.2,
   "atendentes": [
    {
@@ -86,6 +86,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
+    "dia": "23/07",
+    "desde": "08:35",
+    "ts": 1784806525307
+   },
    {
     "grupo": "E.I.R.T.D.S x V N SILVA CONSTRUCAO CIVIL LTDA",
     "dia": "22/07",
@@ -166,6 +172,12 @@
     "dia": "22/07",
     "desde": "18:32",
     "ts": 1784755971195
+   },
+   {
+    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
+    "dia": "23/07",
+    "desde": "08:35",
+    "ts": 1784806525307
    }
   ]
  },
@@ -461,7 +473,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 654968
+  "min_sem_lead": 654983
  },
  "leads": [
   {
