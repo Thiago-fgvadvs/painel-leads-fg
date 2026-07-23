@@ -1,34 +1,34 @@
 {
- "gerado_em": "23/07/2026, 08:43",
+ "gerado_em": "23/07/2026, 08:58",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
-  "no_sla": 0,
+  "total": 3,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 212,
-  "tickets_abertos": 108,
+  "pct_sla": 100,
+  "mediana_geral": 0.3,
+  "leads_7d": 213,
+  "tickets_abertos": 109,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 2,
-   "mediana_min": null
+   "leads": 3,
+   "mediana_min": 0.3
   }
  ],
  "origem": {
-  "Anuncio": 2,
+  "Anuncio": 3,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 1
+   "leads": 2
   },
   {
    "url": "fb.me/cMY7LLYxT",
@@ -36,13 +36,13 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 156,
+  "grupos_ativos": 157,
   "turnos": 482,
   "respondidos": 476,
   "sem_resposta": 6,
@@ -463,19 +463,30 @@
   ]
  },
  "agora": {
-  "fila": 36,
-  "abertos": 108,
+  "fila": 37,
+  "abertos": 109,
   "com_atendimento": 6,
-  "online": 1,
-  "offline": 8,
+  "online": 2,
+  "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 9359
+  "espera_media_s": 9243
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 654983
+  "ultimo_lead_at": "2026-07-02T23:02:31.774Z",
+  "min_sem_lead": 29576
  },
  "leads": [
+  {
+   "nome": "ingridyvitoria062705",
+   "tel": "5511*****416",
+   "criado": "08:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "🔸J̣̌Ō§ËPĤ MĂČŔÏ🔹",
    "tel": "5511*****721",
