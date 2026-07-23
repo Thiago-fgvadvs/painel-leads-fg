@@ -1,23 +1,23 @@
 {
- "gerado_em": "23/07/2026, 13:33",
+ "gerado_em": "23/07/2026, 13:48",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
-  "no_sla": 19,
+  "total": 23,
+  "no_sla": 20,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 232,
-  "tickets_abertos": 130,
+  "leads_7d": 233,
+  "tickets_abertos": 131,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 7
+   "leads": 8
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
@@ -61,7 +61,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 10,
+  "Nao identificada": 11,
   "Trabalhista": 9,
   "Previdenciario": 3
  },
@@ -70,10 +70,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 172,
-  "turnos": 552,
+  "turnos": 553,
   "respondidos": 546,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 18.6,
   "atendentes": [
    {
@@ -113,6 +113,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.P x SEARA ALIMENTOS LTDA",
+    "dia": "23/07",
+    "desde": "13:44",
+    "ts": 1784825093468
+   },
    {
     "grupo": "A.C.M x INSS",
     "dia": "23/07",
@@ -205,6 +211,12 @@
     "dia": "23/07",
     "desde": "13:27",
     "ts": 1784824026455
+   },
+   {
+    "grupo": "R.P x SEARA ALIMENTOS LTDA",
+    "dia": "23/07",
+    "desde": "13:44",
+    "ts": 1784825093468
    }
   ]
  },
@@ -499,23 +511,34 @@
   ]
  },
  "agora": {
-  "fila": 55,
-  "abertos": 130,
+  "fila": 56,
+  "abertos": 131,
   "com_atendimento": 6,
   "online": 5,
   "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 7567
+  "espera_media_s": 7492
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T02:42:45.522Z",
-  "min_sem_lead": 2270
+  "ultimo_lead_at": "2026-07-23T14:21:41.437Z",
+  "min_sem_lead": 147
  },
  "leads": [
   {
-   "nome": "5511943250146",
+   "nome": "Pretinha ♥️",
    "tel": "5511*****146",
    "criado": "13:18",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "LDA",
+   "tel": "5567*****368",
+   "criado": "13:44",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
