@@ -1,38 +1,38 @@
 {
- "gerado_em": "23/07/2026, 10:14",
+ "gerado_em": "23/07/2026, 10:30",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 4,
+  "total": 8,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 217,
-  "tickets_abertos": 120,
+  "leads_7d": 218,
+  "tickets_abertos": 121,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 6,
+   "leads": 8,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 6,
-  "Direto/Indicacao": 1
+  "Anuncio": 8,
+  "Direto/Indicacao": 0
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 3
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 2
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 3
   },
   {
    "url": "fb.me/cMY7LLYxT",
@@ -40,30 +40,30 @@
   }
  ],
  "areas": {
-  "Trabalhista": 1,
-  "Previdenciario": 1,
-  "Nao identificada": 5
+  "Nao identificada": 5,
+  "Trabalhista": 2,
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 167,
-  "turnos": 510,
-  "respondidos": 501,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 21.2,
+  "grupos_ativos": 168,
+  "turnos": 516,
+  "respondidos": 508,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 21,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 226,
-    "mediana_min": 33.2
+    "respostas": 231,
+    "mediana_min": 32.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 168,
-    "mediana_min": 27.3
+    "respostas": 170,
+    "mediana_min": 26.6
    },
    {
     "nome": "Gabrielle",
@@ -93,28 +93,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.D.A.O.B x CENTRO EDUCACIONAL ESCOLA JARDIM GUANABARA LTDA oficial",
+    "dia": "23/07",
+    "desde": "10:21",
+    "ts": 1784812905436
+   },
+   {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "23/07",
     "desde": "10:06",
     "ts": 1784811989289
    },
    {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "23/07",
-    "desde": "10:01",
-    "ts": 1784811692285
-   },
-   {
     "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
     "dia": "20/07",
     "desde": "19:58",
     "ts": 1784588281015
-   },
-   {
-    "grupo": "A.M x INSS",
-    "dia": "23/07",
-    "desde": "09:04",
-    "ts": 1784808250296
    },
    {
     "grupo": "E.I.R.T.D.S x V N SILVA CONSTRUCAO CIVIL LTDA",
@@ -164,13 +158,6 @@
     "dia": "21/07",
     "desde": "15:42",
     "ts": 1784659373252
-   },
-   {
-    "nome": "5519983286793",
-    "tel": "5519*****793",
-    "dia": "23/07",
-    "desde": "10:14",
-    "ts": 1784812476930
    }
   ],
   "grupos": [
@@ -211,22 +198,16 @@
     "ts": 1784755971195
    },
    {
-    "grupo": "A.M x INSS",
-    "dia": "23/07",
-    "desde": "09:04",
-    "ts": 1784808250296
-   },
-   {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "23/07",
-    "desde": "10:01",
-    "ts": 1784811692285
-   },
-   {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "23/07",
     "desde": "10:06",
     "ts": 1784811989289
+   },
+   {
+    "grupo": "L.D.A.O.B x CENTRO EDUCACIONAL ESCOLA JARDIM GUANABARA LTDA oficial",
+    "dia": "23/07",
+    "desde": "10:21",
+    "ts": 1784812905436
    }
   ]
  },
@@ -521,19 +502,41 @@
   ]
  },
  "agora": {
-  "fila": 42,
-  "abertos": 120,
+  "fila": 43,
+  "abertos": 121,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 8707
+  "ausentes": 1,
+  "espera_media_s": 8510
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-20T15:38:02.130Z",
-  "min_sem_lead": 4177
+  "ultimo_lead_at": "2026-07-23T13:25:40.804Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "Tainara",
+   "tel": "5592*****187",
+   "criado": "10:25",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Keisy Silva",
+   "tel": "5519*****793",
+   "criado": "10:14",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Daiane Fernandes",
    "tel": "5519*****690",
@@ -598,17 +601,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5519983286793",
-   "tel": "5519*****793",
-   "criado": "10:14",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Nao identificada"
   }
  ]
