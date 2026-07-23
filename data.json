@@ -1,23 +1,23 @@
 {
- "gerado_em": "23/07/2026, 16:51",
+ "gerado_em": "23/07/2026, 17:07",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 31,
-  "no_sla": 28,
+  "total": 32,
+  "no_sla": 29,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 241,
-  "tickets_abertos": 132,
+  "leads_7d": 242,
+  "tickets_abertos": 122,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 30,
+   "leads": 31,
    "mediana_min": 0.4
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 27,
-  "Direto/Indicacao": 4
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
@@ -44,6 +44,10 @@
    "leads": 3
   },
   {
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DYVTKQODOlC/",
    "leads": 1
   },
@@ -56,16 +60,12 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DYVTAskDMJ6/",
-   "leads": 1
-  },
-  {
    "url": "fb.me/cMY7LLYxT",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 13,
+  "Nao identificada": 14,
   "Trabalhista": 15,
   "Previdenciario": 3
  },
@@ -82,16 +82,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 175,
-  "turnos": 577,
-  "respondidos": 569,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 18.8,
+  "turnos": 579,
+  "respondidos": 572,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 19,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 274,
-    "mediana_min": 27.8
+    "respostas": 277,
+    "mediana_min": 28.2
    },
    {
     "nome": "Nicolas",
@@ -126,16 +126,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "D.D.A.F x ITAU",
+    "grupo": "A.F.G",
     "dia": "23/07",
-    "desde": "16:20",
-    "ts": 1784834422698
-   },
-   {
-    "grupo": "A.D.S.S x ESSE ALIMENTAR COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
-    "dia": "23/07",
-    "desde": "15:04",
-    "ts": 1784829853551
+    "desde": "16:55",
+    "ts": 1784836529742
    },
    {
     "grupo": "R.P x SEARA ALIMENTOS LTDA",
@@ -216,16 +210,10 @@
     "ts": 1784825093468
    },
    {
-    "grupo": "A.D.S.S x ESSE ALIMENTAR COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
+    "grupo": "A.F.G",
     "dia": "23/07",
-    "desde": "15:04",
-    "ts": 1784829853551
-   },
-   {
-    "grupo": "D.D.A.F x ITAU",
-    "dia": "23/07",
-    "desde": "16:20",
-    "ts": 1784834422698
+    "desde": "16:55",
+    "ts": 1784836529742
    }
   ]
  },
@@ -520,19 +508,96 @@
   ]
  },
  "agora": {
-  "fila": 52,
-  "abertos": 132,
-  "com_atendimento": 7,
+  "fila": 33,
+  "abertos": 122,
+  "com_atendimento": 6,
   "online": 6,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 7418
+  "espera_media_s": 7968
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-25T12:23:07.259Z",
-  "min_sem_lead": 40769
+  "ultimo_lead_at": "2026-07-22T18:43:57.818Z",
+  "min_sem_lead": 1523
  },
  "leads": [
+  {
+   "nome": "🌸",
+   "tel": "5531*****673",
+   "criado": "12:07",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Sjj",
+   "tel": "5571*****469",
+   "criado": "12:45",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "LDA",
+   "tel": "5567*****368",
+   "criado": "13:44",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "❤️",
+   "tel": "5511*****818",
+   "criado": "13:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "FABIO OLIVEIRA",
+   "tel": "5511*****474",
+   "criado": "14:06",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "arielly 💖",
+   "tel": "5585*****507",
+   "criado": "14:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Hugo Valente",
+   "tel": "5521*****508",
+   "criado": "14:27",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Luana",
    "tel": "5522*****570",
@@ -540,6 +605,17 @@
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 192.4,
    "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "jasmye deyd",
+   "tel": "5588*****581",
+   "criado": "16:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
@@ -553,17 +629,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTKQODOlC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Hugo Valente",
-   "tel": "5521*****508",
-   "criado": "14:27",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
   },
   {
@@ -600,17 +665,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "arielly 💖",
-   "tel": "5585*****507",
-   "criado": "14:35",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Cintia",
    "tel": "5545*****821",
    "criado": "13:59",
@@ -633,39 +687,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "FABIO OLIVEIRA",
-   "tel": "5511*****474",
-   "criado": "14:06",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "LDA",
-   "tel": "5567*****368",
-   "criado": "13:44",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "❤️",
-   "tel": "5511*****818",
-   "criado": "13:51",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Rômulo Evaristo",
    "tel": "5521*****509",
    "criado": "11:21",
@@ -685,17 +706,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Sjj",
-   "tel": "5571*****469",
-   "criado": "12:45",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
   },
   {
@@ -729,17 +739,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "🌸",
-   "tel": "5531*****673",
-   "criado": "12:07",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
    "area": "Nao identificada"
   },
   {
