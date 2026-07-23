@@ -1,23 +1,23 @@
 {
- "gerado_em": "23/07/2026, 12:01",
+ "gerado_em": "23/07/2026, 12:16",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 14,
+  "total": 17,
+  "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 226,
-  "tickets_abertos": 125,
+  "leads_7d": 227,
+  "tickets_abertos": 127,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 15,
+   "leads": 16,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 15,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 5
+  },
+  {
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
@@ -53,20 +57,20 @@
   }
  ],
  "areas": {
+  "Nao identificada": 7,
   "Previdenciario": 2,
-  "Trabalhista": 8,
-  "Nao identificada": 6
+  "Trabalhista": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 168,
-  "turnos": 537,
-  "respondidos": 532,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 19,
+  "turnos": 543,
+  "respondidos": 535,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 18.7,
   "atendentes": [
    {
     "nome": "Julia",
@@ -80,8 +84,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 31,
-    "mediana_min": 4
+    "respostas": 34,
+    "mediana_min": 3.8
    },
    {
     "nome": "Eduardo",
@@ -105,6 +109,24 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
+    "dia": "23/07",
+    "desde": "12:15",
+    "ts": 1784819719550
+   },
+   {
+    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
+    "dia": "22/07",
+    "desde": "10:04",
+    "ts": 1784725485708
+   },
+   {
+    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
+    "dia": "23/07",
+    "desde": "12:09",
+    "ts": 1784819372536
+   },
    {
     "grupo": "E.I.R.T.D.S x V N SILVA CONSTRUCAO CIVIL LTDA",
     "dia": "23/07",
@@ -163,6 +185,12 @@
     "ts": 1784647171172
    },
    {
+    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
+    "dia": "22/07",
+    "desde": "10:04",
+    "ts": 1784725485708
+   },
+   {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
     "dia": "22/07",
     "desde": "11:25",
@@ -185,6 +213,18 @@
     "dia": "23/07",
     "desde": "11:52",
     "ts": 1784818370380
+   },
+   {
+    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
+    "dia": "23/07",
+    "desde": "12:09",
+    "ts": 1784819372536
+   },
+   {
+    "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
+    "dia": "23/07",
+    "desde": "12:15",
+    "ts": 1784819719550
    }
   ]
  },
@@ -479,21 +519,32 @@
   ]
  },
  "agora": {
-  "fila": 50,
-  "abertos": 125,
+  "fila": 51,
+  "abertos": 127,
   "com_atendimento": 7,
-  "online": 0,
-  "offline": 5,
-  "ausentes": 4,
-  "espera_media_s": 7885
+  "online": 4,
+  "offline": 3,
+  "ausentes": 2,
+  "espera_media_s": 7803
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-20T15:38:02.130Z",
-  "min_sem_lead": 4284
+  "ultimo_lead_at": "2026-07-23T14:49:47.428Z",
+  "min_sem_lead": 27
  },
  "leads": [
   {
-   "nome": "553191368284",
+   "nome": "554499447202",
+   "tel": "5544*****202",
+   "criado": "11:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Ana Beatriz",
    "tel": "5531*****284",
    "criado": "11:28",
    "atendente": "Fernanda Gehm - Administradora",
@@ -502,6 +553,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "🌸",
+   "tel": "5531*****673",
+   "criado": "12:07",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Nao identificada"
   },
   {
    "nome": "うめい ユウナ",
@@ -535,17 +597,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "554499447202",
-   "tel": "5544*****202",
-   "criado": "11:49",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
   },
   {
    "nome": "Keisy Silva",
