@@ -1,17 +1,17 @@
 {
- "gerado_em": "23/07/2026, 12:16",
+ "gerado_em": "23/07/2026, 12:32",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
+  "total": 18,
   "no_sla": 15,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 227,
-  "tickets_abertos": 127,
+  "leads_7d": 228,
+  "tickets_abertos": 128,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,17 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 15,
+  "Anuncio": 16,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 6
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 5
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 6
   },
   {
    "url": "www.instagram.com/p/DYVTAskDMJ6/",
@@ -57,20 +57,27 @@
   }
  ],
  "areas": {
-  "Nao identificada": 7,
+  "Nao identificada": 8,
   "Previdenciario": 2,
   "Trabalhista": 8
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5512992562968",
+   "tel": "5512*****968",
+   "criado": "12:31",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 168,
-  "turnos": 543,
-  "respondidos": 535,
+  "turnos": 544,
+  "respondidos": 536,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
-  "mediana_min": 18.7,
+  "mediana_min": 18.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -84,8 +91,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 34,
-    "mediana_min": 3.8
+    "respostas": 35,
+    "mediana_min": 3.9
    },
    {
     "nome": "Eduardo",
@@ -112,8 +119,8 @@
    {
     "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
     "dia": "23/07",
-    "desde": "12:15",
-    "ts": 1784819719550
+    "desde": "12:26",
+    "ts": 1784820368552
    },
    {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
@@ -223,8 +230,8 @@
    {
     "grupo": "M.C.C x RIO SHOP SERVIÇOS LTDA ",
     "dia": "23/07",
-    "desde": "12:15",
-    "ts": 1784819719550
+    "desde": "12:26",
+    "ts": 1784820368552
    }
   ]
  },
@@ -520,18 +527,40 @@
  },
  "agora": {
   "fila": 51,
-  "abertos": 127,
+  "abertos": 128,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 5,
   "offline": 3,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 7803
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-23T14:49:47.428Z",
-  "min_sem_lead": 27
+  "ultimo_lead_at": "2026-07-23T15:31:46.262Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "5512992562968",
+   "tel": "5512*****968",
+   "criado": "12:31",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "🌸",
+   "tel": "5531*****673",
+   "criado": "12:07",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "554499447202",
    "tel": "5544*****202",
@@ -553,17 +582,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Previdenciario"
-  },
-  {
-   "nome": "🌸",
-   "tel": "5531*****673",
-   "criado": "12:07",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
-   "area": "Nao identificada"
   },
   {
    "nome": "うめい ユウナ",
