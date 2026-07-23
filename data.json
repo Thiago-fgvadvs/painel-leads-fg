@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/07/2026, 17:37",
+ "gerado_em": "23/07/2026, 17:53",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Previdenciario": 3,
   "Trabalhista": 15,
+  "Previdenciario": 3,
   "Nao identificada": 14
  },
  "sem_resposta_lista": [],
@@ -126,6 +126,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.J.P.B",
+    "dia": "22/07",
+    "desde": "11:46",
+    "ts": 1784731574819
+   },
+   {
     "grupo": "R.P x SEARA ALIMENTOS LTDA",
     "dia": "23/07",
     "desde": "13:44",
@@ -136,12 +142,6 @@
     "dia": "22/07",
     "desde": "18:10",
     "ts": 1784754648150
-   },
-   {
-    "grupo": "A.J.P.B",
-    "dia": "22/07",
-    "desde": "11:46",
-    "ts": 1784731574819
    },
    {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
@@ -488,15 +488,26 @@
   "abertos": 107,
   "com_atendimento": 5,
   "online": 5,
-  "offline": 2,
-  "ausentes": 2,
+  "offline": 3,
+  "ausentes": 1,
   "espera_media_s": 8809
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-17T22:30:39.514Z",
-  "min_sem_lead": 8527
+  "min_sem_lead": 8542
  },
  "leads": [
+  {
+   "nome": "Adão",
+   "tel": "5547*****206",
+   "criado": "13:10",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Ana Beatriz",
    "tel": "5531*****284",
@@ -518,17 +529,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Previdenciario"
-  },
-  {
-   "nome": "Adão",
-   "tel": "5547*****206",
-   "criado": "13:10",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Lucimara Sofientini",
