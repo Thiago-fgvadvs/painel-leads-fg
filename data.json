@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/07/2026, 13:02",
+ "gerado_em": "24/07/2026, 13:18",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 220,
-  "tickets_abertos": 106,
+  "tickets_abertos": 105,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -44,6 +44,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/6VEccJ6hv",
    "leads": 1
   },
@@ -56,37 +60,33 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "leads": 1
-  },
-  {
    "url": "fb.me/8B5V96ay5",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
-  "Nao identificada": 7
+  "Nao identificada": 7,
+  "Trabalhista": 10
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 174,
-  "turnos": 564,
-  "respondidos": 555,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "turnos": 566,
+  "respondidos": 558,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 15.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 269,
+    "respostas": 270,
     "mediana_min": 23.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 170,
+    "respostas": 172,
     "mediana_min": 22.8
    },
    {
@@ -117,22 +117,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
+    "dia": "24/07",
+    "desde": "13:15",
+    "ts": 1784909731007
+   },
+   {
     "grupo": "A.F.G",
     "dia": "24/07",
     "desde": "12:46",
     "ts": 1784908006135
-   },
-   {
-    "grupo": "B.M x FC Oliveira",
-    "dia": "24/07",
-    "desde": "12:05",
-    "ts": 1784905507931
-   },
-   {
-    "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
-    "dia": "24/07",
-    "desde": "11:57",
-    "ts": 1784905077023
    },
    {
     "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
@@ -213,22 +207,16 @@
     "ts": 1784900812972
    },
    {
-    "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
-    "dia": "24/07",
-    "desde": "11:57",
-    "ts": 1784905077023
-   },
-   {
-    "grupo": "B.M x FC Oliveira",
-    "dia": "24/07",
-    "desde": "12:05",
-    "ts": 1784905507931
-   },
-   {
     "grupo": "A.F.G",
     "dia": "24/07",
     "desde": "12:46",
     "ts": 1784908006135
+   },
+   {
+    "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
+    "dia": "24/07",
+    "desde": "13:15",
+    "ts": 1784909731007
    }
   ]
  },
@@ -307,19 +295,52 @@
   ]
  },
  "agora": {
-  "fila": 24,
-  "abertos": 106,
-  "com_atendimento": 8,
-  "online": 4,
+  "fila": 23,
+  "abertos": 105,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 8823
+  "ausentes": 1,
+  "espera_media_s": 8701
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-23T17:40:17.851Z",
-  "min_sem_lead": 44542
+  "ultimo_lead_at": "2026-07-24T13:21:35.580Z",
+  "min_sem_lead": 176
  },
  "leads": [
+  {
+   "nome": "Advogada Camila Sant' Anna",
+   "tel": "5521*****129",
+   "criado": "10:21",
+   "atendente": "Julia",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Tassia 🥰😍😎",
+   "tel": "5511*****397",
+   "criado": "00:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Yasmim",
+   "tel": "5561*****310",
+   "criado": "11:25",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Elis Souza",
    "tel": "5519*****462",
@@ -341,17 +362,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Yasmim",
-   "tel": "5561*****310",
-   "criado": "11:25",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
   },
   {
    "nome": "chikinho show",
@@ -439,28 +449,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Advogada Camila Sant' Anna",
-   "tel": "5521*****129",
-   "criado": "10:21",
-   "atendente": "Julia",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Tassia 🥰😍😎",
-   "tel": "5511*****397",
-   "criado": "00:51",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
   },
   {
