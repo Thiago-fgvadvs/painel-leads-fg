@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/07/2026, 18:38",
+ "gerado_em": "24/07/2026, 18:53",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 94,
   "mediana_geral": 0.4,
   "leads_7d": 225,
-  "tickets_abertos": 101,
+  "tickets_abertos": 102,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -86,10 +86,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 183,
-  "turnos": 615,
+  "turnos": 616,
   "respondidos": 608,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 15.5,
   "atendentes": [
    {
@@ -129,6 +129,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "C.L.M.D.O x HABIBS",
+    "dia": "24/07",
+    "desde": "18:41",
+    "ts": 1784929270274
+   },
    {
     "grupo": "A.S.D.C.G x FUNDACAO DO ABC (HOSPITAL GERAL DE CARAPICUIBA)",
     "dia": "24/07",
@@ -218,6 +224,12 @@
     "dia": "24/07",
     "desde": "17:00",
     "ts": 1784923207281
+   },
+   {
+    "grupo": "C.L.M.D.O x HABIBS",
+    "dia": "24/07",
+    "desde": "18:41",
+    "ts": 1784929270274
    }
   ]
  },
@@ -314,17 +326,17 @@
   ]
  },
  "agora": {
-  "fila": 26,
-  "abertos": 101,
+  "fila": 27,
+  "abertos": 102,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 8467
+  "espera_media_s": 8354
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 657018
+  "ultimo_lead_at": "2026-07-15T20:10:29.023Z",
+  "min_sem_lead": 13063
  },
  "leads": [
   {
