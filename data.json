@@ -1,17 +1,17 @@
 {
- "gerado_em": "24/07/2026, 17:22",
+ "gerado_em": "24/07/2026, 17:37",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 21,
   "no_sla": 17,
-  "fora_sla": 0,
-  "sem_resposta": 1,
+  "fora_sla": 1,
+  "sem_resposta": 0,
   "fora_horario": 3,
-  "pct_sla": 100,
+  "pct_sla": 94,
   "mediana_geral": 0.4,
   "leads_7d": 224,
-  "tickets_abertos": 106,
+  "tickets_abertos": 103,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,6 +19,11 @@
    "nome": "Fernanda Gehm - Administradora",
    "leads": 19,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 90.6
   },
   {
    "nome": "Julia",
@@ -68,28 +73,29 @@
   "Nao identificada": 11,
   "Trabalhista": 10
  },
- "sem_resposta_lista": [
+ "sem_resposta_lista": [],
+ "fora_sla_lista": [
   {
    "nome": "yrá",
    "tel": "5585*****883",
    "criado": "16:01",
-   "area": "Nao identificada"
+   "espera_min": 90.6,
+   "atendente": "Tiago Bernardo"
   }
  ],
- "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 181,
-  "turnos": 606,
-  "respondidos": 598,
+  "turnos": 607,
+  "respondidos": 599,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
-  "mediana_min": 15.3,
+  "mediana_min": 15.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 296,
-    "mediana_min": 23.6
+    "respostas": 297,
+    "mediana_min": 23.4
    },
    {
     "nome": "Nicolas",
@@ -175,15 +181,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "yrá",
-    "tel": "5585*****883",
-    "dia": "24/07",
-    "desde": "16:01",
-    "ts": 1784919669592
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -319,19 +317,30 @@
   ]
  },
  "agora": {
-  "fila": 28,
-  "abertos": 106,
-  "com_atendimento": 7,
-  "online": 3,
-  "offline": 5,
+  "fila": 26,
+  "abertos": 103,
+  "com_atendimento": 6,
+  "online": 2,
+  "offline": 6,
   "ausentes": 1,
-  "espera_media_s": 8467
+  "espera_media_s": 8426
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-24T17:33:52.848Z",
-  "min_sem_lead": 168
+  "ultimo_lead_at": "2026-07-21T17:37:45.458Z",
+  "min_sem_lead": 4500
  },
  "leads": [
+  {
+   "nome": "yrá",
+   "tel": "5585*****883",
+   "criado": "16:01",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 90.6,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Maria Gildete 🥰",
    "tel": "5587*****625",
@@ -339,17 +348,6 @@
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "yrá",
-   "tel": "5585*****883",
-   "criado": "16:01",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
