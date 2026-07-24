@@ -1,17 +1,17 @@
 {
- "gerado_em": "24/07/2026, 15:50",
+ "gerado_em": "24/07/2026, 16:05",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
+  "total": 21,
   "no_sla": 17,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 223,
-  "tickets_abertos": 107,
+  "leads_7d": 224,
+  "tickets_abertos": 108,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 7
+   "leads": 8
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
@@ -65,18 +65,25 @@
   }
  ],
  "areas": {
-  "Nao identificada": 10,
+  "Nao identificada": 11,
   "Trabalhista": 10
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "yrá",
+   "tel": "5585*****883",
+   "criado": "16:01",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 179,
-  "turnos": 581,
+  "grupos_ativos": 180,
+  "turnos": 582,
   "respondidos": 573,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 15.7,
   "atendentes": [
    {
@@ -116,6 +123,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.S.D.C.G x FUNDACAO DO ABC (HOSPITAL GERAL DE CARAPICUIBA)",
+    "dia": "24/07",
+    "desde": "16:04",
+    "ts": 1784919883105
+   },
    {
     "grupo": "D.F.D.S x TOKIO MARINE SEGURADORA S/A",
     "dia": "24/07",
@@ -168,7 +181,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "yrá",
+    "tel": "5585*****883",
+    "dia": "24/07",
+    "desde": "16:01",
+    "ts": 1784919669592
+   }
+  ],
   "grupos": [
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -217,6 +238,12 @@
     "dia": "24/07",
     "desde": "14:08",
     "ts": 1784912898190
+   },
+   {
+    "grupo": "A.S.D.C.G x FUNDACAO DO ABC (HOSPITAL GERAL DE CARAPICUIBA)",
+    "dia": "24/07",
+    "desde": "16:04",
+    "ts": 1784919883105
    }
   ]
  },
@@ -305,18 +332,29 @@
  },
  "agora": {
   "fila": 25,
-  "abertos": 107,
+  "abertos": 108,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 3,
   "offline": 4,
-  "ausentes": 1,
-  "espera_media_s": 8354
+  "ausentes": 2,
+  "espera_media_s": 8466
  },
  "captacao": {
-  "ultimo_lead_at": "2026-01-14T15:54:13.785Z",
-  "min_sem_lead": 275216
+  "ultimo_lead_at": "2025-09-24T18:22:30.479Z",
+  "min_sem_lead": 436363
  },
  "leads": [
+  {
+   "nome": "yrá",
+   "tel": "5585*****883",
+   "criado": "16:01",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Maria Gildete 🥰",
    "tel": "5587*****625",
