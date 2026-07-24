@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/07/2026, 11:46",
+ "gerado_em": "24/07/2026, 12:01",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 215,
-  "tickets_abertos": 127,
+  "tickets_abertos": 129,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,21 +68,21 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 165,
-  "turnos": 552,
-  "respondidos": 543,
+  "grupos_ativos": 168,
+  "turnos": 555,
+  "respondidos": 546,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
-  "mediana_min": 16.1,
+  "mediana_min": 16,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 264,
-    "mediana_min": 24.5
+    "respostas": 265,
+    "mediana_min": 23.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 169,
+    "respostas": 170,
     "mediana_min": 22.8
    },
    {
@@ -102,8 +102,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 16,
-    "mediana_min": 12.6
+    "respostas": 17,
+    "mediana_min": 13.2
    },
    {
     "nome": "—",
@@ -115,8 +115,14 @@
    {
     "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
     "dia": "24/07",
-    "desde": "11:42",
-    "ts": 1784904171915
+    "desde": "12:00",
+    "ts": 1784905234026
+   },
+   {
+    "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
+    "dia": "24/07",
+    "desde": "11:57",
+    "ts": 1784905077023
    },
    {
     "grupo": "J.F.D.S x MURO ALTO BEACH RESORT",
@@ -129,12 +135,6 @@
     "dia": "24/07",
     "desde": "10:46",
     "ts": 1784900812972
-   },
-   {
-    "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
-    "dia": "23/07",
-    "desde": "18:57",
-    "ts": 1784843836686
    },
    {
     "grupo": "A.J.P.B",
@@ -203,12 +203,6 @@
     "ts": 1784825093468
    },
    {
-    "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
-    "dia": "23/07",
-    "desde": "18:57",
-    "ts": 1784843836686
-   },
-   {
     "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
     "dia": "24/07",
     "desde": "10:46",
@@ -221,10 +215,16 @@
     "ts": 1784903346002
    },
    {
+    "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
+    "dia": "24/07",
+    "desde": "11:57",
+    "ts": 1784905077023
+   },
+   {
     "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
     "dia": "24/07",
-    "desde": "11:42",
-    "ts": 1784904171915
+    "desde": "12:00",
+    "ts": 1784905234026
    }
   ]
  },
@@ -285,17 +285,17 @@
   ]
  },
  "agora": {
-  "fila": 20,
-  "abertos": 127,
-  "com_atendimento": 7,
-  "online": 4,
+  "fila": 19,
+  "abertos": 129,
+  "com_atendimento": 8,
+  "online": 5,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 7723
+  "ausentes": 1,
+  "espera_media_s": 7645
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:21:49.813Z",
-  "min_sem_lead": 436105
+  "ultimo_lead_at": "2026-07-12T17:10:29.219Z",
+  "min_sem_lead": 17151
  },
  "leads": [
   {
