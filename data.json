@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/07/2026, 14:49",
+ "gerado_em": "24/07/2026, 15:04",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 223,
-  "tickets_abertos": 108,
+  "tickets_abertos": 106,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -73,16 +73,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 177,
-  "turnos": 573,
-  "respondidos": 563,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 15.7,
+  "turnos": 574,
+  "respondidos": 566,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 15.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 270,
-    "mediana_min": 23.9
+    "respostas": 273,
+    "mediana_min": 23.8
    },
    {
     "nome": "Nicolas",
@@ -117,12 +117,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
-    "dia": "24/07",
-    "desde": "14:48",
-    "ts": 1784915304160
-   },
-   {
     "grupo": "D.F.D.S x TOKIO MARINE SEGURADORA S/A",
     "dia": "24/07",
     "desde": "14:08",
@@ -139,12 +133,6 @@
     "dia": "24/07",
     "desde": "13:30",
     "ts": 1784910658167
-   },
-   {
-    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
-    "dia": "24/07",
-    "desde": "10:03",
-    "ts": 1784898209837
    },
    {
     "grupo": "A.J.P.B",
@@ -213,12 +201,6 @@
     "ts": 1784825093468
    },
    {
-    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
-    "dia": "24/07",
-    "desde": "10:03",
-    "ts": 1784898209837
-   },
-   {
     "grupo": "B.M x FC Oliveira",
     "dia": "24/07",
     "desde": "13:30",
@@ -235,12 +217,6 @@
     "dia": "24/07",
     "desde": "14:08",
     "ts": 1784912898190
-   },
-   {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
-    "dia": "24/07",
-    "desde": "14:48",
-    "ts": 1784915304160
    }
   ]
  },
@@ -329,27 +305,27 @@
  },
  "agora": {
   "fila": 25,
-  "abertos": 108,
+  "abertos": 106,
   "com_atendimento": 7,
-  "online": 2,
+  "online": 1,
   "offline": 4,
-  "ausentes": 3,
+  "ausentes": 4,
   "espera_media_s": 8467
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-03T21:15:46.619Z",
-  "min_sem_lead": 30034
+  "ultimo_lead_at": "2026-06-17T02:15:11.108Z",
+  "min_sem_lead": 54230
  },
  "leads": [
   {
-   "nome": "Maria Gildete 🥰",
-   "tel": "5587*****625",
-   "criado": "14:33",
+   "nome": "558293170729",
+   "tel": "5582*****729",
+   "criado": "14:31",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
    "area": "Nao identificada"
   },
   {
@@ -364,14 +340,14 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "558293170729",
-   "tel": "5582*****729",
-   "criado": "14:31",
+   "nome": "Maria Gildete 🥰",
+   "tel": "5587*****625",
+   "criado": "14:33",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
   },
   {
