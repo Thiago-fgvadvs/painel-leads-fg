@@ -1,23 +1,23 @@
 {
- "gerado_em": "23/07/2026, 21:41",
+ "gerado_em": "23/07/2026, 21:57",
  "data_ref": "23/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 32,
+  "total": 33,
   "no_sla": 29,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 2,
+  "fora_horario": 3,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 242,
-  "tickets_abertos": 110,
+  "leads_7d": 243,
+  "tickets_abertos": 111,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 31,
+   "leads": 32,
    "mediana_min": 0.4
   },
   {
@@ -27,17 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 27,
+  "Anuncio": 28,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 10
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 9
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 10
   },
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 14,
+  "Nao identificada": 15,
   "Previdenciario": 3,
   "Trabalhista": 15
  },
@@ -484,19 +484,30 @@
   ]
  },
  "agora": {
-  "fila": 6,
-  "abertos": 110,
+  "fila": 7,
+  "abertos": 111,
   "com_atendimento": 5,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 8510
+  "espera_media_s": 8415
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T02:42:45.522Z",
-  "min_sem_lead": 2759
+  "ultimo_lead_at": "2026-07-24T00:54:04.817Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "556186623249",
+   "tel": "5561*****249",
+   "criado": "21:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Joyce Schultz",
    "tel": "5527*****261",
