@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/07/2026, 17:52",
+ "gerado_em": "24/07/2026, 18:07",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 94,
   "mediana_geral": 0.4,
   "leads_7d": 225,
-  "tickets_abertos": 104,
+  "tickets_abertos": 103,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -86,16 +86,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 182,
-  "turnos": 608,
-  "respondidos": 599,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 15.2,
+  "turnos": 611,
+  "respondidos": 603,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 15.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 297,
-    "mediana_min": 23.4
+    "respostas": 301,
+    "mediana_min": 23.8
    },
    {
     "nome": "Nicolas",
@@ -146,12 +146,6 @@
     "dia": "24/07",
     "desde": "13:48",
     "ts": 1784911700173
-   },
-   {
-    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
-    "dia": "24/07",
-    "desde": "13:14",
-    "ts": 1784909698092
    },
    {
     "grupo": "A.J.P.B",
@@ -218,12 +212,6 @@
     "dia": "23/07",
     "desde": "13:44",
     "ts": 1784825093468
-   },
-   {
-    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
-    "dia": "24/07",
-    "desde": "13:14",
-    "ts": 1784909698092
    },
    {
     "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
@@ -329,17 +317,17 @@
   ]
  },
  "agora": {
-  "fila": 26,
-  "abertos": 104,
-  "com_atendimento": 7,
-  "online": 3,
+  "fila": 27,
+  "abertos": 103,
+  "com_atendimento": 6,
+  "online": 1,
   "offline": 6,
-  "ausentes": 0,
-  "espera_media_s": 8426
+  "ausentes": 2,
+  "espera_media_s": 8467
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-22T10:43:28.978Z",
-  "min_sem_lead": 3489
+  "min_sem_lead": 3504
  },
  "leads": [
   {
