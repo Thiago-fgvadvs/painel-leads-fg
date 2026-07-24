@@ -1,34 +1,47 @@
 {
- "gerado_em": "24/07/2026, 10:15",
+ "gerado_em": "24/07/2026, 10:30",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 2,
+  "total": 8,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 208,
-  "tickets_abertos": 119,
+  "leads_7d": 211,
+  "tickets_abertos": 120,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 5,
+   "leads": 7,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Julia",
+   "leads": 1,
+   "mediana_min": 0.6
   }
  ],
  "origem": {
-  "Anuncio": 5,
-  "Direto/Indicacao": 0
+  "Anuncio": 7,
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/cMY7LLYxT",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
@@ -44,8 +57,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3,
-  "Nao identificada": 2
+  "Nao identificada": 3,
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -53,15 +66,15 @@
   "dias": 7,
   "grupos_ativos": 161,
   "turnos": 528,
-  "respondidos": 519,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 15.8,
+  "respondidos": 520,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 15.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 249,
-    "mediana_min": 23.4
+    "respostas": 250,
+    "mediana_min": 23.6
    },
    {
     "nome": "Nicolas",
@@ -106,12 +119,6 @@
     "dia": "24/07",
     "desde": "10:06",
     "ts": 1784898402941
-   },
-   {
-    "grupo": "C.L.M.D.O x HABIBS",
-    "dia": "24/07",
-    "desde": "09:27",
-    "ts": 1784896048946
    },
    {
     "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
@@ -192,12 +199,6 @@
     "ts": 1784843836686
    },
    {
-    "grupo": "C.L.M.D.O x HABIBS",
-    "dia": "24/07",
-    "desde": "09:27",
-    "ts": 1784896048946
-   },
-   {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
     "dia": "24/07",
     "desde": "10:06",
@@ -268,19 +269,52 @@
   ]
  },
  "agora": {
-  "fila": 16,
-  "abertos": 119,
-  "com_atendimento": 7,
+  "fila": 17,
+  "abertos": 120,
+  "com_atendimento": 6,
   "online": 5,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 8141
+  "espera_media_s": 7969
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-24T03:51:53.443Z",
-  "min_sem_lead": 563
+  "ultimo_lead_at": "2026-07-12T17:10:29.219Z",
+  "min_sem_lead": 17060
  },
  "leads": [
+  {
+   "nome": "Advogada Camila Sant' Anna",
+   "tel": "5521*****129",
+   "criado": "10:21",
+   "atendente": "Julia",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Maria Das Dores Silva",
+   "tel": "5519*****739",
+   "criado": "10:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ataide",
+   "tel": "5522*****219",
+   "criado": "10:19",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Tassia 🥰😍😎",
    "tel": "5511*****397",
