@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/07/2026, 16:05",
+ "gerado_em": "24/07/2026, 16:21",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 224,
-  "tickets_abertos": 108,
+  "tickets_abertos": 109,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -80,15 +80,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 180,
-  "turnos": 582,
-  "respondidos": 573,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 15.7,
+  "turnos": 588,
+  "respondidos": 578,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 15.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 280,
+    "respostas": 283,
     "mediana_min": 23.8
    },
    {
@@ -107,14 +107,14 @@
     "mediana_min": 0.7
    },
    {
+    "nome": "Eduardo",
+    "respostas": 24,
+    "mediana_min": 10.9
+   },
+   {
     "nome": "Luisa",
     "respostas": 24,
     "mediana_min": 4.3
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 22,
-    "mediana_min": 12.2
    },
    {
     "nome": "—",
@@ -126,8 +126,20 @@
    {
     "grupo": "A.S.D.C.G x FUNDACAO DO ABC (HOSPITAL GERAL DE CARAPICUIBA)",
     "dia": "24/07",
-    "desde": "16:04",
-    "ts": 1784919883105
+    "desde": "16:20",
+    "ts": 1784920809254
+   },
+   {
+    "grupo": "E.J.U.A x ARMAZEM URBANO COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+    "dia": "24/07",
+    "desde": "16:09",
+    "ts": 1784920189202
+   },
+   {
+    "grupo": "I.M.R.D.S x ACADEMIA INOVA",
+    "dia": "24/07",
+    "desde": "15:46",
+    "ts": 1784918791238
    },
    {
     "grupo": "D.F.D.S x TOKIO MARINE SEGURADORA S/A",
@@ -140,12 +152,6 @@
     "dia": "24/07",
     "desde": "13:48",
     "ts": 1784911700173
-   },
-   {
-    "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
-    "dia": "24/07",
-    "desde": "12:05",
-    "ts": 1784905521932
    },
    {
     "grupo": "A.J.P.B",
@@ -222,12 +228,6 @@
     "ts": 1784825093468
    },
    {
-    "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
-    "dia": "24/07",
-    "desde": "12:05",
-    "ts": 1784905521932
-   },
-   {
     "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
     "dia": "24/07",
     "desde": "13:48",
@@ -240,10 +240,22 @@
     "ts": 1784912898190
    },
    {
+    "grupo": "I.M.R.D.S x ACADEMIA INOVA",
+    "dia": "24/07",
+    "desde": "15:46",
+    "ts": 1784918791238
+   },
+   {
+    "grupo": "E.J.U.A x ARMAZEM URBANO COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+    "dia": "24/07",
+    "desde": "16:09",
+    "ts": 1784920189202
+   },
+   {
     "grupo": "A.S.D.C.G x FUNDACAO DO ABC (HOSPITAL GERAL DE CARAPICUIBA)",
     "dia": "24/07",
-    "desde": "16:04",
-    "ts": 1784919883105
+    "desde": "16:20",
+    "ts": 1784920809254
    }
   ]
  },
@@ -331,30 +343,19 @@
   ]
  },
  "agora": {
-  "fila": 25,
-  "abertos": 108,
+  "fila": 26,
+  "abertos": 109,
   "com_atendimento": 7,
-  "online": 3,
+  "online": 2,
   "offline": 4,
-  "ausentes": 2,
-  "espera_media_s": 8466
+  "ausentes": 3,
+  "espera_media_s": 8354
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:30.479Z",
-  "min_sem_lead": 436363
+  "ultimo_lead_at": "2026-04-06T16:24:09.213Z",
+  "min_sem_lead": 157137
  },
  "leads": [
-  {
-   "nome": "yrá",
-   "tel": "5585*****883",
-   "criado": "16:01",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Maria Gildete 🥰",
    "tel": "5587*****625",
@@ -362,6 +363,17 @@
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "yrá",
+   "tel": "5585*****883",
+   "criado": "16:01",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
@@ -488,7 +500,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "555197419906",
+   "nome": "Deia✨",
    "tel": "5551*****906",
    "criado": "10:52",
    "atendente": "Fernanda Gehm - Administradora",
