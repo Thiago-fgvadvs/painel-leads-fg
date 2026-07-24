@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/07/2026, 15:20",
+ "gerado_em": "24/07/2026, 15:35",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 223,
-  "tickets_abertos": 107,
+  "tickets_abertos": 105,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -73,16 +73,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 177,
-  "turnos": 576,
-  "respondidos": 567,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 15.7,
+  "turnos": 577,
+  "respondidos": 569,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 15.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 274,
-    "mediana_min": 23.8
+    "respostas": 276,
+    "mediana_min": 23.9
    },
    {
     "nome": "Nicolas",
@@ -117,10 +117,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
-    "dia": "22/07",
-    "desde": "11:22",
-    "ts": 1784730132804
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "dia": "24/07",
+    "desde": "15:30",
+    "ts": 1784917843183
    },
    {
     "grupo": "D.F.D.S x TOKIO MARINE SEGURADORA S/A",
@@ -133,12 +133,6 @@
     "dia": "24/07",
     "desde": "13:48",
     "ts": 1784911700173
-   },
-   {
-    "grupo": "B.M x FC Oliveira",
-    "dia": "24/07",
-    "desde": "13:30",
-    "ts": 1784910658167
    },
    {
     "grupo": "A.J.P.B",
@@ -183,12 +177,6 @@
     "ts": 1784647171172
    },
    {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
-    "dia": "22/07",
-    "desde": "11:22",
-    "ts": 1784730132804
-   },
-   {
     "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
     "dia": "22/07",
     "desde": "11:25",
@@ -213,12 +201,6 @@
     "ts": 1784825093468
    },
    {
-    "grupo": "B.M x FC Oliveira",
-    "dia": "24/07",
-    "desde": "13:30",
-    "ts": 1784910658167
-   },
-   {
     "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
     "dia": "24/07",
     "desde": "13:48",
@@ -229,6 +211,12 @@
     "dia": "24/07",
     "desde": "14:08",
     "ts": 1784912898190
+   },
+   {
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "dia": "24/07",
+    "desde": "15:30",
+    "ts": 1784917843183
    }
   ]
  },
@@ -317,16 +305,16 @@
  },
  "agora": {
   "fila": 25,
-  "abertos": 107,
+  "abertos": 105,
   "com_atendimento": 7,
-  "online": 1,
-  "offline": 5,
-  "ausentes": 3,
-  "espera_media_s": 8467
+  "online": 3,
+  "offline": 4,
+  "ausentes": 2,
+  "espera_media_s": 8582
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-03T21:15:46.619Z",
-  "min_sem_lead": 30064
+  "min_sem_lead": 30080
  },
  "leads": [
   {
