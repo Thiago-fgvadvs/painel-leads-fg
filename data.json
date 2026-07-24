@@ -1,34 +1,34 @@
 {
- "gerado_em": "24/07/2026, 09:29",
+ "gerado_em": "24/07/2026, 09:44",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 1,
+  "total": 5,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 207,
-  "tickets_abertos": 115,
+  "leads_7d": 208,
+  "tickets_abertos": 119,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 1
+   "leads": 2
   },
   {
    "url": "fb.me/8B5V96ay5",
@@ -44,7 +44,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
+  "Nao identificada": 3,
   "Trabalhista": 2
  },
  "sem_resposta_lista": [],
@@ -52,21 +52,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 161,
-  "turnos": 518,
-  "respondidos": 511,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 15.9,
+  "turnos": 523,
+  "respondidos": 515,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 15.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 245,
-    "mediana_min": 22.9
+    "respostas": 246,
+    "mediana_min": 23.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 163,
-    "mediana_min": 23.1
+    "respostas": 166,
+    "mediana_min": 22.8
    },
    {
     "nome": "Gabrielle",
@@ -96,10 +96,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "C.A.R x CASAS GUANABARA COMESTIVEIS LTDA",
+    "grupo": "C.L.M.D.O x HABIBS",
     "dia": "24/07",
-    "desde": "08:55",
-    "ts": 1784894122927
+    "desde": "09:27",
+    "ts": 1784896048946
+   },
+   {
+    "grupo": "S.M.L.M.B x BANCO DO BRASIL S.A ",
+    "dia": "24/07",
+    "desde": "08:50",
+    "ts": 1784893848896
    },
    {
     "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
@@ -180,10 +186,16 @@
     "ts": 1784843836686
    },
    {
-    "grupo": "C.A.R x CASAS GUANABARA COMESTIVEIS LTDA",
+    "grupo": "S.M.L.M.B x BANCO DO BRASIL S.A ",
     "dia": "24/07",
-    "desde": "08:55",
-    "ts": 1784894122927
+    "desde": "08:50",
+    "ts": 1784893848896
+   },
+   {
+    "grupo": "C.L.M.D.O x HABIBS",
+    "dia": "24/07",
+    "desde": "09:27",
+    "ts": 1784896048946
    }
   ]
  },
@@ -244,19 +256,30 @@
   ]
  },
  "agora": {
-  "fila": 13,
-  "abertos": 115,
+  "fila": 15,
+  "abertos": 119,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 6,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 8322
+  "ausentes": 0,
+  "espera_media_s": 8230
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-15T20:10:29.023Z",
-  "min_sem_lead": 12499
+  "ultimo_lead_at": "2025-04-24T15:19:51.426Z",
+  "min_sem_lead": 656485
  },
  "leads": [
+  {
+   "nome": "Rose",
+   "tel": "5511*****531",
+   "criado": "09:34",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Diego Oliveira",
    "tel": "5577*****828",
