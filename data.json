@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/07/2026, 11:31",
+ "gerado_em": "24/07/2026, 11:46",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 8,
+  "total": 12,
+  "no_sla": 9,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 214,
-  "tickets_abertos": 124,
+  "leads_7d": 215,
+  "tickets_abertos": 127,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
@@ -62,27 +62,27 @@
  ],
  "areas": {
   "Nao identificada": 4,
-  "Trabalhista": 7
+  "Trabalhista": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 165,
-  "turnos": 546,
-  "respondidos": 535,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "turnos": 552,
+  "respondidos": 543,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 16.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 260,
-    "mediana_min": 24.4
+    "respostas": 264,
+    "mediana_min": 24.5
    },
    {
     "nome": "Nicolas",
-    "respostas": 167,
+    "respostas": 169,
     "mediana_min": 22.8
    },
    {
@@ -102,8 +102,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 14,
-    "mediana_min": 14.6
+    "respostas": 16,
+    "mediana_min": 12.6
    },
    {
     "nome": "—",
@@ -113,34 +113,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
+    "dia": "24/07",
+    "desde": "11:42",
+    "ts": 1784904171915
+   },
+   {
     "grupo": "J.F.D.S x MURO ALTO BEACH RESORT",
     "dia": "24/07",
     "desde": "11:29",
     "ts": 1784903346002
    },
    {
-    "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
-    "dia": "24/07",
-    "desde": "11:20",
-    "ts": 1784902805901
-   },
-   {
-    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
-    "dia": "24/07",
-    "desde": "11:13",
-    "ts": 1784902414989
-   },
-   {
     "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
     "dia": "24/07",
     "desde": "10:46",
     "ts": 1784900812972
-   },
-   {
-    "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
-    "dia": "24/07",
-    "desde": "10:06",
-    "ts": 1784898402941
    },
    {
     "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
@@ -221,34 +209,22 @@
     "ts": 1784843836686
    },
    {
-    "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
-    "dia": "24/07",
-    "desde": "10:06",
-    "ts": 1784898402941
-   },
-   {
     "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
     "dia": "24/07",
     "desde": "10:46",
     "ts": 1784900812972
    },
    {
-    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
-    "dia": "24/07",
-    "desde": "11:13",
-    "ts": 1784902414989
-   },
-   {
-    "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
-    "dia": "24/07",
-    "desde": "11:20",
-    "ts": 1784902805901
-   },
-   {
     "grupo": "J.F.D.S x MURO ALTO BEACH RESORT",
     "dia": "24/07",
     "desde": "11:29",
     "ts": 1784903346002
+   },
+   {
+    "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
+    "dia": "24/07",
+    "desde": "11:42",
+    "ts": 1784904171915
    }
   ]
  },
@@ -309,21 +285,32 @@
   ]
  },
  "agora": {
-  "fila": 18,
-  "abertos": 124,
+  "fila": 20,
+  "abertos": 127,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 4,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 7803
+  "ausentes": 2,
+  "espera_media_s": 7723
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 656592
+  "ultimo_lead_at": "2025-09-24T18:21:49.813Z",
+  "min_sem_lead": 436105
  },
  "leads": [
   {
-   "nome": "556183513310",
+   "nome": "Ana",
+   "tel": "5511*****244",
+   "criado": "11:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Yasmim",
    "tel": "5561*****310",
    "criado": "11:25",
    "atendente": "Fernanda Gehm - Administradora",
@@ -331,7 +318,18 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "555197419906",
+   "tel": "5551*****906",
+   "criado": "10:52",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Maria Das Dores Silva",
@@ -353,17 +351,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "555197419906",
-   "tel": "5551*****906",
-   "criado": "10:52",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
   },
   {
