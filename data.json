@@ -1,31 +1,35 @@
 {
- "gerado_em": "24/07/2026, 09:14",
+ "gerado_em": "24/07/2026, 09:29",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 0,
+  "total": 4,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 3,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 206,
-  "tickets_abertos": 112,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 207,
+  "tickets_abertos": 115,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 3,
-   "mediana_min": null
+   "leads": 4,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 1
+  },
   {
    "url": "fb.me/8B5V96ay5",
    "leads": 1
@@ -40,29 +44,29 @@
   }
  ],
  "areas": {
-  "Nao identificada": 1,
+  "Nao identificada": 2,
   "Trabalhista": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 160,
-  "turnos": 512,
-  "respondidos": 506,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 16.2,
+  "grupos_ativos": 161,
+  "turnos": 518,
+  "respondidos": 511,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 15.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 244,
-    "mediana_min": 23.2
+    "respostas": 245,
+    "mediana_min": 22.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 159,
-    "mediana_min": 23.3
+    "respostas": 163,
+    "mediana_min": 23.1
    },
    {
     "nome": "Gabrielle",
@@ -91,6 +95,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "C.A.R x CASAS GUANABARA COMESTIVEIS LTDA",
+    "dia": "24/07",
+    "desde": "08:55",
+    "ts": 1784894122927
+   },
    {
     "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
     "dia": "23/07",
@@ -168,6 +178,12 @@
     "dia": "23/07",
     "desde": "18:57",
     "ts": 1784843836686
+   },
+   {
+    "grupo": "C.A.R x CASAS GUANABARA COMESTIVEIS LTDA",
+    "dia": "24/07",
+    "desde": "08:55",
+    "ts": 1784894122927
    }
   ]
  },
@@ -228,19 +244,30 @@
   ]
  },
  "agora": {
-  "fila": 14,
-  "abertos": 112,
-  "com_atendimento": 5,
-  "online": 4,
-  "offline": 4,
+  "fila": 13,
+  "abertos": 115,
+  "com_atendimento": 7,
+  "online": 5,
+  "offline": 3,
   "ausentes": 1,
   "espera_media_s": 8322
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-15T20:10:29.023Z",
-  "min_sem_lead": 12484
+  "min_sem_lead": 12499
  },
  "leads": [
+  {
+   "nome": "Diego Oliveira",
+   "tel": "5577*****828",
+   "criado": "09:15",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Milly♥️",
    "tel": "5521*****769",
