@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/07/2026, 10:30",
+ "gerado_em": "24/07/2026, 10:45",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 211,
-  "tickets_abertos": 120,
+  "tickets_abertos": 121,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -57,24 +57,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 5
+  "Trabalhista": 5,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 161,
-  "turnos": 528,
-  "respondidos": 520,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 15.9,
+  "grupos_ativos": 163,
+  "turnos": 535,
+  "respondidos": 526,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 16,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 250,
-    "mediana_min": 23.6
+    "respostas": 255,
+    "mediana_min": 23.8
    },
    {
     "nome": "Nicolas",
@@ -83,7 +83,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 38,
+    "respostas": 39,
     "mediana_min": 4
    },
    {
@@ -109,16 +109,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
     "dia": "24/07",
-    "desde": "10:09",
-    "ts": 1784898577850
+    "desde": "10:44",
+    "ts": 1784900680029
    },
    {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
     "dia": "24/07",
     "desde": "10:06",
     "ts": 1784898402941
+   },
+   {
+    "grupo": "S.M.L.M.B x BANCO DO BRASIL S.A ",
+    "dia": "24/07",
+    "desde": "10:03",
+    "ts": 1784898239840
    },
    {
     "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
@@ -199,16 +205,22 @@
     "ts": 1784843836686
    },
    {
+    "grupo": "S.M.L.M.B x BANCO DO BRASIL S.A ",
+    "dia": "24/07",
+    "desde": "10:03",
+    "ts": 1784898239840
+   },
+   {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
     "dia": "24/07",
     "desde": "10:06",
     "ts": 1784898402941
    },
    {
-    "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
     "dia": "24/07",
-    "desde": "10:09",
-    "ts": 1784898577850
+    "desde": "10:44",
+    "ts": 1784900680029
    }
   ]
  },
@@ -269,30 +281,19 @@
   ]
  },
  "agora": {
-  "fila": 17,
-  "abertos": 120,
-  "com_atendimento": 6,
-  "online": 5,
-  "offline": 3,
+  "fila": 15,
+  "abertos": 121,
+  "com_atendimento": 8,
+  "online": 6,
+  "offline": 2,
   "ausentes": 1,
   "espera_media_s": 7969
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-12T17:10:29.219Z",
-  "min_sem_lead": 17060
+  "ultimo_lead_at": "2026-07-24T13:23:41.755Z",
+  "min_sem_lead": 22
  },
  "leads": [
-  {
-   "nome": "Advogada Camila Sant' Anna",
-   "tel": "5521*****129",
-   "criado": "10:21",
-   "atendente": "Julia",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
   {
    "nome": "Maria Das Dores Silva",
    "tel": "5519*****739",
@@ -303,6 +304,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Advogada Camila Sant' Anna",
+   "tel": "5521*****129",
+   "criado": "10:21",
+   "atendente": "Julia",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Ataide",
