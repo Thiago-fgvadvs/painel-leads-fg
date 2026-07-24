@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/07/2026, 18:07",
+ "gerado_em": "24/07/2026, 18:23",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 94,
   "mediana_geral": 0.4,
   "leads_7d": 225,
-  "tickets_abertos": 103,
+  "tickets_abertos": 102,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -85,17 +85,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 182,
-  "turnos": 611,
-  "respondidos": 603,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 15.3,
+  "grupos_ativos": 183,
+  "turnos": 614,
+  "respondidos": 607,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 15.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 301,
-    "mediana_min": 23.8
+    "respostas": 305,
+    "mediana_min": 23.9
    },
    {
     "nome": "Nicolas",
@@ -134,12 +134,6 @@
     "dia": "24/07",
     "desde": "17:00",
     "ts": 1784923207281
-   },
-   {
-    "grupo": "D.F.D.S x TOKIO MARINE SEGURADORA S/A",
-    "dia": "24/07",
-    "desde": "14:08",
-    "ts": 1784912898190
    },
    {
     "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
@@ -220,12 +214,6 @@
     "ts": 1784911700173
    },
    {
-    "grupo": "D.F.D.S x TOKIO MARINE SEGURADORA S/A",
-    "dia": "24/07",
-    "desde": "14:08",
-    "ts": 1784912898190
-   },
-   {
     "grupo": "A.S.D.C.G x FUNDACAO DO ABC (HOSPITAL GERAL DE CARAPICUIBA)",
     "dia": "24/07",
     "desde": "17:00",
@@ -235,9 +223,9 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 8,
+  "total": 9,
   "por_vendedor": {
-   "Tiago Bernardo": 5,
+   "Tiago Bernardo": 6,
    "Eduardo": 1,
    "Roseli": 2
   },
@@ -268,6 +256,15 @@
     "ts": 1784906903687,
     "origem": "Anúncio: instagram.com/p/DaVuNbaM1sG/",
     "de_anuncio": true
+   },
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "T",
+    "dia": "24/07",
+    "hora": "12:17",
+    "ts": 1784906235015,
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
    },
    {
     "vendedor": "Tiago Bernardo",
@@ -318,16 +315,16 @@
  },
  "agora": {
   "fila": 27,
-  "abertos": 103,
+  "abertos": 102,
   "com_atendimento": 6,
-  "online": 1,
+  "online": 2,
   "offline": 6,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 8467
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-22T10:43:28.978Z",
-  "min_sem_lead": 3504
+  "min_sem_lead": 3520
  },
  "leads": [
   {
