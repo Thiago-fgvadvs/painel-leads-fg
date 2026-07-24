@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/07/2026, 09:44",
+ "gerado_em": "24/07/2026, 09:59",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -52,20 +52,20 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 161,
-  "turnos": 523,
-  "respondidos": 515,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "turnos": 524,
+  "respondidos": 517,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 15.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 246,
-    "mediana_min": 23.2
+    "respostas": 247,
+    "mediana_min": 23.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 166,
+    "respostas": 167,
     "mediana_min": 22.8
    },
    {
@@ -100,12 +100,6 @@
     "dia": "24/07",
     "desde": "09:27",
     "ts": 1784896048946
-   },
-   {
-    "grupo": "S.M.L.M.B x BANCO DO BRASIL S.A ",
-    "dia": "24/07",
-    "desde": "08:50",
-    "ts": 1784893848896
    },
    {
     "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
@@ -186,12 +180,6 @@
     "ts": 1784843836686
    },
    {
-    "grupo": "S.M.L.M.B x BANCO DO BRASIL S.A ",
-    "dia": "24/07",
-    "desde": "08:50",
-    "ts": 1784893848896
-   },
-   {
     "grupo": "C.L.M.D.O x HABIBS",
     "dia": "24/07",
     "desde": "09:27",
@@ -259,20 +247,20 @@
   "fila": 15,
   "abertos": 119,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 8230
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:51.426Z",
-  "min_sem_lead": 656485
+  "min_sem_lead": 656500
  },
  "leads": [
   {
-   "nome": "Rose",
-   "tel": "5511*****531",
-   "criado": "09:34",
+   "nome": "Diego Oliveira",
+   "tel": "5577*****828",
+   "criado": "09:15",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
@@ -281,9 +269,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Diego Oliveira",
-   "tel": "5577*****828",
-   "criado": "09:15",
+   "nome": "Rose",
+   "tel": "5511*****531",
+   "criado": "09:34",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
