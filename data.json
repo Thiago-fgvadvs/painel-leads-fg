@@ -1,17 +1,17 @@
 {
- "gerado_em": "24/07/2026, 17:37",
+ "gerado_em": "24/07/2026, 17:52",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
+  "total": 22,
   "no_sla": 17,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 3,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 224,
-  "tickets_abertos": 103,
+  "leads_7d": 225,
+  "tickets_abertos": 104,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -33,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 20,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 11,
-  "Trabalhista": 10
+  "Trabalhista": 11,
+  "Nao identificada": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -85,11 +85,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 181,
-  "turnos": 607,
+  "grupos_ativos": 182,
+  "turnos": 608,
   "respondidos": 599,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 15.2,
   "atendentes": [
    {
@@ -146,6 +146,12 @@
     "dia": "24/07",
     "desde": "13:48",
     "ts": 1784911700173
+   },
+   {
+    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
+    "dia": "24/07",
+    "desde": "13:14",
+    "ts": 1784909698092
    },
    {
     "grupo": "A.J.P.B",
@@ -212,6 +218,12 @@
     "dia": "23/07",
     "desde": "13:44",
     "ts": 1784825093468
+   },
+   {
+    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
+    "dia": "24/07",
+    "desde": "13:14",
+    "ts": 1784909698092
    },
    {
     "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
@@ -318,16 +330,16 @@
  },
  "agora": {
   "fila": 26,
-  "abertos": 103,
-  "com_atendimento": 6,
-  "online": 2,
+  "abertos": 104,
+  "com_atendimento": 7,
+  "online": 3,
   "offline": 6,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 8426
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T17:37:45.458Z",
-  "min_sem_lead": 4500
+  "ultimo_lead_at": "2026-07-22T10:43:28.978Z",
+  "min_sem_lead": 3489
  },
  "leads": [
   {
@@ -339,7 +351,7 @@
    "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "Maria Gildete 🥰",
@@ -560,6 +572,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/5WDkBmR1i",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Andreia",
+   "tel": "5511*****696",
+   "criado": "17:38",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
