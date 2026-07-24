@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/07/2026, 12:17",
+ "gerado_em": "24/07/2026, 12:32",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 11,
+  "total": 16,
+  "no_sla": 13,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 217,
-  "tickets_abertos": 123,
+  "leads_7d": 219,
+  "tickets_abertos": 105,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 13,
+   "leads": 15,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 15,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -41,6 +41,10 @@
   },
   {
    "url": "fb.me/cMY7LLYxT",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/6VEccJ6hv",
    "leads": 1
   },
   {
@@ -61,18 +65,18 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
-  "Trabalhista": 8
+  "Nao identificada": 7,
+  "Trabalhista": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 169,
+  "grupos_ativos": 172,
   "turnos": 557,
-  "respondidos": 547,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "respondidos": 549,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 15.9,
   "atendentes": [
    {
@@ -87,7 +91,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 42,
+    "respostas": 43,
     "mediana_min": 4
    },
    {
@@ -102,8 +106,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 18,
-    "mediana_min": 13.6
+    "respostas": 19,
+    "mediana_min": 13.2
    },
    {
     "nome": "—",
@@ -112,12 +116,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "J.R.D.S x MURO ALTO BEACH RESORT",
-    "dia": "24/07",
-    "desde": "12:06",
-    "ts": 1784905567098
-   },
    {
     "grupo": "B.M x FC Oliveira",
     "dia": "24/07",
@@ -129,12 +127,6 @@
     "dia": "24/07",
     "desde": "11:57",
     "ts": 1784905077023
-   },
-   {
-    "grupo": "J.F.D.S x MURO ALTO BEACH RESORT",
-    "dia": "24/07",
-    "desde": "11:29",
-    "ts": 1784903346002
    },
    {
     "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
@@ -215,12 +207,6 @@
     "ts": 1784900812972
    },
    {
-    "grupo": "J.F.D.S x MURO ALTO BEACH RESORT",
-    "dia": "24/07",
-    "desde": "11:29",
-    "ts": 1784903346002
-   },
-   {
     "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
     "dia": "24/07",
     "desde": "11:57",
@@ -231,24 +217,36 @@
     "dia": "24/07",
     "desde": "12:05",
     "ts": 1784905507931
-   },
-   {
-    "grupo": "J.R.D.S x MURO ALTO BEACH RESORT",
-    "dia": "24/07",
-    "desde": "12:06",
-    "ts": 1784905567098
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 5,
+  "total": 7,
   "por_vendedor": {
-   "Tiago Bernardo": 2,
+   "Tiago Bernardo": 4,
    "Eduardo": 1,
    "Roseli": 2
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "M.E",
+    "dia": "24/07",
+    "hora": "12:28",
+    "ts": 1784906910518,
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
+   },
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "J.P",
+    "dia": "24/07",
+    "hora": "12:28",
+    "ts": 1784906903687,
+    "origem": "Anúncio: instagram.com/p/DaVuNbaM1sG/",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "—",
@@ -297,30 +295,19 @@
   ]
  },
  "agora": {
-  "fila": 21,
-  "abertos": 123,
+  "fila": 23,
+  "abertos": 105,
   "com_atendimento": 8,
-  "online": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 6955
+  "ausentes": 1,
+  "espera_media_s": 8809
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T10:43:28.978Z",
-  "min_sem_lead": 3154
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 656652
  },
  "leads": [
-  {
-   "nome": "Bertin",
-   "tel": "5511*****723",
-   "criado": "12:03",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 1.1,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Geovana",
    "tel": "5511*****834",
@@ -330,6 +317,39 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Renata Alencar",
+   "tel": "5571*****881",
+   "criado": "12:27",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Elis Souza",
+   "tel": "5519*****462",
+   "criado": "12:25",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6VEccJ6hv",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Bertin",
+   "tel": "5511*****723",
+   "criado": "12:03",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 1.1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
   },
   {
