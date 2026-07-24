@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/07/2026, 13:18",
+ "gerado_em": "24/07/2026, 13:33",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 220,
-  "tickets_abertos": 105,
+  "tickets_abertos": 106,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -72,11 +72,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 174,
-  "turnos": 566,
+  "grupos_ativos": 175,
+  "turnos": 567,
   "respondidos": 558,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 15.8,
   "atendentes": [
    {
@@ -116,6 +116,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "B.M x FC Oliveira",
+    "dia": "24/07",
+    "desde": "13:30",
+    "ts": 1784910658167
+   },
    {
     "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
     "dia": "24/07",
@@ -217,6 +223,12 @@
     "dia": "24/07",
     "desde": "13:15",
     "ts": 1784909731007
+   },
+   {
+    "grupo": "B.M x FC Oliveira",
+    "dia": "24/07",
+    "desde": "13:30",
+    "ts": 1784910658167
    }
   ]
  },
@@ -296,7 +308,7 @@
  },
  "agora": {
   "fila": 23,
-  "abertos": 105,
+  "abertos": 106,
   "com_atendimento": 7,
   "online": 5,
   "offline": 3,
@@ -305,7 +317,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-24T13:21:35.580Z",
-  "min_sem_lead": 176
+  "min_sem_lead": 192
  },
  "leads": [
   {
@@ -320,17 +332,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Tassia 🥰😍😎",
-   "tel": "5511*****397",
-   "criado": "00:51",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Yasmim",
    "tel": "5561*****310",
    "criado": "11:25",
@@ -339,6 +340,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Tassia 🥰😍😎",
+   "tel": "5511*****397",
+   "criado": "00:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
   },
   {
