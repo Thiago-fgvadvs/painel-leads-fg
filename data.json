@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/07/2026, 07:42",
+ "gerado_em": "24/07/2026, 07:58",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 206,
-  "tickets_abertos": 118,
+  "tickets_abertos": 117,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -49,10 +49,10 @@
   "dias": 7,
   "grupos_ativos": 159,
   "turnos": 511,
-  "respondidos": 504,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 16.5,
+  "respondidos": 505,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 16.3,
   "atendentes": [
    {
     "nome": "Julia",
@@ -61,8 +61,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 157,
-    "mediana_min": 23.9
+    "respostas": 158,
+    "mediana_min": 23.6
    },
    {
     "nome": "Gabrielle",
@@ -91,12 +91,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
-    "dia": "24/07",
-    "desde": "07:40",
-    "ts": 1784889644884
-   },
    {
     "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
     "dia": "23/07",
@@ -174,12 +168,6 @@
     "dia": "23/07",
     "desde": "18:57",
     "ts": 1784843836686
-   },
-   {
-    "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
-    "dia": "24/07",
-    "desde": "07:40",
-    "ts": 1784889644884
    }
   ]
  },
@@ -241,16 +229,16 @@
  },
  "agora": {
   "fila": 14,
-  "abertos": 118,
+  "abertos": 117,
   "com_atendimento": 5,
-  "online": 2,
+  "online": 1,
   "offline": 7,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 7885
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 656363
+  "min_sem_lead": 656378
  },
  "leads": [
   {
