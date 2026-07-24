@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/07/2026, 14:19",
+ "gerado_em": "24/07/2026, 14:34",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
-  "no_sla": 14,
+  "total": 20,
+  "no_sla": 16,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 220,
-  "tickets_abertos": 105,
+  "leads_7d": 223,
+  "tickets_abertos": 107,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 16,
+   "leads": 18,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 19,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 5
+   "leads": 7
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
@@ -42,6 +42,10 @@
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DYhcRFkDDhb/",
@@ -58,26 +62,29 @@
   {
    "url": "fb.me/9Pf9FTshS",
    "leads": 1
-  },
-  {
-   "url": "fb.me/8B5V96ay5",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
-  "Nao identificada": 7
+  "Nao identificada": 10,
+  "Trabalhista": 10
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5511990072004",
+   "tel": "5511*****004",
+   "criado": "14:34",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 177,
-  "turnos": 570,
-  "respondidos": 561,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 15.8,
+  "turnos": 571,
+  "respondidos": 563,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 15.7,
   "atendentes": [
    {
     "nome": "Julia",
@@ -86,8 +93,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 174,
-    "mediana_min": 22
+    "respostas": 176,
+    "mediana_min": 20.8
    },
    {
     "nome": "Gabrielle",
@@ -116,12 +123,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
-    "dia": "24/07",
-    "desde": "14:10",
-    "ts": 1784913052197
-   },
    {
     "grupo": "D.F.D.S x TOKIO MARINE SEGURADORA S/A",
     "dia": "24/07",
@@ -174,7 +175,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "5511990072004",
+    "tel": "5511*****004",
+    "dia": "24/07",
+    "desde": "14:34",
+    "ts": 1784914449550
+   }
+  ],
   "grupos": [
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -223,24 +232,27 @@
     "dia": "24/07",
     "desde": "14:08",
     "ts": 1784912898190
-   },
-   {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
-    "dia": "24/07",
-    "desde": "14:10",
-    "ts": 1784913052197
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 7,
+  "total": 8,
   "por_vendedor": {
-   "Tiago Bernardo": 4,
+   "Tiago Bernardo": 5,
    "Eduardo": 1,
    "Roseli": 2
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "A",
+    "dia": "24/07",
+    "hora": "14:21",
+    "ts": 1784913682826,
+    "origem": "Anúncio: instagram.com/p/DYVTWI6DPYt/",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "M.E",
@@ -265,7 +277,7 @@
     "dia": "23/07",
     "hora": "09:20",
     "ts": 1784809219022,
-    "origem": "Anúncio: instagram.com/p/DaTRZtSMZjU/",
+    "origem": "Anúncio: Trabalhista - fast foods",
     "de_anuncio": true
    },
    {
@@ -307,19 +319,52 @@
   ]
  },
  "agora": {
-  "fila": 23,
-  "abertos": 105,
+  "fila": 25,
+  "abertos": 107,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 3,
   "offline": 4,
-  "ausentes": 1,
-  "espera_media_s": 8701
+  "ausentes": 2,
+  "espera_media_s": 8582
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:21:49.813Z",
-  "min_sem_lead": 436257
+  "ultimo_lead_at": "2026-07-24T17:33:52.848Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "Maria Gildete 🥰",
+   "tel": "5587*****625",
+   "criado": "14:33",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511990072004",
+   "tel": "5511*****004",
+   "criado": "14:34",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "558293170729",
+   "tel": "5582*****729",
+   "criado": "14:31",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "chikinho show",
    "tel": "5583*****594",
