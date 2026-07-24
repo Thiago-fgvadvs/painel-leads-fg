@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/07/2026, 12:32",
+ "gerado_em": "24/07/2026, 12:47",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 13,
+  "total": 17,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 219,
-  "tickets_abertos": 105,
+  "leads_7d": 220,
+  "tickets_abertos": 106,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 15,
+   "leads": 16,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 15,
+  "Anuncio": 16,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -44,6 +44,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DYhcRFkDDhb/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/6VEccJ6hv",
    "leads": 1
   },
@@ -58,25 +62,21 @@
   {
    "url": "fb.me/8B5V96ay5",
    "leads": 1
-  },
-  {
-   "url": "fb.me/5WDkBmR1i",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 7,
-  "Trabalhista": 9
+  "Trabalhista": 10,
+  "Nao identificada": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 172,
-  "turnos": 557,
-  "respondidos": 549,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "grupos_ativos": 173,
+  "turnos": 561,
+  "respondidos": 550,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 15.9,
   "atendentes": [
    {
@@ -106,8 +106,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 19,
-    "mediana_min": 13.2
+    "respostas": 20,
+    "mediana_min": 12.2
    },
    {
     "nome": "—",
@@ -116,6 +116,24 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.F.G",
+    "dia": "24/07",
+    "desde": "12:46",
+    "ts": 1784908006135
+   },
+   {
+    "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
+    "dia": "24/07",
+    "desde": "12:43",
+    "ts": 1784907835062
+   },
+   {
+    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "dia": "23/07",
+    "desde": "10:01",
+    "ts": 1784811711399
+   },
    {
     "grupo": "B.M x FC Oliveira",
     "dia": "24/07",
@@ -195,6 +213,12 @@
     "ts": 1784754648150
    },
    {
+    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "dia": "23/07",
+    "desde": "10:01",
+    "ts": 1784811711399
+   },
+   {
     "grupo": "R.P x SEARA ALIMENTOS LTDA",
     "dia": "23/07",
     "desde": "13:44",
@@ -217,6 +241,18 @@
     "dia": "24/07",
     "desde": "12:05",
     "ts": 1784905507931
+   },
+   {
+    "grupo": "J.C.D.J.D.S x TENDA NEGOCIOS IMOBILIARIOS S.A",
+    "dia": "24/07",
+    "desde": "12:43",
+    "ts": 1784907835062
+   },
+   {
+    "grupo": "A.F.G",
+    "dia": "24/07",
+    "desde": "12:46",
+    "ts": 1784908006135
    }
   ]
  },
@@ -295,19 +331,52 @@
   ]
  },
  "agora": {
-  "fila": 23,
-  "abertos": 105,
+  "fila": 25,
+  "abertos": 106,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 4,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 8809
+  "ausentes": 2,
+  "espera_media_s": 8823
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 656652
+  "min_sem_lead": 656668
  },
  "leads": [
+  {
+   "nome": "Yasmim",
+   "tel": "5561*****310",
+   "criado": "11:25",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "chikinho show",
+   "tel": "5583*****594",
+   "criado": "12:42",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcRFkDDhb/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Bertin",
+   "tel": "5511*****723",
+   "criado": "12:03",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 1.1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Geovana",
    "tel": "5511*****834",
@@ -342,17 +411,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Bertin",
-   "tel": "5511*****723",
-   "criado": "12:03",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 1.1,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Ana",
    "tel": "5511*****244",
    "criado": "11:40",
@@ -362,17 +420,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Yasmim",
-   "tel": "5561*****310",
-   "criado": "11:25",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
   },
   {
    "nome": "555197419906",
