@@ -1,34 +1,46 @@
 {
- "gerado_em": "25/07/2026, 09:28",
+ "gerado_em": "25/07/2026, 09:43",
  "data_ref": "25/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
+  "total": 10,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 0,
-  "fora_horario": 7,
+  "sem_resposta": 1,
+  "fora_horario": 9,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 209,
-  "tickets_abertos": 116,
+  "leads_7d": 212,
+  "tickets_abertos": 119,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 7,
+   "leads": 9,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 7,
+  "Anuncio": 10,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 4
+  },
+  {
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/46jmJaUVk",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/42MqS5pLJ",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
@@ -44,10 +56,17 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3,
-  "Nao identificada": 4
+  "Trabalhista": 5,
+  "Nao identificada": 5
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "553384670219",
+   "tel": "5533*****219",
+   "criado": "09:31",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -147,7 +166,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "553384670219",
+    "tel": "5533*****219",
+    "dia": "25/07",
+    "desde": "09:31",
+    "ts": 1784982667610
+   }
+  ],
   "grupos": [
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -292,19 +319,41 @@
   ]
  },
  "agora": {
-  "fila": 41,
-  "abertos": 116,
+  "fila": 44,
+  "abertos": 119,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 7044
+  "espera_media_s": 6890
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T12:05:49.442Z",
-  "min_sem_lead": 23
+  "ultimo_lead_at": "2026-07-25T12:40:03.858Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "Guida",
+   "tel": "5521*****906",
+   "criado": "09:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511962194451",
+   "tel": "5511*****451",
+   "criado": "09:37",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/46jmJaUVk",
+   "area": "Trabalhista"
+  },
   {
    "nome": "🫡",
    "tel": "5521*****467",
@@ -315,6 +364,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "553384670219",
+   "tel": "5533*****219",
+   "criado": "09:31",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/42MqS5pLJ",
+   "area": "Nao identificada"
   },
   {
    "nome": "𝑱𝒂𝒏𝒂𝒊𝒏𝒂 𝑹𝒐𝒅𝒓𝒊𝒈𝒖𝒆𝒔",
