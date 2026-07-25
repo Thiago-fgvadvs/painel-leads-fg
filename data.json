@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/07/2026, 20:55",
+ "gerado_em": "24/07/2026, 21:10",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
+  "total": 23,
   "no_sla": 17,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 3,
+  "fora_horario": 4,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 225,
-  "tickets_abertos": 102,
+  "leads_7d": 226,
+  "tickets_abertos": 103,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   },
   {
@@ -33,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 20,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 11,
-  "Nao identificada": 11
+  "Nao identificada": 12,
+  "Trabalhista": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -326,19 +326,30 @@
   ]
  },
  "agora": {
-  "fila": 27,
-  "abertos": 102,
+  "fila": 28,
+  "abertos": 103,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 8354
+  "espera_media_s": 8245
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:30.479Z",
-  "min_sem_lead": 436653
+  "ultimo_lead_at": "2026-07-25T00:07:15.937Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "Maria Vitória Tolfo",
+   "tel": "5555*****437",
+   "criado": "21:07",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "yrá",
    "tel": "5585*****883",
