@@ -1,34 +1,34 @@
 {
- "gerado_em": "25/07/2026, 12:16",
+ "gerado_em": "25/07/2026, 12:31",
  "data_ref": "25/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
+  "total": 19,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 16,
+  "fora_horario": 18,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 219,
-  "tickets_abertos": 128,
+  "leads_7d": 221,
+  "tickets_abertos": 131,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 16,
+   "leads": 18,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 19,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "fb.me/cMY7LLYxT",
@@ -37,6 +37,10 @@
   {
    "url": "fb.me/42MqS5pLJ",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DaVuNbaM1sG/",
@@ -53,14 +57,11 @@
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/k186mT53Y",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 6,
+  "Previdenciario": 1,
+  "Nao identificada": 7,
   "Trabalhista": 11
  },
  "sem_resposta_lista": [
@@ -323,19 +324,41 @@
   ]
  },
  "agora": {
-  "fila": 52,
-  "abertos": 128,
+  "fila": 55,
+  "abertos": 131,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 6272
+  "espera_media_s": 6090
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T14:46:33.184Z",
-  "min_sem_lead": 30
+  "ultimo_lead_at": "2026-05-29T18:47:56.201Z",
+  "min_sem_lead": 81884
  },
  "leads": [
+  {
+   "nome": "Mara",
+   "tel": "5592*****190",
+   "criado": "12:24",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "556299532041",
+   "tel": "5562*****041",
+   "criado": "12:20",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "554191972398",
    "tel": "5541*****398",
