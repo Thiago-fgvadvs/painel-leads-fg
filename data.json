@@ -1,34 +1,38 @@
 {
- "gerado_em": "25/07/2026, 09:13",
+ "gerado_em": "25/07/2026, 09:28",
  "data_ref": "25/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
+  "total": 7,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 6,
+  "fora_horario": 7,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 208,
-  "tickets_abertos": 115,
+  "leads_7d": 209,
+  "tickets_abertos": 116,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 4
+  },
+  {
+   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "leads": 1
   },
   {
    "url": "fb.me/8B5V96ay5",
@@ -40,7 +44,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2,
+  "Trabalhista": 3,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
@@ -288,17 +292,17 @@
   ]
  },
  "agora": {
-  "fila": 40,
-  "abertos": 115,
+  "fila": 41,
+  "abertos": 116,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 7124
+  "espera_media_s": 7044
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-25T12:05:49.442Z",
-  "min_sem_lead": 8
+  "min_sem_lead": 23
  },
  "leads": [
   {
@@ -310,6 +314,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "𝑱𝒂𝒏𝒂𝒊𝒏𝒂 𝑹𝒐𝒅𝒓𝒊𝒈𝒖𝒆𝒔",
+   "tel": "5511*****400",
+   "criado": "09:17",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
   },
   {
