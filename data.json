@@ -1,16 +1,16 @@
 {
- "gerado_em": "24/07/2026, 21:41",
+ "gerado_em": "24/07/2026, 21:56",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
+  "total": 25,
   "no_sla": 17,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 227,
+  "leads_7d": 228,
   "tickets_abertos": 105,
   "periodo_dias": 7
  },
@@ -33,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 21,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -71,7 +71,7 @@
  ],
  "areas": {
   "Trabalhista": 13,
-  "Nao identificada": 11
+  "Nao identificada": 12
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -335,21 +335,10 @@
   "espera_media_s": 8034
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T00:27:36.604Z",
-  "min_sem_lead": 13
+  "ultimo_lead_at": "2026-07-03T21:15:46.619Z",
+  "min_sem_lead": 30460
  },
  "leads": [
-  {
-   "nome": "554788097342",
-   "tel": "5547*****342",
-   "criado": "21:27",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Maria Vitória Tolfo",
    "tel": "5555*****437",
@@ -359,6 +348,17 @@
    "status": "FORA_HORARIO",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554788097342",
+   "tel": "5547*****342",
+   "criado": "21:27",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
    "area": "Trabalhista"
   },
   {
@@ -591,6 +591,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/5WDkBmR1i",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "559189224901",
+   "tel": "5591*****901",
+   "criado": "21:56",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Andreia",
