@@ -1,16 +1,16 @@
 {
- "gerado_em": "25/07/2026, 16:50",
+ "gerado_em": "25/07/2026, 17:06",
  "data_ref": "25/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
+  "total": 30,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 29,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 231,
+  "leads_7d": 232,
   "tickets_abertos": 142,
   "periodo_dias": 7
  },
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 27,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -60,9 +60,9 @@
   }
  ],
  "areas": {
-  "Previdenciario": 3,
   "Trabalhista": 16,
-  "Nao identificada": 10
+  "Nao identificada": 11,
+  "Previdenciario": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -312,16 +312,38 @@
   "fila": 66,
   "abertos": 142,
   "com_atendimento": 6,
-  "online": 0,
-  "offline": 9,
+  "online": 1,
+  "offline": 8,
   "ausentes": 0,
   "espera_media_s": 5649
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-23T13:30:32.400Z",
-  "min_sem_lead": 3260
+  "ultimo_lead_at": "2026-07-25T16:17:40.052Z",
+  "min_sem_lead": 228
  },
  "leads": [
+  {
+   "nome": "Bruh Siqueira",
+   "tel": "5515*****251",
+   "criado": "13:17",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTOr0Rsg0z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Jackson Passos",
+   "tel": "5511*****210",
+   "criado": "01:33",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Eu",
    "tel": "5521*****142",
@@ -411,17 +433,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Jackson Passos",
-   "tel": "5511*****210",
-   "criado": "01:33",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Aldair",
    "tel": "5531*****375",
    "criado": "13:19",
@@ -463,17 +474,6 @@
    "status": "FORA_HORARIO",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Bruh Siqueira",
-   "tel": "5515*****251",
-   "criado": "13:17",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTOr0Rsg0z/",
    "area": "Trabalhista"
   },
   {
@@ -639,6 +639,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/8B5V96ay5",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5521980049076",
+   "tel": "5521*****076",
+   "criado": "16:58",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
