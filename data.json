@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/07/2026, 21:25",
+ "gerado_em": "24/07/2026, 21:41",
  "data_ref": "24/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
+  "total": 24,
   "no_sla": 17,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 4,
+  "fora_horario": 5,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 226,
-  "tickets_abertos": 104,
+  "leads_7d": 227,
+  "tickets_abertos": 105,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -43,6 +43,10 @@
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 2
   },
   {
    "url": "fb.me/cMY7LLYxT",
@@ -63,14 +67,10 @@
   {
    "url": "fb.me/6VEccJ6hv",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9Pf9FTshS",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 12,
+  "Trabalhista": 13,
   "Nao identificada": 11
  },
  "sem_resposta_lista": [],
@@ -326,19 +326,30 @@
   ]
  },
  "agora": {
-  "fila": 29,
-  "abertos": 104,
+  "fila": 30,
+  "abertos": 105,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 8138
+  "espera_media_s": 8034
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-22T14:17:16.062Z",
-  "min_sem_lead": 46688
+  "ultimo_lead_at": "2026-07-25T00:27:36.604Z",
+  "min_sem_lead": 13
  },
  "leads": [
+  {
+   "nome": "554788097342",
+   "tel": "5547*****342",
+   "criado": "21:27",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Maria Vitória Tolfo",
    "tel": "5555*****437",
