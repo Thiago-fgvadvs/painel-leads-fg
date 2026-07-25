@@ -1,13 +1,13 @@
 {
- "gerado_em": "25/07/2026, 15:34",
+ "gerado_em": "25/07/2026, 15:49",
  "data_ref": "25/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 26,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 24,
+  "sem_resposta": 0,
+  "fora_horario": 25,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 228,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 24,
+   "leads": 25,
    "mediana_min": null
   }
  ],
@@ -31,6 +31,10 @@
    "leads": 8
   },
   {
+   "url": "fb.me/42MqS5pLJ",
+   "leads": 2
+  },
+  {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
    "leads": 2
   },
@@ -40,10 +44,6 @@
   },
   {
    "url": "fb.me/cMY7LLYxT",
-   "leads": 2
-  },
-  {
-   "url": "fb.me/42MqS5pLJ",
    "leads": 2
   },
   {
@@ -64,14 +64,7 @@
   "Trabalhista": 14,
   "Previdenciario": 2
  },
- "sem_resposta_lista": [
-  {
-   "nome": "553384670219",
-   "tel": "5533*****219",
-   "criado": "09:31",
-   "area": "Nao identificada"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -171,15 +164,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "553384670219",
-    "tel": "5533*****219",
-    "dia": "25/07",
-    "desde": "09:31",
-    "ts": 1784982667610
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -330,11 +315,11 @@
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 5705
+  "espera_media_s": 5852
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T18:46:41.066Z",
-  "min_sem_lead": 4308
+  "ultimo_lead_at": "2026-07-25T04:33:43.808Z",
+  "min_sem_lead": 856
  },
  "leads": [
   {
@@ -346,6 +331,39 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Aldair",
+   "tel": "5531*****375",
+   "criado": "13:19",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "🫡",
+   "tel": "5521*****467",
+   "criado": "09:05",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553384670219",
+   "tel": "5533*****219",
+   "criado": "09:31",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 367.1,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/42MqS5pLJ",
    "area": "Nao identificada"
   },
   {
@@ -368,17 +386,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Aldair",
-   "tel": "5531*****375",
-   "criado": "13:19",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
   },
   {
@@ -556,28 +563,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "🫡",
-   "tel": "5521*****467",
-   "criado": "09:05",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "553384670219",
-   "tel": "5533*****219",
-   "criado": "09:31",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/42MqS5pLJ",
-   "area": "Nao identificada"
   },
   {
    "nome": "5511950965268",
