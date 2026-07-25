@@ -1,16 +1,16 @@
 {
- "gerado_em": "25/07/2026, 14:33",
+ "gerado_em": "25/07/2026, 14:48",
  "data_ref": "25/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
+  "total": 24,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 22,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 225,
+  "leads_7d": 226,
   "tickets_abertos": 135,
   "periodo_dias": 7
  },
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 22,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 8,
+  "Nao identificada": 9,
   "Previdenciario": 2,
   "Trabalhista": 13
  },
@@ -334,7 +334,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-25T16:19:05.868Z",
-  "min_sem_lead": 74
+  "min_sem_lead": 90
  },
  "leads": [
   {
@@ -588,6 +588,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "556992820142",
+   "tel": "5569*****142",
+   "criado": "14:47",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
