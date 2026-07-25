@@ -1,29 +1,29 @@
 {
- "gerado_em": "25/07/2026, 13:32",
+ "gerado_em": "25/07/2026, 13:47",
  "data_ref": "25/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
+  "total": 23,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 21,
+  "fora_horario": 22,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 224,
-  "tickets_abertos": 134,
+  "leads_7d": 225,
+  "tickets_abertos": 135,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": null
   }
  ],
  "origem": {
   "Anuncio": 22,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 12,
+  "Trabalhista": 13,
   "Nao identificada": 8,
   "Previdenciario": 2
  },
@@ -324,28 +324,39 @@
   ]
  },
  "agora": {
-  "fila": 58,
-  "abertos": 134,
+  "fila": 59,
+  "abertos": 135,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 5919
+  "espera_media_s": 5864
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-17T21:23:44.244Z",
-  "min_sem_lead": 11229
+  "ultimo_lead_at": "2026-07-25T16:46:03.306Z",
+  "min_sem_lead": 2
  },
  "leads": [
   {
-   "nome": "Ana",
-   "tel": "5569*****140",
-   "criado": "10:38",
+   "nome": "555189676071",
+   "tel": "5551*****071",
+   "criado": "13:46",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Bruh Siqueira",
+   "tel": "5515*****251",
+   "criado": "13:17",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "criativo": "www.instagram.com/p/DaTOr0Rsg0z/",
    "area": "Trabalhista"
   },
   {
@@ -360,14 +371,25 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Bruh Siqueira",
-   "tel": "5515*****251",
-   "criado": "13:17",
+   "nome": "Andreia schavareto",
+   "tel": "5511*****938",
+   "criado": "03:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Ana",
+   "tel": "5569*****140",
+   "criado": "10:38",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTOr0Rsg0z/",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
   },
   {
@@ -412,17 +434,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Andreia schavareto",
-   "tel": "5511*****938",
-   "criado": "03:28",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.7,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
    "area": "Nao identificada"
   },
   {
