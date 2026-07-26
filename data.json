@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/07/2026, 13:32",
+ "gerado_em": "26/07/2026, 13:47",
  "data_ref": "26/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 16,
-  "Trabalhista": 11
+  "Trabalhista": 12,
+  "Nao identificada": 15
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -317,21 +317,10 @@
   "espera_media_s": 4425
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T06:28:38.291Z",
-  "min_sem_lead": 2043
+  "ultimo_lead_at": "2026-07-26T16:15:01.914Z",
+  "min_sem_lead": 32
  },
  "leads": [
-  {
-   "nome": "5514996614022",
-   "tel": "5514*****022",
-   "criado": "13:30",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.7,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/8B5V96ay5",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Guilherme Monteiro",
    "tel": "5561*****061",
@@ -341,6 +330,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5514996614022",
+   "tel": "5514*****022",
+   "criado": "13:30",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8B5V96ay5",
    "area": "Trabalhista"
   },
   {
