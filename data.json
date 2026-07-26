@@ -1,31 +1,35 @@
 {
- "gerado_em": "26/07/2026, 07:41",
+ "gerado_em": "26/07/2026, 07:56",
  "data_ref": "26/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
+  "total": 6,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 4,
+  "fora_horario": 5,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 244,
-  "tickets_abertos": 153,
+  "leads_7d": 245,
+  "tickets_abertos": 154,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 1
+  },
   {
    "url": "fb.me/9Pf9FTshS",
    "leads": 1
@@ -44,8 +48,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3,
-  "Nao identificada": 2
+  "Nao identificada": 3,
+  "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -292,19 +296,30 @@
   ]
  },
  "agora": {
-  "fila": 77,
-  "abertos": 153,
+  "fila": 78,
+  "abertos": 154,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 5158
+  "espera_media_s": 5117
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-26T09:54:11.305Z",
-  "min_sem_lead": 47
+  "ultimo_lead_at": "2026-07-26T10:51:12.505Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "559294681765",
+   "tel": "5592*****765",
+   "criado": "07:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Marina",
    "tel": "5563*****381",
