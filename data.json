@@ -1,13 +1,13 @@
 {
- "gerado_em": "26/07/2026, 09:58",
+ "gerado_em": "26/07/2026, 10:13",
  "data_ref": "26/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 11,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 8,
+  "sem_resposta": 0,
+  "fora_horario": 9,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 250,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 8,
+   "leads": 9,
    "mediana_min": null
   }
  ],
@@ -59,14 +59,7 @@
   "Trabalhista": 5,
   "Nao identificada": 6
  },
- "sem_resposta_lista": [
-  {
-   "nome": "5515991733195",
-   "tel": "5515*****195",
-   "criado": "09:58",
-   "area": "Nao identificada"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -166,15 +159,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "5515991733195",
-    "tel": "5515*****195",
-    "dia": "26/07",
-    "desde": "09:58",
-    "ts": 1785070697552
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -325,11 +310,11 @@
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 5000
+  "espera_media_s": 4962
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-26T11:17:06.097Z",
-  "min_sem_lead": 102
+  "ultimo_lead_at": "2026-07-26T12:49:17.505Z",
+  "min_sem_lead": 25
  },
  "leads": [
   {
@@ -344,17 +329,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5515991733195",
-   "tel": "5515*****195",
-   "criado": "09:58",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "💸Willian💸",
    "tel": "5521*****713",
    "criado": "08:17",
@@ -364,6 +338,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5515991733195",
+   "tel": "5515*****195",
+   "criado": "09:58",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
   },
   {
    "nome": "558594185641",
