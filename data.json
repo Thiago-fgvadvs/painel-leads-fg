@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/07/2026, 16:20",
+ "gerado_em": "26/07/2026, 16:35",
  "data_ref": "26/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 272,
-  "tickets_abertos": 187,
+  "tickets_abertos": 188,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -31,11 +31,11 @@
    "leads": 10
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "url": "fb.me/cMY7LLYxT",
    "leads": 6
   },
   {
-   "url": "fb.me/cMY7LLYxT",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 6
   },
   {
@@ -60,8 +60,9 @@
   }
  ],
  "areas": {
-  "Nao identificada": 20,
-  "Trabalhista": 13
+  "Trabalhista": 13,
+  "Nao identificada": 19,
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -308,19 +309,52 @@
   ]
  },
  "agora": {
-  "fila": 111,
-  "abertos": 187,
+  "fila": 112,
+  "abertos": 188,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 4068
+  "espera_media_s": 4043
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T10:56:39.653Z",
-  "min_sem_lead": 6263
+  "ultimo_lead_at": "2026-07-25T12:31:07.610Z",
+  "min_sem_lead": 1864
  },
  "leads": [
+  {
+   "nome": "Graça",
+   "tel": "5515*****195",
+   "criado": "09:58",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "📒",
+   "tel": "5567*****002",
+   "criado": "15:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Deusconosco🙏🏻🙌",
+   "tel": "5587*****535",
+   "criado": "11:43",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Previdenciario"
+  },
   {
    "nome": "Quelma Falcão",
    "tel": "5565*****847",
@@ -352,17 +386,6 @@
    "status": "FORA_HORARIO",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "📒",
-   "tel": "5567*****002",
-   "criado": "15:55",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
   },
   {
@@ -509,17 +532,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Deusconosco🙏🏻🙌",
-   "tel": "5587*****535",
-   "criado": "11:43",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "clarlamaiembe la Brésille",
    "tel": "5511*****834",
    "criado": "11:42",
@@ -606,17 +618,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Graça",
-   "tel": "5515*****195",
-   "criado": "09:58",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
-   "area": "Trabalhista"
   },
   {
    "nome": "André",
