@@ -1,34 +1,34 @@
 {
- "gerado_em": "26/07/2026, 15:49",
+ "gerado_em": "26/07/2026, 16:04",
  "data_ref": "26/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 31,
+  "total": 33,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 29,
+  "fora_horario": 31,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 270,
-  "tickets_abertos": 179,
+  "leads_7d": 272,
+  "tickets_abertos": 181,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 29,
+   "leads": 31,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 29,
+  "Anuncio": 31,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 8
+   "leads": 10
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 18,
+  "Nao identificada": 20,
   "Trabalhista": 13
  },
  "sem_resposta_lista": [],
@@ -308,19 +308,41 @@
   ]
  },
  "agora": {
-  "fila": 103,
-  "abertos": 179,
+  "fila": 105,
+  "abertos": 181,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 4280
+  "espera_media_s": 4225
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-26T18:22:37.466Z",
-  "min_sem_lead": 27
+  "ultimo_lead_at": "2026-07-26T18:55:48.725Z",
+  "min_sem_lead": 9
  },
  "leads": [
+  {
+   "nome": "556799192002",
+   "tel": "5567*****002",
+   "criado": "15:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "556599650847",
+   "tel": "5565*****847",
+   "criado": "15:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Paulo Henrique Alves Bran",
    "tel": "5599*****134",
