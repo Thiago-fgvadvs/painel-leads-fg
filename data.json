@@ -1,46 +1,50 @@
 {
- "gerado_em": "26/07/2026, 11:30",
+ "gerado_em": "26/07/2026, 11:45",
  "data_ref": "26/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
+  "total": 18,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 14,
+  "fora_horario": 16,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 255,
-  "tickets_abertos": 163,
+  "leads_7d": 257,
+  "tickets_abertos": 165,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 14,
+   "leads": 16,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 16,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 3
-  },
-  {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 3
   },
   {
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 3
+  },
+  {
    "url": "www.instagram.com/p/DaVuNbaM1sG/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/k186mT53Y",
+   "leads": 1
   },
   {
    "url": "fb.me/6n05GPpVx",
@@ -56,8 +60,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
-  "Nao identificada": 9
+  "Nao identificada": 10,
+  "Trabalhista": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -304,40 +308,51 @@
   ]
  },
  "agora": {
-  "fila": 87,
-  "abertos": 163,
+  "fila": 89,
+  "abertos": 165,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 4780
+  "espera_media_s": 4711
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-26T13:59:41.681Z",
-  "min_sem_lead": 30
+  "ultimo_lead_at": "2026-07-26T14:43:48.133Z",
+  "min_sem_lead": 2
  },
  "leads": [
   {
-   "nome": "Juliana",
-   "tel": "5542*****447",
-   "criado": "10:59",
+   "nome": "558781651535",
+   "tel": "5587*****535",
+   "criado": "11:43",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511945287834",
+   "tel": "5511*****834",
+   "criado": "11:42",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/k186mT53Y",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "💸Willian💸",
+   "tel": "5521*****713",
+   "criado": "08:17",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Leandra",
-   "tel": "5562*****805",
-   "criado": "11:25",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
   },
   {
    "nome": "559295025706",
@@ -359,6 +374,28 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Juliana",
+   "tel": "5542*****447",
+   "criado": "10:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Leandra",
+   "tel": "5562*****805",
+   "criado": "11:25",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
   },
   {
@@ -392,17 +429,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "💸Willian💸",
-   "tel": "5521*****713",
-   "criado": "08:17",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
    "area": "Trabalhista"
   },
   {
