@@ -1,13 +1,13 @@
 {
- "gerado_em": "26/07/2026, 20:24",
+ "gerado_em": "26/07/2026, 20:39",
  "data_ref": "26/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 38,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 36,
+  "sem_resposta": 0,
+  "fora_horario": 37,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 277,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 36,
+   "leads": 37,
    "mediana_min": null
   }
  ],
@@ -64,14 +64,7 @@
   "Previdenciario": 1,
   "Nao identificada": 21
  },
- "sem_resposta_lista": [
-  {
-   "nome": "Joel",
-   "tel": "5588*****466",
-   "criado": "20:24",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -171,15 +164,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Joel",
-    "tel": "5588*****466",
-    "dia": "26/07",
-    "desde": "20:24",
-    "ts": 1785108242987
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -330,24 +315,13 @@
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 3945
+  "espera_media_s": 3921
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-26T23:24:02.987Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-07-26T13:59:41.681Z",
+  "min_sem_lead": 580
  },
  "leads": [
-  {
-   "nome": "Joel",
-   "tel": "5588*****466",
-   "criado": "20:24",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTOr0Rsg0z/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Juliana",
    "tel": "5542*****447",
@@ -357,6 +331,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Joel",
+   "tel": "5588*****466",
+   "criado": "20:24",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTOr0Rsg0z/",
    "area": "Trabalhista"
   },
   {
