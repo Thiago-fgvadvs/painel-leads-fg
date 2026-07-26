@@ -1,34 +1,42 @@
 {
- "gerado_em": "26/07/2026, 09:43",
+ "gerado_em": "26/07/2026, 09:58",
  "data_ref": "26/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
+  "total": 11,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 0,
-  "fora_horario": 7,
+  "sem_resposta": 1,
+  "fora_horario": 8,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 248,
-  "tickets_abertos": 156,
+  "leads_7d": 250,
+  "tickets_abertos": 158,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 7,
+   "leads": 8,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 7,
+  "Anuncio": 9,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
+   "url": "fb.me/cMY7LLYxT",
+   "leads": 2
+  },
+  {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/6n05GPpVx",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DaVuNbaM1sG/",
@@ -45,17 +53,20 @@
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/cMY7LLYxT",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 4,
-  "Nao identificada": 5
+  "Trabalhista": 5,
+  "Nao identificada": 6
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5515991733195",
+   "tel": "5515*****195",
+   "criado": "09:58",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -155,7 +166,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "5515991733195",
+    "tel": "5515*****195",
+    "dia": "26/07",
+    "desde": "09:58",
+    "ts": 1785070697552
+   }
+  ],
   "grupos": [
    {
     "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
@@ -300,19 +319,41 @@
   ]
  },
  "agora": {
-  "fila": 80,
-  "abertos": 156,
+  "fila": 82,
+  "abertos": 158,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 5038
+  "espera_media_s": 5000
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-26T11:17:06.097Z",
-  "min_sem_lead": 86
+  "min_sem_lead": 102
  },
  "leads": [
+  {
+   "nome": "553298292644",
+   "tel": "5532*****644",
+   "criado": "09:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6n05GPpVx",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5515991733195",
+   "tel": "5515*****195",
+   "criado": "09:58",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
   {
    "nome": "💸Willian💸",
    "tel": "5521*****713",
