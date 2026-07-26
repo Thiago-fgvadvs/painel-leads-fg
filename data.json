@@ -1,37 +1,37 @@
 {
- "gerado_em": "26/07/2026, 09:12",
+ "gerado_em": "26/07/2026, 09:28",
  "data_ref": "26/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
+  "total": 9,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 6,
+  "fora_horario": 7,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 246,
-  "tickets_abertos": 155,
+  "leads_7d": 248,
+  "tickets_abertos": 156,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 6,
-  "Direto/Indicacao": 1
+  "Anuncio": 7,
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DaVuNbaM1sG/",
-   "leads": 1
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DaVuNbaM1sG/",
    "leads": 1
   },
   {
@@ -52,8 +52,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
-  "Nao identificada": 3
+  "Nao identificada": 5,
+  "Trabalhista": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -300,19 +300,30 @@
   ]
  },
  "agora": {
-  "fila": 79,
-  "abertos": 155,
+  "fila": 80,
+  "abertos": 156,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 5078
+  "espera_media_s": 5038
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 659333
+  "ultimo_lead_at": "2026-07-26T12:14:09.102Z",
+  "min_sem_lead": 14
  },
  "leads": [
+  {
+   "nome": "558594185641",
+   "tel": "5585*****641",
+   "criado": "09:14",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "💸Willian💸",
    "tel": "5521*****713",
@@ -383,6 +394,17 @@
    "nome": "558496065457",
    "tel": "5584*****457",
    "criado": "01:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "M🍀🙏🏼",
+   "tel": "5511*****737",
+   "criado": "09:13",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
