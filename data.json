@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/07/2026, 15:02",
+ "gerado_em": "27/07/2026, 15:18",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 296,
-  "tickets_abertos": 227,
+  "tickets_abertos": 229,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -77,17 +77,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 179,
-  "turnos": 589,
-  "respondidos": 580,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 13,
+  "grupos_ativos": 180,
+  "turnos": 595,
+  "respondidos": 585,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 318,
-    "mediana_min": 21.8
+    "respostas": 323,
+    "mediana_min": 22.9
    },
    {
     "nome": "Nicolas",
@@ -140,16 +140,22 @@
     "ts": 1785162133267
    },
    {
-    "grupo": "F.D.S.C x JMF ARTS LTDA",
+    "grupo": "A.G.S.L x EBAZAR . COM . BR LTDA",
     "dia": "27/07",
-    "desde": "10:29",
-    "ts": 1785158941225
+    "desde": "10:27",
+    "ts": 1785158846223
    },
    {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
     "dia": "27/07",
     "desde": "10:16",
     "ts": 1785158167120
+   },
+   {
+    "grupo": "J.A.L x CONSTRUTORA RAMON AGUILERA",
+    "dia": "25/07",
+    "desde": "14:31",
+    "ts": 1785000693631
    },
    {
     "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
@@ -212,16 +218,22 @@
     "ts": 1784922952140
    },
    {
+    "grupo": "J.A.L x CONSTRUTORA RAMON AGUILERA",
+    "dia": "25/07",
+    "desde": "14:31",
+    "ts": 1785000693631
+   },
+   {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
     "dia": "27/07",
     "desde": "10:16",
     "ts": 1785158167120
    },
    {
-    "grupo": "F.D.S.C x JMF ARTS LTDA",
+    "grupo": "A.G.S.L x EBAZAR . COM . BR LTDA",
     "dia": "27/07",
-    "desde": "10:29",
-    "ts": 1785158941225
+    "desde": "10:27",
+    "ts": 1785158846223
    },
    {
     "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
@@ -349,29 +361,18 @@
  },
  "agora": {
   "fila": 150,
-  "abertos": 227,
+  "abertos": 229,
   "com_atendimento": 8,
-  "online": 2,
+  "online": 3,
   "offline": 4,
-  "ausentes": 3,
+  "ausentes": 2,
   "espera_media_s": 2397
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T17:38:37.619Z",
-  "min_sem_lead": 24
+  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
+  "min_sem_lead": 344
  },
  "leads": [
-  {
-   "nome": "554488501261",
-   "tel": "5544*****261",
-   "criado": "14:38",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Doka",
    "tel": "5511*****089",
@@ -381,6 +382,17 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Fábio Violato",
+   "tel": "5544*****261",
+   "criado": "14:38",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
    "area": "Nao identificada"
   },
   {
