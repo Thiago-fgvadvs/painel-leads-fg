@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 11:28",
+ "gerado_em": "27/07/2026, 11:43",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
-  "no_sla": 16,
+  "total": 32,
+  "no_sla": 18,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 281,
-  "tickets_abertos": 222,
+  "leads_7d": 283,
+  "tickets_abertos": 227,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 28,
+   "leads": 30,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 28,
+  "Anuncio": 30,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -54,7 +54,11 @@
   },
   {
    "url": "fb.me/9Pf9FTshS",
-   "leads": 2
+   "leads": 3
+  },
+  {
+   "url": "fb.me/9dJiagMwB",
+   "leads": 1
   },
   {
    "url": "fb.me/8B5V96ay5",
@@ -63,31 +67,27 @@
   {
    "url": "fb.me/7x2nrMW0Q",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4EDzR2aSz",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 16,
-  "Nao identificada": 14
+  "Nao identificada": 15,
+  "Trabalhista": 17
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 171,
-  "turnos": 532,
-  "respondidos": 524,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 13.1,
+  "grupos_ativos": 173,
+  "turnos": 539,
+  "respondidos": 530,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 13,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 292,
-    "mediana_min": 19.8
+    "respostas": 297,
+    "mediana_min": 19.7
    },
    {
     "nome": "Nicolas",
@@ -96,8 +96,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 45,
-    "mediana_min": 3.9
+    "respostas": 46,
+    "mediana_min": 4
    },
    {
     "nome": "Luisa",
@@ -124,14 +124,20 @@
    {
     "grupo": "A.N.D.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "27/07",
-    "desde": "11:27",
-    "ts": 1785162420278
+    "desde": "11:41",
+    "ts": 1785163303202
    },
    {
-    "grupo": "G.F.D x BANCO DO BRASIL S.A",
+    "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
     "dia": "27/07",
-    "desde": "10:49",
-    "ts": 1785160153136
+    "desde": "11:22",
+    "ts": 1785162133267
+   },
+   {
+    "grupo": "S.S.A x SDB COMERCIO DE ALIMENTOS LTDA",
+    "dia": "24/07",
+    "desde": "19:42",
+    "ts": 1784932954193
    },
    {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
@@ -206,22 +212,28 @@
     "ts": 1784929270274
    },
    {
+    "grupo": "S.S.A x SDB COMERCIO DE ALIMENTOS LTDA",
+    "dia": "24/07",
+    "desde": "19:42",
+    "ts": 1784932954193
+   },
+   {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
     "dia": "27/07",
     "desde": "10:16",
     "ts": 1785158167120
    },
    {
-    "grupo": "G.F.D x BANCO DO BRASIL S.A",
+    "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
     "dia": "27/07",
-    "desde": "10:49",
-    "ts": 1785160153136
+    "desde": "11:22",
+    "ts": 1785162133267
    },
    {
     "grupo": "A.N.D.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "27/07",
-    "desde": "11:27",
-    "ts": 1785162420278
+    "desde": "11:41",
+    "ts": 1785163303202
    }
   ]
  },
@@ -336,19 +348,41 @@
   ]
  },
  "agora": {
-  "fila": 162,
-  "abertos": 222,
+  "fila": 165,
+  "abertos": 227,
   "com_atendimento": 8,
-  "online": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 2435
+  "ausentes": 1,
+  "espera_media_s": 2397
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T13:53:25.668Z",
-  "min_sem_lead": 35
+  "ultimo_lead_at": "2026-07-27T14:42:33.473Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "558999406352",
+   "tel": "5589*****352",
+   "criado": "11:42",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9dJiagMwB",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Antonio Sena.   toninho",
+   "tel": "5511*****594",
+   "criado": "11:39",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
   {
    "nome": "GESSIKA VIDAL",
    "tel": "5591*****304",
