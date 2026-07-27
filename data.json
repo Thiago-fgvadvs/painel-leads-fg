@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 14:01",
+ "gerado_em": "27/07/2026, 14:16",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 41,
-  "no_sla": 26,
+  "total": 43,
+  "no_sla": 28,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 292,
-  "tickets_abertos": 232,
+  "leads_7d": 294,
+  "tickets_abertos": 225,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 38,
+   "leads": 40,
    "mediana_min": 0.4
   },
   {
@@ -32,17 +32,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 37,
+  "Anuncio": 39,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 8
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 7
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 8
   },
   {
    "url": "fb.me/7Rf3h0gZO",
@@ -61,25 +61,25 @@
    "leads": 3
   },
   {
-   "url": "fb.me/7x2nrMW0Q",
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "url": "fb.me/7x2nrMW0Q",
    "leads": 2
   }
  ],
  "areas": {
-  "Trabalhista": 23,
-  "Nao identificada": 18
+  "Nao identificada": 19,
+  "Trabalhista": 24
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 179,
-  "turnos": 575,
-  "respondidos": 567,
+  "turnos": 576,
+  "respondidos": 568,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
   "mediana_min": 12.8,
@@ -91,8 +91,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 115,
-    "mediana_min": 23.3
+    "respostas": 116,
+    "mediana_min": 24.8
    },
    {
     "nome": "Gabrielle",
@@ -122,6 +122,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "W.O.V x INSS",
+    "dia": "24/07",
+    "desde": "18:18",
+    "ts": 1784927905269
+   },
+   {
     "grupo": "F.D.L.B.D.O x CASA DE SAUDE SANTA MARCELINA",
     "dia": "27/07",
     "desde": "13:22",
@@ -138,12 +144,6 @@
     "dia": "27/07",
     "desde": "10:16",
     "ts": 1785158167120
-   },
-   {
-    "grupo": "C.L.M.D.O x HABIBS",
-    "dia": "24/07",
-    "desde": "18:41",
-    "ts": 1784929270274
    },
    {
     "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
@@ -200,10 +200,10 @@
     "ts": 1784911700173
    },
    {
-    "grupo": "C.L.M.D.O x HABIBS",
+    "grupo": "W.O.V x INSS",
     "dia": "24/07",
-    "desde": "18:41",
-    "ts": 1784929270274
+    "desde": "18:18",
+    "ts": 1784927905269
    },
    {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
@@ -336,19 +336,74 @@
   ]
  },
  "agora": {
-  "fila": 160,
-  "abertos": 232,
-  "com_atendimento": 7,
-  "online": 4,
-  "offline": 4,
+  "fila": 149,
+  "abertos": 225,
+  "com_atendimento": 8,
+  "online": 5,
+  "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 2327
+  "espera_media_s": 2398
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T16:59:22.019Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-07-27T17:12:47.259Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "Rosy",
+   "tel": "5562*****828",
+   "criado": "14:12",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Roberto",
+   "tel": "5547*****933",
+   "criado": "12:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 2.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Danilo",
+   "tel": "5511*****545",
+   "criado": "14:15",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9yxU2JTeH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Wlamir",
+   "tel": "5521*****558",
+   "criado": "13:56",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Luiz Otavio",
+   "tel": "5562*****047",
+   "criado": "13:13",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "557788012363",
    "tel": "5577*****363",
@@ -372,17 +427,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Luiz Otavio",
-   "tel": "5562*****047",
-   "criado": "13:13",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Deus amor que tudo",
    "tel": "5515*****237",
    "criado": "13:30",
@@ -391,17 +435,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7x2nrMW0Q",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5521976998558",
-   "tel": "5521*****558",
-   "criado": "13:56",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
   },
   {
@@ -425,17 +458,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7Rf3h0gZO",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Roberto",
-   "tel": "5547*****933",
-   "criado": "12:40",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 2.1,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "GESSIKA VIDAL",
