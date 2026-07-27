@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 15:48",
+ "gerado_em": "27/07/2026, 16:04",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 47,
-  "no_sla": 31,
+  "total": 48,
+  "no_sla": 32,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 298,
-  "tickets_abertos": 232,
+  "leads_7d": 299,
+  "tickets_abertos": 230,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 43,
+   "leads": 44,
    "mediana_min": 0.4
   },
   {
@@ -32,17 +32,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 42,
+  "Anuncio": 43,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 9
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 8
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 9
   },
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 25,
+  "Trabalhista": 26,
   "Nao identificada": 22
  },
  "sem_resposta_lista": [],
@@ -78,21 +78,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 180,
-  "turnos": 600,
-  "respondidos": 591,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "turnos": 606,
+  "respondidos": 598,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 329,
+    "respostas": 333,
     "mediana_min": 23.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 116,
-    "mediana_min": 24.8
+    "respostas": 119,
+    "mediana_min": 24.7
    },
    {
     "nome": "Gabrielle",
@@ -105,14 +105,14 @@
     "mediana_min": 2
    },
    {
-    "nome": "Eduardo",
-    "respostas": 30,
-    "mediana_min": 6
-   },
-   {
     "nome": "Thauany",
     "respostas": 30,
     "mediana_min": 1
+   },
+   {
+    "nome": "Eduardo",
+    "respostas": 30,
+    "mediana_min": 6
    },
    {
     "nome": "—",
@@ -122,22 +122,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.M x INSS",
-    "dia": "27/07",
-    "desde": "15:23",
-    "ts": 1785176628477
-   },
-   {
-    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
-    "dia": "27/07",
-    "desde": "15:32",
-    "ts": 1785177144484
-   },
-   {
     "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
-    "dia": "24/07",
-    "desde": "16:55",
-    "ts": 1784922952140
+    "dia": "27/07",
+    "desde": "16:03",
+    "ts": 1785178993515
+   },
+   {
+    "grupo": "A.J.C",
+    "dia": "27/07",
+    "desde": "15:58",
+    "ts": 1785178690411
    },
    {
     "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
@@ -200,12 +194,6 @@
     "ts": 1784911700173
    },
    {
-    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
-    "dia": "24/07",
-    "desde": "16:55",
-    "ts": 1784922952140
-   },
-   {
     "grupo": "J.A.L x CONSTRUTORA RAMON AGUILERA",
     "dia": "25/07",
     "desde": "14:31",
@@ -224,16 +212,16 @@
     "ts": 1785162133267
    },
    {
-    "grupo": "A.M x INSS",
+    "grupo": "A.J.C",
     "dia": "27/07",
-    "desde": "15:23",
-    "ts": 1785176628477
+    "desde": "15:58",
+    "ts": 1785178690411
    },
    {
-    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
+    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
     "dia": "27/07",
-    "desde": "15:32",
-    "ts": 1785177144484
+    "desde": "16:03",
+    "ts": 1785178993515
    }
   ]
  },
@@ -349,18 +337,51 @@
  },
  "agora": {
   "fila": 152,
-  "abertos": 232,
-  "com_atendimento": 8,
+  "abertos": 230,
+  "com_atendimento": 7,
   "online": 5,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 2361
+  "espera_media_s": 2350
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T00:40:08.885Z",
-  "min_sem_lead": 1088
+  "ultimo_lead_at": "2026-07-26T11:17:06.097Z",
+  "min_sem_lead": 1907
  },
  "leads": [
+  {
+   "nome": "5511978969467",
+   "tel": "5511*****467",
+   "criado": "16:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rosy",
+   "tel": "5562*****828",
+   "criado": "14:12",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "sirley",
+   "tel": "5543*****747",
+   "criado": "15:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Danilo",
    "tel": "5511*****545",
@@ -382,17 +403,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Rosy",
-   "tel": "5562*****828",
-   "criado": "14:12",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
   },
   {
    "nome": "osvaldonequinho",
@@ -447,17 +457,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "sirley",
-   "tel": "5543*****747",
-   "criado": "15:28",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
   },
   {
@@ -857,9 +856,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "557996534351",
-   "tel": "5579*****351",
-   "criado": "13:47",
+   "nome": "5517997393518",
+   "tel": "5517*****518",
+   "criado": "14:58",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -868,9 +867,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5517997393518",
-   "tel": "5517*****518",
-   "criado": "14:58",
+   "nome": "557996534351",
+   "tel": "5579*****351",
+   "criado": "13:47",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
