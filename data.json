@@ -1,16 +1,16 @@
 {
- "gerado_em": "27/07/2026, 14:47",
+ "gerado_em": "27/07/2026, 15:02",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 44,
+  "total": 45,
   "no_sla": 29,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 295,
+  "leads_7d": 296,
   "tickets_abertos": 227,
   "periodo_dias": 7
  },
@@ -33,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 40,
-  "Direto/Indicacao": 4
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 20,
+  "Nao identificada": 21,
   "Trabalhista": 24
  },
  "sem_resposta_lista": [],
@@ -78,16 +78,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 179,
-  "turnos": 584,
-  "respondidos": 576,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "turnos": 589,
+  "respondidos": 580,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 13,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 314,
-    "mediana_min": 20.6
+    "respostas": 318,
+    "mediana_min": 21.8
    },
    {
     "nome": "Nicolas",
@@ -138,6 +138,12 @@
     "dia": "27/07",
     "desde": "11:22",
     "ts": 1785162133267
+   },
+   {
+    "grupo": "F.D.S.C x JMF ARTS LTDA",
+    "dia": "27/07",
+    "desde": "10:29",
+    "ts": 1785158941225
    },
    {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
@@ -210,6 +216,12 @@
     "dia": "27/07",
     "desde": "10:16",
     "ts": 1785158167120
+   },
+   {
+    "grupo": "F.D.S.C x JMF ARTS LTDA",
+    "dia": "27/07",
+    "desde": "10:29",
+    "ts": 1785158941225
    },
    {
     "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
@@ -339,27 +351,16 @@
   "fila": 150,
   "abertos": 227,
   "com_atendimento": 8,
-  "online": 3,
-  "offline": 3,
+  "online": 2,
+  "offline": 4,
   "ausentes": 3,
   "espera_media_s": 2397
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T00:40:08.885Z",
-  "min_sem_lead": 1027
+  "ultimo_lead_at": "2026-07-27T17:38:37.619Z",
+  "min_sem_lead": 24
  },
  "leads": [
-  {
-   "nome": "Rosy",
-   "tel": "5562*****828",
-   "criado": "14:12",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
   {
    "nome": "554488501261",
    "tel": "5544*****261",
@@ -369,6 +370,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTKQODOlC/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Doka",
+   "tel": "5511*****089",
+   "criado": "09:34",
+   "atendente": "Eduardo",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Rosy",
+   "tel": "5562*****828",
+   "criado": "14:12",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
   },
   {
@@ -535,17 +558,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Doka",
-   "tel": "5511*****089",
-   "criado": "09:34",
-   "atendente": "Eduardo",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Advogada Angela da Silveira ",
@@ -820,6 +832,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5517997393518",
+   "tel": "5517*****518",
+   "criado": "14:58",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   },
   {
