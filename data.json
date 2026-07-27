@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 14:32",
+ "gerado_em": "27/07/2026, 14:47",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 43,
-  "no_sla": 28,
+  "total": 44,
+  "no_sla": 29,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 294,
-  "tickets_abertos": 224,
+  "leads_7d": 295,
+  "tickets_abertos": 227,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 40,
+   "leads": 41,
    "mediana_min": 0.4
   },
   {
@@ -32,16 +32,16 @@
   }
  ],
  "origem": {
-  "Anuncio": 39,
+  "Anuncio": 40,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 8
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 8
   },
   {
@@ -70,24 +70,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 24,
-  "Nao identificada": 19
+  "Nao identificada": 20,
+  "Trabalhista": 24
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 179,
-  "turnos": 580,
-  "respondidos": 573,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 12.9,
+  "turnos": 584,
+  "respondidos": 576,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 13,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 311,
-    "mediana_min": 20.5
+    "respostas": 314,
+    "mediana_min": 20.6
    },
    {
     "nome": "Nicolas",
@@ -126,6 +126,12 @@
     "dia": "27/07",
     "desde": "14:31",
     "ts": 1785173468351
+   },
+   {
+    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
+    "dia": "24/07",
+    "desde": "16:55",
+    "ts": 1784922952140
    },
    {
     "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
@@ -192,6 +198,12 @@
     "dia": "24/07",
     "desde": "13:48",
     "ts": 1784911700173
+   },
+   {
+    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
+    "dia": "24/07",
+    "desde": "16:55",
+    "ts": 1784922952140
    },
    {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
@@ -324,19 +336,52 @@
   ]
  },
  "agora": {
-  "fila": 149,
-  "abertos": 224,
+  "fila": 150,
+  "abertos": 227,
   "com_atendimento": 8,
-  "online": 2,
+  "online": 3,
   "offline": 3,
-  "ausentes": 4,
-  "espera_media_s": 2410
+  "ausentes": 3,
+  "espera_media_s": 2397
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T17:15:25.070Z",
-  "min_sem_lead": 17
+  "ultimo_lead_at": "2026-07-27T00:40:08.885Z",
+  "min_sem_lead": 1027
  },
  "leads": [
+  {
+   "nome": "Rosy",
+   "tel": "5562*****828",
+   "criado": "14:12",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "554488501261",
+   "tel": "5544*****261",
+   "criado": "14:38",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Wlamir",
+   "tel": "5521*****558",
+   "criado": "13:56",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Danilo",
    "tel": "5511*****545",
@@ -360,17 +405,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Rosy",
-   "tel": "5562*****828",
-   "criado": "14:12",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Roberto",
    "tel": "5547*****933",
    "criado": "12:40",
@@ -380,17 +414,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Wlamir",
-   "tel": "5521*****558",
-   "criado": "13:56",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Luiz Otavio",
