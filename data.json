@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/07/2026, 13:15",
+ "gerado_em": "27/07/2026, 13:30",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 287,
-  "tickets_abertos": 230,
+  "tickets_abertos": 231,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -78,11 +78,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 179,
-  "turnos": 567,
-  "respondidos": 560,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 12.7,
+  "turnos": 573,
+  "respondidos": 565,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 12.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -91,8 +91,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 110,
-    "mediana_min": 24.8
+    "respostas": 113,
+    "mediana_min": 22.8
    },
    {
     "nome": "Gabrielle",
@@ -111,8 +111,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 27,
-    "mediana_min": 8.7
+    "respostas": 29,
+    "mediana_min": 6.1
    },
    {
     "nome": "—",
@@ -121,6 +121,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "F.D.L.B.D.O x CASA DE SAUDE SANTA MARCELINA",
+    "dia": "27/07",
+    "desde": "13:22",
+    "ts": 1785169379285
+   },
    {
     "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
     "dia": "27/07",
@@ -210,6 +216,12 @@
     "dia": "27/07",
     "desde": "11:22",
     "ts": 1785162133267
+   },
+   {
+    "grupo": "F.D.L.B.D.O x CASA DE SAUDE SANTA MARCELINA",
+    "dia": "27/07",
+    "desde": "13:22",
+    "ts": 1785169379285
    }
   ]
  },
@@ -324,17 +336,17 @@
   ]
  },
  "agora": {
-  "fila": 165,
-  "abertos": 230,
+  "fila": 163,
+  "abertos": 231,
   "com_atendimento": 7,
   "online": 2,
-  "offline": 4,
-  "ausentes": 3,
+  "offline": 5,
+  "ausentes": 2,
   "espera_media_s": 2338
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-27T16:13:51.408Z",
-  "min_sem_lead": 2
+  "min_sem_lead": 17
  },
  "leads": [
   {
@@ -346,6 +358,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "osvaldonequinho",
+   "tel": "5543*****854",
+   "criado": "05:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7Rf3h0gZO",
    "area": "Trabalhista"
   },
   {
@@ -621,17 +644,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "554399601854",
-   "tel": "5543*****854",
-   "criado": "05:49",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7Rf3h0gZO",
    "area": "Trabalhista"
   },
   {
