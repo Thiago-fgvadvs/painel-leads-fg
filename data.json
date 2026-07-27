@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 10:12",
+ "gerado_em": "27/07/2026, 10:27",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
-  "no_sla": 10,
+  "total": 26,
+  "no_sla": 12,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 275,
-  "tickets_abertos": 229,
+  "leads_7d": 277,
+  "tickets_abertos": 230,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 23,
+   "leads": 25,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 25,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -37,11 +37,11 @@
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 4
+   "leads": 5
   },
   {
    "url": "fb.me/cMY7LLYxT",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/7Rf3h0gZO",
@@ -52,11 +52,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/7x2nrMW0Q",
+   "url": "fb.me/8B5V96ay5",
    "leads": 1
   },
   {
-   "url": "fb.me/8B5V96ay5",
+   "url": "fb.me/7x2nrMW0Q",
    "leads": 1
   },
   {
@@ -65,28 +65,28 @@
   }
  ],
  "areas": {
-  "Trabalhista": 14,
-  "Nao identificada": 10
+  "Nao identificada": 12,
+  "Trabalhista": 14
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 166,
-  "turnos": 517,
-  "respondidos": 509,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "grupos_ativos": 167,
+  "turnos": 523,
+  "respondidos": 514,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 13,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 285,
-    "mediana_min": 19.7
+    "respostas": 286,
+    "mediana_min": 19.8
    },
    {
     "nome": "Nicolas",
-    "respostas": 103,
+    "respostas": 105,
     "mediana_min": 22.8
    },
    {
@@ -96,8 +96,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 29,
-    "mediana_min": 2
+    "respostas": 31,
+    "mediana_min": 1.9
    },
    {
     "nome": "Thauany",
@@ -119,8 +119,14 @@
    {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
     "dia": "27/07",
-    "desde": "08:30",
-    "ts": 1785151804144
+    "desde": "10:16",
+    "ts": 1785158167120
+   },
+   {
+    "grupo": "C.E.A.E.L x JOSE AUGUSTO DE SOUZA FROTA",
+    "dia": "27/07",
+    "desde": "07:48",
+    "ts": 1785149326141
    },
    {
     "grupo": "C.L.M.D.O x HABIBS",
@@ -213,10 +219,16 @@
     "ts": 1784929270274
    },
    {
+    "grupo": "C.E.A.E.L x JOSE AUGUSTO DE SOUZA FROTA",
+    "dia": "27/07",
+    "desde": "07:48",
+    "ts": 1785149326141
+   },
+   {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
     "dia": "27/07",
-    "desde": "08:30",
-    "ts": 1785151804144
+    "desde": "10:16",
+    "ts": 1785158167120
    }
   ]
  },
@@ -322,19 +334,63 @@
   ]
  },
  "agora": {
-  "fila": 156,
-  "abertos": 229,
+  "fila": 159,
+  "abertos": 230,
   "com_atendimento": 7,
-  "online": 5,
-  "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 2730
+  "online": 6,
+  "offline": 3,
+  "ausentes": 0,
+  "espera_media_s": 2425
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T08:16:22.896Z",
-  "min_sem_lead": 7496
+  "ultimo_lead_at": "2026-07-27T13:26:46.318Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "Roseli Martins",
+   "tel": "5546*****239",
+   "criado": "10:26",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "559691529018",
+   "tel": "5596*****018",
+   "criado": "10:26",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "PAULO MEDICACAO",
+   "tel": "5511*****089",
+   "criado": "09:34",
+   "atendente": "Eduardo",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Danilo Gomes 🥋⚽🥊♟️",
+   "tel": "5511*****888",
+   "criado": "09:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8B5V96ay5",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Vinicius Chagas",
    "tel": "5517*****482",
@@ -356,17 +412,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "PAULO MEDICACAO",
-   "tel": "5511*****089",
-   "criado": "09:34",
-   "atendente": "Eduardo",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "5511913113970",
@@ -400,17 +445,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "5511937374888",
-   "tel": "5511*****888",
-   "criado": "09:49",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/8B5V96ay5",
-   "area": "Nao identificada"
   },
   {
    "nome": "Ludmila Lanna",
