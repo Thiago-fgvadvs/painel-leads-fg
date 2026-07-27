@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 15:18",
+ "gerado_em": "27/07/2026, 15:33",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 45,
-  "no_sla": 29,
+  "total": 46,
+  "no_sla": 30,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 296,
-  "tickets_abertos": 229,
+  "leads_7d": 297,
+  "tickets_abertos": 231,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 41,
+   "leads": 42,
    "mediana_min": 0.4
   },
   {
@@ -32,16 +32,16 @@
   }
  ],
  "origem": {
-  "Anuncio": 40,
+  "Anuncio": 41,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 8
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 9
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 8
   },
   {
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 21,
+  "Nao identificada": 22,
   "Trabalhista": 24
  },
  "sem_resposta_lista": [],
@@ -78,16 +78,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 180,
-  "turnos": 595,
-  "respondidos": 585,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "turnos": 598,
+  "respondidos": 589,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 323,
-    "mediana_min": 22.9
+    "respostas": 327,
+    "mediana_min": 23.4
    },
    {
     "nome": "Nicolas",
@@ -122,10 +122,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "W.O.V x INSS",
+    "grupo": "A.M x INSS",
     "dia": "27/07",
-    "desde": "14:31",
-    "ts": 1785173468351
+    "desde": "15:23",
+    "ts": 1785176628477
    },
    {
     "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
@@ -138,12 +138,6 @@
     "dia": "27/07",
     "desde": "11:22",
     "ts": 1785162133267
-   },
-   {
-    "grupo": "A.G.S.L x EBAZAR . COM . BR LTDA",
-    "dia": "27/07",
-    "desde": "10:27",
-    "ts": 1785158846223
    },
    {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
@@ -230,22 +224,16 @@
     "ts": 1785158167120
    },
    {
-    "grupo": "A.G.S.L x EBAZAR . COM . BR LTDA",
-    "dia": "27/07",
-    "desde": "10:27",
-    "ts": 1785158846223
-   },
-   {
     "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
     "dia": "27/07",
     "desde": "11:22",
     "ts": 1785162133267
    },
    {
-    "grupo": "W.O.V x INSS",
+    "grupo": "A.M x INSS",
     "dia": "27/07",
-    "desde": "14:31",
-    "ts": 1785173468351
+    "desde": "15:23",
+    "ts": 1785176628477
    }
   ]
  },
@@ -360,19 +348,52 @@
   ]
  },
  "agora": {
-  "fila": 150,
-  "abertos": 229,
+  "fila": 151,
+  "abertos": 231,
   "com_atendimento": 8,
   "online": 3,
-  "offline": 4,
-  "ausentes": 2,
-  "espera_media_s": 2397
+  "offline": 3,
+  "ausentes": 3,
+  "espera_media_s": 2373
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
-  "min_sem_lead": 344
+  "ultimo_lead_at": "2026-07-27T17:12:47.259Z",
+  "min_sem_lead": 81
  },
  "leads": [
+  {
+   "nome": "Rosy",
+   "tel": "5562*****828",
+   "criado": "14:12",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Roberto",
+   "tel": "5547*****933",
+   "criado": "12:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 2.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "sirley",
+   "tel": "5543*****747",
+   "criado": "15:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Doka",
    "tel": "5511*****089",
@@ -393,17 +414,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTKQODOlC/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Rosy",
-   "tel": "5562*****828",
-   "criado": "14:12",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
   },
   {
@@ -438,17 +448,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Roberto",
-   "tel": "5547*****933",
-   "criado": "12:40",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 2.1,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Luiz Otavio",
