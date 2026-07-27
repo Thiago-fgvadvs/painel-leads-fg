@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/07/2026, 16:34",
+ "gerado_em": "27/07/2026, 16:50",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 94,
   "mediana_geral": 0.4,
   "leads_7d": 301,
-  "tickets_abertos": 237,
+  "tickets_abertos": 233,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -76,27 +76,27 @@
  "sem_resposta_lista": [],
  "fora_sla_lista": [
   {
-   "nome": "5517997393518",
-   "tel": "5517*****518",
-   "criado": "14:58",
-   "espera_min": 76,
-   "atendente": "Fernanda Gehm - Administradora"
-  },
-  {
    "nome": "557996534351",
    "tel": "5579*****351",
    "criado": "13:47",
    "espera_min": 146.4,
    "atendente": "Fernanda Gehm - Administradora"
+  },
+  {
+   "nome": "5517997393518",
+   "tel": "5517*****518",
+   "criado": "14:58",
+   "espera_min": 76,
+   "atendente": "Fernanda Gehm - Administradora"
   }
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 182,
-  "turnos": 613,
-  "respondidos": 604,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "grupos_ativos": 184,
+  "turnos": 611,
+  "respondidos": 605,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 13.2,
   "atendentes": [
    {
@@ -106,8 +106,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 120,
-    "mediana_min": 25.5
+    "respostas": 121,
+    "mediana_min": 26.3
    },
    {
     "nome": "Gabrielle",
@@ -137,16 +137,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.J.C",
+    "grupo": "J.R.D.S x MURO ALTO BEACH RESORT",
     "dia": "27/07",
-    "desde": "15:58",
-    "ts": 1785178690411
-   },
-   {
-    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
-    "dia": "27/07",
-    "desde": "16:03",
-    "ts": 1785178993515
+    "desde": "16:49",
+    "ts": 1785181758552
    },
    {
     "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
@@ -155,28 +149,16 @@
     "ts": 1785174326450
    },
    {
-    "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
+    "grupo": "A.J.C",
     "dia": "27/07",
-    "desde": "11:22",
-    "ts": 1785162133267
-   },
-   {
-    "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
-    "dia": "27/07",
-    "desde": "10:16",
-    "ts": 1785158167120
+    "desde": "15:58",
+    "ts": 1785178690411
    },
    {
     "grupo": "J.A.L x CONSTRUTORA RAMON AGUILERA",
     "dia": "25/07",
     "desde": "14:31",
     "ts": 1785000693631
-   },
-   {
-    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
-    "dia": "24/07",
-    "desde": "13:48",
-    "ts": 1784911700173
    },
    {
     "grupo": "A.J.P.B",
@@ -209,28 +191,10 @@
     "ts": 1784754648150
    },
    {
-    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
-    "dia": "24/07",
-    "desde": "13:48",
-    "ts": 1784911700173
-   },
-   {
     "grupo": "J.A.L x CONSTRUTORA RAMON AGUILERA",
     "dia": "25/07",
     "desde": "14:31",
     "ts": 1785000693631
-   },
-   {
-    "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
-    "dia": "27/07",
-    "desde": "10:16",
-    "ts": 1785158167120
-   },
-   {
-    "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
-    "dia": "27/07",
-    "desde": "11:22",
-    "ts": 1785162133267
    },
    {
     "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
@@ -245,10 +209,10 @@
     "ts": 1785178690411
    },
    {
-    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
+    "grupo": "J.R.D.S x MURO ALTO BEACH RESORT",
     "dia": "27/07",
-    "desde": "16:03",
-    "ts": 1785178993515
+    "desde": "16:49",
+    "ts": 1785181758552
    }
   ]
  },
@@ -364,18 +328,62 @@
  },
  "agora": {
   "fila": 156,
-  "abertos": 237,
-  "com_atendimento": 7,
-  "online": 3,
+  "abertos": 233,
+  "com_atendimento": 8,
+  "online": 6,
   "offline": 3,
-  "ausentes": 3,
+  "ausentes": 0,
   "espera_media_s": 2304
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T17:12:47.259Z",
-  "min_sem_lead": 142
+  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
+  "min_sem_lead": 436
  },
  "leads": [
+  {
+   "nome": "Doka",
+   "tel": "5511*****089",
+   "criado": "09:34",
+   "atendente": "Eduardo",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "557996534351",
+   "tel": "5579*****351",
+   "criado": "13:47",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 146.4,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5517997393518",
+   "tel": "5517*****518",
+   "criado": "14:58",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 76,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Roberto",
+   "tel": "5547*****933",
+   "criado": "12:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 2.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Rosy",
    "tel": "5562*****828",
@@ -388,15 +396,15 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Doka",
-   "tel": "5511*****089",
-   "criado": "09:34",
-   "atendente": "Eduardo",
-   "espera_min": 0.7,
+   "nome": "Antonio Sena.   toninho",
+   "tel": "5511*****594",
+   "criado": "11:39",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
   },
   {
    "nome": "Rosemary",
@@ -441,39 +449,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Antonio Sena.   toninho",
-   "tel": "5511*****594",
-   "criado": "11:39",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5517997393518",
-   "tel": "5517*****518",
-   "criado": "14:58",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 76,
-   "status": "FORA_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "557996534351",
-   "tel": "5579*****351",
-   "criado": "13:47",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 146.4,
-   "status": "FORA_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "sirley",
@@ -529,17 +504,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Roberto",
-   "tel": "5547*****933",
-   "criado": "12:40",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 2.1,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Fábio Violato",
