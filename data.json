@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 13:46",
+ "gerado_em": "27/07/2026, 14:01",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 38,
-  "no_sla": 24,
+  "total": 41,
+  "no_sla": 26,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 289,
-  "tickets_abertos": 234,
+  "leads_7d": 292,
+  "tickets_abertos": 232,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 36,
+   "leads": 38,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 35,
-  "Direto/Indicacao": 3
+  "Anuncio": 37,
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 7
+   "leads": 8
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
@@ -53,11 +53,11 @@
    "leads": 4
   },
   {
-   "url": "fb.me/9Pf9FTshS",
+   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "url": "fb.me/9Pf9FTshS",
    "leads": 3
   },
   {
@@ -66,23 +66,23 @@
   },
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
-   "leads": 1
+   "leads": 2
   }
  ],
  "areas": {
-  "Trabalhista": 21,
-  "Nao identificada": 17
+  "Trabalhista": 23,
+  "Nao identificada": 18
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 179,
-  "turnos": 574,
-  "respondidos": 565,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 12.6,
+  "turnos": 575,
+  "respondidos": 567,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 12.8,
   "atendentes": [
    {
     "nome": "Julia",
@@ -91,8 +91,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 113,
-    "mediana_min": 22.8
+    "respostas": 115,
+    "mediana_min": 23.3
    },
    {
     "nome": "Gabrielle",
@@ -121,12 +121,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "P.M.C x RITA DE FATIMA HOFFMANN LONGHI",
-    "dia": "24/07",
-    "desde": "17:38",
-    "ts": 1784925497306
-   },
    {
     "grupo": "F.D.L.B.D.O x CASA DE SAUDE SANTA MARCELINA",
     "dia": "27/07",
@@ -204,12 +198,6 @@
     "dia": "24/07",
     "desde": "13:48",
     "ts": 1784911700173
-   },
-   {
-    "grupo": "P.M.C x RITA DE FATIMA HOFFMANN LONGHI",
-    "dia": "24/07",
-    "desde": "17:38",
-    "ts": 1784925497306
    },
    {
     "grupo": "C.L.M.D.O x HABIBS",
@@ -348,28 +336,28 @@
   ]
  },
  "agora": {
-  "fila": 165,
-  "abertos": 234,
+  "fila": 160,
+  "abertos": 232,
   "com_atendimento": 7,
   "online": 4,
   "offline": 4,
   "ausentes": 1,
-  "espera_media_s": 2315
+  "espera_media_s": 2327
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T14:39:54.352Z",
-  "min_sem_lead": 126
+  "ultimo_lead_at": "2026-07-27T16:59:22.019Z",
+  "min_sem_lead": 2
  },
  "leads": [
   {
-   "nome": "Antonio Sena.   toninho",
-   "tel": "5511*****594",
-   "criado": "11:39",
+   "nome": "557788012363",
+   "tel": "5577*****363",
+   "criado": "13:59",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
   },
   {
@@ -378,6 +366,17 @@
    "criado": "13:36",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Luiz Otavio",
+   "tel": "5562*****047",
+   "criado": "13:13",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
@@ -395,14 +394,25 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Luiz Otavio",
-   "tel": "5562*****047",
-   "criado": "13:13",
+   "nome": "5521976998558",
+   "tel": "5521*****558",
+   "criado": "13:56",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Antonio Sena.   toninho",
+   "tel": "5511*****594",
+   "criado": "11:39",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
    "area": "Trabalhista"
   },
   {
@@ -777,6 +787,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "557996534351",
+   "tel": "5579*****351",
+   "criado": "13:47",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
