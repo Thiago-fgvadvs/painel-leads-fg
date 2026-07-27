@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 12:29",
+ "gerado_em": "27/07/2026, 12:45",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 34,
-  "no_sla": 20,
+  "total": 35,
+  "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 285,
-  "tickets_abertos": 231,
+  "leads_7d": 286,
+  "tickets_abertos": 230,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 32,
+   "leads": 33,
    "mediana_min": 0.4
   },
   {
@@ -33,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 32,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -71,28 +71,28 @@
  ],
  "areas": {
   "Trabalhista": 18,
-  "Nao identificada": 16
+  "Nao identificada": 17
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 177,
-  "turnos": 554,
-  "respondidos": 545,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 12.9,
+  "grupos_ativos": 178,
+  "turnos": 558,
+  "respondidos": 551,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 13,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 302,
-    "mediana_min": 19.8
+    "respostas": 305,
+    "mediana_min": 20
    },
    {
     "nome": "Nicolas",
-    "respostas": 107,
-    "mediana_min": 23.3
+    "respostas": 108,
+    "mediana_min": 24.8
    },
    {
     "nome": "Gabrielle",
@@ -106,13 +106,13 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 28,
-    "mediana_min": 0.8
+    "respostas": 29,
+    "mediana_min": 0.9
    },
    {
     "nome": "Eduardo",
-    "respostas": 22,
-    "mediana_min": 9.5
+    "respostas": 23,
+    "mediana_min": 10
    },
    {
     "nome": "—",
@@ -121,18 +121,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "F.D.S.S x SM PIRITUBA HORTIFRUTI E APOIO ADMINISTRATIVO LTDA",
-    "dia": "27/07",
-    "desde": "11:58",
-    "ts": 1785164289214
-   },
-   {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "27/07",
-    "desde": "11:57",
-    "ts": 1785164247312
-   },
    {
     "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
     "dia": "27/07",
@@ -222,18 +210,6 @@
     "dia": "27/07",
     "desde": "11:22",
     "ts": 1785162133267
-   },
-   {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "27/07",
-    "desde": "11:57",
-    "ts": 1785164247312
-   },
-   {
-    "grupo": "F.D.S.S x SM PIRITUBA HORTIFRUTI E APOIO ADMINISTRATIVO LTDA",
-    "dia": "27/07",
-    "desde": "11:58",
-    "ts": 1785164289214
    }
   ]
  },
@@ -348,19 +324,41 @@
   ]
  },
  "agora": {
-  "fila": 168,
-  "abertos": 231,
+  "fila": 167,
+  "abertos": 230,
   "com_atendimento": 8,
-  "online": 5,
-  "offline": 3,
+  "online": 6,
+  "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 2361
+  "espera_media_s": 2350
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:30.479Z",
-  "min_sem_lead": 440467
+  "ultimo_lead_at": "2026-07-27T14:39:54.352Z",
+  "min_sem_lead": 65
  },
  "leads": [
+  {
+   "nome": "Antonio Sena.   toninho",
+   "tel": "5511*****594",
+   "criado": "11:39",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Roberto",
+   "tel": "5547*****933",
+   "criado": "12:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 2.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Leilinalva Leite",
    "tel": "5595*****629",
@@ -382,17 +380,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Antonio Sena.   toninho",
-   "tel": "5511*****594",
-   "criado": "11:39",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
   },
   {
    "nome": "558999406352",
