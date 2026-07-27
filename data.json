@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/07/2026, 17:51",
+ "gerado_em": "27/07/2026, 18:06",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 95,
   "mediana_geral": 0.4,
   "leads_7d": 304,
-  "tickets_abertos": 240,
+  "tickets_abertos": 241,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 28,
-  "Nao identificada": 25
+  "Nao identificada": 25,
+  "Trabalhista": 28
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -92,22 +92,22 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 187,
-  "turnos": 622,
-  "respondidos": 614,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 13.2,
+  "grupos_ativos": 188,
+  "turnos": 629,
+  "respondidos": 619,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 13.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 338,
-    "mediana_min": 22.9
+    "respostas": 341,
+    "mediana_min": 22.8
    },
    {
     "nome": "Nicolas",
-    "respostas": 128,
-    "mediana_min": 25.5
+    "respostas": 129,
+    "mediana_min": 24.7
    },
    {
     "nome": "Gabrielle",
@@ -121,7 +121,7 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 30,
+    "respostas": 31,
     "mediana_min": 1
    },
    {
@@ -137,10 +137,28 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "B.T.D.S x TORRE'S CELL CELULARES LTDA",
+    "dia": "27/07",
+    "desde": "18:05",
+    "ts": 1785186355616
+   },
+   {
     "grupo": "S.D.O.P x RN PNEUS LTDA",
     "dia": "27/07",
-    "desde": "17:38",
-    "ts": 1785184687596
+    "desde": "18:02",
+    "ts": 1785186147543
+   },
+   {
+    "grupo": "J.D.C.G x TRONADOR CAFETERIA LTDA",
+    "dia": "27/07",
+    "desde": "17:53",
+    "ts": 1785185608514
+   },
+   {
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "dia": "27/07",
+    "desde": "17:51",
+    "ts": 1785185494653
    },
    {
     "grupo": "P.J.T.D.S x HAPVIDA",
@@ -165,12 +183,6 @@
     "dia": "27/07",
     "desde": "16:52",
     "ts": 1785181957471
-   },
-   {
-    "grupo": "A.J.C",
-    "dia": "27/07",
-    "desde": "15:58",
-    "ts": 1785178690411
    },
    {
     "grupo": "A.J.P.B",
@@ -203,12 +215,6 @@
     "ts": 1784754648150
    },
    {
-    "grupo": "A.J.C",
-    "dia": "27/07",
-    "desde": "15:58",
-    "ts": 1785178690411
-   },
-   {
     "grupo": "D.F.F x INSS",
     "dia": "27/07",
     "desde": "16:32",
@@ -233,10 +239,28 @@
     "ts": 1785183874490
    },
    {
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "dia": "27/07",
+    "desde": "17:51",
+    "ts": 1785185494653
+   },
+   {
+    "grupo": "J.D.C.G x TRONADOR CAFETERIA LTDA",
+    "dia": "27/07",
+    "desde": "17:53",
+    "ts": 1785185608514
+   },
+   {
     "grupo": "S.D.O.P x RN PNEUS LTDA",
     "dia": "27/07",
-    "desde": "17:38",
-    "ts": 1785184687596
+    "desde": "18:02",
+    "ts": 1785186147543
+   },
+   {
+    "grupo": "B.T.D.S x TORRE'S CELL CELULARES LTDA",
+    "dia": "27/07",
+    "desde": "18:05",
+    "ts": 1785186355616
    }
   ]
  },
@@ -352,18 +376,29 @@
  },
  "agora": {
   "fila": 158,
-  "abertos": 240,
+  "abertos": 241,
   "com_atendimento": 8,
-  "online": 4,
-  "offline": 5,
+  "online": 5,
+  "offline": 4,
   "ausentes": 0,
   "espera_media_s": 2248
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-21T16:59:17.215Z",
-  "min_sem_lead": 52072
+  "ultimo_lead_at": "2025-09-24T18:22:30.479Z",
+  "min_sem_lead": 440804
  },
  "leads": [
+  {
+   "nome": "Tec. Luã Henrique Santos",
+   "tel": "5591*****589",
+   "criado": "17:26",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": " ",
    "tel": "5567*****637",
@@ -396,17 +431,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Tec. Luã Henrique Santos",
-   "tel": "5591*****589",
-   "criado": "17:26",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
   },
   {
    "nome": "Rosy",
