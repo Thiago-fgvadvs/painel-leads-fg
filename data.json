@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/07/2026, 11:59",
+ "gerado_em": "27/07/2026, 12:14",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 284,
-  "tickets_abertos": 228,
+  "tickets_abertos": 230,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -77,12 +77,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 174,
-  "turnos": 546,
-  "respondidos": 538,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 12.9,
+  "grupos_ativos": 177,
+  "turnos": 552,
+  "respondidos": 542,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 12.8,
   "atendentes": [
    {
     "nome": "Julia",
@@ -91,8 +91,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 106,
-    "mediana_min": 23.1
+    "respostas": 107,
+    "mediana_min": 23.3
    },
    {
     "nome": "Gabrielle",
@@ -101,8 +101,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 35,
-    "mediana_min": 1.9
+    "respostas": 36,
+    "mediana_min": 2
    },
    {
     "nome": "Thauany",
@@ -111,8 +111,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 20,
-    "mediana_min": 10.4
+    "respostas": 22,
+    "mediana_min": 9.5
    },
    {
     "nome": "—",
@@ -122,10 +122,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "P.J.T.D.S x HAPVIDA",
+    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
     "dia": "27/07",
-    "desde": "11:58",
-    "ts": 1785164309315
+    "desde": "12:09",
+    "ts": 1785164955304
+   },
+   {
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "dia": "27/07",
+    "desde": "12:07",
+    "ts": 1785164854223
+   },
+   {
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "27/07",
+    "desde": "11:57",
+    "ts": 1785164247312
    },
    {
     "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
@@ -218,10 +230,22 @@
     "ts": 1785162133267
    },
    {
-    "grupo": "P.J.T.D.S x HAPVIDA",
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "27/07",
-    "desde": "11:58",
-    "ts": 1785164309315
+    "desde": "11:57",
+    "ts": 1785164247312
+   },
+   {
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "dia": "27/07",
+    "desde": "12:07",
+    "ts": 1785164854223
+   },
+   {
+    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
+    "dia": "27/07",
+    "desde": "12:09",
+    "ts": 1785164955304
    }
   ]
  },
@@ -336,19 +360,30 @@
   ]
  },
  "agora": {
-  "fila": 166,
-  "abertos": 228,
-  "com_atendimento": 8,
-  "online": 4,
+  "fila": 167,
+  "abertos": 230,
+  "com_atendimento": 9,
+  "online": 6,
   "offline": 3,
-  "ausentes": 2,
+  "ausentes": 0,
   "espera_media_s": 2385
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T18:46:41.066Z",
-  "min_sem_lead": 6972
+  "ultimo_lead_at": "2026-07-26T14:01:16.629Z",
+  "min_sem_lead": 1513
  },
  "leads": [
+  {
+   "nome": "Antonio Sena.   toninho",
+   "tel": "5511*****594",
+   "criado": "11:39",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
   {
    "nome": "559591730629",
    "tel": "5595*****629",
@@ -370,17 +405,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/9dJiagMwB",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Antonio Sena.   toninho",
-   "tel": "5511*****594",
-   "criado": "11:39",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
   },
   {
    "nome": "GESSIKA VIDAL",
