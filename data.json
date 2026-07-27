@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 15:33",
+ "gerado_em": "27/07/2026, 15:48",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 46,
-  "no_sla": 30,
+  "total": 47,
+  "no_sla": 31,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 297,
-  "tickets_abertos": 231,
+  "leads_7d": 298,
+  "tickets_abertos": 232,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 42,
+   "leads": 43,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 41,
+  "Anuncio": 42,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -45,16 +45,16 @@
    "leads": 8
   },
   {
+   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "leads": 4
+  },
+  {
    "url": "fb.me/7Rf3h0gZO",
    "leads": 4
   },
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 4
-  },
-  {
-   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "leads": 3
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -70,23 +70,23 @@
   }
  ],
  "areas": {
-  "Nao identificada": 22,
-  "Trabalhista": 24
+  "Trabalhista": 25,
+  "Nao identificada": 22
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 180,
-  "turnos": 598,
-  "respondidos": 589,
+  "turnos": 600,
+  "respondidos": 591,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 327,
+    "respostas": 329,
     "mediana_min": 23.4
    },
    {
@@ -128,6 +128,12 @@
     "ts": 1785176628477
    },
    {
+    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
+    "dia": "27/07",
+    "desde": "15:32",
+    "ts": 1785177144484
+   },
+   {
     "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
     "dia": "24/07",
     "desde": "16:55",
@@ -168,12 +174,6 @@
     "dia": "22/07",
     "desde": "18:10",
     "ts": 1784754648150
-   },
-   {
-    "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
-    "dia": "22/07",
-    "desde": "11:25",
-    "ts": 1784730303808
    }
   ]
  },
@@ -181,12 +181,6 @@
   "dias": 7,
   "leads": [],
   "grupos": [
-   {
-    "grupo": "J.A.D.A x BRASAL REFRIGERANTES S/A",
-    "dia": "22/07",
-    "desde": "11:25",
-    "ts": 1784730303808
-   },
    {
     "grupo": "A.J.P.B",
     "dia": "22/07",
@@ -234,6 +228,12 @@
     "dia": "27/07",
     "desde": "15:23",
     "ts": 1785176628477
+   },
+   {
+    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
+    "dia": "27/07",
+    "desde": "15:32",
+    "ts": 1785177144484
    }
   ]
  },
@@ -348,19 +348,41 @@
   ]
  },
  "agora": {
-  "fila": 151,
-  "abertos": 231,
+  "fila": 152,
+  "abertos": 232,
   "com_atendimento": 8,
-  "online": 3,
+  "online": 5,
   "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 2373
+  "ausentes": 1,
+  "espera_media_s": 2361
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T17:12:47.259Z",
-  "min_sem_lead": 81
+  "ultimo_lead_at": "2026-07-27T00:40:08.885Z",
+  "min_sem_lead": 1088
  },
  "leads": [
+  {
+   "nome": "Danilo",
+   "tel": "5511*****545",
+   "criado": "14:15",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9yxU2JTeH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Estela",
+   "tel": "5547*****213",
+   "criado": "15:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Rosy",
    "tel": "5562*****828",
@@ -371,6 +393,50 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "osvaldonequinho",
+   "tel": "5543*****854",
+   "criado": "05:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7Rf3h0gZO",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Claudia Maria",
+   "tel": "5577*****363",
+   "criado": "13:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Doka",
+   "tel": "5511*****089",
+   "criado": "09:34",
+   "atendente": "Eduardo",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Wlamir",
+   "tel": "5521*****558",
+   "criado": "13:56",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Roberto",
@@ -395,17 +461,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Doka",
-   "tel": "5511*****089",
-   "criado": "09:34",
-   "atendente": "Eduardo",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Fábio Violato",
    "tel": "5544*****261",
    "criado": "14:38",
@@ -415,39 +470,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTKQODOlC/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Wlamir",
-   "tel": "5521*****558",
-   "criado": "13:56",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Danilo",
-   "tel": "5511*****545",
-   "criado": "14:15",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.8,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9yxU2JTeH",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "557788012363",
-   "tel": "5577*****363",
-   "criado": "13:59",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Luiz Otavio",
@@ -491,17 +513,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "osvaldonequinho",
-   "tel": "5543*****854",
-   "criado": "05:49",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7Rf3h0gZO",
    "area": "Trabalhista"
   },
   {
@@ -846,9 +857,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5517997393518",
-   "tel": "5517*****518",
-   "criado": "14:58",
+   "nome": "557996534351",
+   "tel": "5579*****351",
+   "criado": "13:47",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -857,9 +868,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "557996534351",
-   "tel": "5579*****351",
-   "criado": "13:47",
+   "nome": "5517997393518",
+   "tel": "5517*****518",
+   "criado": "14:58",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
