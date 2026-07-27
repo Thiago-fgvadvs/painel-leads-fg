@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 10:27",
+ "gerado_em": "27/07/2026, 10:42",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
-  "no_sla": 12,
+  "total": 27,
+  "no_sla": 13,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 277,
-  "tickets_abertos": 230,
+  "leads_7d": 278,
+  "tickets_abertos": 224,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 25,
+  "Anuncio": 26,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -40,12 +40,12 @@
    "leads": 5
   },
   {
-   "url": "fb.me/cMY7LLYxT",
+   "url": "fb.me/7Rf3h0gZO",
    "leads": 4
   },
   {
-   "url": "fb.me/7Rf3h0gZO",
-   "leads": 3
+   "url": "fb.me/cMY7LLYxT",
+   "leads": 4
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -65,24 +65,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 12,
+  "Nao identificada": 13,
   "Trabalhista": 14
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 167,
-  "turnos": 523,
-  "respondidos": 514,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 13,
+  "grupos_ativos": 168,
+  "turnos": 524,
+  "respondidos": 516,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 13.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 286,
-    "mediana_min": 19.8
+    "respostas": 288,
+    "mediana_min": 19.9
    },
    {
     "nome": "Nicolas",
@@ -123,10 +123,10 @@
     "ts": 1785158167120
    },
    {
-    "grupo": "C.E.A.E.L x JOSE AUGUSTO DE SOUZA FROTA",
+    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
     "dia": "27/07",
-    "desde": "07:48",
-    "ts": 1785149326141
+    "desde": "01:24",
+    "ts": 1785126289092
    },
    {
     "grupo": "C.L.M.D.O x HABIBS",
@@ -151,12 +151,6 @@
     "dia": "22/07",
     "desde": "11:46",
     "ts": 1784731574819
-   },
-   {
-    "grupo": "R.P x SEARA ALIMENTOS LTDA",
-    "dia": "23/07",
-    "desde": "13:44",
-    "ts": 1784825093468
    },
    {
     "grupo": "S.R.D.S x FIBRA NEGOCIOS E SERVICOS LTDA",
@@ -195,12 +189,6 @@
     "ts": 1784754648150
    },
    {
-    "grupo": "R.P x SEARA ALIMENTOS LTDA",
-    "dia": "23/07",
-    "desde": "13:44",
-    "ts": 1784825093468
-   },
-   {
     "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
     "dia": "24/07",
     "desde": "13:48",
@@ -219,10 +207,10 @@
     "ts": 1784929270274
    },
    {
-    "grupo": "C.E.A.E.L x JOSE AUGUSTO DE SOUZA FROTA",
+    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
     "dia": "27/07",
-    "desde": "07:48",
-    "ts": 1785149326141
+    "desde": "01:24",
+    "ts": 1785126289092
    },
    {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
@@ -234,13 +222,22 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 10,
+  "total": 11,
   "por_vendedor": {
-   "Eduardo": 2,
+   "Eduardo": 3,
    "Tiago Bernardo": 6,
    "Roseli": 2
   },
   "lista": [
+   {
+    "vendedor": "Eduardo",
+    "cliente": "D.S",
+    "dia": "27/07",
+    "hora": "10:29",
+    "ts": 1785158953863,
+    "origem": "Anúncio: Trabalhista - fast foods",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Eduardo",
     "cliente": "L.G.P",
@@ -334,19 +331,30 @@
   ]
  },
  "agora": {
-  "fila": 159,
-  "abertos": 230,
+  "fila": 160,
+  "abertos": 224,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 2425
+  "ausentes": 1,
+  "espera_media_s": 2487
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T13:26:46.318Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-07-22T18:46:41.066Z",
+  "min_sem_lead": 6896
  },
  "leads": [
+  {
+   "nome": "PAULO MEDICACAO",
+   "tel": "5511*****089",
+   "criado": "09:34",
+   "atendente": "Eduardo",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Roseli Martins",
    "tel": "5546*****239",
@@ -359,6 +367,28 @@
    "area": "Nao identificada"
   },
   {
+   "nome": "Ana",
+   "tel": "5515*****249",
+   "criado": "09:57",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553484142426",
+   "tel": "5534*****426",
+   "criado": "10:30",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7Rf3h0gZO",
+   "area": "Nao identificada"
+  },
+  {
    "nome": "559691529018",
    "tel": "5596*****018",
    "criado": "10:26",
@@ -367,17 +397,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "PAULO MEDICACAO",
-   "tel": "5511*****089",
-   "criado": "09:34",
-   "atendente": "Eduardo",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Nao identificada"
   },
   {
@@ -400,17 +419,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Ana",
-   "tel": "5515*****249",
-   "criado": "09:57",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
   },
   {
