@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 10:42",
+ "gerado_em": "27/07/2026, 10:57",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
-  "no_sla": 13,
+  "total": 29,
+  "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 278,
-  "tickets_abertos": 224,
+  "leads_7d": 281,
+  "tickets_abertos": 225,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 26,
+   "leads": 28,
    "mediana_min": 0.4
   },
   {
@@ -27,17 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 26,
+  "Anuncio": 28,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 6
+   "leads": 7
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "fb.me/7Rf3h0gZO",
@@ -65,24 +65,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 13,
-  "Trabalhista": 14
+  "Trabalhista": 15,
+  "Nao identificada": 14
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 168,
-  "turnos": 524,
-  "respondidos": 516,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "grupos_ativos": 169,
+  "turnos": 525,
+  "respondidos": 518,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 13.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 288,
-    "mediana_min": 19.9
+    "respostas": 289,
+    "mediana_min": 20
    },
    {
     "nome": "Nicolas",
@@ -91,8 +91,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 42,
-    "mediana_min": 4
+    "respostas": 43,
+    "mediana_min": 3.9
    },
    {
     "nome": "Luisa",
@@ -117,28 +117,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.N.D.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "27/07",
+    "desde": "10:54",
+    "ts": 1785160455145
+   },
+   {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
     "dia": "27/07",
     "desde": "10:16",
     "ts": 1785158167120
    },
    {
-    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
-    "dia": "27/07",
-    "desde": "01:24",
-    "ts": 1785126289092
-   },
-   {
     "grupo": "C.L.M.D.O x HABIBS",
     "dia": "24/07",
     "desde": "18:41",
     "ts": 1784929270274
-   },
-   {
-    "grupo": "A.S.D.C.G x FUNDACAO DO ABC (HOSPITAL GERAL DE CARAPICUIBA)",
-    "dia": "24/07",
-    "desde": "17:00",
-    "ts": 1784923207281
    },
    {
     "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
@@ -195,28 +189,22 @@
     "ts": 1784911700173
    },
    {
-    "grupo": "A.S.D.C.G x FUNDACAO DO ABC (HOSPITAL GERAL DE CARAPICUIBA)",
-    "dia": "24/07",
-    "desde": "17:00",
-    "ts": 1784923207281
-   },
-   {
     "grupo": "C.L.M.D.O x HABIBS",
     "dia": "24/07",
     "desde": "18:41",
     "ts": 1784929270274
    },
    {
-    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
-    "dia": "27/07",
-    "desde": "01:24",
-    "ts": 1785126289092
-   },
-   {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
     "dia": "27/07",
     "desde": "10:16",
     "ts": 1785158167120
+   },
+   {
+    "grupo": "A.N.D.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "27/07",
+    "desde": "10:54",
+    "ts": 1785160455145
    }
   ]
  },
@@ -331,19 +319,41 @@
   ]
  },
  "agora": {
-  "fila": 160,
-  "abertos": 224,
+  "fila": 163,
+  "abertos": 225,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 4,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 2487
+  "ausentes": 2,
+  "espera_media_s": 2462
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T18:46:41.066Z",
-  "min_sem_lead": 6896
+  "ultimo_lead_at": "2026-07-27T13:56:58.265Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "roupas e acessórios",
+   "tel": "5511*****512",
+   "criado": "10:46",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "GESSIKA VIDAL",
+   "tel": "5591*****304",
+   "criado": "10:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "PAULO MEDICACAO",
    "tel": "5511*****089",
