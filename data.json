@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 12:14",
+ "gerado_em": "27/07/2026, 12:29",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
-  "no_sla": 19,
+  "total": 34,
+  "no_sla": 20,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 284,
-  "tickets_abertos": 230,
+  "leads_7d": 285,
+  "tickets_abertos": 231,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 31,
+   "leads": 32,
    "mediana_min": 0.4
   },
   {
@@ -32,17 +32,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 31,
+  "Anuncio": 32,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 7
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 6
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 7
   },
   {
    "url": "fb.me/7Rf3h0gZO",
@@ -71,22 +71,22 @@
  ],
  "areas": {
   "Trabalhista": 18,
-  "Nao identificada": 15
+  "Nao identificada": 16
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 177,
-  "turnos": 552,
-  "respondidos": 542,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 12.8,
+  "turnos": 554,
+  "respondidos": 545,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 12.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 299,
+    "respostas": 302,
     "mediana_min": 19.8
    },
    {
@@ -122,16 +122,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
+    "grupo": "F.D.S.S x SM PIRITUBA HORTIFRUTI E APOIO ADMINISTRATIVO LTDA",
     "dia": "27/07",
-    "desde": "12:09",
-    "ts": 1785164955304
-   },
-   {
-    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
-    "dia": "27/07",
-    "desde": "12:07",
-    "ts": 1785164854223
+    "desde": "11:58",
+    "ts": 1785164289214
    },
    {
     "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
@@ -236,16 +230,10 @@
     "ts": 1785164247312
    },
    {
-    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "grupo": "F.D.S.S x SM PIRITUBA HORTIFRUTI E APOIO ADMINISTRATIVO LTDA",
     "dia": "27/07",
-    "desde": "12:07",
-    "ts": 1785164854223
-   },
-   {
-    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
-    "dia": "27/07",
-    "desde": "12:09",
-    "ts": 1785164955304
+    "desde": "11:58",
+    "ts": 1785164289214
    }
   ]
  },
@@ -360,19 +348,41 @@
   ]
  },
  "agora": {
-  "fila": 167,
-  "abertos": 230,
-  "com_atendimento": 9,
-  "online": 6,
+  "fila": 168,
+  "abertos": 231,
+  "com_atendimento": 8,
+  "online": 5,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 2385
+  "ausentes": 1,
+  "espera_media_s": 2361
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-26T14:01:16.629Z",
-  "min_sem_lead": 1513
+  "ultimo_lead_at": "2025-09-24T18:22:30.479Z",
+  "min_sem_lead": 440467
  },
  "leads": [
+  {
+   "nome": "Leilinalva Leite",
+   "tel": "5595*****629",
+   "criado": "11:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Daiana Dias",
+   "tel": "5535*****850",
+   "criado": "12:14",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Antonio Sena.   toninho",
    "tel": "5511*****594",
@@ -382,17 +392,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "559591730629",
-   "tel": "5595*****629",
-   "criado": "11:51",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
   },
   {
