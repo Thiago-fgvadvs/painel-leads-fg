@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 17:36",
+ "gerado_em": "27/07/2026, 17:51",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 52,
-  "no_sla": 36,
+  "total": 53,
+  "no_sla": 37,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 303,
-  "tickets_abertos": 238,
+  "leads_7d": 304,
+  "tickets_abertos": 240,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 50,
+   "leads": 51,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 47,
+  "Anuncio": 48,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 11
+   "leads": 12
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
@@ -71,7 +71,7 @@
  ],
  "areas": {
   "Trabalhista": 28,
-  "Nao identificada": 24
+  "Nao identificada": 25
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -92,9 +92,9 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 186,
-  "turnos": 619,
-  "respondidos": 611,
+  "grupos_ativos": 187,
+  "turnos": 622,
+  "respondidos": 614,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
   "mediana_min": 13.2,
@@ -106,12 +106,12 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 126,
-    "mediana_min": 26.5
+    "respostas": 128,
+    "mediana_min": 25.5
    },
    {
     "nome": "Gabrielle",
-    "respostas": 48,
+    "respostas": 49,
     "mediana_min": 4
    },
    {
@@ -120,14 +120,14 @@
     "mediana_min": 2
    },
    {
-    "nome": "Eduardo",
-    "respostas": 30,
-    "mediana_min": 6
-   },
-   {
     "nome": "Thauany",
     "respostas": 30,
     "mediana_min": 1
+   },
+   {
+    "nome": "Eduardo",
+    "respostas": 30,
+    "mediana_min": 6
    },
    {
     "nome": "—",
@@ -137,10 +137,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "J.D.C.G x TRONADOR CAFETERIA LTDA",
+    "grupo": "S.D.O.P x RN PNEUS LTDA",
     "dia": "27/07",
-    "desde": "17:33",
-    "ts": 1785184434626
+    "desde": "17:38",
+    "ts": 1785184687596
    },
    {
     "grupo": "P.J.T.D.S x HAPVIDA",
@@ -233,10 +233,10 @@
     "ts": 1785183874490
    },
    {
-    "grupo": "J.D.C.G x TRONADOR CAFETERIA LTDA",
+    "grupo": "S.D.O.P x RN PNEUS LTDA",
     "dia": "27/07",
-    "desde": "17:33",
-    "ts": 1785184434626
+    "desde": "17:38",
+    "ts": 1785184687596
    }
   ]
  },
@@ -352,8 +352,8 @@
  },
  "agora": {
   "fila": 158,
-  "abertos": 238,
-  "com_atendimento": 7,
+  "abertos": 240,
+  "com_atendimento": 8,
   "online": 4,
   "offline": 5,
   "ausentes": 0,
@@ -361,9 +361,31 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-06-21T16:59:17.215Z",
-  "min_sem_lead": 52057
+  "min_sem_lead": 52072
  },
  "leads": [
+  {
+   "nome": " ",
+   "tel": "5567*****637",
+   "criado": "16:07",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Juliana Reis",
+   "tel": "5535*****073",
+   "criado": "17:39",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Sílvia Santos",
    "tel": "5571*****331",
@@ -472,17 +494,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": " ",
-   "tel": "5567*****637",
-   "criado": "16:07",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
    "area": "Trabalhista"
   },
   {
