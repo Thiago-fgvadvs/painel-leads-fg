@@ -1,17 +1,17 @@
 {
- "gerado_em": "27/07/2026, 10:57",
+ "gerado_em": "27/07/2026, 11:13",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
-  "no_sla": 15,
+  "total": 30,
+  "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 281,
-  "tickets_abertos": 225,
+  "tickets_abertos": 221,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -24,11 +24,16 @@
    "nome": "Eduardo",
    "leads": 1,
    "mediana_min": 0.7
+  },
+  {
+   "nome": "Julia",
+   "leads": 1,
+   "mediana_min": 0.8
   }
  ],
  "origem": {
   "Anuncio": 28,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -65,29 +70,29 @@
   }
  ],
  "areas": {
-  "Trabalhista": 15,
-  "Nao identificada": 14
+  "Nao identificada": 15,
+  "Trabalhista": 15
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 169,
-  "turnos": 525,
-  "respondidos": 518,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 13.1,
+  "turnos": 529,
+  "respondidos": 521,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 13,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 289,
-    "mediana_min": 20
+    "respostas": 291,
+    "mediana_min": 19.8
    },
    {
     "nome": "Nicolas",
-    "respostas": 105,
-    "mediana_min": 22.8
+    "respostas": 106,
+    "mediana_min": 23.1
    },
    {
     "nome": "Gabrielle",
@@ -116,6 +121,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
+    "dia": "27/07",
+    "desde": "11:01",
+    "ts": 1785160887156
+   },
    {
     "grupo": "A.N.D.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "27/07",
@@ -205,6 +216,12 @@
     "dia": "27/07",
     "desde": "10:54",
     "ts": 1785160455145
+   },
+   {
+    "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
+    "dia": "27/07",
+    "desde": "11:01",
+    "ts": 1785160887156
    }
   ]
  },
@@ -319,19 +336,63 @@
   ]
  },
  "agora": {
-  "fila": 163,
-  "abertos": 225,
-  "com_atendimento": 7,
-  "online": 4,
+  "fila": 161,
+  "abertos": 221,
+  "com_atendimento": 8,
+  "online": 5,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 2462
+  "ausentes": 1,
+  "espera_media_s": 2422
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T13:56:58.265Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-07-25T02:35:24.495Z",
+  "min_sem_lead": 3578
  },
  "leads": [
+  {
+   "nome": "PAULO MEDICACAO",
+   "tel": "5511*****089",
+   "criado": "09:34",
+   "atendente": "Eduardo",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Advogada Angela da Silveira ",
+   "tel": "5511*****991",
+   "criado": "10:56",
+   "atendente": "Julia",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Deus acima de tudo🙏🙏🙏🙏❤️❤️",
+   "tel": "5534*****426",
+   "criado": "10:30",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7Rf3h0gZO",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "559691529018",
+   "tel": "5596*****018",
+   "criado": "10:26",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
   {
    "nome": "roupas e acessórios",
    "tel": "5511*****512",
@@ -355,17 +416,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "PAULO MEDICACAO",
-   "tel": "5511*****089",
-   "criado": "09:34",
-   "atendente": "Eduardo",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Roseli Martins",
    "tel": "5546*****239",
    "criado": "10:26",
@@ -386,28 +436,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "553484142426",
-   "tel": "5534*****426",
-   "criado": "10:30",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7Rf3h0gZO",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "559691529018",
-   "tel": "5596*****018",
-   "criado": "10:26",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
-   "area": "Nao identificada"
   },
   {
    "nome": "Danilo Gomes 🥋⚽🥊♟️",
