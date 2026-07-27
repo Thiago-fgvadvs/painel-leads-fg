@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 16:50",
+ "gerado_em": "27/07/2026, 17:05",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 50,
-  "no_sla": 34,
+  "total": 51,
+  "no_sla": 35,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 14,
-  "pct_sla": 94,
+  "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 301,
+  "leads_7d": 302,
   "tickets_abertos": 233,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 48,
+   "leads": 49,
    "mediana_min": 0.4
   },
   {
@@ -32,16 +32,16 @@
   }
  ],
  "origem": {
-  "Anuncio": 45,
+  "Anuncio": 46,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 9
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 10
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 9
   },
   {
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 23,
-  "Trabalhista": 27
+  "Trabalhista": 28,
+  "Nao identificada": 23
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -92,22 +92,22 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 184,
+  "grupos_ativos": 186,
   "turnos": 611,
-  "respondidos": 605,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "respondidos": 607,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
   "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 337,
+    "respostas": 338,
     "mediana_min": 22.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 121,
-    "mediana_min": 26.3
+    "respostas": 122,
+    "mediana_min": 26.5
    },
    {
     "nome": "Gabrielle",
@@ -137,28 +137,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "J.R.D.S x MURO ALTO BEACH RESORT",
+    "grupo": "W.M.D.O x SENDAS",
     "dia": "27/07",
-    "desde": "16:49",
-    "ts": 1785181758552
-   },
-   {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "27/07",
-    "desde": "14:45",
-    "ts": 1785174326450
+    "desde": "16:52",
+    "ts": 1785181957471
    },
    {
     "grupo": "A.J.C",
     "dia": "27/07",
     "desde": "15:58",
     "ts": 1785178690411
-   },
-   {
-    "grupo": "J.A.L x CONSTRUTORA RAMON AGUILERA",
-    "dia": "25/07",
-    "desde": "14:31",
-    "ts": 1785000693631
    },
    {
     "grupo": "A.J.P.B",
@@ -191,28 +179,16 @@
     "ts": 1784754648150
    },
    {
-    "grupo": "J.A.L x CONSTRUTORA RAMON AGUILERA",
-    "dia": "25/07",
-    "desde": "14:31",
-    "ts": 1785000693631
-   },
-   {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "27/07",
-    "desde": "14:45",
-    "ts": 1785174326450
-   },
-   {
     "grupo": "A.J.C",
     "dia": "27/07",
     "desde": "15:58",
     "ts": 1785178690411
    },
    {
-    "grupo": "J.R.D.S x MURO ALTO BEACH RESORT",
+    "grupo": "W.M.D.O x SENDAS",
     "dia": "27/07",
-    "desde": "16:49",
-    "ts": 1785181758552
+    "desde": "16:52",
+    "ts": 1785181957471
    }
   ]
  },
@@ -327,19 +303,52 @@
   ]
  },
  "agora": {
-  "fila": 156,
+  "fila": 157,
   "abertos": 233,
-  "com_atendimento": 8,
-  "online": 6,
+  "com_atendimento": 7,
+  "online": 4,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 2304
+  "ausentes": 2,
+  "espera_media_s": 2292
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
-  "min_sem_lead": 436
+  "ultimo_lead_at": "2026-07-27T19:51:11.331Z",
+  "min_sem_lead": 14
  },
  "leads": [
+  {
+   "nome": "Sílvia Santos",
+   "tel": "5571*****331",
+   "criado": "16:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Antonio Sena.   toninho",
+   "tel": "5511*****594",
+   "criado": "11:39",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rosy",
+   "tel": "5562*****828",
+   "criado": "14:12",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Doka",
    "tel": "5511*****089",
@@ -383,28 +392,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Rosy",
-   "tel": "5562*****828",
-   "criado": "14:12",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Antonio Sena.   toninho",
-   "tel": "5511*****594",
-   "criado": "11:39",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
   },
   {
    "nome": "Rosemary",
