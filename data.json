@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 20:39",
+ "gerado_em": "27/07/2026, 20:54",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 57,
+  "total": 58,
   "no_sla": 38,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 17,
+  "fora_horario": 18,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 308,
-  "tickets_abertos": 242,
+  "leads_7d": 309,
+  "tickets_abertos": 243,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 55,
+   "leads": 56,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 52,
+  "Anuncio": 53,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -57,12 +57,12 @@
    "leads": 4
   },
   {
-   "url": "fb.me/9Pf9FTshS",
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DYhcT7SDBWR/",
-   "leads": 2
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 3
   },
   {
    "url": "fb.me/7x2nrMW0Q",
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 29,
+  "Trabalhista": 30,
   "Nao identificada": 28
  },
  "sem_resposta_lista": [],
@@ -137,6 +137,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "P.J.T.D.S x HAPVIDA",
+    "dia": "27/07",
+    "desde": "17:24",
+    "ts": 1785183874490
+   },
+   {
     "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
     "dia": "27/07",
     "desde": "18:55",
@@ -153,12 +159,6 @@
     "dia": "27/07",
     "desde": "17:53",
     "ts": 1785185608514
-   },
-   {
-    "grupo": "P.J.T.D.S x HAPVIDA",
-    "dia": "27/07",
-    "desde": "17:24",
-    "ts": 1785183874490
    },
    {
     "grupo": "W.M.D.O x SENDAS",
@@ -339,30 +339,19 @@
   ]
  },
  "agora": {
-  "fila": 159,
-  "abertos": 242,
+  "fila": 160,
+  "abertos": 243,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2206
+  "espera_media_s": 2196
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T23:31:49.313Z",
-  "min_sem_lead": 8
+  "ultimo_lead_at": "2026-07-27T19:07:45.533Z",
+  "min_sem_lead": 287
  },
  "leads": [
-  {
-   "nome": "554591118737",
-   "tel": "5545*****737",
-   "criado": "20:31",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
   {
    "nome": " ",
    "tel": "5567*****637",
@@ -375,6 +364,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "553171567757",
+   "tel": "5531*****757",
+   "criado": "20:50",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "5519991366735",
    "tel": "5519*****735",
    "criado": "20:19",
@@ -384,6 +384,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "554591118737",
+   "tel": "5545*****737",
+   "criado": "20:31",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
   },
   {
    "nome": "5515981305921",
