@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/07/2026, 18:52",
+ "gerado_em": "27/07/2026, 19:07",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -93,10 +93,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 188,
-  "turnos": 636,
+  "turnos": 637,
   "respondidos": 630,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 13.2,
   "atendentes": [
    {
@@ -136,6 +136,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
+    "dia": "27/07",
+    "desde": "18:55",
+    "ts": 1785189354643
+   },
    {
     "grupo": "A.J.C",
     "dia": "27/07",
@@ -213,6 +219,12 @@
     "dia": "27/07",
     "desde": "18:08",
     "ts": 1785186513618
+   },
+   {
+    "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
+    "dia": "27/07",
+    "desde": "18:55",
+    "ts": 1785189354643
    }
   ]
  },
@@ -336,10 +348,32 @@
   "espera_media_s": 2238
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T20:39:50.954Z",
-  "min_sem_lead": 73
+  "ultimo_lead_at": "2026-07-27T21:26:08.183Z",
+  "min_sem_lead": 42
  },
  "leads": [
+  {
+   "nome": "Edyla Silva",
+   "tel": "5585*****607",
+   "criado": "18:26",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Sílvia Santos",
+   "tel": "5571*****331",
+   "criado": "16:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Juliana Reis",
    "tel": "5535*****073",
@@ -361,17 +395,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Edyla Silva",
-   "tel": "5585*****607",
-   "criado": "18:26",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
   },
   {
    "nome": "Elder",
@@ -416,17 +439,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Sílvia Santos",
-   "tel": "5571*****331",
-   "criado": "16:51",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Rosy",
