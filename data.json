@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 18:21",
+ "gerado_em": "27/07/2026, 18:37",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 53,
-  "no_sla": 37,
+  "total": 54,
+  "no_sla": 38,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 304,
-  "tickets_abertos": 237,
+  "leads_7d": 305,
+  "tickets_abertos": 238,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 51,
+   "leads": 52,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 48,
+  "Anuncio": 49,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 12
+   "leads": 13
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
@@ -71,7 +71,7 @@
  ],
  "areas": {
   "Trabalhista": 28,
-  "Nao identificada": 25
+  "Nao identificada": 26
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -93,8 +93,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 188,
-  "turnos": 634,
-  "respondidos": 628,
+  "turnos": 636,
+  "respondidos": 630,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 13.2,
@@ -121,7 +121,7 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 31,
+    "respostas": 33,
     "mediana_min": 1
    },
    {
@@ -327,19 +327,52 @@
   ]
  },
  "agora": {
-  "fila": 156,
-  "abertos": 237,
+  "fila": 155,
+  "abertos": 238,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 6,
+  "online": 1,
+  "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 2259
+  "espera_media_s": 2249
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T17:15:25.070Z",
-  "min_sem_lead": 246
+  "ultimo_lead_at": "2026-07-27T18:40:26.685Z",
+  "min_sem_lead": 177
  },
  "leads": [
+  {
+   "nome": "Estela",
+   "tel": "5547*****213",
+   "criado": "15:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Edyla Silva",
+   "tel": "5585*****607",
+   "criado": "18:26",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Elder",
+   "tel": "5551*****599",
+   "criado": "08:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EDzR2aSz",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Danilo",
    "tel": "5511*****545",
@@ -481,17 +514,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Estela",
-   "tel": "5547*****213",
-   "criado": "15:40",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
   },
   {
@@ -779,17 +801,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Elder",
-   "tel": "5551*****599",
-   "criado": "08:40",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4EDzR2aSz",
-   "area": "Trabalhista"
   },
   {
    "nome": "~Lorrany Cristiny~",
