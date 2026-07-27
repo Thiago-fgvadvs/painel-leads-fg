@@ -1,17 +1,17 @@
 {
- "gerado_em": "27/07/2026, 09:26",
+ "gerado_em": "27/07/2026, 09:41",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 5,
+  "total": 20,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 270,
-  "tickets_abertos": 233,
+  "leads_7d": 271,
+  "tickets_abertos": 234,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "Fernanda Gehm - Administradora",
    "leads": 19,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Eduardo",
+   "leads": 1,
+   "mediana_min": 0.7
   }
  ],
  "origem": {
   "Anuncio": 19,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -61,15 +66,15 @@
  ],
  "areas": {
   "Nao identificada": 9,
-  "Trabalhista": 10
+  "Trabalhista": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 163,
-  "turnos": 505,
-  "respondidos": 496,
+  "turnos": 507,
+  "respondidos": 498,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 13.2,
@@ -81,8 +86,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 102,
-    "mediana_min": 21.6
+    "respostas": 103,
+    "mediana_min": 22.8
    },
    {
     "nome": "Gabrielle",
@@ -91,8 +96,8 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 27,
-    "mediana_min": 0.7
+    "respostas": 28,
+    "mediana_min": 0.8
    },
    {
     "nome": "Luisa",
@@ -320,19 +325,30 @@
   ]
  },
  "agora": {
-  "fila": 153,
-  "abertos": 233,
+  "fila": 151,
+  "abertos": 234,
   "com_atendimento": 9,
-  "online": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 3211
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T02:35:24.495Z",
-  "min_sem_lead": 3471
+  "ultimo_lead_at": "2026-07-15T20:10:29.023Z",
+  "min_sem_lead": 16831
  },
  "leads": [
+  {
+   "nome": "PAULO MEDICACAO",
+   "tel": "5511*****089",
+   "criado": "09:34",
+   "atendente": "Eduardo",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Camila",
    "tel": "5579*****181",
@@ -342,10 +358,10 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
-   "nome": "5511940759157",
+   "nome": "Ludmila Lanna",
    "tel": "5511*****157",
    "criado": "09:15",
    "atendente": "Fernanda Gehm - Administradora",
