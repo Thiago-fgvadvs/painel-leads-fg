@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/07/2026, 11:43",
+ "gerado_em": "27/07/2026, 11:59",
  "data_ref": "27/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 32,
-  "no_sla": 18,
+  "total": 33,
+  "no_sla": 19,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 283,
-  "tickets_abertos": 227,
+  "leads_7d": 284,
+  "tickets_abertos": 228,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 30,
+   "leads": 31,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 30,
+  "Anuncio": 31,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -57,37 +57,37 @@
    "leads": 3
   },
   {
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/9dJiagMwB",
    "leads": 1
   },
   {
    "url": "fb.me/8B5V96ay5",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7x2nrMW0Q",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 15,
-  "Trabalhista": 17
+  "Trabalhista": 18,
+  "Nao identificada": 15
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 173,
-  "turnos": 539,
-  "respondidos": 530,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 13,
+  "grupos_ativos": 174,
+  "turnos": 546,
+  "respondidos": 538,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 12.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 297,
-    "mediana_min": 19.7
+    "respostas": 299,
+    "mediana_min": 19.8
    },
    {
     "nome": "Nicolas",
@@ -96,12 +96,12 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 46,
+    "respostas": 47,
     "mediana_min": 4
    },
    {
     "nome": "Luisa",
-    "respostas": 31,
+    "respostas": 35,
     "mediana_min": 1.9
    },
    {
@@ -111,8 +111,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 19,
-    "mediana_min": 10.6
+    "respostas": 20,
+    "mediana_min": 10.4
    },
    {
     "nome": "—",
@@ -122,22 +122,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.N.D.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "grupo": "P.J.T.D.S x HAPVIDA",
     "dia": "27/07",
-    "desde": "11:41",
-    "ts": 1785163303202
+    "desde": "11:58",
+    "ts": 1785164309315
    },
    {
     "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
     "dia": "27/07",
     "desde": "11:22",
     "ts": 1785162133267
-   },
-   {
-    "grupo": "S.S.A x SDB COMERCIO DE ALIMENTOS LTDA",
-    "dia": "24/07",
-    "desde": "19:42",
-    "ts": 1784932954193
    },
    {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
@@ -212,12 +206,6 @@
     "ts": 1784929270274
    },
    {
-    "grupo": "S.S.A x SDB COMERCIO DE ALIMENTOS LTDA",
-    "dia": "24/07",
-    "desde": "19:42",
-    "ts": 1784932954193
-   },
-   {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
     "dia": "27/07",
     "desde": "10:16",
@@ -230,10 +218,10 @@
     "ts": 1785162133267
    },
    {
-    "grupo": "A.N.D.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "grupo": "P.J.T.D.S x HAPVIDA",
     "dia": "27/07",
-    "desde": "11:41",
-    "ts": 1785163303202
+    "desde": "11:58",
+    "ts": 1785164309315
    }
   ]
  },
@@ -348,19 +336,30 @@
   ]
  },
  "agora": {
-  "fila": 165,
-  "abertos": 227,
+  "fila": 166,
+  "abertos": 228,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 4,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 2397
+  "ausentes": 2,
+  "espera_media_s": 2385
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T14:42:33.473Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-07-22T18:46:41.066Z",
+  "min_sem_lead": 6972
  },
  "leads": [
+  {
+   "nome": "559591730629",
+   "tel": "5595*****629",
+   "criado": "11:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558999406352",
    "tel": "5589*****352",
