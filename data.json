@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 12:02",
+ "gerado_em": "28/07/2026, 12:17",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
-  "no_sla": 14,
+  "total": 27,
+  "no_sla": 15,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 10,
-  "pct_sla": 93,
+  "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 293,
+  "leads_7d": 294,
   "tickets_abertos": 265,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 24,
+   "leads": 25,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 23,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 6
+   "leads": 7
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 13,
-  "Trabalhista": 13
+  "Trabalhista": 13,
+  "Nao identificada": 14
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -80,16 +80,16 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 153,
-  "turnos": 522,
-  "respondidos": 517,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "grupos_ativos": 155,
+  "turnos": 526,
+  "respondidos": 520,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 277,
+    "respostas": 279,
     "mediana_min": 23.9
    },
    {
@@ -104,8 +104,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 34,
-    "mediana_min": 5.7
+    "respostas": 35,
+    "mediana_min": 5.4
    },
    {
     "nome": "Thauany",
@@ -129,6 +129,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
+    "dia": "28/07",
+    "desde": "12:10",
+    "ts": 1785251456941
+   },
    {
     "grupo": "E.C x ORBENK ADMINISTRACAO E SERVICOS LTDA",
     "dia": "28/07",
@@ -194,6 +200,12 @@
     "dia": "28/07",
     "desde": "10:54",
     "ts": 1785246856886
+   },
+   {
+    "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
+    "dia": "28/07",
+    "desde": "12:10",
+    "ts": 1785251456941
    }
   ]
  },
@@ -320,16 +332,71 @@
   "fila": 181,
   "abertos": 265,
   "com_atendimento": 6,
-  "online": 6,
+  "online": 7,
   "offline": 2,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 1991
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-15T20:10:29.023Z",
-  "min_sem_lead": 18411
+  "ultimo_lead_at": "2026-07-25T02:35:24.495Z",
+  "min_sem_lead": 5082
  },
  "leads": [
+  {
+   "nome": "558195742585",
+   "tel": "5581*****585",
+   "criado": "11:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "🦋Célia 🦋",
+   "tel": "5519*****095",
+   "criado": "09:25",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "559193514675",
+   "tel": "5591*****675",
+   "criado": "12:14",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Felipe",
+   "tel": "5592*****823",
+   "criado": "11:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Luiz Fernando",
+   "tel": "5582*****067",
+   "criado": "11:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Michel Da Silveira",
    "tel": "5551*****469",
@@ -350,39 +417,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "558291316067",
-   "tel": "5582*****067",
-   "criado": "11:55",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "559284181823",
-   "tel": "5592*****823",
-   "criado": "11:54",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "558195742585",
-   "tel": "5581*****585",
-   "criado": "11:53",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
    "area": "Trabalhista"
   },
   {
@@ -471,17 +505,6 @@
    "status": "FORA_HORARIO",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "🦋Célia 🦋",
-   "tel": "5519*****095",
-   "criado": "09:25",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
   },
   {
