@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/07/2026, 10:14",
+ "gerado_em": "28/07/2026, 10:30",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -80,17 +80,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 150,
-  "turnos": 504,
-  "respondidos": 494,
+  "grupos_ativos": 151,
+  "turnos": 508,
+  "respondidos": 498,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
   "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 268,
-    "mediana_min": 23.3
+    "respostas": 271,
+    "mediana_min": 23.4
    },
    {
     "nome": "Nicolas",
@@ -99,8 +99,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 36,
-    "mediana_min": 5.2
+    "respostas": 37,
+    "mediana_min": 5.8
    },
    {
     "nome": "Thauany",
@@ -130,10 +130,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
+    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
     "dia": "28/07",
-    "desde": "10:14",
-    "ts": 1785244445912
+    "desde": "10:20",
+    "ts": 1785244857806
    },
    {
     "grupo": "G.O.R x CAIXA ECONOMICA FEDERAL",
@@ -250,10 +250,10 @@
     "ts": 1785243977840
    },
    {
-    "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
+    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
     "dia": "28/07",
-    "desde": "10:14",
-    "ts": 1785244445912
+    "desde": "10:20",
+    "ts": 1785244857806
    }
   ]
  },
@@ -349,7 +349,7 @@
   ]
  },
  "agora": {
-  "fila": 180,
+  "fila": 179,
   "abertos": 264,
   "com_atendimento": 8,
   "online": 6,
@@ -358,10 +358,32 @@
   "espera_media_s": 2041
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T11:35:40.904Z",
-  "min_sem_lead": 99
+  "ultimo_lead_at": "2026-07-27T14:39:54.352Z",
+  "min_sem_lead": 1370
  },
  "leads": [
+  {
+   "nome": "Luuh",
+   "tel": "5511*****590",
+   "criado": "07:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 140.5,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Emerson",
+   "tel": "5511*****411",
+   "criado": "09:45",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Josse Oliveira",
    "tel": "5575*****099",
@@ -371,17 +393,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5511990108590",
-   "tel": "5511*****590",
-   "criado": "07:51",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 140.5,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -418,17 +429,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Emerson",
-   "tel": "5511*****411",
-   "criado": "09:45",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.8,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Junior  Franco",
    "tel": "5599*****447",
    "criado": "08:46",
@@ -462,7 +462,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "554195990747",
+   "nome": "Cacilda 🌺",
    "tel": "5541*****747",
    "criado": "04:05",
    "atendente": "Fernanda Gehm - Administradora",
@@ -473,7 +473,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "559185133496",
+   "nome": "Obrigado Meu Deus 💕",
    "tel": "5591*****496",
    "criado": "02:45",
    "atendente": "Fernanda Gehm - Administradora",
@@ -506,7 +506,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "559584240326",
+   "nome": "daila lubin Martinez",
    "tel": "5595*****326",
    "criado": "01:22",
    "atendente": "Fernanda Gehm - Administradora",
@@ -517,7 +517,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "554198093070",
+   "nome": "Alef",
    "tel": "5541*****070",
    "criado": "00:47",
    "atendente": "Fernanda Gehm - Administradora",
@@ -528,7 +528,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553186989212",
+   "nome": "Bah",
    "tel": "5531*****212",
    "criado": "00:48",
    "atendente": "Fernanda Gehm - Administradora",
