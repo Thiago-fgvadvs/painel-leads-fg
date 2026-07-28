@@ -1,17 +1,17 @@
 {
- "gerado_em": "28/07/2026, 07:41",
+ "gerado_em": "28/07/2026, 07:57",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
+  "total": 10,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 9,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 276,
-  "tickets_abertos": 258,
+  "leads_7d": 277,
+  "tickets_abertos": 259,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 7,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -52,7 +52,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
+  "Nao identificada": 7,
   "Trabalhista": 3
  },
  "sem_resposta_lista": [],
@@ -290,17 +290,17 @@
   ]
  },
  "agora": {
-  "fila": 175,
-  "abertos": 258,
+  "fila": 176,
+  "abertos": 259,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2052
+  "espera_media_s": 2044
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T10:38:55.877Z",
-  "min_sem_lead": 3
+  "ultimo_lead_at": "2026-05-20T17:22:29.954Z",
+  "min_sem_lead": 98975
  },
  "leads": [
   {
@@ -401,6 +401,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5511990108590",
+   "tel": "5511*****590",
+   "criado": "07:51",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
