@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/07/2026, 17:39",
+ "gerado_em": "28/07/2026, 17:55",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 94,
   "mediana_geral": 0.4,
   "leads_7d": 310,
-  "tickets_abertos": 257,
+  "tickets_abertos": 248,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -66,11 +66,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/9qjfIyfnH",
+   "url": "fb.me/7vEH579Vm",
    "leads": 1
   },
   {
-   "url": "fb.me/7vEH579Vm",
+   "url": "fb.me/8B5V96ay5",
    "leads": 1
   }
  ],
@@ -98,10 +98,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 167,
-  "turnos": 571,
+  "turnos": 572,
   "respondidos": 565,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 13.1,
   "atendentes": [
    {
@@ -151,6 +151,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.T.A x POLI POSITIVO IND. COM. IMP. E EXP. LTDA EM RECUPERACAO JUDICIAL",
+    "dia": "28/07",
+    "desde": "17:51",
+    "ts": 1785271917226
+   },
    {
     "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
     "dia": "28/07",
@@ -228,6 +234,12 @@
     "dia": "28/07",
     "desde": "17:01",
     "ts": 1785268871176
+   },
+   {
+    "grupo": "L.T.A x POLI POSITIVO IND. COM. IMP. E EXP. LTDA EM RECUPERACAO JUDICIAL",
+    "dia": "28/07",
+    "desde": "17:51",
+    "ts": 1785271917226
    }
   ]
  },
@@ -369,30 +381,19 @@
   ]
  },
  "agora": {
-  "fila": 160,
-  "abertos": 257,
-  "com_atendimento": 6,
+  "fila": 148,
+  "abertos": 248,
+  "com_atendimento": 7,
   "online": 4,
   "offline": 4,
   "ausentes": 1,
-  "espera_media_s": 1944
+  "espera_media_s": 2053
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T15:59:49.229Z",
-  "min_sem_lead": 280
+  "ultimo_lead_at": "2026-07-26T01:53:03.555Z",
+  "min_sem_lead": 4022
  },
  "leads": [
-  {
-   "nome": "Rick ✌🏾",
-   "tel": "5511*****480",
-   "criado": "12:59",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9qjfIyfnH",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Meire",
    "tel": "5516*****758",
@@ -402,6 +403,39 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7vEH579Vm",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Deus no comando sempre",
+   "tel": "5589*****328",
+   "criado": "15:24",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "555180226489",
+   "tel": "5551*****489",
+   "criado": "17:08",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8B5V96ay5",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rick ✌🏾",
+   "tel": "5511*****480",
+   "criado": "12:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9qjfIyfnH",
    "area": "Nao identificada"
   },
   {
@@ -471,17 +505,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "555180226489",
-   "tel": "5551*****489",
-   "criado": "17:08",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/8B5V96ay5",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Victor Valentim",
    "tel": "5527*****700",
    "criado": "15:35",
@@ -529,17 +552,6 @@
    "nome": "fernandonununesnunes",
    "tel": "5521*****843",
    "criado": "15:15",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Deus no comando sempre",
-   "tel": "5589*****328",
-   "criado": "15:24",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
