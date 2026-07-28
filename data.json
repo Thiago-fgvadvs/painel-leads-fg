@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 15:05",
+ "gerado_em": "28/07/2026, 15:21",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
-  "no_sla": 21,
+  "total": 35,
+  "no_sla": 23,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 10,
-  "pct_sla": 95,
+  "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 300,
-  "tickets_abertos": 280,
+  "leads_7d": 302,
+  "tickets_abertos": 283,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 29,
+   "leads": 31,
    "mediana_min": 0.4
   },
   {
@@ -37,13 +37,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 27,
+  "Anuncio": 29,
   "Direto/Indicacao": 6
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 7
+   "leads": 8
+  },
+  {
+   "url": "fb.me/cMY7LLYxT",
+   "leads": 4
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -54,12 +58,12 @@
    "leads": 3
   },
   {
-   "url": "fb.me/cMY7LLYxT",
-   "leads": 3
-  },
-  {
    "url": "fb.me/3PeKuOOHR",
    "leads": 2
+  },
+  {
+   "url": "fb.me/7vEH579Vm",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DaVuNbaM1sG/",
@@ -68,15 +72,11 @@
   {
    "url": "fb.me/9qjfIyfnH",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DYVTWI6DPYt/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 17,
-  "Trabalhista": 16
+  "Trabalhista": 17,
+  "Nao identificada": 18
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -91,16 +91,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 163,
-  "turnos": 547,
-  "respondidos": 537,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "turnos": 549,
+  "respondidos": 538,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 13.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 287,
-    "mediana_min": 23.4
+    "respostas": 288,
+    "mediana_min": 23.3
    },
    {
     "nome": "Nicolas",
@@ -139,6 +139,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.F.F x INSS",
+    "dia": "28/07",
+    "desde": "15:08",
+    "ts": 1785262110158
+   },
    {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "28/07",
@@ -264,6 +270,12 @@
     "dia": "28/07",
     "desde": "15:02",
     "ts": 1785261748163
+   },
+   {
+    "grupo": "M.F.F x INSS",
+    "dia": "28/07",
+    "desde": "15:08",
+    "ts": 1785262110158
    }
   ]
  },
@@ -396,19 +408,52 @@
   ]
  },
  "agora": {
-  "fila": 185,
-  "abertos": 280,
+  "fila": 188,
+  "abertos": 283,
   "com_atendimento": 7,
-  "online": 5,
-  "offline": 2,
+  "online": 4,
+  "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 1889
+  "espera_media_s": 1874
  },
  "captacao": {
-  "ultimo_lead_at": "2026-02-14T06:10:14.346Z",
-  "min_sem_lead": 236875
+  "ultimo_lead_at": "2026-07-28T18:18:04.511Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "5518996878396",
+   "tel": "5518*****396",
+   "criado": "15:18",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "fernandonununesnunes",
+   "tel": "5521*****843",
+   "criado": "15:15",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Meire",
+   "tel": "5516*****758",
+   "criado": "08:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7vEH579Vm",
+   "area": "Nao identificada"
+  },
   {
    "nome": "HEBERT INDICACAO",
    "tel": "5511*****224",
@@ -661,17 +706,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Meire",
-   "tel": "5516*****758",
-   "criado": "08:28",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7vEH579Vm",
-   "area": "Nao identificada"
   },
   {
    "nome": "doce",
