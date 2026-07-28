@@ -1,17 +1,17 @@
 {
- "gerado_em": "28/07/2026, 16:22",
+ "gerado_em": "28/07/2026, 16:37",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 39,
   "no_sla": 26,
   "fora_sla": 2,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 10,
   "pct_sla": 93,
   "mediana_geral": 0.4,
   "leads_7d": 306,
-  "tickets_abertos": 284,
+  "tickets_abertos": 280,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -66,11 +66,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "url": "fb.me/7vEH579Vm",
    "leads": 1
   },
   {
-   "url": "fb.me/7vEH579Vm",
+   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
    "leads": 1
   }
  ],
@@ -78,14 +78,7 @@
   "Trabalhista": 18,
   "Nao identificada": 21
  },
- "sem_resposta_lista": [
-  {
-   "nome": "Wilton",
-   "tel": "5511*****333",
-   "criado": "14:03",
-   "area": "Nao identificada"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [
   {
    "nome": "553181175033",
@@ -105,16 +98,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 167,
-  "turnos": 560,
-  "respondidos": 554,
+  "turnos": 562,
+  "respondidos": 556,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 299,
-    "mediana_min": 23.2
+    "respostas": 300,
+    "mediana_min": 23
    },
    {
     "nome": "Nicolas",
@@ -147,6 +140,11 @@
     "mediana_min": 6.9
    },
    {
+    "nome": "Tiago Bernardo",
+    "respostas": 1,
+    "mediana_min": 329.7
+   },
+   {
     "nome": "Roseli",
     "respostas": 1,
     "mediana_min": 5916.7
@@ -154,16 +152,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
+    "dia": "28/07",
+    "desde": "16:37",
+    "ts": 1785267438156
+   },
+   {
     "grupo": "M.F.F x INSS",
     "dia": "28/07",
     "desde": "15:36",
     "ts": 1785263806095
-   },
-   {
-    "grupo": "E.C x ORBENK ADMINISTRACAO E SERVICOS LTDA",
-    "dia": "28/07",
-    "desde": "10:54",
-    "ts": 1785246856886
    },
    {
     "grupo": "A.J.C",
@@ -193,15 +191,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Wilton",
-    "tel": "5511*****333",
-    "dia": "28/07",
-    "desde": "14:03",
-    "ts": 1785258184550
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "A.J.P.B",
@@ -228,16 +218,16 @@
     "ts": 1785186513618
    },
    {
-    "grupo": "E.C x ORBENK ADMINISTRACAO E SERVICOS LTDA",
-    "dia": "28/07",
-    "desde": "10:54",
-    "ts": 1785246856886
-   },
-   {
     "grupo": "M.F.F x INSS",
     "dia": "28/07",
     "desde": "15:36",
     "ts": 1785263806095
+   },
+   {
+    "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
+    "dia": "28/07",
+    "desde": "16:37",
+    "ts": 1785267438156
    }
   ]
  },
@@ -370,19 +360,41 @@
   ]
  },
  "agora": {
-  "fila": 186,
-  "abertos": 284,
-  "com_atendimento": 7,
+  "fila": 185,
+  "abertos": 280,
+  "com_atendimento": 6,
   "online": 7,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 1844
+  "espera_media_s": 1848
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T19:51:11.331Z",
-  "min_sem_lead": 1411
+  "ultimo_lead_at": "2026-07-28T11:28:09.093Z",
+  "min_sem_lead": 490
  },
  "leads": [
+  {
+   "nome": "O71984734753",
+   "tel": "5571*****753",
+   "criado": "11:11",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Meire",
+   "tel": "5516*****758",
+   "criado": "08:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7vEH579Vm",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Felipe",
    "tel": "5592*****823",
@@ -404,17 +416,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaQvm7HspOM/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Meire",
-   "tel": "5516*****758",
-   "criado": "08:28",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7vEH579Vm",
-   "area": "Nao identificada"
   },
   {
    "nome": "553181175033",
@@ -637,17 +638,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "O71984734753",
-   "tel": "5571*****753",
-   "criado": "11:11",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Maria Eduarda",
    "tel": "5541*****023",
    "criado": "11:22",
@@ -807,7 +797,7 @@
    "criado": "14:03",
    "atendente": "—",
    "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "status": "RESOLVIDO",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
