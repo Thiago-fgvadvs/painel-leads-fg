@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 16:07",
+ "gerado_em": "28/07/2026, 16:22",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 38,
+  "total": 39,
   "no_sla": 26,
-  "fora_sla": 1,
-  "sem_resposta": 0,
+  "fora_sla": 2,
+  "sem_resposta": 1,
   "fora_horario": 10,
-  "pct_sla": 96,
+  "pct_sla": 93,
   "mediana_geral": 0.4,
-  "leads_7d": 305,
-  "tickets_abertos": 285,
+  "leads_7d": 306,
+  "tickets_abertos": 284,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 34,
+   "leads": 35,
    "mediana_min": 0.4
   },
   {
@@ -38,7 +38,7 @@
  ],
  "origem": {
   "Anuncio": 32,
-  "Direto/Indicacao": 6
+  "Direto/Indicacao": 7
  },
  "criativos": [
   {
@@ -66,20 +66,34 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYVTWI6DPYt/",
+   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
    "leads": 1
   },
   {
-   "url": "fb.me/9qjfIyfnH",
+   "url": "fb.me/7vEH579Vm",
    "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 18,
-  "Nao identificada": 20
+  "Nao identificada": 21
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Wilton",
+   "tel": "5511*****333",
+   "criado": "14:03",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [
+  {
+   "nome": "553181175033",
+   "tel": "5531*****033",
+   "criado": "10:50",
+   "espera_min": 324.3,
+   "atendente": "Fernanda Gehm - Administradora"
+  },
   {
    "nome": "Junior  Franco",
    "tel": "5599*****447",
@@ -91,16 +105,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 167,
-  "turnos": 558,
-  "respondidos": 550,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "turnos": 560,
+  "respondidos": 554,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 296,
-    "mediana_min": 23
+    "respostas": 299,
+    "mediana_min": 23.2
    },
    {
     "nome": "Nicolas",
@@ -109,8 +123,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 40,
-    "mediana_min": 5.7
+    "respostas": 41,
+    "mediana_min": 5.9
    },
    {
     "nome": "Gabrielle",
@@ -140,22 +154,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "P.J.T.D.S x HAPVIDA",
-    "dia": "28/07",
-    "desde": "16:02",
-    "ts": 1785265357244
-   },
-   {
     "grupo": "M.F.F x INSS",
     "dia": "28/07",
     "desde": "15:36",
     "ts": 1785263806095
-   },
-   {
-    "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
-    "dia": "28/07",
-    "desde": "12:10",
-    "ts": 1785251456941
    },
    {
     "grupo": "E.C x ORBENK ADMINISTRACAO E SERVICOS LTDA",
@@ -191,7 +193,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Wilton",
+    "tel": "5511*****333",
+    "dia": "28/07",
+    "desde": "14:03",
+    "ts": 1785258184550
+   }
+  ],
   "grupos": [
    {
     "grupo": "A.J.P.B",
@@ -224,22 +234,10 @@
     "ts": 1785246856886
    },
    {
-    "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
-    "dia": "28/07",
-    "desde": "12:10",
-    "ts": 1785251456941
-   },
-   {
     "grupo": "M.F.F x INSS",
     "dia": "28/07",
     "desde": "15:36",
     "ts": 1785263806095
-   },
-   {
-    "grupo": "P.J.T.D.S x HAPVIDA",
-    "dia": "28/07",
-    "desde": "16:02",
-    "ts": 1785265357244
    }
   ]
  },
@@ -373,18 +371,29 @@
  },
  "agora": {
   "fila": 186,
-  "abertos": 285,
+  "abertos": 284,
   "com_atendimento": 7,
   "online": 7,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 1858
+  "espera_media_s": 1844
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T14:54:57.769Z",
-  "min_sem_lead": 252
+  "ultimo_lead_at": "2026-07-27T19:51:11.331Z",
+  "min_sem_lead": 1411
  },
  "leads": [
+  {
+   "nome": "Felipe",
+   "tel": "5592*****823",
+   "criado": "11:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "🍀",
    "tel": "5511*****475",
@@ -395,6 +404,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaQvm7HspOM/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Meire",
+   "tel": "5516*****758",
+   "criado": "08:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7vEH579Vm",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553181175033",
+   "tel": "5531*****033",
+   "criado": "10:50",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 324.3,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Cris",
@@ -441,7 +472,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "558988024328",
+   "nome": "Deus no comando sempre",
    "tel": "5589*****328",
    "criado": "15:24",
    "atendente": "Fernanda Gehm - Administradora",
@@ -483,17 +514,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Meire",
-   "tel": "5516*****758",
-   "criado": "08:28",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7vEH579Vm",
-   "area": "Nao identificada"
   },
   {
    "nome": "ㅤ",
@@ -562,18 +582,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Felipe",
-   "tel": "5592*****823",
-   "criado": "11:54",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "559193514675",
+   "nome": "LK...",
    "tel": "5591*****675",
    "criado": "12:14",
    "atendente": "Fernanda Gehm - Administradora",
@@ -606,7 +615,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "558195742585",
+   "nome": "Ednaldo",
    "tel": "5581*****585",
    "criado": "11:53",
    "atendente": "Fernanda Gehm - Administradora",
@@ -793,12 +802,12 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553181175033",
-   "tel": "5531*****033",
-   "criado": "10:50",
+   "nome": "Wilton",
+   "tel": "5511*****333",
+   "criado": "14:03",
    "atendente": "—",
    "espera_min": null,
-   "status": "RESOLVIDO",
+   "status": "SEM_RESPOSTA",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
