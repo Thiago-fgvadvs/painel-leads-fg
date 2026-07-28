@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 10:30",
+ "gerado_em": "28/07/2026, 10:45",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
-  "no_sla": 6,
+  "total": 18,
+  "no_sla": 7,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 10,
-  "pct_sla": 86,
+  "pct_sla": 88,
   "mediana_geral": 0.4,
-  "leads_7d": 284,
-  "tickets_abertos": 264,
+  "leads_7d": 285,
+  "tickets_abertos": 265,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 15,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -36,16 +36,16 @@
    "leads": 4
   },
   {
+   "url": "fb.me/3PeKuOOHR",
+   "leads": 2
+  },
+  {
    "url": "fb.me/cMY7LLYxT",
    "leads": 2
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 2
-  },
-  {
-   "url": "fb.me/3PeKuOOHR",
-   "leads": 1
   },
   {
    "url": "fb.me/7vEH579Vm",
@@ -66,7 +66,7 @@
  ],
  "areas": {
   "Trabalhista": 7,
-  "Nao identificada": 10
+  "Nao identificada": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -81,10 +81,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 151,
-  "turnos": 508,
-  "respondidos": 498,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "turnos": 511,
+  "respondidos": 500,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 13.2,
   "atendentes": [
    {
@@ -109,13 +109,13 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 30,
+    "respostas": 31,
     "mediana_min": 1.8
    },
    {
     "nome": "Eduardo",
-    "respostas": 28,
-    "mediana_min": 5.7
+    "respostas": 29,
+    "mediana_min": 5.4
    },
    {
     "nome": "—",
@@ -129,6 +129,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
+    "dia": "28/07",
+    "desde": "10:42",
+    "ts": 1785246132821
+   },
+   {
+    "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "dia": "28/07",
+    "desde": "10:38",
+    "ts": 1785245890872
+   },
    {
     "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
     "dia": "28/07",
@@ -164,12 +176,6 @@
     "dia": "27/07",
     "desde": "18:08",
     "ts": 1785186513618
-   },
-   {
-    "grupo": "J.D.C.G x TRONADOR CAFETERIA LTDA",
-    "dia": "27/07",
-    "desde": "17:53",
-    "ts": 1785185608514
    },
    {
     "grupo": "W.M.D.O x SENDAS",
@@ -220,12 +226,6 @@
     "ts": 1785183731607
    },
    {
-    "grupo": "J.D.C.G x TRONADOR CAFETERIA LTDA",
-    "dia": "27/07",
-    "desde": "17:53",
-    "ts": 1785185608514
-   },
-   {
     "grupo": "A.J.C",
     "dia": "27/07",
     "desde": "18:08",
@@ -254,6 +254,18 @@
     "dia": "28/07",
     "desde": "10:20",
     "ts": 1785244857806
+   },
+   {
+    "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "dia": "28/07",
+    "desde": "10:38",
+    "ts": 1785245890872
+   },
+   {
+    "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
+    "dia": "28/07",
+    "desde": "10:42",
+    "ts": 1785246132821
    }
   ]
  },
@@ -349,17 +361,17 @@
   ]
  },
  "agora": {
-  "fila": 179,
-  "abertos": 264,
+  "fila": 180,
+  "abertos": 265,
   "com_atendimento": 8,
-  "online": 6,
+  "online": 5,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 2041
+  "ausentes": 2,
+  "espera_media_s": 2032
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T14:39:54.352Z",
-  "min_sem_lead": 1370
+  "ultimo_lead_at": "2026-07-28T10:51:25.836Z",
+  "min_sem_lead": 174
  },
  "leads": [
   {
@@ -372,6 +384,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Michel Da Silveira",
+   "tel": "5551*****469",
+   "criado": "10:43",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/3PeKuOOHR",
+   "area": "Nao identificada"
   },
   {
    "nome": "Emerson",
