@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 16:37",
+ "gerado_em": "28/07/2026, 16:53",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 39,
-  "no_sla": 26,
+  "total": 40,
+  "no_sla": 27,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 10,
   "pct_sla": 93,
   "mediana_geral": 0.4,
-  "leads_7d": 306,
-  "tickets_abertos": 280,
+  "leads_7d": 307,
+  "tickets_abertos": 281,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 35,
+   "leads": 36,
    "mediana_min": 0.4
   },
   {
@@ -37,7 +37,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 32,
+  "Anuncio": 33,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -66,16 +66,16 @@
    "leads": 2
   },
   {
-   "url": "fb.me/7vEH579Vm",
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
+   "url": "fb.me/7vEH579Vm",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 18,
+  "Trabalhista": 19,
   "Nao identificada": 21
  },
  "sem_resposta_lista": [],
@@ -98,16 +98,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 167,
-  "turnos": 562,
-  "respondidos": 556,
+  "turnos": 565,
+  "respondidos": 559,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 13.2,
+  "mediana_min": 13.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 300,
-    "mediana_min": 23
+    "respostas": 301,
+    "mediana_min": 22.9
    },
    {
     "nome": "Nicolas",
@@ -116,7 +116,7 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 41,
+    "respostas": 43,
     "mediana_min": 5.9
    },
    {
@@ -154,8 +154,8 @@
    {
     "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
     "dia": "28/07",
-    "desde": "16:37",
-    "ts": 1785267438156
+    "desde": "16:52",
+    "ts": 1785268322313
    },
    {
     "grupo": "M.F.F x INSS",
@@ -226,20 +226,29 @@
    {
     "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
     "dia": "28/07",
-    "desde": "16:37",
-    "ts": 1785267438156
+    "desde": "16:52",
+    "ts": 1785268322313
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 13,
+  "total": 14,
   "por_vendedor": {
-   "Eduardo": 7,
+   "Eduardo": 8,
    "Tiago Bernardo": 5,
    "Roseli": 1
   },
   "lista": [
+   {
+    "vendedor": "Eduardo",
+    "cliente": "D",
+    "dia": "28/07",
+    "hora": "16:47",
+    "ts": 1785268025111,
+    "origem": "Indicacao",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Eduardo",
     "cliente": "—",
@@ -360,28 +369,28 @@
   ]
  },
  "agora": {
-  "fila": 185,
-  "abertos": 280,
+  "fila": 186,
+  "abertos": 281,
   "com_atendimento": 6,
-  "online": 7,
+  "online": 4,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 1848
+  "ausentes": 3,
+  "espera_media_s": 1840
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T11:28:09.093Z",
-  "min_sem_lead": 490
+  "ultimo_lead_at": "2026-06-10T13:16:22.154Z",
+  "min_sem_lead": 69517
  },
  "leads": [
   {
-   "nome": "O71984734753",
-   "tel": "5571*****753",
-   "criado": "11:11",
+   "nome": "rozelinacarvalhoreis",
+   "tel": "5561*****178",
+   "criado": "16:47",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
   },
   {
@@ -394,6 +403,39 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7vEH579Vm",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Victor Valentim",
+   "tel": "5527*****700",
+   "criado": "15:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaQvm7HspOM/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553181175033",
+   "tel": "5531*****033",
+   "criado": "10:50",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 324.3,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "O71984734753",
+   "tel": "5571*****753",
+   "criado": "11:11",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
   },
   {
    "nome": "Felipe",
@@ -416,17 +458,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaQvm7HspOM/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "553181175033",
-   "tel": "5531*****033",
-   "criado": "10:50",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 324.3,
-   "status": "FORA_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Cris",
@@ -492,17 +523,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Victor Valentim",
-   "tel": "5527*****700",
-   "criado": "15:35",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaQvm7HspOM/",
    "area": "Nao identificada"
   },
   {
