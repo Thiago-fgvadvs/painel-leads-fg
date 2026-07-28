@@ -1,34 +1,42 @@
 {
- "gerado_em": "28/07/2026, 08:27",
+ "gerado_em": "28/07/2026, 08:43",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 0,
+  "total": 12,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 9,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 277,
-  "tickets_abertos": 259,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 279,
+  "tickets_abertos": 261,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 9,
-   "mediana_min": null
+   "leads": 11,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 7,
+  "Anuncio": 9,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/7vEH579Vm",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DYVTAskDMJ6/",
@@ -52,14 +60,14 @@
   }
  ],
  "areas": {
-  "Nao identificada": 7,
+  "Nao identificada": 9,
   "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 149,
+  "grupos_ativos": 150,
   "turnos": 478,
   "respondidos": 470,
   "sem_resposta": 8,
@@ -290,19 +298,41 @@
   ]
  },
  "agora": {
-  "fila": 176,
-  "abertos": 259,
+  "fila": 178,
+  "abertos": 261,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2044
+  "espera_media_s": 2026
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T01:19:10.676Z",
-  "min_sem_lead": 608
+  "ultimo_lead_at": "2026-07-28T11:35:40.904Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "557588295099",
+   "tel": "5575*****099",
+   "criado": "08:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Meire",
+   "tel": "5516*****758",
+   "criado": "08:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7vEH579Vm",
+   "area": "Nao identificada"
+  },
   {
    "nome": "doce",
    "tel": "5548*****689",
