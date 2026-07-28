@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 12:17",
+ "gerado_em": "28/07/2026, 12:32",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
-  "no_sla": 15,
+  "total": 28,
+  "no_sla": 16,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 10,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 294,
-  "tickets_abertos": 265,
+  "leads_7d": 295,
+  "tickets_abertos": 270,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 24,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -44,11 +44,11 @@
    "leads": 3
   },
   {
-   "url": "fb.me/3PeKuOOHR",
-   "leads": 2
+   "url": "fb.me/cMY7LLYxT",
+   "leads": 3
   },
   {
-   "url": "fb.me/cMY7LLYxT",
+   "url": "fb.me/3PeKuOOHR",
    "leads": 2
   },
   {
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 13,
+  "Trabalhista": 14,
   "Nao identificada": 14
  },
  "sem_resposta_lista": [],
@@ -80,16 +80,16 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 155,
-  "turnos": 526,
-  "respondidos": 520,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "grupos_ativos": 157,
+  "turnos": 529,
+  "respondidos": 522,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 279,
+    "respostas": 280,
     "mediana_min": 23.9
    },
    {
@@ -108,14 +108,14 @@
     "mediana_min": 5.4
    },
    {
+    "nome": "Luisa",
+    "respostas": 32,
+    "mediana_min": 1.9
+   },
+   {
     "nome": "Thauany",
     "respostas": 32,
     "mediana_min": 1
-   },
-   {
-    "nome": "Luisa",
-    "respostas": 31,
-    "mediana_min": 1.8
    },
    {
     "nome": "—",
@@ -129,6 +129,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "C.M.G x DIA ENTREGUE - TRANSPORTE DE ENCOMENDAS URGENTES LTDA",
+    "dia": "28/07",
+    "desde": "12:28",
+    "ts": 1785252539044
+   },
    {
     "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
     "dia": "28/07",
@@ -206,6 +212,12 @@
     "dia": "28/07",
     "desde": "12:10",
     "ts": 1785251456941
+   },
+   {
+    "grupo": "C.M.G x DIA ENTREGUE - TRANSPORTE DE ENCOMENDAS URGENTES LTDA",
+    "dia": "28/07",
+    "desde": "12:28",
+    "ts": 1785252539044
    }
   ]
  },
@@ -329,19 +341,63 @@
   ]
  },
  "agora": {
-  "fila": 181,
-  "abertos": 265,
-  "com_atendimento": 6,
-  "online": 7,
+  "fila": 183,
+  "abertos": 270,
+  "com_atendimento": 9,
+  "online": 5,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 1991
+  "ausentes": 2,
+  "espera_media_s": 1975
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T02:35:24.495Z",
-  "min_sem_lead": 5082
+  "ultimo_lead_at": "2026-07-28T13:48:04.111Z",
+  "min_sem_lead": 104
  },
  "leads": [
+  {
+   "nome": "Claudia",
+   "tel": "5516*****965",
+   "criado": "10:48",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "machadolisi63",
+   "tel": "5551*****559",
+   "criado": "12:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Michel Da Silveira",
+   "tel": "5551*****469",
+   "criado": "10:43",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/3PeKuOOHR",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Luiz Fernando",
+   "tel": "5582*****067",
+   "criado": "11:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "558195742585",
    "tel": "5581*****585",
@@ -385,28 +441,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Luiz Fernando",
-   "tel": "5582*****067",
-   "criado": "11:55",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Michel Da Silveira",
-   "tel": "5551*****469",
-   "criado": "10:43",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/3PeKuOOHR",
-   "area": "Nao identificada"
   },
   {
    "nome": "Josse Oliveira",
@@ -461,17 +495,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Claudia",
-   "tel": "5516*****965",
-   "criado": "10:48",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
   },
   {
