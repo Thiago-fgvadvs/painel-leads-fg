@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/07/2026, 14:35",
+ "gerado_em": "28/07/2026, 14:50",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 95,
   "mediana_geral": 0.4,
   "leads_7d": 300,
-  "tickets_abertos": 277,
+  "tickets_abertos": 278,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,6 @@
    "nome": "Fernanda Gehm - Administradora",
    "leads": 29,
    "mediana_min": 0.4
-  },
-  {
-   "nome": "Roseli",
-   "leads": 1,
-   "mediana_min": 1.4
   },
   {
    "nome": "Eduardo",
@@ -34,6 +29,11 @@
    "nome": "Tiago Bernardo",
    "leads": 1,
    "mediana_min": 50.6
+  },
+  {
+   "nome": "Roseli",
+   "leads": 1,
+   "mediana_min": 1.4
   }
  ],
  "origem": {
@@ -62,11 +62,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/9qjfIyfnH",
+   "url": "www.instagram.com/p/DaVuNbaM1sG/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DaVuNbaM1sG/",
+   "url": "fb.me/9qjfIyfnH",
    "leads": 1
   },
   {
@@ -75,8 +75,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 17,
-  "Trabalhista": 16
+  "Trabalhista": 16,
+  "Nao identificada": 17
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -91,11 +91,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 161,
-  "turnos": 542,
-  "respondidos": 536,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 13.2,
+  "turnos": 545,
+  "respondidos": 537,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 13.1,
   "atendentes": [
    {
     "nome": "Julia",
@@ -114,7 +114,7 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 35,
+    "respostas": 36,
     "mediana_min": 5.4
    },
    {
@@ -139,6 +139,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
+    "dia": "28/07",
+    "desde": "14:49",
+    "ts": 1785260981146
+   },
+   {
+    "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
+    "dia": "22/07",
+    "desde": "16:37",
+    "ts": 1784749044993
+   },
    {
     "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
     "dia": "28/07",
@@ -188,6 +200,12 @@
     "ts": 1784731574819
    },
    {
+    "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
+    "dia": "22/07",
+    "desde": "16:37",
+    "ts": 1784749044993
+   },
+   {
     "grupo": "S.R.D.S x FIBRA NEGOCIOS E SERVICOS LTDA",
     "dia": "22/07",
     "desde": "18:10",
@@ -216,6 +234,12 @@
     "dia": "28/07",
     "desde": "12:10",
     "ts": 1785251456941
+   },
+   {
+    "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
+    "dia": "28/07",
+    "desde": "14:49",
+    "ts": 1785260981146
    }
   ]
  },
@@ -349,27 +373,38 @@
  },
  "agora": {
   "fila": 186,
-  "abertos": 277,
+  "abertos": 278,
   "com_atendimento": 7,
-  "online": 7,
+  "online": 6,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 1889
  },
  "captacao": {
-  "ultimo_lead_at": "2026-01-15T16:51:32.371Z",
-  "min_sem_lead": 279404
+  "ultimo_lead_at": "2026-07-28T03:11:37.785Z",
+  "min_sem_lead": 879
  },
  "leads": [
   {
-   "nome": "Rick ✌🏾",
-   "tel": "5511*****480",
-   "criado": "12:59",
+   "nome": "ㅤ",
+   "tel": "5515*****923",
+   "criado": "00:11",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "HEBERT INDICACAO",
+   "tel": "5511*****224",
+   "criado": "13:09",
+   "atendente": "Eduardo",
+   "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9qjfIyfnH",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   },
   {
@@ -382,6 +417,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Junior  Franco",
+   "tel": "5599*****447",
+   "criado": "08:46",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 50.6,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Rick ✌🏾",
+   "tel": "5511*****480",
+   "criado": "12:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9qjfIyfnH",
+   "area": "Nao identificada"
   },
   {
    "nome": "Cris",
@@ -411,17 +468,6 @@
    "criado": "14:10",
    "atendente": "Roseli",
    "espera_min": 1.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "HEBERT INDICACAO",
-   "tel": "5511*****224",
-   "criado": "13:09",
-   "atendente": "Eduardo",
-   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
@@ -593,17 +639,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Junior  Franco",
-   "tel": "5599*****447",
-   "criado": "08:46",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 50.6,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Meire",
    "tel": "5516*****758",
    "criado": "08:28",
@@ -701,17 +736,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaQvm7HspOM/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "ㅤ",
-   "tel": "5515*****923",
-   "criado": "00:11",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
   },
   {
    "nome": "553181175033",
