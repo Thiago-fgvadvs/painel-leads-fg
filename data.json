@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 18:10",
+ "gerado_em": "28/07/2026, 18:25",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 44,
-  "no_sla": 31,
+  "total": 45,
+  "no_sla": 32,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 10,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 311,
+  "leads_7d": 312,
   "tickets_abertos": 243,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 40,
+   "leads": 41,
    "mediana_min": 0.4
   },
   {
@@ -37,24 +37,24 @@
   }
  ],
  "origem": {
-  "Anuncio": 37,
+  "Anuncio": 38,
   "Direto/Indicacao": 7
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 9
+   "leads": 10
   },
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 5
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "url": "fb.me/9Pf9FTshS",
    "leads": 4
   },
   {
-   "url": "fb.me/9Pf9FTshS",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 4
   },
   {
@@ -75,7 +75,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 24,
+  "Nao identificada": 25,
   "Trabalhista": 20
  },
  "sem_resposta_lista": [],
@@ -385,19 +385,41 @@
   "abertos": 243,
   "com_atendimento": 7,
   "online": 3,
-  "offline": 5,
-  "ausentes": 1,
-  "espera_media_s": 2111
+  "offline": 6,
+  "ausentes": 0,
+  "espera_media_s": 2101
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T16:19:05.868Z",
-  "min_sem_lead": 4611
+  "ultimo_lead_at": "2026-07-25T00:07:15.937Z",
+  "min_sem_lead": 5598
  },
  "leads": [
   {
    "nome": "Maria Eduarda Mello",
    "tel": "5562*****595",
    "criado": "17:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "O71984734753",
+   "tel": "5571*****753",
+   "criado": "11:11",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Victor",
+   "tel": "5537*****574",
+   "criado": "18:14",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
@@ -469,17 +491,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/8B5V96ay5",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "O71984734753",
-   "tel": "5571*****753",
-   "criado": "11:11",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
    "area": "Trabalhista"
   },
   {
