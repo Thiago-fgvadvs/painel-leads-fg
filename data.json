@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/07/2026, 08:58",
+ "gerado_em": "28/07/2026, 09:13",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 280,
-  "tickets_abertos": 262,
+  "tickets_abertos": 263,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 10,
-  "Trabalhista": 3
+  "Nao identificada": 9,
+  "Trabalhista": 4
  },
  "sem_resposta_lista": [
   {
@@ -75,11 +75,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 150,
-  "turnos": 478,
-  "respondidos": 471,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 11.9,
+  "turnos": 483,
+  "respondidos": 475,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 12.5,
   "atendentes": [
    {
     "nome": "Julia",
@@ -88,8 +88,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 88,
-    "mediana_min": 25.5
+    "respostas": 92,
+    "mediana_min": 27.3
    },
    {
     "nome": "Gabrielle",
@@ -119,10 +119,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "B.T.D.S x TORRE'S CELL CELULARES LTDA",
-    "dia": "27/07",
-    "desde": "21:18",
-    "ts": 1785197896693
+    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
+    "dia": "28/07",
+    "desde": "09:11",
+    "ts": 1785240714854
+   },
+   {
+    "grupo": "P.J.T.D.S x HAPVIDA",
+    "dia": "28/07",
+    "desde": "09:08",
+    "ts": 1785240490849
    },
    {
     "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
@@ -211,10 +217,16 @@
     "ts": 1785189354643
    },
    {
-    "grupo": "B.T.D.S x TORRE'S CELL CELULARES LTDA",
-    "dia": "27/07",
-    "desde": "21:18",
-    "ts": 1785197896693
+    "grupo": "P.J.T.D.S x HAPVIDA",
+    "dia": "28/07",
+    "desde": "09:08",
+    "ts": 1785240490849
+   },
+   {
+    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
+    "dia": "28/07",
+    "desde": "09:11",
+    "ts": 1785240714854
    }
   ]
  },
@@ -301,17 +313,17 @@
   ]
  },
  "agora": {
-  "fila": 179,
-  "abertos": 262,
+  "fila": 178,
+  "abertos": 263,
   "com_atendimento": 7,
-  "online": 3,
+  "online": 2,
   "offline": 6,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 2026
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T11:28:09.093Z",
-  "min_sem_lead": 30
+  "ultimo_lead_at": "2026-07-28T01:19:10.676Z",
+  "min_sem_lead": 654
  },
  "leads": [
   {
@@ -326,23 +338,23 @@
    "area": "Nao identificada"
   },
   {
+   "nome": "Josse Oliveira",
+   "tel": "5575*****099",
+   "criado": "08:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "Junior  Franco",
    "tel": "5599*****447",
    "criado": "08:46",
    "atendente": "—",
    "espera_min": null,
    "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "557588295099",
-   "tel": "5575*****099",
-   "criado": "08:35",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
