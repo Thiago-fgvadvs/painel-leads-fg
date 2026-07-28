@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 17:55",
+ "gerado_em": "28/07/2026, 18:10",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 43,
-  "no_sla": 30,
+  "total": 44,
+  "no_sla": 31,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 10,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 310,
-  "tickets_abertos": 248,
+  "leads_7d": 311,
+  "tickets_abertos": 243,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 39,
+   "leads": 40,
    "mediana_min": 0.4
   },
   {
@@ -37,7 +37,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 36,
+  "Anuncio": 37,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -62,20 +62,20 @@
    "leads": 3
   },
   {
+   "url": "www.instagram.com/p/DYVTWI6DPYt/",
+   "leads": 2
+  },
+  {
    "url": "fb.me/3PeKuOOHR",
    "leads": 2
   },
   {
-   "url": "fb.me/7vEH579Vm",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/8B5V96ay5",
+   "url": "fb.me/9qjfIyfnH",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 23,
+  "Nao identificada": 24,
   "Trabalhista": 20
  },
  "sem_resposta_lista": [],
@@ -98,15 +98,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 167,
-  "turnos": 572,
-  "respondidos": 565,
+  "turnos": 574,
+  "respondidos": 567,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 13.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 305,
+    "respostas": 307,
     "mediana_min": 22.9
    },
    {
@@ -152,10 +152,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.T.A x POLI POSITIVO IND. COM. IMP. E EXP. LTDA EM RECUPERACAO JUDICIAL",
+    "grupo": "T.B x DROGARIA SAO PAULO S A",
     "dia": "28/07",
-    "desde": "17:51",
-    "ts": 1785271917226
+    "desde": "18:08",
+    "ts": 1785272893398
    },
    {
     "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
@@ -236,10 +236,10 @@
     "ts": 1785268871176
    },
    {
-    "grupo": "L.T.A x POLI POSITIVO IND. COM. IMP. E EXP. LTDA EM RECUPERACAO JUDICIAL",
+    "grupo": "T.B x DROGARIA SAO PAULO S A",
     "dia": "28/07",
-    "desde": "17:51",
-    "ts": 1785271917226
+    "desde": "18:08",
+    "ts": 1785272893398
    }
   ]
  },
@@ -381,28 +381,61 @@
   ]
  },
  "agora": {
-  "fila": 148,
-  "abertos": 248,
+  "fila": 143,
+  "abertos": 243,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 4,
+  "online": 3,
+  "offline": 5,
   "ausentes": 1,
-  "espera_media_s": 2053
+  "espera_media_s": 2111
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-26T01:53:03.555Z",
-  "min_sem_lead": 4022
+  "ultimo_lead_at": "2026-07-25T16:19:05.868Z",
+  "min_sem_lead": 4611
  },
  "leads": [
   {
-   "nome": "Meire",
-   "tel": "5516*****758",
-   "criado": "08:28",
+   "nome": "Maria Eduarda Mello",
+   "tel": "5562*****595",
+   "criado": "17:35",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/7vEH579Vm",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Rick ✌🏾",
+   "tel": "5511*****480",
+   "criado": "12:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9qjfIyfnH",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "554888236550",
+   "tel": "5548*****550",
+   "criado": "17:27",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Luísa🤍",
+   "tel": "5547*****471",
+   "criado": "18:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
    "area": "Nao identificada"
   },
   {
@@ -417,6 +450,17 @@
    "area": "Nao identificada"
   },
   {
+   "nome": "Meire",
+   "tel": "5516*****758",
+   "criado": "08:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7vEH579Vm",
+   "area": "Nao identificada"
+  },
+  {
    "nome": "555180226489",
    "tel": "5551*****489",
    "criado": "17:08",
@@ -426,39 +470,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/8B5V96ay5",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Rick ✌🏾",
-   "tel": "5511*****480",
-   "criado": "12:59",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9qjfIyfnH",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Maria Eduarda Mello",
-   "tel": "5562*****595",
-   "criado": "17:35",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "554888236550",
-   "tel": "5548*****550",
-   "criado": "17:27",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
   },
   {
    "nome": "O71984734753",
