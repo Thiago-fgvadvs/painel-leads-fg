@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 11:00",
+ "gerado_em": "28/07/2026, 11:16",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 9,
+  "total": 22,
+  "no_sla": 10,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 10,
-  "pct_sla": 90,
+  "pct_sla": 91,
   "mediana_geral": 0.4,
-  "leads_7d": 288,
-  "tickets_abertos": 267,
+  "leads_7d": 289,
+  "tickets_abertos": 268,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -41,14 +41,14 @@
   },
   {
    "url": "fb.me/9Pf9FTshS",
+   "leads": 3
+  },
+  {
+   "url": "fb.me/3PeKuOOHR",
    "leads": 2
   },
   {
    "url": "fb.me/cMY7LLYxT",
-   "leads": 2
-  },
-  {
-   "url": "fb.me/3PeKuOOHR",
    "leads": 2
   },
   {
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 10,
+  "Trabalhista": 11,
   "Nao identificada": 11
  },
  "sem_resposta_lista": [],
@@ -81,21 +81,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 152,
-  "turnos": 516,
-  "respondidos": 504,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
+  "turnos": 520,
+  "respondidos": 509,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 271,
-    "mediana_min": 23.4
+    "respostas": 274,
+    "mediana_min": 23.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 99,
-    "mediana_min": 27.9
+    "respostas": 100,
+    "mediana_min": 27.3
    },
    {
     "nome": "Gabrielle",
@@ -109,8 +109,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 31,
-    "mediana_min": 5.4
+    "respostas": 32,
+    "mediana_min": 5.7
    },
    {
     "nome": "Luisa",
@@ -170,12 +170,6 @@
     "dia": "28/07",
     "desde": "09:11",
     "ts": 1785240714854
-   },
-   {
-    "grupo": "P.J.T.D.S x HAPVIDA",
-    "dia": "28/07",
-    "desde": "09:08",
-    "ts": 1785240490849
    },
    {
     "grupo": "A.J.C",
@@ -238,12 +232,6 @@
     "ts": 1785186513618
    },
    {
-    "grupo": "P.J.T.D.S x HAPVIDA",
-    "dia": "28/07",
-    "desde": "09:08",
-    "ts": 1785240490849
-   },
-   {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
     "dia": "28/07",
     "desde": "09:11",
@@ -283,12 +271,21 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 9,
+  "total": 10,
   "por_vendedor": {
-   "Eduardo": 4,
+   "Eduardo": 5,
    "Tiago Bernardo": 5
   },
   "lista": [
+   {
+    "vendedor": "Eduardo",
+    "cliente": "H.M.P",
+    "dia": "28/07",
+    "hora": "11:03",
+    "ts": 1785247401100,
+    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Eduardo",
     "cliente": "B",
@@ -374,38 +371,27 @@
  },
  "agora": {
   "fila": 180,
-  "abertos": 267,
+  "abertos": 268,
   "com_atendimento": 7,
-  "online": 7,
-  "offline": 1,
+  "online": 6,
+  "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 2014
+  "espera_media_s": 2005
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T13:59:32.140Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 662336
  },
  "leads": [
   {
-   "nome": "Ramon",
-   "tel": "5551*****032",
-   "criado": "10:59",
+   "nome": "Rodrigo Tadeu Sala",
+   "tel": "5511*****581",
+   "criado": "09:53",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Claudia",
-   "tel": "5516*****965",
-   "criado": "10:48",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "criativo": "fb.me/3PeKuOOHR",
    "area": "Trabalhista"
   },
   {
@@ -420,14 +406,36 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Rodrigo Tadeu Sala",
-   "tel": "5511*****581",
-   "criado": "09:53",
+   "nome": "Claudia",
+   "tel": "5516*****965",
+   "criado": "10:48",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
+   "espera_min": 0.3,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/3PeKuOOHR",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "O71984734753",
+   "tel": "5571*****753",
+   "criado": "11:11",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ramon",
+   "tel": "5551*****032",
+   "criado": "10:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
    "area": "Trabalhista"
   },
   {
