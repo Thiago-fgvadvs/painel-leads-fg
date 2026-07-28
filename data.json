@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/07/2026, 11:31",
+ "gerado_em": "28/07/2026, 11:46",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 92,
   "mediana_geral": 0.4,
   "leads_7d": 290,
-  "tickets_abertos": 271,
+  "tickets_abertos": 269,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -36,11 +36,11 @@
    "leads": 5
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "url": "fb.me/9Pf9FTshS",
    "leads": 3
   },
   {
-   "url": "fb.me/9Pf9FTshS",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 3
   },
   {
@@ -81,21 +81,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 152,
-  "turnos": 522,
-  "respondidos": 511,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "turnos": 523,
+  "respondidos": 514,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 274,
-    "mediana_min": 23.9
+    "respostas": 276,
+    "mediana_min": 24.5
    },
    {
     "nome": "Nicolas",
-    "respostas": 101,
-    "mediana_min": 26.7
+    "respostas": 102,
+    "mediana_min": 27.3
    },
    {
     "nome": "Gabrielle",
@@ -148,22 +148,10 @@
     "ts": 1785246856886
    },
    {
-    "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
-    "dia": "28/07",
-    "desde": "10:38",
-    "ts": 1785245890872
-   },
-   {
     "grupo": "G.O.R x CAIXA ECONOMICA FEDERAL",
     "dia": "28/07",
     "desde": "10:06",
     "ts": 1785243977840
-   },
-   {
-    "grupo": "J.R.A.D.O x DORGIA CONSTRUCOES LTDA",
-    "dia": "27/07",
-    "desde": "17:22",
-    "ts": 1785183731607
    },
    {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
@@ -220,12 +208,6 @@
     "ts": 1785181957471
    },
    {
-    "grupo": "J.R.A.D.O x DORGIA CONSTRUCOES LTDA",
-    "dia": "27/07",
-    "desde": "17:22",
-    "ts": 1785183731607
-   },
-   {
     "grupo": "A.J.C",
     "dia": "27/07",
     "desde": "18:08",
@@ -242,12 +224,6 @@
     "dia": "28/07",
     "desde": "10:06",
     "ts": 1785243977840
-   },
-   {
-    "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
-    "dia": "28/07",
-    "desde": "10:38",
-    "ts": 1785245890872
    },
    {
     "grupo": "E.C x ORBENK ADMINISTRACAO E SERVICOS LTDA",
@@ -271,10 +247,11 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 10,
+  "total": 11,
   "por_vendedor": {
    "Eduardo": 5,
-   "Tiago Bernardo": 5
+   "Tiago Bernardo": 5,
+   "Roseli": 1
   },
   "lista": [
    {
@@ -359,6 +336,15 @@
     "de_anuncio": true
    },
    {
+    "vendedor": "Roseli",
+    "cliente": "T",
+    "dia": "22/07",
+    "hora": "11:51",
+    "ts": 1784731898255,
+    "origem": "Anúncio: instagram.com/p/DYhcRFkDDhb/",
+    "de_anuncio": true
+   },
+   {
     "vendedor": "Eduardo",
     "cliente": "A.M",
     "dia": "22/07",
@@ -370,39 +356,28 @@
   ]
  },
  "agora": {
-  "fila": 178,
-  "abertos": 271,
-  "com_atendimento": 8,
-  "online": 7,
+  "fila": 180,
+  "abertos": 269,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 2005
+  "ausentes": 2,
+  "espera_media_s": 2022
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T15:51:20.696Z",
-  "min_sem_lead": 8560
+  "ultimo_lead_at": "2026-07-28T14:11:28.501Z",
+  "min_sem_lead": 35
  },
  "leads": [
   {
-   "nome": "Josse Oliveira",
-   "tel": "5575*****099",
-   "criado": "08:35",
+   "nome": "O71984734753",
+   "tel": "5571*****753",
+   "criado": "11:11",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
+   "espera_min": 0.5,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Claudia",
-   "tel": "5516*****965",
-   "criado": "10:48",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "criativo": "fb.me/9Pf9FTshS",
    "area": "Trabalhista"
   },
   {
@@ -439,14 +414,25 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "O71984734753",
-   "tel": "5571*****753",
-   "criado": "11:11",
+   "nome": "Josse Oliveira",
+   "tel": "5575*****099",
+   "criado": "08:35",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Claudia",
+   "tel": "5516*****965",
+   "criado": "10:48",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
   },
   {
