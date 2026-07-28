@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 10:45",
+ "gerado_em": "28/07/2026, 11:00",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
-  "no_sla": 7,
+  "total": 21,
+  "no_sla": 9,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 10,
-  "pct_sla": 88,
+  "pct_sla": 90,
   "mediana_geral": 0.4,
-  "leads_7d": 285,
-  "tickets_abertos": 265,
+  "leads_7d": 288,
+  "tickets_abertos": 267,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 17,
+   "leads": 19,
    "mediana_min": 0.4
   },
   {
@@ -27,8 +27,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 15,
-  "Direto/Indicacao": 3
+  "Anuncio": 17,
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -36,7 +36,11 @@
    "leads": 4
   },
   {
-   "url": "fb.me/3PeKuOOHR",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 3
+  },
+  {
+   "url": "fb.me/9Pf9FTshS",
    "leads": 2
   },
   {
@@ -44,7 +48,7 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "url": "fb.me/3PeKuOOHR",
    "leads": 2
   },
   {
@@ -56,16 +60,12 @@
    "leads": 1
   },
   {
-   "url": "fb.me/9Pf9FTshS",
-   "leads": 1
-  },
-  {
    "url": "fb.me/7Rf3h0gZO",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 10,
   "Nao identificada": 11
  },
  "sem_resposta_lista": [],
@@ -80,11 +80,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 151,
-  "turnos": 511,
-  "respondidos": 500,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "grupos_ativos": 152,
+  "turnos": 516,
+  "respondidos": 504,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
   "mediana_min": 13.2,
   "atendentes": [
    {
@@ -94,7 +94,7 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 97,
+    "respostas": 99,
     "mediana_min": 27.9
    },
    {
@@ -108,14 +108,14 @@
     "mediana_min": 1
    },
    {
+    "nome": "Eduardo",
+    "respostas": 31,
+    "mediana_min": 5.4
+   },
+   {
     "nome": "Luisa",
     "respostas": 31,
     "mediana_min": 1.8
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 29,
-    "mediana_min": 5.4
    },
    {
     "nome": "—",
@@ -132,20 +132,26 @@
    {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
     "dia": "28/07",
-    "desde": "10:42",
-    "ts": 1785246132821
+    "desde": "10:59",
+    "ts": 1785247170952
+   },
+   {
+    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
+    "dia": "28/07",
+    "desde": "10:56",
+    "ts": 1785247013890
+   },
+   {
+    "grupo": "E.C x ORBENK ADMINISTRACAO E SERVICOS LTDA",
+    "dia": "28/07",
+    "desde": "10:54",
+    "ts": 1785246856886
    },
    {
     "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
     "dia": "28/07",
     "desde": "10:38",
     "ts": 1785245890872
-   },
-   {
-    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
-    "dia": "28/07",
-    "desde": "10:20",
-    "ts": 1785244857806
    },
    {
     "grupo": "G.O.R x CAIXA ECONOMICA FEDERAL",
@@ -250,22 +256,28 @@
     "ts": 1785243977840
    },
    {
-    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
-    "dia": "28/07",
-    "desde": "10:20",
-    "ts": 1785244857806
-   },
-   {
     "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
     "dia": "28/07",
     "desde": "10:38",
     "ts": 1785245890872
    },
    {
+    "grupo": "E.C x ORBENK ADMINISTRACAO E SERVICOS LTDA",
+    "dia": "28/07",
+    "desde": "10:54",
+    "ts": 1785246856886
+   },
+   {
+    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
+    "dia": "28/07",
+    "desde": "10:56",
+    "ts": 1785247013890
+   },
+   {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
     "dia": "28/07",
-    "desde": "10:42",
-    "ts": 1785246132821
+    "desde": "10:59",
+    "ts": 1785247170952
    }
   ]
  },
@@ -362,27 +374,60 @@
  },
  "agora": {
   "fila": 180,
-  "abertos": 265,
-  "com_atendimento": 8,
-  "online": 5,
-  "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 2032
+  "abertos": 267,
+  "com_atendimento": 7,
+  "online": 7,
+  "offline": 1,
+  "ausentes": 1,
+  "espera_media_s": 2014
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T10:51:25.836Z",
-  "min_sem_lead": 174
+  "ultimo_lead_at": "2026-07-28T13:59:32.140Z",
+  "min_sem_lead": 1
  },
  "leads": [
   {
-   "nome": "Luuh",
-   "tel": "5511*****590",
-   "criado": "07:51",
+   "nome": "Ramon",
+   "tel": "5551*****032",
+   "criado": "10:59",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 140.5,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Claudia",
+   "tel": "5516*****965",
+   "criado": "10:48",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Emerson",
+   "tel": "5511*****411",
+   "criado": "09:45",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rodrigo Tadeu Sala",
+   "tel": "5511*****581",
+   "criado": "09:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/3PeKuOOHR",
    "area": "Trabalhista"
   },
   {
@@ -397,15 +442,26 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Emerson",
-   "tel": "5511*****411",
-   "criado": "09:45",
+   "nome": "Santylde",
+   "tel": "5598*****967",
+   "criado": "10:10",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.8,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Luuh",
+   "tel": "5511*****590",
+   "criado": "07:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 140.5,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
   },
   {
    "nome": "Josse Oliveira",
@@ -419,17 +475,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Santylde",
-   "tel": "5598*****967",
-   "criado": "10:10",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "🦋Célia 🦋",
    "tel": "5519*****095",
    "criado": "09:25",
@@ -438,17 +483,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Rodrigo Tadeu Sala",
-   "tel": "5511*****581",
-   "criado": "09:53",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/3PeKuOOHR",
    "area": "Trabalhista"
   },
   {
@@ -571,6 +605,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
+  },
+  {
+   "nome": "553181175033",
+   "tel": "5531*****033",
+   "criado": "10:50",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
