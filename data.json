@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 09:59",
+ "gerado_em": "28/07/2026, 10:14",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 5,
+  "total": 17,
+  "no_sla": 6,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 9,
-  "pct_sla": 83,
+  "fora_horario": 10,
+  "pct_sla": 86,
   "mediana_geral": 0.4,
-  "leads_7d": 283,
-  "tickets_abertos": 260,
+  "leads_7d": 284,
+  "tickets_abertos": 264,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 14,
+   "leads": 16,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 14,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/cMY7LLYxT",
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
+  "Trabalhista": 7,
   "Nao identificada": 10
  },
  "sem_resposta_lista": [],
@@ -81,20 +81,20 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 150,
-  "turnos": 495,
-  "respondidos": 486,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 13,
+  "turnos": 504,
+  "respondidos": 494,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 263,
-    "mediana_min": 22.9
+    "respostas": 268,
+    "mediana_min": 23.3
    },
    {
     "nome": "Nicolas",
-    "respostas": 95,
+    "respostas": 97,
     "mediana_min": 27.9
    },
    {
@@ -121,14 +121,25 @@
     "nome": "—",
     "respostas": 2,
     "mediana_min": 6.9
+   },
+   {
+    "nome": "Roseli",
+    "respostas": 1,
+    "mediana_min": 5916.7
    }
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "S.S.A x SDB COMERCIO DE ALIMENTOS LTDA",
+    "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
     "dia": "28/07",
-    "desde": "09:49",
-    "ts": 1785242971767
+    "desde": "10:14",
+    "ts": 1785244445912
+   },
+   {
+    "grupo": "G.O.R x CAIXA ECONOMICA FEDERAL",
+    "dia": "28/07",
+    "desde": "10:06",
+    "ts": 1785243977840
    },
    {
     "grupo": "J.R.A.D.O x DORGIA CONSTRUCOES LTDA",
@@ -233,10 +244,16 @@
     "ts": 1785240714854
    },
    {
-    "grupo": "S.S.A x SDB COMERCIO DE ALIMENTOS LTDA",
+    "grupo": "G.O.R x CAIXA ECONOMICA FEDERAL",
     "dia": "28/07",
-    "desde": "09:49",
-    "ts": 1785242971767
+    "desde": "10:06",
+    "ts": 1785243977840
+   },
+   {
+    "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
+    "dia": "28/07",
+    "desde": "10:14",
+    "ts": 1785244445912
    }
   ]
  },
@@ -332,29 +349,51 @@
   ]
  },
  "agora": {
-  "fila": 179,
-  "abertos": 260,
+  "fila": 180,
+  "abertos": 264,
   "com_atendimento": 8,
   "online": 6,
-  "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 2050
+  "offline": 2,
+  "ausentes": 1,
+  "espera_media_s": 2041
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T12:53:06.401Z",
-  "min_sem_lead": 6
+  "ultimo_lead_at": "2026-07-28T11:35:40.904Z",
+  "min_sem_lead": 99
  },
  "leads": [
   {
-   "nome": "Rodrigo Tadeu Sala",
-   "tel": "5511*****581",
-   "criado": "09:53",
+   "nome": "Josse Oliveira",
+   "tel": "5575*****099",
+   "criado": "08:35",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/3PeKuOOHR",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5511990108590",
+   "tel": "5511*****590",
+   "criado": "07:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 140.5,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Santylde",
+   "tel": "5598*****967",
+   "criado": "10:10",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
   },
   {
    "nome": "🦋Célia 🦋",
@@ -365,6 +404,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rodrigo Tadeu Sala",
+   "tel": "5511*****581",
+   "criado": "09:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/3PeKuOOHR",
    "area": "Trabalhista"
   },
   {
@@ -399,17 +449,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7vEH579Vm",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Josse Oliveira",
-   "tel": "5575*****099",
-   "criado": "08:35",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
   },
   {
    "nome": "doce",
@@ -509,17 +548,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
-  },
-  {
-   "nome": "5511990108590",
-   "tel": "5511*****590",
-   "criado": "07:51",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   }
  ]
 }
