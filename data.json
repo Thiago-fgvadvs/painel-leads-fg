@@ -1,34 +1,38 @@
 {
- "gerado_em": "28/07/2026, 07:26",
+ "gerado_em": "28/07/2026, 07:41",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
+  "total": 9,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 8,
+  "fora_horario": 9,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 275,
-  "tickets_abertos": 257,
+  "leads_7d": 276,
+  "tickets_abertos": 258,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 8,
+   "leads": 9,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "leads": 1
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -48,14 +52,14 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3,
-  "Nao identificada": 5
+  "Nao identificada": 6,
+  "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 148,
+  "grupos_ativos": 149,
   "turnos": 478,
   "respondidos": 470,
   "sem_resposta": 8,
@@ -286,19 +290,30 @@
   ]
  },
  "agora": {
-  "fila": 174,
-  "abertos": 257,
+  "fila": 175,
+  "abertos": 258,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2061
+  "espera_media_s": 2052
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 662107
+  "ultimo_lead_at": "2026-07-28T10:38:55.877Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "doce",
+   "tel": "5548*****689",
+   "criado": "07:38",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "554195990747",
    "tel": "5541*****747",
