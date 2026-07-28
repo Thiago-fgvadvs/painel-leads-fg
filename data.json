@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 11:16",
+ "gerado_em": "28/07/2026, 11:31",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
-  "no_sla": 10,
+  "total": 23,
+  "no_sla": 11,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 10,
-  "pct_sla": 91,
+  "pct_sla": 92,
   "mediana_geral": 0.4,
-  "leads_7d": 289,
-  "tickets_abertos": 268,
+  "leads_7d": 290,
+  "tickets_abertos": 271,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 4
+   "leads": 5
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
@@ -66,7 +66,7 @@
  ],
  "areas": {
   "Trabalhista": 11,
-  "Nao identificada": 11
+  "Nao identificada": 12
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -81,8 +81,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 152,
-  "turnos": 520,
-  "respondidos": 509,
+  "turnos": 522,
+  "respondidos": 511,
   "sem_resposta": 11,
   "sem_resposta_grupos": 11,
   "mediana_min": 13.2,
@@ -94,8 +94,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 100,
-    "mediana_min": 27.3
+    "respostas": 101,
+    "mediana_min": 26.7
    },
    {
     "nome": "Gabrielle",
@@ -103,14 +103,14 @@
     "mediana_min": 5.8
    },
    {
+    "nome": "Eduardo",
+    "respostas": 33,
+    "mediana_min": 5.9
+   },
+   {
     "nome": "Thauany",
     "respostas": 32,
     "mediana_min": 1
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 32,
-    "mediana_min": 5.7
    },
    {
     "nome": "Luisa",
@@ -130,10 +130,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
+    "grupo": "B.T.D.S x TORRE'S CELL CELULARES LTDA",
     "dia": "28/07",
-    "desde": "10:59",
-    "ts": 1785247170952
+    "desde": "11:31",
+    "ts": 1785249073879
    },
    {
     "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
@@ -262,10 +262,10 @@
     "ts": 1785247013890
    },
    {
-    "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
+    "grupo": "B.T.D.S x TORRE'S CELL CELULARES LTDA",
     "dia": "28/07",
-    "desde": "10:59",
-    "ts": 1785247170952
+    "desde": "11:31",
+    "ts": 1785249073879
    }
   ]
  },
@@ -370,19 +370,52 @@
   ]
  },
  "agora": {
-  "fila": 180,
-  "abertos": 268,
-  "com_atendimento": 7,
-  "online": 6,
+  "fila": 178,
+  "abertos": 271,
+  "com_atendimento": 8,
+  "online": 7,
   "offline": 2,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 2005
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 662336
+  "ultimo_lead_at": "2026-07-22T15:51:20.696Z",
+  "min_sem_lead": 8560
  },
  "leads": [
+  {
+   "nome": "Josse Oliveira",
+   "tel": "5575*****099",
+   "criado": "08:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Claudia",
+   "tel": "5516*****965",
+   "criado": "10:48",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Maria Eduarda",
+   "tel": "5541*****023",
+   "criado": "11:22",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Rodrigo Tadeu Sala",
    "tel": "5511*****581",
@@ -403,17 +436,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Claudia",
-   "tel": "5516*****965",
-   "criado": "10:48",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
   },
   {
@@ -469,17 +491,6 @@
    "status": "FORA_HORARIO",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Josse Oliveira",
-   "tel": "5575*****099",
-   "criado": "08:35",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
   },
   {
