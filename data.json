@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 19:57",
+ "gerado_em": "28/07/2026, 20:12",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 47,
+  "total": 48,
   "no_sla": 33,
   "fora_sla": 2,
-  "sem_resposta": 1,
-  "fora_horario": 10,
+  "sem_resposta": 0,
+  "fora_horario": 12,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 314,
-  "tickets_abertos": 247,
+  "leads_7d": 315,
+  "tickets_abertos": 248,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 42,
+   "leads": 44,
    "mediana_min": 0.4
   },
   {
@@ -37,7 +37,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 40,
+  "Anuncio": 41,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -62,11 +62,11 @@
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "url": "www.instagram.com/p/DYVTWI6DPYt/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYVTWI6DPYt/",
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
    "leads": 2
   },
   {
@@ -75,17 +75,10 @@
   }
  ],
  "areas": {
-  "Nao identificada": 26,
-  "Trabalhista": 21
+  "Trabalhista": 23,
+  "Nao identificada": 25
  },
- "sem_resposta_lista": [
-  {
-   "nome": "Antonio Lucas",
-   "tel": "5528*****380",
-   "criado": "19:57",
-   "area": "Nao identificada"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [
   {
    "nome": "553181175033",
@@ -204,15 +197,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Antonio Lucas",
-    "tel": "5528*****380",
-    "dia": "28/07",
-    "desde": "19:57",
-    "ts": 1785279422806
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "A.J.P.B",
@@ -396,29 +381,51 @@
   ]
  },
  "agora": {
-  "fila": 146,
-  "abertos": 247,
+  "fila": 147,
+  "abertos": 248,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2062
+  "espera_media_s": 2043
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T22:57:02.806Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-07-28T21:00:20.642Z",
+  "min_sem_lead": 132
  },
  "leads": [
+  {
+   "nome": "Luísa🤍",
+   "tel": "5547*****471",
+   "criado": "18:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Joel",
+   "tel": "5511*****554",
+   "criado": "20:08",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhbvOpjAeu/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Antonio Lucas",
    "tel": "5528*****380",
    "criado": "19:57",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "Rick ✌🏾",
@@ -430,17 +437,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/9qjfIyfnH",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Luísa🤍",
-   "tel": "5547*****471",
-   "criado": "18:00",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Maria Eduarda Mello",
