@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/07/2026, 14:50",
+ "gerado_em": "28/07/2026, 15:05",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 95,
   "mediana_geral": 0.4,
   "leads_7d": 300,
-  "tickets_abertos": 278,
+  "tickets_abertos": 280,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -75,8 +75,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 16,
-  "Nao identificada": 17
+  "Nao identificada": 17,
+  "Trabalhista": 16
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -90,11 +90,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 161,
-  "turnos": 545,
+  "grupos_ativos": 163,
+  "turnos": 547,
   "respondidos": 537,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 13.1,
   "atendentes": [
    {
@@ -140,6 +140,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "Z.D.F.M.M.D.A.C",
+    "dia": "28/07",
+    "desde": "15:02",
+    "ts": 1785261748163
+   },
+   {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
     "dia": "28/07",
     "desde": "14:49",
@@ -150,6 +156,12 @@
     "dia": "22/07",
     "desde": "16:37",
     "ts": 1784749044993
+   },
+   {
+    "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
+    "dia": "28/07",
+    "desde": "12:44",
+    "ts": 1785253480982
    },
    {
     "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
@@ -236,10 +248,22 @@
     "ts": 1785251456941
    },
    {
+    "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
+    "dia": "28/07",
+    "desde": "12:44",
+    "ts": 1785253480982
+   },
+   {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
     "dia": "28/07",
     "desde": "14:49",
     "ts": 1785260981146
+   },
+   {
+    "grupo": "Z.D.F.M.M.D.A.C",
+    "dia": "28/07",
+    "desde": "15:02",
+    "ts": 1785261748163
    }
   ]
  },
@@ -372,30 +396,19 @@
   ]
  },
  "agora": {
-  "fila": 186,
-  "abertos": 278,
+  "fila": 185,
+  "abertos": 280,
   "com_atendimento": 7,
-  "online": 6,
-  "offline": 1,
+  "online": 5,
+  "offline": 2,
   "ausentes": 2,
   "espera_media_s": 1889
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T03:11:37.785Z",
-  "min_sem_lead": 879
+  "ultimo_lead_at": "2026-02-14T06:10:14.346Z",
+  "min_sem_lead": 236875
  },
  "leads": [
-  {
-   "nome": "ㅤ",
-   "tel": "5515*****923",
-   "criado": "00:11",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
   {
    "nome": "HEBERT INDICACAO",
    "tel": "5511*****224",
@@ -408,14 +421,14 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "🙏",
-   "tel": "5586*****451",
-   "criado": "14:26",
+   "nome": "ㅤ",
+   "tel": "5515*****923",
+   "criado": "00:11",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -428,6 +441,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "🙏",
+   "tel": "5586*****451",
+   "criado": "14:26",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaVuNbaM1sG/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Rick ✌🏾",
