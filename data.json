@@ -1,17 +1,17 @@
 {
- "gerado_em": "28/07/2026, 08:43",
+ "gerado_em": "28/07/2026, 08:58",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
+  "total": 13,
   "no_sla": 2,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 9,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 279,
-  "tickets_abertos": 261,
+  "leads_7d": 280,
+  "tickets_abertos": 262,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,17 +22,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 1
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 2
   },
   {
    "url": "fb.me/7vEH579Vm",
@@ -60,18 +60,25 @@
   }
  ],
  "areas": {
-  "Nao identificada": 9,
+  "Nao identificada": 10,
   "Trabalhista": 3
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Junior  Franco",
+   "tel": "5599*****447",
+   "criado": "08:46",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 150,
   "turnos": 478,
-  "respondidos": 470,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "respondidos": 471,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 11.9,
   "atendentes": [
    {
@@ -101,8 +108,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 27,
-    "mediana_min": 5.4
+    "respostas": 28,
+    "mediana_min": 5.7
    },
    {
     "nome": "—",
@@ -111,12 +118,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "P.J.T.D.S x HAPVIDA",
-    "dia": "27/07",
-    "desde": "17:24",
-    "ts": 1785183874490
-   },
    {
     "grupo": "B.T.D.S x TORRE'S CELL CELULARES LTDA",
     "dia": "27/07",
@@ -163,7 +164,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Junior  Franco",
+    "tel": "5599*****447",
+    "dia": "28/07",
+    "desde": "08:46",
+    "ts": 1785239172576
+   }
+  ],
   "grupos": [
    {
     "grupo": "A.J.P.B",
@@ -182,12 +191,6 @@
     "dia": "27/07",
     "desde": "16:52",
     "ts": 1785181957471
-   },
-   {
-    "grupo": "P.J.T.D.S x HAPVIDA",
-    "dia": "27/07",
-    "desde": "17:24",
-    "ts": 1785183874490
    },
    {
     "grupo": "J.D.C.G x TRONADOR CAFETERIA LTDA",
@@ -298,30 +301,19 @@
   ]
  },
  "agora": {
-  "fila": 178,
-  "abertos": 261,
+  "fila": 179,
+  "abertos": 262,
   "com_atendimento": 7,
-  "online": 0,
-  "offline": 9,
+  "online": 3,
+  "offline": 6,
   "ausentes": 0,
   "espera_media_s": 2026
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T11:35:40.904Z",
-  "min_sem_lead": 7
+  "ultimo_lead_at": "2026-07-28T11:28:09.093Z",
+  "min_sem_lead": 30
  },
  "leads": [
-  {
-   "nome": "557588295099",
-   "tel": "5575*****099",
-   "criado": "08:35",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Meire",
    "tel": "5516*****758",
@@ -331,6 +323,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7vEH579Vm",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Junior  Franco",
+   "tel": "5599*****447",
+   "criado": "08:46",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "557588295099",
+   "tel": "5575*****099",
+   "criado": "08:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
   },
   {
