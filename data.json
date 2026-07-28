@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 17:24",
+ "gerado_em": "28/07/2026, 17:39",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 41,
-  "no_sla": 28,
+  "total": 43,
+  "no_sla": 30,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 10,
-  "pct_sla": 93,
+  "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 308,
-  "tickets_abertos": 274,
+  "leads_7d": 310,
+  "tickets_abertos": 257,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 37,
+   "leads": 39,
    "mediana_min": 0.4
   },
   {
@@ -37,17 +37,21 @@
   }
  ],
  "origem": {
-  "Anuncio": 34,
+  "Anuncio": 36,
   "Direto/Indicacao": 7
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 8
+   "leads": 9
   },
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 5
+  },
+  {
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 4
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -58,24 +62,20 @@
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 3
-  },
-  {
    "url": "fb.me/3PeKuOOHR",
    "leads": 2
   },
   {
-   "url": "fb.me/7vEH579Vm",
+   "url": "fb.me/9qjfIyfnH",
    "leads": 1
   },
   {
-   "url": "fb.me/9qjfIyfnH",
+   "url": "fb.me/7vEH579Vm",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 21,
+  "Nao identificada": 23,
   "Trabalhista": 20
  },
  "sem_resposta_lista": [],
@@ -98,16 +98,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 167,
-  "turnos": 568,
-  "respondidos": 561,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 571,
+  "respondidos": 565,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 13.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 302,
-    "mediana_min": 23
+    "respostas": 305,
+    "mediana_min": 22.9
    },
    {
     "nome": "Nicolas",
@@ -131,7 +131,7 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 32,
+    "respostas": 33,
     "mediana_min": 1
    },
    {
@@ -156,12 +156,6 @@
     "dia": "28/07",
     "desde": "17:01",
     "ts": 1785268871176
-   },
-   {
-    "grupo": "G.D.S.B x VIVA SERVICOS LTDA",
-    "dia": "28/07",
-    "desde": "11:14",
-    "ts": 1785248072913
    },
    {
     "grupo": "M.F.F x INSS",
@@ -222,12 +216,6 @@
     "dia": "27/07",
     "desde": "18:08",
     "ts": 1785186513618
-   },
-   {
-    "grupo": "G.D.S.B x VIVA SERVICOS LTDA",
-    "dia": "28/07",
-    "desde": "11:14",
-    "ts": 1785248072913
    },
    {
     "grupo": "M.F.F x INSS",
@@ -381,19 +369,30 @@
   ]
  },
  "agora": {
-  "fila": 175,
-  "abertos": 274,
-  "com_atendimento": 7,
-  "online": 6,
-  "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 1900
+  "fila": 160,
+  "abertos": 257,
+  "com_atendimento": 6,
+  "online": 4,
+  "offline": 4,
+  "ausentes": 1,
+  "espera_media_s": 1944
  },
  "captacao": {
-  "ultimo_lead_at": "2026-01-14T15:54:13.785Z",
-  "min_sem_lead": 281070
+  "ultimo_lead_at": "2026-07-28T15:59:49.229Z",
+  "min_sem_lead": 280
  },
  "leads": [
+  {
+   "nome": "Rick ✌🏾",
+   "tel": "5511*****480",
+   "criado": "12:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9qjfIyfnH",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Meire",
    "tel": "5516*****758",
@@ -406,14 +405,25 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Rick ✌🏾",
-   "tel": "5511*****480",
-   "criado": "12:59",
+   "nome": "Maria Eduarda Mello",
+   "tel": "5562*****595",
+   "criado": "17:35",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/9qjfIyfnH",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "554888236550",
+   "tel": "5548*****550",
+   "criado": "17:27",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
   },
   {
