@@ -1,14 +1,14 @@
 {
- "gerado_em": "28/07/2026, 09:28",
+ "gerado_em": "28/07/2026, 09:44",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 14,
   "no_sla": 3,
-  "fora_sla": 0,
-  "sem_resposta": 1,
+  "fora_sla": 1,
+  "sem_resposta": 0,
   "fora_horario": 9,
-  "pct_sla": 100,
+  "pct_sla": 75,
   "mediana_geral": 0.4,
   "leads_7d": 281,
   "tickets_abertos": 267,
@@ -19,6 +19,11 @@
    "nome": "Fernanda Gehm - Administradora",
    "leads": 12,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 50.6
   }
  ],
  "origem": {
@@ -60,36 +65,37 @@
   }
  ],
  "areas": {
-  "Nao identificada": 10,
-  "Trabalhista": 4
+  "Trabalhista": 5,
+  "Nao identificada": 9
  },
- "sem_resposta_lista": [
+ "sem_resposta_lista": [],
+ "fora_sla_lista": [
   {
    "nome": "Junior  Franco",
    "tel": "5599*****447",
    "criado": "08:46",
-   "area": "Nao identificada"
+   "espera_min": 50.6,
+   "atendente": "Tiago Bernardo"
   }
  ],
- "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 150,
-  "turnos": 487,
-  "respondidos": 477,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "turnos": 491,
+  "respondidos": 480,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 12.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 258,
-    "mediana_min": 20.4
+    "respostas": 259,
+    "mediana_min": 20.7
    },
    {
     "nome": "Nicolas",
-    "respostas": 93,
-    "mediana_min": 27.9
+    "respostas": 94,
+    "mediana_min": 27.3
    },
    {
     "nome": "Gabrielle",
@@ -103,7 +109,7 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 29,
+    "respostas": 30,
     "mediana_min": 1.8
    },
    {
@@ -119,10 +125,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "S.S.A x SDB COMERCIO DE ALIMENTOS LTDA",
-    "dia": "28/07",
-    "desde": "09:28",
-    "ts": 1785241698748
+    "grupo": "J.R.A.D.O x DORGIA CONSTRUCOES LTDA",
+    "dia": "27/07",
+    "desde": "17:22",
+    "ts": 1785183731607
    },
    {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
@@ -135,6 +141,12 @@
     "dia": "28/07",
     "desde": "09:08",
     "ts": 1785240490849
+   },
+   {
+    "grupo": "B.K.D.S x HOSPLOG LOGISTICA LTDA",
+    "dia": "28/07",
+    "desde": "08:40",
+    "ts": 1785238832790
    },
    {
     "grupo": "A.F.G",
@@ -182,15 +194,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Junior  Franco",
-    "tel": "5599*****447",
-    "dia": "28/07",
-    "desde": "08:46",
-    "ts": 1785239172576
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "A.J.P.B",
@@ -209,6 +213,12 @@
     "dia": "27/07",
     "desde": "16:52",
     "ts": 1785181957471
+   },
+   {
+    "grupo": "J.R.A.D.O x DORGIA CONSTRUCOES LTDA",
+    "dia": "27/07",
+    "desde": "17:22",
+    "ts": 1785183731607
    },
    {
     "grupo": "J.D.C.G x TRONADOR CAFETERIA LTDA",
@@ -235,6 +245,12 @@
     "ts": 1785189354643
    },
    {
+    "grupo": "B.K.D.S x HOSPLOG LOGISTICA LTDA",
+    "dia": "28/07",
+    "desde": "08:40",
+    "ts": 1785238832790
+   },
+   {
     "grupo": "P.J.T.D.S x HAPVIDA",
     "dia": "28/07",
     "desde": "09:08",
@@ -245,12 +261,6 @@
     "dia": "28/07",
     "desde": "09:11",
     "ts": 1785240714854
-   },
-   {
-    "grupo": "S.S.A x SDB COMERCIO DE ALIMENTOS LTDA",
-    "dia": "28/07",
-    "desde": "09:28",
-    "ts": 1785241698748
    }
   ]
  },
@@ -337,17 +347,17 @@
   ]
  },
  "agora": {
-  "fila": 180,
+  "fila": 178,
   "abertos": 267,
   "com_atendimento": 8,
-  "online": 4,
+  "online": 5,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 2017
+  "ausentes": 1,
+  "espera_media_s": 2022
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-28T12:25:21.899Z",
-  "min_sem_lead": 3
+  "min_sem_lead": 19
  },
  "leads": [
   {
@@ -357,6 +367,17 @@
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Junior  Franco",
+   "tel": "5599*****447",
+   "criado": "08:46",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 50.6,
+   "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
@@ -382,17 +403,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Junior  Franco",
-   "tel": "5599*****447",
-   "criado": "08:46",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
   },
   {
    "nome": "doce",
