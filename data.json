@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/07/2026, 13:18",
+ "gerado_em": "28/07/2026, 13:33",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 95,
   "mediana_geral": 0.4,
   "leads_7d": 298,
-  "tickets_abertos": 272,
+  "tickets_abertos": 273,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -57,11 +57,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYVTWI6DPYt/",
+   "url": "fb.me/9qjfIyfnH",
    "leads": 1
   },
   {
-   "url": "fb.me/9qjfIyfnH",
+   "url": "www.instagram.com/p/DYVTWI6DPYt/",
    "leads": 1
   },
   {
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 15,
-  "Nao identificada": 16
+  "Nao identificada": 16,
+  "Trabalhista": 15
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -85,11 +85,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 159,
-  "turnos": 537,
-  "respondidos": 531,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "grupos_ativos": 160,
+  "turnos": 540,
+  "respondidos": 533,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 13,
   "atendentes": [
    {
@@ -99,7 +99,7 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 104,
+    "respostas": 106,
     "mediana_min": 26.5
    },
    {
@@ -134,6 +134,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "dia": "28/07",
+    "desde": "13:10",
+    "ts": 1785255028089
+   },
    {
     "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
     "dia": "28/07",
@@ -211,6 +217,12 @@
     "dia": "28/07",
     "desde": "12:10",
     "ts": 1785251456941
+   },
+   {
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "dia": "28/07",
+    "desde": "13:10",
+    "ts": 1785255028089
    }
   ]
  },
@@ -344,28 +356,39 @@
  },
  "agora": {
   "fila": 186,
-  "abertos": 272,
-  "com_atendimento": 6,
-  "online": 3,
+  "abertos": 273,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 2,
-  "ausentes": 4,
+  "ausentes": 2,
   "espera_media_s": 1912
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T15:35:48.060Z",
-  "min_sem_lead": 43
+  "ultimo_lead_at": "2026-07-27T12:08:31.762Z",
+  "min_sem_lead": 1705
  },
  "leads": [
   {
-   "nome": "Cris",
-   "tel": "5573*****266",
-   "criado": "12:35",
+   "nome": "HEBERT INDICACAO",
+   "tel": "5511*****224",
+   "criado": "13:09",
+   "atendente": "Eduardo",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Rick ✌🏾",
+   "tel": "5511*****480",
+   "criado": "12:59",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
-   "area": "Trabalhista"
+   "criativo": "fb.me/9qjfIyfnH",
+   "area": "Nao identificada"
   },
   {
    "nome": "Luiz Fernando",
@@ -379,15 +402,15 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "HEBERT INDICACAO",
-   "tel": "5511*****224",
-   "criado": "13:09",
-   "atendente": "Eduardo",
+   "nome": "Cris",
+   "tel": "5573*****266",
+   "criado": "12:35",
+   "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
+   "area": "Trabalhista"
   },
   {
    "nome": "machadolisi63",
@@ -399,17 +422,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Rick ✌🏾",
-   "tel": "5511*****480",
-   "criado": "12:59",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9qjfIyfnH",
-   "area": "Nao identificada"
   },
   {
    "nome": "Felipe",
