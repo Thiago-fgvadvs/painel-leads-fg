@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 18:25",
+ "gerado_em": "28/07/2026, 18:41",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 45,
-  "no_sla": 32,
+  "total": 46,
+  "no_sla": 33,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 10,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 312,
-  "tickets_abertos": 243,
+  "leads_7d": 313,
+  "tickets_abertos": 244,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 41,
+   "leads": 42,
    "mediana_min": 0.4
   },
   {
@@ -37,7 +37,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 38,
+  "Anuncio": 39,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -47,7 +47,7 @@
   },
   {
    "url": "fb.me/cMY7LLYxT",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -76,7 +76,7 @@
  ],
  "areas": {
   "Nao identificada": 25,
-  "Trabalhista": 20
+  "Trabalhista": 21
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -382,18 +382,51 @@
  },
  "agora": {
   "fila": 143,
-  "abertos": 243,
+  "abertos": 244,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 6,
+  "online": 1,
+  "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 2101
+  "espera_media_s": 2082
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T00:07:15.937Z",
-  "min_sem_lead": 5598
+  "ultimo_lead_at": "2026-07-28T21:31:21.614Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "Viviane Monteiro",
+   "tel": "5535*****024",
+   "criado": "18:31",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Rick ✌🏾",
+   "tel": "5511*****480",
+   "criado": "12:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9qjfIyfnH",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Luísa🤍",
+   "tel": "5547*****471",
+   "criado": "18:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Maria Eduarda Mello",
    "tel": "5562*****595",
@@ -428,17 +461,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Rick ✌🏾",
-   "tel": "5511*****480",
-   "criado": "12:59",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9qjfIyfnH",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "554888236550",
    "tel": "5548*****550",
    "criado": "17:27",
@@ -447,17 +469,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Luísa🤍",
-   "tel": "5547*****471",
-   "criado": "18:00",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
    "area": "Nao identificada"
   },
   {
