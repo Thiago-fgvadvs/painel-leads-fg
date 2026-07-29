@@ -1,23 +1,23 @@
 {
- "gerado_em": "29/07/2026, 18:18",
+ "gerado_em": "29/07/2026, 18:34",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 31,
-  "no_sla": 18,
+  "total": 33,
+  "no_sla": 20,
   "fora_sla": 8,
   "sem_resposta": 0,
   "fora_horario": 2,
-  "pct_sla": 69,
+  "pct_sla": 71,
   "mediana_geral": 0.5,
-  "leads_7d": 304,
-  "tickets_abertos": 267,
+  "leads_7d": 306,
+  "tickets_abertos": 269,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 15,
+   "leads": 17,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 24,
+  "Anuncio": 26,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -43,6 +43,10 @@
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/cMY7LLYxT",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
@@ -57,22 +61,18 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DbYz_apsQ2D/",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DYVTWI6DPYt/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/cMY7LLYxT",
    "leads": 1
   }
  ],
  "areas": {
-  "Previdenciario": 1,
-  "Trabalhista": 11,
-  "Nao identificada": 19
+  "Trabalhista": 12,
+  "Nao identificada": 20,
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -266,7 +266,57 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "vanda",
+    "tel": "5521*****994",
+    "dia": "29/07",
+    "desde": "09:09",
+    "ts": 1785326982227
+   },
+   {
+    "nome": "Januário 🇧🇷",
+    "tel": "5588*****288",
+    "dia": "29/07",
+    "desde": "09:09",
+    "ts": 1785326982234
+   },
+   {
+    "nome": "B ✨",
+    "tel": "5511*****845",
+    "dia": "29/07",
+    "desde": "13:34",
+    "ts": 1785342855036
+   },
+   {
+    "nome": "Marta Bezerra",
+    "tel": "5571*****192",
+    "dia": "29/07",
+    "desde": "13:53",
+    "ts": 1785343997697
+   },
+   {
+    "nome": "Princípios",
+    "tel": "5567*****778",
+    "dia": "29/07",
+    "desde": "14:00",
+    "ts": 1785344429076
+   },
+   {
+    "nome": "fatima.basilo",
+    "tel": "5543*****216",
+    "dia": "29/07",
+    "desde": "14:14",
+    "ts": 1785345258837
+   },
+   {
+    "nome": "🦋",
+    "tel": "5538*****722",
+    "dia": "29/07",
+    "desde": "15:10",
+    "ts": 1785348625497
+   }
+  ],
   "grupos": [
    {
     "grupo": "A.J.P.B",
@@ -485,19 +535,41 @@
   ]
  },
  "agora": {
-  "fila": 165,
-  "abertos": 267,
+  "fila": 167,
+  "abertos": 269,
   "com_atendimento": 8,
   "online": 2,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2330
+  "espera_media_s": 2310
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T02:14:27.555Z",
-  "min_sem_lead": 11224
+  "ultimo_lead_at": "2026-07-29T21:28:13.864Z",
+  "min_sem_lead": 6
  },
  "leads": [
+  {
+   "nome": "Tati",
+   "tel": "5511*****987",
+   "criado": "18:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "priscila zampronio",
+   "tel": "5551*****869",
+   "criado": "18:26",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
   {
    "nome": "5524988354593",
    "tel": "5524*****593",
@@ -565,7 +637,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511949159190",
+   "nome": "É A Chelly Né Vida",
    "tel": "5511*****190",
    "criado": "17:15",
    "atendente": "Fernanda Gehm - Administradora",
