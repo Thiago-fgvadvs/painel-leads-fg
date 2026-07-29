@@ -1,17 +1,17 @@
 {
- "gerado_em": "29/07/2026, 10:18",
+ "gerado_em": "29/07/2026, 10:33",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 0,
+  "total": 11,
+  "no_sla": 1,
   "fora_sla": 2,
   "sem_resposta": 4,
   "fora_horario": 2,
-  "pct_sla": 0,
-  "mediana_geral": 26.9,
-  "leads_7d": 283,
-  "tickets_abertos": 267,
+  "pct_sla": 33,
+  "mediana_geral": 15.8,
+  "leads_7d": 284,
+  "tickets_abertos": 260,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,10 +19,15 @@
    "nome": "Eduardo",
    "leads": 4,
    "mediana_min": 26.9
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 9.1
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -35,19 +40,23 @@
    "leads": 2
   },
   {
+   "url": "fb.me/cMY7LLYxT",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 5,
+  "Nao identificada": 6,
   "Trabalhista": 5
  },
  "sem_resposta_lista": [
   {
-   "nome": "5521974282069",
-   "tel": "5521*****069",
-   "criado": "10:11",
+   "nome": "553598787357",
+   "tel": "5535*****357",
+   "criado": "10:31",
    "area": "Nao identificada"
   },
   {
@@ -88,16 +97,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 149,
-  "turnos": 456,
-  "respondidos": 447,
+  "turnos": 466,
+  "respondidos": 457,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
-  "mediana_min": 13.8,
+  "mediana_min": 14,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 252,
-    "mediana_min": 24
+    "respostas": 261,
+    "mediana_min": 25.3
    },
    {
     "nome": "Nicolas",
@@ -106,8 +115,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 46,
-    "mediana_min": 6
+    "respostas": 47,
+    "mediana_min": 6.1
    },
    {
     "nome": "Gabrielle",
@@ -137,16 +146,28 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.F.G",
-    "dia": "29/07",
-    "desde": "10:02",
-    "ts": 1785330143067
+    "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
+    "dia": "28/07",
+    "desde": "17:01",
+    "ts": 1785268871176
    },
    {
     "grupo": "W.M.D.O x SENDAS",
     "dia": "29/07",
+    "desde": "10:27",
+    "ts": 1785331679073
+   },
+   {
+    "grupo": "T.B x DROGARIA SAO PAULO S A",
+    "dia": "29/07",
+    "desde": "09:34",
+    "ts": 1785328489030
+   },
+   {
+    "grupo": "A.F.G",
+    "dia": "29/07",
     "desde": "10:02",
-    "ts": 1785330165055
+    "ts": 1785330143067
    },
    {
     "grupo": "G.F.D x BANCO DO BRASIL S.A",
@@ -159,18 +180,6 @@
     "dia": "29/07",
     "desde": "08:46",
     "ts": 1785325574027
-   },
-   {
-    "grupo": "B.V.S.D.S x YOU CO MARKETING LTDA",
-    "dia": "28/07",
-    "desde": "22:06",
-    "ts": 1785287193018
-   },
-   {
-    "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
-    "dia": "28/07",
-    "desde": "17:01",
-    "ts": 1785268871176
    },
    {
     "grupo": "M.F.F x INSS",
@@ -217,11 +226,11 @@
     "ts": 1785326982244
    },
    {
-    "nome": "5521974282069",
-    "tel": "5521*****069",
+    "nome": "553598787357",
+    "tel": "5535*****357",
     "dia": "29/07",
-    "desde": "10:11",
-    "ts": 1785330706885
+    "desde": "10:31",
+    "ts": 1785331890724
    }
   ],
   "grupos": [
@@ -256,16 +265,16 @@
     "ts": 1785268871176
    },
    {
-    "grupo": "B.V.S.D.S x YOU CO MARKETING LTDA",
-    "dia": "28/07",
-    "desde": "22:06",
-    "ts": 1785287193018
-   },
-   {
     "grupo": "S.C x Itau",
     "dia": "29/07",
     "desde": "08:46",
     "ts": 1785325574027
+   },
+   {
+    "grupo": "T.B x DROGARIA SAO PAULO S A",
+    "dia": "29/07",
+    "desde": "09:34",
+    "ts": 1785328489030
    },
    {
     "grupo": "A.F.G",
@@ -276,8 +285,8 @@
    {
     "grupo": "W.M.D.O x SENDAS",
     "dia": "29/07",
-    "desde": "10:02",
-    "ts": 1785330165055
+    "desde": "10:27",
+    "ts": 1785331679073
    }
   ]
  },
@@ -409,26 +418,37 @@
   ]
  },
  "agora": {
-  "fila": 156,
-  "abertos": 267,
+  "fila": 155,
+  "abertos": 260,
   "com_atendimento": 7,
   "online": 5,
-  "offline": 4,
-  "ausentes": 0,
-  "espera_media_s": 2122
+  "offline": 3,
+  "ausentes": 1,
+  "espera_media_s": 2193
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T21:00:20.642Z",
-  "min_sem_lead": 978
+  "ultimo_lead_at": "2026-07-27T16:56:07.951Z",
+  "min_sem_lead": 2678
  },
  "leads": [
   {
-   "nome": "5521974282069",
-   "tel": "5521*****069",
-   "criado": "10:11",
+   "nome": "553598787357",
+   "tel": "5535*****357",
+   "criado": "10:31",
    "atendente": "—",
    "espera_min": null,
    "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "☀️",
+   "tel": "5521*****069",
+   "criado": "10:11",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 9.1,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
