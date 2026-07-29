@@ -1,24 +1,24 @@
 {
- "gerado_em": "29/07/2026, 10:33",
+ "gerado_em": "29/07/2026, 10:49",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 11,
-  "no_sla": 1,
+  "no_sla": 2,
   "fora_sla": 2,
-  "sem_resposta": 4,
+  "sem_resposta": 3,
   "fora_horario": 2,
-  "pct_sla": 33,
-  "mediana_geral": 15.8,
+  "pct_sla": 50,
+  "mediana_geral": 14.8,
   "leads_7d": 284,
-  "tickets_abertos": 260,
+  "tickets_abertos": 250,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 4,
-   "mediana_min": 26.9
+   "leads": 5,
+   "mediana_min": 15.8
   },
   {
    "nome": "Tiago Bernardo",
@@ -53,12 +53,6 @@
   "Trabalhista": 5
  },
  "sem_resposta_lista": [
-  {
-   "nome": "553598787357",
-   "tel": "5535*****357",
-   "criado": "10:31",
-   "area": "Nao identificada"
-  },
   {
    "nome": "5521969830994",
    "tel": "5521*****994",
@@ -97,16 +91,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 149,
-  "turnos": 466,
-  "respondidos": 457,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "turnos": 472,
+  "respondidos": 464,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 14,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 261,
-    "mediana_min": 25.3
+    "respostas": 266,
+    "mediana_min": 24
    },
    {
     "nome": "Nicolas",
@@ -115,8 +109,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 47,
-    "mediana_min": 6.1
+    "respostas": 48,
+    "mediana_min": 6.2
    },
    {
     "nome": "Gabrielle",
@@ -135,8 +129,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 1,
-    "mediana_min": 329.7
+    "respostas": 2,
+    "mediana_min": 904.7
    },
    {
     "nome": "Roseli",
@@ -146,28 +140,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
-    "dia": "28/07",
-    "desde": "17:01",
-    "ts": 1785268871176
-   },
-   {
     "grupo": "W.M.D.O x SENDAS",
     "dia": "29/07",
     "desde": "10:27",
     "ts": 1785331679073
    },
    {
-    "grupo": "T.B x DROGARIA SAO PAULO S A",
-    "dia": "29/07",
-    "desde": "09:34",
-    "ts": 1785328489030
-   },
-   {
     "grupo": "A.F.G",
     "dia": "29/07",
     "desde": "10:02",
     "ts": 1785330143067
+   },
+   {
+    "grupo": "E.C.C.G.S.F",
+    "dia": "28/07",
+    "desde": "13:48",
+    "ts": 1785257333112
    },
    {
     "grupo": "G.F.D x BANCO DO BRASIL S.A",
@@ -224,13 +212,6 @@
     "dia": "29/07",
     "desde": "09:09",
     "ts": 1785326982244
-   },
-   {
-    "nome": "553598787357",
-    "tel": "5535*****357",
-    "dia": "29/07",
-    "desde": "10:31",
-    "ts": 1785331890724
    }
   ],
   "grupos": [
@@ -253,28 +234,22 @@
     "ts": 1785248463924
    },
    {
+    "grupo": "E.C.C.G.S.F",
+    "dia": "28/07",
+    "desde": "13:48",
+    "ts": 1785257333112
+   },
+   {
     "grupo": "M.F.F x INSS",
     "dia": "28/07",
     "desde": "15:36",
     "ts": 1785263806095
    },
    {
-    "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
-    "dia": "28/07",
-    "desde": "17:01",
-    "ts": 1785268871176
-   },
-   {
     "grupo": "S.C x Itau",
     "dia": "29/07",
     "desde": "08:46",
     "ts": 1785325574027
-   },
-   {
-    "grupo": "T.B x DROGARIA SAO PAULO S A",
-    "dia": "29/07",
-    "desde": "09:34",
-    "ts": 1785328489030
    },
    {
     "grupo": "A.F.G",
@@ -419,38 +394,27 @@
  },
  "agora": {
   "fila": 155,
-  "abertos": 260,
+  "abertos": 250,
   "com_atendimento": 7,
   "online": 5,
-  "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 2193
+  "offline": 2,
+  "ausentes": 2,
+  "espera_media_s": 2280
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T16:56:07.951Z",
-  "min_sem_lead": 2678
+  "ultimo_lead_at": "2026-07-29T13:31:30.724Z",
+  "min_sem_lead": 17
  },
  "leads": [
   {
-   "nome": "553598787357",
+   "nome": "Vinícius Cazarini",
    "tel": "5535*****357",
    "criado": "10:31",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "☀️",
-   "tel": "5521*****069",
-   "criado": "10:11",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 9.1,
+   "atendente": "Eduardo",
+   "espera_min": 13.8,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "criativo": "fb.me/cMY7LLYxT",
    "area": "Nao identificada"
   },
   {
@@ -463,6 +427,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "☀️",
+   "tel": "5521*****069",
+   "criado": "10:11",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 9.1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
   },
   {
    "nome": "Danielle Alves🇾🇪",
