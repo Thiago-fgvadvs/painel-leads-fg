@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/07/2026, 11:34",
+ "gerado_em": "29/07/2026, 11:50",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -49,15 +49,15 @@
   }
  ],
  "areas": {
-  "Nao identificada": 7,
-  "Trabalhista": 5
+  "Trabalhista": 6,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [
   {
    "nome": "Santos",
    "tel": "5599*****770",
    "criado": "11:34",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "5521969830994",
@@ -99,15 +99,15 @@
   "dias": 7,
   "grupos_ativos": 150,
   "turnos": 490,
-  "respondidos": 480,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "respondidos": 481,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 13.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 280,
-    "mediana_min": 22.9
+    "respostas": 281,
+    "mediana_min": 23
    },
    {
     "nome": "Nicolas",
@@ -189,12 +189,6 @@
     "ts": 1785263806095
    },
    {
-    "grupo": "F.D.A.F",
-    "dia": "28/07",
-    "desde": "13:04",
-    "ts": 1785254662077
-   },
-   {
     "grupo": "A.J.C",
     "dia": "27/07",
     "desde": "18:08",
@@ -245,12 +239,6 @@
     "dia": "27/07",
     "desde": "18:08",
     "ts": 1785186513618
-   },
-   {
-    "grupo": "F.D.A.F",
-    "dia": "28/07",
-    "desde": "13:04",
-    "ts": 1785254662077
    },
    {
     "grupo": "E.C.C.G.S.F",
@@ -427,27 +415,16 @@
   "fila": 154,
   "abertos": 250,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 5,
+  "online": 5,
+  "offline": 4,
   "ausentes": 0,
   "espera_media_s": 2313
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-29T14:34:03.296Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-07-28T21:00:20.642Z",
+  "min_sem_lead": 1070
  },
  "leads": [
-  {
-   "nome": "Santos",
-   "tel": "5599*****770",
-   "criado": "11:34",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Kathlen Gonçalves",
    "tel": "5551*****198",
@@ -455,6 +432,17 @@
    "atendente": "Eduardo",
    "espera_min": 38,
    "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Santos",
+   "tel": "5599*****770",
+   "criado": "11:34",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
