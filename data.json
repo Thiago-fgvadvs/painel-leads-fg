@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/07/2026, 13:06",
+ "gerado_em": "29/07/2026, 13:21",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 38,
   "mediana_geral": 24.9,
   "leads_7d": 288,
-  "tickets_abertos": 255,
+  "tickets_abertos": 256,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -112,10 +112,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 151,
-  "turnos": 491,
+  "turnos": 492,
   "respondidos": 482,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 13.8,
   "atendentes": [
    {
@@ -161,6 +161,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
+    "dia": "29/07",
+    "desde": "11:11",
+    "ts": 1785334293097
+   },
+   {
     "grupo": "A.J.C",
     "dia": "27/07",
     "desde": "18:08",
@@ -171,12 +177,6 @@
     "dia": "29/07",
     "desde": "10:02",
     "ts": 1785330143067
-   },
-   {
-    "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
-    "dia": "29/07",
-    "desde": "11:11",
-    "ts": 1785334293097
    },
    {
     "grupo": "S.C x Itau",
@@ -201,6 +201,12 @@
     "dia": "29/07",
     "desde": "10:27",
     "ts": 1785331679073
+   },
+   {
+    "grupo": "J.D.L x IBDSOCIAL",
+    "dia": "28/07",
+    "desde": "17:17",
+    "ts": 1785269850331
    },
    {
     "grupo": "M.F.F x INSS",
@@ -288,6 +294,12 @@
     "ts": 1785263806095
    },
    {
+    "grupo": "J.D.L x IBDSOCIAL",
+    "dia": "28/07",
+    "desde": "17:17",
+    "ts": 1785269850331
+   },
+   {
     "grupo": "S.C x Itau",
     "dia": "29/07",
     "desde": "08:46",
@@ -365,7 +377,7 @@
    },
    {
     "vendedor": "Eduardo",
-    "cliente": "H",
+    "cliente": "H.M.P",
     "dia": "28/07",
     "hora": "11:03",
     "ts": 1785247401100,
@@ -448,16 +460,16 @@
  },
  "agora": {
   "fila": 154,
-  "abertos": 255,
-  "com_atendimento": 7,
-  "online": 3,
+  "abertos": 256,
+  "com_atendimento": 8,
+  "online": 2,
   "offline": 2,
-  "ausentes": 4,
+  "ausentes": 5,
   "espera_media_s": 2293
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-23T12:15:41.276Z",
-  "min_sem_lead": 8871
+  "ultimo_lead_at": "2026-07-28T21:00:20.642Z",
+  "min_sem_lead": 1161
  },
  "leads": [
   {
