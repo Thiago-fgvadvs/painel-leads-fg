@@ -1,17 +1,17 @@
 {
- "gerado_em": "29/07/2026, 11:19",
+ "gerado_em": "29/07/2026, 11:34",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
+  "total": 12,
   "no_sla": 2,
   "fora_sla": 3,
-  "sem_resposta": 2,
+  "sem_resposta": 3,
   "fora_horario": 2,
   "pct_sla": 40,
   "mediana_geral": 15.8,
-  "leads_7d": 284,
-  "tickets_abertos": 249,
+  "leads_7d": 285,
+  "tickets_abertos": 250,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 7,
+  "Anuncio": 8,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -49,10 +49,16 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
-  "Nao identificada": 6
+  "Nao identificada": 7,
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [
+  {
+   "nome": "Santos",
+   "tel": "5599*****770",
+   "criado": "11:34",
+   "area": "Nao identificada"
+  },
   {
    "nome": "5521969830994",
    "tel": "5521*****994",
@@ -92,16 +98,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 150,
-  "turnos": 485,
-  "respondidos": 475,
+  "turnos": 490,
+  "respondidos": 480,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
   "mediana_min": 13.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 275,
-    "mediana_min": 23.4
+    "respostas": 280,
+    "mediana_min": 22.9
    },
    {
     "nome": "Nicolas",
@@ -147,12 +153,6 @@
     "ts": 1785334293097
    },
    {
-    "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
-    "dia": "29/07",
-    "desde": "11:10",
-    "ts": 1785334205095
-   },
-   {
     "grupo": "S.C x Itau",
     "dia": "29/07",
     "desde": "08:46",
@@ -187,6 +187,12 @@
     "dia": "28/07",
     "desde": "15:36",
     "ts": 1785263806095
+   },
+   {
+    "grupo": "F.D.A.F",
+    "dia": "28/07",
+    "desde": "13:04",
+    "ts": 1785254662077
    },
    {
     "grupo": "A.J.C",
@@ -218,6 +224,13 @@
     "dia": "29/07",
     "desde": "09:09",
     "ts": 1785326982234
+   },
+   {
+    "nome": "Santos",
+    "tel": "5599*****770",
+    "dia": "29/07",
+    "desde": "11:34",
+    "ts": 1785335643296
    }
   ],
   "grupos": [
@@ -232,6 +245,12 @@
     "dia": "27/07",
     "desde": "18:08",
     "ts": 1785186513618
+   },
+   {
+    "grupo": "F.D.A.F",
+    "dia": "28/07",
+    "desde": "13:04",
+    "ts": 1785254662077
    },
    {
     "grupo": "E.C.C.G.S.F",
@@ -268,12 +287,6 @@
     "dia": "29/07",
     "desde": "10:55",
     "ts": 1785333300106
-   },
-   {
-    "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
-    "dia": "29/07",
-    "desde": "11:10",
-    "ts": 1785334205095
    },
    {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
@@ -411,19 +424,30 @@
   ]
  },
  "agora": {
-  "fila": 153,
-  "abertos": 249,
+  "fila": 154,
+  "abertos": 250,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 4,
-  "ausentes": 2,
+  "online": 4,
+  "offline": 5,
+  "ausentes": 0,
   "espera_media_s": 2313
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-29T12:20:12.701Z",
-  "min_sem_lead": 119
+  "ultimo_lead_at": "2026-07-29T14:34:03.296Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "Santos",
+   "tel": "5599*****770",
+   "criado": "11:34",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Kathlen Gonçalves",
    "tel": "5551*****198",
