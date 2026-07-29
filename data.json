@@ -1,17 +1,17 @@
 {
- "gerado_em": "29/07/2026, 14:29",
+ "gerado_em": "29/07/2026, 14:44",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
   "total": 21,
   "no_sla": 8,
-  "fora_sla": 5,
-  "sem_resposta": 3,
+  "fora_sla": 7,
+  "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 62,
-  "mediana_geral": 9.1,
+  "pct_sla": 53,
+  "mediana_geral": 13.8,
   "leads_7d": 294,
-  "tickets_abertos": 265,
+  "tickets_abertos": 263,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,8 +27,8 @@
   },
   {
    "nome": "Tiago Bernardo",
-   "leads": 2,
-   "mediana_min": 21.6
+   "leads": 4,
+   "mediana_min": 111.7
   }
  ],
  "origem": {
@@ -62,30 +62,32 @@
   }
  ],
  "areas": {
-  "Nao identificada": 13,
-  "Trabalhista": 8
+  "Trabalhista": 8,
+  "Nao identificada": 13
  },
  "sem_resposta_lista": [
-  {
-   "nome": "Santos",
-   "tel": "5599*****770",
-   "criado": "11:34",
-   "area": "Trabalhista"
-  },
   {
    "nome": "5521969830994",
    "tel": "5521*****994",
    "criado": "09:09",
    "area": "Trabalhista"
-  },
+  }
+ ],
+ "fora_sla_lista": [
   {
    "nome": "558896529288",
    "tel": "5588*****288",
    "criado": "09:09",
-   "area": "Trabalhista"
-  }
- ],
- "fora_sla_lista": [
+   "espera_min": 334.6,
+   "atendente": "Tiago Bernardo"
+  },
+  {
+   "nome": "Santos",
+   "tel": "5599*****770",
+   "criado": "11:34",
+   "espera_min": 189.3,
+   "atendente": "Tiago Bernardo"
+  },
   {
    "nome": "Maisa",
    "tel": "5547*****481",
@@ -125,16 +127,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 154,
-  "turnos": 515,
-  "respondidos": 505,
+  "turnos": 520,
+  "respondidos": 510,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
-  "mediana_min": 13.8,
+  "mediana_min": 13.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 298,
-    "mediana_min": 23.3
+    "respostas": 303,
+    "mediana_min": 22.8
    },
    {
     "nome": "Nicolas",
@@ -174,10 +176,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
+    "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
     "dia": "29/07",
-    "desde": "14:28",
-    "ts": 1785346125215
+    "desde": "14:44",
+    "ts": 1785347064211
+   },
+   {
+    "grupo": "P.J.T.D.S x HAPVIDA",
+    "dia": "29/07",
+    "desde": "10:55",
+    "ts": 1785333300106
    },
    {
     "grupo": "B.V.S.D.S x YOU CO MARKETING LTDA",
@@ -208,12 +216,6 @@
     "dia": "29/07",
     "desde": "08:46",
     "ts": 1785325574027
-   },
-   {
-    "grupo": "P.J.T.D.S x HAPVIDA",
-    "dia": "29/07",
-    "desde": "10:55",
-    "ts": 1785333300106
    },
    {
     "grupo": "W.M.D.O x SENDAS",
@@ -258,34 +260,6 @@
     "dia": "29/07",
     "desde": "11:34",
     "ts": 1785335643296
-   },
-   {
-    "nome": "554792134955",
-    "tel": "5547*****955",
-    "dia": "29/07",
-    "desde": "13:30",
-    "ts": 1785342604226
-   },
-   {
-    "nome": "B ✨",
-    "tel": "5511*****845",
-    "dia": "29/07",
-    "desde": "13:34",
-    "ts": 1785342855036
-   },
-   {
-    "nome": "Marta Bezerra",
-    "tel": "5571*****192",
-    "dia": "29/07",
-    "desde": "13:53",
-    "ts": 1785343997697
-   },
-   {
-    "nome": "Princípios",
-    "tel": "5567*****778",
-    "dia": "29/07",
-    "desde": "14:00",
-    "ts": 1785344429076
    },
    {
     "nome": "fatima.basilo",
@@ -351,10 +325,10 @@
     "ts": 1785345925216
    },
    {
-    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
+    "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
     "dia": "29/07",
-    "desde": "14:28",
-    "ts": 1785346125215
+    "desde": "14:44",
+    "ts": 1785347064211
    }
   ]
  },
@@ -486,19 +460,41 @@
   ]
  },
  "agora": {
-  "fila": 160,
-  "abertos": 265,
-  "com_atendimento": 9,
+  "fila": 157,
+  "abertos": 263,
+  "com_atendimento": 8,
   "online": 5,
-  "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 2231
+  "offline": 2,
+  "ausentes": 2,
+  "espera_media_s": 2354
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-22T02:14:27.555Z",
-  "min_sem_lead": 10995
+  "ultimo_lead_at": "2026-07-27T08:49:17.074Z",
+  "min_sem_lead": 3415
  },
  "leads": [
+  {
+   "nome": "558896529288",
+   "tel": "5588*****288",
+   "criado": "09:09",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 334.6,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Santos",
+   "tel": "5599*****770",
+   "criado": "11:34",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 189.3,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "fatima.basilo",
    "tel": "5543*****216",
@@ -566,7 +562,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "554792134955",
+   "nome": "Samy",
    "tel": "5547*****955",
    "criado": "13:30",
    "atendente": "Fernanda Gehm - Administradora",
@@ -605,17 +601,6 @@
    "atendente": "Eduardo",
    "espera_min": 38,
    "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Santos",
-   "tel": "5599*****770",
-   "criado": "11:34",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
@@ -687,28 +672,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "558896529288",
-   "tel": "5588*****288",
-   "criado": "09:09",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "553799770503",
-   "tel": "5537*****503",
-   "criado": "09:09",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "556792176500",
    "tel": "5567*****500",
    "criado": "13:25",
@@ -722,6 +685,17 @@
   {
    "nome": "556493305466",
    "tel": "5564*****466",
+   "criado": "09:09",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553799770503",
+   "tel": "5537*****503",
    "criado": "09:09",
    "atendente": "—",
    "espera_min": null,
