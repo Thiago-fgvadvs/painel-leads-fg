@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/07/2026, 15:30",
+ "gerado_em": "29/07/2026, 15:46",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -41,11 +41,11 @@
    "leads": 9
   },
   {
-   "url": "www.instagram.com/p/DYVTKQODOlC/",
+   "url": "fb.me/9Pf9FTshS",
    "leads": 2
   },
   {
-   "url": "fb.me/9Pf9FTshS",
+   "url": "www.instagram.com/p/DYVTKQODOlC/",
    "leads": 2
   },
   {
@@ -68,18 +68,18 @@
  "sem_resposta_lista": [],
  "fora_sla_lista": [
   {
-   "nome": "Santos",
-   "tel": "5599*****770",
-   "criado": "11:34",
-   "espera_min": 189.3,
-   "atendente": "Tiago Bernardo"
-  },
-  {
    "nome": "5521969830994",
    "tel": "5521*****994",
    "criado": "09:09",
    "espera_min": 358.1,
    "atendente": "Fernanda Gehm - Administradora"
+  },
+  {
+   "nome": "Santos",
+   "tel": "5599*****770",
+   "criado": "11:34",
+   "espera_min": 189.3,
+   "atendente": "Tiago Bernardo"
   },
   {
    "nome": "5511984931356",
@@ -126,17 +126,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 155,
-  "turnos": 524,
-  "respondidos": 515,
+  "grupos_ativos": 156,
+  "turnos": 526,
+  "respondidos": 517,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 13.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 304,
-    "mediana_min": 22.6
+    "respostas": 305,
+    "mediana_min": 22.4
    },
    {
     "nome": "Nicolas",
@@ -145,7 +145,7 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 54,
+    "respostas": 55,
     "mediana_min": 6.2
    },
    {
@@ -176,6 +176,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
+    "dia": "29/07",
+    "desde": "15:34",
+    "ts": 1785350070235
+   },
+   {
     "grupo": "A.P.D.S.R.G x INSS",
     "dia": "29/07",
     "desde": "15:18",
@@ -198,12 +204,6 @@
     "dia": "28/07",
     "desde": "13:48",
     "ts": 1785257333112
-   },
-   {
-    "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
-    "dia": "29/07",
-    "desde": "11:11",
-    "ts": 1785334293097
    },
    {
     "grupo": "S.C x Itau",
@@ -270,11 +270,11 @@
     "ts": 1785335643296
    },
    {
-    "nome": "Princípios",
-    "tel": "5567*****778",
+    "nome": "💕",
+    "tel": "5547*****525",
     "dia": "29/07",
-    "desde": "14:00",
-    "ts": 1785344429076
+    "desde": "12:43",
+    "ts": 1785339790655
    },
    {
     "nome": "fatima.basilo",
@@ -323,12 +323,6 @@
     "ts": 1785331679073
    },
    {
-    "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
-    "dia": "29/07",
-    "desde": "11:11",
-    "ts": 1785334293097
-   },
-   {
     "grupo": "A.J.S.G x HUNGER COMERCIO DE ALIMENTOS LTDA",
     "dia": "29/07",
     "desde": "14:15",
@@ -345,6 +339,12 @@
     "dia": "29/07",
     "desde": "15:18",
     "ts": 1785349118237
+   },
+   {
+    "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
+    "dia": "29/07",
+    "desde": "15:34",
+    "ts": 1785350070235
    }
   ]
  },
@@ -488,16 +488,38 @@
   "fila": 159,
   "abertos": 267,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 4,
   "offline": 3,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 2429
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-19T18:22:53.261Z",
-  "min_sem_lead": 102248
+  "ultimo_lead_at": "2026-07-29T12:09:42.227Z",
+  "min_sem_lead": 396
  },
  "leads": [
+  {
+   "nome": "5521969830994",
+   "tel": "5521*****994",
+   "criado": "09:09",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 358.1,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "💕",
+   "tel": "5547*****525",
+   "criado": "12:43",
+   "atendente": "Eduardo",
+   "espera_min": 4.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Santos",
    "tel": "5599*****770",
@@ -530,17 +552,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "5521969830994",
-   "tel": "5521*****994",
-   "criado": "09:09",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 358.1,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
   },
   {
    "nome": "5511984931356",
@@ -642,17 +653,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "💕",
-   "tel": "5547*****525",
-   "criado": "12:43",
-   "atendente": "Eduardo",
-   "espera_min": 4.1,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "𝑭𝒓𝒂𝒏 𝒑𝒓𝒂𝒅𝒐",
    "tel": "5541*****970",
    "criado": "12:07",
@@ -708,17 +708,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553799770503",
-   "tel": "5537*****503",
-   "criado": "09:09",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "556792176500",
    "tel": "5567*****500",
    "criado": "13:25",
@@ -732,6 +721,17 @@
   {
    "nome": "556493305466",
    "tel": "5564*****466",
+   "criado": "09:09",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553799770503",
+   "tel": "5537*****503",
    "criado": "09:09",
    "atendente": "—",
    "espera_min": null,
