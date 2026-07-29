@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/07/2026, 21:44",
+ "gerado_em": "28/07/2026, 22:00",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -75,8 +75,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 27,
-  "Trabalhista": 24
+  "Trabalhista": 24,
+  "Nao identificada": 27
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -384,16 +384,27 @@
   "fila": 150,
   "abertos": 251,
   "com_atendimento": 7,
-  "online": 0,
-  "offline": 9,
+  "online": 1,
+  "offline": 8,
   "ausentes": 0,
   "espera_media_s": 2015
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-29T00:30:33.511Z",
-  "min_sem_lead": 14
+  "ultimo_lead_at": "2026-05-29T18:47:56.201Z",
+  "min_sem_lead": 86772
  },
  "leads": [
+  {
+   "nome": "Daniel alebrant",
+   "tel": "5554*****899",
+   "criado": "21:20",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.8,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7x2nrMW0Q",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Deus meu Deus eu te amo",
    "tel": "5512*****480",
@@ -414,17 +425,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "555497089899",
-   "tel": "5554*****899",
-   "criado": "21:20",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.8,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7x2nrMW0Q",
    "area": "Trabalhista"
   },
   {
