@@ -1,29 +1,29 @@
 {
- "gerado_em": "29/07/2026, 16:47",
+ "gerado_em": "29/07/2026, 17:02",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
-  "no_sla": 12,
+  "total": 26,
+  "no_sla": 13,
   "fora_sla": 8,
   "sem_resposta": 0,
   "fora_horario": 2,
-  "pct_sla": 60,
-  "mediana_geral": 6.6,
-  "leads_7d": 298,
+  "pct_sla": 62,
+  "mediana_geral": 4.1,
+  "leads_7d": 299,
   "tickets_abertos": 261,
   "periodo_dias": 7
  },
  "atendentes": [
   {
+   "nome": "Fernanda Gehm - Administradora",
+   "leads": 10,
+   "mediana_min": 0.4
+  },
+  {
    "nome": "Eduardo",
    "leads": 9,
    "mediana_min": 15.8
-  },
-  {
-   "nome": "Fernanda Gehm - Administradora",
-   "leads": 9,
-   "mediana_min": 0.4
   },
   {
    "nome": "Tiago Bernardo",
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -53,6 +53,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DbYz_apsQ2D/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DYVTWI6DPYt/",
    "leads": 1
   },
@@ -62,7 +66,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 15,
+  "Nao identificada": 16,
   "Trabalhista": 10
  },
  "sem_resposta_lista": [],
@@ -126,26 +130,26 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 157,
-  "turnos": 543,
-  "respondidos": 533,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "grupos_ativos": 158,
+  "turnos": 553,
+  "respondidos": 542,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 316,
-    "mediana_min": 19.3
+    "respostas": 320,
+    "mediana_min": 19.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 94,
-    "mediana_min": 17.8
+    "respostas": 96,
+    "mediana_min": 16.7
    },
    {
     "nome": "Eduardo",
-    "respostas": 55,
+    "respostas": 58,
     "mediana_min": 6.2
    },
    {
@@ -176,10 +180,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
     "dia": "29/07",
-    "desde": "16:46",
-    "ts": 1785354394293
+    "desde": "17:01",
+    "ts": 1785355278346
    },
    {
     "grupo": "B.M.S x KLOPER MENDONCA LANCHES LTDA",
@@ -228,6 +232,12 @@
     "dia": "28/07",
     "desde": "15:36",
     "ts": 1785263806095
+   },
+   {
+    "grupo": "H.P.A x DROGARIA SAO PAULO S.A.",
+    "dia": "27/07",
+    "desde": "16:57",
+    "ts": 1785182272585
    },
    {
     "grupo": "A.J.P.B",
@@ -274,6 +284,13 @@
     "dia": "29/07",
     "desde": "16:41",
     "ts": 1785354062213
+   },
+   {
+    "nome": "Mariana 👼🏻💞",
+    "tel": "5537*****624",
+    "dia": "29/07",
+    "desde": "16:57",
+    "ts": 1785355030299
    }
   ],
   "grupos": [
@@ -282,6 +299,12 @@
     "dia": "23/07",
     "desde": "17:40",
     "ts": 1784839222774
+   },
+   {
+    "grupo": "H.P.A x DROGARIA SAO PAULO S.A.",
+    "dia": "27/07",
+    "desde": "16:57",
+    "ts": 1785182272585
    },
    {
     "grupo": "E.C.C.G.S.F",
@@ -332,10 +355,10 @@
     "ts": 1785352695301
    },
    {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
     "dia": "29/07",
-    "desde": "16:46",
-    "ts": 1785354394293
+    "desde": "17:01",
+    "ts": 1785355278346
    }
   ]
  },
@@ -476,28 +499,39 @@
   ]
  },
  "agora": {
-  "fila": 159,
+  "fila": 160,
   "abertos": 261,
-  "com_atendimento": 8,
-  "online": 4,
+  "com_atendimento": 9,
+  "online": 5,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 2411
+  "ausentes": 1,
+  "espera_media_s": 2400
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-29T19:35:21.100Z",
-  "min_sem_lead": 12
+  "min_sem_lead": 27
  },
  "leads": [
   {
-   "nome": "💕",
-   "tel": "5547*****525",
-   "criado": "12:43",
+   "nome": "RENATA CAMIOLA",
+   "tel": "5511*****657",
+   "criado": "16:41",
    "atendente": "Eduardo",
-   "espera_min": 4.1,
+   "espera_min": 0.3,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Mariana 👼🏻💞",
+   "tel": "5537*****624",
+   "criado": "16:57",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbYz_apsQ2D/",
    "area": "Nao identificada"
   },
   {
@@ -512,17 +546,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "RENATA CAMIOLA",
-   "tel": "5511*****657",
-   "criado": "16:41",
-   "atendente": "Eduardo",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Santos",
    "tel": "5599*****770",
    "criado": "11:34",
@@ -532,6 +555,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "💕",
+   "tel": "5547*****525",
+   "criado": "12:43",
+   "atendente": "Eduardo",
+   "espera_min": 4.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "554197444975",
