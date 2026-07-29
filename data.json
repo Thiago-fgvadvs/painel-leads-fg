@@ -1,17 +1,17 @@
 {
- "gerado_em": "29/07/2026, 10:03",
+ "gerado_em": "29/07/2026, 10:18",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
+  "total": 10,
   "no_sla": 0,
   "fora_sla": 2,
-  "sem_resposta": 3,
+  "sem_resposta": 4,
   "fora_horario": 2,
   "pct_sla": 0,
   "mediana_geral": 26.9,
-  "leads_7d": 282,
-  "tickets_abertos": 266,
+  "leads_7d": 283,
+  "tickets_abertos": 267,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,13 +22,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -40,10 +40,16 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
-  "Nao identificada": 4
+  "Nao identificada": 5,
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [
+  {
+   "nome": "5521974282069",
+   "tel": "5521*****069",
+   "criado": "10:11",
+   "area": "Nao identificada"
+  },
   {
    "nome": "5521969830994",
    "tel": "5521*****994",
@@ -82,15 +88,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 149,
-  "turnos": 455,
-  "respondidos": 445,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "turnos": 456,
+  "respondidos": 447,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 13.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 250,
+    "respostas": 252,
     "mediana_min": 24
    },
    {
@@ -131,22 +137,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "W.M.D.O x SENDAS",
-    "dia": "29/07",
-    "desde": "10:02",
-    "ts": 1785330165055
-   },
-   {
     "grupo": "A.F.G",
     "dia": "29/07",
     "desde": "10:02",
     "ts": 1785330143067
    },
    {
-    "grupo": "D.F.D.S x TOKIO MARINE SEGURADORA S/A",
+    "grupo": "W.M.D.O x SENDAS",
     "dia": "29/07",
-    "desde": "09:45",
-    "ts": 1785329139037
+    "desde": "10:02",
+    "ts": 1785330165055
    },
    {
     "grupo": "G.F.D x BANCO DO BRASIL S.A",
@@ -215,6 +215,13 @@
     "dia": "29/07",
     "desde": "09:09",
     "ts": 1785326982244
+   },
+   {
+    "nome": "5521974282069",
+    "tel": "5521*****069",
+    "dia": "29/07",
+    "desde": "10:11",
+    "ts": 1785330706885
    }
   ],
   "grupos": [
@@ -259,12 +266,6 @@
     "dia": "29/07",
     "desde": "08:46",
     "ts": 1785325574027
-   },
-   {
-    "grupo": "D.F.D.S x TOKIO MARINE SEGURADORA S/A",
-    "dia": "29/07",
-    "desde": "09:45",
-    "ts": 1785329139037
    },
    {
     "grupo": "A.F.G",
@@ -408,8 +409,8 @@
   ]
  },
  "agora": {
-  "fila": 155,
-  "abertos": 266,
+  "fila": 156,
+  "abertos": 267,
   "com_atendimento": 7,
   "online": 5,
   "offline": 4,
@@ -417,10 +418,21 @@
   "espera_media_s": 2122
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-29T12:20:12.701Z",
-  "min_sem_lead": 43
+  "ultimo_lead_at": "2026-07-28T21:00:20.642Z",
+  "min_sem_lead": 978
  },
  "leads": [
+  {
+   "nome": "5521974282069",
+   "tel": "5521*****069",
+   "criado": "10:11",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Kathlen Gonçalves",
    "tel": "5551*****198",
@@ -499,8 +511,8 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "553799770503",
-   "tel": "5537*****503",
+   "nome": "556493305466",
+   "tel": "5564*****466",
    "criado": "09:09",
    "atendente": "—",
    "espera_min": null,
@@ -510,8 +522,8 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "556493305466",
-   "tel": "5564*****466",
+   "nome": "553799770503",
+   "tel": "5537*****503",
    "criado": "09:09",
    "atendente": "—",
    "espera_min": null,
