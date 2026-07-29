@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 21:29",
+ "gerado_em": "28/07/2026, 21:44",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 50,
+  "total": 51,
   "no_sla": 33,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 14,
+  "fora_horario": 15,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 317,
-  "tickets_abertos": 250,
+  "leads_7d": 318,
+  "tickets_abertos": 251,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 46,
+   "leads": 47,
    "mediana_min": 0.4
   },
   {
@@ -37,7 +37,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 43,
+  "Anuncio": 44,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -47,7 +47,7 @@
   },
   {
    "url": "fb.me/cMY7LLYxT",
-   "leads": 6
+   "leads": 7
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -62,11 +62,11 @@
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "url": "www.instagram.com/p/DYVTWI6DPYt/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYVTWI6DPYt/",
+   "url": "www.instagram.com/p/DYVTAskDMJ6/",
    "leads": 2
   },
   {
@@ -75,8 +75,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 24,
-  "Nao identificada": 26
+  "Nao identificada": 27,
+  "Trabalhista": 24
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -381,19 +381,41 @@
   ]
  },
  "agora": {
-  "fila": 149,
-  "abertos": 250,
+  "fila": 150,
+  "abertos": 251,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2025
+  "espera_media_s": 2015
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-29T00:20:14.871Z",
-  "min_sem_lead": 9
+  "ultimo_lead_at": "2026-07-29T00:30:33.511Z",
+  "min_sem_lead": 14
  },
  "leads": [
+  {
+   "nome": "Deus meu Deus eu te amo",
+   "tel": "5512*****480",
+   "criado": "21:30",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Luísa🤍",
+   "tel": "5547*****471",
+   "criado": "18:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "555497089899",
    "tel": "5554*****899",
@@ -447,17 +469,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Luísa🤍",
-   "tel": "5547*****471",
-   "criado": "18:00",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
    "area": "Trabalhista"
   },
   {
