@@ -1,17 +1,17 @@
 {
- "gerado_em": "29/07/2026, 13:52",
+ "gerado_em": "29/07/2026, 13:58",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
-  "no_sla": 5,
+  "total": 19,
+  "no_sla": 6,
   "fora_sla": 5,
   "sem_resposta": 3,
   "fora_horario": 2,
-  "pct_sla": 50,
-  "mediana_geral": 14.8,
-  "leads_7d": 291,
-  "tickets_abertos": 259,
+  "pct_sla": 55,
+  "mediana_geral": 13.8,
+  "leads_7d": 292,
+  "tickets_abertos": 260,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -21,18 +21,18 @@
    "mediana_min": 26.9
   },
   {
+   "nome": "Fernanda Gehm - Administradora",
+   "leads": 3,
+   "mediana_min": 0.4
+  },
+  {
    "nome": "Tiago Bernardo",
    "leads": 2,
    "mediana_min": 21.6
-  },
-  {
-   "nome": "Fernanda Gehm - Administradora",
-   "leads": 2,
-   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -43,6 +43,10 @@
   {
    "url": "fb.me/9Pf9FTshS",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DYVTKQODOlC/",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
@@ -58,8 +62,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
-  "Nao identificada": 10
+  "Nao identificada": 11,
+  "Trabalhista": 8
  },
  "sem_resposta_lista": [
   {
@@ -121,16 +125,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 152,
-  "turnos": 497,
-  "respondidos": 488,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 13.8,
+  "turnos": 504,
+  "respondidos": 494,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 14,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 287,
-    "mediana_min": 23
+    "respostas": 293,
+    "mediana_min": 23.2
    },
    {
     "nome": "Nicolas",
@@ -170,10 +174,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
     "dia": "29/07",
-    "desde": "13:33",
-    "ts": 1785342807174
+    "desde": "13:56",
+    "ts": 1785344219183
    },
    {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
@@ -186,6 +190,12 @@
     "dia": "29/07",
     "desde": "10:02",
     "ts": 1785330143067
+   },
+   {
+    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
+    "dia": "24/07",
+    "desde": "13:48",
+    "ts": 1784911700173
    },
    {
     "grupo": "S.C x Itau",
@@ -250,13 +260,6 @@
     "ts": 1785335643296
    },
    {
-    "nome": "Maisa",
-    "tel": "5547*****481",
-    "dia": "29/07",
-    "desde": "11:57",
-    "ts": 1785337062417
-   },
-   {
     "nome": "𝑭𝒓𝒂𝒏 𝒑𝒓𝒂𝒅𝒐",
     "tel": "5541*****970",
     "dia": "29/07",
@@ -283,6 +286,13 @@
     "dia": "29/07",
     "desde": "13:34",
     "ts": 1785342855036
+   },
+   {
+    "nome": "557191092192",
+    "tel": "5571*****192",
+    "dia": "29/07",
+    "desde": "13:53",
+    "ts": 1785343997697
    }
   ],
   "grupos": [
@@ -291,6 +301,12 @@
     "dia": "23/07",
     "desde": "17:40",
     "ts": 1784839222774
+   },
+   {
+    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
+    "dia": "24/07",
+    "desde": "13:48",
+    "ts": 1784911700173
    },
    {
     "grupo": "E.C.C.G.S.F",
@@ -335,10 +351,10 @@
     "ts": 1785334293097
    },
    {
-    "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
     "dia": "29/07",
-    "desde": "13:33",
-    "ts": 1785342807174
+    "desde": "13:56",
+    "ts": 1785344219183
    }
   ]
  },
@@ -470,19 +486,30 @@
   ]
  },
  "agora": {
-  "fila": 157,
-  "abertos": 259,
+  "fila": 158,
+  "abertos": 260,
   "com_atendimento": 8,
-  "online": 2,
-  "offline": 4,
+  "online": 1,
+  "offline": 5,
   "ausentes": 3,
-  "espera_media_s": 2262
+  "espera_media_s": 2251
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T16:19:05.868Z",
-  "min_sem_lead": 5793
+  "ultimo_lead_at": "2026-07-29T16:53:17.697Z",
+  "min_sem_lead": 6
  },
  "leads": [
+  {
+   "nome": "557191092192",
+   "tel": "5571*****192",
+   "criado": "13:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Danielle Alves🇾🇪",
    "tel": "5511*****263",
