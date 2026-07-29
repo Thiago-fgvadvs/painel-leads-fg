@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/07/2026, 21:14",
+ "gerado_em": "28/07/2026, 21:29",
  "data_ref": "28/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 49,
+  "total": 50,
   "no_sla": 33,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 13,
+  "fora_horario": 14,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 316,
-  "tickets_abertos": 249,
+  "leads_7d": 317,
+  "tickets_abertos": 250,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 45,
+   "leads": 46,
    "mediana_min": 0.4
   },
   {
@@ -37,7 +37,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 42,
+  "Anuncio": 43,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -75,8 +75,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 26,
-  "Trabalhista": 23
+  "Trabalhista": 24,
+  "Nao identificada": 26
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -381,19 +381,30 @@
   ]
  },
  "agora": {
-  "fila": 148,
-  "abertos": 249,
+  "fila": 149,
+  "abertos": 250,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2034
+  "espera_media_s": 2025
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-29T18:47:56.201Z",
-  "min_sem_lead": 86726
+  "ultimo_lead_at": "2026-07-29T00:20:14.871Z",
+  "min_sem_lead": 9
  },
  "leads": [
+  {
+   "nome": "555497089899",
+   "tel": "5554*****899",
+   "criado": "21:20",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.8,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7x2nrMW0Q",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Wottz",
    "tel": "5511*****224",
