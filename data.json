@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/07/2026, 17:33",
+ "gerado_em": "29/07/2026, 17:48",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 65,
   "mediana_geral": 0.5,
   "leads_7d": 301,
-  "tickets_abertos": 263,
+  "tickets_abertos": 262,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -135,21 +135,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 158,
-  "turnos": 555,
-  "respondidos": 544,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "turnos": 557,
+  "respondidos": 547,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 321,
-    "mediana_min": 20
+    "respostas": 322,
+    "mediana_min": 19.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 97,
-    "mediana_min": 17.5
+    "respostas": 98,
+    "mediana_min": 16.7
    },
    {
     "nome": "Eduardo",
@@ -168,8 +168,8 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 11,
-    "mediana_min": 3.7
+    "respostas": 12,
+    "mediana_min": 4.6
    },
    {
     "nome": "Roseli",
@@ -183,12 +183,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
-    "dia": "29/07",
-    "desde": "17:27",
-    "ts": 1785356825364
-   },
    {
     "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
     "dia": "29/07",
@@ -378,12 +372,6 @@
     "dia": "29/07",
     "desde": "17:01",
     "ts": 1785355278346
-   },
-   {
-    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
-    "dia": "29/07",
-    "desde": "17:27",
-    "ts": 1785356825364
    }
   ]
  },
@@ -525,16 +513,16 @@
  },
  "agora": {
   "fila": 162,
-  "abertos": 263,
-  "com_atendimento": 9,
-  "online": 4,
+  "abertos": 262,
+  "com_atendimento": 8,
+  "online": 5,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 2359
+  "ausentes": 1,
+  "espera_media_s": 2361
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T15:23:12.697Z",
-  "min_sem_lead": 1750
+  "ultimo_lead_at": "2026-07-23T12:15:41.276Z",
+  "min_sem_lead": 9153
  },
  "leads": [
   {
