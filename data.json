@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/07/2026, 16:16",
+ "gerado_em": "29/07/2026, 16:31",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 53,
   "mediana_geral": 13.8,
   "leads_7d": 295,
-  "tickets_abertos": 269,
+  "tickets_abertos": 262,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,18 +68,18 @@
  "sem_resposta_lista": [],
  "fora_sla_lista": [
   {
-   "nome": "vanda",
-   "tel": "5521*****994",
-   "criado": "09:09",
-   "espera_min": 358.1,
-   "atendente": "Fernanda Gehm - Administradora"
-  },
-  {
    "nome": "Santos",
    "tel": "5599*****770",
    "criado": "11:34",
    "espera_min": 189.3,
    "atendente": "Tiago Bernardo"
+  },
+  {
+   "nome": "vanda",
+   "tel": "5521*****994",
+   "criado": "09:09",
+   "espera_min": 358.1,
+   "atendente": "Fernanda Gehm - Administradora"
   },
   {
    "nome": "BWesley Madrid",
@@ -127,15 +127,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 157,
-  "turnos": 534,
-  "respondidos": 525,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 13.3,
+  "turnos": 539,
+  "respondidos": 528,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 309,
+    "respostas": 311,
     "mediana_min": 20
    },
    {
@@ -164,22 +164,34 @@
     "mediana_min": 3.7
    },
    {
+    "nome": "Roseli",
+    "respostas": 2,
+    "mediana_min": 2958.5
+   },
+   {
     "nome": "Tiago Bernardo",
     "respostas": 2,
     "mediana_min": 904.7
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 1,
-    "mediana_min": 5916.7
    }
   ],
   "sem_resposta_lista": [
    {
     "grupo": "T.C.P x FM ATIVIDADES DE CONDICIONAMENTO FISICO LTDA",
     "dia": "29/07",
-    "desde": "16:16",
-    "ts": 1785352581295
+    "desde": "16:28",
+    "ts": 1785353316280
+   },
+   {
+    "grupo": "K.C.A x SANTA HELENA ASSISTÊNCIA MEDICA S/A",
+    "dia": "29/07",
+    "desde": "16:24",
+    "ts": 1785353051278
+   },
+   {
+    "grupo": "B.M.S x KLOPER MENDONCA LANCHES LTDA",
+    "dia": "29/07",
+    "desde": "16:18",
+    "ts": 1785352695301
    },
    {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
@@ -277,13 +289,6 @@
     "ts": 1785339790655
    },
    {
-    "nome": "fatima.basilo",
-    "tel": "5543*****216",
-    "dia": "29/07",
-    "desde": "14:14",
-    "ts": 1785345258837
-   },
-   {
     "nome": "🦋",
     "tel": "5538*****722",
     "dia": "29/07",
@@ -341,10 +346,22 @@
     "ts": 1785350070235
    },
    {
+    "grupo": "B.M.S x KLOPER MENDONCA LANCHES LTDA",
+    "dia": "29/07",
+    "desde": "16:18",
+    "ts": 1785352695301
+   },
+   {
+    "grupo": "K.C.A x SANTA HELENA ASSISTÊNCIA MEDICA S/A",
+    "dia": "29/07",
+    "desde": "16:24",
+    "ts": 1785353051278
+   },
+   {
     "grupo": "T.C.P x FM ATIVIDADES DE CONDICIONAMENTO FISICO LTDA",
     "dia": "29/07",
-    "desde": "16:16",
-    "ts": 1785352581295
+    "desde": "16:28",
+    "ts": 1785353316280
    }
   ]
  },
@@ -486,16 +503,16 @@
  },
  "agora": {
   "fila": 158,
-  "abertos": 269,
-  "com_atendimento": 8,
-  "online": 5,
+  "abertos": 262,
+  "com_atendimento": 9,
+  "online": 6,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 2429
+  "ausentes": 0,
+  "espera_media_s": 2422
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T21:00:20.642Z",
-  "min_sem_lead": 1336
+  "ultimo_lead_at": "2026-07-27T13:53:25.668Z",
+  "min_sem_lead": 3218
  },
  "leads": [
   {
@@ -510,17 +527,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "vanda",
-   "tel": "5521*****994",
-   "criado": "09:09",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 358.1,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Santos",
    "tel": "5599*****770",
    "criado": "11:34",
@@ -529,6 +535,17 @@
    "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "vanda",
+   "tel": "5521*****994",
+   "criado": "09:09",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 358.1,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
    "area": "Trabalhista"
   },
   {
