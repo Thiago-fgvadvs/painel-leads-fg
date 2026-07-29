@@ -1,23 +1,23 @@
 {
- "gerado_em": "29/07/2026, 20:36",
+ "gerado_em": "29/07/2026, 20:51",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 36,
+  "total": 38,
   "no_sla": 22,
   "fora_sla": 8,
   "sem_resposta": 0,
-  "fora_horario": 3,
+  "fora_horario": 5,
   "pct_sla": 73,
   "mediana_geral": 0.5,
-  "leads_7d": 309,
-  "tickets_abertos": 272,
+  "leads_7d": 311,
+  "tickets_abertos": 274,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 20,
+   "leads": 22,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 29,
+  "Anuncio": 31,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -41,11 +41,11 @@
    "leads": 12
   },
   {
-   "url": "fb.me/cMY7LLYxT",
-   "leads": 3
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "url": "fb.me/cMY7LLYxT",
    "leads": 3
   },
   {
@@ -61,18 +61,18 @@
    "leads": 2
   },
   {
-   "url": "fb.me/gp4PFLi6F",
+   "url": "www.instagram.com/p/DaTOr0Rsg0z/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DYVSpWbDIOY/",
+   "url": "fb.me/gp4PFLi6F",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 23,
-  "Previdenciario": 1,
-  "Trabalhista": 12
+  "Trabalhista": 13,
+  "Nao identificada": 24,
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -266,15 +266,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "edmilsonmergulhaojt",
-    "tel": "5581*****060",
-    "dia": "29/07",
-    "desde": "19:52",
-    "ts": 1785365523102
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "A.J.P.B",
@@ -493,19 +485,41 @@
   ]
  },
  "agora": {
-  "fila": 170,
-  "abertos": 272,
+  "fila": 172,
+  "abertos": 274,
   "com_atendimento": 8,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2280
+  "espera_media_s": 2261
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-14T23:50:58.354Z",
-  "min_sem_lead": 21585
+  "ultimo_lead_at": "2026-07-29T23:49:59.806Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "554199019847",
+   "tel": "5541*****847",
+   "criado": "20:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTOr0Rsg0z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Morenna😍",
+   "tel": "5521*****683",
+   "criado": "20:43",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "edmilsonmergulhaojt",
    "tel": "5581*****060",
