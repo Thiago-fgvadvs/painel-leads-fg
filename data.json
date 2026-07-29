@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/07/2026, 15:46",
+ "gerado_em": "29/07/2026, 16:01",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 53,
   "mediana_geral": 13.8,
   "leads_7d": 295,
-  "tickets_abertos": 267,
+  "tickets_abertos": 268,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -62,8 +62,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
-  "Nao identificada": 14
+  "Nao identificada": 14,
+  "Trabalhista": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -126,22 +126,22 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 156,
-  "turnos": 526,
-  "respondidos": 517,
+  "grupos_ativos": 157,
+  "turnos": 529,
+  "respondidos": 520,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 13.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 305,
-    "mediana_min": 22.4
+    "respostas": 307,
+    "mediana_min": 20.7
    },
    {
     "nome": "Nicolas",
-    "respostas": 90,
-    "mediana_min": 17.8
+    "respostas": 91,
+    "mediana_min": 18.1
    },
    {
     "nome": "Eduardo",
@@ -182,10 +182,10 @@
     "ts": 1785350070235
    },
    {
-    "grupo": "A.P.D.S.R.G x INSS",
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "29/07",
-    "desde": "15:18",
-    "ts": 1785349118237
+    "desde": "15:10",
+    "ts": 1785348634253
    },
    {
     "grupo": "B.V.S.D.S x YOU CO MARKETING LTDA",
@@ -335,10 +335,10 @@
     "ts": 1785345925216
    },
    {
-    "grupo": "A.P.D.S.R.G x INSS",
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "29/07",
-    "desde": "15:18",
-    "ts": 1785349118237
+    "desde": "15:10",
+    "ts": 1785348634253
    },
    {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
@@ -486,29 +486,18 @@
  },
  "agora": {
   "fila": 159,
-  "abertos": 267,
-  "com_atendimento": 8,
-  "online": 4,
+  "abertos": 268,
+  "com_atendimento": 9,
+  "online": 6,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 2429
+  "ausentes": 0,
+  "espera_media_s": 2419
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-29T12:09:42.227Z",
-  "min_sem_lead": 396
+  "ultimo_lead_at": "2026-07-29T15:43:10.655Z",
+  "min_sem_lead": 198
  },
  "leads": [
-  {
-   "nome": "5521969830994",
-   "tel": "5521*****994",
-   "criado": "09:09",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 358.1,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
   {
    "nome": "💕",
    "tel": "5547*****525",
@@ -519,6 +508,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "5521969830994",
+   "tel": "5521*****994",
+   "criado": "09:09",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 358.1,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
   },
   {
    "nome": "Santos",
