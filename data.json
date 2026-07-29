@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/07/2026, 10:49",
+ "gerado_em": "29/07/2026, 11:04",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 50,
   "mediana_geral": 14.8,
   "leads_7d": 284,
-  "tickets_abertos": 250,
+  "tickets_abertos": 249,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -91,16 +91,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 149,
-  "turnos": 472,
-  "respondidos": 464,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 14,
+  "turnos": 481,
+  "respondidos": 472,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 13.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 266,
-    "mediana_min": 24
+    "respostas": 272,
+    "mediana_min": 23.6
    },
    {
     "nome": "Nicolas",
@@ -109,8 +109,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 48,
-    "mediana_min": 6.2
+    "respostas": 50,
+    "mediana_min": 6
    },
    {
     "nome": "Gabrielle",
@@ -140,6 +140,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "E.B.D.S x INSS",
+    "dia": "24/07",
+    "desde": "15:44",
+    "ts": 1784918664096
+   },
+   {
+    "grupo": "P.J.T.D.S x HAPVIDA",
+    "dia": "29/07",
+    "desde": "10:55",
+    "ts": 1785333300106
+   },
+   {
     "grupo": "W.M.D.O x SENDAS",
     "dia": "29/07",
     "desde": "10:27",
@@ -156,12 +168,6 @@
     "dia": "28/07",
     "desde": "13:48",
     "ts": 1785257333112
-   },
-   {
-    "grupo": "G.F.D x BANCO DO BRASIL S.A",
-    "dia": "28/07",
-    "desde": "11:21",
-    "ts": 1785248463924
    },
    {
     "grupo": "S.C x Itau",
@@ -222,16 +228,16 @@
     "ts": 1784839222774
    },
    {
+    "grupo": "E.B.D.S x INSS",
+    "dia": "24/07",
+    "desde": "15:44",
+    "ts": 1784918664096
+   },
+   {
     "grupo": "A.J.C",
     "dia": "27/07",
     "desde": "18:08",
     "ts": 1785186513618
-   },
-   {
-    "grupo": "G.F.D x BANCO DO BRASIL S.A",
-    "dia": "28/07",
-    "desde": "11:21",
-    "ts": 1785248463924
    },
    {
     "grupo": "E.C.C.G.S.F",
@@ -262,6 +268,12 @@
     "dia": "29/07",
     "desde": "10:27",
     "ts": 1785331679073
+   },
+   {
+    "grupo": "P.J.T.D.S x HAPVIDA",
+    "dia": "29/07",
+    "desde": "10:55",
+    "ts": 1785333300106
    }
   ]
  },
@@ -311,7 +323,7 @@
    },
    {
     "vendedor": "Eduardo",
-    "cliente": "H.M.P",
+    "cliente": "H",
     "dia": "28/07",
     "hora": "11:03",
     "ts": 1785247401100,
@@ -393,17 +405,17 @@
   ]
  },
  "agora": {
-  "fila": 155,
-  "abertos": 250,
+  "fila": 154,
+  "abertos": 249,
   "com_atendimento": 7,
-  "online": 5,
-  "offline": 2,
+  "online": 4,
+  "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 2280
+  "espera_media_s": 2291
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-29T13:31:30.724Z",
-  "min_sem_lead": 17
+  "min_sem_lead": 33
  },
  "leads": [
   {
