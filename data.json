@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/07/2026, 19:35",
+ "gerado_em": "29/07/2026, 19:50",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -70,9 +70,9 @@
   }
  ],
  "areas": {
+  "Previdenciario": 1,
   "Nao identificada": 22,
-  "Trabalhista": 12,
-  "Previdenciario": 1
+  "Trabalhista": 12
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -494,10 +494,21 @@
   "espera_media_s": 2290
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T16:19:05.868Z",
-  "min_sem_lead": 6136
+  "ultimo_lead_at": "2026-07-29T20:55:53.015Z",
+  "min_sem_lead": 115
  },
  "leads": [
+  {
+   "nome": "Estela Pires",
+   "tel": "5524*****593",
+   "criado": "17:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Previdenciario"
+  },
   {
    "nome": "Lukas@",
    "tel": "5511*****805",
@@ -541,17 +552,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Estela Pires",
-   "tel": "5524*****593",
-   "criado": "17:55",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Previdenciario"
   },
   {
    "nome": "Kmx",
