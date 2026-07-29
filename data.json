@@ -1,17 +1,17 @@
 {
- "gerado_em": "29/07/2026, 13:58",
+ "gerado_em": "29/07/2026, 14:14",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 6,
+  "total": 20,
+  "no_sla": 7,
   "fora_sla": 5,
   "sem_resposta": 3,
   "fora_horario": 2,
-  "pct_sla": 55,
-  "mediana_geral": 13.8,
-  "leads_7d": 292,
-  "tickets_abertos": 260,
+  "pct_sla": 58,
+  "mediana_geral": 11.5,
+  "leads_7d": 293,
+  "tickets_abertos": 262,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,8 +22,8 @@
   },
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 3,
-   "mediana_min": 0.4
+   "leads": 4,
+   "mediana_min": 0.5
   },
   {
    "nome": "Tiago Bernardo",
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 14,
   "Direto/Indicacao": 6
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 7
+   "leads": 8
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -62,7 +62,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 11,
+  "Nao identificada": 12,
   "Trabalhista": 8
  },
  "sem_resposta_lista": [
@@ -125,16 +125,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 152,
-  "turnos": 504,
-  "respondidos": 494,
+  "turnos": 508,
+  "respondidos": 498,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
-  "mediana_min": 14,
+  "mediana_min": 13.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 293,
-    "mediana_min": 23.2
+    "respostas": 294,
+    "mediana_min": 23.1
    },
    {
     "nome": "Nicolas",
@@ -148,12 +148,12 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 28,
-    "mediana_min": 5.1
+    "respostas": 29,
+    "mediana_min": 5.8
    },
    {
     "nome": "Luisa",
-    "respostas": 20,
+    "respostas": 22,
     "mediana_min": 1.5
    },
    {
@@ -174,22 +174,28 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "grupo": "A.F.G",
     "dia": "29/07",
-    "desde": "13:56",
-    "ts": 1785344219183
+    "desde": "14:11",
+    "ts": 1785345062195
+   },
+   {
+    "grupo": "E.C.C.G.S.F",
+    "dia": "28/07",
+    "desde": "13:48",
+    "ts": 1785257333112
+   },
+   {
+    "grupo": "A.J.S.G x HUNGER COMERCIO DE ALIMENTOS LTDA",
+    "dia": "29/07",
+    "desde": "14:04",
+    "ts": 1785344652201
    },
    {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
     "dia": "29/07",
     "desde": "11:11",
     "ts": 1785334293097
-   },
-   {
-    "grupo": "A.F.G",
-    "dia": "29/07",
-    "desde": "10:02",
-    "ts": 1785330143067
    },
    {
     "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
@@ -202,12 +208,6 @@
     "dia": "29/07",
     "desde": "08:46",
     "ts": 1785325574027
-   },
-   {
-    "grupo": "E.C.C.G.S.F",
-    "dia": "28/07",
-    "desde": "13:48",
-    "ts": 1785257333112
    },
    {
     "grupo": "P.J.T.D.S x HAPVIDA",
@@ -293,6 +293,13 @@
     "dia": "29/07",
     "desde": "13:53",
     "ts": 1785343997697
+   },
+   {
+    "nome": "556796730778",
+    "tel": "5567*****778",
+    "dia": "29/07",
+    "desde": "14:00",
+    "ts": 1785344429076
    }
   ],
   "grupos": [
@@ -327,12 +334,6 @@
     "ts": 1785325574027
    },
    {
-    "grupo": "A.F.G",
-    "dia": "29/07",
-    "desde": "10:02",
-    "ts": 1785330143067
-   },
-   {
     "grupo": "W.M.D.O x SENDAS",
     "dia": "29/07",
     "desde": "10:27",
@@ -351,10 +352,16 @@
     "ts": 1785334293097
    },
    {
-    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "grupo": "A.J.S.G x HUNGER COMERCIO DE ALIMENTOS LTDA",
     "dia": "29/07",
-    "desde": "13:56",
-    "ts": 1785344219183
+    "desde": "14:04",
+    "ts": 1785344652201
+   },
+   {
+    "grupo": "A.F.G",
+    "dia": "29/07",
+    "desde": "14:11",
+    "ts": 1785345062195
    }
   ]
  },
@@ -486,19 +493,30 @@
   ]
  },
  "agora": {
-  "fila": 158,
-  "abertos": 260,
-  "com_atendimento": 8,
-  "online": 1,
-  "offline": 5,
-  "ausentes": 3,
-  "espera_media_s": 2251
+  "fila": 159,
+  "abertos": 262,
+  "com_atendimento": 9,
+  "online": 7,
+  "offline": 2,
+  "ausentes": 0,
+  "espera_media_s": 2241
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-29T16:53:17.697Z",
-  "min_sem_lead": 6
+  "ultimo_lead_at": "2026-07-15T16:56:37.862Z",
+  "min_sem_lead": 20178
  },
  "leads": [
+  {
+   "nome": "556796730778",
+   "tel": "5567*****778",
+   "criado": "14:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "557191092192",
    "tel": "5571*****192",
@@ -676,6 +694,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "553799770503",
+   "tel": "5537*****503",
+   "criado": "09:09",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
    "nome": "556792176500",
    "tel": "5567*****500",
    "criado": "13:25",
@@ -689,17 +718,6 @@
   {
    "nome": "556493305466",
    "tel": "5564*****466",
-   "criado": "09:09",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553799770503",
-   "tel": "5537*****503",
    "criado": "09:09",
    "atendente": "—",
    "espera_min": null,
