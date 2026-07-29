@@ -1,23 +1,23 @@
 {
- "gerado_em": "29/07/2026, 17:48",
+ "gerado_em": "29/07/2026, 18:03",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 28,
-  "no_sla": 15,
+  "total": 31,
+  "no_sla": 18,
   "fora_sla": 8,
   "sem_resposta": 0,
   "fora_horario": 2,
-  "pct_sla": 65,
+  "pct_sla": 69,
   "mediana_geral": 0.5,
-  "leads_7d": 301,
-  "tickets_abertos": 262,
+  "leads_7d": 304,
+  "tickets_abertos": 266,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 12,
+   "leads": 15,
    "mediana_min": 0.4
   },
   {
@@ -32,17 +32,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 24,
   "Direto/Indicacao": 7
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 10
+   "leads": 12
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "www.instagram.com/p/DYxXVJ_jJgg/",
@@ -70,11 +70,25 @@
   }
  ],
  "areas": {
-  "Trabalhista": 10,
-  "Nao identificada": 18
+  "Nao identificada": 20,
+  "Trabalhista": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
+  {
+   "nome": "Kathlen Gonçalves",
+   "tel": "5551*****198",
+   "criado": "09:20",
+   "espera_min": 38,
+   "atendente": "Eduardo"
+  },
+  {
+   "nome": "𝑭𝒓𝒂𝒏 𝒑𝒓𝒂𝒅𝒐",
+   "tel": "5541*****970",
+   "criado": "12:07",
+   "espera_min": 39.6,
+   "atendente": "Eduardo"
+  },
   {
    "nome": "Santos",
    "tel": "5599*****770",
@@ -111,20 +125,6 @@
    "atendente": "Tiago Bernardo"
   },
   {
-   "nome": "𝑭𝒓𝒂𝒏 𝒑𝒓𝒂𝒅𝒐",
-   "tel": "5541*****970",
-   "criado": "12:07",
-   "espera_min": 39.6,
-   "atendente": "Eduardo"
-  },
-  {
-   "nome": "Kathlen Gonçalves",
-   "tel": "5551*****198",
-   "criado": "09:20",
-   "espera_min": 38,
-   "atendente": "Eduardo"
-  },
-  {
    "nome": "Marcio Santos",
    "tel": "5521*****540",
    "criado": "09:42",
@@ -134,11 +134,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 158,
-  "turnos": 557,
-  "respondidos": 547,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "grupos_ativos": 159,
+  "turnos": 560,
+  "respondidos": 549,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 13.2,
   "atendentes": [
    {
@@ -148,8 +148,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 98,
-    "mediana_min": 16.7
+    "respostas": 99,
+    "mediana_min": 17.5
    },
    {
     "nome": "Eduardo",
@@ -168,8 +168,8 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 12,
-    "mediana_min": 4.6
+    "respostas": 13,
+    "mediana_min": 5.4
    },
    {
     "nome": "Roseli",
@@ -183,6 +183,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.F.G",
+    "dia": "29/07",
+    "desde": "18:01",
+    "ts": 1785358906390
+   },
    {
     "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
     "dia": "29/07",
@@ -247,71 +253,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "vanda",
-    "tel": "5521*****994",
-    "dia": "29/07",
-    "desde": "09:09",
-    "ts": 1785326982227
-   },
-   {
-    "nome": "Santos",
-    "tel": "5599*****770",
-    "dia": "29/07",
-    "desde": "11:34",
-    "ts": 1785335643296
-   },
-   {
-    "nome": "🦋",
-    "tel": "5538*****722",
-    "dia": "29/07",
-    "desde": "15:10",
-    "ts": 1785348625497
-   },
-   {
-    "nome": "🇷 🇴 🇸 🇾",
-    "tel": "5591*****078",
-    "dia": "29/07",
-    "desde": "16:35",
-    "ts": 1785353721100
-   },
-   {
-    "nome": "Macksuel",
-    "tel": "5541*****975",
-    "dia": "29/07",
-    "desde": "16:38",
-    "ts": 1785353935575
-   },
-   {
-    "nome": "RENATA CAMIOLA",
-    "tel": "5511*****657",
-    "dia": "29/07",
-    "desde": "16:41",
-    "ts": 1785354062213
-   },
-   {
-    "nome": "Mariana 👼🏻💞",
-    "tel": "5537*****624",
-    "dia": "29/07",
-    "desde": "16:57",
-    "ts": 1785355030299
-   },
-   {
-    "nome": "Marcella ❤️",
-    "tel": "5511*****231",
-    "dia": "29/07",
-    "desde": "17:13",
-    "ts": 1785355996278
-   },
-   {
-    "nome": "5511949159190",
-    "tel": "5511*****190",
-    "dia": "29/07",
-    "desde": "17:15",
-    "ts": 1785356145349
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "A.J.P.B",
@@ -372,6 +314,12 @@
     "dia": "29/07",
     "desde": "17:01",
     "ts": 1785355278346
+   },
+   {
+    "grupo": "A.F.G",
+    "dia": "29/07",
+    "desde": "18:01",
+    "ts": 1785358906390
    }
   ]
  },
@@ -512,19 +460,74 @@
   ]
  },
  "agora": {
-  "fila": 162,
-  "abertos": 262,
+  "fila": 165,
+  "abertos": 266,
   "com_atendimento": 8,
   "online": 5,
-  "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 2361
+  "offline": 4,
+  "ausentes": 0,
+  "espera_media_s": 2330
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-23T12:15:41.276Z",
-  "min_sem_lead": 9153
+  "ultimo_lead_at": "2026-07-27T08:49:17.074Z",
+  "min_sem_lead": 3614
  },
  "leads": [
+  {
+   "nome": "5524988354593",
+   "tel": "5524*****593",
+   "criado": "17:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Kmx",
+   "tel": "5511*****077",
+   "criado": "17:48",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Kathlen Gonçalves",
+   "tel": "5551*****198",
+   "criado": "09:20",
+   "atendente": "Eduardo",
+   "espera_min": 38,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "𝑭𝒓𝒂𝒏 𝒑𝒓𝒂𝒅𝒐",
+   "tel": "5541*****970",
+   "criado": "12:07",
+   "atendente": "Eduardo",
+   "espera_min": 39.6,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Vera Gueiros",
+   "tel": "5587*****022",
+   "criado": "17:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "🇷 🇴 🇸 🇾",
    "tel": "5591*****078",
@@ -746,28 +749,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "𝑭𝒓𝒂𝒏 𝒑𝒓𝒂𝒅𝒐",
-   "tel": "5541*****970",
-   "criado": "12:07",
-   "atendente": "Eduardo",
-   "espera_min": 39.6,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Kathlen Gonçalves",
-   "tel": "5551*****198",
-   "criado": "09:20",
-   "atendente": "Eduardo",
-   "espera_min": 38,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Vinícius Cazarini",
    "tel": "5535*****357",
    "criado": "10:31",
@@ -812,9 +793,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Bia",
-   "tel": "5567*****500",
-   "criado": "13:25",
+   "nome": "piresrafaela426",
+   "tel": "5537*****503",
+   "criado": "09:09",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -823,9 +804,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "piresrafaela426",
-   "tel": "5537*****503",
-   "criado": "09:09",
+   "nome": "Bia",
+   "tel": "5567*****500",
+   "criado": "13:25",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
