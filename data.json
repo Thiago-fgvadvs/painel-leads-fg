@@ -1,23 +1,23 @@
 {
- "gerado_em": "29/07/2026, 12:35",
+ "gerado_em": "29/07/2026, 12:51",
  "data_ref": "29/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 2,
-  "fora_sla": 4,
-  "sem_resposta": 4,
+  "total": 15,
+  "no_sla": 3,
+  "fora_sla": 5,
+  "sem_resposta": 3,
   "fora_horario": 2,
-  "pct_sla": 33,
+  "pct_sla": 38,
   "mediana_geral": 24.9,
-  "leads_7d": 287,
-  "tickets_abertos": 254,
+  "leads_7d": 288,
+  "tickets_abertos": 255,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Eduardo",
-   "leads": 6,
+   "leads": 8,
    "mediana_min": 26.9
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 10,
-  "Direto/Indicacao": 4
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
@@ -49,16 +49,10 @@
   }
  ],
  "areas": {
-  "Nao identificada": 8,
+  "Nao identificada": 9,
   "Trabalhista": 6
  },
  "sem_resposta_lista": [
-  {
-   "nome": "554198256970",
-   "tel": "5541*****970",
-   "criado": "12:07",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Santos",
    "tel": "5599*****770",
@@ -79,6 +73,13 @@
   }
  ],
  "fora_sla_lista": [
+  {
+   "nome": "𝑭𝒓𝒂𝒏 𝒑𝒓𝒂𝒅𝒐",
+   "tel": "5541*****970",
+   "criado": "12:07",
+   "espera_min": 39.6,
+   "atendente": "Eduardo"
+  },
   {
    "nome": "Maisa",
    "tel": "5547*****481",
@@ -160,6 +161,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.F.G",
+    "dia": "29/07",
+    "desde": "10:02",
+    "ts": 1785330143067
+   },
+   {
+    "grupo": "A.J.C",
+    "dia": "27/07",
+    "desde": "18:08",
+    "ts": 1785186513618
+   },
+   {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
     "dia": "29/07",
     "desde": "11:11",
@@ -190,22 +203,10 @@
     "ts": 1785331679073
    },
    {
-    "grupo": "A.F.G",
-    "dia": "29/07",
-    "desde": "10:02",
-    "ts": 1785330143067
-   },
-   {
     "grupo": "M.F.F x INSS",
     "dia": "28/07",
     "desde": "15:36",
     "ts": 1785263806095
-   },
-   {
-    "grupo": "A.J.C",
-    "dia": "27/07",
-    "desde": "18:08",
-    "ts": 1785186513618
    },
    {
     "grupo": "A.J.P.B",
@@ -247,11 +248,18 @@
     "ts": 1785335643296
    },
    {
-    "nome": "554198256970",
+    "nome": "𝑭𝒓𝒂𝒏 𝒑𝒓𝒂𝒅𝒐",
     "tel": "5541*****970",
     "dia": "29/07",
     "desde": "12:07",
     "ts": 1785337669321
+   },
+   {
+    "nome": "💕",
+    "tel": "5547*****525",
+    "dia": "29/07",
+    "desde": "12:43",
+    "ts": 1785339790655
    }
   ],
   "grupos": [
@@ -439,19 +447,41 @@
   ]
  },
  "agora": {
-  "fila": 155,
-  "abertos": 254,
+  "fila": 154,
+  "abertos": 255,
   "com_atendimento": 7,
   "online": 2,
-  "offline": 4,
-  "ausentes": 3,
-  "espera_media_s": 2303
+  "offline": 3,
+  "ausentes": 4,
+  "espera_media_s": 2293
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T12:31:07.610Z",
-  "min_sem_lead": 5945
+  "ultimo_lead_at": "2026-07-25T16:19:05.868Z",
+  "min_sem_lead": 5732
  },
  "leads": [
+  {
+   "nome": "💕",
+   "tel": "5547*****525",
+   "criado": "12:43",
+   "atendente": "Eduardo",
+   "espera_min": 4.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "𝑭𝒓𝒂𝒏 𝒑𝒓𝒂𝒅𝒐",
+   "tel": "5541*****970",
+   "criado": "12:07",
+   "atendente": "Eduardo",
+   "espera_min": 39.6,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Maisa",
    "tel": "5547*****481",
@@ -459,17 +489,6 @@
    "atendente": "Tiago Bernardo",
    "espera_min": 34,
    "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "554198256970",
-   "tel": "5541*****970",
-   "criado": "12:07",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
