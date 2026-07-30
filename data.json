@@ -1,17 +1,17 @@
 {
- "gerado_em": "30/07/2026, 15:31",
+ "gerado_em": "30/07/2026, 15:46",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
+  "total": 23,
   "no_sla": 21,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 302,
-  "tickets_abertos": 296,
+  "leads_7d": 303,
+  "tickets_abertos": 295,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,7 +22,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DbZB93YMdjP/",
    "leads": 1
   },
@@ -53,37 +57,40 @@
   {
    "url": "fb.me/4uJZlRfWK",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9NWELh2Dt",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
   "Nao identificada": 10,
+  "Trabalhista": 11,
   "Previdenciario": 2
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "559381023946",
+   "tel": "5593*****946",
+   "criado": "15:46",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 155,
   "turnos": 504,
-  "respondidos": 493,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "respondidos": 495,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 13.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 273,
-    "mediana_min": 22.3
+    "respostas": 274,
+    "mediana_min": 22.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 98,
-    "mediana_min": 23.8
+    "respostas": 99,
+    "mediana_min": 24.7
    },
    {
     "nome": "Eduardo",
@@ -117,18 +124,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "A.G.D.O.J x DISTRIBUIDORA DE MEDICAMENTOS SANTA CRUZ LTDA",
-    "dia": "30/07",
-    "desde": "15:26",
-    "ts": 1785435978692
-   },
-   {
-    "grupo": "A.M x INSS",
-    "dia": "30/07",
-    "desde": "14:34",
-    "ts": 1785432886644
-   },
    {
     "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
     "dia": "30/07",
@@ -188,13 +183,6 @@
  "pendencias": {
   "dias": 7,
   "leads": [
-   {
-    "nome": "🤍",
-    "tel": "5515*****609",
-    "dia": "30/07",
-    "desde": "11:20",
-    "ts": 1785421219743
-   },
    {
     "nome": "Cacau da Terra Alter do Chão",
     "tel": "5593*****186",
@@ -264,6 +252,13 @@
     "dia": "30/07",
     "desde": "15:29",
     "ts": 1785436187682
+   },
+   {
+    "nome": "559381023946",
+    "tel": "5593*****946",
+    "dia": "30/07",
+    "desde": "15:46",
+    "ts": 1785437188274
    }
   ],
   "grupos": [
@@ -320,18 +315,6 @@
     "dia": "30/07",
     "desde": "14:05",
     "ts": 1785431128634
-   },
-   {
-    "grupo": "A.M x INSS",
-    "dia": "30/07",
-    "desde": "14:34",
-    "ts": 1785432886644
-   },
-   {
-    "grupo": "A.G.D.O.J x DISTRIBUIDORA DE MEDICAMENTOS SANTA CRUZ LTDA",
-    "dia": "30/07",
-    "desde": "15:26",
-    "ts": 1785435978692
    }
   ]
  },
@@ -473,18 +456,40 @@
  },
  "agora": {
   "fila": 195,
-  "abertos": 296,
-  "com_atendimento": 7,
-  "online": 6,
+  "abertos": 295,
+  "com_atendimento": 8,
+  "online": 4,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 1962
+  "ausentes": 2,
+  "espera_media_s": 1970
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T15:09:45.551Z",
-  "min_sem_lead": 202
+  "ultimo_lead_at": "2026-07-30T17:01:47.488Z",
+  "min_sem_lead": 105
  },
  "leads": [
+  {
+   "nome": "joaquimpantojaprotazio8@g",
+   "tel": "5592*****609",
+   "criado": "14:01",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "559381023946",
+   "tel": "5593*****946",
+   "criado": "15:46",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Cacau da Terra Alter do Chão",
    "tel": "5593*****186",
@@ -505,17 +510,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZB93YMdjP/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "joaquimpantojaprotazio8@g",
-   "tel": "5592*****609",
-   "criado": "14:01",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Nao identificada"
   },
   {
