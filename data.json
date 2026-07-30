@@ -1,34 +1,34 @@
 {
- "gerado_em": "30/07/2026, 09:25",
+ "gerado_em": "30/07/2026, 09:40",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 3,
+  "total": 5,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
-  "mediana_geral": 1.1,
-  "leads_7d": 284,
-  "tickets_abertos": 284,
+  "mediana_geral": 0.8,
+  "leads_7d": 285,
+  "tickets_abertos": 287,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 3,
-   "mediana_min": 1.1
+   "leads": 4,
+   "mediana_min": 0.8
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 1
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
@@ -40,7 +40,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 1,
+  "Trabalhista": 2,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
@@ -48,21 +48,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 144,
-  "turnos": 462,
-  "respondidos": 450,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 12,
+  "turnos": 465,
+  "respondidos": 454,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 12.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 252,
+    "respostas": 253,
     "mediana_min": 20.8
    },
    {
     "nome": "Nicolas",
-    "respostas": 84,
-    "mediana_min": 20.4
+    "respostas": 85,
+    "mediana_min": 21.8
    },
    {
     "nome": "Eduardo",
@@ -81,8 +81,8 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 13,
-    "mediana_min": 5.4
+    "respostas": 15,
+    "mediana_min": 7.9
    },
    {
     "nome": "Roseli",
@@ -97,22 +97,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "29/07",
-    "desde": "18:11",
-    "ts": 1785359519348
+    "grupo": "D.D.S.D.M x ORBENK ADMINISTRACAO E SERVICOS LTDA",
+    "dia": "30/07",
+    "desde": "08:42",
+    "ts": 1785411761421
    },
    {
     "grupo": "F.P.L",
     "dia": "29/07",
     "desde": "22:43",
     "ts": 1785375789404
-   },
-   {
-    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
-    "dia": "29/07",
-    "desde": "18:14",
-    "ts": 1785359668405
    },
    {
     "grupo": "A.F.G",
@@ -229,22 +223,16 @@
     "ts": 1785358906390
    },
    {
-    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "29/07",
-    "desde": "18:11",
-    "ts": 1785359519348
-   },
-   {
-    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
-    "dia": "29/07",
-    "desde": "18:14",
-    "ts": 1785359668405
-   },
-   {
     "grupo": "F.P.L",
     "dia": "29/07",
     "desde": "22:43",
     "ts": 1785375789404
+   },
+   {
+    "grupo": "D.D.S.D.M x ORBENK ADMINISTRACAO E SERVICOS LTDA",
+    "dia": "30/07",
+    "desde": "08:42",
+    "ts": 1785411761421
    }
   ]
  },
@@ -385,19 +373,41 @@
   ]
  },
  "agora": {
-  "fila": 182,
-  "abertos": 284,
-  "com_atendimento": 7,
+  "fila": 185,
+  "abertos": 287,
+  "com_atendimento": 8,
   "online": 5,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 2161
+  "espera_media_s": 2152
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T02:30:27.608Z",
-  "min_sem_lead": 594
+  "ultimo_lead_at": "2026-07-28T01:19:10.676Z",
+  "min_sem_lead": 3561
  },
  "leads": [
+  {
+   "nome": "amanda",
+   "tel": "5511*****504",
+   "criado": "09:16",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "😎❤️",
+   "tel": "5522*****431",
+   "criado": "09:36",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Daniela",
    "tel": "5573*****880",
@@ -408,17 +418,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "amanda",
-   "tel": "5511*****504",
-   "criado": "09:16",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
   },
   {
    "nome": "558398241510",
