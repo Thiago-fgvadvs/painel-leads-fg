@@ -1,28 +1,28 @@
 {
- "gerado_em": "30/07/2026, 11:42",
+ "gerado_em": "30/07/2026, 11:57",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 9,
+  "total": 11,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 290,
-  "tickets_abertos": 286,
+  "leads_7d": 291,
+  "tickets_abertos": 287,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -36,7 +36,7 @@
   },
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 1
+   "leads": 2
   },
   {
    "url": "fb.me/a4OzxocO4",
@@ -49,14 +49,14 @@
  ],
  "areas": {
   "Trabalhista": 5,
-  "Previdenciario": 1,
+  "Previdenciario": 2,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 151,
+  "grupos_ativos": 152,
   "turnos": 487,
   "respondidos": 474,
   "sem_resposta": 13,
@@ -106,6 +106,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.J.M.F x MINAS VERDE MAQUINAS LTDA",
+    "dia": "30/07",
+    "desde": "10:49",
+    "ts": 1785419350520
+   },
+   {
     "grupo": "E.B.D.S x INSS",
     "dia": "30/07",
     "desde": "11:22",
@@ -128,12 +134,6 @@
     "dia": "30/07",
     "desde": "11:16",
     "ts": 1785420991000
-   },
-   {
-    "grupo": "R.J.M.F x MINAS VERDE MAQUINAS LTDA",
-    "dia": "30/07",
-    "desde": "10:49",
-    "ts": 1785419350520
    },
    {
     "grupo": "A.F.G",
@@ -189,13 +189,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Giselle",
-    "tel": "5531*****621",
-    "dia": "30/07",
-    "desde": "10:53",
-    "ts": 1785419603883
-   },
-   {
     "nome": "Carol😃",
     "tel": "5511*****841",
     "dia": "30/07",
@@ -215,6 +208,13 @@
     "dia": "30/07",
     "desde": "11:20",
     "ts": 1785421219743
+   },
+   {
+    "nome": "elianafernandes971",
+    "tel": "5534*****409",
+    "dia": "30/07",
+    "desde": "11:53",
+    "ts": 1785423186190
    }
   ],
   "grupos": [
@@ -435,17 +435,17 @@
   ]
  },
  "agora": {
-  "fila": 186,
-  "abertos": 286,
+  "fila": 187,
+  "abertos": 287,
   "com_atendimento": 7,
-  "online": 3,
+  "online": 4,
   "offline": 0,
-  "ausentes": 6,
-  "espera_media_s": 2041
+  "ausentes": 5,
+  "espera_media_s": 2033
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-30T12:36:48.248Z",
-  "min_sem_lead": 126
+  "min_sem_lead": 141
  },
  "leads": [
   {
@@ -458,6 +458,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "elianafernandes971",
+   "tel": "5534*****409",
+   "criado": "11:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Previdenciario"
   },
   {
    "nome": "Carol😃",
