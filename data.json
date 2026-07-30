@@ -1,5 +1,5 @@
 {
- "gerado_em": "30/07/2026, 16:48",
+ "gerado_em": "30/07/2026, 17:03",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -68,11 +68,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 158,
+  "grupos_ativos": 159,
   "turnos": 508,
-  "respondidos": 500,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "respondidos": 501,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 14.2,
   "atendentes": [
    {
@@ -82,8 +82,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 100,
-    "mediana_min": 23.8
+    "respostas": 101,
+    "mediana_min": 22.9
    },
    {
     "nome": "Eduardo",
@@ -117,12 +117,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
-    "dia": "30/07",
-    "desde": "16:33",
-    "ts": 1785439990721
-   },
    {
     "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
     "dia": "30/07",
@@ -262,12 +256,6 @@
     "dia": "30/07",
     "desde": "15:53",
     "ts": 1785437581685
-   },
-   {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
-    "dia": "30/07",
-    "desde": "16:33",
-    "ts": 1785439990721
    }
   ]
  },
@@ -417,17 +405,17 @@
   ]
  },
  "agora": {
-  "fila": 200,
+  "fila": 198,
   "abertos": 297,
-  "com_atendimento": 7,
-  "online": 5,
-  "offline": 3,
-  "ausentes": 1,
+  "com_atendimento": 6,
+  "online": 3,
+  "offline": 4,
+  "ausentes": 2,
   "espera_media_s": 1940
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T19:07:45.533Z",
-  "min_sem_lead": 4360
+  "ultimo_lead_at": "2026-07-25T12:31:07.610Z",
+  "min_sem_lead": 7652
  },
  "leads": [
   {
