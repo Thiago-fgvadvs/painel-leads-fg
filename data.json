@@ -1,5 +1,5 @@
 {
- "gerado_em": "30/07/2026, 11:27",
+ "gerado_em": "30/07/2026, 11:42",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -56,11 +56,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 149,
-  "turnos": 486,
+  "grupos_ativos": 151,
+  "turnos": 487,
   "respondidos": 474,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
   "mediana_min": 13.2,
   "atendentes": [
    {
@@ -106,16 +106,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "F.G x ITAU UNIBANCO",
-    "dia": "30/07",
-    "desde": "10:31",
-    "ts": 1785418268507
-   },
-   {
     "grupo": "E.B.D.S x INSS",
     "dia": "30/07",
     "desde": "11:22",
     "ts": 1785421341497
+   },
+   {
+    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
+    "dia": "30/07",
+    "desde": "11:31",
+    "ts": 1785421862552
+   },
+   {
+    "grupo": "F.G x ITAU UNIBANCO",
+    "dia": "30/07",
+    "desde": "10:31",
+    "ts": 1785418268507
    },
    {
     "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
@@ -283,6 +289,12 @@
     "dia": "30/07",
     "desde": "11:22",
     "ts": 1785421341497
+   },
+   {
+    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
+    "dia": "30/07",
+    "desde": "11:31",
+    "ts": 1785421862552
    }
   ]
  },
@@ -426,14 +438,14 @@
   "fila": 186,
   "abertos": 286,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 3,
   "offline": 0,
-  "ausentes": 3,
+  "ausentes": 6,
   "espera_media_s": 2041
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
-  "min_sem_lead": 4433
+  "ultimo_lead_at": "2026-07-30T12:36:48.248Z",
+  "min_sem_lead": 126
  },
  "leads": [
   {
@@ -448,17 +460,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "🤍",
-   "tel": "5515*****609",
-   "criado": "11:20",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Previdenciario"
-  },
-  {
    "nome": "Carol😃",
    "tel": "5511*****841",
    "criado": "10:54",
@@ -468,6 +469,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "🤍",
+   "tel": "5515*****609",
+   "criado": "11:20",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Previdenciario"
   },
   {
    "nome": "elvino",
