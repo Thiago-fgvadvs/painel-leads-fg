@@ -1,28 +1,28 @@
 {
- "gerado_em": "30/07/2026, 20:27",
+ "gerado_em": "30/07/2026, 20:42",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
+  "total": 34,
   "no_sla": 31,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 1,
+  "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 313,
-  "tickets_abertos": 288,
+  "leads_7d": 314,
+  "tickets_abertos": 287,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 32,
+   "leads": 33,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 31,
+  "Anuncio": 32,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -39,6 +39,10 @@
    "leads": 4
   },
   {
+   "url": "fb.me/4uJZlRfWK",
+   "leads": 2
+  },
+  {
    "url": "fb.me/a4OzxocO4",
    "leads": 2
   },
@@ -53,15 +57,11 @@
   {
    "url": "www.instagram.com/p/DbY-c_XMHEm/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/cMY7LLYxT",
-   "leads": 1
   }
  ],
  "areas": {
+  "Nao identificada": 17,
   "Trabalhista": 15,
-  "Nao identificada": 16,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -169,92 +169,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Vanderleia Cunha",
-    "tel": "5597*****821",
-    "dia": "30/07",
-    "desde": "15:29",
-    "ts": 1785436187682
-   },
-   {
-    "nome": "Marcelo André",
-    "tel": "5593*****946",
-    "dia": "30/07",
-    "desde": "15:46",
-    "ts": 1785437188274
-   },
-   {
-    "nome": "francisca",
-    "tel": "5589*****877",
-    "dia": "30/07",
-    "desde": "15:52",
-    "ts": 1785437557503
-   },
-   {
-    "nome": "553491248172",
-    "tel": "5534*****172",
-    "dia": "30/07",
-    "desde": "16:44",
-    "ts": 1785440692803
-   },
-   {
-    "nome": "Bianca Caroline",
-    "tel": "5579*****122",
-    "dia": "30/07",
-    "desde": "16:46",
-    "ts": 1785440760249
-   },
-   {
-    "nome": "Bruna Raquel",
-    "tel": "5547*****534",
-    "dia": "30/07",
-    "desde": "17:05",
-    "ts": 1785441918340
-   },
-   {
-    "nome": "Isaías",
-    "tel": "5577*****931",
-    "dia": "30/07",
-    "desde": "17:24",
-    "ts": 1785443045358
-   },
-   {
-    "nome": "Alexandra",
-    "tel": "5519*****464",
-    "dia": "30/07",
-    "desde": "17:24",
-    "ts": 1785443059252
-   },
-   {
-    "nome": "Renata",
-    "tel": "5547*****549",
-    "dia": "30/07",
-    "desde": "17:33",
-    "ts": 1785443608014
-   },
-   {
-    "nome": "gibson",
-    "tel": "5581*****375",
-    "dia": "30/07",
-    "desde": "17:50",
-    "ts": 1785444605577
-   },
-   {
-    "nome": "laisa 김진이 🐶🥰",
-    "tel": "5515*****675",
-    "dia": "30/07",
-    "desde": "18:21",
-    "ts": 1785446491812
-   },
-   {
-    "nome": "5522992819400",
-    "tel": "5522*****400",
-    "dia": "30/07",
-    "desde": "19:24",
-    "ts": 1785450272952
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "E.C.C.G.S.F",
@@ -462,20 +377,42 @@
  },
  "agora": {
   "fila": 205,
-  "abertos": 288,
+  "abertos": 287,
   "com_atendimento": 6,
-  "online": 0,
-  "offline": 9,
+  "online": 1,
+  "offline": 8,
   "ausentes": 0,
   "espera_media_s": 960
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T14:39:54.352Z",
-  "min_sem_lead": 4848
+  "ultimo_lead_at": "2026-07-30T23:39:45.279Z",
+  "min_sem_lead": 3
  },
  "leads": [
   {
-   "nome": "5522992819400",
+   "nome": "559284069622",
+   "tel": "5592*****622",
+   "criado": "20:39",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "trabalho",
+   "tel": "5551*****058",
+   "criado": "13:33",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "andersonmelo130amo",
    "tel": "5522*****400",
    "criado": "19:24",
    "atendente": "Fernanda Gehm - Administradora",
@@ -563,7 +500,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553491248172",
+   "nome": "~",
    "tel": "5534*****172",
    "criado": "16:44",
    "atendente": "Fernanda Gehm - Administradora",
@@ -681,17 +618,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/a4OzxocO4",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "trabalho",
-   "tel": "5551*****058",
-   "criado": "13:33",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4uJZlRfWK",
    "area": "Nao identificada"
   },
   {
