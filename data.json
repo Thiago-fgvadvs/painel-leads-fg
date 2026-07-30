@@ -1,38 +1,46 @@
 {
- "gerado_em": "30/07/2026, 11:11",
+ "gerado_em": "30/07/2026, 11:27",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 7,
+  "total": 10,
+  "no_sla": 9,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 288,
-  "tickets_abertos": 287,
+  "leads_7d": 290,
+  "tickets_abertos": 286,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 7,
+   "leads": 9,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 7,
+  "Anuncio": 9,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 3
+  },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 3
+   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/a4OzxocO4",
+   "leads": 1
   },
   {
    "url": "fb.me/9KIOUZyJC",
@@ -40,18 +48,19 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 4
+  "Trabalhista": 5,
+  "Previdenciario": 1,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 146,
-  "turnos": 485,
+  "grupos_ativos": 149,
+  "turnos": 486,
   "respondidos": 474,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
   "mediana_min": 13.2,
   "atendentes": [
    {
@@ -97,28 +106,34 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.J.M.F x MINAS VERDE MAQUINAS LTDA",
-    "dia": "30/07",
-    "desde": "10:49",
-    "ts": 1785419350520
-   },
-   {
     "grupo": "F.G x ITAU UNIBANCO",
     "dia": "30/07",
     "desde": "10:31",
     "ts": 1785418268507
    },
    {
+    "grupo": "E.B.D.S x INSS",
+    "dia": "30/07",
+    "desde": "11:22",
+    "ts": 1785421341497
+   },
+   {
+    "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
+    "dia": "30/07",
+    "desde": "11:16",
+    "ts": 1785420991000
+   },
+   {
+    "grupo": "R.J.M.F x MINAS VERDE MAQUINAS LTDA",
+    "dia": "30/07",
+    "desde": "10:49",
+    "ts": 1785419350520
+   },
+   {
     "grupo": "A.F.G",
     "dia": "29/07",
     "desde": "18:01",
     "ts": 1785358906390
-   },
-   {
-    "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
-    "dia": "29/07",
-    "desde": "17:01",
-    "ts": 1785355278346
    },
    {
     "grupo": "B.M.S x KLOPER MENDONCA LANCHES LTDA",
@@ -180,6 +195,20 @@
     "dia": "30/07",
     "desde": "10:54",
     "ts": 1785419674064
+   },
+   {
+    "nome": "elvino",
+    "tel": "5545*****770",
+    "dia": "30/07",
+    "desde": "11:14",
+    "ts": 1785420863719
+   },
+   {
+    "nome": "🤍",
+    "tel": "5515*****609",
+    "dia": "30/07",
+    "desde": "11:20",
+    "ts": 1785421219743
    }
   ],
   "grupos": [
@@ -226,12 +255,6 @@
     "ts": 1785352695301
    },
    {
-    "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
-    "dia": "29/07",
-    "desde": "17:01",
-    "ts": 1785355278346
-   },
-   {
     "grupo": "A.F.G",
     "dia": "29/07",
     "desde": "18:01",
@@ -248,6 +271,18 @@
     "dia": "30/07",
     "desde": "10:49",
     "ts": 1785419350520
+   },
+   {
+    "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
+    "dia": "30/07",
+    "desde": "11:16",
+    "ts": 1785420991000
+   },
+   {
+    "grupo": "E.B.D.S x INSS",
+    "dia": "30/07",
+    "desde": "11:22",
+    "ts": 1785421341497
    }
   ]
  },
@@ -388,19 +423,41 @@
   ]
  },
  "agora": {
-  "fila": 188,
-  "abertos": 287,
+  "fila": 186,
+  "abertos": 286,
   "com_atendimento": 7,
   "online": 6,
   "offline": 0,
   "ausentes": 3,
-  "espera_media_s": 2049
+  "espera_media_s": 2041
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T16:19:05.868Z",
-  "min_sem_lead": 7073
+  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
+  "min_sem_lead": 4433
  },
  "leads": [
+  {
+   "nome": "😎❤️",
+   "tel": "5522*****431",
+   "criado": "09:36",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "🤍",
+   "tel": "5515*****609",
+   "criado": "11:20",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Previdenciario"
+  },
   {
    "nome": "Carol😃",
    "tel": "5511*****841",
@@ -410,6 +467,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "elvino",
+   "tel": "5545*****770",
+   "criado": "11:14",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/a4OzxocO4",
    "area": "Nao identificada"
   },
   {
@@ -443,17 +511,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "😎❤️",
-   "tel": "5522*****431",
-   "criado": "09:36",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
   },
   {
