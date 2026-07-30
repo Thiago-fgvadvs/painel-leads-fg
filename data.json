@@ -1,28 +1,28 @@
 {
- "gerado_em": "30/07/2026, 15:16",
+ "gerado_em": "30/07/2026, 15:31",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 20,
+  "total": 22,
+  "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 301,
-  "tickets_abertos": 290,
+  "leads_7d": 302,
+  "tickets_abertos": 296,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DbZB93YMdjP/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/4PcZAj72p",
    "leads": 1
   },
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/9NWELh2Dt",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9KIOUZyJC",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 9,
   "Trabalhista": 10,
+  "Nao identificada": 10,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -69,11 +69,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 155,
-  "turnos": 497,
-  "respondidos": 490,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 13.5,
+  "turnos": 504,
+  "respondidos": 493,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 13.8,
   "atendentes": [
    {
     "nome": "Julia",
@@ -82,13 +82,13 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 97,
-    "mediana_min": 22.9
+    "respostas": 98,
+    "mediana_min": 23.8
    },
    {
     "nome": "Eduardo",
-    "respostas": 57,
-    "mediana_min": 6.1
+    "respostas": 58,
+    "mediana_min": 6.2
    },
    {
     "nome": "Luisa",
@@ -96,19 +96,19 @@
     "mediana_min": 1.9
    },
    {
-    "nome": "Gabrielle",
-    "respostas": 16,
-    "mediana_min": 5.1
-   },
-   {
     "nome": "Thauany",
     "respostas": 16,
     "mediana_min": 9.5
    },
    {
+    "nome": "Gabrielle",
+    "respostas": 16,
+    "mediana_min": 5.1
+   },
+   {
     "nome": "Tiago Bernardo",
-    "respostas": 4,
-    "mediana_min": 743.8
+    "respostas": 5,
+    "mediana_min": 329.7
    },
    {
     "nome": "Roseli",
@@ -118,10 +118,34 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.G.D.O.J x DISTRIBUIDORA DE MEDICAMENTOS SANTA CRUZ LTDA",
+    "dia": "30/07",
+    "desde": "15:26",
+    "ts": 1785435978692
+   },
+   {
     "grupo": "A.M x INSS",
     "dia": "30/07",
     "desde": "14:34",
     "ts": 1785432886644
+   },
+   {
+    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
+    "dia": "30/07",
+    "desde": "14:05",
+    "ts": 1785431128634
+   },
+   {
+    "grupo": "P.D.P.G x STERILENO COMERCIO E SERVICOS LTDA",
+    "dia": "30/07",
+    "desde": "13:36",
+    "ts": 1785429363604
+   },
+   {
+    "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
+    "dia": "30/07",
+    "desde": "12:08",
+    "ts": 1785424138585
    },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
@@ -170,13 +194,6 @@
     "dia": "30/07",
     "desde": "11:20",
     "ts": 1785421219743
-   },
-   {
-    "nome": "558288956897",
-    "tel": "5582*****897",
-    "dia": "30/07",
-    "desde": "12:09",
-    "ts": 1785424158852
    },
    {
     "nome": "Cacau da Terra Alter do Chão",
@@ -240,6 +257,13 @@
     "dia": "30/07",
     "desde": "14:25",
     "ts": 1785432343956
+   },
+   {
+    "nome": "559781057821",
+    "tel": "5597*****821",
+    "dia": "30/07",
+    "desde": "15:29",
+    "ts": 1785436187682
    }
   ],
   "grupos": [
@@ -280,10 +304,34 @@
     "ts": 1785421862552
    },
    {
+    "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
+    "dia": "30/07",
+    "desde": "12:08",
+    "ts": 1785424138585
+   },
+   {
+    "grupo": "P.D.P.G x STERILENO COMERCIO E SERVICOS LTDA",
+    "dia": "30/07",
+    "desde": "13:36",
+    "ts": 1785429363604
+   },
+   {
+    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
+    "dia": "30/07",
+    "desde": "14:05",
+    "ts": 1785431128634
+   },
+   {
     "grupo": "A.M x INSS",
     "dia": "30/07",
     "desde": "14:34",
     "ts": 1785432886644
+   },
+   {
+    "grupo": "A.G.D.O.J x DISTRIBUIDORA DE MEDICAMENTOS SANTA CRUZ LTDA",
+    "dia": "30/07",
+    "desde": "15:26",
+    "ts": 1785435978692
    }
   ]
  },
@@ -424,30 +472,19 @@
   ]
  },
  "agora": {
-  "fila": 194,
-  "abertos": 290,
+  "fila": 195,
+  "abertos": 296,
   "com_atendimento": 7,
   "online": 6,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 1970
+  "espera_media_s": 1962
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T17:01:47.488Z",
-  "min_sem_lead": 74
+  "ultimo_lead_at": "2026-07-30T15:09:45.551Z",
+  "min_sem_lead": 202
  },
  "leads": [
-  {
-   "nome": "joaquimpantojaprotazio8@g",
-   "tel": "5592*****609",
-   "criado": "14:01",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Cacau da Terra Alter do Chão",
    "tel": "5593*****186",
@@ -458,6 +495,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "559781057821",
+   "tel": "5597*****821",
+   "criado": "15:29",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZB93YMdjP/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "joaquimpantojaprotazio8@g",
+   "tel": "5592*****609",
+   "criado": "14:01",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
   },
   {
    "nome": "😎❤️",
