@@ -1,28 +1,28 @@
 {
- "gerado_em": "30/07/2026, 18:10",
+ "gerado_em": "30/07/2026, 18:25",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 31,
-  "no_sla": 30,
+  "total": 32,
+  "no_sla": 31,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 311,
-  "tickets_abertos": 303,
+  "leads_7d": 312,
+  "tickets_abertos": 304,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 30,
+   "leads": 31,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 29,
+  "Anuncio": 30,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DbbelJsMLcO/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DbY-c_XMHEm/",
    "leads": 1
   },
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/9YkYjDvSU",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9Pf9FTshS",
-   "leads": 1
   }
  ],
  "areas": {
+  "Nao identificada": 16,
   "Trabalhista": 14,
-  "Nao identificada": 15,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -171,6 +171,13 @@
   "dias": 7,
   "leads": [
    {
+    "nome": "joaquimpantojaprotazio8@g",
+    "tel": "5592*****609",
+    "dia": "30/07",
+    "desde": "14:01",
+    "ts": 1785430907488
+   },
+   {
     "nome": "Vanderleia Cunha",
     "tel": "5597*****821",
     "dia": "30/07",
@@ -239,6 +246,13 @@
     "dia": "30/07",
     "desde": "17:50",
     "ts": 1785444605577
+   },
+   {
+    "nome": "laisa 김진이 🐶🥰",
+    "tel": "5515*****675",
+    "dia": "30/07",
+    "desde": "18:21",
+    "ts": 1785446491812
    }
   ],
   "grupos": [
@@ -294,12 +308,21 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 15,
+  "total": 16,
   "por_vendedor": {
-   "Tiago Bernardo": 6,
+   "Tiago Bernardo": 7,
    "Eduardo": 9
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "M.V.T",
+    "dia": "30/07",
+    "hora": "18:22",
+    "ts": 1785446555368,
+    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "—",
@@ -438,19 +461,30 @@
   ]
  },
  "agora": {
-  "fila": 203,
-  "abertos": 303,
+  "fila": 204,
+  "abertos": 304,
   "com_atendimento": 6,
   "online": 2,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 1904
+  "espera_media_s": 1897
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T12:31:07.610Z",
-  "min_sem_lead": 7719
+  "ultimo_lead_at": "2026-07-30T21:21:31.812Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "laisa 김진이 🐶🥰",
+   "tel": "5515*****675",
+   "criado": "18:21",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbbelJsMLcO/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "558198056375",
    "tel": "5581*****375",
