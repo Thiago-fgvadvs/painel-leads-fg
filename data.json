@@ -1,38 +1,38 @@
 {
- "gerado_em": "30/07/2026, 09:40",
+ "gerado_em": "30/07/2026, 09:55",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 4,
+  "total": 6,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
-  "mediana_geral": 0.8,
-  "leads_7d": 285,
+  "mediana_geral": 0.4,
+  "leads_7d": 286,
   "tickets_abertos": 287,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 4,
-   "mediana_min": 0.8
+   "leads": 5,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 1
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 2
   },
   {
    "url": "fb.me/9KIOUZyJC",
@@ -40,29 +40,29 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2,
-  "Nao identificada": 3
+  "Trabalhista": 4,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 144,
-  "turnos": 465,
-  "respondidos": 454,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
-  "mediana_min": 12.2,
+  "grupos_ativos": 145,
+  "turnos": 470,
+  "respondidos": 458,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
+  "mediana_min": 12.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 253,
-    "mediana_min": 20.8
+    "respostas": 255,
+    "mediana_min": 22.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 85,
-    "mediana_min": 21.8
+    "respostas": 87,
+    "mediana_min": 24.7
    },
    {
     "nome": "Eduardo",
@@ -97,16 +97,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "D.D.S.D.M x ORBENK ADMINISTRACAO E SERVICOS LTDA",
+    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "30/07",
-    "desde": "08:42",
-    "ts": 1785411761421
+    "desde": "09:47",
+    "ts": 1785415654485
    },
    {
     "grupo": "F.P.L",
     "dia": "29/07",
     "desde": "22:43",
     "ts": 1785375789404
+   },
+   {
+    "grupo": "S.S.A x SDB COMERCIO DE ALIMENTOS LTDA",
+    "dia": "29/07",
+    "desde": "19:13",
+    "ts": 1785363225429
    },
    {
     "grupo": "A.F.G",
@@ -223,16 +229,22 @@
     "ts": 1785358906390
    },
    {
+    "grupo": "S.S.A x SDB COMERCIO DE ALIMENTOS LTDA",
+    "dia": "29/07",
+    "desde": "19:13",
+    "ts": 1785363225429
+   },
+   {
     "grupo": "F.P.L",
     "dia": "29/07",
     "desde": "22:43",
     "ts": 1785375789404
    },
    {
-    "grupo": "D.D.S.D.M x ORBENK ADMINISTRACAO E SERVICOS LTDA",
+    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "30/07",
-    "desde": "08:42",
-    "ts": 1785411761421
+    "desde": "09:47",
+    "ts": 1785415654485
    }
   ]
  },
@@ -373,19 +385,30 @@
   ]
  },
  "agora": {
-  "fila": 185,
+  "fila": 186,
   "abertos": 287,
   "com_atendimento": 8,
   "online": 5,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 2152
+  "espera_media_s": 2065
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T01:19:10.676Z",
-  "min_sem_lead": 3561
+  "ultimo_lead_at": "2026-07-30T12:50:48.164Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "Fe$trem🚂🤬🤡👺💥🕊️🇮🇱🇮🇱🇮🇱",
+   "tel": "5531*****503",
+   "criado": "09:50",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "amanda",
    "tel": "5511*****504",
@@ -406,7 +429,7 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "Daniela",
