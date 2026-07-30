@@ -1,5 +1,5 @@
 {
- "gerado_em": "30/07/2026, 15:00",
+ "gerado_em": "30/07/2026, 15:16",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 301,
-  "tickets_abertos": 289,
+  "tickets_abertos": 290,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -69,10 +69,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 155,
-  "turnos": 496,
+  "turnos": 497,
   "respondidos": 490,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 13.5,
   "atendentes": [
    {
@@ -117,6 +117,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.M x INSS",
+    "dia": "30/07",
+    "desde": "14:34",
+    "ts": 1785432886644
+   },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "30/07",
@@ -272,6 +278,12 @@
     "dia": "30/07",
     "desde": "11:31",
     "ts": 1785421862552
+   },
+   {
+    "grupo": "A.M x INSS",
+    "dia": "30/07",
+    "desde": "14:34",
+    "ts": 1785432886644
    }
   ]
  },
@@ -412,17 +424,17 @@
   ]
  },
  "agora": {
-  "fila": 195,
-  "abertos": 289,
-  "com_atendimento": 6,
-  "online": 4,
-  "offline": 4,
-  "ausentes": 1,
+  "fila": 194,
+  "abertos": 290,
+  "com_atendimento": 7,
+  "online": 6,
+  "offline": 3,
+  "ausentes": 0,
   "espera_media_s": 1970
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-30T17:01:47.488Z",
-  "min_sem_lead": 59
+  "min_sem_lead": 74
  },
  "leads": [
   {
@@ -435,6 +447,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Cacau da Terra Alter do Chão",
+   "tel": "5593*****186",
+   "criado": "12:09",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
   },
   {
    "nome": "😎❤️",
@@ -522,17 +545,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Cacau da Terra Alter do Chão",
-   "tel": "5593*****186",
-   "criado": "12:09",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
   },
   {
