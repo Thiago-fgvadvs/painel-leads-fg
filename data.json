@@ -1,38 +1,38 @@
 {
- "gerado_em": "30/07/2026, 11:57",
+ "gerado_em": "30/07/2026, 12:12",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 10,
+  "total": 14,
+  "no_sla": 13,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 291,
-  "tickets_abertos": 287,
+  "leads_7d": 294,
+  "tickets_abertos": 293,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 10,
+   "leads": 13,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 13,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 3
+   "leads": 5
   },
   {
    "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
@@ -48,30 +48,30 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
   "Previdenciario": 2,
-  "Nao identificada": 4
+  "Nao identificada": 7,
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 152,
-  "turnos": 487,
-  "respondidos": 474,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
+  "grupos_ativos": 153,
+  "turnos": 491,
+  "respondidos": 476,
+  "sem_resposta": 15,
+  "sem_resposta_grupos": 15,
   "mediana_min": 13.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 263,
-    "mediana_min": 20.8
+    "respostas": 264,
+    "mediana_min": 21.6
    },
    {
     "nome": "Nicolas",
-    "respostas": 91,
-    "mediana_min": 21.4
+    "respostas": 92,
+    "mediana_min": 21.6
    },
    {
     "nome": "Eduardo",
@@ -106,22 +106,28 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "F.D.L.B.D.O x CASA DE SAUDE SANTA MARCELINA",
+    "dia": "28/07",
+    "desde": "09:33",
+    "ts": 1785241992754
+   },
+   {
     "grupo": "R.J.M.F x MINAS VERDE MAQUINAS LTDA",
     "dia": "30/07",
     "desde": "10:49",
     "ts": 1785419350520
    },
    {
-    "grupo": "E.B.D.S x INSS",
-    "dia": "30/07",
-    "desde": "11:22",
-    "ts": 1785421341497
-   },
-   {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "30/07",
     "desde": "11:31",
     "ts": 1785421862552
+   },
+   {
+    "grupo": "S.B x BANCO BRADESCO",
+    "dia": "30/07",
+    "desde": "11:26",
+    "ts": 1785421600585
    },
    {
     "grupo": "F.G x ITAU UNIBANCO",
@@ -134,6 +140,12 @@
     "dia": "30/07",
     "desde": "11:16",
     "ts": 1785420991000
+   },
+   {
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "30/07",
+    "desde": "11:09",
+    "ts": 1785420540556
    },
    {
     "grupo": "A.F.G",
@@ -187,37 +199,14 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Carol😃",
-    "tel": "5511*****841",
-    "dia": "30/07",
-    "desde": "10:54",
-    "ts": 1785419674064
-   },
-   {
-    "nome": "elvino",
-    "tel": "5545*****770",
-    "dia": "30/07",
-    "desde": "11:14",
-    "ts": 1785420863719
-   },
-   {
-    "nome": "🤍",
-    "tel": "5515*****609",
-    "dia": "30/07",
-    "desde": "11:20",
-    "ts": 1785421219743
-   },
-   {
-    "nome": "elianafernandes971",
-    "tel": "5534*****409",
-    "dia": "30/07",
-    "desde": "11:53",
-    "ts": 1785423186190
-   }
-  ],
+  "leads": [],
   "grupos": [
+   {
+    "grupo": "F.D.L.B.D.O x CASA DE SAUDE SANTA MARCELINA",
+    "dia": "28/07",
+    "desde": "09:33",
+    "ts": 1785241992754
+   },
    {
     "grupo": "E.C.C.G.S.F",
     "dia": "28/07",
@@ -279,16 +268,22 @@
     "ts": 1785419350520
    },
    {
+    "grupo": "J.H.L.A x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "30/07",
+    "desde": "11:09",
+    "ts": 1785420540556
+   },
+   {
     "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
     "dia": "30/07",
     "desde": "11:16",
     "ts": 1785420991000
    },
    {
-    "grupo": "E.B.D.S x INSS",
+    "grupo": "S.B x BANCO BRADESCO",
     "dia": "30/07",
-    "desde": "11:22",
-    "ts": 1785421341497
+    "desde": "11:26",
+    "ts": 1785421600585
    },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
@@ -435,25 +430,69 @@
   ]
  },
  "agora": {
-  "fila": 187,
-  "abertos": 287,
-  "com_atendimento": 7,
-  "online": 4,
+  "fila": 188,
+  "abertos": 293,
+  "com_atendimento": 8,
+  "online": 6,
   "offline": 0,
-  "ausentes": 5,
-  "espera_media_s": 2033
+  "ausentes": 3,
+  "espera_media_s": 2009
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T12:36:48.248Z",
-  "min_sem_lead": 141
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 665273
  },
  "leads": [
   {
-   "nome": "😎❤️",
-   "tel": "5522*****431",
-   "criado": "09:36",
+   "nome": "🤍",
+   "tel": "5515*****609",
+   "criado": "11:20",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Marcelo",
+   "tel": "5527*****559",
+   "criado": "12:09",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "559391965186",
+   "tel": "5593*****186",
+   "criado": "12:09",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "558288956897",
+   "tel": "5582*****897",
+   "criado": "12:09",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Daniela",
+   "tel": "5573*****880",
+   "criado": "09:10",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 1.1,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
@@ -471,6 +510,17 @@
    "area": "Previdenciario"
   },
   {
+   "nome": "😎❤️",
+   "tel": "5522*****431",
+   "criado": "09:36",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "Carol😃",
    "tel": "5511*****841",
    "criado": "10:54",
@@ -480,17 +530,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "🤍",
-   "tel": "5515*****609",
-   "criado": "11:20",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Previdenciario"
   },
   {
    "nome": "elvino",
@@ -534,17 +573,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Daniela",
-   "tel": "5573*****880",
-   "criado": "09:10",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 1.1,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
   },
   {
