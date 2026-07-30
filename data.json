@@ -1,28 +1,28 @@
 {
- "gerado_em": "30/07/2026, 14:15",
+ "gerado_em": "30/07/2026, 14:30",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
-  "no_sla": 19,
+  "total": 21,
+  "no_sla": 20,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 300,
-  "tickets_abertos": 288,
+  "leads_7d": 301,
+  "tickets_abertos": 289,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/4PcZAj72p",
+   "leads": 1
+  },
+  {
    "url": "fb.me/4uJZlRfWK",
    "leads": 1
   },
@@ -56,9 +60,9 @@
   }
  ],
  "areas": {
-  "Previdenciario": 2,
   "Nao identificada": 9,
-  "Trabalhista": 9
+  "Trabalhista": 10,
+  "Previdenciario": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -155,13 +159,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "🤍",
-    "tel": "5515*****609",
-    "dia": "30/07",
-    "desde": "11:20",
-    "ts": 1785421219743
-   },
-   {
     "nome": "elianafernandes971",
     "tel": "5534*****409",
     "dia": "30/07",
@@ -230,6 +227,13 @@
     "dia": "30/07",
     "desde": "14:01",
     "ts": 1785430907488
+   },
+   {
+    "nome": "Daniel Caetano",
+    "tel": "5521*****630",
+    "dia": "30/07",
+    "desde": "14:25",
+    "ts": 1785432343956
    }
   ],
   "grupos": [
@@ -408,30 +412,19 @@
   ]
  },
  "agora": {
-  "fila": 194,
-  "abertos": 288,
+  "fila": 195,
+  "abertos": 289,
   "com_atendimento": 6,
-  "online": 1,
-  "offline": 2,
-  "ausentes": 6,
-  "espera_media_s": 1977
+  "online": 4,
+  "offline": 3,
+  "ausentes": 2,
+  "espera_media_s": 1970
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T14:20:19.743Z",
-  "min_sem_lead": 175
+  "ultimo_lead_at": "2026-07-30T17:01:47.488Z",
+  "min_sem_lead": 29
  },
  "leads": [
-  {
-   "nome": "🤍",
-   "tel": "5515*****609",
-   "criado": "11:20",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Previdenciario"
-  },
   {
    "nome": "joaquimpantojaprotazio8@g",
    "tel": "5592*****609",
@@ -442,6 +435,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Daniel Caetano",
+   "tel": "5521*****630",
+   "criado": "14:25",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4PcZAj72p",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "🤍",
+   "tel": "5515*****609",
+   "criado": "11:20",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Previdenciario"
   },
   {
    "nome": "Marcelo",
