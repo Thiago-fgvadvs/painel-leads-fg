@@ -1,28 +1,28 @@
 {
- "gerado_em": "30/07/2026, 19:11",
+ "gerado_em": "30/07/2026, 19:26",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 32,
+  "total": 33,
   "no_sla": 31,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 0,
+  "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 312,
-  "tickets_abertos": 287,
+  "leads_7d": 313,
+  "tickets_abertos": 288,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 31,
+   "leads": 32,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 30,
+  "Anuncio": 31,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/6jrK9O3qz",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DbbelJsMLcO/",
    "leads": 1
   },
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9YkYjDvSU",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 15,
   "Nao identificada": 16,
-  "Trabalhista": 14,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -171,13 +171,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "joaquimpantojaprotazio8@g",
-    "tel": "5592*****609",
-    "dia": "30/07",
-    "desde": "14:01",
-    "ts": 1785430907488
-   },
-   {
     "nome": "Vanderleia Cunha",
     "tel": "5597*****821",
     "dia": "30/07",
@@ -253,6 +246,13 @@
     "dia": "30/07",
     "desde": "18:21",
     "ts": 1785446491812
+   },
+   {
+    "nome": "5522992819400",
+    "tel": "5522*****400",
+    "dia": "30/07",
+    "desde": "19:24",
+    "ts": 1785450272952
    }
   ],
   "grupos": [
@@ -461,19 +461,30 @@
   ]
  },
  "agora": {
-  "fila": 204,
-  "abertos": 287,
+  "fila": 205,
+  "abertos": 288,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 963
+  "espera_media_s": 960
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T19:07:45.533Z",
-  "min_sem_lead": 4503
+  "ultimo_lead_at": "2026-07-30T22:24:32.952Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "5522992819400",
+   "tel": "5522*****400",
+   "criado": "19:24",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6jrK9O3qz",
+   "area": "Trabalhista"
+  },
   {
    "nome": "laisa 김진이 🐶🥰",
    "tel": "5515*****675",
