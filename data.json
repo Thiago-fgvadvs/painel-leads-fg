@@ -1,171 +1,61 @@
 {
- "gerado_em": "29/07/2026, 21:52",
- "data_ref": "29/07/2026",
+ "gerado_em": "30/07/2026, 07:07",
+ "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 38,
-  "no_sla": 22,
-  "fora_sla": 8,
+  "total": 0,
+  "no_sla": 0,
+  "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 5,
-  "pct_sla": 73,
-  "mediana_geral": 0.5,
-  "leads_7d": 311,
-  "tickets_abertos": 276,
+  "fora_horario": 0,
+  "pct_sla": 0,
+  "mediana_geral": null,
+  "leads_7d": 280,
+  "tickets_abertos": 282,
   "periodo_dias": 7
  },
- "atendentes": [
-  {
-   "nome": "Fernanda Gehm - Administradora",
-   "leads": 22,
-   "mediana_min": 0.4
-  },
-  {
-   "nome": "Eduardo",
-   "leads": 9,
-   "mediana_min": 15.8
-  },
-  {
-   "nome": "Tiago Bernardo",
-   "leads": 4,
-   "mediana_min": 111.7
-  }
- ],
+ "atendentes": [],
  "origem": {
-  "Anuncio": 31,
-  "Direto/Indicacao": 7
+  "Anuncio": 0,
+  "Direto/Indicacao": 0
  },
- "criativos": [
-  {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 12
-  },
-  {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
-   "leads": 4
-  },
-  {
-   "url": "fb.me/cMY7LLYxT",
-   "leads": 3
-  },
-  {
-   "url": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "leads": 2
-  },
-  {
-   "url": "fb.me/9Pf9FTshS",
-   "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DYVTKQODOlC/",
-   "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DaTOr0Rsg0z/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/gp4PFLi6F",
-   "leads": 1
-  }
- ],
- "areas": {
-  "Trabalhista": 13,
-  "Nao identificada": 24,
-  "Previdenciario": 1
- },
+ "criativos": [],
+ "areas": {},
  "sem_resposta_lista": [],
- "fora_sla_lista": [
-  {
-   "nome": "Kathlen Gonçalves",
-   "tel": "5551*****198",
-   "criado": "09:20",
-   "espera_min": 38,
-   "atendente": "Eduardo"
-  },
-  {
-   "nome": "𝑭𝒓𝒂𝒏 𝒑𝒓𝒂𝒅𝒐",
-   "tel": "5541*****970",
-   "criado": "12:07",
-   "espera_min": 39.6,
-   "atendente": "Eduardo"
-  },
-  {
-   "nome": "Santos",
-   "tel": "5599*****770",
-   "criado": "11:34",
-   "espera_min": 189.3,
-   "atendente": "Tiago Bernardo"
-  },
-  {
-   "nome": "vanda",
-   "tel": "5521*****994",
-   "criado": "09:09",
-   "espera_min": 358.1,
-   "atendente": "Fernanda Gehm - Administradora"
-  },
-  {
-   "nome": "BWesley Madrid",
-   "tel": "5511*****356",
-   "criado": "09:09",
-   "espera_min": 116.6,
-   "atendente": "Eduardo"
-  },
-  {
-   "nome": "Januário 🇧🇷",
-   "tel": "5588*****288",
-   "criado": "09:09",
-   "espera_min": 334.6,
-   "atendente": "Tiago Bernardo"
-  },
-  {
-   "nome": "Maisa",
-   "tel": "5547*****481",
-   "criado": "11:57",
-   "espera_min": 34,
-   "atendente": "Tiago Bernardo"
-  },
-  {
-   "nome": "Marcio Santos",
-   "tel": "5521*****540",
-   "criado": "09:42",
-   "espera_min": 15.8,
-   "atendente": "Eduardo"
-  }
- ],
+ "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 161,
-  "turnos": 564,
-  "respondidos": 551,
+  "grupos_ativos": 140,
+  "turnos": 462,
+  "respondidos": 449,
   "sem_resposta": 13,
   "sem_resposta_grupos": 13,
-  "mediana_min": 13.2,
+  "mediana_min": 11.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 323,
-    "mediana_min": 19.8
+    "respostas": 252,
+    "mediana_min": 20.8
    },
    {
     "nome": "Nicolas",
-    "respostas": 100,
-    "mediana_min": 17.8
+    "respostas": 83,
+    "mediana_min": 18.9
    },
    {
     "nome": "Eduardo",
-    "respostas": 58,
-    "mediana_min": 6.2
-   },
-   {
-    "nome": "Gabrielle",
-    "respostas": 29,
-    "mediana_min": 5.8
+    "respostas": 57,
+    "mediana_min": 6.1
    },
    {
     "nome": "Luisa",
     "respostas": 24,
     "mediana_min": 1.9
+   },
+   {
+    "nome": "Gabrielle",
+    "respostas": 16,
+    "mediana_min": 5.1
    },
    {
     "nome": "Thauany",
@@ -185,6 +75,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "F.P.L",
+    "dia": "29/07",
+    "desde": "22:43",
+    "ts": 1785375789404
+   },
+   {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "29/07",
     "desde": "18:14",
@@ -255,12 +151,6 @@
     "dia": "28/07",
     "desde": "15:36",
     "ts": 1785263806095
-   },
-   {
-    "grupo": "A.J.P.B",
-    "dia": "23/07",
-    "desde": "17:40",
-    "ts": 1784839222774
    }
   ]
  },
@@ -269,12 +159,6 @@
   "leads": [],
   "grupos": [
    {
-    "grupo": "A.J.P.B",
-    "dia": "23/07",
-    "desde": "17:40",
-    "ts": 1784839222774
-   },
-   {
     "grupo": "E.C.C.G.S.F",
     "dia": "28/07",
     "desde": "13:48",
@@ -345,15 +229,21 @@
     "dia": "29/07",
     "desde": "18:14",
     "ts": 1785359668405
+   },
+   {
+    "grupo": "F.P.L",
+    "dia": "29/07",
+    "desde": "22:43",
+    "ts": 1785375789404
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 14,
+  "total": 13,
   "por_vendedor": {
    "Eduardo": 8,
-   "Tiago Bernardo": 6
+   "Tiago Bernardo": 5
   },
   "lista": [
    {
@@ -472,449 +362,21 @@
     "ts": 1784906235015,
     "origem": "Anúncio: instagram.com/p/DYhcT7SDBWR/",
     "de_anuncio": true
-   },
-   {
-    "vendedor": "Tiago Bernardo",
-    "cliente": "—",
-    "dia": "23/07",
-    "hora": "09:20",
-    "ts": 1784809219022,
-    "origem": "Anúncio: instagram.com/p/DaTRZtSMZjU/",
-    "de_anuncio": true
    }
   ]
  },
  "agora": {
-  "fila": 174,
-  "abertos": 276,
+  "fila": 180,
+  "abertos": 282,
   "com_atendimento": 8,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2242
+  "espera_media_s": 2187
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-26T01:24:26.330Z",
-  "min_sem_lead": 5728
+  "ultimo_lead_at": "2026-07-27T13:53:25.668Z",
+  "min_sem_lead": 4094
  },
- "leads": [
-  {
-   "nome": "554199019847",
-   "tel": "5541*****847",
-   "criado": "20:49",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.6,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTOr0Rsg0z/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Morenna😍",
-   "tel": "5521*****683",
-   "criado": "20:43",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "edmilsonmergulhaojt",
-   "tel": "5581*****060",
-   "criado": "19:52",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/gp4PFLi6F",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Estela Pires",
-   "tel": "5524*****593",
-   "criado": "17:55",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Previdenciario"
-  },
-  {
-   "nome": "Lukas@",
-   "tel": "5511*****805",
-   "criado": "18:46",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVSpWbDIOY/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "priscila zampronio",
-   "tel": "5551*****869",
-   "criado": "18:26",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Maria Alda",
-   "tel": "5518*****707",
-   "criado": "18:36",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Tati",
-   "tel": "5511*****987",
-   "criado": "18:28",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Kmx",
-   "tel": "5511*****077",
-   "criado": "17:48",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Kathlen Gonçalves",
-   "tel": "5551*****198",
-   "criado": "09:20",
-   "atendente": "Eduardo",
-   "espera_min": 38,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "𝑭𝒓𝒂𝒏 𝒑𝒓𝒂𝒅𝒐",
-   "tel": "5541*****970",
-   "criado": "12:07",
-   "atendente": "Eduardo",
-   "espera_min": 39.6,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Vera Gueiros",
-   "tel": "5587*****022",
-   "criado": "17:53",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 1,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "🇷 🇴 🇸 🇾",
-   "tel": "5591*****078",
-   "criado": "16:35",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "É A Chelly Né Vida",
-   "tel": "5511*****190",
-   "criado": "17:15",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Marcella ❤️",
-   "tel": "5511*****231",
-   "criado": "17:13",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Mariana 👼🏻💞",
-   "tel": "5537*****624",
-   "criado": "16:57",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbYz_apsQ2D/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "RENATA CAMIOLA",
-   "tel": "5511*****657",
-   "criado": "16:41",
-   "atendente": "Eduardo",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Santos",
-   "tel": "5599*****770",
-   "criado": "11:34",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 189.3,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "💕",
-   "tel": "5547*****525",
-   "criado": "12:43",
-   "atendente": "Eduardo",
-   "espera_min": 4.1,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Macksuel",
-   "tel": "5541*****975",
-   "criado": "16:38",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "vanda",
-   "tel": "5521*****994",
-   "criado": "09:09",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 358.1,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "🦋",
-   "tel": "5538*****722",
-   "criado": "15:10",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "☀️",
-   "tel": "5521*****069",
-   "criado": "10:11",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 9.1,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "BWesley Madrid",
-   "tel": "5511*****356",
-   "criado": "09:09",
-   "atendente": "Eduardo",
-   "espera_min": 116.6,
-   "status": "FORA_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Januário 🇧🇷",
-   "tel": "5588*****288",
-   "criado": "09:09",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 334.6,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "fatima.basilo",
-   "tel": "5543*****216",
-   "criado": "14:14",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Princípios",
-   "tel": "5567*****778",
-   "criado": "14:00",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Marta Bezerra",
-   "tel": "5571*****192",
-   "criado": "13:53",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Danielle Alves🇾🇪",
-   "tel": "5511*****263",
-   "criado": "01:42",
-   "atendente": "Eduardo",
-   "espera_min": 496.9,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYxXVJ_jJgg/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Maisa",
-   "tel": "5547*****481",
-   "criado": "11:57",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 34,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "B ✨",
-   "tel": "5511*****845",
-   "criado": "13:34",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Samy",
-   "tel": "5547*****955",
-   "criado": "13:30",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTWI6DPYt/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Vinícius Cazarini",
-   "tel": "5535*****357",
-   "criado": "10:31",
-   "atendente": "Eduardo",
-   "espera_min": 13.8,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Veridiana Lops",
-   "tel": "5584*****327",
-   "criado": "02:05",
-   "atendente": "Eduardo",
-   "espera_min": 472.8,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Marcio Santos",
-   "tel": "5521*****540",
-   "criado": "09:42",
-   "atendente": "Eduardo",
-   "espera_min": 15.8,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Maria Clara",
-   "tel": "5564*****466",
-   "criado": "09:09",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "piresrafaela426",
-   "tel": "5537*****503",
-   "criado": "09:09",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Bia",
-   "tel": "5567*****500",
-   "criado": "13:25",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  }
- ]
+ "leads": []
 }
