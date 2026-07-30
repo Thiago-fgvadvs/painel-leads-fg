@@ -1,29 +1,29 @@
 {
- "gerado_em": "30/07/2026, 12:28",
+ "gerado_em": "30/07/2026, 12:43",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
-  "no_sla": 14,
+  "total": 16,
+  "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 295,
-  "tickets_abertos": 294,
+  "leads_7d": 296,
+  "tickets_abertos": 295,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 14,
+   "leads": 15,
    "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 14,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -52,8 +52,8 @@
   }
  ],
  "areas": {
+  "Trabalhista": 7,
   "Previdenciario": 2,
-  "Trabalhista": 6,
   "Nao identificada": 7
  },
  "sem_resposta_lista": [],
@@ -61,10 +61,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 153,
-  "turnos": 493,
+  "turnos": 494,
   "respondidos": 480,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
   "mediana_min": 13.3,
   "atendentes": [
    {
@@ -109,6 +109,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.B.D.S x INSS",
+    "dia": "30/07",
+    "desde": "12:35",
+    "ts": 1785425749554
+   },
    {
     "grupo": "R.J.M.F x MINAS VERDE MAQUINAS LTDA",
     "dia": "30/07",
@@ -191,7 +197,50 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "elianafernandes971",
+    "tel": "5534*****409",
+    "dia": "30/07",
+    "desde": "11:53",
+    "ts": 1785423186190
+   },
+   {
+    "nome": "558288956897",
+    "tel": "5582*****897",
+    "dia": "30/07",
+    "desde": "12:09",
+    "ts": 1785424158852
+   },
+   {
+    "nome": "Cacau da Terra Alter do Chão",
+    "tel": "5593*****186",
+    "dia": "30/07",
+    "desde": "12:09",
+    "ts": 1785424185551
+   },
+   {
+    "nome": "Marcelo",
+    "tel": "5527*****559",
+    "dia": "30/07",
+    "desde": "12:09",
+    "ts": 1785424199676
+   },
+   {
+    "nome": "5517981533504",
+    "tel": "5517*****504",
+    "dia": "30/07",
+    "desde": "12:21",
+    "ts": 1785424905663
+   },
+   {
+    "nome": "Jeane",
+    "tel": "5587*****481",
+    "dia": "30/07",
+    "desde": "12:30",
+    "ts": 1785425401949
+   }
+  ],
   "grupos": [
    {
     "grupo": "E.C.C.G.S.F",
@@ -270,6 +319,12 @@
     "dia": "30/07",
     "desde": "11:31",
     "ts": 1785421862552
+   },
+   {
+    "grupo": "E.B.D.S x INSS",
+    "dia": "30/07",
+    "desde": "12:35",
+    "ts": 1785425749554
    }
   ]
  },
@@ -410,29 +465,29 @@
   ]
  },
  "agora": {
-  "fila": 189,
-  "abertos": 294,
+  "fila": 191,
+  "abertos": 295,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 3,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 2001
+  "ausentes": 5,
+  "espera_media_s": 1993
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T13:53:25.668Z",
-  "min_sem_lead": 4415
+  "ultimo_lead_at": "2026-07-30T15:30:01.949Z",
+  "min_sem_lead": 13
  },
  "leads": [
   {
-   "nome": "🤍",
-   "tel": "5515*****609",
-   "criado": "11:20",
+   "nome": "Jeane",
+   "tel": "5587*****481",
+   "criado": "12:30",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Previdenciario"
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
   },
   {
    "nome": "Cacau da Terra Alter do Chão",
@@ -444,6 +499,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "🤍",
+   "tel": "5515*****609",
+   "criado": "11:20",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Previdenciario"
   },
   {
    "nome": "5517981533504",
