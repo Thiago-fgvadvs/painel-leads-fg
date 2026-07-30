@@ -1,5 +1,5 @@
 {
- "gerado_em": "30/07/2026, 13:14",
+ "gerado_em": "30/07/2026, 13:29",
  "data_ref": "30/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 297,
-  "tickets_abertos": 287,
+  "tickets_abertos": 285,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,11 +27,11 @@
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DaTRZtSMZjU/",
    "leads": 5
   },
   {
-   "url": "www.instagram.com/p/DaTRZtSMZjU/",
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 5
   },
   {
@@ -52,30 +52,30 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
+  "Trabalhista": 9,
   "Previdenciario": 2,
-  "Nao identificada": 7
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 155,
-  "turnos": 490,
-  "respondidos": 483,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 13.6,
+  "turnos": 494,
+  "respondidos": 488,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 13.5,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 267,
+    "respostas": 271,
     "mediana_min": 22.3
    },
    {
     "nome": "Nicolas",
-    "respostas": 96,
-    "mediana_min": 23.8
+    "respostas": 97,
+    "mediana_min": 22.9
    },
    {
     "nome": "Eduardo",
@@ -88,14 +88,14 @@
     "mediana_min": 1.9
    },
    {
-    "nome": "Thauany",
-    "respostas": 16,
-    "mediana_min": 9.5
-   },
-   {
     "nome": "Gabrielle",
     "respostas": 16,
     "mediana_min": 5.1
+   },
+   {
+    "nome": "Thauany",
+    "respostas": 16,
+    "mediana_min": 9.5
    },
    {
     "nome": "Tiago Bernardo",
@@ -109,12 +109,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
-    "dia": "30/07",
-    "desde": "12:18",
-    "ts": 1785424692594
-   },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "30/07",
@@ -235,12 +229,6 @@
     "dia": "30/07",
     "desde": "11:31",
     "ts": 1785421862552
-   },
-   {
-    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
-    "dia": "30/07",
-    "desde": "12:18",
-    "ts": 1785424692594
    }
   ]
  },
@@ -382,18 +370,29 @@
  },
  "agora": {
   "fila": 191,
-  "abertos": 287,
-  "com_atendimento": 8,
-  "online": 3,
-  "offline": 2,
+  "abertos": 285,
+  "com_atendimento": 6,
+  "online": 4,
+  "offline": 1,
   "ausentes": 4,
-  "espera_media_s": 1993
+  "espera_media_s": 2000
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T12:10:32.613Z",
-  "min_sem_lead": 243
+  "ultimo_lead_at": "2026-07-27T19:07:45.533Z",
+  "min_sem_lead": 4161
  },
  "leads": [
+  {
+   "nome": "Marcelo",
+   "tel": "5527*****559",
+   "criado": "12:09",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Daniela",
    "tel": "5573*****880",
@@ -458,17 +457,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/9NWELh2Dt",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Marcelo",
-   "tel": "5527*****559",
-   "criado": "12:09",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTRZtSMZjU/",
    "area": "Nao identificada"
   },
   {
