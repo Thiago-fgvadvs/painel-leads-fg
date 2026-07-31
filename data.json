@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 17:32",
+ "gerado_em": "31/07/2026, 17:48",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 38,
-  "no_sla": 37,
+  "total": 40,
+  "no_sla": 39,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 331,
-  "tickets_abertos": 142,
+  "leads_7d": 333,
+  "tickets_abertos": 143,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 36,
+   "leads": 38,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 35,
+  "Anuncio": 37,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -41,16 +41,16 @@
    "leads": 11
   },
   {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 5
+  },
+  {
    "url": "fb.me/4uJZlRfWK",
    "leads": 5
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 4
-  },
-  {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/cMY7LLYxT",
@@ -70,25 +70,25 @@
   }
  ],
  "areas": {
+  "Nao identificada": 23,
   "Trabalhista": 16,
-  "Nao identificada": 21,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 166,
-  "turnos": 464,
-  "respondidos": 456,
+  "grupos_ativos": 167,
+  "turnos": 472,
+  "respondidos": 464,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
-  "mediana_min": 15.2,
+  "mediana_min": 16,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 245,
-    "mediana_min": 20.7
+    "respostas": 253,
+    "mediana_min": 23
    },
    {
     "nome": "Nicolas",
@@ -145,10 +145,10 @@
     "ts": 1785521853070
    },
    {
-    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
+    "grupo": "C.F.G.D.C x MUNICIPIO DE MANGARATIBA",
     "dia": "31/07",
-    "desde": "15:03",
-    "ts": 1785520984068
+    "desde": "13:35",
+    "ts": 1785515745019
    },
    {
     "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
@@ -186,25 +186,18 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Bruna Raquel",
-    "tel": "5547*****534",
-    "dia": "30/07",
-    "desde": "17:05",
-    "ts": 1785441918340
-   },
-   {
-    "nome": "Elton",
-    "tel": "5592*****622",
-    "dia": "30/07",
-    "desde": "20:39",
-    "ts": 1785454785279
-   },
-   {
     "nome": "M",
     "tel": "5548*****795",
     "dia": "31/07",
     "desde": "11:34",
     "ts": 1785508481243
+   },
+   {
+    "nome": "Ketlin Tais",
+    "tel": "5541*****987",
+    "dia": "31/07",
+    "desde": "12:42",
+    "ts": 1785512537962
    }
   ],
   "grupos": [
@@ -239,10 +232,10 @@
     "ts": 1785511795987
    },
    {
-    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
+    "grupo": "C.F.G.D.C x MUNICIPIO DE MANGARATIBA",
     "dia": "31/07",
-    "desde": "15:03",
-    "ts": 1785520984068
+    "desde": "13:35",
+    "ts": 1785515745019
    },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
@@ -386,19 +379,41 @@
   ]
  },
  "agora": {
-  "fila": 46,
-  "abertos": 142,
-  "com_atendimento": 8,
+  "fila": 48,
+  "abertos": 143,
+  "com_atendimento": 7,
   "online": 2,
-  "offline": 6,
-  "ausentes": 1,
-  "espera_media_s": 2512
+  "offline": 7,
+  "ausentes": 0,
+  "espera_media_s": 2464
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T19:26:21.624Z",
-  "min_sem_lead": 66
+  "ultimo_lead_at": "2026-07-15T16:56:37.862Z",
+  "min_sem_lead": 23271
  },
  "leads": [
+  {
+   "nome": "556791230529",
+   "tel": "5567*****529",
+   "criado": "17:41",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Monique Suelen",
+   "tel": "5531*****283",
+   "criado": "17:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "danilosouzapardim7",
    "tel": "5511*****571",
