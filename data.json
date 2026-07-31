@@ -1,53 +1,67 @@
 {
- "gerado_em": "31/07/2026, 10:02",
+ "gerado_em": "31/07/2026, 10:17",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 1,
-  "no_sla": 0,
+  "total": 4,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 294,
-  "tickets_abertos": 293,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 297,
+  "tickets_abertos": 277,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
+   "leads": 3,
+   "mediana_min": 0.4
+  },
+  {
+   "nome": "Roseli",
    "leads": 1,
-   "mediana_min": null
+   "mediana_min": 3.6
   }
  ],
  "origem": {
-  "Anuncio": 1,
-  "Direto/Indicacao": 0
+  "Anuncio": 3,
+  "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "leads": 1
+  },
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 1
+  "Trabalhista": 2,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 153,
-  "turnos": 432,
-  "respondidos": 424,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 14.6,
+  "grupos_ativos": 154,
+  "turnos": 436,
+  "respondidos": 427,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 14.5,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 227,
+    "respostas": 230,
     "mediana_min": 20.8
    },
    {
@@ -87,6 +101,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
+    "dia": "31/07",
+    "desde": "10:14",
+    "ts": 1785503651872
+   },
    {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
     "dia": "31/07",
@@ -139,29 +159,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Nilce pereira",
-    "tel": "5598*****932",
-    "dia": "30/07",
-    "desde": "23:40",
-    "ts": 1785465631315
-   },
-   {
-    "nome": "Frida😍",
-    "tel": "5567*****134",
-    "dia": "30/07",
-    "desde": "23:48",
-    "ts": 1785466119597
-   },
-   {
-    "nome": "fatimaaparecidakaua28",
-    "tel": "5512*****407",
-    "dia": "31/07",
-    "desde": "00:33",
-    "ts": 1785468835291
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "E.C.C.G.S.F",
@@ -210,6 +208,12 @@
     "dia": "31/07",
     "desde": "09:46",
     "ts": 1785502000826
+   },
+   {
+    "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
+    "dia": "31/07",
+    "desde": "10:14",
+    "ts": 1785503651872
    }
   ]
  },
@@ -332,19 +336,52 @@
   ]
  },
  "agora": {
-  "fila": 205,
-  "abertos": 293,
+  "fila": 184,
+  "abertos": 277,
   "com_atendimento": 7,
-  "online": 7,
+  "online": 5,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 952
+  "ausentes": 3,
+  "espera_media_s": 1031
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-26T13:59:41.681Z",
-  "min_sem_lead": 7142
+  "ultimo_lead_at": "2026-07-30T01:58:19.540Z",
+  "min_sem_lead": 2119
  },
  "leads": [
+  {
+   "nome": "Vinyplay81@😎",
+   "tel": "5522*****144",
+   "criado": "10:14",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Lorraine Martins",
+   "tel": "5531*****390",
+   "criado": "10:02",
+   "atendente": "Roseli",
+   "espera_min": 3.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Julia Lima",
+   "tel": "5531*****474",
+   "criado": "10:09",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "fatimaaparecidakaua28",
    "tel": "5512*****407",
