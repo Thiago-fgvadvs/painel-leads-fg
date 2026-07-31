@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 17:02",
+ "gerado_em": "31/07/2026, 17:17",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 36,
-  "no_sla": 34,
+  "total": 38,
+  "no_sla": 37,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 329,
-  "tickets_abertos": 137,
+  "leads_7d": 331,
+  "tickets_abertos": 140,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 33,
+   "leads": 36,
    "mediana_min": 0.4
   },
   {
@@ -32,8 +32,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 32,
-  "Direto/Indicacao": 4
+  "Anuncio": 35,
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -41,19 +41,23 @@
    "leads": 11
   },
   {
+   "url": "fb.me/4uJZlRfWK",
+   "leads": 5
+  },
+  {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 4
   },
   {
-   "url": "fb.me/4uJZlRfWK",
-   "leads": 4
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "leads": 3
   },
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "url": "fb.me/4EHi0h7IT",
    "leads": 2
   },
   {
@@ -63,15 +67,11 @@
   {
    "url": "fb.me/4PcZAj72p",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4EHi0h7IT",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 20,
-  "Trabalhista": 15,
+  "Trabalhista": 16,
+  "Nao identificada": 21,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -175,25 +175,18 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Cacau da Terra Alter do Chão",
-    "tel": "5593*****186",
-    "dia": "30/07",
-    "desde": "12:09",
-    "ts": 1785424185551
-   },
-   {
-    "nome": "joaquimpantojaprotazio8@g",
-    "tel": "5592*****609",
-    "dia": "30/07",
-    "desde": "14:01",
-    "ts": 1785430907488
-   },
-   {
     "nome": "Bruna Raquel",
     "tel": "5547*****534",
     "dia": "30/07",
     "desde": "17:05",
     "ts": 1785441918340
+   },
+   {
+    "nome": "Elton",
+    "tel": "5592*****622",
+    "dia": "30/07",
+    "desde": "20:39",
+    "ts": 1785454785279
    },
    {
     "nome": "M",
@@ -376,28 +369,39 @@
   ]
  },
  "agora": {
-  "fila": 43,
-  "abertos": 137,
+  "fila": 46,
+  "abertos": 140,
   "com_atendimento": 8,
-  "online": 1,
-  "offline": 5,
-  "ausentes": 3,
-  "espera_media_s": 2587
+  "online": 2,
+  "offline": 6,
+  "ausentes": 1,
+  "espera_media_s": 2512
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-04T04:27:21.411Z",
-  "min_sem_lead": 39815
+  "ultimo_lead_at": "2026-07-31T20:15:34.610Z",
+  "min_sem_lead": 2
  },
  "leads": [
   {
-   "nome": "553388133430",
-   "tel": "5533*****430",
-   "criado": "17:00",
+   "nome": "554299692659",
+   "tel": "5542*****659",
+   "criado": "17:15",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "criativo": "fb.me/4EHi0h7IT",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554796194596",
+   "tel": "5547*****596",
+   "criado": "17:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 13.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
    "area": "Nao identificada"
   },
   {
@@ -410,6 +414,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4PcZAj72p",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5516997856328",
+   "tel": "5516*****328",
+   "criado": "17:11",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553388133430",
+   "tel": "5533*****430",
+   "criado": "17:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
   },
   {
    "nome": "556699685472",
@@ -770,17 +796,6 @@
    "atendente": "Roseli",
    "espera_min": 3.6,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "554796194596",
-   "tel": "5547*****596",
-   "criado": "17:00",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
