@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 13:05",
+ "gerado_em": "31/07/2026, 13:20",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 11,
+  "total": 15,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 305,
-  "tickets_abertos": 109,
+  "leads_7d": 308,
+  "tickets_abertos": 113,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 10,
+   "leads": 13,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 13,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 4
+   "leads": 7
   },
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
@@ -62,8 +62,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
-  "Nao identificada": 6,
+  "Trabalhista": 6,
+  "Nao identificada": 8,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -161,6 +161,13 @@
   "dias": 7,
   "leads": [
    {
+    "nome": "🤍",
+    "tel": "5515*****609",
+    "dia": "30/07",
+    "desde": "11:20",
+    "ts": 1785421219743
+   },
+   {
     "nome": "Cacau da Terra Alter do Chão",
     "tel": "5593*****186",
     "dia": "30/07",
@@ -182,13 +189,6 @@
     "ts": 1785441918340
    },
    {
-    "nome": "Renata",
-    "tel": "5547*****549",
-    "dia": "30/07",
-    "desde": "17:33",
-    "ts": 1785443608014
-   },
-   {
     "nome": "Lorraine Martins",
     "tel": "5531*****390",
     "dia": "31/07",
@@ -201,6 +201,13 @@
     "dia": "31/07",
     "desde": "10:48",
     "ts": 1785505691739
+   },
+   {
+    "nome": "M",
+    "tel": "5548*****795",
+    "dia": "31/07",
+    "desde": "11:34",
+    "ts": 1785508481243
    }
   ],
   "grupos": [
@@ -370,19 +377,52 @@
   ]
  },
  "agora": {
-  "fila": 17,
-  "abertos": 109,
+  "fila": 21,
+  "abertos": 113,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 1,
   "offline": 1,
-  "ausentes": 5,
-  "espera_media_s": 3529
+  "ausentes": 7,
+  "espera_media_s": 3344
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T02:01:36.592Z",
-  "min_sem_lead": 6603
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 666780
  },
  "leads": [
+  {
+   "nome": "553172235966",
+   "tel": "5531*****966",
+   "criado": "13:06",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Mara Benedicta",
+   "tel": "5569*****619",
+   "criado": "13:08",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "JD",
+   "tel": "5581*****991",
+   "criado": "13:06",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "553191121617",
    "tel": "5531*****617",
