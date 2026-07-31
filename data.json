@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 16:53",
+ "gerado_em": "31/07/2026, 17:02",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 34,
-  "no_sla": 33,
+  "total": 36,
+  "no_sla": 34,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 327,
+  "leads_7d": 329,
   "tickets_abertos": 137,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 32,
+   "leads": 33,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 31,
-  "Direto/Indicacao": 3
+  "Anuncio": 32,
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 10
+   "leads": 11
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
+  "Nao identificada": 20,
   "Trabalhista": 15,
-  "Nao identificada": 18,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -194,13 +194,6 @@
     "dia": "30/07",
     "desde": "17:05",
     "ts": 1785441918340
-   },
-   {
-    "nome": "Lorraine Martins",
-    "tel": "5531*****390",
-    "dia": "31/07",
-    "desde": "10:02",
-    "ts": 1785502928216
    },
    {
     "nome": "M",
@@ -383,19 +376,30 @@
   ]
  },
  "agora": {
-  "fila": 42,
+  "fila": 43,
   "abertos": 137,
   "com_atendimento": 8,
-  "online": 2,
-  "offline": 3,
-  "ausentes": 4,
-  "espera_media_s": 2613
+  "online": 1,
+  "offline": 5,
+  "ausentes": 3,
+  "espera_media_s": 2587
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T19:26:21.624Z",
-  "min_sem_lead": 27
+  "ultimo_lead_at": "2026-07-04T04:27:21.411Z",
+  "min_sem_lead": 39815
  },
  "leads": [
+  {
+   "nome": "553388133430",
+   "tel": "5533*****430",
+   "criado": "17:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "danilosouzapardim7",
    "tel": "5511*****571",
@@ -766,6 +770,17 @@
    "atendente": "Roseli",
    "espera_min": 3.6,
    "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "554796194596",
+   "tel": "5547*****596",
+   "criado": "17:00",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
