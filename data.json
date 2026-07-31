@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 10:32",
+ "gerado_em": "31/07/2026, 10:48",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 3,
+  "total": 5,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 297,
-  "tickets_abertos": 264,
+  "leads_7d": 298,
+  "tickets_abertos": 256,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 3,
+   "leads": 4,
    "mediana_min": 0.4
   },
   {
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DbZCDVWMSej/",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 1
@@ -45,18 +49,18 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2,
-  "Nao identificada": 2
+  "Nao identificada": 3,
+  "Trabalhista": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 155,
-  "turnos": 439,
+  "turnos": 440,
   "respondidos": 429,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 14.2,
   "atendentes": [
    {
@@ -106,6 +110,12 @@
     "dia": "31/07",
     "desde": "10:30",
     "ts": 1785504609907
+   },
+   {
+    "grupo": "A.M x INSS",
+    "dia": "31/07",
+    "desde": "10:21",
+    "ts": 1785504107844
    },
    {
     "grupo": "A.F x Bradesco ",
@@ -214,6 +224,12 @@
     "dia": "31/07",
     "desde": "09:46",
     "ts": 1785502000826
+   },
+   {
+    "grupo": "A.M x INSS",
+    "dia": "31/07",
+    "desde": "10:21",
+    "ts": 1785504107844
    },
    {
     "grupo": "A.F x Bradesco ",
@@ -348,19 +364,30 @@
   ]
  },
  "agora": {
-  "fila": 170,
-  "abertos": 264,
-  "com_atendimento": 7,
+  "fila": 160,
+  "abertos": 256,
+  "com_atendimento": 8,
   "online": 5,
   "offline": 1,
   "ausentes": 3,
-  "espera_media_s": 1104
+  "espera_media_s": 1156
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-29T22:52:03.102Z",
-  "min_sem_lead": 2321
+  "ultimo_lead_at": "2026-07-27T12:19:04.227Z",
+  "min_sem_lead": 5849
  },
  "leads": [
+  {
+   "nome": "5521970823018",
+   "tel": "5521*****018",
+   "criado": "10:45",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZCDVWMSej/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Vinyplay81@😎",
    "tel": "5522*****144",
