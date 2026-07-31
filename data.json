@@ -1,5 +1,5 @@
 {
- "gerado_em": "31/07/2026, 14:36",
+ "gerado_em": "31/07/2026, 14:51",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -79,10 +79,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 162,
-  "turnos": 451,
+  "turnos": 452,
   "respondidos": 443,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 15,
   "atendentes": [
    {
@@ -128,16 +128,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
+    "dia": "31/07",
+    "desde": "14:44",
+    "ts": 1785519853050
+   },
+   {
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "dia": "31/07",
+    "desde": "14:34",
+    "ts": 1785519281019
+   },
+   {
     "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
     "dia": "31/07",
     "desde": "12:29",
     "ts": 1785511795987
-   },
-   {
-    "grupo": "A.S.D.S.L x BRAVO ASSESORIA E SERVICOS EMPRESARIAIS LTDA",
-    "dia": "31/07",
-    "desde": "12:06",
-    "ts": 1785510384953
    },
    {
     "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
@@ -240,16 +246,22 @@
     "ts": 1785509428964
    },
    {
-    "grupo": "A.S.D.S.L x BRAVO ASSESORIA E SERVICOS EMPRESARIAIS LTDA",
-    "dia": "31/07",
-    "desde": "12:06",
-    "ts": 1785510384953
-   },
-   {
     "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
     "dia": "31/07",
     "desde": "12:29",
     "ts": 1785511795987
+   },
+   {
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "dia": "31/07",
+    "desde": "14:34",
+    "ts": 1785519281019
+   },
+   {
+    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
+    "dia": "31/07",
+    "desde": "14:44",
+    "ts": 1785519853050
    }
   ]
  },
@@ -384,14 +396,14 @@
   "fila": 32,
   "abertos": 126,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 1,
-  "ausentes": 5,
+  "online": 4,
+  "offline": 2,
+  "ausentes": 3,
   "espera_media_s": 2936
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-20T13:42:51.111Z",
-  "min_sem_lead": 103913
+  "ultimo_lead_at": "2026-07-31T17:10:22.806Z",
+  "min_sem_lead": 41
  },
  "leads": [
   {
@@ -406,7 +418,18 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554899066154",
+   "nome": "Ana",
+   "tel": "5531*****130",
+   "criado": "14:10",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Damerson",
    "tel": "5548*****154",
    "criado": "14:17",
    "atendente": "Fernanda Gehm - Administradora",
@@ -437,17 +460,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Previdenciario"
-  },
-  {
-   "nome": "Ana",
-   "tel": "5531*****130",
-   "criado": "14:10",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Juliana Rocha",
