@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 11:33",
+ "gerado_em": "31/07/2026, 11:49",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 5,
+  "total": 7,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 299,
-  "tickets_abertos": 173,
+  "leads_7d": 300,
+  "tickets_abertos": 128,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 5,
+   "leads": 6,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -36,11 +36,15 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DbZCDVWMSej/",
+   "url": "www.instagram.com/p/DbbgMgQs-gW/",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DbZCDVWMSej/",
    "leads": 1
   },
   {
@@ -49,20 +53,20 @@
   }
  ],
  "areas": {
-  "Previdenciario": 1,
+  "Nao identificada": 3,
   "Trabalhista": 3,
-  "Nao identificada": 2
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 159,
-  "turnos": 444,
-  "respondidos": 435,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 14.2,
+  "grupos_ativos": 160,
+  "turnos": 440,
+  "respondidos": 436,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 14.4,
   "atendentes": [
    {
     "nome": "Julia",
@@ -91,8 +95,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 15,
-    "mediana_min": 5.8
+    "respostas": 16,
+    "mediana_min": 7.6
    },
    {
     "nome": "Tiago Bernardo",
@@ -107,30 +111,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.C.P.N.S x MUNICIPIO DE RIBEIRAO DAS NEVES ",
-    "dia": "31/07",
-    "desde": "11:33",
-    "ts": 1785508383899
-   },
-   {
-    "grupo": "E.S.V.D.S x MY SUSTENTABILIDADE LTDA",
-    "dia": "31/07",
-    "desde": "11:11",
-    "ts": 1785507091905
-   },
-   {
-    "grupo": "A.S.D.S.L x BRAVO ASSESORIA E SERVICOS EMPRESARIAIS LTDA",
-    "dia": "31/07",
-    "desde": "11:05",
-    "ts": 1785506720899
-   },
-   {
-    "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
-    "dia": "31/07",
-    "desde": "10:30",
-    "ts": 1785504609907
-   },
-   {
     "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
     "dia": "30/07",
     "desde": "11:16",
@@ -141,12 +121,6 @@
     "dia": "29/07",
     "desde": "15:34",
     "ts": 1785350070235
-   },
-   {
-    "grupo": "E.C.C.G.S.F",
-    "dia": "28/07",
-    "desde": "13:48",
-    "ts": 1785257333112
    },
    {
     "grupo": "W.M.D.O x SENDAS",
@@ -194,13 +168,6 @@
     "ts": 1785459512115
    },
    {
-    "nome": "Tayná Schulz Bezerra",
-    "tel": "5527*****784",
-    "dia": "30/07",
-    "desde": "22:32",
-    "ts": 1785461545654
-   },
-   {
     "nome": "Emyyy",
     "tel": "5541*****968",
     "dia": "30/07",
@@ -213,22 +180,9 @@
     "dia": "30/07",
     "desde": "23:40",
     "ts": 1785465631315
-   },
-   {
-    "nome": "fatimaaparecidakaua28",
-    "tel": "5512*****407",
-    "dia": "31/07",
-    "desde": "00:33",
-    "ts": 1785468835291
    }
   ],
   "grupos": [
-   {
-    "grupo": "E.C.C.G.S.F",
-    "dia": "28/07",
-    "desde": "13:48",
-    "ts": 1785257333112
-   },
    {
     "grupo": "M.F.F x INSS",
     "dia": "28/07",
@@ -252,30 +206,6 @@
     "dia": "30/07",
     "desde": "11:16",
     "ts": 1785420991000
-   },
-   {
-    "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
-    "dia": "31/07",
-    "desde": "10:30",
-    "ts": 1785504609907
-   },
-   {
-    "grupo": "A.S.D.S.L x BRAVO ASSESORIA E SERVICOS EMPRESARIAIS LTDA",
-    "dia": "31/07",
-    "desde": "11:05",
-    "ts": 1785506720899
-   },
-   {
-    "grupo": "E.S.V.D.S x MY SUSTENTABILIDADE LTDA",
-    "dia": "31/07",
-    "desde": "11:11",
-    "ts": 1785507091905
-   },
-   {
-    "grupo": "A.C.P.N.S x MUNICIPIO DE RIBEIRAO DAS NEVES ",
-    "dia": "31/07",
-    "desde": "11:33",
-    "ts": 1785508383899
    }
   ]
  },
@@ -407,19 +337,41 @@
   ]
  },
  "agora": {
-  "fila": 78,
-  "abertos": 173,
+  "fila": 41,
+  "abertos": 128,
   "com_atendimento": 6,
   "online": 5,
-  "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 1916
+  "offline": 2,
+  "ausentes": 2,
+  "espera_media_s": 2807
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T10:38:55.877Z",
-  "min_sem_lead": 4555
+  "ultimo_lead_at": "2026-07-30T12:16:56.934Z",
+  "min_sem_lead": 1592
  },
  "leads": [
+  {
+   "nome": "M",
+   "tel": "5548*****795",
+   "criado": "11:34",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbbgMgQs-gW/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Vinyplay81@😎",
+   "tel": "5522*****144",
+   "criado": "10:14",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Alessandra Mello",
    "tel": "5535*****287",
@@ -440,17 +392,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZCDVWMSej/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Vinyplay81@😎",
-   "tel": "5522*****144",
-   "criado": "10:14",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
   },
   {
