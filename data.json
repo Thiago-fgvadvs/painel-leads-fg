@@ -1,5 +1,5 @@
 {
- "gerado_em": "31/07/2026, 10:17",
+ "gerado_em": "31/07/2026, 10:32",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 297,
-  "tickets_abertos": 277,
+  "tickets_abertos": 264,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -52,12 +52,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 154,
-  "turnos": 436,
-  "respondidos": 427,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 14.5,
+  "grupos_ativos": 155,
+  "turnos": 439,
+  "respondidos": 429,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 14.2,
   "atendentes": [
    {
     "nome": "Julia",
@@ -86,7 +86,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 11,
+    "respostas": 13,
     "mediana_min": 5.8
    },
    {
@@ -104,8 +104,14 @@
    {
     "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
     "dia": "31/07",
-    "desde": "10:14",
-    "ts": 1785503651872
+    "desde": "10:30",
+    "ts": 1785504609907
+   },
+   {
+    "grupo": "A.F x Bradesco ",
+    "dia": "31/07",
+    "desde": "10:24",
+    "ts": 1785504284882
    },
    {
     "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
@@ -210,10 +216,16 @@
     "ts": 1785502000826
    },
    {
+    "grupo": "A.F x Bradesco ",
+    "dia": "31/07",
+    "desde": "10:24",
+    "ts": 1785504284882
+   },
+   {
     "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
     "dia": "31/07",
-    "desde": "10:14",
-    "ts": 1785503651872
+    "desde": "10:30",
+    "ts": 1785504609907
    }
   ]
  },
@@ -336,17 +348,17 @@
   ]
  },
  "agora": {
-  "fila": 184,
-  "abertos": 277,
+  "fila": 170,
+  "abertos": 264,
   "com_atendimento": 7,
   "online": 5,
   "offline": 1,
   "ausentes": 3,
-  "espera_media_s": 1031
+  "espera_media_s": 1104
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T01:58:19.540Z",
-  "min_sem_lead": 2119
+  "ultimo_lead_at": "2026-07-29T22:52:03.102Z",
+  "min_sem_lead": 2321
  },
  "leads": [
   {
