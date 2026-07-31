@@ -1,5 +1,5 @@
 {
- "gerado_em": "31/07/2026, 11:03",
+ "gerado_em": "31/07/2026, 11:18",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 299,
-  "tickets_abertos": 234,
+  "tickets_abertos": 198,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -57,11 +57,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 157,
-  "turnos": 441,
-  "respondidos": 430,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "grupos_ativos": 159,
+  "turnos": 442,
+  "respondidos": 434,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 14.4,
   "atendentes": [
    {
@@ -86,12 +86,12 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 15,
-    "mediana_min": 11.1
+    "respostas": 17,
+    "mediana_min": 14.2
    },
    {
     "nome": "Gabrielle",
-    "respostas": 13,
+    "respostas": 15,
     "mediana_min": 5.8
    },
    {
@@ -109,38 +109,20 @@
    {
     "grupo": "E.S.V.D.S x MY SUSTENTABILIDADE LTDA",
     "dia": "31/07",
-    "desde": "11:00",
-    "ts": 1785506443924
+    "desde": "11:11",
+    "ts": 1785507091905
+   },
+   {
+    "grupo": "A.S.D.S.L x BRAVO ASSESORIA E SERVICOS EMPRESARIAIS LTDA",
+    "dia": "31/07",
+    "desde": "11:05",
+    "ts": 1785506720899
    },
    {
     "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
     "dia": "31/07",
     "desde": "10:30",
     "ts": 1785504609907
-   },
-   {
-    "grupo": "A.F x Bradesco ",
-    "dia": "31/07",
-    "desde": "10:24",
-    "ts": 1785504284882
-   },
-   {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
-    "dia": "31/07",
-    "desde": "09:46",
-    "ts": 1785502000826
-   },
-   {
-    "grupo": "E.J.U.A x ARMAZEM URBANO COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
-    "dia": "30/07",
-    "desde": "17:46",
-    "ts": 1785444391749
-   },
-   {
-    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
-    "dia": "30/07",
-    "desde": "11:31",
-    "ts": 1785421862552
    },
    {
     "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
@@ -209,49 +191,31 @@
     "ts": 1785420991000
    },
    {
-    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
-    "dia": "30/07",
-    "desde": "11:31",
-    "ts": 1785421862552
-   },
-   {
-    "grupo": "E.J.U.A x ARMAZEM URBANO COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
-    "dia": "30/07",
-    "desde": "17:46",
-    "ts": 1785444391749
-   },
-   {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
-    "dia": "31/07",
-    "desde": "09:46",
-    "ts": 1785502000826
-   },
-   {
-    "grupo": "A.F x Bradesco ",
-    "dia": "31/07",
-    "desde": "10:24",
-    "ts": 1785504284882
-   },
-   {
     "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
     "dia": "31/07",
     "desde": "10:30",
     "ts": 1785504609907
    },
    {
+    "grupo": "A.S.D.S.L x BRAVO ASSESORIA E SERVICOS EMPRESARIAIS LTDA",
+    "dia": "31/07",
+    "desde": "11:05",
+    "ts": 1785506720899
+   },
+   {
     "grupo": "E.S.V.D.S x MY SUSTENTABILIDADE LTDA",
     "dia": "31/07",
-    "desde": "11:00",
-    "ts": 1785506443924
+    "desde": "11:11",
+    "ts": 1785507091905
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 12,
+  "total": 13,
   "por_vendedor": {
    "Tiago Bernardo": 3,
-   "Eduardo": 9
+   "Eduardo": 10
   },
   "lista": [
    {
@@ -355,6 +319,15 @@
    },
    {
     "vendedor": "Eduardo",
+    "cliente": "R.P",
+    "dia": "27/07",
+    "hora": "10:13",
+    "ts": 1785157986495,
+    "origem": "Anúncio: fb.me/4dGXTXRVj",
+    "de_anuncio": true
+   },
+   {
+    "vendedor": "Eduardo",
     "cliente": "L.G.P",
     "dia": "27/07",
     "hora": "10:08",
@@ -365,17 +338,17 @@
   ]
  },
  "agora": {
-  "fila": 138,
-  "abertos": 234,
+  "fila": 104,
+  "abertos": 198,
   "com_atendimento": 7,
   "online": 6,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 1303
+  "espera_media_s": 1601
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T03:10:20.707Z",
-  "min_sem_lead": 6413
+  "ultimo_lead_at": "2026-07-27T20:26:19.208Z",
+  "min_sem_lead": 5392
  },
  "leads": [
   {
