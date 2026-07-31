@@ -1,17 +1,17 @@
 {
- "gerado_em": "31/07/2026, 15:06",
+ "gerado_em": "31/07/2026, 15:22",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
+  "total": 28,
   "no_sla": 26,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 320,
-  "tickets_abertos": 126,
+  "leads_7d": 321,
+  "tickets_abertos": 127,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 24,
+  "Anuncio": 25,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -41,11 +41,11 @@
    "leads": 8
   },
   {
-   "url": "fb.me/4uJZlRfWK",
-   "leads": 3
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "fb.me/4uJZlRfWK",
    "leads": 3
   },
   {
@@ -70,25 +70,32 @@
   }
  ],
  "areas": {
-  "Trabalhista": 12,
   "Nao identificada": 14,
+  "Trabalhista": 13,
   "Previdenciario": 1
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "558591275143",
+   "tel": "5585*****143",
+   "criado": "15:21",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 163,
-  "turnos": 456,
-  "respondidos": 449,
+  "turnos": 458,
+  "respondidos": 451,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 15,
+  "mediana_min": 15.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 243,
-    "mediana_min": 20.7
+    "respostas": 244,
+    "mediana_min": 20.8
    },
    {
     "nome": "Nicolas",
@@ -107,8 +114,8 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 17,
-    "mediana_min": 14.2
+    "respostas": 18,
+    "mediana_min": 23
    },
    {
     "nome": "Gabrielle",
@@ -136,8 +143,8 @@
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "31/07",
-    "desde": "14:44",
-    "ts": 1785519853050
+    "desde": "15:17",
+    "ts": 1785521853070
    },
    {
     "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
@@ -201,6 +208,13 @@
     "dia": "31/07",
     "desde": "10:02",
     "ts": 1785502928216
+   },
+   {
+    "nome": "558591275143",
+    "tel": "5585*****143",
+    "dia": "31/07",
+    "desde": "15:21",
+    "ts": 1785522102028
    }
   ],
   "grupos": [
@@ -235,16 +249,16 @@
     "ts": 1785511795987
    },
    {
-    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
-    "dia": "31/07",
-    "desde": "14:44",
-    "ts": 1785519853050
-   },
-   {
     "grupo": "A.M x CONDOMINIO RESIDENCIAL BEVERLY HILLS",
     "dia": "31/07",
     "desde": "14:59",
     "ts": 1785520749094
+   },
+   {
+    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
+    "dia": "31/07",
+    "desde": "15:17",
+    "ts": 1785521853070
    }
   ]
  },
@@ -376,19 +390,30 @@
   ]
  },
  "agora": {
-  "fila": 33,
-  "abertos": 126,
+  "fila": 34,
+  "abertos": 127,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 2,
-  "ausentes": 4,
+  "online": 6,
+  "offline": 1,
+  "ausentes": 2,
   "espera_media_s": 2872
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T17:23:50.516Z",
-  "min_sem_lead": 43
+  "ultimo_lead_at": "2026-07-31T18:21:42.028Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "558591275143",
+   "tel": "5585*****143",
+   "criado": "15:21",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Vanessa",
    "tel": "5551*****329",
@@ -398,6 +423,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4uJZlRfWK",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "JADENILSON",
+   "tel": "5511*****400",
+   "criado": "12:37",
+   "atendente": "Eduardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -607,17 +643,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "JADENILSON",
-   "tel": "5511*****400",
-   "criado": "12:37",
-   "atendente": "Eduardo",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Nao identificada"
   },
   {
