@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 14:05",
+ "gerado_em": "31/07/2026, 14:21",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
-  "no_sla": 19,
+  "total": 24,
+  "no_sla": 23,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 313,
-  "tickets_abertos": 119,
+  "leads_7d": 317,
+  "tickets_abertos": 125,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 18,
+   "leads": 22,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,21 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 21,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
    "leads": 8
+  },
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "leads": 2
   },
   {
    "url": "fb.me/cMY7LLYxT",
@@ -49,7 +57,7 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "fb.me/4EHi0h7IT",
    "leads": 1
   },
   {
@@ -57,38 +65,30 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DbbgMgQs-gW/",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbZCDVWMSej/",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 11,
-  "Trabalhista": 8,
-  "Previdenciario": 1
+  "Nao identificada": 13,
+  "Previdenciario": 1,
+  "Trabalhista": 10
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 161,
-  "turnos": 444,
-  "respondidos": 437,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 14.5,
+  "turnos": 449,
+  "respondidos": 440,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 14.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 232,
-    "mediana_min": 20.8
+    "respostas": 235,
+    "mediana_min": 22.3
    },
    {
     "nome": "Nicolas",
@@ -128,10 +128,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
     "dia": "31/07",
-    "desde": "13:36",
-    "ts": 1785515795997
+    "desde": "12:29",
+    "ts": 1785511795987
    },
    {
     "grupo": "A.S.D.S.L x BRAVO ASSESORIA E SERVICOS EMPRESARIAIS LTDA",
@@ -144,6 +144,18 @@
     "dia": "31/07",
     "desde": "11:50",
     "ts": 1785509428964
+   },
+   {
+    "grupo": "A.M x CONDOMINIO RESIDENCIAL BEVERLY HILLS",
+    "dia": "31/07",
+    "desde": "11:42",
+    "ts": 1785508936905
+   },
+   {
+    "grupo": "M.V.T x NASCIMENTO SERVICOS DE LIMPEZA LTDA",
+    "dia": "31/07",
+    "desde": "11:11",
+    "ts": 1785507114874
    },
    {
     "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
@@ -175,18 +187,25 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Alessandra Mello",
-    "tel": "5535*****287",
-    "dia": "31/07",
-    "desde": "10:48",
-    "ts": 1785505691739
+    "nome": "Cacau da Terra Alter do Chão",
+    "tel": "5593*****186",
+    "dia": "30/07",
+    "desde": "12:09",
+    "ts": 1785424185551
    },
    {
-    "nome": "M",
-    "tel": "5548*****795",
+    "nome": "joaquimpantojaprotazio8@g",
+    "tel": "5592*****609",
+    "dia": "30/07",
+    "desde": "14:01",
+    "ts": 1785430907488
+   },
+   {
+    "nome": "Lorraine Martins",
+    "tel": "5531*****390",
     "dia": "31/07",
-    "desde": "11:34",
-    "ts": 1785508481243
+    "desde": "10:02",
+    "ts": 1785502928216
    }
   ],
   "grupos": [
@@ -215,6 +234,18 @@
     "ts": 1785420991000
    },
    {
+    "grupo": "M.V.T x NASCIMENTO SERVICOS DE LIMPEZA LTDA",
+    "dia": "31/07",
+    "desde": "11:11",
+    "ts": 1785507114874
+   },
+   {
+    "grupo": "A.M x CONDOMINIO RESIDENCIAL BEVERLY HILLS",
+    "dia": "31/07",
+    "desde": "11:42",
+    "ts": 1785508936905
+   },
+   {
     "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
     "dia": "31/07",
     "desde": "11:50",
@@ -227,10 +258,10 @@
     "ts": 1785510384953
    },
    {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
     "dia": "31/07",
-    "desde": "13:36",
-    "ts": 1785515795997
+    "desde": "12:29",
+    "ts": 1785511795987
    }
   ]
  },
@@ -362,19 +393,74 @@
   ]
  },
  "agora": {
-  "fila": 26,
-  "abertos": 119,
+  "fila": 30,
+  "abertos": 125,
   "com_atendimento": 7,
-  "online": 2,
+  "online": 4,
   "offline": 0,
-  "ausentes": 7,
-  "espera_media_s": 3150
+  "ausentes": 5,
+  "espera_media_s": 3004
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T17:04:49.105Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-05-20T13:42:51.111Z",
+  "min_sem_lead": 103898
  },
  "leads": [
+  {
+   "nome": "554899066154",
+   "tel": "5548*****154",
+   "criado": "14:17",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Alessandra Mello",
+   "tel": "5535*****287",
+   "criado": "10:48",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "thais",
+   "tel": "5538*****960",
+   "criado": "14:12",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EHi0h7IT",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ana",
+   "tel": "5531*****130",
+   "criado": "14:10",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Juliana Rocha",
+   "tel": "5511*****241",
+   "criado": "14:07",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "5511952017215",
    "tel": "5511*****215",
@@ -561,17 +647,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Alessandra Mello",
-   "tel": "5535*****287",
-   "criado": "10:48",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Previdenciario"
   },
   {
    "nome": "Kauane",
