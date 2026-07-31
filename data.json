@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 10:48",
+ "gerado_em": "31/07/2026, 11:03",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 4,
+  "total": 6,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 298,
-  "tickets_abertos": 256,
+  "leads_7d": 299,
+  "tickets_abertos": 234,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": 0.4
   },
   {
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DbZCDVWMSej/",
    "leads": 1
@@ -40,32 +44,29 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 1
-  },
-  {
    "url": "fb.me/cMY7LLYxT",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 2
+  "Previdenciario": 1,
+  "Trabalhista": 3,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 155,
-  "turnos": 440,
-  "respondidos": 429,
+  "grupos_ativos": 157,
+  "turnos": 441,
+  "respondidos": 430,
   "sem_resposta": 11,
   "sem_resposta_grupos": 11,
-  "mediana_min": 14.2,
+  "mediana_min": 14.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 230,
+    "respostas": 231,
     "mediana_min": 20.8
    },
    {
@@ -106,16 +107,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "E.S.V.D.S x MY SUSTENTABILIDADE LTDA",
+    "dia": "31/07",
+    "desde": "11:00",
+    "ts": 1785506443924
+   },
+   {
     "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
     "dia": "31/07",
     "desde": "10:30",
     "ts": 1785504609907
-   },
-   {
-    "grupo": "A.M x INSS",
-    "dia": "31/07",
-    "desde": "10:21",
-    "ts": 1785504107844
    },
    {
     "grupo": "A.F x Bradesco ",
@@ -226,12 +227,6 @@
     "ts": 1785502000826
    },
    {
-    "grupo": "A.M x INSS",
-    "dia": "31/07",
-    "desde": "10:21",
-    "ts": 1785504107844
-   },
-   {
     "grupo": "A.F x Bradesco ",
     "dia": "31/07",
     "desde": "10:24",
@@ -242,6 +237,12 @@
     "dia": "31/07",
     "desde": "10:30",
     "ts": 1785504609907
+   },
+   {
+    "grupo": "E.S.V.D.S x MY SUSTENTABILIDADE LTDA",
+    "dia": "31/07",
+    "desde": "11:00",
+    "ts": 1785506443924
    }
   ]
  },
@@ -364,21 +365,32 @@
   ]
  },
  "agora": {
-  "fila": 160,
-  "abertos": 256,
-  "com_atendimento": 8,
-  "online": 5,
+  "fila": 138,
+  "abertos": 234,
+  "com_atendimento": 7,
+  "online": 6,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 1156
+  "ausentes": 2,
+  "espera_media_s": 1303
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T12:19:04.227Z",
-  "min_sem_lead": 5849
+  "ultimo_lead_at": "2026-07-27T03:10:20.707Z",
+  "min_sem_lead": 6413
  },
  "leads": [
   {
-   "nome": "5521970823018",
+   "nome": "Alessandra Mello",
+   "tel": "5535*****287",
+   "criado": "10:48",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Kauane",
    "tel": "5521*****018",
    "criado": "10:45",
    "atendente": "Fernanda Gehm - Administradora",
@@ -386,7 +398,7 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZCDVWMSej/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "Vinyplay81@😎",
