@@ -1,5 +1,5 @@
 {
- "gerado_em": "31/07/2026, 09:31",
+ "gerado_em": "31/07/2026, 09:47",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -38,22 +38,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 151,
-  "turnos": 425,
-  "respondidos": 417,
+  "grupos_ativos": 153,
+  "turnos": 431,
+  "respondidos": 423,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
-  "mediana_min": 15.4,
+  "mediana_min": 14.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 224,
-    "mediana_min": 22.4
+    "respostas": 227,
+    "mediana_min": 20.8
    },
    {
     "nome": "Nicolas",
-    "respostas": 91,
-    "mediana_min": 25.2
+    "respostas": 94,
+    "mediana_min": 25
    },
    {
     "nome": "Eduardo",
@@ -88,10 +88,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
-    "dia": "30/07",
-    "desde": "17:51",
-    "ts": 1785444661731
+    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "dia": "31/07",
+    "desde": "09:46",
+    "ts": 1785502000826
    },
    {
     "grupo": "E.J.U.A x ARMAZEM URBANO COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
@@ -192,10 +192,10 @@
     "ts": 1785444391749
    },
    {
-    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
-    "dia": "30/07",
-    "desde": "17:51",
-    "ts": 1785444661731
+    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "dia": "31/07",
+    "desde": "09:46",
+    "ts": 1785502000826
    }
   ]
  },
@@ -321,14 +321,14 @@
   "fila": 212,
   "abertos": 297,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 4,
+  "online": 6,
+  "offline": 2,
   "ausentes": 1,
   "espera_media_s": 931
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-22T18:46:41.066Z",
-  "min_sem_lead": 12585
+  "min_sem_lead": 12600
  },
  "leads": [
   {
