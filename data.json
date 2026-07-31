@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 15:22",
+ "gerado_em": "31/07/2026, 15:37",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 28,
-  "no_sla": 26,
+  "total": 30,
+  "no_sla": 29,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 321,
-  "tickets_abertos": 127,
+  "leads_7d": 323,
+  "tickets_abertos": 130,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 25,
+   "leads": 28,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 25,
+  "Anuncio": 27,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -46,7 +46,7 @@
   },
   {
    "url": "fb.me/4uJZlRfWK",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
@@ -61,33 +61,26 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DbZCDUoMVMG/",
+   "url": "fb.me/7se00hGXE",
    "leads": 1
   },
   {
-   "url": "fb.me/4EHi0h7IT",
+   "url": "www.instagram.com/p/DbZCDUoMVMG/",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 14,
-  "Trabalhista": 13,
+  "Trabalhista": 14,
+  "Nao identificada": 15,
   "Previdenciario": 1
  },
- "sem_resposta_lista": [
-  {
-   "nome": "558591275143",
-   "tel": "5585*****143",
-   "criado": "15:21",
-   "area": "Nao identificada"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 163,
-  "turnos": 458,
-  "respondidos": 451,
+  "grupos_ativos": 165,
+  "turnos": 460,
+  "respondidos": 453,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 15.4,
@@ -104,8 +97,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 44,
-    "mediana_min": 6.1
+    "respostas": 46,
+    "mediana_min": 6.2
    },
    {
     "nome": "Luisa",
@@ -135,16 +128,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.M x CONDOMINIO RESIDENCIAL BEVERLY HILLS",
-    "dia": "31/07",
-    "desde": "14:59",
-    "ts": 1785520749094
-   },
-   {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "31/07",
     "desde": "15:17",
     "ts": 1785521853070
+   },
+   {
+    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
+    "dia": "31/07",
+    "desde": "15:03",
+    "ts": 1785520984068
    },
    {
     "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
@@ -182,6 +175,13 @@
   "dias": 7,
   "leads": [
    {
+    "nome": "🤍",
+    "tel": "5515*****609",
+    "dia": "30/07",
+    "desde": "11:20",
+    "ts": 1785421219743
+   },
+   {
     "nome": "Cacau da Terra Alter do Chão",
     "tel": "5593*****186",
     "dia": "30/07",
@@ -210,11 +210,11 @@
     "ts": 1785502928216
    },
    {
-    "nome": "558591275143",
-    "tel": "5585*****143",
+    "nome": "M",
+    "tel": "5548*****795",
     "dia": "31/07",
-    "desde": "15:21",
-    "ts": 1785522102028
+    "desde": "11:34",
+    "ts": 1785508481243
    }
   ],
   "grupos": [
@@ -249,10 +249,10 @@
     "ts": 1785511795987
    },
    {
-    "grupo": "A.M x CONDOMINIO RESIDENCIAL BEVERLY HILLS",
+    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
     "dia": "31/07",
-    "desde": "14:59",
-    "ts": 1785520749094
+    "desde": "15:03",
+    "ts": 1785520984068
    },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
@@ -390,26 +390,48 @@
   ]
  },
  "agora": {
-  "fila": 34,
-  "abertos": 127,
-  "com_atendimento": 7,
-  "online": 6,
+  "fila": 36,
+  "abertos": 130,
+  "com_atendimento": 8,
+  "online": 5,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 2872
+  "ausentes": 3,
+  "espera_media_s": 2780
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T18:21:42.028Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-05-20T13:42:51.111Z",
+  "min_sem_lead": 103974
  },
  "leads": [
+  {
+   "nome": "JADENILSON",
+   "tel": "5511*****400",
+   "criado": "12:37",
+   "atendente": "Eduardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511984322454",
+   "tel": "5511*****454",
+   "criado": "15:33",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7se00hGXE",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558591275143",
    "tel": "5585*****143",
    "criado": "15:21",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
@@ -426,15 +448,15 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "JADENILSON",
-   "tel": "5511*****400",
-   "criado": "12:37",
-   "atendente": "Eduardo",
+   "nome": "554799116260",
+   "tel": "5547*****260",
+   "criado": "15:31",
+   "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.3,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
   },
   {
    "nome": "559295243138",
