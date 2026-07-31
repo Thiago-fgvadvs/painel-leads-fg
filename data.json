@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 18:03",
+ "gerado_em": "31/07/2026, 18:18",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 43,
-  "no_sla": 42,
+  "total": 44,
+  "no_sla": 43,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 336,
-  "tickets_abertos": 144,
+  "leads_7d": 337,
+  "tickets_abertos": 145,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 41,
+   "leads": 42,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 40,
+  "Anuncio": 41,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -41,11 +41,11 @@
    "leads": 11
   },
   {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 5
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 6
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 5
   },
   {
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
+  "Trabalhista": 17,
   "Nao identificada": 26,
-  "Trabalhista": 16,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -180,6 +180,13 @@
     "dia": "30/07",
     "desde": "14:01",
     "ts": 1785430907488
+   },
+   {
+    "nome": "Bruna Raquel",
+    "tel": "5547*****534",
+    "dia": "30/07",
+    "desde": "17:05",
+    "ts": 1785441918340
    }
   ],
   "grupos": [
@@ -343,19 +350,30 @@
   ]
  },
  "agora": {
-  "fila": 52,
-  "abertos": 144,
+  "fila": 53,
+  "abertos": 145,
   "com_atendimento": 6,
   "online": 0,
-  "offline": 9,
-  "ausentes": 0,
-  "espera_media_s": 2375
+  "offline": 8,
+  "ausentes": 1,
+  "espera_media_s": 2353
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-22T16:47:19.360Z",
-  "min_sem_lead": 101056
+  "ultimo_lead_at": "2026-07-04T04:27:21.411Z",
+  "min_sem_lead": 39891
  },
  "leads": [
+  {
+   "nome": "Dressa",
+   "tel": "5511*****091",
+   "criado": "18:04",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "557191714417",
    "tel": "5571*****417",
