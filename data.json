@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 19:19",
+ "gerado_em": "31/07/2026, 19:34",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 45,
+  "total": 48,
   "no_sla": 44,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 1,
+  "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 338,
-  "tickets_abertos": 146,
+  "leads_7d": 341,
+  "tickets_abertos": 149,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 43,
+   "leads": 46,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 42,
+  "Anuncio": 45,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -46,7 +46,7 @@
   },
   {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "fb.me/4uJZlRfWK",
@@ -57,21 +57,21 @@
    "leads": 3
   },
   {
+   "url": "fb.me/4PcZAj72p",
+   "leads": 2
+  },
+  {
    "url": "www.instagram.com/p/DbZCDVWMSej/",
    "leads": 2
   },
   {
    "url": "fb.me/7se00hGXE",
    "leads": 2
-  },
-  {
-   "url": "fb.me/4EHi0h7IT",
-   "leads": 2
   }
  ],
  "areas": {
-  "Trabalhista": 18,
-  "Nao identificada": 26,
+  "Trabalhista": 20,
+  "Nao identificada": 27,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -187,6 +187,13 @@
     "dia": "30/07",
     "desde": "17:05",
     "ts": 1785441918340
+   },
+   {
+    "nome": "M",
+    "tel": "5548*****795",
+    "dia": "31/07",
+    "desde": "11:34",
+    "ts": 1785508481243
    }
   ],
   "grupos": [
@@ -350,19 +357,41 @@
   ]
  },
  "agora": {
-  "fila": 54,
-  "abertos": 146,
+  "fila": 57,
+  "abertos": 149,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2332
+  "espera_media_s": 2272
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T21:04:49.811Z",
-  "min_sem_lead": 75
+  "ultimo_lead_at": "2026-07-31T22:33:54.391Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "Edna",
+   "tel": "5511*****403",
+   "criado": "19:33",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rosa Pereira Da Silva",
+   "tel": "5567*****743",
+   "criado": "19:32",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4PcZAj72p",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Dressa",
    "tel": "5511*****091",
@@ -373,6 +402,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "minha india ❤️",
+   "tel": "5521*****705",
+   "criado": "19:25",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
   },
   {
    "nome": "MAY😍",
