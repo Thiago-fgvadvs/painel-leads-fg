@@ -1,5 +1,5 @@
 {
- "gerado_em": "31/07/2026, 11:18",
+ "gerado_em": "31/07/2026, 11:33",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 299,
-  "tickets_abertos": 198,
+  "tickets_abertos": 173,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -58,15 +58,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 159,
-  "turnos": 442,
-  "respondidos": 434,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 14.4,
+  "turnos": 444,
+  "respondidos": 435,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 14.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 231,
+    "respostas": 232,
     "mediana_min": 20.8
    },
    {
@@ -106,6 +106,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.C.P.N.S x MUNICIPIO DE RIBEIRAO DAS NEVES ",
+    "dia": "31/07",
+    "desde": "11:33",
+    "ts": 1785508383899
+   },
    {
     "grupo": "E.S.V.D.S x MY SUSTENTABILIDADE LTDA",
     "dia": "31/07",
@@ -158,7 +164,64 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "laisa 김진이 🐶🥰",
+    "tel": "5515*****675",
+    "dia": "30/07",
+    "desde": "18:21",
+    "ts": 1785446491812
+   },
+   {
+    "nome": "Elton",
+    "tel": "5592*****622",
+    "dia": "30/07",
+    "desde": "20:39",
+    "ts": 1785454785279
+   },
+   {
+    "nome": "Gislene",
+    "tel": "5587*****558",
+    "dia": "30/07",
+    "desde": "21:08",
+    "ts": 1785456525067
+   },
+   {
+    "nome": "Sávio Terra",
+    "tel": "5551*****152",
+    "dia": "30/07",
+    "desde": "21:58",
+    "ts": 1785459512115
+   },
+   {
+    "nome": "Tayná Schulz Bezerra",
+    "tel": "5527*****784",
+    "dia": "30/07",
+    "desde": "22:32",
+    "ts": 1785461545654
+   },
+   {
+    "nome": "Emyyy",
+    "tel": "5541*****968",
+    "dia": "30/07",
+    "desde": "22:49",
+    "ts": 1785462555584
+   },
+   {
+    "nome": "Nilce pereira",
+    "tel": "5598*****932",
+    "dia": "30/07",
+    "desde": "23:40",
+    "ts": 1785465631315
+   },
+   {
+    "nome": "fatimaaparecidakaua28",
+    "tel": "5512*****407",
+    "dia": "31/07",
+    "desde": "00:33",
+    "ts": 1785468835291
+   }
+  ],
   "grupos": [
    {
     "grupo": "E.C.C.G.S.F",
@@ -207,6 +270,12 @@
     "dia": "31/07",
     "desde": "11:11",
     "ts": 1785507091905
+   },
+   {
+    "grupo": "A.C.P.N.S x MUNICIPIO DE RIBEIRAO DAS NEVES ",
+    "dia": "31/07",
+    "desde": "11:33",
+    "ts": 1785508383899
    }
   ]
  },
@@ -338,17 +407,17 @@
   ]
  },
  "agora": {
-  "fila": 104,
-  "abertos": 198,
-  "com_atendimento": 7,
-  "online": 6,
+  "fila": 78,
+  "abertos": 173,
+  "com_atendimento": 6,
+  "online": 5,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 1601
+  "ausentes": 3,
+  "espera_media_s": 1916
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T20:26:19.208Z",
-  "min_sem_lead": 5392
+  "ultimo_lead_at": "2026-07-28T10:38:55.877Z",
+  "min_sem_lead": 4555
  },
  "leads": [
   {
