@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 16:22",
+ "gerado_em": "31/07/2026, 16:38",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 32,
-  "no_sla": 31,
+  "total": 33,
+  "no_sla": 32,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 325,
-  "tickets_abertos": 133,
+  "leads_7d": 326,
+  "tickets_abertos": 136,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 30,
+   "leads": 31,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 29,
+  "Anuncio": 30,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -61,16 +61,16 @@
    "leads": 2
   },
   {
-   "url": "fb.me/7se00hGXE",
+   "url": "fb.me/4EHi0h7IT",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DbZCDUoMVMG/",
+   "url": "fb.me/4PcZAj72p",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 14,
+  "Trabalhista": 15,
   "Nao identificada": 17,
   "Previdenciario": 1
  },
@@ -390,19 +390,41 @@
   ]
  },
  "agora": {
-  "fila": 39,
-  "abertos": 133,
+  "fila": 41,
+  "abertos": 136,
   "com_atendimento": 8,
-  "online": 5,
-  "offline": 2,
+  "online": 4,
+  "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 2693
+  "espera_media_s": 2666
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T02:30:27.608Z",
-  "min_sem_lead": 2452
+  "ultimo_lead_at": "2026-07-31T17:12:03.230Z",
+  "min_sem_lead": 146
  },
  "leads": [
+  {
+   "nome": "thais",
+   "tel": "5538*****960",
+   "criado": "14:12",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EHi0h7IT",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "danilosouzapardim7",
+   "tel": "5511*****571",
+   "criado": "16:26",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4PcZAj72p",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Jandeilson",
    "tel": "5511*****400",
@@ -522,17 +544,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "thais",
-   "tel": "5538*****960",
-   "criado": "14:12",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4EHi0h7IT",
    "area": "Trabalhista"
   },
   {
