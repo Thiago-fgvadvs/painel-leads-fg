@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 14:51",
+ "gerado_em": "31/07/2026, 15:06",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
-  "no_sla": 24,
+  "total": 27,
+  "no_sla": 26,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 318,
+  "leads_7d": 320,
   "tickets_abertos": 126,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 23,
+   "leads": 25,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 24,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -41,12 +41,12 @@
    "leads": 8
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "fb.me/4uJZlRfWK",
    "leads": 3
   },
   {
-   "url": "fb.me/4uJZlRfWK",
-   "leads": 2
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 3
   },
   {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
@@ -61,34 +61,34 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4EHi0h7IT",
+   "url": "www.instagram.com/p/DbZCDUoMVMG/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DbbgMgQs-gW/",
+   "url": "fb.me/4EHi0h7IT",
    "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 12,
-  "Previdenciario": 1,
-  "Nao identificada": 12
+  "Nao identificada": 14,
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 162,
-  "turnos": 452,
-  "respondidos": 443,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "grupos_ativos": 163,
+  "turnos": 456,
+  "respondidos": 449,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 15,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 238,
-    "mediana_min": 21.6
+    "respostas": 243,
+    "mediana_min": 20.7
    },
    {
     "nome": "Nicolas",
@@ -97,8 +97,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 43,
-    "mediana_min": 5.9
+    "respostas": 44,
+    "mediana_min": 6.1
    },
    {
     "nome": "Luisa",
@@ -128,16 +128,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.M x CONDOMINIO RESIDENCIAL BEVERLY HILLS",
+    "dia": "31/07",
+    "desde": "14:59",
+    "ts": 1785520749094
+   },
+   {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "31/07",
     "desde": "14:44",
     "ts": 1785519853050
-   },
-   {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "31/07",
-    "desde": "14:34",
-    "ts": 1785519281019
    },
    {
     "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
@@ -152,12 +152,6 @@
     "ts": 1785509428964
    },
    {
-    "grupo": "A.M x CONDOMINIO RESIDENCIAL BEVERLY HILLS",
-    "dia": "31/07",
-    "desde": "11:42",
-    "ts": 1785508936905
-   },
-   {
     "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
     "dia": "30/07",
     "desde": "11:16",
@@ -168,12 +162,6 @@
     "dia": "29/07",
     "desde": "15:34",
     "ts": 1785350070235
-   },
-   {
-    "grupo": "W.M.D.O x SENDAS",
-    "dia": "29/07",
-    "desde": "10:27",
-    "ts": 1785331679073
    },
    {
     "grupo": "M.F.F x INSS",
@@ -201,6 +189,13 @@
     "ts": 1785430907488
    },
    {
+    "nome": "Bruna Raquel",
+    "tel": "5547*****534",
+    "dia": "30/07",
+    "desde": "17:05",
+    "ts": 1785441918340
+   },
+   {
     "nome": "Lorraine Martins",
     "tel": "5531*****390",
     "dia": "31/07",
@@ -216,12 +211,6 @@
     "ts": 1785263806095
    },
    {
-    "grupo": "W.M.D.O x SENDAS",
-    "dia": "29/07",
-    "desde": "10:27",
-    "ts": 1785331679073
-   },
-   {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
     "dia": "29/07",
     "desde": "15:34",
@@ -232,12 +221,6 @@
     "dia": "30/07",
     "desde": "11:16",
     "ts": 1785420991000
-   },
-   {
-    "grupo": "A.M x CONDOMINIO RESIDENCIAL BEVERLY HILLS",
-    "dia": "31/07",
-    "desde": "11:42",
-    "ts": 1785508936905
    },
    {
     "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
@@ -252,16 +235,16 @@
     "ts": 1785511795987
    },
    {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "31/07",
-    "desde": "14:34",
-    "ts": 1785519281019
-   },
-   {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "31/07",
     "desde": "14:44",
     "ts": 1785519853050
+   },
+   {
+    "grupo": "A.M x CONDOMINIO RESIDENCIAL BEVERLY HILLS",
+    "dia": "31/07",
+    "desde": "14:59",
+    "ts": 1785520749094
    }
   ]
  },
@@ -393,17 +376,17 @@
   ]
  },
  "agora": {
-  "fila": 32,
+  "fila": 33,
   "abertos": 126,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 3,
   "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 2936
+  "ausentes": 4,
+  "espera_media_s": 2872
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T17:10:22.806Z",
-  "min_sem_lead": 41
+  "ultimo_lead_at": "2026-07-31T17:23:50.516Z",
+  "min_sem_lead": 43
  },
  "leads": [
   {
@@ -416,6 +399,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4uJZlRfWK",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "559295243138",
+   "tel": "5592*****138",
+   "criado": "14:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553199464607",
+   "tel": "5531*****607",
+   "criado": "14:52",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZCDUoMVMG/",
+   "area": "Nao identificada"
   },
   {
    "nome": "Ana",
