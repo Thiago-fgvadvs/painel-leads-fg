@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 19:49",
+ "gerado_em": "31/07/2026, 20:05",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 49,
+  "total": 52,
   "no_sla": 44,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 5,
+  "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 342,
-  "tickets_abertos": 151,
+  "leads_7d": 345,
+  "tickets_abertos": 153,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 47,
+   "leads": 49,
    "mediana_min": 0.4
   },
   {
@@ -32,20 +32,20 @@
   }
  ],
  "origem": {
-  "Anuncio": 46,
-  "Direto/Indicacao": 3
+  "Anuncio": 48,
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 12
-  },
-  {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 6
+   "leads": 13
   },
   {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "leads": 7
+  },
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 6
   },
   {
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 21,
-  "Nao identificada": 27,
+  "Nao identificada": 29,
+  "Trabalhista": 22,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -364,19 +364,30 @@
   ]
  },
  "agora": {
-  "fila": 59,
-  "abertos": 151,
+  "fila": 61,
+  "abertos": 153,
   "com_atendimento": 6,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 2233
+  "espera_media_s": 2195
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T22:32:17.267Z",
-  "min_sem_lead": 17
+  "ultimo_lead_at": "2026-07-31T22:58:21.408Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "5517991842618",
+   "tel": "5517*****618",
+   "criado": "19:58",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Rosa Pereira Da Silva",
    "tel": "5567*****743",
@@ -397,6 +408,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "559684293071",
+   "tel": "5596*****071",
+   "criado": "19:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
    "area": "Trabalhista"
   },
   {
@@ -912,6 +934,17 @@
    "atendente": "Roseli",
    "espera_min": 3.6,
    "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "558496142191",
+   "tel": "5584*****191",
+   "criado": "20:04",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
