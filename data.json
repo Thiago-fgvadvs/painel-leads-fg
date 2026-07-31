@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 17:48",
+ "gerado_em": "31/07/2026, 18:03",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 40,
-  "no_sla": 39,
+  "total": 43,
+  "no_sla": 42,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 333,
-  "tickets_abertos": 143,
+  "leads_7d": 336,
+  "tickets_abertos": 144,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 38,
+   "leads": 41,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 37,
+  "Anuncio": 40,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
    "leads": 11
+  },
+  {
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "leads": 5
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
@@ -49,28 +53,24 @@
    "leads": 5
   },
   {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 4
-  },
-  {
    "url": "fb.me/cMY7LLYxT",
    "leads": 3
   },
   {
+   "url": "www.instagram.com/p/DbZCDVWMSej/",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/7se00hGXE",
+   "leads": 2
+  },
+  {
    "url": "fb.me/4EHi0h7IT",
    "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DYhcT7SDBWR/",
-   "leads": 2
-  },
-  {
-   "url": "fb.me/4PcZAj72p",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 23,
+  "Nao identificada": 26,
   "Trabalhista": 16,
   "Previdenciario": 1
  },
@@ -80,15 +80,15 @@
   "dias": 7,
   "grupos_ativos": 167,
   "turnos": 472,
-  "respondidos": 464,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "respondidos": 467,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 16,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 253,
-    "mediana_min": 23
+    "respostas": 256,
+    "mediana_min": 23.3
    },
    {
     "nome": "Nicolas",
@@ -133,28 +133,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
-    "dia": "31/07",
-    "desde": "17:32",
-    "ts": 1785529956199
-   },
-   {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "31/07",
     "desde": "15:17",
     "ts": 1785521853070
-   },
-   {
-    "grupo": "C.F.G.D.C x MUNICIPIO DE MANGARATIBA",
-    "dia": "31/07",
-    "desde": "13:35",
-    "ts": 1785515745019
-   },
-   {
-    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
-    "dia": "31/07",
-    "desde": "12:29",
-    "ts": 1785511795987
    },
    {
     "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
@@ -186,18 +168,18 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "M",
-    "tel": "5548*****795",
-    "dia": "31/07",
-    "desde": "11:34",
-    "ts": 1785508481243
+    "nome": "Cacau da Terra Alter do Chão",
+    "tel": "5593*****186",
+    "dia": "30/07",
+    "desde": "12:09",
+    "ts": 1785424185551
    },
    {
-    "nome": "Ketlin Tais",
-    "tel": "5541*****987",
-    "dia": "31/07",
-    "desde": "12:42",
-    "ts": 1785512537962
+    "nome": "joaquimpantojaprotazio8@g",
+    "tel": "5592*****609",
+    "dia": "30/07",
+    "desde": "14:01",
+    "ts": 1785430907488
    }
   ],
   "grupos": [
@@ -226,28 +208,10 @@
     "ts": 1785509428964
    },
    {
-    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
-    "dia": "31/07",
-    "desde": "12:29",
-    "ts": 1785511795987
-   },
-   {
-    "grupo": "C.F.G.D.C x MUNICIPIO DE MANGARATIBA",
-    "dia": "31/07",
-    "desde": "13:35",
-    "ts": 1785515745019
-   },
-   {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "31/07",
     "desde": "15:17",
     "ts": 1785521853070
-   },
-   {
-    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
-    "dia": "31/07",
-    "desde": "17:32",
-    "ts": 1785529956199
    }
   ]
  },
@@ -379,19 +343,52 @@
   ]
  },
  "agora": {
-  "fila": 48,
-  "abertos": 143,
-  "com_atendimento": 7,
-  "online": 2,
-  "offline": 7,
+  "fila": 52,
+  "abertos": 144,
+  "com_atendimento": 6,
+  "online": 0,
+  "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2464
+  "espera_media_s": 2375
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-15T16:56:37.862Z",
-  "min_sem_lead": 23271
+  "ultimo_lead_at": "2026-05-22T16:47:19.360Z",
+  "min_sem_lead": 101056
  },
  "leads": [
+  {
+   "nome": "557191714417",
+   "tel": "5571*****417",
+   "criado": "18:02",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZCDVWMSej/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "filho do Deus vivo de Isr",
+   "tel": "5511*****867",
+   "criado": "17:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7se00hGXE",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5527997582698",
+   "tel": "5527*****698",
+   "criado": "17:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "556791230529",
    "tel": "5567*****529",
