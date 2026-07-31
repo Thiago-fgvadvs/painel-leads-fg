@@ -1,5 +1,5 @@
 {
- "gerado_em": "31/07/2026, 09:16",
+ "gerado_em": "31/07/2026, 09:31",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 294,
-  "tickets_abertos": 296,
+  "tickets_abertos": 297,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -38,22 +38,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 150,
-  "turnos": 422,
-  "respondidos": 414,
+  "grupos_ativos": 151,
+  "turnos": 425,
+  "respondidos": 417,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
-  "mediana_min": 15.2,
+  "mediana_min": 15.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 222,
+    "respostas": 224,
     "mediana_min": 22.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 90,
-    "mediana_min": 25
+    "respostas": 91,
+    "mediana_min": 25.2
    },
    {
     "nome": "Eduardo",
@@ -88,10 +88,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
+    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
     "dia": "30/07",
-    "desde": "17:50",
-    "ts": 1785444626751
+    "desde": "17:51",
+    "ts": 1785444661731
    },
    {
     "grupo": "E.J.U.A x ARMAZEM URBANO COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
@@ -192,10 +192,10 @@
     "ts": 1785444391749
    },
    {
-    "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
+    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
     "dia": "30/07",
-    "desde": "17:50",
-    "ts": 1785444626751
+    "desde": "17:51",
+    "ts": 1785444661731
    }
   ]
  },
@@ -319,16 +319,16 @@
  },
  "agora": {
   "fila": 212,
-  "abertos": 296,
+  "abertos": 297,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 4,
   "offline": 4,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 931
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T14:20:19.743Z",
-  "min_sem_lead": 1316
+  "ultimo_lead_at": "2026-07-22T18:46:41.066Z",
+  "min_sem_lead": 12585
  },
  "leads": [
   {
