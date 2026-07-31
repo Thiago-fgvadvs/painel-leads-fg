@@ -1,5 +1,5 @@
 {
- "gerado_em": "31/07/2026, 17:17",
+ "gerado_em": "31/07/2026, 17:32",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 331,
-  "tickets_abertos": 140,
+  "tickets_abertos": 142,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -79,16 +79,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 166,
-  "turnos": 461,
-  "respondidos": 454,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 464,
+  "respondidos": 456,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 15.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 244,
-    "mediana_min": 20.8
+    "respostas": 245,
+    "mediana_min": 20.7
    },
    {
     "nome": "Nicolas",
@@ -124,9 +124,20 @@
     "nome": "Roseli",
     "respostas": 4,
     "mediana_min": 320.1
+   },
+   {
+    "nome": "—",
+    "respostas": 1,
+    "mediana_min": 4431.1
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
+    "dia": "31/07",
+    "desde": "17:32",
+    "ts": 1785529956199
+   },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "31/07",
@@ -238,6 +249,12 @@
     "dia": "31/07",
     "desde": "15:17",
     "ts": 1785521853070
+   },
+   {
+    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
+    "dia": "31/07",
+    "desde": "17:32",
+    "ts": 1785529956199
    }
   ]
  },
@@ -370,7 +387,7 @@
  },
  "agora": {
   "fila": 46,
-  "abertos": 140,
+  "abertos": 142,
   "com_atendimento": 8,
   "online": 2,
   "offline": 6,
@@ -378,10 +395,21 @@
   "espera_media_s": 2512
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T20:15:34.610Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-07-31T19:26:21.624Z",
+  "min_sem_lead": 66
  },
  "leads": [
+  {
+   "nome": "danilosouzapardim7",
+   "tel": "5511*****571",
+   "criado": "16:26",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4PcZAj72p",
+   "area": "Trabalhista"
+  },
   {
    "nome": "554299692659",
    "tel": "5542*****659",
@@ -403,17 +431,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "danilosouzapardim7",
-   "tel": "5511*****571",
-   "criado": "16:26",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4PcZAj72p",
-   "area": "Trabalhista"
   },
   {
    "nome": "5516997856328",
