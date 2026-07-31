@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 19:34",
+ "gerado_em": "31/07/2026, 19:49",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 48,
+  "total": 49,
   "no_sla": 44,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 4,
+  "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 341,
-  "tickets_abertos": 149,
+  "leads_7d": 342,
+  "tickets_abertos": 151,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 46,
+   "leads": 47,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 45,
+  "Anuncio": 46,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 20,
+  "Trabalhista": 21,
   "Nao identificada": 27,
   "Previdenciario": 1
  },
@@ -167,6 +167,13 @@
  "pendencias": {
   "dias": 7,
   "leads": [
+   {
+    "nome": "🤍",
+    "tel": "5515*****609",
+    "dia": "30/07",
+    "desde": "11:20",
+    "ts": 1785421219743
+   },
    {
     "nome": "Cacau da Terra Alter do Chão",
     "tel": "5593*****186",
@@ -357,19 +364,41 @@
   ]
  },
  "agora": {
-  "fila": 57,
-  "abertos": 149,
+  "fila": 59,
+  "abertos": 151,
   "com_atendimento": 6,
-  "online": 0,
-  "offline": 9,
+  "online": 1,
+  "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 2272
+  "espera_media_s": 2233
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T22:33:54.391Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-07-31T22:32:17.267Z",
+  "min_sem_lead": 17
  },
  "leads": [
+  {
+   "nome": "Rosa Pereira Da Silva",
+   "tel": "5567*****743",
+   "criado": "19:32",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4PcZAj72p",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "MAY😍",
+   "tel": "5542*****442",
+   "criado": "18:37",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Edna",
    "tel": "5511*****403",
@@ -382,14 +411,14 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Rosa Pereira Da Silva",
-   "tel": "5567*****743",
-   "criado": "19:32",
+   "nome": "Marilza",
+   "tel": "5543*****933",
+   "criado": "19:40",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "fb.me/4PcZAj72p",
+   "criativo": "fb.me/7zuw78mO2",
    "area": "Trabalhista"
   },
   {
@@ -413,17 +442,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "MAY😍",
-   "tel": "5542*****442",
-   "criado": "18:37",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Trabalhista"
   },
   {
    "nome": "557191714417",
