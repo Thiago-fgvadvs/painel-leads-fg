@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 16:07",
+ "gerado_em": "31/07/2026, 16:22",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 31,
-  "no_sla": 30,
+  "total": 32,
+  "no_sla": 31,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 324,
-  "tickets_abertos": 132,
+  "leads_7d": 325,
+  "tickets_abertos": 133,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 29,
+   "leads": 30,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 28,
+  "Anuncio": 29,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 8
+   "leads": 9
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 16,
   "Trabalhista": 14,
+  "Nao identificada": 17,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -174,6 +174,13 @@
  "pendencias": {
   "dias": 7,
   "leads": [
+   {
+    "nome": "🤍",
+    "tel": "5515*****609",
+    "dia": "30/07",
+    "desde": "11:20",
+    "ts": 1785421219743
+   },
    {
     "nome": "Cacau da Terra Alter do Chão",
     "tel": "5593*****186",
@@ -383,19 +390,30 @@
   ]
  },
  "agora": {
-  "fila": 38,
-  "abertos": 132,
+  "fila": 39,
+  "abertos": 133,
   "com_atendimento": 8,
-  "online": 4,
-  "offline": 1,
-  "ausentes": 4,
-  "espera_media_s": 2722
+  "online": 5,
+  "offline": 2,
+  "ausentes": 2,
+  "espera_media_s": 2693
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T18:46:49.081Z",
-  "min_sem_lead": 21
+  "ultimo_lead_at": "2026-07-30T02:30:27.608Z",
+  "min_sem_lead": 2452
  },
  "leads": [
+  {
+   "nome": "Jandeilson",
+   "tel": "5511*****400",
+   "criado": "12:37",
+   "atendente": "Eduardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "maiaracriatinasouza",
    "tel": "5511*****936",
@@ -408,18 +426,18 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "JADENILSON",
-   "tel": "5511*****400",
-   "criado": "12:37",
-   "atendente": "Eduardo",
+   "nome": "Mayara",
+   "tel": "5515*****353",
+   "criado": "16:08",
+   "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.3,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
   },
   {
-   "nome": "5511984322454",
+   "nome": "Rafael morais",
    "tel": "5511*****454",
    "criado": "15:33",
    "atendente": "Fernanda Gehm - Administradora",
@@ -430,7 +448,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "558591275143",
+   "nome": "✨",
    "tel": "5585*****143",
    "criado": "15:21",
    "atendente": "Fernanda Gehm - Administradora",
@@ -452,7 +470,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554799116260",
+   "nome": "Carla",
    "tel": "5547*****260",
    "criado": "15:31",
    "atendente": "Fernanda Gehm - Administradora",
@@ -463,7 +481,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "559295243138",
+   "nome": "France🌻",
    "tel": "5592*****138",
    "criado": "14:59",
    "atendente": "Fernanda Gehm - Administradora",
@@ -474,7 +492,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553199464607",
+   "nome": "LANA💪🏽✌🏽",
    "tel": "5531*****607",
    "criado": "14:52",
    "atendente": "Fernanda Gehm - Administradora",
@@ -540,7 +558,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5511952017215",
+   "nome": "Celia Noemia",
    "tel": "5511*****215",
    "criado": "14:04",
    "atendente": "Fernanda Gehm - Administradora",
@@ -551,7 +569,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553299726444",
+   "nome": "Leila🌻",
    "tel": "5532*****444",
    "criado": "13:55",
    "atendente": "Fernanda Gehm - Administradora",
@@ -595,7 +613,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553172235966",
+   "nome": "k",
    "tel": "5531*****966",
    "criado": "13:06",
    "atendente": "Fernanda Gehm - Administradora",
@@ -628,7 +646,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553191121617",
+   "nome": "Silva",
    "tel": "5531*****617",
    "criado": "12:53",
    "atendente": "Fernanda Gehm - Administradora",
