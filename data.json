@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 18:33",
+ "gerado_em": "31/07/2026, 18:48",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 44,
-  "no_sla": 43,
+  "total": 45,
+  "no_sla": 44,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 337,
-  "tickets_abertos": 145,
+  "leads_7d": 338,
+  "tickets_abertos": 146,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 42,
+   "leads": 43,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 41,
+  "Anuncio": 42,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 11
+   "leads": 12
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 17,
+  "Trabalhista": 18,
   "Nao identificada": 26,
   "Previdenciario": 1
  },
@@ -350,19 +350,30 @@
   ]
  },
  "agora": {
-  "fila": 53,
-  "abertos": 145,
+  "fila": 54,
+  "abertos": 146,
   "com_atendimento": 6,
   "online": 0,
-  "offline": 9,
-  "ausentes": 0,
-  "espera_media_s": 2353
+  "offline": 8,
+  "ausentes": 1,
+  "espera_media_s": 2332
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T14:22:03.842Z",
-  "min_sem_lead": 4752
+  "ultimo_lead_at": "2026-07-31T21:37:09.612Z",
+  "min_sem_lead": 12
  },
  "leads": [
+  {
+   "nome": "MAY😍",
+   "tel": "5542*****442",
+   "criado": "18:37",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Dressa",
    "tel": "5511*****091",
