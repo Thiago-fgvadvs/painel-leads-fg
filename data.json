@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 21:05",
+ "gerado_em": "31/07/2026, 21:21",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 55,
+  "total": 56,
   "no_sla": 44,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 10,
+  "fora_horario": 11,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 348,
-  "tickets_abertos": 156,
+  "leads_7d": 349,
+  "tickets_abertos": 157,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 52,
+   "leads": 53,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 51,
+  "Anuncio": 52,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -42,7 +42,7 @@
   },
   {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 8
+   "leads": 9
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
@@ -71,7 +71,7 @@
  ],
  "areas": {
   "Nao identificada": 32,
-  "Trabalhista": 22,
+  "Trabalhista": 23,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -167,13 +167,6 @@
  "pendencias": {
   "dias": 7,
   "leads": [
-   {
-    "nome": "🤍",
-    "tel": "5515*****609",
-    "dia": "30/07",
-    "desde": "11:20",
-    "ts": 1785421219743
-   },
    {
     "nome": "Cacau da Terra Alter do Chão",
     "tel": "5593*****186",
@@ -364,17 +357,17 @@
   ]
  },
  "agora": {
-  "fila": 64,
-  "abertos": 156,
+  "fila": 65,
+  "abertos": 157,
   "com_atendimento": 6,
-  "online": 0,
+  "online": 1,
   "offline": 8,
-  "ausentes": 1,
-  "espera_media_s": 2141
+  "ausentes": 0,
+  "espera_media_s": 2124
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-31T23:59:25.618Z",
-  "min_sem_lead": 6
+  "min_sem_lead": 22
  },
  "leads": [
   {
@@ -387,6 +380,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "553184363276",
+   "tel": "5531*****276",
+   "criado": "21:08",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Trabalhista"
   },
   {
    "nome": "5511992908927",
