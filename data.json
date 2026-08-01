@@ -1,28 +1,28 @@
 {
- "gerado_em": "01/08/2026, 11:10",
+ "gerado_em": "01/08/2026, 11:25",
  "data_ref": "01/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
+  "total": 17,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 15,
+  "fora_horario": 16,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 334,
-  "tickets_abertos": 178,
+  "leads_7d": 335,
+  "tickets_abertos": 179,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 15,
+   "leads": 16,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 15,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -43,12 +43,16 @@
    "leads": 2
   },
   {
+   "url": "fb.me/4EHi0h7IT",
+   "leads": 1
+  },
+  {
    "url": "fb.me/gp4PFLi6F",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 3,
+  "Trabalhista": 4,
   "Nao identificada": 13
  },
  "sem_resposta_lista": [],
@@ -144,13 +148,6 @@
  "pendencias": {
   "dias": 7,
   "leads": [
-   {
-    "nome": "joaquimpantojaprotazio8@g",
-    "tel": "5592*****609",
-    "dia": "30/07",
-    "desde": "14:01",
-    "ts": 1785430907488
-   },
    {
     "nome": "Bruna Raquel",
     "tel": "5547*****534",
@@ -334,19 +331,30 @@
   ]
  },
  "agora": {
-  "fila": 86,
-  "abertos": 178,
+  "fila": 87,
+  "abertos": 179,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1815
+  "espera_media_s": 1803
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-01T11:59:02.710Z",
-  "min_sem_lead": 131
+  "ultimo_lead_at": "2026-08-01T14:23:10.847Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "Ivani",
+   "tel": "5519*****551",
+   "criado": "11:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EHi0h7IT",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Vaz",
    "tel": "5571*****402",
