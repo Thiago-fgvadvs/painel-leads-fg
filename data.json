@@ -1,28 +1,28 @@
 {
- "gerado_em": "01/08/2026, 17:15",
+ "gerado_em": "01/08/2026, 17:31",
  "data_ref": "01/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
+  "total": 28,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 27,
+  "fora_horario": 28,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 345,
-  "tickets_abertos": 194,
+  "leads_7d": 346,
+  "tickets_abertos": 195,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 27,
+   "leads": 28,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 25,
+  "Anuncio": 26,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -39,6 +39,10 @@
    "leads": 3
   },
   {
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 2
+  },
+  {
    "url": "fb.me/4PcZAj72p",
    "leads": 2
   },
@@ -51,17 +55,13 @@
    "leads": 1
   },
   {
-   "url": "fb.me/9Pf9FTshS",
-   "leads": 1
-  },
-  {
    "url": "fb.me/4aByuCBr5",
    "leads": 1
   }
  ],
  "areas": {
   "Nao identificada": 18,
-  "Trabalhista": 9
+  "Trabalhista": 10
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -351,17 +351,17 @@
   ]
  },
  "agora": {
-  "fila": 100,
-  "abertos": 194,
+  "fila": 101,
+  "abertos": 195,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1656
+  "espera_media_s": 1645
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T22:32:17.267Z",
-  "min_sem_lead": 1303
+  "ultimo_lead_at": "2026-08-01T10:34:54.073Z",
+  "min_sem_lead": 596
  },
  "leads": [
   {
@@ -374,6 +374,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "554398618268",
+   "tel": "5543*****268",
+   "criado": "17:16",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
   },
   {
    "nome": "Ivani",
