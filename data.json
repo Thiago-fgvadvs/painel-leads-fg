@@ -1,31 +1,35 @@
 {
- "gerado_em": "01/08/2026, 08:53",
+ "gerado_em": "01/08/2026, 09:08",
  "data_ref": "01/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
+  "total": 10,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 7,
+  "fora_horario": 9,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 326,
-  "tickets_abertos": 170,
+  "leads_7d": 328,
+  "tickets_abertos": 172,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 7,
+   "leads": 9,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 7,
+  "Anuncio": 9,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "leads": 4
+  },
   {
    "url": "fb.me/4uJZlRfWK",
    "leads": 3
@@ -33,15 +37,11 @@
   {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 2
   }
  ],
  "areas": {
-  "Nao identificada": 7,
-  "Trabalhista": 1
+  "Trabalhista": 2,
+  "Nao identificada": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -319,19 +319,41 @@
   ]
  },
  "agora": {
-  "fila": 78,
-  "abertos": 170,
+  "fila": 80,
+  "abertos": 172,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1922
+  "espera_media_s": 1894
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-01T11:49:58.636Z",
-  "min_sem_lead": 3
+  "ultimo_lead_at": "2026-08-01T11:59:02.710Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "Vaz",
+   "tel": "5571*****402",
+   "criado": "08:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558496174804",
+   "tel": "5584*****804",
+   "criado": "09:03",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "553182505591",
    "tel": "5531*****591",
