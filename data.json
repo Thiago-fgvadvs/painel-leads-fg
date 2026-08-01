@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/07/2026, 21:21",
+ "gerado_em": "31/07/2026, 21:36",
  "data_ref": "31/07/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 56,
+  "total": 57,
   "no_sla": 44,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 11,
+  "fora_horario": 12,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 349,
-  "tickets_abertos": 157,
+  "leads_7d": 350,
+  "tickets_abertos": 158,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 53,
+   "leads": 54,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 52,
+  "Anuncio": 53,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -45,12 +45,12 @@
    "leads": 9
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "fb.me/4uJZlRfWK",
    "leads": 6
   },
   {
-   "url": "fb.me/4uJZlRfWK",
-   "leads": 5
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 6
   },
   {
    "url": "fb.me/cMY7LLYxT",
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 32,
+  "Nao identificada": 33,
   "Trabalhista": 23,
   "Previdenciario": 1
  },
@@ -168,13 +168,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Cacau da Terra Alter do Chão",
-    "tel": "5593*****186",
-    "dia": "30/07",
-    "desde": "12:09",
-    "ts": 1785424185551
-   },
-   {
     "nome": "joaquimpantojaprotazio8@g",
     "tel": "5592*****609",
     "dia": "30/07",
@@ -187,6 +180,13 @@
     "dia": "30/07",
     "desde": "17:05",
     "ts": 1785441918340
+   },
+   {
+    "nome": "Elton",
+    "tel": "5592*****622",
+    "dia": "30/07",
+    "desde": "20:39",
+    "ts": 1785454785279
    },
    {
     "nome": "M",
@@ -357,19 +357,30 @@
   ]
  },
  "agora": {
-  "fila": 65,
-  "abertos": 157,
+  "fila": 66,
+  "abertos": 158,
   "com_atendimento": 6,
-  "online": 1,
+  "online": 0,
   "offline": 8,
-  "ausentes": 0,
-  "espera_media_s": 2124
+  "ausentes": 1,
+  "espera_media_s": 2107
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T23:59:25.618Z",
-  "min_sem_lead": 22
+  "ultimo_lead_at": "2026-08-01T00:35:49.813Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "Elis",
+   "tel": "5511*****868",
+   "criado": "21:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
   {
    "nome": "5521995422847",
    "tel": "5521*****847",
