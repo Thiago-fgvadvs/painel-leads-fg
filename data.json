@@ -1,28 +1,28 @@
 {
- "gerado_em": "01/08/2026, 14:43",
+ "gerado_em": "01/08/2026, 14:58",
  "data_ref": "01/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
+  "total": 25,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 23,
+  "fora_horario": 24,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 342,
-  "tickets_abertos": 187,
+  "leads_7d": 343,
+  "tickets_abertos": 189,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 23,
+   "leads": 24,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 23,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/4PcZAj72p",
+   "leads": 1
+  },
+  {
    "url": "fb.me/9Pf9FTshS",
    "leads": 1
   },
@@ -53,25 +57,21 @@
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4EHi0h7IT",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 8,
   "Nao identificada": 17
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 169,
-  "turnos": 467,
-  "respondidos": 462,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "grupos_ativos": 170,
+  "turnos": 471,
+  "respondidos": 465,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 15.9,
   "atendentes": [
    {
@@ -81,8 +81,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 95,
-    "mediana_min": 24.7
+    "respostas": 98,
+    "mediana_min": 25
    },
    {
     "nome": "Eduardo",
@@ -121,6 +121,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.J.M.C.F x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
+    "dia": "01/08",
+    "desde": "14:46",
+    "ts": 1785606381384
+   },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "31/07",
@@ -201,6 +207,12 @@
     "dia": "31/07",
     "desde": "15:17",
     "ts": 1785521853070
+   },
+   {
+    "grupo": "M.J.M.C.F x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
+    "dia": "01/08",
+    "desde": "14:46",
+    "ts": 1785606381384
    }
   ]
  },
@@ -332,19 +344,30 @@
   ]
  },
  "agora": {
-  "fila": 95,
-  "abertos": 187,
+  "fila": 96,
+  "abertos": 189,
   "com_atendimento": 7,
-  "online": 1,
-  "offline": 8,
+  "online": 0,
+  "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1709
+  "espera_media_s": 1698
  },
  "captacao": {
   "ultimo_lead_at": "2026-06-10T13:57:54.723Z",
-  "min_sem_lead": 75105
+  "min_sem_lead": 75121
  },
  "leads": [
+  {
+   "nome": "559292463774",
+   "tel": "5592*****774",
+   "criado": "14:48",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4PcZAj72p",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Isabel Santos",
    "tel": "5587*****626",
