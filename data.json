@@ -1,28 +1,28 @@
 {
- "gerado_em": "01/08/2026, 20:03",
+ "gerado_em": "01/08/2026, 20:18",
  "data_ref": "01/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 34,
+  "total": 35,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 34,
+  "fora_horario": 35,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 352,
-  "tickets_abertos": 202,
+  "leads_7d": 353,
+  "tickets_abertos": 203,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 34,
+   "leads": 35,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 32,
+  "Anuncio": 33,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 22,
-  "Trabalhista": 12
+  "Trabalhista": 13,
+  "Nao identificada": 22
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -162,20 +162,6 @@
  "pendencias": {
   "dias": 7,
   "leads": [
-   {
-    "nome": "Bruna Raquel",
-    "tel": "5547*****534",
-    "dia": "30/07",
-    "desde": "17:05",
-    "ts": 1785441918340
-   },
-   {
-    "nome": "Elton",
-    "tel": "5592*****622",
-    "dia": "30/07",
-    "desde": "20:39",
-    "ts": 1785454785279
-   },
    {
     "nome": "M",
     "tel": "5548*****795",
@@ -351,19 +337,30 @@
   ]
  },
  "agora": {
-  "fila": 108,
-  "abertos": 202,
+  "fila": 109,
+  "abertos": 203,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1576
+  "espera_media_s": 1567
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-01T22:45:54.430Z",
-  "min_sem_lead": 17
+  "ultimo_lead_at": "2026-08-01T23:10:51.505Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "Evilene Freire",
+   "tel": "5585*****288",
+   "criado": "20:10",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "costa @jaco",
    "tel": "5592*****554",
