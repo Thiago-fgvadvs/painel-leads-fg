@@ -1,28 +1,28 @@
 {
- "gerado_em": "01/08/2026, 19:32",
+ "gerado_em": "01/08/2026, 19:48",
  "data_ref": "01/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
+  "total": 34,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 33,
+  "fora_horario": 34,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 351,
-  "tickets_abertos": 201,
+  "leads_7d": 352,
+  "tickets_abertos": 202,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 33,
+   "leads": 34,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 31,
+  "Anuncio": 32,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 3
   },
   {
+   "url": "fb.me/cMY7LLYxT",
+   "leads": 2
+  },
+  {
    "url": "fb.me/4aByuCBr5",
    "leads": 2
   },
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/4PcZAj72p",
    "leads": 2
-  },
-  {
-   "url": "fb.me/4EHi0h7IT",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 12,
-  "Nao identificada": 21
+  "Nao identificada": 22,
+  "Trabalhista": 12
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -162,13 +162,6 @@
  "pendencias": {
   "dias": 7,
   "leads": [
-   {
-    "nome": "joaquimpantojaprotazio8@g",
-    "tel": "5592*****609",
-    "dia": "30/07",
-    "desde": "14:01",
-    "ts": 1785430907488
-   },
    {
     "nome": "Bruna Raquel",
     "tel": "5547*****534",
@@ -358,29 +351,29 @@
   ]
  },
  "agora": {
-  "fila": 107,
-  "abertos": 201,
+  "fila": 108,
+  "abertos": 202,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1586
+  "espera_media_s": 1576
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-01T22:27:19.899Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2026-08-01T22:45:54.430Z",
+  "min_sem_lead": 2
  },
  "leads": [
   {
-   "nome": "Gabriel",
-   "tel": "5548*****351",
-   "criado": "19:27",
+   "nome": "costa @jaco",
+   "tel": "5592*****554",
+   "criado": "19:45",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
+   "espera_min": 0.4,
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "fb.me/4aByuCBr5",
-   "area": "Trabalhista"
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
   },
   {
    "nome": "Dagmar",
@@ -392,6 +385,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Gabriel",
+   "tel": "5548*****351",
+   "criado": "19:27",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4aByuCBr5",
+   "area": "Trabalhista"
   },
   {
    "nome": "Muniz",
