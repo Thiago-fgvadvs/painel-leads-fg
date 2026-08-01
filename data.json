@@ -1,28 +1,28 @@
 {
- "gerado_em": "01/08/2026, 14:12",
+ "gerado_em": "01/08/2026, 14:28",
  "data_ref": "01/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
+  "total": 22,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 20,
+  "fora_horario": 21,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 339,
-  "tickets_abertos": 183,
+  "leads_7d": 340,
+  "tickets_abertos": 184,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 1
+  },
+  {
    "url": "fb.me/4aByuCBr5",
    "leads": 1
   },
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/4EHi0h7IT",
    "leads": 1
-  },
-  {
-   "url": "fb.me/gp4PFLi6F",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 15,
-  "Trabalhista": 6
+  "Trabalhista": 7,
+  "Nao identificada": 15
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -155,7 +155,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "joaquimpantojaprotazio8@g",
+    "tel": "5592*****609",
+    "dia": "30/07",
+    "desde": "14:01",
+    "ts": 1785430907488
+   }
+  ],
   "grupos": [
    {
     "grupo": "M.F.F x INSS",
@@ -317,29 +325,29 @@
   ]
  },
  "agora": {
-  "fila": 91,
-  "abertos": 183,
+  "fila": 92,
+  "abertos": 184,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1755
+  "espera_media_s": 1743
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-01T04:23:48.455Z",
-  "min_sem_lead": 769
+  "ultimo_lead_at": "2026-08-01T17:26:16.403Z",
+  "min_sem_lead": 2
  },
  "leads": [
   {
-   "nome": "553192780016",
-   "tel": "5531*****016",
-   "criado": "01:23",
+   "nome": "Isabel Santos",
+   "tel": "5587*****626",
+   "criado": "14:26",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "fb.me/4uJZlRfWK",
-   "area": "Nao identificada"
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
   },
   {
    "nome": "556596005447",
@@ -351,6 +359,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "553192780016",
+   "tel": "5531*****016",
+   "criado": "01:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
   },
   {
    "nome": "558186993147",
