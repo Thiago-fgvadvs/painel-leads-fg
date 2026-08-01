@@ -1,34 +1,34 @@
 {
- "gerado_em": "01/08/2026, 14:28",
+ "gerado_em": "01/08/2026, 14:43",
  "data_ref": "01/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
+  "total": 24,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 21,
+  "fora_horario": 23,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 340,
-  "tickets_abertos": 184,
+  "leads_7d": 342,
+  "tickets_abertos": 187,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 21,
+   "leads": 23,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 22,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 7
+   "leads": 9
   },
   {
    "url": "fb.me/4uJZlRfWK",
@@ -61,13 +61,13 @@
  ],
  "areas": {
   "Trabalhista": 7,
-  "Nao identificada": 15
+  "Nao identificada": 17
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 167,
+  "grupos_ativos": 169,
   "turnos": 467,
   "respondidos": 462,
   "sem_resposta": 5,
@@ -162,6 +162,13 @@
     "dia": "30/07",
     "desde": "14:01",
     "ts": 1785430907488
+   },
+   {
+    "nome": "Bruna Raquel",
+    "tel": "5547*****534",
+    "dia": "30/07",
+    "desde": "17:05",
+    "ts": 1785441918340
    }
   ],
   "grupos": [
@@ -325,17 +332,17 @@
   ]
  },
  "agora": {
-  "fila": 92,
-  "abertos": 184,
-  "com_atendimento": 6,
-  "online": 0,
-  "offline": 9,
+  "fila": 95,
+  "abertos": 187,
+  "com_atendimento": 7,
+  "online": 1,
+  "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 1743
+  "espera_media_s": 1709
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-01T17:26:16.403Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-06-10T13:57:54.723Z",
+  "min_sem_lead": 75105
  },
  "leads": [
   {
@@ -348,6 +355,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/9Pf9FTshS",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "553399784399",
+   "tel": "5533*****399",
+   "criado": "14:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "555198890681",
+   "tel": "5551*****681",
+   "criado": "14:37",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
   },
   {
    "nome": "556596005447",
