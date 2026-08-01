@@ -1,28 +1,28 @@
 {
- "gerado_em": "01/08/2026, 15:59",
+ "gerado_em": "01/08/2026, 16:14",
  "data_ref": "01/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
+  "total": 27,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 25,
+  "fora_horario": 26,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 344,
-  "tickets_abertos": 190,
+  "leads_7d": 345,
+  "tickets_abertos": 191,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 24,
+  "Anuncio": 25,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -39,11 +39,15 @@
    "leads": 3
   },
   {
+   "url": "fb.me/4PcZAj72p",
+   "leads": 2
+  },
+  {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 2
   },
   {
-   "url": "fb.me/4PcZAj72p",
+   "url": "fb.me/4EHi0h7IT",
    "leads": 1
   },
   {
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/4aByuCBr5",
    "leads": 1
-  },
-  {
-   "url": "fb.me/cMY7LLYxT",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 18,
-  "Trabalhista": 8
+  "Trabalhista": 9,
+  "Nao identificada": 18
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -162,6 +162,13 @@
  "pendencias": {
   "dias": 7,
   "leads": [
+   {
+    "nome": "Cacau da Terra Alter do Chão",
+    "tel": "5593*****186",
+    "dia": "30/07",
+    "desde": "12:09",
+    "ts": 1785424185551
+   },
    {
     "nome": "joaquimpantojaprotazio8@g",
     "tel": "5592*****609",
@@ -344,19 +351,41 @@
   ]
  },
  "agora": {
-  "fila": 97,
-  "abertos": 190,
+  "fila": 98,
+  "abertos": 191,
   "com_atendimento": 7,
-  "online": 0,
-  "offline": 9,
+  "online": 1,
+  "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 1687
+  "espera_media_s": 1677
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-01T18:26:49.500Z",
-  "min_sem_lead": 33
+  "ultimo_lead_at": "2026-08-01T19:03:55.680Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "RAFAEL CRISTO 🤴🏻👑🩷",
+   "tel": "5527*****696",
+   "criado": "16:03",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4PcZAj72p",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ivani",
+   "tel": "5519*****551",
+   "criado": "11:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EHi0h7IT",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Mara Camila 📿",
    "tel": "5585*****660",
@@ -369,7 +398,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "556596005447",
+   "nome": "~ponhes🌹",
    "tel": "5565*****447",
    "criado": "13:35",
    "atendente": "Fernanda Gehm - Administradora",
@@ -380,7 +409,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "559292463774",
+   "nome": "☠️",
    "tel": "5592*****774",
    "criado": "14:48",
    "atendente": "Fernanda Gehm - Administradora",
@@ -402,7 +431,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "553399784399",
+   "nome": "Luciene Luiz Otoni",
    "tel": "5533*****399",
    "criado": "14:40",
    "atendente": "Fernanda Gehm - Administradora",
@@ -413,7 +442,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "555198890681",
+   "nome": "Jakeline🚑💉🩺🤍",
    "tel": "5551*****681",
    "criado": "14:37",
    "atendente": "Fernanda Gehm - Administradora",
@@ -424,7 +453,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553192780016",
+   "nome": "Luiza",
    "tel": "5531*****016",
    "criado": "01:23",
    "atendente": "Fernanda Gehm - Administradora",
@@ -435,7 +464,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "558186993147",
+   "nome": "Tania",
    "tel": "5581*****147",
    "criado": "13:40",
    "atendente": "Fernanda Gehm - Administradora",
@@ -468,7 +497,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "559691174480",
+   "nome": "Joeva Reis",
    "tel": "5596*****480",
    "criado": "12:10",
    "atendente": "Fernanda Gehm - Administradora",
@@ -477,17 +506,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Ivani",
-   "tel": "5519*****551",
-   "criado": "11:23",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4EHi0h7IT",
-   "area": "Trabalhista"
   },
   {
    "nome": "Jovelina",
@@ -501,7 +519,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "558179028624",
+   "nome": "Fernanda Arcoverde",
    "tel": "5581*****624",
    "criado": "10:26",
    "atendente": "Fernanda Gehm - Administradora",
@@ -512,7 +530,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554792605982",
+   "nome": "Maria",
    "tel": "5547*****982",
    "criado": "10:37",
    "atendente": "Fernanda Gehm - Administradora",
@@ -523,7 +541,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5511952881408",
+   "nome": "Helen Cristine",
    "tel": "5511*****408",
    "criado": "09:55",
    "atendente": "Fernanda Gehm - Administradora",
@@ -534,7 +552,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "557491206277",
+   "nome": "Veruska Carvalho",
    "tel": "5574*****277",
    "criado": "09:40",
    "atendente": "Fernanda Gehm - Administradora",
@@ -556,7 +574,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "558496174804",
+   "nome": "Marli Mariah",
    "tel": "5584*****804",
    "criado": "09:03",
    "atendente": "Fernanda Gehm - Administradora",
@@ -567,7 +585,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553182505591",
+   "nome": "Vitória Oliveira🍒",
    "tel": "5531*****591",
    "criado": "08:49",
    "atendente": "Fernanda Gehm - Administradora",
@@ -578,7 +596,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "554792617620",
+   "nome": "Josué Alves Bezerra",
    "tel": "5547*****620",
    "criado": "04:45",
    "atendente": "Fernanda Gehm - Administradora",
@@ -622,7 +640,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "554195789437",
+   "nome": "Cleo",
    "tel": "5541*****437",
    "criado": "01:29",
    "atendente": "Fernanda Gehm - Administradora",
