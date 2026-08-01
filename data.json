@@ -1,13 +1,13 @@
 {
- "gerado_em": "01/08/2026, 12:11",
+ "gerado_em": "01/08/2026, 12:26",
  "data_ref": "01/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 18,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 16,
+  "sem_resposta": 0,
+  "fora_horario": 17,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 336,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": null
   }
  ],
@@ -56,17 +56,10 @@
   }
  ],
  "areas": {
-  "Nao identificada": 14,
-  "Trabalhista": 4
+  "Trabalhista": 4,
+  "Nao identificada": 14
  },
- "sem_resposta_lista": [
-  {
-   "nome": "559691174480",
-   "tel": "5596*****480",
-   "criado": "12:10",
-   "area": "Nao identificada"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -165,13 +158,6 @@
     "dia": "31/07",
     "desde": "11:34",
     "ts": 1785508481243
-   },
-   {
-    "nome": "559691174480",
-    "tel": "5596*****480",
-    "dia": "01/08",
-    "desde": "12:10",
-    "ts": 1785597056603
    }
   ],
   "grupos": [
@@ -341,20 +327,31 @@
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1803
+  "espera_media_s": 1791
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-01T15:10:56.603Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-08-01T11:59:02.710Z",
+  "min_sem_lead": 207
  },
  "leads": [
+  {
+   "nome": "Vaz",
+   "tel": "5571*****402",
+   "criado": "08:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "559691174480",
    "tel": "5596*****480",
    "criado": "12:10",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
    "area": "Nao identificada"
@@ -368,17 +365,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4EHi0h7IT",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Vaz",
-   "tel": "5571*****402",
-   "criado": "08:59",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Trabalhista"
   },
   {
