@@ -1,23 +1,23 @@
 {
- "gerado_em": "02/08/2026, 14:42",
+ "gerado_em": "02/08/2026, 14:57",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 38,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 37,
+  "sem_resposta": 0,
+  "fora_horario": 38,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 345,
-  "tickets_abertos": 252,
+  "tickets_abertos": 253,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 37,
+   "leads": 38,
    "mediana_min": null
   }
  ],
@@ -60,18 +60,11 @@
   }
  ],
  "areas": {
-  "Nao identificada": 19,
-  "Trabalhista": 16,
-  "Previdenciario": 3
+  "Previdenciario": 3,
+  "Trabalhista": 17,
+  "Nao identificada": 18
  },
- "sem_resposta_lista": [
-  {
-   "nome": "554191961952",
-   "tel": "5541*****952",
-   "criado": "14:42",
-   "area": "Nao identificada"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -176,13 +169,6 @@
     "dia": "30/07",
     "desde": "14:01",
     "ts": 1785430907488
-   },
-   {
-    "nome": "554191961952",
-    "tel": "5541*****952",
-    "dia": "02/08",
-    "desde": "14:42",
-    "ts": 1785692522051
    }
   ],
   "grupos": [
@@ -352,29 +338,40 @@
   ]
  },
  "agora": {
-  "fila": 158,
-  "abertos": 252,
+  "fila": 159,
+  "abertos": 253,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1221
+  "espera_media_s": 1210
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T17:42:02.051Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-08-02T14:26:16.202Z",
+  "min_sem_lead": 211
  },
  "leads": [
+  {
+   "nome": "Vanusa",
+   "tel": "5569*****817",
+   "criado": "11:26",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Previdenciario"
+  },
   {
    "nome": "554191961952",
    "tel": "5541*****952",
    "criado": "14:42",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "Marcos Augusto",
@@ -474,17 +471,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Vanusa",
-   "tel": "5569*****817",
-   "criado": "11:26",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4uJZlRfWK",
-   "area": "Previdenciario"
   },
   {
    "nome": "Bianca Silva 🤍",
