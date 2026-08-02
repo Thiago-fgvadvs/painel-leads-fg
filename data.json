@@ -1,28 +1,28 @@
 {
- "gerado_em": "02/08/2026, 15:12",
+ "gerado_em": "02/08/2026, 15:28",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 39,
+  "total": 41,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 39,
+  "fora_horario": 41,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 346,
-  "tickets_abertos": 254,
+  "leads_7d": 348,
+  "tickets_abertos": 256,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 39,
+   "leads": 41,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 35,
+  "Anuncio": 37,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -39,11 +39,15 @@
    "leads": 5
   },
   {
-   "url": "fb.me/cMY7LLYxT",
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "leads": 4
+  },
+  {
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "url": "fb.me/cMY7LLYxT",
    "leads": 3
   },
   {
@@ -53,16 +57,12 @@
   {
    "url": "fb.me/9Pf9FTshS",
    "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DYhcT7SDBWR/",
-   "leads": 2
   }
  ],
  "areas": {
-  "Nao identificada": 19,
-  "Previdenciario": 3,
-  "Trabalhista": 17
+  "Trabalhista": 18,
+  "Nao identificada": 20,
+  "Previdenciario": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -345,19 +345,41 @@
   ]
  },
  "agora": {
-  "fila": 160,
-  "abertos": 254,
+  "fila": 162,
+  "abertos": 256,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1204
+  "espera_media_s": 1193
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-02T18:10:37.860Z",
-  "min_sem_lead": 2
+  "min_sem_lead": 17
  },
  "leads": [
+  {
+   "nome": "5521973734666",
+   "tel": "5521*****666",
+   "criado": "15:21",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "559183926079",
+   "tel": "5591*****079",
+   "criado": "15:24",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Junior Rosa",
    "tel": "5511*****027",
