@@ -1,28 +1,28 @@
 {
- "gerado_em": "02/08/2026, 15:43",
+ "gerado_em": "02/08/2026, 15:58",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 41,
+  "total": 42,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 41,
+  "fora_horario": 42,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 348,
-  "tickets_abertos": 256,
+  "leads_7d": 349,
+  "tickets_abertos": 258,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 41,
+   "leads": 42,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 37,
+  "Anuncio": 38,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 4
   },
   {
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 3
+  },
+  {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 3
   },
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/4EHi0h7IT",
    "leads": 3
-  },
-  {
-   "url": "fb.me/9Pf9FTshS",
-   "leads": 2
   }
  ],
  "areas": {
-  "Trabalhista": 18,
+  "Trabalhista": 19,
   "Nao identificada": 20,
   "Previdenciario": 3
  },
@@ -176,6 +176,13 @@
     "dia": "30/07",
     "desde": "17:05",
     "ts": 1785441918340
+   },
+   {
+    "nome": "M",
+    "tel": "5548*****795",
+    "dia": "31/07",
+    "desde": "11:34",
+    "ts": 1785508481243
    }
   ],
   "grupos": [
@@ -345,19 +352,30 @@
   ]
  },
  "agora": {
-  "fila": 162,
-  "abertos": 256,
+  "fila": 164,
+  "abertos": 258,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1193
+  "espera_media_s": 1183
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T18:21:29.818Z",
-  "min_sem_lead": 22
+  "ultimo_lead_at": "2026-07-30T15:09:18.852Z",
+  "min_sem_lead": 4549
  },
  "leads": [
+  {
+   "nome": "Dije",
+   "tel": "5511*****560",
+   "criado": "15:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5521973734666",
    "tel": "5521*****666",
