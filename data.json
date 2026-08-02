@@ -1,28 +1,28 @@
 {
- "gerado_em": "02/08/2026, 13:26",
+ "gerado_em": "02/08/2026, 13:41",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
+  "total": 31,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 30,
+  "fora_horario": 31,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 337,
-  "tickets_abertos": 244,
+  "leads_7d": 338,
+  "tickets_abertos": 245,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 30,
+   "leads": 31,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 27,
+  "Anuncio": 28,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -35,16 +35,16 @@
    "leads": 4
   },
   {
+   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "leads": 3
+  },
+  {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 3
   },
   {
    "url": "fb.me/4EHi0h7IT",
    "leads": 3
-  },
-  {
-   "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
@@ -61,8 +61,8 @@
  ],
  "areas": {
   "Trabalhista": 14,
-  "Previdenciario": 3,
-  "Nao identificada": 13
+  "Nao identificada": 14,
+  "Previdenciario": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -366,17 +366,17 @@
   ]
  },
  "agora": {
-  "fila": 150,
-  "abertos": 244,
+  "fila": 151,
+  "abertos": 245,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1261
+  "espera_media_s": 1255
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-02T14:15:32.656Z",
-  "min_sem_lead": 130
+  "min_sem_lead": 146
  },
  "leads": [
   {
@@ -389,6 +389,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Marcos Augusto",
+   "tel": "5562*****469",
+   "criado": "13:36",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
   },
   {
    "nome": "Vanusa",
