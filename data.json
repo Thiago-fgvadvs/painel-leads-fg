@@ -1,41 +1,41 @@
 {
- "gerado_em": "02/08/2026, 09:22",
+ "gerado_em": "02/08/2026, 09:37",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
+  "total": 15,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 13,
+  "fora_horario": 15,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 320,
-  "tickets_abertos": 227,
+  "leads_7d": 322,
+  "tickets_abertos": 229,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 13,
+   "leads": 15,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 11,
+  "Anuncio": 13,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
-   "url": "fb.me/cMY7LLYxT",
-   "leads": 2
-  },
-  {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "fb.me/4EHi0h7IT",
+   "leads": 3
+  },
+  {
+   "url": "fb.me/cMY7LLYxT",
    "leads": 2
   },
   {
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 7,
-  "Trabalhista": 6
+  "Trabalhista": 7,
+  "Nao identificada": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -163,27 +163,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "joaquimpantojaprotazio8@g",
-    "tel": "5592*****609",
-    "dia": "30/07",
-    "desde": "14:01",
-    "ts": 1785430907488
-   },
-   {
-    "nome": "Bruna Raquel",
-    "tel": "5547*****534",
-    "dia": "30/07",
-    "desde": "17:05",
-    "ts": 1785441918340
-   },
-   {
-    "nome": "Elton",
-    "tel": "5592*****622",
-    "dia": "30/07",
-    "desde": "20:39",
-    "ts": 1785454785279
-   },
-   {
     "nome": "M",
     "tel": "5548*****795",
     "dia": "31/07",
@@ -203,6 +182,13 @@
     "dia": "31/07",
     "desde": "12:42",
     "ts": 1785512537962
+   },
+   {
+    "nome": "Girlene Targino🫵😍😍",
+    "tel": "5584*****044",
+    "dia": "31/07",
+    "desde": "12:50",
+    "ts": 1785513036568
    }
   ],
   "grupos": [
@@ -372,19 +358,41 @@
   ]
  },
  "agora": {
-  "fila": 133,
-  "abertos": 227,
+  "fila": 135,
+  "abertos": 229,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1372
+  "espera_media_s": 1358
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-01T16:40:35.364Z",
-  "min_sem_lead": 1182
+  "min_sem_lead": 1197
  },
  "leads": [
+  {
+   "nome": "556696968298",
+   "tel": "5566*****298",
+   "criado": "09:27",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Marcos Antônio Monteiro M",
+   "tel": "5585*****636",
+   "criado": "09:32",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EHi0h7IT",
+   "area": "Nao identificada"
+  },
   {
    "nome": "557399965844",
    "tel": "5573*****844",
