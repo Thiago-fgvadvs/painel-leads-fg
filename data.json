@@ -1,38 +1,38 @@
 {
- "gerado_em": "02/08/2026, 14:11",
+ "gerado_em": "02/08/2026, 14:27",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
+  "total": 36,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 33,
+  "fora_horario": 36,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 340,
-  "tickets_abertos": 247,
+  "leads_7d": 343,
+  "tickets_abertos": 250,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 33,
+   "leads": 36,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 29,
+  "Anuncio": 32,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 5
+   "url": "fb.me/4uJZlRfWK",
+   "leads": 7
   },
   {
-   "url": "fb.me/4uJZlRfWK",
-   "leads": 4
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 5
   },
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
@@ -61,8 +61,8 @@
  ],
  "areas": {
   "Trabalhista": 16,
-  "Previdenciario": 3,
-  "Nao identificada": 14
+  "Nao identificada": 17,
+  "Previdenciario": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -164,46 +164,25 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "joaquimpantojaprotazio8@g",
-    "tel": "5592*****609",
-    "dia": "30/07",
-    "desde": "14:01",
-    "ts": 1785430907488
-   },
-   {
-    "nome": "Bruna Raquel",
-    "tel": "5547*****534",
-    "dia": "30/07",
-    "desde": "17:05",
-    "ts": 1785441918340
-   },
-   {
-    "nome": "Elton",
-    "tel": "5592*****622",
-    "dia": "30/07",
-    "desde": "20:39",
-    "ts": 1785454785279
-   },
-   {
-    "nome": "M",
-    "tel": "5548*****795",
-    "dia": "31/07",
-    "desde": "11:34",
-    "ts": 1785508481243
-   },
-   {
-    "nome": "Louis patrian 🤪",
-    "tel": "5515*****695",
-    "dia": "31/07",
-    "desde": "12:29",
-    "ts": 1785511766713
-   },
-   {
     "nome": "Ketlin Tais",
     "tel": "5541*****987",
     "dia": "31/07",
     "desde": "12:42",
     "ts": 1785512537962
+   },
+   {
+    "nome": "Girlene Targino🫵😍😍",
+    "tel": "5584*****044",
+    "dia": "31/07",
+    "desde": "12:50",
+    "ts": 1785513036568
+   },
+   {
+    "nome": "Silva",
+    "tel": "5531*****617",
+    "dia": "31/07",
+    "desde": "12:53",
+    "ts": 1785513204271
    }
   ],
   "grupos": [
@@ -373,17 +352,17 @@
   ]
  },
  "agora": {
-  "fila": 153,
-  "abertos": 247,
+  "fila": 156,
+  "abertos": 250,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1244
+  "espera_media_s": 1226
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T16:36:03.797Z",
-  "min_sem_lead": 36
+  "ultimo_lead_at": "2026-08-02T16:49:03.238Z",
+  "min_sem_lead": 38
  },
  "leads": [
   {
@@ -396,6 +375,50 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "João Pedro Neto",
+   "tel": "5581*****384",
+   "criado": "13:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Eneias Carlos Batista",
+   "tel": "5522*****848",
+   "criado": "14:18",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553388791689",
+   "tel": "5533*****689",
+   "criado": "14:18",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5548935051030",
+   "tel": "5548*****030",
+   "criado": "14:13",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
   },
   {
    "nome": "554789226710",
@@ -418,17 +441,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/9Pf9FTshS",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "João Pedro Neto",
-   "tel": "5581*****384",
-   "criado": "13:49",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "559182163301",
