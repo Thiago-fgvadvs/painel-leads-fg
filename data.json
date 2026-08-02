@@ -1,28 +1,28 @@
 {
- "gerado_em": "02/08/2026, 13:56",
+ "gerado_em": "02/08/2026, 14:11",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 32,
+  "total": 33,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 32,
+  "fora_horario": 33,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 339,
-  "tickets_abertos": 246,
+  "leads_7d": 340,
+  "tickets_abertos": 247,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 32,
+   "leads": 33,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 28,
+  "Anuncio": 29,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -47,22 +47,22 @@
    "leads": 3
   },
   {
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 2
+  },
+  {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 2
   },
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DbY-XT4M7bV/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 15,
-  "Trabalhista": 14,
-  "Previdenciario": 3
+  "Trabalhista": 16,
+  "Previdenciario": 3,
+  "Nao identificada": 14
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -190,6 +190,13 @@
     "dia": "31/07",
     "desde": "11:34",
     "ts": 1785508481243
+   },
+   {
+    "nome": "Louis patrian 🤪",
+    "tel": "5515*****695",
+    "dia": "31/07",
+    "desde": "12:29",
+    "ts": 1785511766713
    },
    {
     "nome": "Ketlin Tais",
@@ -366,19 +373,52 @@
   ]
  },
  "agora": {
-  "fila": 152,
-  "abertos": 246,
+  "fila": 153,
+  "abertos": 247,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1249
+  "espera_media_s": 1244
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T16:49:03.238Z",
-  "min_sem_lead": 7
+  "ultimo_lead_at": "2026-08-02T16:36:03.797Z",
+  "min_sem_lead": 36
  },
  "leads": [
+  {
+   "nome": "Marcos Augusto",
+   "tel": "5562*****469",
+   "criado": "13:36",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554789226710",
+   "tel": "5547*****710",
+   "criado": "11:47",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "553387220435",
+   "tel": "5533*****435",
+   "criado": "14:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
   {
    "nome": "João Pedro Neto",
    "tel": "5581*****384",
@@ -400,17 +440,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Marcos Augusto",
-   "tel": "5562*****469",
-   "criado": "13:36",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Nao identificada"
   },
   {
    "nome": "Vanusa",
@@ -477,17 +506,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4aByuCBr5",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "554789226710",
-   "tel": "5547*****710",
-   "criado": "11:47",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4uJZlRfWK",
-   "area": "Previdenciario"
   },
   {
    "nome": "5511942497080",
