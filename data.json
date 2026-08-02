@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/08/2026, 20:33",
+ "gerado_em": "02/08/2026, 20:48",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -69,10 +69,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 172,
-  "turnos": 471,
+  "turnos": 472,
   "respondidos": 465,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 15.9,
   "atendentes": [
    {
@@ -122,6 +122,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.F.G",
+    "dia": "02/08",
+    "desde": "20:33",
+    "ts": 1785713625836
+   },
    {
     "grupo": "M.J.M.C.F x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
     "dia": "01/08",
@@ -235,6 +241,12 @@
     "dia": "01/08",
     "desde": "14:46",
     "ts": 1785606381384
+   },
+   {
+    "grupo": "A.F.G",
+    "dia": "02/08",
+    "desde": "20:33",
+    "ts": 1785713625836
    }
   ]
  },
@@ -375,8 +387,8 @@
   "espera_media_s": 1133
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T17:13:01.734Z",
-  "min_sem_lead": 380
+  "ultimo_lead_at": "2026-07-31T22:40:33.924Z",
+  "min_sem_lead": 2948
  },
  "leads": [
   {
