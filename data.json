@@ -1,31 +1,35 @@
 {
- "gerado_em": "02/08/2026, 09:07",
+ "gerado_em": "02/08/2026, 09:22",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
+  "total": 13,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 12,
+  "fora_horario": 13,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 319,
-  "tickets_abertos": 226,
+  "leads_7d": 320,
+  "tickets_abertos": 227,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 12,
+   "leads": 13,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "fb.me/cMY7LLYxT",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 2
@@ -33,10 +37,6 @@
   {
    "url": "fb.me/4EHi0h7IT",
    "leads": 2
-  },
-  {
-   "url": "fb.me/cMY7LLYxT",
-   "leads": 1
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
-  "Nao identificada": 6
+  "Nao identificada": 7,
+  "Trabalhista": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -189,6 +189,13 @@
     "dia": "31/07",
     "desde": "11:34",
     "ts": 1785508481243
+   },
+   {
+    "nome": "Louis patrian 🤪",
+    "tel": "5515*****695",
+    "dia": "31/07",
+    "desde": "12:29",
+    "ts": 1785511766713
    },
    {
     "nome": "Ketlin Tais",
@@ -365,19 +372,30 @@
   ]
  },
  "agora": {
-  "fila": 132,
-  "abertos": 226,
+  "fila": 133,
+  "abertos": 227,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1379
+  "espera_media_s": 1372
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T11:55:02.981Z",
-  "min_sem_lead": 12
+  "ultimo_lead_at": "2026-08-01T16:40:35.364Z",
+  "min_sem_lead": 1182
  },
  "leads": [
+  {
+   "nome": "557399965844",
+   "tel": "5573*****844",
+   "criado": "09:08",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Florzinha",
    "tel": "5521*****306",
