@@ -1,28 +1,28 @@
 {
- "gerado_em": "02/08/2026, 14:27",
+ "gerado_em": "02/08/2026, 14:42",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 36,
+  "total": 38,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 0,
-  "fora_horario": 36,
+  "sem_resposta": 1,
+  "fora_horario": 37,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 343,
-  "tickets_abertos": 250,
+  "leads_7d": 345,
+  "tickets_abertos": 252,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 36,
+   "leads": 37,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 32,
+  "Anuncio": 34,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -31,12 +31,12 @@
    "leads": 7
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "www.instagram.com/p/DbZBMoPsjD0/",
    "leads": 5
   },
   {
-   "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 3
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 5
   },
   {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
@@ -60,11 +60,18 @@
   }
  ],
  "areas": {
+  "Nao identificada": 19,
   "Trabalhista": 16,
-  "Nao identificada": 17,
   "Previdenciario": 3
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "554191961952",
+   "tel": "5541*****952",
+   "criado": "14:42",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -164,25 +171,18 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Ketlin Tais",
-    "tel": "5541*****987",
-    "dia": "31/07",
-    "desde": "12:42",
-    "ts": 1785512537962
+    "nome": "joaquimpantojaprotazio8@g",
+    "tel": "5592*****609",
+    "dia": "30/07",
+    "desde": "14:01",
+    "ts": 1785430907488
    },
    {
-    "nome": "Girlene Targino🫵😍😍",
-    "tel": "5584*****044",
-    "dia": "31/07",
-    "desde": "12:50",
-    "ts": 1785513036568
-   },
-   {
-    "nome": "Silva",
-    "tel": "5531*****617",
-    "dia": "31/07",
-    "desde": "12:53",
-    "ts": 1785513204271
+    "nome": "554191961952",
+    "tel": "5541*****952",
+    "dia": "02/08",
+    "desde": "14:42",
+    "ts": 1785692522051
    }
   ],
   "grupos": [
@@ -352,19 +352,30 @@
   ]
  },
  "agora": {
-  "fila": 156,
-  "abertos": 250,
+  "fila": 158,
+  "abertos": 252,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1226
+  "espera_media_s": 1221
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T16:49:03.238Z",
-  "min_sem_lead": 38
+  "ultimo_lead_at": "2026-08-02T17:42:02.051Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "554191961952",
+   "tel": "5541*****952",
+   "criado": "14:42",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Marcos Augusto",
    "tel": "5562*****469",
@@ -375,6 +386,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "554789226710",
+   "tel": "5547*****710",
+   "criado": "11:47",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Fabiane Milian ☠️🕷️🕸️🐈‍⬛",
+   "tel": "5543*****669",
+   "criado": "14:29",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
   },
   {
    "nome": "João Pedro Neto",
@@ -419,17 +452,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4uJZlRfWK",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "554789226710",
-   "tel": "5547*****710",
-   "criado": "11:47",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4uJZlRfWK",
-   "area": "Previdenciario"
   },
   {
    "nome": "553387220435",
