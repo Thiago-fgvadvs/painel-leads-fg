@@ -1,34 +1,38 @@
 {
- "gerado_em": "02/08/2026, 11:24",
+ "gerado_em": "02/08/2026, 11:39",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
+  "total": 24,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 22,
+  "fora_horario": 24,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 329,
-  "tickets_abertos": 236,
+  "leads_7d": 331,
+  "tickets_abertos": 238,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 22,
+   "leads": 24,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 22,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 5
+  },
+  {
+   "url": "fb.me/4uJZlRfWK",
+   "leads": 3
   },
   {
    "url": "fb.me/4EHi0h7IT",
@@ -43,26 +47,22 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4uJZlRfWK",
-   "leads": 2
-  },
-  {
    "url": "fb.me/cMY7LLYxT",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DbY-c_XMHEm/",
+   "url": "fb.me/4Gk9WLhGR",
    "leads": 1
   },
   {
-   "url": "fb.me/9Pf9FTshS",
+   "url": "www.instagram.com/p/DbY-c_XMHEm/",
    "leads": 1
   }
  ],
  "areas": {
-  "Previdenciario": 1,
-  "Nao identificada": 13,
-  "Trabalhista": 8
+  "Previdenciario": 2,
+  "Trabalhista": 9,
+  "Nao identificada": 13
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -352,17 +352,17 @@
   ]
  },
  "agora": {
-  "fila": 142,
-  "abertos": 236,
+  "fila": 144,
+  "abertos": 238,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1311
+  "espera_media_s": 1298
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-02T13:44:06.482Z",
-  "min_sem_lead": 40
+  "min_sem_lead": 55
  },
  "leads": [
   {
@@ -375,6 +375,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "Vanusa",
+   "tel": "5569*****817",
+   "criado": "11:26",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Luzinete ☘️🌻",
+   "tel": "5581*****027",
+   "criado": "11:25",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4Gk9WLhGR",
+   "area": "Trabalhista"
   },
   {
    "nome": "559182163301",
