@@ -1,28 +1,28 @@
 {
- "gerado_em": "02/08/2026, 20:17",
+ "gerado_em": "02/08/2026, 20:33",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 52,
+  "total": 53,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 50,
+  "fora_horario": 51,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 359,
-  "tickets_abertos": 267,
+  "leads_7d": 360,
+  "tickets_abertos": 268,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 50,
+   "leads": 51,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 46,
+  "Anuncio": 47,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 5
   },
   {
+   "url": "fb.me/cMY7LLYxT",
+   "leads": 4
+  },
+  {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 4
   },
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/9Pf9FTshS",
    "leads": 3
-  },
-  {
-   "url": "fb.me/cMY7LLYxT",
-   "leads": 3
   }
  ],
  "areas": {
   "Trabalhista": 24,
-  "Nao identificada": 25,
+  "Nao identificada": 26,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [],
@@ -164,13 +164,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Cacau da Terra Alter do Chão",
-    "tel": "5593*****186",
-    "dia": "30/07",
-    "desde": "12:09",
-    "ts": 1785424185551
-   },
-   {
     "nome": "joaquimpantojaprotazio8@g",
     "tel": "5592*****609",
     "dia": "30/07",
@@ -197,6 +190,13 @@
     "dia": "31/07",
     "desde": "11:34",
     "ts": 1785508481243
+   },
+   {
+    "nome": "Ketlin Tais",
+    "tel": "5541*****987",
+    "dia": "31/07",
+    "desde": "12:42",
+    "ts": 1785512537962
    }
   ],
   "grupos": [
@@ -366,30 +366,19 @@
   ]
  },
  "agora": {
-  "fila": 173,
-  "abertos": 267,
+  "fila": 174,
+  "abertos": 268,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1137
+  "espera_media_s": 1133
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T23:11:22.410Z",
-  "min_sem_lead": 6
+  "ultimo_lead_at": "2026-08-02T17:13:01.734Z",
+  "min_sem_lead": 380
  },
  "leads": [
-  {
-   "nome": "5515998887589",
-   "tel": "5515*****589",
-   "criado": "20:11",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Edemilson Piva",
    "tel": "5548*****030",
@@ -399,6 +388,28 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4uJZlRfWK",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "556584743519",
+   "tel": "5565*****519",
+   "criado": "20:26",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5515998887589",
+   "tel": "5515*****589",
+   "criado": "20:11",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
   },
   {
