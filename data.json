@@ -1,28 +1,28 @@
 {
- "gerado_em": "02/08/2026, 17:14",
+ "gerado_em": "02/08/2026, 17:30",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 44,
+  "total": 45,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 44,
+  "fora_horario": 45,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 351,
-  "tickets_abertos": 260,
+  "leads_7d": 352,
+  "tickets_abertos": 261,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 44,
+   "leads": 45,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 40,
+  "Anuncio": 41,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 5
   },
   {
+   "url": "fb.me/4EHi0h7IT",
+   "leads": 3
+  },
+  {
    "url": "fb.me/9Pf9FTshS",
    "leads": 3
   },
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 3
-  },
-  {
-   "url": "fb.me/4EHi0h7IT",
-   "leads": 3
   }
  ],
  "areas": {
+  "Trabalhista": 21,
   "Nao identificada": 21,
-  "Trabalhista": 20,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [],
@@ -366,19 +366,41 @@
   ]
  },
  "agora": {
-  "fila": 166,
-  "abertos": 260,
+  "fila": 167,
+  "abertos": 261,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1172
+  "espera_media_s": 1167
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T19:54:41.564Z",
-  "min_sem_lead": 20
+  "ultimo_lead_at": "2026-08-02T20:25:21.895Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "airton Cassio duarte da",
+   "tel": "5567*****235",
+   "criado": "17:25",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4Gk9WLhGR",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Jose Helio Nunes De Souza",
+   "tel": "5538*****588",
+   "criado": "03:37",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EHi0h7IT",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511913397391",
    "tel": "5511*****391",
@@ -823,17 +845,6 @@
    "nome": "Maria Lúcia",
    "tel": "5587*****181",
    "criado": "05:23",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4EHi0h7IT",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Jose Helio Nunes De Souza",
-   "tel": "5538*****588",
-   "criado": "03:37",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
