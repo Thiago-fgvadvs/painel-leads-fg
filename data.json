@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/08/2026, 17:45",
+ "gerado_em": "02/08/2026, 18:00",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -7,23 +7,23 @@
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 46,
+  "fora_horario": 47,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 354,
-  "tickets_abertos": 262,
+  "tickets_abertos": 263,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 46,
+   "leads": 47,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 42,
-  "Direto/Indicacao": 5
+  "Anuncio": 43,
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 22,
   "Nao identificada": 22,
+  "Trabalhista": 22,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [],
@@ -366,19 +366,41 @@
   ]
  },
  "agora": {
-  "fila": 168,
-  "abertos": 262,
+  "fila": 169,
+  "abertos": 263,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1162
+  "espera_media_s": 1157
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T17:13:01.734Z",
-  "min_sem_lead": 212
+  "ultimo_lead_at": "2026-08-02T20:40:11.600Z",
+  "min_sem_lead": 20
  },
  "leads": [
+  {
+   "nome": "5521975715058",
+   "tel": "5521*****058",
+   "criado": "17:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 19.1,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZCDVWMSej/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Izaac Marinho",
+   "tel": "5591*****079",
+   "criado": "15:24",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Edemilson Piva",
    "tel": "5548*****030",
@@ -466,17 +488,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Izaac Marinho",
-   "tel": "5591*****079",
-   "criado": "15:24",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
-   "area": "Nao identificada"
   },
   {
    "nome": "Junior Rosa",
@@ -883,17 +894,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5521975715058",
-   "tel": "5521*****058",
-   "criado": "17:40",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Nao identificada"
   }
  ]
