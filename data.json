@@ -1,28 +1,28 @@
 {
- "gerado_em": "02/08/2026, 16:44",
+ "gerado_em": "02/08/2026, 16:59",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 42,
+  "total": 44,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 42,
+  "fora_horario": 44,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 349,
-  "tickets_abertos": 258,
+  "leads_7d": 351,
+  "tickets_abertos": 260,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 42,
+   "leads": 44,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 38,
+  "Anuncio": 40,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -31,16 +31,16 @@
    "leads": 7
   },
   {
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "leads": 5
+  },
+  {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
    "leads": 5
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 5
-  },
-  {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 4
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 19,
-  "Nao identificada": 20,
+  "Nao identificada": 21,
+  "Trabalhista": 20,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [],
@@ -163,6 +163,20 @@
  "pendencias": {
   "dias": 7,
   "leads": [
+   {
+    "nome": "🤍",
+    "tel": "5515*****609",
+    "dia": "30/07",
+    "desde": "11:20",
+    "ts": 1785421219743
+   },
+   {
+    "nome": "Cacau da Terra Alter do Chão",
+    "tel": "5593*****186",
+    "dia": "30/07",
+    "desde": "12:09",
+    "ts": 1785424185551
+   },
    {
     "nome": "joaquimpantojaprotazio8@g",
     "tel": "5592*****609",
@@ -352,19 +366,41 @@
   ]
  },
  "agora": {
-  "fila": 164,
-  "abertos": 258,
+  "fila": 166,
+  "abertos": 260,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1183
+  "espera_media_s": 1172
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-01T05:09:03.062Z",
-  "min_sem_lead": 2315
+  "ultimo_lead_at": "2026-08-02T19:54:41.564Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "5511913397391",
+   "tel": "5511*****391",
+   "criado": "16:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5519994013300",
+   "tel": "5519*****300",
+   "criado": "16:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4aByuCBr5",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Dije",
    "tel": "5511*****560",
