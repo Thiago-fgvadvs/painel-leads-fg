@@ -1,28 +1,28 @@
 {
- "gerado_em": "01/08/2026, 20:49",
+ "gerado_em": "01/08/2026, 21:04",
  "data_ref": "01/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 35,
+  "total": 36,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 35,
+  "fora_horario": 36,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 353,
-  "tickets_abertos": 203,
+  "leads_7d": 354,
+  "tickets_abertos": 204,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 35,
+   "leads": 36,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 33,
+  "Anuncio": 34,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -33,6 +33,10 @@
   {
    "url": "fb.me/4uJZlRfWK",
    "leads": 4
+  },
+  {
+   "url": "fb.me/4aByuCBr5",
+   "leads": 3
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
@@ -47,10 +51,6 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4aByuCBr5",
-   "leads": 2
-  },
-  {
    "url": "fb.me/9Pf9FTshS",
    "leads": 2
   },
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 13,
-  "Nao identificada": 22
+  "Nao identificada": 23,
+  "Trabalhista": 13
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -337,19 +337,30 @@
   ]
  },
  "agora": {
-  "fila": 109,
-  "abertos": 203,
+  "fila": 110,
+  "abertos": 204,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1567
+  "espera_media_s": 1558
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-01T23:10:51.505Z",
-  "min_sem_lead": 38
+  "ultimo_lead_at": "2026-08-01T23:59:44.823Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "559181508932",
+   "tel": "5591*****932",
+   "criado": "20:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4aByuCBr5",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Evilene Freire",
    "tel": "5585*****288",
