@@ -1,16 +1,16 @@
 {
- "gerado_em": "02/08/2026, 18:31",
+ "gerado_em": "02/08/2026, 18:46",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 49,
+  "total": 50,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 49,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 356,
+  "leads_7d": 357,
   "tickets_abertos": 266,
   "periodo_dias": 7
  },
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 45,
-  "Direto/Indicacao": 4
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
+  "Trabalhista": 23,
   "Nao identificada": 24,
-  "Trabalhista": 22,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [],
@@ -375,10 +375,21 @@
   "espera_media_s": 1142
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T21:28:41.276Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-06-25T16:26:24.321Z",
+  "min_sem_lead": 55040
  },
  "leads": [
+  {
+   "nome": "Edemilson Piva",
+   "tel": "5548*****030",
+   "criado": "14:13",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Samuel Dias Silva",
    "tel": "5516*****021",
@@ -388,7 +399,7 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "5521969167520",
@@ -400,17 +411,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7lT4VOQ25",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Edemilson Piva",
-   "tel": "5548*****030",
-   "criado": "14:13",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4uJZlRfWK",
-   "area": "Trabalhista"
   },
   {
    "nome": "5521975715058",
@@ -916,6 +916,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5521987616134",
+   "tel": "5521*****134",
+   "criado": "18:45",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
