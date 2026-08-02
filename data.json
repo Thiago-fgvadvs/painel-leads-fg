@@ -1,31 +1,35 @@
 {
- "gerado_em": "02/08/2026, 08:36",
+ "gerado_em": "02/08/2026, 08:51",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
+  "total": 11,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 10,
+  "fora_horario": 11,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 317,
-  "tickets_abertos": 223,
+  "leads_7d": 318,
+  "tickets_abertos": 225,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 9,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 2
+  },
   {
    "url": "fb.me/4EHi0h7IT",
    "leads": 2
@@ -49,15 +53,11 @@
   {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 5,
-  "Nao identificada": 5
+  "Nao identificada": 6,
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -158,13 +158,6 @@
  "pendencias": {
   "dias": 7,
   "leads": [
-   {
-    "nome": "🤍",
-    "tel": "5515*****609",
-    "dia": "30/07",
-    "desde": "11:20",
-    "ts": 1785421219743
-   },
    {
     "nome": "Cacau da Terra Alter do Chão",
     "tel": "5593*****186",
@@ -368,19 +361,30 @@
   ]
  },
  "agora": {
-  "fila": 129,
-  "abertos": 223,
+  "fila": 131,
+  "abertos": 225,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1401
+  "espera_media_s": 1386
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T11:28:42.913Z",
-  "min_sem_lead": 8
+  "ultimo_lead_at": "2026-08-02T11:47:46.088Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "Maria",
+   "tel": "5516*****032",
+   "criado": "08:47",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Idineia Spinose",
    "tel": "5519*****741",
