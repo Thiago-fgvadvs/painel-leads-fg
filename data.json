@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 10:22",
+ "gerado_em": "03/08/2026, 10:42",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 11,
+  "total": 20,
+  "no_sla": 12,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 327,
-  "tickets_abertos": 295,
+  "leads_7d": 328,
+  "tickets_abertos": 287,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 17,
+   "leads": 18,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 17,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -44,6 +44,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DbbUbobMGAY/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DYVTAskDMJ6/",
    "leads": 1
   },
@@ -58,14 +62,10 @@
   {
    "url": "www.instagram.com/p/DbZCDVWMSej/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/cMY7LLYxT",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 8,
   "Nao identificada": 12
  },
  "sem_resposta_lista": [],
@@ -73,21 +73,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 153,
-  "turnos": 369,
-  "respondidos": 362,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 14.7,
+  "turnos": 374,
+  "respondidos": 369,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 14.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 190,
-    "mediana_min": 19.2
+    "respostas": 194,
+    "mediana_min": 19.8
    },
    {
     "nome": "Nicolas",
-    "respostas": 75,
-    "mediana_min": 22.9
+    "respostas": 78,
+    "mediana_min": 24
    },
    {
     "nome": "Eduardo",
@@ -127,28 +127,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
-    "dia": "31/07",
-    "desde": "17:38",
-    "ts": 1785530323139
-   },
-   {
-    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
+    "grupo": "M.J.M.C.F x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
     "dia": "03/08",
-    "desde": "08:34",
-    "ts": 1785756858835
+    "desde": "10:29",
+    "ts": 1785763745982
    },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "31/07",
     "desde": "15:17",
     "ts": 1785521853070
-   },
-   {
-    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
-    "dia": "31/07",
-    "desde": "11:50",
-    "ts": 1785509428964
    },
    {
     "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
@@ -172,7 +160,50 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "554896129047",
+    "tel": "5548*****047",
+    "dia": "03/08",
+    "desde": "10:00",
+    "ts": 1785762034255
+   },
+   {
+    "nome": "Carlos Gomes",
+    "tel": "5531*****060",
+    "dia": "03/08",
+    "desde": "10:00",
+    "ts": 1785762051563
+   },
+   {
+    "nome": "Joicy Alves",
+    "tel": "5581*****306",
+    "dia": "03/08",
+    "desde": "10:04",
+    "ts": 1785762251908
+   },
+   {
+    "nome": "Suelen Maira",
+    "tel": "5532*****153",
+    "dia": "03/08",
+    "desde": "10:13",
+    "ts": 1785762794151
+   },
+   {
+    "nome": "5527995010928",
+    "tel": "5527*****928",
+    "dia": "03/08",
+    "desde": "10:15",
+    "ts": 1785762935478
+   },
+   {
+    "nome": "rosenalda282",
+    "tel": "5583*****394",
+    "dia": "03/08",
+    "desde": "10:30",
+    "ts": 1785763817755
+   }
+  ],
   "grupos": [
    {
     "grupo": "M.F.F x INSS",
@@ -193,28 +224,16 @@
     "ts": 1785420991000
    },
    {
-    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
-    "dia": "31/07",
-    "desde": "11:50",
-    "ts": 1785509428964
-   },
-   {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "31/07",
     "desde": "15:17",
     "ts": 1785521853070
    },
    {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
-    "dia": "31/07",
-    "desde": "17:38",
-    "ts": 1785530323139
-   },
-   {
-    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
+    "grupo": "M.J.M.C.F x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
     "dia": "03/08",
-    "desde": "08:34",
-    "ts": 1785756858835
+    "desde": "10:29",
+    "ts": 1785763745982
    }
   ]
  },
@@ -319,28 +338,28 @@
   ]
  },
  "agora": {
-  "fila": 196,
-  "abertos": 295,
-  "com_atendimento": 8,
+  "fila": 192,
+  "abertos": 287,
+  "com_atendimento": 7,
   "online": 6,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 1013
+  "espera_media_s": 1009
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-15T16:56:37.862Z",
-  "min_sem_lead": 27146
+  "ultimo_lead_at": "2026-08-03T12:42:34.217Z",
+  "min_sem_lead": 59
  },
  "leads": [
   {
-   "nome": "Joicy Alves",
-   "tel": "5581*****306",
-   "criado": "10:04",
+   "nome": "maria",
+   "tel": "5521*****006",
+   "criado": "09:42",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
    "area": "Trabalhista"
   },
   {
@@ -353,6 +372,28 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "rosenalda282",
+   "tel": "5583*****394",
+   "criado": "10:30",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbbUbobMGAY/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Joicy Alves",
+   "tel": "5581*****306",
+   "criado": "10:04",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Trabalhista"
   },
   {
    "nome": "5527995010928",
@@ -396,17 +437,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4aByuCBr5",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "maria",
-   "tel": "5521*****006",
-   "criado": "09:42",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
    "area": "Trabalhista"
   },
   {
