@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 17:50",
+ "gerado_em": "03/08/2026, 18:06",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 51,
-  "no_sla": 40,
+  "total": 54,
+  "no_sla": 43,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 7,
-  "pct_sla": 95,
+  "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 360,
+  "leads_7d": 362,
   "tickets_abertos": 373,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 46,
+   "leads": 49,
    "mediana_min": 0.4
   },
   {
@@ -32,21 +32,21 @@
   }
  ],
  "origem": {
-  "Anuncio": 40,
+  "Anuncio": 43,
   "Direto/Indicacao": 11
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 7
+   "leads": 8
+  },
+  {
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "leads": 6
   },
   {
    "url": "fb.me/4aByuCBr5",
    "leads": 6
-  },
-  {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 5
   },
   {
    "url": "fb.me/4uJZlRfWK",
@@ -57,22 +57,22 @@
    "leads": 3
   },
   {
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 3
+  },
+  {
    "url": "www.instagram.com/p/DbZCDVWMSej/",
    "leads": 3
   },
   {
    "url": "fb.me/6jCO1Dvym",
    "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DbY-c_XMHEm/",
-   "leads": 2
   }
  ],
  "areas": {
   "Previdenciario": 2,
-  "Trabalhista": 20,
-  "Nao identificada": 29
+  "Nao identificada": 31,
+  "Trabalhista": 21
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -93,12 +93,12 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 181,
-  "turnos": 442,
-  "respondidos": 431,
+  "grupos_ativos": 182,
+  "turnos": 443,
+  "respondidos": 432,
   "sem_resposta": 11,
   "sem_resposta_grupos": 11,
-  "mediana_min": 15,
+  "mediana_min": 15.2,
   "atendentes": [
    {
     "nome": "Julia",
@@ -107,8 +107,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 97,
-    "mediana_min": 17.6
+    "respostas": 98,
+    "mediana_min": 17.9
    },
    {
     "nome": "Eduardo",
@@ -222,15 +222,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Esther✨",
-    "tel": "5585*****087",
-    "dia": "03/08",
-    "desde": "17:50",
-    "ts": 1785790242358
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "M.F.F x INSS",
@@ -447,17 +439,17 @@
   ]
  },
  "agora": {
-  "fila": 257,
+  "fila": 260,
   "abertos": 373,
   "com_atendimento": 8,
-  "online": 5,
-  "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 913
+  "online": 3,
+  "offline": 4,
+  "ausentes": 2,
+  "espera_media_s": 910
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T20:50:42.358Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-08-03T20:29:50.742Z",
+  "min_sem_lead": 36
  },
  "leads": [
   {
@@ -470,6 +462,50 @@
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "Bárbara",
+   "tel": "5521*****219",
+   "criado": "15:50",
+   "atendente": "Julia",
+   "espera_min": 1.2,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Camila Medeiros",
+   "tel": "5521*****044",
+   "criado": "17:52",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Luma",
+   "tel": "5535*****497",
+   "criado": "17:52",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Esther✨",
+   "tel": "5585*****087",
+   "criado": "17:50",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
   },
   {
    "nome": "553899293053",
@@ -588,17 +624,6 @@
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 94.3,
    "status": "FORA_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Bárbara",
-   "tel": "5521*****219",
-   "criado": "15:50",
-   "atendente": "Julia",
-   "espera_min": 1.2,
-   "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
