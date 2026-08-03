@@ -1,29 +1,29 @@
 {
- "gerado_em": "03/08/2026, 07:35",
+ "gerado_em": "03/08/2026, 07:50",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
+  "total": 7,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 6,
+  "fora_horario": 7,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 314,
-  "tickets_abertos": 285,
+  "leads_7d": 315,
+  "tickets_abertos": 286,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": null
   }
  ],
  "origem": {
   "Anuncio": 6,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -48,7 +48,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
+  "Nao identificada": 5,
   "Trabalhista": 2
  },
  "sem_resposta_lista": [],
@@ -302,19 +302,30 @@
   ]
  },
  "agora": {
-  "fila": 191,
-  "abertos": 285,
+  "fila": 192,
+  "abertos": 286,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1061
+  "espera_media_s": 1057
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T10:33:29.017Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-08-03T10:42:20.235Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "SAMUEL",
+   "tel": "5532*****046",
+   "criado": "07:42",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "554899986114",
    "tel": "5548*****114",
