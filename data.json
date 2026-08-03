@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 17:20",
+ "gerado_em": "03/08/2026, 17:35",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 50,
-  "no_sla": 39,
+  "total": 51,
+  "no_sla": 40,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 358,
-  "tickets_abertos": 370,
+  "leads_7d": 359,
+  "tickets_abertos": 371,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 45,
+   "leads": 46,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 39,
+  "Anuncio": 40,
   "Direto/Indicacao": 11
  },
  "criativos": [
@@ -53,6 +53,10 @@
    "leads": 4
   },
   {
+   "url": "fb.me/cMY7LLYxT",
+   "leads": 3
+  },
+  {
    "url": "www.instagram.com/p/DbZCDVWMSej/",
    "leads": 3
   },
@@ -63,15 +67,11 @@
   {
    "url": "www.instagram.com/p/DbY-c_XMHEm/",
    "leads": 2
-  },
-  {
-   "url": "fb.me/cMY7LLYxT",
-   "leads": 2
   }
  ],
  "areas": {
+  "Nao identificada": 30,
   "Trabalhista": 20,
-  "Nao identificada": 29,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -93,17 +93,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 177,
-  "turnos": 438,
-  "respondidos": 428,
+  "grupos_ativos": 180,
+  "turnos": 439,
+  "respondidos": 429,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
-  "mediana_min": 15.2,
+  "mediana_min": 15.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 224,
-    "mediana_min": 20.4
+    "respostas": 225,
+    "mediana_min": 20.5
    },
    {
     "nome": "Nicolas",
@@ -427,19 +427,30 @@
   ]
  },
  "agora": {
-  "fila": 255,
-  "abertos": 370,
+  "fila": 256,
+  "abertos": 371,
   "com_atendimento": 8,
-  "online": 2,
+  "online": 6,
   "offline": 3,
-  "ausentes": 4,
-  "espera_media_s": 916
+  "ausentes": 0,
+  "espera_media_s": 913
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T19:37:26.294Z",
-  "min_sem_lead": 43
+  "ultimo_lead_at": "2026-08-03T18:46:31.678Z",
+  "min_sem_lead": 109
  },
  "leads": [
+  {
+   "nome": "Géssica",
+   "tel": "5548*****133",
+   "criado": "15:46",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "553584548181",
    "tel": "5535*****181",
@@ -452,14 +463,25 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Géssica",
-   "tel": "5548*****133",
-   "criado": "15:46",
+   "nome": "Taissa 💎",
+   "tel": "5531*****798",
+   "criado": "11:51",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Sonia Talarico Talarico",
+   "tel": "5544*****417",
+   "criado": "17:29",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "criativo": "fb.me/cMY7LLYxT",
    "area": "Nao identificada"
   },
   {
@@ -758,17 +780,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Taissa 💎",
-   "tel": "5531*****798",
-   "criado": "11:51",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
   },
   {
    "nome": "Juciane Pereira coelho",
