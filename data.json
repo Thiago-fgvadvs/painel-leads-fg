@@ -1,34 +1,42 @@
 {
- "gerado_em": "03/08/2026, 08:36",
+ "gerado_em": "03/08/2026, 08:51",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 0,
+  "total": 10,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 316,
-  "tickets_abertos": 289,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 318,
+  "tickets_abertos": 290,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 7,
-   "mediana_min": null
+   "leads": 9,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 8,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "fb.me/4aByuCBr5",
    "leads": 2
+  },
+  {
+   "url": "fb.me/2MEDW6LWSm",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DbZCDVWMSej/",
+   "leads": 1
   },
   {
    "url": "fb.me/cMY7LLYxT",
@@ -48,19 +56,19 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
+  "Nao identificada": 8,
   "Trabalhista": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 150,
-  "turnos": 343,
-  "respondidos": 336,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 15.2,
+  "grupos_ativos": 151,
+  "turnos": 351,
+  "respondidos": 345,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 14.5,
   "atendentes": [
    {
     "nome": "Julia",
@@ -79,12 +87,12 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 18,
-    "mediana_min": 1.3
+    "respostas": 25,
+    "mediana_min": 0.5
    },
    {
     "nome": "Gabrielle",
-    "respostas": 11,
+    "respostas": 13,
     "mediana_min": 5.8
    },
    {
@@ -114,12 +122,6 @@
     "dia": "03/08",
     "desde": "08:24",
     "ts": 1785756276895
-   },
-   {
-    "grupo": "A.F.G",
-    "dia": "02/08",
-    "desde": "20:33",
-    "ts": 1785713625836
    },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
@@ -186,12 +188,6 @@
     "dia": "31/07",
     "desde": "15:17",
     "ts": 1785521853070
-   },
-   {
-    "grupo": "A.F.G",
-    "dia": "02/08",
-    "desde": "20:33",
-    "ts": 1785713625836
    },
    {
     "grupo": "M.J.M.C.F x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
@@ -302,19 +298,41 @@
   ]
  },
  "agora": {
-  "fila": 194,
-  "abertos": 289,
+  "fila": 195,
+  "abertos": 290,
   "com_atendimento": 8,
-  "online": 2,
+  "online": 3,
   "offline": 5,
-  "ausentes": 2,
-  "espera_media_s": 1057
+  "ausentes": 1,
+  "espera_media_s": 1048
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-20T21:08:28.333Z",
-  "min_sem_lead": 107428
+  "ultimo_lead_at": "2026-08-03T11:46:49.947Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "Laura Prata❤️",
+   "tel": "5511*****411",
+   "criado": "08:46",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/2MEDW6LWSm",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Jhuly",
+   "tel": "5527*****834",
+   "criado": "08:42",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZCDVWMSej/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "SAMUEL",
    "tel": "5532*****046",
