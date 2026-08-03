@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 17:04",
+ "gerado_em": "03/08/2026, 17:20",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 48,
-  "no_sla": 38,
+  "total": 50,
+  "no_sla": 39,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 356,
-  "tickets_abertos": 368,
+  "leads_7d": 358,
+  "tickets_abertos": 370,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 44,
+   "leads": 45,
    "mediana_min": 0.4
   },
   {
@@ -32,8 +32,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 38,
-  "Direto/Indicacao": 10
+  "Anuncio": 39,
+  "Direto/Indicacao": 11
  },
  "criativos": [
   {
@@ -41,11 +41,11 @@
    "leads": 7
   },
   {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 5
+   "url": "fb.me/4aByuCBr5",
+   "leads": 6
   },
   {
-   "url": "fb.me/4aByuCBr5",
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 5
   },
   {
@@ -71,7 +71,7 @@
  ],
  "areas": {
   "Trabalhista": 20,
-  "Nao identificada": 27,
+  "Nao identificada": 29,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -94,16 +94,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 177,
-  "turnos": 436,
-  "respondidos": 427,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 15,
+  "turnos": 438,
+  "respondidos": 428,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 15.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 223,
-    "mediana_min": 20.2
+    "respostas": 224,
+    "mediana_min": 20.4
    },
    {
     "nome": "Nicolas",
@@ -183,6 +183,12 @@
     "ts": 1785768782075
    },
    {
+    "grupo": "G.O.R x CAIXA ECONOMICA FEDERAL",
+    "dia": "31/07",
+    "desde": "21:59",
+    "ts": 1785545944326
+   },
+   {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "31/07",
     "desde": "15:17",
@@ -235,6 +241,12 @@
     "dia": "31/07",
     "desde": "15:17",
     "ts": 1785521853070
+   },
+   {
+    "grupo": "G.O.R x CAIXA ECONOMICA FEDERAL",
+    "dia": "31/07",
+    "desde": "21:59",
+    "ts": 1785545944326
    },
    {
     "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
@@ -415,17 +427,17 @@
   ]
  },
  "agora": {
-  "fila": 254,
-  "abertos": 368,
+  "fila": 255,
+  "abertos": 370,
   "com_atendimento": 8,
-  "online": 4,
-  "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 920
+  "online": 2,
+  "offline": 3,
+  "ausentes": 4,
+  "espera_media_s": 916
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-03T19:37:26.294Z",
-  "min_sem_lead": 27
+  "min_sem_lead": 43
  },
  "leads": [
   {
@@ -448,6 +460,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Neia",
+   "tel": "5519*****898",
+   "criado": "17:06",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4aByuCBr5",
    "area": "Nao identificada"
   },
   {
@@ -949,6 +972,17 @@
    "nome": "5521983061594",
    "tel": "5521*****594",
    "criado": "08:34",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5519998068023",
+   "tel": "5519*****023",
+   "criado": "17:19",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
