@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 19:53",
+ "gerado_em": "03/08/2026, 20:08",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 63,
+  "total": 64,
   "no_sla": 46,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 12,
+  "fora_horario": 13,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 371,
-  "tickets_abertos": 380,
+  "leads_7d": 372,
+  "tickets_abertos": 381,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 57,
+   "leads": 58,
    "mediana_min": 0.4
   },
   {
@@ -32,17 +32,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 50,
+  "Anuncio": 51,
   "Direto/Indicacao": 13
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 8
   },
   {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 7
+   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "leads": 8
   },
   {
    "url": "fb.me/4aByuCBr5",
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 24,
+  "Trabalhista": 25,
   "Nao identificada": 37,
   "Previdenciario": 2
  },
@@ -234,43 +234,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "5511977398788",
-    "tel": "5511*****788",
-    "dia": "03/08",
-    "desde": "19:02",
-    "ts": 1785794541982
-   },
-   {
-    "nome": "Gaby",
-    "tel": "5524*****552",
-    "dia": "03/08",
-    "desde": "19:20",
-    "ts": 1785795654850
-   },
-   {
-    "nome": "558695931717",
-    "tel": "5586*****717",
-    "dia": "03/08",
-    "desde": "19:23",
-    "ts": 1785795794962
-   },
-   {
-    "nome": "Cipriano Lopes De Sousa",
-    "tel": "5589*****969",
-    "dia": "03/08",
-    "desde": "19:45",
-    "ts": 1785797142719
-   },
-   {
-    "nome": "Cristina",
-    "tel": "5579*****670",
-    "dia": "03/08",
-    "desde": "19:48",
-    "ts": 1785797318662
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "M.F.F x INSS",
@@ -499,19 +463,30 @@
   ]
  },
  "agora": {
-  "fila": 264,
-  "abertos": 380,
+  "fila": 265,
+  "abertos": 381,
   "com_atendimento": 8,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 885
+  "espera_media_s": 882
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T22:48:38.662Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2026-08-03T23:00:47.313Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "556596429693",
+   "tel": "5565*****693",
+   "criado": "20:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Cristina",
    "tel": "5579*****670",
@@ -1173,9 +1148,9 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "555499472927",
-   "tel": "5554*****927",
-   "criado": "18:35",
+   "nome": "5521983061594",
+   "tel": "5521*****594",
+   "criado": "08:34",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -1195,9 +1170,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5521983061594",
-   "tel": "5521*****594",
-   "criado": "08:34",
+   "nome": "555499472927",
+   "tel": "5554*****927",
+   "criado": "18:35",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
