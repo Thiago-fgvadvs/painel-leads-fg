@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 19:22",
+ "gerado_em": "03/08/2026, 19:38",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 60,
+  "total": 61,
   "no_sla": 46,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 9,
+  "fora_horario": 10,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 368,
-  "tickets_abertos": 377,
+  "leads_7d": 369,
+  "tickets_abertos": 378,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 54,
+   "leads": 55,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 47,
+  "Anuncio": 48,
   "Direto/Indicacao": 13
  },
  "criativos": [
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 36,
+  "Nao identificada": 37,
   "Previdenciario": 2,
   "Trabalhista": 22
  },
@@ -94,10 +94,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 182,
-  "turnos": 451,
+  "turnos": 453,
   "respondidos": 440,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
   "mediana_min": 15.2,
   "atendentes": [
    {
@@ -131,14 +131,14 @@
     "mediana_min": 65.5
    },
    {
-    "nome": "Tiago Bernardo",
-    "respostas": 6,
-    "mediana_min": 261.7
-   },
-   {
     "nome": "Roseli",
     "respostas": 6,
     "mediana_min": 7.8
+   },
+   {
+    "nome": "Tiago Bernardo",
+    "respostas": 6,
+    "mediana_min": 261.7
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -152,6 +152,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.S.B x ULTRAOBRA LTDA",
+    "dia": "03/08",
+    "desde": "19:30",
+    "ts": 1785796248452
+   },
+   {
+    "grupo": "L.O.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "03/08",
+    "desde": "19:23",
+    "ts": 1785795797555
+   },
    {
     "grupo": "P.L.R.J",
     "dia": "03/08",
@@ -224,13 +236,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Esther✨",
-    "tel": "5585*****087",
-    "dia": "03/08",
-    "desde": "17:50",
-    "ts": 1785790242358
-   },
-   {
     "nome": "Luma",
     "tel": "5535*****497",
     "dia": "03/08",
@@ -278,6 +283,13 @@
     "dia": "03/08",
     "desde": "19:20",
     "ts": 1785795654850
+   },
+   {
+    "nome": "558695931717",
+    "tel": "5586*****717",
+    "dia": "03/08",
+    "desde": "19:23",
+    "ts": 1785795794962
    }
   ],
   "grupos": [
@@ -346,6 +358,18 @@
     "dia": "03/08",
     "desde": "16:58",
     "ts": 1785787093405
+   },
+   {
+    "grupo": "L.O.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "03/08",
+    "desde": "19:23",
+    "ts": 1785795797555
+   },
+   {
+    "grupo": "J.S.B x ULTRAOBRA LTDA",
+    "dia": "03/08",
+    "desde": "19:30",
+    "ts": 1785796248452
    }
   ]
  },
@@ -496,19 +520,30 @@
   ]
  },
  "agora": {
-  "fila": 261,
-  "abertos": 377,
+  "fila": 262,
+  "abertos": 378,
   "com_atendimento": 8,
-  "online": 1,
-  "offline": 8,
+  "online": 0,
+  "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 894
+  "espera_media_s": 891
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T02:30:27.608Z",
-  "min_sem_lead": 6952
+  "ultimo_lead_at": "2026-08-03T22:23:14.962Z",
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "558695931717",
+   "tel": "5586*****717",
+   "criado": "19:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Gaby",
    "tel": "5524*****552",
