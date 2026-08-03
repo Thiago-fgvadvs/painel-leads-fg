@@ -1,34 +1,38 @@
 {
- "gerado_em": "03/08/2026, 09:21",
+ "gerado_em": "03/08/2026, 09:37",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 2,
+  "total": 12,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 318,
-  "tickets_abertos": 289,
+  "leads_7d": 320,
+  "tickets_abertos": 293,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 9,
+   "leads": 11,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 10,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "fb.me/4aByuCBr5",
-   "leads": 2
+   "leads": 3
+  },
+  {
+   "url": "fb.me/4EHi0h7IT",
+   "leads": 1
   },
   {
    "url": "fb.me/2MEDW6LWSm",
@@ -56,29 +60,29 @@
   }
  ],
  "areas": {
-  "Nao identificada": 8,
-  "Trabalhista": 2
+  "Nao identificada": 9,
+  "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 152,
-  "turnos": 353,
-  "respondidos": 347,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 14.2,
+  "turnos": 357,
+  "respondidos": 350,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 14.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 183,
-    "mediana_min": 20
+    "respostas": 184,
+    "mediana_min": 19.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 69,
-    "mediana_min": 18.9
+    "respostas": 70,
+    "mediana_min": 20.2
    },
    {
     "nome": "Eduardo",
@@ -92,8 +96,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 13,
-    "mediana_min": 5.8
+    "respostas": 14,
+    "mediana_min": 7.6
    },
    {
     "nome": "Thauany",
@@ -118,10 +122,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.J.M.C.F x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
+    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "dia": "31/07",
+    "desde": "17:38",
+    "ts": 1785530323139
+   },
+   {
+    "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
     "dia": "03/08",
-    "desde": "08:24",
-    "ts": 1785756276895
+    "desde": "08:47",
+    "ts": 1785757673877
    },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
@@ -190,10 +200,16 @@
     "ts": 1785521853070
    },
    {
-    "grupo": "M.J.M.C.F x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
+    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
+    "dia": "31/07",
+    "desde": "17:38",
+    "ts": 1785530323139
+   },
+   {
+    "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
     "dia": "03/08",
-    "desde": "08:24",
-    "ts": 1785756276895
+    "desde": "08:47",
+    "ts": 1785757673877
    }
   ]
  },
@@ -298,19 +314,41 @@
   ]
  },
  "agora": {
-  "fila": 195,
-  "abertos": 289,
-  "com_atendimento": 7,
-  "online": 2,
-  "offline": 5,
+  "fila": 196,
+  "abertos": 293,
+  "com_atendimento": 8,
+  "online": 4,
+  "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 1048
+  "espera_media_s": 1040
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-15T16:56:37.862Z",
-  "min_sem_lead": 27085
+  "ultimo_lead_at": "2026-08-03T12:34:58.368Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "556581114736",
+   "tel": "5565*****736",
+   "criado": "09:34",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4aByuCBr5",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "erivanpessoaaraujopesdoaa",
+   "tel": "5595*****938",
+   "criado": "09:24",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EHi0h7IT",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Laura Prata❤️",
    "tel": "5511*****411",
