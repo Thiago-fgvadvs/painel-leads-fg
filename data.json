@@ -1,5 +1,5 @@
 {
- "gerado_em": "03/08/2026, 08:05",
+ "gerado_em": "03/08/2026, 08:20",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 315,
-  "tickets_abertos": 286,
+  "tickets_abertos": 287,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -56,8 +56,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 149,
-  "turnos": 330,
-  "respondidos": 323,
+  "turnos": 332,
+  "respondidos": 325,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 16,
@@ -83,14 +83,14 @@
     "mediana_min": 65.5
    },
    {
-    "nome": "Gabrielle",
-    "respostas": 8,
-    "mediana_min": 7.6
+    "nome": "Luisa",
+    "respostas": 9,
+    "mediana_min": 3.7
    },
    {
-    "nome": "Luisa",
-    "respostas": 8,
-    "mediana_min": 3.7
+    "nome": "Gabrielle",
+    "respostas": 9,
+    "mediana_min": 9.4
    },
    {
     "nome": "Tiago Bernardo",
@@ -111,9 +111,9 @@
   "sem_resposta_lista": [
    {
     "grupo": "M.J.M.C.F x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
-    "dia": "01/08",
-    "desde": "14:46",
-    "ts": 1785606381384
+    "dia": "03/08",
+    "desde": "08:17",
+    "ts": 1785755835869
    },
    {
     "grupo": "A.F.G",
@@ -188,16 +188,16 @@
     "ts": 1785521853070
    },
    {
-    "grupo": "M.J.M.C.F x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
-    "dia": "01/08",
-    "desde": "14:46",
-    "ts": 1785606381384
-   },
-   {
     "grupo": "A.F.G",
     "dia": "02/08",
     "desde": "20:33",
     "ts": 1785713625836
+   },
+   {
+    "grupo": "M.J.M.C.F x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
+    "dia": "03/08",
+    "desde": "08:17",
+    "ts": 1785755835869
    }
   ]
  },
@@ -303,16 +303,16 @@
  },
  "agora": {
   "fila": 192,
-  "abertos": 286,
+  "abertos": 287,
   "com_atendimento": 7,
-  "online": 1,
-  "offline": 8,
-  "ausentes": 0,
+  "online": 2,
+  "offline": 5,
+  "ausentes": 2,
   "espera_media_s": 1057
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 670786
+  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
+  "min_sem_lead": 10007
  },
  "leads": [
   {
