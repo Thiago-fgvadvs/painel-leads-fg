@@ -1,5 +1,5 @@
 {
- "gerado_em": "03/08/2026, 11:12",
+ "gerado_em": "03/08/2026, 11:27",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 331,
-  "tickets_abertos": 295,
+  "tickets_abertos": 294,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -78,21 +78,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 156,
-  "turnos": 379,
-  "respondidos": 374,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 14.8,
+  "turnos": 383,
+  "respondidos": 379,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 15,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 194,
-    "mediana_min": 19.8
+    "respostas": 197,
+    "mediana_min": 20
    },
    {
     "nome": "Nicolas",
-    "respostas": 81,
-    "mediana_min": 22.9
+    "respostas": 83,
+    "mediana_min": 21.4
    },
    {
     "nome": "Eduardo",
@@ -132,12 +132,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.V.D.A x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
-    "dia": "03/08",
-    "desde": "11:03",
-    "ts": 1785765781987
-   },
-   {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "31/07",
     "desde": "15:17",
@@ -165,29 +159,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Dra Luciana Lambert",
-    "tel": "5535*****313",
-    "dia": "03/08",
-    "desde": "10:30",
-    "ts": 1785763807984
-   },
-   {
-    "nome": "Yoko Totiya",
-    "tel": "5581*****211",
-    "dia": "03/08",
-    "desde": "10:49",
-    "ts": 1785764976709
-   },
-   {
-    "nome": "Marcelo Henrique",
-    "tel": "5511*****693",
-    "dia": "03/08",
-    "desde": "10:53",
-    "ts": 1785765217705
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "M.F.F x INSS",
@@ -212,12 +184,6 @@
     "dia": "31/07",
     "desde": "15:17",
     "ts": 1785521853070
-   },
-   {
-    "grupo": "E.V.D.A x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
-    "dia": "03/08",
-    "desde": "11:03",
-    "ts": 1785765781987
    }
   ]
  },
@@ -322,17 +288,17 @@
   ]
  },
  "agora": {
-  "fila": 196,
-  "abertos": 295,
-  "com_atendimento": 7,
-  "online": 5,
+  "fila": 195,
+  "abertos": 294,
+  "com_atendimento": 6,
+  "online": 6,
   "offline": 2,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 994
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:44.817Z",
-  "min_sem_lead": 450470
+  "ultimo_lead_at": "2026-08-03T13:49:36.709Z",
+  "min_sem_lead": 38
  },
  "leads": [
   {
@@ -347,15 +313,15 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Advogada Natacha",
-   "tel": "5511*****566",
-   "criado": "10:03",
-   "atendente": "Julia",
-   "espera_min": 0.8,
+   "nome": "Carlos Gomes",
+   "tel": "5531*****060",
+   "criado": "10:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Marcelo Henrique",
@@ -367,6 +333,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Advogada Natacha",
+   "tel": "5511*****566",
+   "criado": "10:03",
+   "atendente": "Julia",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "maria",
@@ -433,17 +410,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Carlos Gomes",
-   "tel": "5531*****060",
-   "criado": "10:00",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Trabalhista"
   },
   {
    "nome": "554896129047",
