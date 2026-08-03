@@ -1,5 +1,5 @@
 {
- "gerado_em": "03/08/2026, 14:16",
+ "gerado_em": "03/08/2026, 14:31",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 346,
-  "tickets_abertos": 359,
+  "tickets_abertos": 358,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -70,29 +70,29 @@
   }
  ],
  "areas": {
-  "Nao identificada": 21,
-  "Trabalhista": 17
+  "Trabalhista": 17,
+  "Nao identificada": 21
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 168,
-  "turnos": 402,
-  "respondidos": 395,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 15.3,
+  "grupos_ativos": 169,
+  "turnos": 404,
+  "respondidos": 398,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 15.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 203,
-    "mediana_min": 20.1
+    "respostas": 205,
+    "mediana_min": 20
    },
    {
     "nome": "Nicolas",
-    "respostas": 85,
-    "mediana_min": 21.4
+    "respostas": 86,
+    "mediana_min": 22.2
    },
    {
     "nome": "Eduardo",
@@ -141,12 +141,6 @@
     "dia": "03/08",
     "desde": "12:52",
     "ts": 1785772367165
-   },
-   {
-    "grupo": "K.K.C.D.S x DAUDT LOGÍSTICA LTDA",
-    "dia": "03/08",
-    "desde": "11:44",
-    "ts": 1785768243020
    },
    {
     "grupo": "F.C.R x EBAZAR.COM.BR. LTDA",
@@ -213,12 +207,6 @@
     "dia": "31/07",
     "desde": "15:17",
     "ts": 1785521853070
-   },
-   {
-    "grupo": "K.K.C.D.S x DAUDT LOGÍSTICA LTDA",
-    "dia": "03/08",
-    "desde": "11:44",
-    "ts": 1785768243020
    },
    {
     "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
@@ -330,18 +318,29 @@
  },
  "agora": {
   "fila": 246,
-  "abertos": 359,
+  "abertos": 358,
   "com_atendimento": 8,
   "online": 5,
   "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 947
+  "espera_media_s": 953
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-10T19:36:22.776Z",
-  "min_sem_lead": 34420
+  "min_sem_lead": 34435
  },
  "leads": [
+  {
+   "nome": "Yoko Totiya",
+   "tel": "5581*****211",
+   "criado": "10:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "555491920615",
    "tel": "5554*****615",
@@ -418,17 +417,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZCDVWMSej/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Yoko Totiya",
-   "tel": "5581*****211",
-   "criado": "10:49",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Trabalhista"
   },
   {
    "nome": "maria",
