@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 14:46",
+ "gerado_em": "03/08/2026, 15:02",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 40,
-  "no_sla": 30,
+  "total": 42,
+  "no_sla": 32,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 348,
-  "tickets_abertos": 357,
+  "leads_7d": 350,
+  "tickets_abertos": 356,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 35,
+   "leads": 37,
    "mediana_min": 0.4
   },
   {
@@ -32,16 +32,16 @@
   }
  ],
  "origem": {
-  "Anuncio": 30,
+  "Anuncio": 32,
   "Direto/Indicacao": 10
  },
  "criativos": [
   {
-   "url": "fb.me/4aByuCBr5",
-   "leads": 5
+   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "leads": 6
   },
   {
-   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "url": "fb.me/4aByuCBr5",
    "leads": 5
   },
   {
@@ -49,12 +49,12 @@
    "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DbZCDVWMSej/",
+   "url": "fb.me/4uJZlRfWK",
    "leads": 3
   },
   {
-   "url": "fb.me/4uJZlRfWK",
-   "leads": 2
+   "url": "www.instagram.com/p/DbZCDVWMSej/",
+   "leads": 3
   },
   {
    "url": "fb.me/cMY7LLYxT",
@@ -70,29 +70,29 @@
   }
  ],
  "areas": {
-  "Trabalhista": 17,
-  "Nao identificada": 23
+  "Trabalhista": 18,
+  "Nao identificada": 24
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 169,
-  "turnos": 409,
-  "respondidos": 403,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 15.3,
+  "turnos": 418,
+  "respondidos": 411,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 14.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 210,
-    "mediana_min": 20.1
+    "respostas": 212,
+    "mediana_min": 20.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 86,
-    "mediana_min": 22.2
+    "respostas": 92,
+    "mediana_min": 17.9
    },
    {
     "nome": "Eduardo",
@@ -136,6 +136,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.D.S.S x PREFEITURA MUNICIPAL DE BOA VISTA",
+    "dia": "03/08",
+    "desde": "14:55",
+    "ts": 1785779712235
+   },
    {
     "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
     "dia": "03/08",
@@ -213,17 +219,42 @@
     "dia": "03/08",
     "desde": "12:52",
     "ts": 1785772367165
+   },
+   {
+    "grupo": "M.D.S.S x PREFEITURA MUNICIPAL DE BOA VISTA",
+    "dia": "03/08",
+    "desde": "14:55",
+    "ts": 1785779712235
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 10,
+  "total": 12,
   "por_vendedor": {
+   "Roseli": 2,
    "Tiago Bernardo": 3,
    "Eduardo": 7
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "S.R",
+    "dia": "03/08",
+    "hora": "14:56",
+    "ts": 1785779815788,
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
+   },
+   {
+    "vendedor": "Roseli",
+    "cliente": "N",
+    "dia": "03/08",
+    "hora": "14:54",
+    "ts": 1785779657612,
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "M.V.T",
@@ -317,19 +348,41 @@
   ]
  },
  "agora": {
-  "fila": 246,
-  "abertos": 357,
+  "fila": 245,
+  "abertos": 356,
   "com_atendimento": 8,
-  "online": 3,
+  "online": 6,
   "offline": 2,
-  "ausentes": 4,
-  "espera_media_s": 945
+  "ausentes": 1,
+  "espera_media_s": 932
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-01T11:59:02.710Z",
-  "min_sem_lead": 3228
+  "ultimo_lead_at": "2026-08-03T17:52:54.819Z",
+  "min_sem_lead": 9
  },
  "leads": [
+  {
+   "nome": "🙌🏻",
+   "tel": "5511*****858",
+   "criado": "14:52",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554792610939",
+   "tel": "5547*****939",
+   "criado": "14:57",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "maria",
    "tel": "5521*****006",
@@ -738,9 +791,9 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5521997992457",
-   "tel": "5521*****457",
-   "criado": "13:41",
+   "nome": "5524999731556",
+   "tel": "5524*****556",
+   "criado": "14:41",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -760,9 +813,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5524999731556",
-   "tel": "5524*****556",
-   "criado": "14:41",
+   "nome": "5521997992457",
+   "tel": "5521*****457",
+   "criado": "13:41",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
