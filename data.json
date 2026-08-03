@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 18:52",
+ "gerado_em": "03/08/2026, 19:07",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 58,
+  "total": 59,
   "no_sla": 46,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 7,
+  "fora_horario": 8,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 366,
-  "tickets_abertos": 375,
+  "leads_7d": 367,
+  "tickets_abertos": 376,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 52,
+   "leads": 53,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 46,
+  "Anuncio": 47,
   "Direto/Indicacao": 12
  },
  "criativos": [
@@ -42,7 +42,7 @@
   },
   {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 6
+   "leads": 7
   },
   {
    "url": "fb.me/4aByuCBr5",
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 34,
+  "Nao identificada": 35,
   "Previdenciario": 2,
   "Trabalhista": 22
  },
@@ -222,7 +222,57 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Esther✨",
+    "tel": "5585*****087",
+    "dia": "03/08",
+    "desde": "17:50",
+    "ts": 1785790242358
+   },
+   {
+    "nome": "Luma",
+    "tel": "5535*****497",
+    "dia": "03/08",
+    "desde": "17:52",
+    "ts": 1785790333295
+   },
+   {
+    "nome": "Camila Medeiros",
+    "tel": "5521*****044",
+    "dia": "03/08",
+    "desde": "17:52",
+    "ts": 1785790347366
+   },
+   {
+    "nome": "Jeneilson Souza😎",
+    "tel": "5588*****772",
+    "dia": "03/08",
+    "desde": "18:11",
+    "ts": 1785791476074
+   },
+   {
+    "nome": "Sara",
+    "tel": "5511*****433",
+    "dia": "03/08",
+    "desde": "18:16",
+    "ts": 1785791781509
+   },
+   {
+    "nome": "554891672787",
+    "tel": "5548*****787",
+    "dia": "03/08",
+    "desde": "18:17",
+    "ts": 1785791823678
+   },
+   {
+    "nome": "5511977398788",
+    "tel": "5511*****788",
+    "dia": "03/08",
+    "desde": "19:02",
+    "ts": 1785794541982
+   }
+  ],
   "grupos": [
    {
     "grupo": "M.F.F x INSS",
@@ -439,17 +489,17 @@
   ]
  },
  "agora": {
-  "fila": 259,
-  "abertos": 375,
+  "fila": 260,
+  "abertos": 376,
   "com_atendimento": 8,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 900
+  "espera_media_s": 897
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-28T15:59:49.229Z",
-  "min_sem_lead": 8992
+  "ultimo_lead_at": "2026-08-03T18:46:31.678Z",
+  "min_sem_lead": 201
  },
  "leads": [
   {
@@ -461,6 +511,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511977398788",
+   "tel": "5511*****788",
+   "criado": "19:02",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.8,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
    "area": "Nao identificada"
   },
   {
