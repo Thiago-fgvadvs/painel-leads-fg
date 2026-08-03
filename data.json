@@ -1,5 +1,5 @@
 {
- "gerado_em": "03/08/2026, 10:57",
+ "gerado_em": "03/08/2026, 11:12",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 331,
-  "tickets_abertos": 291,
+  "tickets_abertos": 295,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -21,14 +21,14 @@
    "mediana_min": 0.4
   },
   {
-   "nome": "Tiago Bernardo",
-   "leads": 1,
-   "mediana_min": 14.1
-  },
-  {
    "nome": "Julia",
    "leads": 1,
    "mediana_min": 0.8
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 14.1
   }
  ],
  "origem": {
@@ -77,9 +77,9 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 154,
-  "turnos": 377,
-  "respondidos": 372,
+  "grupos_ativos": 156,
+  "turnos": 379,
+  "respondidos": 374,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 14.8,
@@ -96,8 +96,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 36,
-    "mediana_min": 7.3
+    "respostas": 37,
+    "mediana_min": 7.2
    },
    {
     "nome": "Luisa",
@@ -106,8 +106,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 14,
-    "mediana_min": 7.6
+    "respostas": 15,
+    "mediana_min": 9.4
    },
    {
     "nome": "Thauany",
@@ -132,6 +132,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "E.V.D.A x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
+    "dia": "03/08",
+    "desde": "11:03",
+    "ts": 1785765781987
+   },
+   {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "31/07",
     "desde": "15:17",
@@ -148,12 +154,6 @@
     "dia": "29/07",
     "desde": "15:34",
     "ts": 1785350070235
-   },
-   {
-    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
-    "dia": "29/07",
-    "desde": "14:55",
-    "ts": 1785347712243
    },
    {
     "grupo": "M.F.F x INSS",
@@ -165,19 +165,35 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Dra Luciana Lambert",
+    "tel": "5535*****313",
+    "dia": "03/08",
+    "desde": "10:30",
+    "ts": 1785763807984
+   },
+   {
+    "nome": "Yoko Totiya",
+    "tel": "5581*****211",
+    "dia": "03/08",
+    "desde": "10:49",
+    "ts": 1785764976709
+   },
+   {
+    "nome": "Marcelo Henrique",
+    "tel": "5511*****693",
+    "dia": "03/08",
+    "desde": "10:53",
+    "ts": 1785765217705
+   }
+  ],
   "grupos": [
    {
     "grupo": "M.F.F x INSS",
     "dia": "28/07",
     "desde": "15:36",
     "ts": 1785263806095
-   },
-   {
-    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
-    "dia": "29/07",
-    "desde": "14:55",
-    "ts": 1785347712243
    },
    {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
@@ -196,6 +212,12 @@
     "dia": "31/07",
     "desde": "15:17",
     "ts": 1785521853070
+   },
+   {
+    "grupo": "E.V.D.A x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
+    "dia": "03/08",
+    "desde": "11:03",
+    "ts": 1785765781987
    }
   ]
  },
@@ -300,30 +322,19 @@
   ]
  },
  "agora": {
-  "fila": 195,
-  "abertos": 291,
+  "fila": 196,
+  "abertos": 295,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 5,
   "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 1001
+  "ausentes": 2,
+  "espera_media_s": 994
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T13:53:37.705Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2025-09-24T18:22:44.817Z",
+  "min_sem_lead": 450470
  },
  "leads": [
-  {
-   "nome": "Marcelo Henrique",
-   "tel": "5511*****693",
-   "criado": "10:53",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
   {
    "nome": "Yoko Totiya",
    "tel": "5581*****211",
@@ -333,6 +344,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Advogada Natacha",
+   "tel": "5511*****566",
+   "criado": "10:03",
+   "atendente": "Julia",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Marcelo Henrique",
+   "tel": "5511*****693",
+   "criado": "10:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -352,17 +385,6 @@
    "criado": "10:30",
    "atendente": "Tiago Bernardo",
    "espera_min": 14.1,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Advogada Natacha",
-   "tel": "5511*****566",
-   "criado": "10:03",
-   "atendente": "Julia",
-   "espera_min": 0.8,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
