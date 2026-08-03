@@ -1,28 +1,28 @@
 {
- "gerado_em": "02/08/2026, 21:34",
+ "gerado_em": "02/08/2026, 21:49",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 54,
+  "total": 55,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 52,
+  "fora_horario": 53,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 361,
-  "tickets_abertos": 269,
+  "leads_7d": 362,
+  "tickets_abertos": 270,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 52,
+   "leads": 53,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 48,
+  "Anuncio": 49,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 5
   },
   {
+   "url": "fb.me/4EHi0h7IT",
+   "leads": 4
+  },
+  {
    "url": "fb.me/cMY7LLYxT",
    "leads": 4
   },
@@ -51,17 +55,13 @@
    "leads": 4
   },
   {
-   "url": "fb.me/4EHi0h7IT",
-   "leads": 3
-  },
-  {
    "url": "fb.me/9Pf9FTshS",
    "leads": 3
   }
  ],
  "areas": {
   "Nao identificada": 27,
-  "Trabalhista": 24,
+  "Trabalhista": 25,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [],
@@ -170,13 +170,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "joaquimpantojaprotazio8@g",
-    "tel": "5592*****609",
-    "dia": "30/07",
-    "desde": "14:01",
-    "ts": 1785430907488
-   },
-   {
     "nome": "Bruna Raquel",
     "tel": "5547*****534",
     "dia": "30/07",
@@ -210,6 +203,13 @@
     "dia": "31/07",
     "desde": "12:42",
     "ts": 1785512537962
+   },
+   {
+    "nome": "Girlene Targino🫵😍😍",
+    "tel": "5584*****044",
+    "dia": "31/07",
+    "desde": "12:50",
+    "ts": 1785513036568
    }
   ],
   "grupos": [
@@ -385,19 +385,30 @@
   ]
  },
  "agora": {
-  "fila": 175,
-  "abertos": 269,
+  "fila": 176,
+  "abertos": 270,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1128
+  "espera_media_s": 1123
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T00:07:26.950Z",
-  "min_sem_lead": 27
+  "ultimo_lead_at": "2026-08-03T00:46:26.218Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "Maria Das Dores🥰",
+   "tel": "5598*****147",
+   "criado": "21:46",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EHi0h7IT",
+   "area": "Nao identificada"
+  },
   {
    "nome": ".",
    "tel": "5563*****801",
@@ -407,7 +418,7 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "Edemilson Piva",
