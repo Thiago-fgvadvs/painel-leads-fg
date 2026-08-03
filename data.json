@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 20:24",
+ "gerado_em": "03/08/2026, 20:39",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 64,
+  "total": 65,
   "no_sla": 46,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 13,
+  "fora_horario": 14,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 372,
-  "tickets_abertos": 381,
+  "leads_7d": 373,
+  "tickets_abertos": 382,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 58,
+   "leads": 59,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 51,
+  "Anuncio": 52,
   "Direto/Indicacao": 13
  },
  "criativos": [
@@ -45,12 +45,12 @@
    "leads": 8
   },
   {
-   "url": "fb.me/4aByuCBr5",
+   "url": "fb.me/4uJZlRfWK",
    "leads": 6
   },
   {
-   "url": "fb.me/4uJZlRfWK",
-   "leads": 5
+   "url": "fb.me/4aByuCBr5",
+   "leads": 6
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
+  "Nao identificada": 38,
   "Trabalhista": 25,
-  "Nao identificada": 37,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -463,19 +463,30 @@
   ]
  },
  "agora": {
-  "fila": 265,
-  "abertos": 381,
+  "fila": 266,
+  "abertos": 382,
   "com_atendimento": 8,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 882
+  "espera_media_s": 879
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T14:26:16.202Z",
-  "min_sem_lead": 1978
+  "ultimo_lead_at": "2026-08-03T23:30:41.487Z",
+  "min_sem_lead": 9
  },
  "leads": [
+  {
+   "nome": "555193198947",
+   "tel": "5551*****947",
+   "criado": "20:30",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
   {
    "nome": "556596429693",
    "tel": "5565*****693",
