@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 16:03",
+ "gerado_em": "03/08/2026, 16:18",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 46,
   "no_sla": 36,
-  "fora_sla": 0,
+  "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 7,
-  "pct_sla": 100,
+  "pct_sla": 95,
   "mediana_geral": 0.4,
   "leads_7d": 354,
-  "tickets_abertos": 362,
+  "tickets_abertos": 366,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 40,
+   "leads": 42,
    "mediana_min": 0.4
   },
   {
@@ -32,8 +32,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 35,
-  "Direto/Indicacao": 11
+  "Anuncio": 36,
+  "Direto/Indicacao": 10
  },
  "criativos": [
   {
@@ -65,7 +65,7 @@
    "leads": 2
   },
   {
-   "url": "fb.me/6jCO1Dvym",
+   "url": "www.instagram.com/p/DaTOs97M2al/",
    "leads": 1
   }
  ],
@@ -75,19 +75,34 @@
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
- "fora_sla_lista": [],
+ "fora_sla_lista": [
+  {
+   "nome": "5521997992457",
+   "tel": "5521*****457",
+   "criado": "13:41",
+   "espera_min": 154.8,
+   "atendente": "Fernanda Gehm - Administradora"
+  },
+  {
+   "nome": "5524999731556",
+   "tel": "5524*****556",
+   "criado": "14:41",
+   "espera_min": 94.3,
+   "atendente": "Fernanda Gehm - Administradora"
+  }
+ ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 174,
-  "turnos": 428,
-  "respondidos": 421,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "grupos_ativos": 176,
+  "turnos": 431,
+  "respondidos": 422,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 15,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 221,
+    "respostas": 222,
     "mediana_min": 20.2
    },
    {
@@ -138,6 +153,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
+    "dia": "03/08",
+    "desde": "16:17",
+    "ts": 1785784640436
+   },
+   {
     "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
     "dia": "03/08",
     "desde": "15:51",
@@ -148,6 +169,12 @@
     "dia": "03/08",
     "desde": "15:17",
     "ts": 1785781039383
+   },
+   {
+    "grupo": "M.D.D.S.M.D.S x MAXPAR ASSISTENCIA 24H LTDA",
+    "dia": "03/08",
+    "desde": "15:07",
+    "ts": 1785780473251
    },
    {
     "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
@@ -185,35 +212,21 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Deus  E Mais🙌🏽",
-    "tel": "5547*****939",
+    "nome": "5521997992457",
+    "tel": "5521*****457",
     "dia": "03/08",
-    "desde": "14:57",
-    "ts": 1785779873280
+    "desde": "13:41",
+    "ts": 1785775280735
    },
    {
-    "nome": "Larissa",
-    "tel": "5519*****473",
+    "nome": "5524999731556",
+    "tel": "5524*****556",
     "dia": "03/08",
-    "desde": "15:15",
-    "ts": 1785780939919
+    "desde": "14:41",
+    "ts": 1785778906461
    },
    {
-    "nome": "Andreia Pessoa",
-    "tel": "5521*****804",
-    "dia": "03/08",
-    "desde": "15:33",
-    "ts": 1785781992148
-   },
-   {
-    "nome": "Géssica",
-    "tel": "5548*****133",
-    "dia": "03/08",
-    "desde": "15:46",
-    "ts": 1785782791678
-   },
-   {
-    "nome": "Advogada Bárbara ",
+    "nome": "Bárbara",
     "tel": "5521*****219",
     "dia": "03/08",
     "desde": "15:50",
@@ -252,6 +265,12 @@
     "ts": 1785772367165
    },
    {
+    "grupo": "M.D.D.S.M.D.S x MAXPAR ASSISTENCIA 24H LTDA",
+    "dia": "03/08",
+    "desde": "15:07",
+    "ts": 1785780473251
+   },
+   {
     "grupo": "M.G.S",
     "dia": "03/08",
     "desde": "15:17",
@@ -262,6 +281,12 @@
     "dia": "03/08",
     "desde": "15:51",
     "ts": 1785783062412
+   },
+   {
+    "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
+    "dia": "03/08",
+    "desde": "16:17",
+    "ts": 1785784640436
    }
   ]
  },
@@ -412,19 +437,30 @@
   ]
  },
  "agora": {
-  "fila": 251,
-  "abertos": 362,
+  "fila": 252,
+  "abertos": 366,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 6,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 928
+  "ausentes": 1,
+  "espera_media_s": 919
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T18:46:31.678Z",
-  "min_sem_lead": 17
+  "ultimo_lead_at": "2025-09-24T18:22:48.539Z",
+  "min_sem_lead": 450776
  },
  "leads": [
+  {
+   "nome": "JULIA",
+   "tel": "5589*****777",
+   "criado": "13:33",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTOs97M2al/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Géssica",
    "tel": "5548*****133",
@@ -437,6 +473,39 @@
    "area": "Nao identificada"
   },
   {
+   "nome": "5521997992457",
+   "tel": "5521*****457",
+   "criado": "13:41",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 154.8,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5524999731556",
+   "tel": "5524*****556",
+   "criado": "14:41",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 94.3,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Bárbara",
+   "tel": "5521*****219",
+   "criado": "15:50",
+   "atendente": "Julia",
+   "espera_min": 1.2,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
    "nome": "Marcelo Henrique",
    "tel": "5511*****693",
    "criado": "10:53",
@@ -446,17 +515,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Advogada Bárbara ",
-   "tel": "5521*****219",
-   "criado": "15:50",
-   "atendente": "Julia",
-   "espera_min": 1.2,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "maria",
@@ -558,7 +616,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "555491920615",
+   "nome": "Letícia Alves😌",
    "tel": "5554*****615",
    "criado": "14:04",
    "atendente": "Fernanda Gehm - Administradora",
@@ -591,7 +649,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554792563655",
+   "nome": "Sandra De Paula",
    "tel": "5547*****655",
    "criado": "13:47",
    "atendente": "Fernanda Gehm - Administradora",
@@ -602,18 +660,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "JULIA",
-   "tel": "5589*****777",
-   "criado": "13:33",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5521982063508",
+   "nome": "Carol 💟",
    "tel": "5521*****508",
    "criado": "13:09",
    "atendente": "Fernanda Gehm - Administradora",
@@ -701,7 +748,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Advogada Natacha",
+   "nome": "Dra. Natacha | Advogada",
    "tel": "5511*****566",
    "criado": "10:03",
    "atendente": "Julia",
@@ -745,7 +792,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5527995010928",
+   "nome": "Marilza Quirino",
    "tel": "5527*****928",
    "criado": "10:15",
    "atendente": "Fernanda Gehm - Administradora",
@@ -833,7 +880,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "554899986114",
+   "nome": "Tânia Maria",
    "tel": "5548*****114",
    "criado": "07:33",
    "atendente": "Fernanda Gehm - Administradora",
@@ -855,7 +902,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5511986731866",
+   "nome": "Helly Martins",
    "tel": "5511*****866",
    "criado": "05:27",
    "atendente": "Fernanda Gehm - Administradora",
@@ -888,7 +935,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "557191160190",
+   "nome": "😎😘",
    "tel": "5571*****190",
    "criado": "02:18",
    "atendente": "Fernanda Gehm - Administradora",
@@ -899,31 +946,9 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5524999731556",
-   "tel": "5524*****556",
-   "criado": "14:41",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "5521983061594",
    "tel": "5521*****594",
    "criado": "08:34",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5521997992457",
-   "tel": "5521*****457",
-   "criado": "13:41",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
