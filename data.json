@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 13:30",
+ "gerado_em": "03/08/2026, 13:45",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 34,
-  "no_sla": 26,
+  "total": 36,
+  "no_sla": 27,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 342,
-  "tickets_abertos": 358,
+  "leads_7d": 344,
+  "tickets_abertos": 357,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 31,
+   "leads": 32,
    "mediana_min": 0.4
   },
   {
@@ -33,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 27,
-  "Direto/Indicacao": 7
+  "Direto/Indicacao": 9
  },
  "criativos": [
   {
@@ -71,22 +71,22 @@
  ],
  "areas": {
   "Trabalhista": 17,
-  "Nao identificada": 17
+  "Nao identificada": 19
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 164,
+  "grupos_ativos": 165,
   "turnos": 399,
-  "respondidos": 391,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "respondidos": 392,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 15,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 201,
+    "respostas": 202,
     "mediana_min": 20.2
    },
    {
@@ -131,12 +131,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "03/08",
-    "desde": "13:29",
-    "ts": 1785774558183
-   },
    {
     "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
     "dia": "03/08",
@@ -226,12 +220,6 @@
     "dia": "03/08",
     "desde": "12:52",
     "ts": 1785772367165
-   },
-   {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "03/08",
-    "desde": "13:29",
-    "ts": 1785774558183
    }
   ]
  },
@@ -336,25 +324,25 @@
   ]
  },
  "agora": {
-  "fila": 247,
-  "abertos": 358,
-  "com_atendimento": 8,
-  "online": 4,
+  "fila": 245,
+  "abertos": 357,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 2,
-  "ausentes": 3,
+  "ausentes": 2,
   "espera_media_s": 957
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T02:30:27.608Z",
-  "min_sem_lead": 6600
+  "ultimo_lead_at": "2026-08-03T14:53:55.467Z",
+  "min_sem_lead": 111
  },
  "leads": [
   {
-   "nome": "Carlos Gomes",
-   "tel": "5531*****060",
-   "criado": "10:00",
+   "nome": "553899293053",
+   "tel": "5538*****053",
+   "criado": "11:53",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.6,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
@@ -370,6 +358,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4uJZlRfWK",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "JULIA",
+   "tel": "5589*****777",
+   "criado": "13:33",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Carlos Gomes",
+   "tel": "5531*****060",
+   "criado": "10:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
   },
   {
    "nome": "5521982063508",
@@ -469,17 +479,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "553899293053",
-   "tel": "5538*****053",
-   "criado": "11:53",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Taissa 💎",
@@ -711,6 +710,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5521997992457",
+   "tel": "5521*****457",
+   "criado": "13:41",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "5521983061594",
