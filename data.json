@@ -1,41 +1,41 @@
 {
- "gerado_em": "02/08/2026, 21:03",
+ "gerado_em": "02/08/2026, 21:19",
  "data_ref": "02/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 53,
+  "total": 54,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 51,
+  "fora_horario": 52,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 360,
-  "tickets_abertos": 268,
+  "leads_7d": 361,
+  "tickets_abertos": 269,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 51,
+   "leads": 52,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 47,
+  "Anuncio": 48,
   "Direto/Indicacao": 6
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "leads": 7
+  },
   {
    "url": "fb.me/4uJZlRfWK",
    "leads": 7
   },
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 6
-  },
-  {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 6
   },
   {
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
+  "Nao identificada": 27,
   "Trabalhista": 24,
-  "Nao identificada": 26,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [],
@@ -196,6 +196,13 @@
     "dia": "31/07",
     "desde": "11:34",
     "ts": 1785508481243
+   },
+   {
+    "nome": "Louis patrian 🤪",
+    "tel": "5515*****695",
+    "dia": "31/07",
+    "desde": "12:29",
+    "ts": 1785511766713
    },
    {
     "nome": "Ketlin Tais",
@@ -378,19 +385,30 @@
   ]
  },
  "agora": {
-  "fila": 174,
-  "abertos": 268,
+  "fila": 175,
+  "abertos": 269,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1133
+  "espera_media_s": 1128
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T22:40:33.924Z",
-  "min_sem_lead": 2963
+  "ultimo_lead_at": "2026-08-03T00:07:26.950Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": ".",
+   "tel": "5563*****801",
+   "criado": "21:07",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Edemilson Piva",
    "tel": "5548*****030",
@@ -953,9 +971,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5521987616134",
-   "tel": "5521*****134",
-   "criado": "18:45",
+   "nome": "557791220980",
+   "tel": "5577*****980",
+   "criado": "20:10",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -964,9 +982,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "557791220980",
-   "tel": "5577*****980",
-   "criado": "20:10",
+   "nome": "5521987616134",
+   "tel": "5521*****134",
+   "criado": "18:45",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
