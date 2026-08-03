@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 18:06",
+ "gerado_em": "03/08/2026, 18:21",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 54,
-  "no_sla": 43,
+  "total": 57,
+  "no_sla": 46,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 362,
-  "tickets_abertos": 373,
+  "leads_7d": 365,
+  "tickets_abertos": 375,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 49,
+   "leads": 52,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 43,
+  "Anuncio": 46,
   "Direto/Indicacao": 11
  },
  "criativos": [
@@ -50,14 +50,14 @@
   },
   {
    "url": "fb.me/4uJZlRfWK",
+   "leads": 5
+  },
+  {
+   "url": "fb.me/9Pf9FTshS",
    "leads": 4
   },
   {
    "url": "fb.me/cMY7LLYxT",
-   "leads": 3
-  },
-  {
-   "url": "fb.me/9Pf9FTshS",
    "leads": 3
   },
   {
@@ -71,7 +71,7 @@
  ],
  "areas": {
   "Previdenciario": 2,
-  "Nao identificada": 31,
+  "Nao identificada": 34,
   "Trabalhista": 21
  },
  "sem_resposta_lista": [],
@@ -94,15 +94,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 182,
-  "turnos": 443,
-  "respondidos": 432,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
-  "mediana_min": 15.2,
+  "turnos": 449,
+  "respondidos": 437,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
+  "mediana_min": 15.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 225,
+    "respostas": 229,
     "mediana_min": 20.5
    },
    {
@@ -131,14 +131,14 @@
     "mediana_min": 65.5
    },
    {
+    "nome": "Roseli",
+    "respostas": 5,
+    "mediana_min": 1.5
+   },
+   {
     "nome": "Tiago Bernardo",
     "respostas": 5,
     "mediana_min": 329.7
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 4,
-    "mediana_min": 1.2
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -155,8 +155,8 @@
    {
     "grupo": "L.O.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "03/08",
-    "desde": "17:49",
-    "ts": 1785790172461
+    "desde": "18:15",
+    "ts": 1785791738409
    },
    {
     "grupo": "P.L.R.J",
@@ -169,6 +169,12 @@
     "dia": "03/08",
     "desde": "15:51",
     "ts": 1785783062412
+   },
+   {
+    "grupo": "W.M.D.O x SENDAS",
+    "dia": "03/08",
+    "desde": "16:43",
+    "ts": 1785786231387
    },
    {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
@@ -279,6 +285,12 @@
     "ts": 1785785289321
    },
    {
+    "grupo": "W.M.D.O x SENDAS",
+    "dia": "03/08",
+    "desde": "16:43",
+    "ts": 1785786231387
+   },
+   {
     "grupo": "P.L.R.J",
     "dia": "03/08",
     "desde": "16:58",
@@ -287,8 +299,8 @@
    {
     "grupo": "L.O.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "03/08",
-    "desde": "17:49",
-    "ts": 1785790172461
+    "desde": "18:15",
+    "ts": 1785791738409
    }
   ]
  },
@@ -439,17 +451,17 @@
   ]
  },
  "agora": {
-  "fila": 260,
-  "abertos": 373,
+  "fila": 262,
+  "abertos": 375,
   "com_atendimento": 8,
   "online": 3,
-  "offline": 4,
-  "ausentes": 2,
-  "espera_media_s": 910
+  "offline": 6,
+  "ausentes": 0,
+  "espera_media_s": 900
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-03T20:29:50.742Z",
-  "min_sem_lead": 36
+  "min_sem_lead": 52
  },
  "leads": [
   {
@@ -464,6 +476,28 @@
    "area": "Previdenciario"
   },
   {
+   "nome": "554891672787",
+   "tel": "5548*****787",
+   "criado": "18:17",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511937361433",
+   "tel": "5511*****433",
+   "criado": "18:16",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
+  {
    "nome": "Bárbara",
    "tel": "5521*****219",
    "criado": "15:50",
@@ -472,6 +506,17 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Jeneilson Souza😎",
+   "tel": "5588*****772",
+   "criado": "18:11",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/gp4PFLi6F",
    "area": "Nao identificada"
   },
   {
@@ -1025,9 +1070,9 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5521983061594",
-   "tel": "5521*****594",
-   "criado": "08:34",
+   "nome": "5519998068023",
+   "tel": "5519*****023",
+   "criado": "17:19",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -1036,9 +1081,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5519998068023",
-   "tel": "5519*****023",
-   "criado": "17:19",
+   "nome": "5521983061594",
+   "tel": "5521*****594",
+   "criado": "08:34",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
