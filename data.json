@@ -1,34 +1,38 @@
 {
- "gerado_em": "03/08/2026, 09:37",
+ "gerado_em": "03/08/2026, 09:52",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 4,
+  "total": 13,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 320,
-  "tickets_abertos": 293,
+  "leads_7d": 321,
+  "tickets_abertos": 295,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 11,
+   "leads": 12,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "fb.me/4aByuCBr5",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "leads": 2
   },
   {
    "url": "fb.me/4EHi0h7IT",
@@ -53,36 +57,32 @@
   {
    "url": "fb.me/4uJZlRfWK",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 9,
-  "Trabalhista": 3
+  "Trabalhista": 4,
+  "Nao identificada": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 152,
-  "turnos": 357,
-  "respondidos": 350,
+  "turnos": 359,
+  "respondidos": 352,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 14.6,
+  "mediana_min": 14.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 184,
-    "mediana_min": 19.4
+    "respostas": 185,
+    "mediana_min": 20
    },
    {
     "nome": "Nicolas",
-    "respostas": 70,
-    "mediana_min": 20.2
+    "respostas": 71,
+    "mediana_min": 21.4
    },
    {
     "nome": "Eduardo",
@@ -128,10 +128,10 @@
     "ts": 1785530323139
    },
    {
-    "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
+    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
     "dia": "03/08",
-    "desde": "08:47",
-    "ts": 1785757673877
+    "desde": "08:34",
+    "ts": 1785756858835
    },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
@@ -206,10 +206,10 @@
     "ts": 1785530323139
    },
    {
-    "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
+    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
     "dia": "03/08",
-    "desde": "08:47",
-    "ts": 1785757673877
+    "desde": "08:34",
+    "ts": 1785756858835
    }
   ]
  },
@@ -314,21 +314,32 @@
   ]
  },
  "agora": {
-  "fila": 196,
-  "abertos": 293,
+  "fila": 197,
+  "abertos": 295,
   "com_atendimento": 8,
   "online": 4,
-  "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 1040
+  "offline": 4,
+  "ausentes": 1,
+  "espera_media_s": 1036
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T12:34:58.368Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-08-01T11:59:02.710Z",
+  "min_sem_lead": 2933
  },
  "leads": [
   {
-   "nome": "556581114736",
+   "nome": "maria",
+   "tel": "5521*****006",
+   "criado": "09:42",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "meu amore M.V.E.B💙💙",
    "tel": "5565*****736",
    "criado": "09:34",
    "atendente": "Fernanda Gehm - Administradora",
