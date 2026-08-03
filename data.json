@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 14:31",
+ "gerado_em": "03/08/2026, 14:46",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 38,
-  "no_sla": 29,
+  "total": 40,
+  "no_sla": 30,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 346,
-  "tickets_abertos": 358,
+  "leads_7d": 348,
+  "tickets_abertos": 357,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 34,
+   "leads": 35,
    "mediana_min": 0.4
   },
   {
@@ -32,20 +32,20 @@
   }
  ],
  "origem": {
-  "Anuncio": 29,
-  "Direto/Indicacao": 9
+  "Anuncio": 30,
+  "Direto/Indicacao": 10
  },
  "criativos": [
+  {
+   "url": "fb.me/4aByuCBr5",
+   "leads": 5
+  },
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
    "leads": 5
   },
   {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 4
-  },
-  {
-   "url": "fb.me/4aByuCBr5",
    "leads": 4
   },
   {
@@ -71,23 +71,23 @@
  ],
  "areas": {
   "Trabalhista": 17,
-  "Nao identificada": 21
+  "Nao identificada": 23
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 169,
-  "turnos": 404,
-  "respondidos": 398,
+  "turnos": 409,
+  "respondidos": 403,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 15.2,
+  "mediana_min": 15.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 205,
-    "mediana_min": 20
+    "respostas": 210,
+    "mediana_min": 20.1
    },
    {
     "nome": "Nicolas",
@@ -318,18 +318,40 @@
  },
  "agora": {
   "fila": 246,
-  "abertos": 358,
+  "abertos": 357,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 3,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 953
+  "ausentes": 4,
+  "espera_media_s": 945
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-10T19:36:22.776Z",
-  "min_sem_lead": 34435
+  "ultimo_lead_at": "2026-08-01T11:59:02.710Z",
+  "min_sem_lead": 3228
  },
  "leads": [
+  {
+   "nome": "maria",
+   "tel": "5521*****006",
+   "criado": "09:42",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "mylla🎩",
+   "tel": "5521*****642",
+   "criado": "14:32",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4aByuCBr5",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Yoko Totiya",
    "tel": "5581*****211",
@@ -417,17 +439,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZCDVWMSej/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "maria",
-   "tel": "5521*****006",
-   "criado": "09:42",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
-   "area": "Trabalhista"
   },
   {
    "nome": "kay",
@@ -741,6 +752,17 @@
    "nome": "5521983061594",
    "tel": "5521*****594",
    "criado": "08:34",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5524999731556",
+   "tel": "5524*****556",
+   "criado": "14:41",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
