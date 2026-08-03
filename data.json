@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 19:38",
+ "gerado_em": "03/08/2026, 19:53",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 61,
+  "total": 63,
   "no_sla": 46,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 10,
+  "fora_horario": 12,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 369,
-  "tickets_abertos": 378,
+  "leads_7d": 371,
+  "tickets_abertos": 380,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 55,
+   "leads": 57,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 48,
+  "Anuncio": 50,
   "Direto/Indicacao": 13
  },
  "criativos": [
@@ -70,9 +70,9 @@
   }
  ],
  "areas": {
+  "Trabalhista": 24,
   "Nao identificada": 37,
-  "Previdenciario": 2,
-  "Trabalhista": 22
+  "Previdenciario": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -236,41 +236,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Luma",
-    "tel": "5535*****497",
-    "dia": "03/08",
-    "desde": "17:52",
-    "ts": 1785790333295
-   },
-   {
-    "nome": "Camila Medeiros",
-    "tel": "5521*****044",
-    "dia": "03/08",
-    "desde": "17:52",
-    "ts": 1785790347366
-   },
-   {
-    "nome": "Jeneilson Souza😎",
-    "tel": "5588*****772",
-    "dia": "03/08",
-    "desde": "18:11",
-    "ts": 1785791476074
-   },
-   {
-    "nome": "Sara",
-    "tel": "5511*****433",
-    "dia": "03/08",
-    "desde": "18:16",
-    "ts": 1785791781509
-   },
-   {
-    "nome": "554891672787",
-    "tel": "5548*****787",
-    "dia": "03/08",
-    "desde": "18:17",
-    "ts": 1785791823678
-   },
-   {
     "nome": "5511977398788",
     "tel": "5511*****788",
     "dia": "03/08",
@@ -290,6 +255,20 @@
     "dia": "03/08",
     "desde": "19:23",
     "ts": 1785795794962
+   },
+   {
+    "nome": "Cipriano Lopes De Sousa",
+    "tel": "5589*****969",
+    "dia": "03/08",
+    "desde": "19:45",
+    "ts": 1785797142719
+   },
+   {
+    "nome": "Cristina",
+    "tel": "5579*****670",
+    "dia": "03/08",
+    "desde": "19:48",
+    "ts": 1785797318662
    }
   ],
   "grupos": [
@@ -520,19 +499,52 @@
   ]
  },
  "agora": {
-  "fila": 262,
-  "abertos": 378,
+  "fila": 264,
+  "abertos": 380,
   "com_atendimento": 8,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 891
+  "espera_media_s": 885
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T22:23:14.962Z",
-  "min_sem_lead": 15
+  "ultimo_lead_at": "2026-08-03T22:48:38.662Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "Cristina",
+   "tel": "5579*****670",
+   "criado": "19:48",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.8,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9yxU2JTeH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Cipriano Lopes De Sousa",
+   "tel": "5589*****969",
+   "criado": "19:45",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/gfmgQA9OX",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Sara",
+   "tel": "5511*****433",
+   "criado": "18:16",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558695931717",
    "tel": "5586*****717",
@@ -587,17 +599,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
    "area": "Previdenciario"
-  },
-  {
-   "nome": "Sara",
-   "tel": "5511*****433",
-   "criado": "18:16",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4uJZlRfWK",
-   "area": "Trabalhista"
   },
   {
    "nome": "554891672787",
