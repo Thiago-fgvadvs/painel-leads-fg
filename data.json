@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 11:43",
+ "gerado_em": "03/08/2026, 11:58",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
-  "no_sla": 18,
+  "total": 28,
+  "no_sla": 20,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 334,
-  "tickets_abertos": 299,
+  "leads_7d": 336,
+  "tickets_abertos": 301,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 23,
+   "leads": 25,
    "mediana_min": 0.4
   },
   {
@@ -32,24 +32,24 @@
   }
  ],
  "origem": {
-  "Anuncio": 21,
-  "Direto/Indicacao": 5
+  "Anuncio": 22,
+  "Direto/Indicacao": 6
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 4
+   "leads": 5
   },
   {
    "url": "fb.me/4aByuCBr5",
    "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "url": "fb.me/cMY7LLYxT",
    "leads": 2
   },
   {
-   "url": "fb.me/cMY7LLYxT",
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 2
   },
   {
@@ -70,18 +70,18 @@
   }
  ],
  "areas": {
-  "Nao identificada": 14,
-  "Trabalhista": 12
+  "Trabalhista": 14,
+  "Nao identificada": 14
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 158,
-  "turnos": 390,
+  "grupos_ativos": 159,
+  "turnos": 391,
   "respondidos": 384,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 15.2,
   "atendentes": [
    {
@@ -132,6 +132,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "K.K.C.D.S x DAUDT LOGÍSTICA LTDA",
+    "dia": "03/08",
+    "desde": "11:44",
+    "ts": 1785768243020
+   },
+   {
     "grupo": "M.A x GL DA SILVA APOIO ADMINISTRATIVO",
     "dia": "03/08",
     "desde": "11:37",
@@ -173,13 +179,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Marcelo Henrique",
-    "tel": "5511*****693",
-    "dia": "03/08",
-    "desde": "10:53",
-    "ts": 1785765217705
-   },
-   {
     "nome": "Juciane Pereira coelho",
     "tel": "5563*****753",
     "dia": "03/08",
@@ -199,6 +198,20 @@
     "dia": "03/08",
     "desde": "11:41",
     "ts": 1785768114909
+   },
+   {
+    "nome": "Taissa 💎",
+    "tel": "5531*****798",
+    "dia": "03/08",
+    "desde": "11:51",
+    "ts": 1785768704846
+   },
+   {
+    "nome": "553899293053",
+    "tel": "5538*****053",
+    "dia": "03/08",
+    "desde": "11:53",
+    "ts": 1785768835467
    }
   ],
   "grupos": [
@@ -237,6 +250,12 @@
     "dia": "03/08",
     "desde": "11:37",
     "ts": 1785767873021
+   },
+   {
+    "grupo": "K.K.C.D.S x DAUDT LOGÍSTICA LTDA",
+    "dia": "03/08",
+    "desde": "11:44",
+    "ts": 1785768243020
    }
   ]
  },
@@ -341,17 +360,17 @@
   ]
  },
  "agora": {
-  "fila": 195,
-  "abertos": 299,
+  "fila": 197,
+  "abertos": 301,
   "com_atendimento": 8,
-  "online": 6,
+  "online": 3,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 982
+  "ausentes": 4,
+  "espera_media_s": 975
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-03T14:41:54.909Z",
-  "min_sem_lead": 1
+  "min_sem_lead": 16
  },
  "leads": [
   {
@@ -363,17 +382,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7se00hGXE",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
-   "nome": "maria",
-   "tel": "5521*****006",
-   "criado": "09:42",
+   "nome": "Taissa 💎",
+   "tel": "5531*****798",
+   "criado": "11:51",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -385,6 +404,39 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/cMY7LLYxT",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553899293053",
+   "tel": "5538*****053",
+   "criado": "11:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Carlos Gomes",
+   "tel": "5531*****060",
+   "criado": "10:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "maria",
+   "tel": "5521*****006",
+   "criado": "09:42",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
    "area": "Trabalhista"
   },
   {
@@ -407,17 +459,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Carlos Gomes",
-   "tel": "5531*****060",
-   "criado": "10:00",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Trabalhista"
   },
   {
