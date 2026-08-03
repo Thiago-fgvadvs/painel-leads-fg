@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 10:07",
+ "gerado_em": "03/08/2026, 10:22",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
-  "no_sla": 9,
+  "total": 19,
+  "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 325,
-  "tickets_abertos": 299,
+  "leads_7d": 327,
+  "tickets_abertos": 295,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 15,
+   "leads": 17,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 16,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -36,12 +36,12 @@
    "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 2
+   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 1
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DYVTAskDMJ6/",
@@ -65,29 +65,29 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
-  "Nao identificada": 11
+  "Trabalhista": 7,
+  "Nao identificada": 12
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 152,
-  "turnos": 363,
-  "respondidos": 356,
+  "grupos_ativos": 153,
+  "turnos": 369,
+  "respondidos": 362,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 14.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 187,
-    "mediana_min": 20
+    "respostas": 190,
+    "mediana_min": 19.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 72,
-    "mediana_min": 22.2
+    "respostas": 75,
+    "mediana_min": 22.9
    },
    {
     "nome": "Eduardo",
@@ -319,28 +319,28 @@
   ]
  },
  "agora": {
-  "fila": 200,
-  "abertos": 299,
+  "fila": 196,
+  "abertos": 295,
   "com_atendimento": 8,
-  "online": 4,
-  "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 1024
+  "online": 6,
+  "offline": 2,
+  "ausentes": 1,
+  "espera_media_s": 1013
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
-  "min_sem_lead": 7
+  "ultimo_lead_at": "2026-07-15T16:56:37.862Z",
+  "min_sem_lead": 27146
  },
  "leads": [
   {
-   "nome": "553192024060",
-   "tel": "5531*****060",
-   "criado": "10:00",
+   "nome": "Joicy Alves",
+   "tel": "5581*****306",
+   "criado": "10:04",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.6,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
    "area": "Trabalhista"
   },
   {
@@ -355,6 +355,39 @@
    "area": "Nao identificada"
   },
   {
+   "nome": "5527995010928",
+   "tel": "5527*****928",
+   "criado": "10:15",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Suelen Maira",
+   "tel": "5532*****153",
+   "criado": "10:13",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Carlos Gomes",
+   "tel": "5531*****060",
+   "criado": "10:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "554896129047",
    "tel": "5548*****047",
    "criado": "10:00",
@@ -364,17 +397,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4aByuCBr5",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Joicy Alves",
-   "tel": "5581*****306",
-   "criado": "10:04",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
-   "area": "Nao identificada"
   },
   {
    "nome": "maria",
