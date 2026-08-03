@@ -1,5 +1,5 @@
 {
- "gerado_em": "03/08/2026, 16:18",
+ "gerado_em": "03/08/2026, 16:34",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 95,
   "mediana_geral": 0.4,
   "leads_7d": 354,
-  "tickets_abertos": 366,
+  "tickets_abertos": 368,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -93,22 +93,22 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 176,
-  "turnos": 431,
-  "respondidos": 422,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 15,
+  "grupos_ativos": 177,
+  "turnos": 435,
+  "respondidos": 424,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 15.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 222,
+    "respostas": 223,
     "mediana_min": 20.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 93,
-    "mediana_min": 18.1
+    "respostas": 94,
+    "mediana_min": 18.5
    },
    {
     "nome": "Eduardo",
@@ -153,10 +153,28 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "M.G.S",
+    "dia": "03/08",
+    "desde": "16:33",
+    "ts": 1785785605444
+   },
+   {
+    "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
+    "dia": "03/08",
+    "desde": "16:28",
+    "ts": 1785785289321
+   },
+   {
     "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
     "dia": "03/08",
     "desde": "16:17",
     "ts": 1785784640436
+   },
+   {
+    "grupo": "J.P.D.S x PAES E DOCES LUSO BRASILEIRA LTDA",
+    "dia": "03/08",
+    "desde": "16:22",
+    "ts": 1785784947368
    },
    {
     "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
@@ -165,22 +183,16 @@
     "ts": 1785783062412
    },
    {
-    "grupo": "M.G.S",
-    "dia": "03/08",
-    "desde": "15:17",
-    "ts": 1785781039383
-   },
-   {
-    "grupo": "M.D.D.S.M.D.S x MAXPAR ASSISTENCIA 24H LTDA",
-    "dia": "03/08",
-    "desde": "15:07",
-    "ts": 1785780473251
-   },
-   {
     "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
     "dia": "03/08",
     "desde": "12:52",
     "ts": 1785772367165
+   },
+   {
+    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
+    "dia": "03/08",
+    "desde": "11:53",
+    "ts": 1785768782075
    },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
@@ -259,22 +271,16 @@
     "ts": 1785521853070
    },
    {
+    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
+    "dia": "03/08",
+    "desde": "11:53",
+    "ts": 1785768782075
+   },
+   {
     "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
     "dia": "03/08",
     "desde": "12:52",
     "ts": 1785772367165
-   },
-   {
-    "grupo": "M.D.D.S.M.D.S x MAXPAR ASSISTENCIA 24H LTDA",
-    "dia": "03/08",
-    "desde": "15:07",
-    "ts": 1785780473251
-   },
-   {
-    "grupo": "M.G.S",
-    "dia": "03/08",
-    "desde": "15:17",
-    "ts": 1785781039383
    },
    {
     "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
@@ -287,6 +293,24 @@
     "dia": "03/08",
     "desde": "16:17",
     "ts": 1785784640436
+   },
+   {
+    "grupo": "J.P.D.S x PAES E DOCES LUSO BRASILEIRA LTDA",
+    "dia": "03/08",
+    "desde": "16:22",
+    "ts": 1785784947368
+   },
+   {
+    "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
+    "dia": "03/08",
+    "desde": "16:28",
+    "ts": 1785785289321
+   },
+   {
+    "grupo": "M.G.S",
+    "dia": "03/08",
+    "desde": "16:33",
+    "ts": 1785785605444
    }
   ]
  },
@@ -438,27 +462,27 @@
  },
  "agora": {
   "fila": 252,
-  "abertos": 366,
+  "abertos": 368,
   "com_atendimento": 8,
   "online": 6,
-  "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 919
+  "offline": 3,
+  "ausentes": 0,
+  "espera_media_s": 926
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:48.539Z",
-  "min_sem_lead": 450776
+  "ultimo_lead_at": "2026-07-15T16:56:37.862Z",
+  "min_sem_lead": 27518
  },
  "leads": [
   {
-   "nome": "JULIA",
-   "tel": "5589*****777",
-   "criado": "13:33",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
+   "nome": "Luciana Lambert ⚖️",
+   "tel": "5535*****313",
+   "criado": "10:30",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 14.1,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DaTOs97M2al/",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   },
   {
@@ -470,6 +494,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "JULIA",
+   "tel": "5589*****777",
+   "criado": "13:33",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTOs97M2al/",
    "area": "Nao identificada"
   },
   {
@@ -753,17 +788,6 @@
    "criado": "10:03",
    "atendente": "Julia",
    "espera_min": 0.8,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Dra Luciana Lambert",
-   "tel": "5535*****313",
-   "criado": "10:30",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 14.1,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
