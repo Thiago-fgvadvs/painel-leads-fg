@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 12:44",
+ "gerado_em": "03/08/2026, 12:59",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
-  "no_sla": 21,
+  "total": 33,
+  "no_sla": 25,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 337,
-  "tickets_abertos": 341,
+  "leads_7d": 341,
+  "tickets_abertos": 351,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 26,
+   "leads": 30,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 26,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -41,15 +41,19 @@
    "leads": 5
   },
   {
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "leads": 4
+  },
+  {
    "url": "fb.me/4aByuCBr5",
    "leads": 4
   },
   {
-   "url": "fb.me/cMY7LLYxT",
+   "url": "fb.me/4uJZlRfWK",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "url": "fb.me/cMY7LLYxT",
    "leads": 2
   },
   {
@@ -61,27 +65,23 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DbbUbobMGAY/",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DYVTAskDMJ6/",
+   "url": "www.instagram.com/p/DbY-c_XMHEm/",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
-  "Nao identificada": 14
+  "Nao identificada": 16,
+  "Trabalhista": 17
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 162,
-  "turnos": 392,
+  "turnos": 393,
   "respondidos": 385,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 15,
   "atendentes": [
    {
@@ -132,6 +132,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
+    "dia": "03/08",
+    "desde": "12:52",
+    "ts": 1785772367165
+   },
+   {
     "grupo": "K.K.C.D.S x DAUDT LOGÍSTICA LTDA",
     "dia": "03/08",
     "desde": "11:44",
@@ -177,36 +183,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "filha amor da minha vida",
-    "tel": "5547*****353",
-    "dia": "03/08",
-    "desde": "11:41",
-    "ts": 1785768114909
-   },
-   {
-    "nome": "Taissa 💎",
-    "tel": "5531*****798",
-    "dia": "03/08",
-    "desde": "11:51",
-    "ts": 1785768704846
-   },
-   {
-    "nome": "553899293053",
-    "tel": "5538*****053",
-    "dia": "03/08",
-    "desde": "11:53",
-    "ts": 1785768835467
-   },
-   {
-    "nome": "Renata Lima",
-    "tel": "5511*****830",
-    "dia": "03/08",
-    "desde": "12:22",
-    "ts": 1785770524777
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "M.F.F x INSS",
@@ -249,6 +226,12 @@
     "dia": "03/08",
     "desde": "11:44",
     "ts": 1785768243020
+   },
+   {
+    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
+    "dia": "03/08",
+    "desde": "12:52",
+    "ts": 1785772367165
    }
   ]
  },
@@ -353,19 +336,74 @@
   ]
  },
  "agora": {
-  "fila": 233,
-  "abertos": 341,
+  "fila": 243,
+  "abertos": 351,
   "com_atendimento": 8,
-  "online": 1,
+  "online": 2,
   "offline": 3,
-  "ausentes": 5,
-  "espera_media_s": 975
+  "ausentes": 4,
+  "espera_media_s": 961
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-10T19:36:22.776Z",
-  "min_sem_lead": 34328
+  "ultimo_lead_at": "2025-09-24T18:22:30.837Z",
+  "min_sem_lead": 450577
  },
  "leads": [
+  {
+   "nome": "Jussara Maria Alves Da Cr",
+   "tel": "5541*****019",
+   "criado": "12:46",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "kay",
+   "tel": "5511*****205",
+   "criado": "12:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Lorena e amanda🥰",
+   "tel": "5511*****222",
+   "criado": "12:45",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "filha amor da minha vida",
+   "tel": "5547*****353",
+   "criado": "11:41",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7se00hGXE",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Cleiland Silva",
+   "tel": "5585*****207",
+   "criado": "12:46",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbY-c_XMHEm/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Cristina Souza",
    "tel": "5573*****865",
@@ -419,17 +457,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "filha amor da minha vida",
-   "tel": "5547*****353",
-   "criado": "11:41",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7se00hGXE",
    "area": "Trabalhista"
   },
   {
