@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 16:34",
+ "gerado_em": "03/08/2026, 16:49",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 46,
-  "no_sla": 36,
+  "total": 47,
+  "no_sla": 37,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 354,
-  "tickets_abertos": 368,
+  "leads_7d": 355,
+  "tickets_abertos": 367,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 42,
+   "leads": 43,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 36,
+  "Anuncio": 37,
   "Direto/Indicacao": 10
  },
  "criativos": [
@@ -57,21 +57,21 @@
    "leads": 3
   },
   {
+   "url": "fb.me/6jCO1Dvym",
+   "leads": 2
+  },
+  {
    "url": "fb.me/cMY7LLYxT",
    "leads": 2
   },
   {
    "url": "fb.me/9Pf9FTshS",
    "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DaTOs97M2al/",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 19,
   "Nao identificada": 27,
-  "Trabalhista": 18,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -95,10 +95,10 @@
   "dias": 7,
   "grupos_ativos": 177,
   "turnos": 435,
-  "respondidos": 424,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
-  "mediana_min": 15.2,
+  "respondidos": 427,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 15,
   "atendentes": [
    {
     "nome": "Julia",
@@ -107,8 +107,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 94,
-    "mediana_min": 18.5
+    "respostas": 96,
+    "mediana_min": 17.9
    },
    {
     "nome": "Eduardo",
@@ -122,8 +122,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 19,
-    "mediana_min": 5.8
+    "respostas": 20,
+    "mediana_min": 7.6
    },
    {
     "nome": "Thauany",
@@ -153,12 +153,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.G.S",
-    "dia": "03/08",
-    "desde": "16:33",
-    "ts": 1785785605444
-   },
-   {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
     "dia": "03/08",
     "desde": "16:28",
@@ -171,22 +165,10 @@
     "ts": 1785784640436
    },
    {
-    "grupo": "J.P.D.S x PAES E DOCES LUSO BRASILEIRA LTDA",
-    "dia": "03/08",
-    "desde": "16:22",
-    "ts": 1785784947368
-   },
-   {
     "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
     "dia": "03/08",
     "desde": "15:51",
     "ts": 1785783062412
-   },
-   {
-    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
-    "dia": "03/08",
-    "desde": "12:52",
-    "ts": 1785772367165
    },
    {
     "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
@@ -222,29 +204,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "5521997992457",
-    "tel": "5521*****457",
-    "dia": "03/08",
-    "desde": "13:41",
-    "ts": 1785775280735
-   },
-   {
-    "nome": "5524999731556",
-    "tel": "5524*****556",
-    "dia": "03/08",
-    "desde": "14:41",
-    "ts": 1785778906461
-   },
-   {
-    "nome": "Bárbara",
-    "tel": "5521*****219",
-    "dia": "03/08",
-    "desde": "15:50",
-    "ts": 1785783054022
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "M.F.F x INSS",
@@ -277,12 +237,6 @@
     "ts": 1785768782075
    },
    {
-    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
-    "dia": "03/08",
-    "desde": "12:52",
-    "ts": 1785772367165
-   },
-   {
     "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
     "dia": "03/08",
     "desde": "15:51",
@@ -295,22 +249,10 @@
     "ts": 1785784640436
    },
    {
-    "grupo": "J.P.D.S x PAES E DOCES LUSO BRASILEIRA LTDA",
-    "dia": "03/08",
-    "desde": "16:22",
-    "ts": 1785784947368
-   },
-   {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
     "dia": "03/08",
     "desde": "16:28",
     "ts": 1785785289321
-   },
-   {
-    "grupo": "M.G.S",
-    "dia": "03/08",
-    "desde": "16:33",
-    "ts": 1785785605444
    }
   ]
  },
@@ -461,29 +403,29 @@
   ]
  },
  "agora": {
-  "fila": 252,
-  "abertos": 368,
+  "fila": 253,
+  "abertos": 367,
   "com_atendimento": 8,
-  "online": 6,
+  "online": 4,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 926
+  "ausentes": 2,
+  "espera_media_s": 923
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-15T16:56:37.862Z",
-  "min_sem_lead": 27518
+  "min_sem_lead": 27533
  },
  "leads": [
   {
-   "nome": "Luciana Lambert ⚖️",
-   "tel": "5535*****313",
-   "criado": "10:30",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 14.1,
+   "nome": "553584548181",
+   "tel": "5535*****181",
+   "criado": "16:37",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "origem": "Anuncio",
+   "criativo": "fb.me/6jCO1Dvym",
+   "area": "Trabalhista"
   },
   {
    "nome": "Géssica",
@@ -494,6 +436,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Luciana Lambert ⚖️",
+   "tel": "5535*****313",
+   "criado": "10:30",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 14.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   },
   {
