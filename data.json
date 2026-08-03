@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 12:13",
+ "gerado_em": "03/08/2026, 12:28",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 28,
-  "no_sla": 20,
+  "total": 29,
+  "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 336,
-  "tickets_abertos": 301,
+  "leads_7d": 337,
+  "tickets_abertos": 340,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": 0.4
   },
   {
@@ -33,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 22,
-  "Direto/Indicacao": 6
+  "Direto/Indicacao": 7
  },
  "criativos": [
   {
@@ -45,11 +45,11 @@
    "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "url": "fb.me/cMY7LLYxT",
    "leads": 2
   },
   {
-   "url": "fb.me/cMY7LLYxT",
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 2
   },
   {
@@ -71,13 +71,13 @@
  ],
  "areas": {
   "Trabalhista": 15,
-  "Nao identificada": 13
+  "Nao identificada": 14
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 160,
+  "grupos_ativos": 161,
   "turnos": 392,
   "respondidos": 385,
   "sem_resposta": 7,
@@ -179,20 +179,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Juciane Pereira coelho",
-    "tel": "5563*****753",
-    "dia": "03/08",
-    "desde": "11:28",
-    "ts": 1785767313721
-   },
-   {
-    "nome": "Cristina Souza",
-    "tel": "5573*****865",
-    "dia": "03/08",
-    "desde": "11:29",
-    "ts": 1785767376832
-   },
-   {
     "nome": "filha amor da minha vida",
     "tel": "5547*****353",
     "dia": "03/08",
@@ -212,6 +198,13 @@
     "dia": "03/08",
     "desde": "11:53",
     "ts": 1785768835467
+   },
+   {
+    "nome": "Renata Lima",
+    "tel": "5511*****830",
+    "dia": "03/08",
+    "desde": "12:22",
+    "ts": 1785770524777
    }
   ],
   "grupos": [
@@ -360,8 +353,8 @@
   ]
  },
  "agora": {
-  "fila": 197,
-  "abertos": 301,
+  "fila": 233,
+  "abertos": 340,
   "com_atendimento": 8,
   "online": 3,
   "offline": 2,
@@ -369,8 +362,8 @@
   "espera_media_s": 975
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
-  "min_sem_lead": 133
+  "ultimo_lead_at": "2026-02-26T19:19:06.914Z",
+  "min_sem_lead": 227290
  },
  "leads": [
   {
@@ -379,6 +372,39 @@
    "criado": "10:00",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Renata Lima",
+   "tel": "5511*****830",
+   "criado": "12:22",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Cristina Souza",
+   "tel": "5573*****865",
+   "criado": "11:29",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cMY7LLYxT",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Yoko Totiya",
+   "tel": "5581*****211",
+   "criado": "10:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
@@ -426,28 +452,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Cristina Souza",
-   "tel": "5573*****865",
-   "criado": "11:29",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Yoko Totiya",
-   "tel": "5581*****211",
-   "criado": "10:49",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Trabalhista"
   },
   {
