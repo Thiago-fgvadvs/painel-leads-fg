@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 19:07",
+ "gerado_em": "03/08/2026, 19:22",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 59,
+  "total": 60,
   "no_sla": 46,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 8,
+  "fora_horario": 9,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 367,
-  "tickets_abertos": 376,
+  "leads_7d": 368,
+  "tickets_abertos": 377,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 53,
+   "leads": 54,
    "mediana_min": 0.4
   },
   {
@@ -33,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 47,
-  "Direto/Indicacao": 12
+  "Direto/Indicacao": 13
  },
  "criativos": [
   {
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 35,
+  "Nao identificada": 36,
   "Previdenciario": 2,
   "Trabalhista": 22
  },
@@ -271,6 +271,13 @@
     "dia": "03/08",
     "desde": "19:02",
     "ts": 1785794541982
+   },
+   {
+    "nome": "Gaby",
+    "tel": "5524*****552",
+    "dia": "03/08",
+    "desde": "19:20",
+    "ts": 1785795654850
    }
   ],
   "grupos": [
@@ -489,19 +496,30 @@
   ]
  },
  "agora": {
-  "fila": 260,
-  "abertos": 376,
+  "fila": 261,
+  "abertos": 377,
   "com_atendimento": 8,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 897
+  "espera_media_s": 894
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T18:46:31.678Z",
-  "min_sem_lead": 201
+  "ultimo_lead_at": "2026-07-30T02:30:27.608Z",
+  "min_sem_lead": 6952
  },
  "leads": [
+  {
+   "nome": "Gaby",
+   "tel": "5524*****552",
+   "criado": "19:20",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Géssica",
    "tel": "5548*****133",
