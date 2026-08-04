@@ -1,23 +1,23 @@
 {
- "gerado_em": "04/08/2026, 17:07",
+ "gerado_em": "04/08/2026, 17:23",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 45,
-  "no_sla": 40,
+  "total": 46,
+  "no_sla": 41,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 377,
-  "tickets_abertos": 368,
+  "leads_7d": 378,
+  "tickets_abertos": 369,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 43,
+   "leads": 44,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 40,
+  "Anuncio": 41,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -40,15 +40,15 @@
    "leads": 4
   },
   {
+   "url": "www.instagram.com/p/DbZCDVWMSej/",
+   "leads": 4
+  },
+  {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 4
   },
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
-   "leads": 3
-  },
-  {
-   "url": "www.instagram.com/p/DbZCDVWMSej/",
    "leads": 3
   },
   {
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 20,
+  "Nao identificada": 21,
   "Trabalhista": 23,
   "Previdenciario": 2
  },
@@ -74,11 +74,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 193,
-  "turnos": 462,
-  "respondidos": 454,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 19.4,
+  "turnos": 467,
+  "respondidos": 458,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 19.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -121,17 +121,23 @@
     "mediana_min": 13
    },
    {
+    "nome": "Tiago Bernardo",
+    "respostas": 9,
+    "mediana_min": 193.7
+   },
+   {
     "nome": "Roseli",
     "respostas": 7,
     "mediana_min": 14
-   },
-   {
-    "nome": "Tiago Bernardo",
-    "respostas": 5,
-    "mediana_min": 193.7
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "F.P.L",
+    "dia": "04/08",
+    "desde": "17:21",
+    "ts": 1785874896096
+   },
    {
     "grupo": "V.F.D.S x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA.",
     "dia": "04/08",
@@ -185,20 +191,6 @@
  "pendencias": {
   "dias": 7,
   "leads": [
-   {
-    "nome": "✨Géssica ( Faxina )💚🕖",
-    "tel": "5581*****423",
-    "dia": "04/08",
-    "desde": "14:21",
-    "ts": 1785864106341
-   },
-   {
-    "nome": "Gilvan",
-    "tel": "5581*****402",
-    "dia": "04/08",
-    "desde": "14:24",
-    "ts": 1785864259169
-   },
    {
     "nome": "nenen",
     "tel": "5583*****781",
@@ -262,18 +254,33 @@
     "dia": "04/08",
     "desde": "16:17",
     "ts": 1785871079127
+   },
+   {
+    "grupo": "F.P.L",
+    "dia": "04/08",
+    "desde": "17:21",
+    "ts": 1785874896096
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 10,
+  "total": 11,
   "por_vendedor": {
-   "Roseli": 3,
+   "Roseli": 4,
    "Eduardo": 3,
    "Tiago Bernardo": 4
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "G",
+    "dia": "04/08",
+    "hora": "17:09",
+    "ts": 1785874190415,
+    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "R.P.D.S",
@@ -367,17 +374,17 @@
   ]
  },
  "agora": {
-  "fila": 244,
-  "abertos": 368,
+  "fila": 245,
+  "abertos": 369,
   "com_atendimento": 8,
   "online": 5,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 2366
+  "espera_media_s": 2358
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T18:46:31.678Z",
-  "min_sem_lead": 1521
+  "ultimo_lead_at": "2026-08-04T19:15:31.825Z",
+  "min_sem_lead": 68
  },
  "leads": [
   {
@@ -392,6 +399,17 @@
    "area": "Nao identificada"
   },
   {
+   "nome": "Natasha Reis 🧚🏼‍♀️",
+   "tel": "5511*****412",
+   "criado": "16:01",
+   "atendente": "Eduardo",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
    "nome": "🥰💞",
    "tel": "5531*****815",
    "criado": "16:13",
@@ -401,6 +419,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "jhe🫨",
+   "tel": "5583*****760",
+   "criado": "17:10",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZCDVWMSej/",
+   "area": "Nao identificada"
   },
   {
    "nome": "Ricardo Gabriel",
@@ -473,17 +502,6 @@
    "tel": "5511*****360",
    "criado": "16:06",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "NATASHA REIS",
-   "tel": "5511*****412",
-   "criado": "16:01",
-   "atendente": "Eduardo",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
