@@ -1,23 +1,23 @@
 {
- "gerado_em": "04/08/2026, 18:39",
+ "gerado_em": "04/08/2026, 18:55",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 50,
-  "no_sla": 44,
+  "total": 53,
+  "no_sla": 47,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 382,
-  "tickets_abertos": 375,
+  "leads_7d": 385,
+  "tickets_abertos": 378,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 47,
+   "leads": 50,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 44,
-  "Direto/Indicacao": 6
+  "Anuncio": 46,
+  "Direto/Indicacao": 7
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
    "leads": 11
+  },
+  {
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 4
   },
   {
    "url": "www.instagram.com/p/DYVTrh4jJ4e/",
@@ -46,10 +50,6 @@
   {
    "url": "www.instagram.com/p/DbZCDVWMSej/",
    "leads": 4
-  },
-  {
-   "url": "www.instagram.com/p/DYhcT7SDBWR/",
-   "leads": 3
   },
   {
    "url": "fb.me/4aByuCBr5",
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 26,
+  "Trabalhista": 29,
   "Nao identificada": 22,
   "Previdenciario": 2
  },
@@ -73,7 +73,7 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 193,
+  "grupos_ativos": 194,
   "turnos": 477,
   "respondidos": 466,
   "sem_resposta": 11,
@@ -204,11 +204,39 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Ze",
-    "tel": "5582*****764",
+    "nome": "nenen",
+    "tel": "5583*****781",
     "dia": "04/08",
-    "desde": "18:06",
-    "ts": 1785877614910
+    "desde": "15:04",
+    "ts": 1785866657475
+   },
+   {
+    "nome": "Emilly Sofia 🌹🖤",
+    "tel": "5592*****736",
+    "dia": "04/08",
+    "desde": "15:22",
+    "ts": 1785867729468
+   },
+   {
+    "nome": "Gabi",
+    "tel": "5511*****360",
+    "dia": "04/08",
+    "desde": "16:06",
+    "ts": 1785870383482
+   },
+   {
+    "nome": "Iza💋",
+    "tel": "5511*****987",
+    "dia": "04/08",
+    "desde": "16:09",
+    "ts": 1785870556672
+   },
+   {
+    "nome": "vertussophonie93",
+    "tel": "5547*****514",
+    "dia": "04/08",
+    "desde": "16:22",
+    "ts": 1785871369988
    }
   ],
   "grupos": [
@@ -391,19 +419,52 @@
   ]
  },
  "agora": {
-  "fila": 249,
-  "abertos": 375,
+  "fila": 252,
+  "abertos": 378,
   "com_atendimento": 7,
   "online": 3,
   "offline": 6,
   "ausentes": 0,
-  "espera_media_s": 2335
+  "espera_media_s": 2311
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T12:42:34.217Z",
-  "min_sem_lead": 1977
+  "ultimo_lead_at": "2026-08-03T15:46:17.349Z",
+  "min_sem_lead": 1809
  },
  "leads": [
+  {
+   "nome": "553288030434",
+   "tel": "5532*****434",
+   "criado": "18:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7eujWRvzx",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "❤️Martinha🌻",
+   "tel": "5527*****941",
+   "criado": "18:52",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ieda",
+   "tel": "5519*****073",
+   "criado": "18:52",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "555391226822",
    "tel": "5553*****822",
