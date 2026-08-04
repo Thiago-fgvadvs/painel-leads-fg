@@ -1,23 +1,23 @@
 {
- "gerado_em": "04/08/2026, 17:38",
+ "gerado_em": "04/08/2026, 17:53",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 46,
-  "no_sla": 41,
+  "total": 47,
+  "no_sla": 42,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 378,
-  "tickets_abertos": 371,
+  "leads_7d": 379,
+  "tickets_abertos": 373,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 44,
+   "leads": 45,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 41,
+  "Anuncio": 42,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 10
+   "leads": 11
   },
   {
    "url": "fb.me/4uJZlRfWK",
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
+  "Trabalhista": 24,
   "Nao identificada": 21,
-  "Trabalhista": 23,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -74,8 +74,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 193,
-  "turnos": 471,
-  "respondidos": 460,
+  "turnos": 475,
+  "respondidos": 464,
   "sem_resposta": 11,
   "sem_resposta_grupos": 11,
   "mediana_min": 19.6,
@@ -87,8 +87,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 118,
-    "mediana_min": 49.2
+    "respostas": 122,
+    "mediana_min": 47
    },
    {
     "nome": "Gabrielle",
@@ -133,16 +133,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
+    "dia": "04/08",
+    "desde": "17:42",
+    "ts": 1785876141288
+   },
+   {
     "grupo": "S.A.D.H x ALICE'S BAR LTDA",
     "dia": "04/08",
     "desde": "17:37",
     "ts": 1785875857195
-   },
-   {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
-    "dia": "04/08",
-    "desde": "13:44",
-    "ts": 1785861899918
    },
    {
     "grupo": "F.P.L",
@@ -209,6 +209,13 @@
     "dia": "04/08",
     "desde": "17:10",
     "ts": 1785874223649
+   },
+   {
+    "nome": "Gesa",
+    "tel": "5548*****986",
+    "dia": "04/08",
+    "desde": "17:46",
+    "ts": 1785876393741
    }
   ],
   "grupos": [
@@ -229,12 +236,6 @@
     "dia": "03/08",
     "desde": "19:30",
     "ts": 1785796248452
-   },
-   {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
-    "dia": "04/08",
-    "desde": "13:44",
-    "ts": 1785861899918
    },
    {
     "grupo": "I.A.S x UMANA BRASIL - ASSESSORIA E CONSULTORIA DE RECURSOS HUMANOS LTDA",
@@ -277,6 +278,12 @@
     "dia": "04/08",
     "desde": "17:37",
     "ts": 1785875857195
+   },
+   {
+    "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
+    "dia": "04/08",
+    "desde": "17:42",
+    "ts": 1785876141288
    }
   ]
  },
@@ -391,19 +398,41 @@
   ]
  },
  "agora": {
-  "fila": 246,
-  "abertos": 371,
+  "fila": 247,
+  "abertos": 373,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 3,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 2358
+  "ausentes": 3,
+  "espera_media_s": 2350
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T12:42:34.217Z",
-  "min_sem_lead": 1916
+  "ultimo_lead_at": "2026-08-04T20:46:33.741Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "Gesa",
+   "tel": "5548*****986",
+   "criado": "17:46",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "🥰💞",
+   "tel": "5531*****815",
+   "criado": "16:13",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "LIi💞💕",
    "tel": "5514*****597",
@@ -435,17 +464,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "🥰💞",
-   "tel": "5531*****815",
-   "criado": "16:13",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
   },
   {
