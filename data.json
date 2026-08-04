@@ -1,28 +1,28 @@
 {
- "gerado_em": "04/08/2026, 09:29",
+ "gerado_em": "04/08/2026, 09:44",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 3,
+  "total": 10,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 340,
-  "tickets_abertos": 405,
+  "leads_7d": 342,
+  "tickets_abertos": 407,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 7,
+   "leads": 9,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 8,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -35,21 +35,29 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DbZCDVWMSej/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/6HJ2NfB5G",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 3,
-  "Nao identificada": 5
+  "Trabalhista": 4,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 175,
-  "turnos": 378,
-  "respondidos": 365,
+  "turnos": 380,
+  "respondidos": 367,
   "sem_resposta": 13,
   "sem_resposta_grupos": 13,
   "mediana_min": 15.3,
@@ -61,7 +69,7 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 84,
+    "respostas": 86,
     "mediana_min": 18.6
    },
    {
@@ -188,7 +196,22 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "558396996306",
+    "tel": "5583*****306",
+    "dia": "04/08",
+    "desde": "09:30",
+    "ts": 1785846634770
+   },
+   {
+    "nome": "554497035911",
+    "tel": "5544*****911",
+    "dia": "04/08",
+    "desde": "09:38",
+    "ts": 1785847088504
+   }
+  ],
   "grupos": [
    {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
@@ -372,19 +395,41 @@
   ]
  },
  "agora": {
-  "fila": 289,
-  "abertos": 405,
+  "fila": 291,
+  "abertos": 407,
   "com_atendimento": 8,
-  "online": 2,
-  "offline": 7,
+  "online": 5,
+  "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 816
+  "espera_media_s": 811
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-23T16:18:58.485Z",
-  "min_sem_lead": 17050
+  "ultimo_lead_at": "2026-08-03T18:50:54.022Z",
+  "min_sem_lead": 1073
  },
  "leads": [
+  {
+   "nome": "554497035911",
+   "tel": "5544*****911",
+   "criado": "09:38",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZCDVWMSej/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558396996306",
+   "tel": "5583*****306",
+   "criado": "09:30",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6HJ2NfB5G",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Elma Soares",
    "tel": "5548*****465",
