@@ -1,5 +1,5 @@
 {
- "gerado_em": "04/08/2026, 14:34",
+ "gerado_em": "04/08/2026, 14:49",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 365,
-  "tickets_abertos": 355,
+  "tickets_abertos": 356,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,20 +60,20 @@
   }
  ],
  "areas": {
+  "Previdenciario": 2,
   "Trabalhista": 16,
-  "Nao identificada": 16,
-  "Previdenciario": 1
+  "Nao identificada": 15
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 181,
-  "turnos": 430,
-  "respondidos": 424,
+  "turnos": 433,
+  "respondidos": 427,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 19,
+  "mediana_min": 19.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -82,8 +82,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 104,
-    "mediana_min": 45.7
+    "respostas": 107,
+    "mediana_min": 51
    },
    {
     "nome": "Gabrielle",
@@ -218,7 +218,7 @@
     "ts": 1785863480220
    },
    {
-    "nome": "558195836423",
+    "nome": "✨Géssica ( Faxina )💚🕖",
     "tel": "5581*****423",
     "dia": "04/08",
     "desde": "14:21",
@@ -232,7 +232,7 @@
     "ts": 1785864259169
    },
    {
-    "nome": "553491631122",
+    "nome": "Andressa Peres",
     "tel": "5534*****122",
     "dia": "04/08",
     "desde": "14:29",
@@ -380,21 +380,32 @@
   ]
  },
  "agora": {
-  "fila": 235,
-  "abertos": 355,
+  "fila": 236,
+  "abertos": 356,
   "com_atendimento": 8,
-  "online": 3,
-  "offline": 6,
+  "online": 4,
+  "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 2475
+  "espera_media_s": 2466
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T18:46:31.678Z",
-  "min_sem_lead": 1368
+  "ultimo_lead_at": "2026-07-28T15:59:49.229Z",
+  "min_sem_lead": 10190
  },
  "leads": [
   {
-   "nome": "553491631122",
+   "nome": "✨Géssica ( Faxina )💚🕖",
+   "tel": "5581*****423",
+   "criado": "14:21",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Andressa Peres",
    "tel": "5534*****122",
    "criado": "14:29",
    "atendente": "Fernanda Gehm - Administradora",
@@ -424,17 +435,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/gp4PFLi6F",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "558195836423",
-   "tel": "5581*****423",
-   "criado": "14:21",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Nao identificada"
   },
   {
