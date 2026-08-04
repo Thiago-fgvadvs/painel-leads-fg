@@ -1,17 +1,17 @@
 {
- "gerado_em": "04/08/2026, 15:51",
+ "gerado_em": "04/08/2026, 16:06",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 36,
-  "no_sla": 31,
+  "total": 37,
+  "no_sla": 32,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 368,
-  "tickets_abertos": 359,
+  "leads_7d": 370,
+  "tickets_abertos": 361,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "Fernanda Gehm - Administradora",
    "leads": 35,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Eduardo",
+   "leads": 1,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 33,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -60,8 +65,8 @@
   }
  ],
  "areas": {
+  "Nao identificada": 16,
   "Trabalhista": 19,
-  "Nao identificada": 15,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -69,10 +74,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 193,
-  "turnos": 444,
-  "respondidos": 436,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "turnos": 446,
+  "respondidos": 437,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 19.6,
   "atendentes": [
    {
@@ -82,8 +87,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 112,
-    "mediana_min": 49.2
+    "respostas": 113,
+    "mediana_min": 47.3
    },
    {
     "nome": "Gabrielle",
@@ -127,6 +132,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "F.P.L",
+    "dia": "04/08",
+    "desde": "16:01",
+    "ts": 1785870072094
+   },
    {
     "grupo": "A.J.C",
     "dia": "04/08",
@@ -180,13 +191,6 @@
  "pendencias": {
   "dias": 7,
   "leads": [
-   {
-    "nome": "553496739057",
-    "tel": "5534*****057",
-    "dia": "04/08",
-    "desde": "13:48",
-    "ts": 1785862130888
-   },
    {
     "nome": "Pah Larissa .🙂‍↔️",
     "tel": "5531*****701",
@@ -242,6 +246,20 @@
     "dia": "04/08",
     "desde": "15:22",
     "ts": 1785867729468
+   },
+   {
+    "nome": "NATASHA REIS",
+    "tel": "5511*****412",
+    "dia": "04/08",
+    "desde": "16:01",
+    "ts": 1785870081776
+   },
+   {
+    "nome": "5511971779360",
+    "tel": "5511*****360",
+    "dia": "04/08",
+    "desde": "16:06",
+    "ts": 1785870383482
    }
   ],
   "grupos": [
@@ -292,6 +310,12 @@
     "dia": "04/08",
     "desde": "15:45",
     "ts": 1785869105073
+   },
+   {
+    "grupo": "F.P.L",
+    "dia": "04/08",
+    "desde": "16:01",
+    "ts": 1785870072094
    }
   ]
  },
@@ -397,8 +421,8 @@
   ]
  },
  "agora": {
-  "fila": 235,
-  "abertos": 359,
+  "fila": 236,
+  "abertos": 361,
   "com_atendimento": 8,
   "online": 4,
   "offline": 3,
@@ -406,10 +430,32 @@
   "espera_media_s": 2432
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-09T00:31:40.655Z",
-  "min_sem_lead": 81739
+  "ultimo_lead_at": "2026-08-04T19:06:23.482Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "NATASHA REIS",
+   "tel": "5511*****412",
+   "criado": "16:01",
+   "atendente": "Eduardo",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Lary",
+   "tel": "5535*****771",
+   "criado": "14:58",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Andressa Peres",
    "tel": "5534*****122",
@@ -441,17 +487,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Lary",
-   "tel": "5535*****771",
-   "criado": "14:58",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
   },
   {
