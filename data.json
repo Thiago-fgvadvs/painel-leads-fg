@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 20:54",
+ "gerado_em": "03/08/2026, 21:10",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 65,
+  "total": 67,
   "no_sla": 46,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 14,
+  "fora_horario": 16,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 373,
-  "tickets_abertos": 382,
+  "leads_7d": 375,
+  "tickets_abertos": 384,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 59,
+   "leads": 61,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 52,
+  "Anuncio": 54,
   "Direto/Indicacao": 13
  },
  "criativos": [
@@ -57,22 +57,22 @@
    "leads": 4
   },
   {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 3
+  },
+  {
    "url": "fb.me/cMY7LLYxT",
    "leads": 3
   },
   {
    "url": "www.instagram.com/p/DbZCDVWMSej/",
    "leads": 3
-  },
-  {
-   "url": "fb.me/6jCO1Dvym",
-   "leads": 2
   }
  ],
  "areas": {
-  "Nao identificada": 38,
-  "Trabalhista": 25,
-  "Previdenciario": 2
+  "Previdenciario": 3,
+  "Nao identificada": 39,
+  "Trabalhista": 25
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -463,19 +463,41 @@
   ]
  },
  "agora": {
-  "fila": 266,
-  "abertos": 382,
+  "fila": 268,
+  "abertos": 384,
   "com_atendimento": 8,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 879
+  "espera_media_s": 873
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T23:30:41.487Z",
-  "min_sem_lead": 24
+  "ultimo_lead_at": "2026-08-03T23:58:04.813Z",
+  "min_sem_lead": 12
  },
  "leads": [
+  {
+   "nome": "Luana Salerno",
+   "tel": "5521*****990",
+   "criado": "20:58",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "5535920037966",
+   "tel": "5535*****966",
+   "criado": "20:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "555193198947",
    "tel": "5551*****947",
