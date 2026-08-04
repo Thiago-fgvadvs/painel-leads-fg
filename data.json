@@ -1,28 +1,28 @@
 {
- "gerado_em": "04/08/2026, 10:15",
+ "gerado_em": "04/08/2026, 10:30",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
-  "no_sla": 8,
+  "total": 15,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 345,
-  "tickets_abertos": 412,
+  "leads_7d": 347,
+  "tickets_abertos": 414,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 12,
+   "leads": 14,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 12,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -39,6 +39,14 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/6HJ2NfB5G",
    "leads": 1
   },
@@ -48,30 +56,30 @@
   }
  ],
  "areas": {
-  "Previdenciario": 1,
-  "Nao identificada": 7,
-  "Trabalhista": 5
+  "Trabalhista": 6,
+  "Nao identificada": 8,
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 175,
-  "turnos": 386,
-  "respondidos": 375,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "turnos": 393,
+  "respondidos": 380,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
   "mediana_min": 16,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 184,
-    "mediana_min": 19.9
+    "respostas": 187,
+    "mediana_min": 19.6
    },
    {
     "nome": "Nicolas",
-    "respostas": 90,
-    "mediana_min": 22.2
+    "respostas": 91,
+    "mediana_min": 22.9
    },
    {
     "nome": "Luisa",
@@ -85,8 +93,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 19,
-    "mediana_min": 9.4
+    "respostas": 20,
+    "mediana_min": 9.3
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -116,16 +124,28 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "D.D.A.F x ITAU",
+    "grupo": "W.M.D.O x SENDAS",
     "dia": "04/08",
-    "desde": "09:55",
-    "ts": 1785848109687
+    "desde": "10:23",
+    "ts": 1785849806886
    },
    {
-    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
+    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
     "dia": "04/08",
-    "desde": "06:51",
-    "ts": 1785837064655
+    "desde": "10:24",
+    "ts": 1785849842891
+   },
+   {
+    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
+    "dia": "03/08",
+    "desde": "12:34",
+    "ts": 1785771281118
+   },
+   {
+    "grupo": "F.C.R x EBAZAR.COM.BR. LTDA",
+    "dia": "04/08",
+    "desde": "10:10",
+    "ts": 1785849009705
    },
    {
     "grupo": "J.S.B x ULTRAOBRA LTDA",
@@ -187,13 +207,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "558396996306",
-    "tel": "5583*****306",
-    "dia": "04/08",
-    "desde": "09:30",
-    "ts": 1785846634770
-   },
-   {
     "nome": "554497035911",
     "tel": "5544*****911",
     "dia": "04/08",
@@ -220,6 +233,20 @@
     "dia": "04/08",
     "desde": "09:55",
     "ts": 1785848138887
+   },
+   {
+    "nome": "😘😘😘😘",
+    "tel": "5531*****717",
+    "dia": "04/08",
+    "desde": "10:18",
+    "ts": 1785849534502
+   },
+   {
+    "nome": "Wilza Batista",
+    "tel": "5561*****810",
+    "dia": "04/08",
+    "desde": "10:18",
+    "ts": 1785849535629
    }
   ],
   "grupos": [
@@ -246,6 +273,12 @@
     "dia": "31/07",
     "desde": "21:59",
     "ts": 1785545944326
+   },
+   {
+    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
+    "dia": "03/08",
+    "desde": "12:34",
+    "ts": 1785771281118
    },
    {
     "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
@@ -278,16 +311,22 @@
     "ts": 1785810742617
    },
    {
-    "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
+    "grupo": "F.C.R x EBAZAR.COM.BR. LTDA",
     "dia": "04/08",
-    "desde": "06:51",
-    "ts": 1785837064655
+    "desde": "10:10",
+    "ts": 1785849009705
    },
    {
-    "grupo": "D.D.A.F x ITAU",
+    "grupo": "W.M.D.O x SENDAS",
     "dia": "04/08",
-    "desde": "09:55",
-    "ts": 1785848109687
+    "desde": "10:23",
+    "ts": 1785849806886
+   },
+   {
+    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
+    "dia": "04/08",
+    "desde": "10:24",
+    "ts": 1785849842891
    }
   ]
  },
@@ -393,19 +432,41 @@
   ]
  },
  "agora": {
-  "fila": 295,
-  "abertos": 412,
+  "fila": 296,
+  "abertos": 414,
   "com_atendimento": 8,
-  "online": 4,
-  "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 802
+  "online": 6,
+  "offline": 1,
+  "ausentes": 2,
+  "espera_media_s": 797
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T12:51:22.793Z",
-  "min_sem_lead": 24
+  "ultimo_lead_at": "2026-08-03T20:29:50.742Z",
+  "min_sem_lead": 1020
  },
  "leads": [
+  {
+   "nome": "Wilza Batista",
+   "tel": "5561*****810",
+   "criado": "10:18",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "😘😘😘😘",
+   "tel": "5531*****717",
+   "criado": "10:18",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "553298657695",
    "tel": "5532*****695",
