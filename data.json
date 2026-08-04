@@ -1,5 +1,5 @@
 {
- "gerado_em": "04/08/2026, 10:45",
+ "gerado_em": "04/08/2026, 11:01",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 350,
-  "tickets_abertos": 406,
+  "tickets_abertos": 378,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,29 +60,29 @@
   }
  ],
  "areas": {
-  "Nao identificada": 10,
   "Trabalhista": 7,
+  "Nao identificada": 10,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 175,
-  "turnos": 394,
-  "respondidos": 382,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 16.4,
+  "grupos_ativos": 176,
+  "turnos": 398,
+  "respondidos": 388,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 17.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 187,
-    "mediana_min": 19.6
+    "respostas": 191,
+    "mediana_min": 20.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 93,
+    "respostas": 95,
     "mediana_min": 26.6
    },
    {
@@ -128,34 +128,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "W.M.D.O x SENDAS",
-    "dia": "04/08",
-    "desde": "10:23",
-    "ts": 1785849806886
-   },
-   {
     "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
     "dia": "04/08",
     "desde": "10:24",
     "ts": 1785849842891
    },
    {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
-    "dia": "03/08",
-    "desde": "12:34",
-    "ts": 1785771281118
+    "grupo": "W.M.D.O x SENDAS",
+    "dia": "04/08",
+    "desde": "10:23",
+    "ts": 1785849806886
    },
    {
     "grupo": "J.S.B x ULTRAOBRA LTDA",
     "dia": "03/08",
     "desde": "19:30",
     "ts": 1785796248452
-   },
-   {
-    "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
-    "dia": "03/08",
-    "desde": "23:32",
-    "ts": 1785810742617
    },
    {
     "grupo": "L.O.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
@@ -203,29 +191,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "tayna e Ryan  ❤💙",
-    "tel": "5531*****197",
-    "dia": "04/08",
-    "desde": "10:36",
-    "ts": 1785850619683
-   },
-   {
-    "nome": "Ivaldo",
-    "tel": "5582*****673",
-    "dia": "04/08",
-    "desde": "10:37",
-    "ts": 1785850661633
-   },
-   {
-    "nome": "554197515011",
-    "tel": "5541*****011",
-    "dia": "04/08",
-    "desde": "10:43",
-    "ts": 1785851030739
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
@@ -252,12 +218,6 @@
     "ts": 1785545944326
    },
    {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
-    "dia": "03/08",
-    "desde": "12:34",
-    "ts": 1785771281118
-   },
-   {
     "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
     "dia": "03/08",
     "desde": "16:17",
@@ -280,12 +240,6 @@
     "dia": "03/08",
     "desde": "19:30",
     "ts": 1785796248452
-   },
-   {
-    "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
-    "dia": "03/08",
-    "desde": "23:32",
-    "ts": 1785810742617
    },
    {
     "grupo": "W.M.D.O x SENDAS",
@@ -403,19 +357,30 @@
   ]
  },
  "agora": {
-  "fila": 287,
-  "abertos": 406,
-  "com_atendimento": 8,
-  "online": 5,
+  "fila": 259,
+  "abertos": 378,
+  "com_atendimento": 7,
+  "online": 4,
   "offline": 0,
-  "ausentes": 4,
-  "espera_media_s": 1854
+  "ausentes": 5,
+  "espera_media_s": 2017
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T15:53:24.271Z",
-  "min_sem_lead": 5632
+  "ultimo_lead_at": "2026-07-31T20:15:34.610Z",
+  "min_sem_lead": 5385
  },
  "leads": [
+  {
+   "nome": "tayna e Ryan  ❤💙",
+   "tel": "5531*****197",
+   "criado": "10:36",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "554197515011",
    "tel": "5541*****011",
@@ -437,17 +402,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/gp4PFLi6F",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "tayna e Ryan  ❤💙",
-   "tel": "5531*****197",
-   "criado": "10:36",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Wilza Batista",
