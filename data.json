@@ -1,5 +1,5 @@
 {
- "gerado_em": "04/08/2026, 16:52",
+ "gerado_em": "04/08/2026, 17:07",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 377,
-  "tickets_abertos": 369,
+  "tickets_abertos": 368,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -74,16 +74,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 193,
-  "turnos": 460,
-  "respondidos": 451,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 19.5,
+  "turnos": 462,
+  "respondidos": 454,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 19.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 199,
-    "mediana_min": 20.2
+    "respostas": 200,
+    "mediana_min": 20.3
    },
    {
     "nome": "Nicolas",
@@ -92,8 +92,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 37,
-    "mediana_min": 6.2
+    "respostas": 39,
+    "mediana_min": 5.6
    },
    {
     "nome": "Luisa",
@@ -145,12 +145,6 @@
     "ts": 1785869105073
    },
    {
-    "grupo": "E.A.D.J x GR SEGURANCA LTDA",
-    "dia": "04/08",
-    "desde": "15:32",
-    "ts": 1785868321177
-   },
-   {
     "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
     "dia": "04/08",
     "desde": "15:14",
@@ -192,34 +186,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Ana Cludia",
-    "tel": "5591*****892",
-    "dia": "04/08",
-    "desde": "12:47",
-    "ts": 1785858457003
-   },
-   {
-    "nome": "Edson",
-    "tel": "5532*****572",
-    "dia": "04/08",
-    "desde": "13:28",
-    "ts": 1785860891737
-   },
-   {
-    "nome": "☯️☪️🕉️",
-    "tel": "5534*****057",
-    "dia": "04/08",
-    "desde": "13:48",
-    "ts": 1785862130888
-   },
-   {
-    "nome": "Pah Larissa .🙂‍↔️",
-    "tel": "5531*****701",
-    "dia": "04/08",
-    "desde": "13:56",
-    "ts": 1785862576364
-   },
-   {
     "nome": "✨Géssica ( Faxina )💚🕖",
     "tel": "5581*****423",
     "dia": "04/08",
@@ -239,6 +205,13 @@
     "dia": "04/08",
     "desde": "15:04",
     "ts": 1785866657475
+   },
+   {
+    "nome": "Emilly Sofia 🌹🖤",
+    "tel": "5592*****736",
+    "dia": "04/08",
+    "desde": "15:22",
+    "ts": 1785867729468
    }
   ],
   "grupos": [
@@ -277,12 +250,6 @@
     "dia": "04/08",
     "desde": "15:14",
     "ts": 1785867295050
-   },
-   {
-    "grupo": "E.A.D.J x GR SEGURANCA LTDA",
-    "dia": "04/08",
-    "desde": "15:32",
-    "ts": 1785868321177
    },
    {
     "grupo": "A.J.C",
@@ -400,8 +367,8 @@
   ]
  },
  "agora": {
-  "fila": 245,
-  "abertos": 369,
+  "fila": 244,
+  "abertos": 368,
   "com_atendimento": 8,
   "online": 5,
   "offline": 3,
@@ -409,21 +376,10 @@
   "espera_media_s": 2366
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T19:38:21.602Z",
-  "min_sem_lead": 14
+  "ultimo_lead_at": "2026-08-03T18:46:31.678Z",
+  "min_sem_lead": 1521
  },
  "leads": [
-  {
-   "nome": "Ricardo Gabriel",
-   "tel": "5514*****116",
-   "criado": "16:38",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7vEH579Vm",
-   "area": "Nao identificada"
-  },
   {
    "nome": "LIi💞💕",
    "tel": "5514*****597",
@@ -445,6 +401,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Ricardo Gabriel",
+   "tel": "5514*****116",
+   "criado": "16:38",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7vEH579Vm",
+   "area": "Nao identificada"
   },
   {
    "nome": "Ana Paula",
