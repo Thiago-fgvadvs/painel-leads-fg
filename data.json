@@ -1,17 +1,17 @@
 {
- "gerado_em": "04/08/2026, 09:13",
+ "gerado_em": "04/08/2026, 09:29",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
+  "total": 8,
   "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 339,
-  "tickets_abertos": 403,
+  "leads_7d": 340,
+  "tickets_abertos": 405,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 6,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -41,7 +41,7 @@
  ],
  "areas": {
   "Trabalhista": 3,
-  "Nao identificada": 4
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -372,17 +372,17 @@
   ]
  },
  "agora": {
-  "fila": 287,
-  "abertos": 403,
+  "fila": 289,
+  "abertos": 405,
   "com_atendimento": 8,
-  "online": 1,
-  "offline": 8,
+  "online": 2,
+  "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 821
+  "espera_media_s": 816
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T10:49:02.885Z",
-  "min_sem_lead": 85
+  "ultimo_lead_at": "2026-07-23T16:18:58.485Z",
+  "min_sem_lead": 17050
  },
  "leads": [
   {
@@ -460,6 +460,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Jeyciele Almeida",
+   "tel": "5531*****238",
+   "criado": "09:15",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
