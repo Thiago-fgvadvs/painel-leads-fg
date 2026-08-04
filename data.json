@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 21:40",
+ "gerado_em": "03/08/2026, 21:56",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 68,
+  "total": 69,
   "no_sla": 46,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 17,
+  "fora_horario": 18,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 376,
-  "tickets_abertos": 385,
+  "leads_7d": 377,
+  "tickets_abertos": 386,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 62,
+   "leads": 63,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 55,
+  "Anuncio": 56,
   "Direto/Indicacao": 13
  },
  "criativos": [
@@ -53,6 +53,10 @@
    "leads": 6
   },
   {
+   "url": "www.instagram.com/p/DbZCDVWMSej/",
+   "leads": 4
+  },
+  {
    "url": "fb.me/9Pf9FTshS",
    "leads": 4
   },
@@ -63,15 +67,11 @@
   {
    "url": "fb.me/cMY7LLYxT",
    "leads": 3
-  },
-  {
-   "url": "www.instagram.com/p/DbZCDVWMSej/",
-   "leads": 3
   }
  ],
  "areas": {
-  "Nao identificada": 40,
   "Previdenciario": 3,
+  "Nao identificada": 41,
   "Trabalhista": 25
  },
  "sem_resposta_lista": [],
@@ -463,19 +463,41 @@
   ]
  },
  "agora": {
-  "fila": 269,
-  "abertos": 385,
+  "fila": 270,
+  "abertos": 386,
   "com_atendimento": 8,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 871
+  "espera_media_s": 868
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T00:32:36.490Z",
-  "min_sem_lead": 8
+  "ultimo_lead_at": "2026-08-03T23:58:04.813Z",
+  "min_sem_lead": 58
  },
  "leads": [
+  {
+   "nome": "Luana Salerno",
+   "tel": "5521*****990",
+   "criado": "20:58",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "5511989996095",
+   "tel": "5511*****095",
+   "criado": "21:48",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZCDVWMSej/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "5511982899551",
    "tel": "5511*****551",
@@ -488,14 +510,14 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Luana Salerno",
-   "tel": "5521*****990",
-   "criado": "20:58",
+   "nome": "Sonia Talarico Talarico",
+   "tel": "5544*****417",
+   "criado": "17:29",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
-   "status": "FORA_HORARIO",
+   "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "criativo": "fb.me/cMY7LLYxT",
    "area": "Previdenciario"
   },
   {
@@ -607,17 +629,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Sonia Talarico Talarico",
-   "tel": "5544*****417",
-   "criado": "17:29",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/cMY7LLYxT",
-   "area": "Previdenciario"
   },
   {
    "nome": "554891672787",
