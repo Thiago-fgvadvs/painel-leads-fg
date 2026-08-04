@@ -1,17 +1,17 @@
 {
- "gerado_em": "04/08/2026, 18:55",
+ "gerado_em": "04/08/2026, 19:10",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 53,
+  "total": 54,
   "no_sla": 47,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 385,
-  "tickets_abertos": 378,
+  "leads_7d": 386,
+  "tickets_abertos": 381,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 46,
+  "Anuncio": 47,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -65,25 +65,32 @@
   }
  ],
  "areas": {
+  "Nao identificada": 23,
   "Trabalhista": 29,
-  "Nao identificada": 22,
   "Previdenciario": 2
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "556799240167",
+   "tel": "5567*****167",
+   "criado": "19:09",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 194,
-  "turnos": 477,
-  "respondidos": 466,
+  "grupos_ativos": 195,
+  "turnos": 478,
+  "respondidos": 467,
   "sem_resposta": 11,
   "sem_resposta_grupos": 11,
-  "mediana_min": 19.9,
+  "mediana_min": 20.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 202,
-    "mediana_min": 20.4
+    "respostas": 203,
+    "mediana_min": 20.5
    },
    {
     "nome": "Nicolas",
@@ -237,6 +244,13 @@
     "dia": "04/08",
     "desde": "16:22",
     "ts": 1785871369988
+   },
+   {
+    "nome": "Ana Paula",
+    "tel": "5586*****394",
+    "dia": "04/08",
+    "desde": "16:36",
+    "ts": 1785872164519
    }
   ],
   "grupos": [
@@ -419,19 +433,30 @@
   ]
  },
  "agora": {
-  "fila": 252,
-  "abertos": 378,
+  "fila": 254,
+  "abertos": 381,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 6,
+  "online": 1,
+  "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 2311
+  "espera_media_s": 2304
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T15:46:17.349Z",
-  "min_sem_lead": 1809
+  "ultimo_lead_at": "2026-08-04T22:09:53.054Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "556799240167",
+   "tel": "5567*****167",
+   "criado": "19:09",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTKQODOlC/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "553288030434",
    "tel": "5532*****434",
