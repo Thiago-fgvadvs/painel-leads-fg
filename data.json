@@ -1,5 +1,5 @@
 {
- "gerado_em": "04/08/2026, 15:05",
+ "gerado_em": "04/08/2026, 15:20",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 367,
-  "tickets_abertos": 359,
+  "tickets_abertos": 357,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -61,19 +61,19 @@
  ],
  "areas": {
   "Trabalhista": 18,
-  "Previdenciario": 2,
-  "Nao identificada": 15
+  "Nao identificada": 15,
+  "Previdenciario": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 182,
-  "turnos": 436,
-  "respondidos": 429,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 19.6,
+  "grupos_ativos": 192,
+  "turnos": 437,
+  "respondidos": 431,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 20.1,
   "atendentes": [
    {
     "nome": "Julia",
@@ -106,14 +106,14 @@
     "mediana_min": 714.4
    },
    {
+    "nome": "Thauany",
+    "respostas": 12,
+    "mediana_min": 186
+   },
+   {
     "nome": "—",
     "respostas": 12,
     "mediana_min": 13
-   },
-   {
-    "nome": "Thauany",
-    "respostas": 10,
-    "mediana_min": 65.5
    },
    {
     "nome": "Roseli",
@@ -128,6 +128,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
+    "dia": "04/08",
+    "desde": "15:14",
+    "ts": 1785867295050
+   },
+   {
     "grupo": "B.F.D.L x EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
     "dia": "04/08",
     "desde": "14:59",
@@ -138,12 +144,6 @@
     "dia": "04/08",
     "desde": "14:25",
     "ts": 1785864344117
-   },
-   {
-    "grupo": "W.M.D.O x SENDAS",
-    "dia": "04/08",
-    "desde": "10:23",
-    "ts": 1785849806886
    },
    {
     "grupo": "J.S.B x ULTRAOBRA LTDA",
@@ -162,12 +162,6 @@
     "dia": "30/07",
     "desde": "11:16",
     "ts": 1785420991000
-   },
-   {
-    "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
-    "dia": "29/07",
-    "desde": "15:34",
-    "ts": 1785350070235
    }
   ]
  },
@@ -224,7 +218,7 @@
     "ts": 1785864574916
    },
    {
-    "nome": "553597250771",
+    "nome": "Lary",
     "tel": "5535*****771",
     "dia": "04/08",
     "desde": "14:58",
@@ -239,12 +233,6 @@
    }
   ],
   "grupos": [
-   {
-    "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
-    "dia": "29/07",
-    "desde": "15:34",
-    "ts": 1785350070235
-   },
    {
     "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
     "dia": "30/07",
@@ -264,12 +252,6 @@
     "ts": 1785796248452
    },
    {
-    "grupo": "W.M.D.O x SENDAS",
-    "dia": "04/08",
-    "desde": "10:23",
-    "ts": 1785849806886
-   },
-   {
     "grupo": "I.A.S x UMANA BRASIL - ASSESSORIA E CONSULTORIA DE RECURSOS HUMANOS LTDA",
     "dia": "04/08",
     "desde": "14:25",
@@ -280,6 +262,12 @@
     "dia": "04/08",
     "desde": "14:59",
     "ts": 1785866361973
+   },
+   {
+    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
+    "dia": "04/08",
+    "desde": "15:14",
+    "ts": 1785867295050
    }
   ]
  },
@@ -385,19 +373,41 @@
   ]
  },
  "agora": {
-  "fila": 236,
-  "abertos": 359,
+  "fila": 237,
+  "abertos": 357,
   "com_atendimento": 8,
-  "online": 4,
+  "online": 5,
   "offline": 4,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 2449
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T20:33:28.014Z",
-  "min_sem_lead": 7052
+  "ultimo_lead_at": "2026-08-04T17:58:49.799Z",
+  "min_sem_lead": 22
  },
  "leads": [
+  {
+   "nome": "Lary",
+   "tel": "5535*****771",
+   "criado": "14:58",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558184885402",
+   "tel": "5581*****402",
+   "criado": "14:24",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/gp4PFLi6F",
+   "area": "Nao identificada"
+  },
   {
    "nome": "nenen",
    "tel": "5583*****781",
@@ -407,17 +417,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4EHi0h7IT",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "553597250771",
-   "tel": "5535*****771",
-   "criado": "14:58",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
    "area": "Trabalhista"
   },
   {
@@ -452,17 +451,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "558184885402",
-   "tel": "5581*****402",
-   "criado": "14:24",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/gp4PFLi6F",
-   "area": "Nao identificada"
   },
   {
    "nome": "Pah Larissa .🙂‍↔️",
