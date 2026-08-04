@@ -1,42 +1,42 @@
 {
- "gerado_em": "04/08/2026, 09:44",
+ "gerado_em": "04/08/2026, 09:59",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 5,
+  "total": 13,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 342,
-  "tickets_abertos": 407,
+  "leads_7d": 345,
+  "tickets_abertos": 412,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 9,
+   "leads": 12,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
-  "Direto/Indicacao": 2
+  "Anuncio": 10,
+  "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "fb.me/4uJZlRfWK",
+   "leads": 3
+  },
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
    "leads": 3
   },
   {
-   "url": "fb.me/4uJZlRfWK",
-   "leads": 2
-  },
-  {
    "url": "www.instagram.com/p/DbZCDVWMSej/",
-   "leads": 1
+   "leads": 2
   },
   {
    "url": "fb.me/6HJ2NfB5G",
@@ -48,19 +48,19 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
-  "Nao identificada": 6
+  "Trabalhista": 5,
+  "Nao identificada": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 175,
-  "turnos": 380,
-  "respondidos": 367,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
-  "mediana_min": 15.3,
+  "turnos": 383,
+  "respondidos": 369,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
+  "mediana_min": 15.4,
   "atendentes": [
    {
     "nome": "Julia",
@@ -69,8 +69,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 86,
-    "mediana_min": 18.6
+    "respostas": 88,
+    "mediana_min": 20.5
    },
    {
     "nome": "Luisa",
@@ -145,6 +145,12 @@
     "ts": 1785795797555
    },
    {
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "dia": "03/08",
+    "desde": "13:35",
+    "ts": 1785774903222
+   },
+   {
     "grupo": "P.L.R.J",
     "dia": "03/08",
     "desde": "16:58",
@@ -198,18 +204,11 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "558396996306",
-    "tel": "5583*****306",
+    "nome": "555196069695",
+    "tel": "5551*****695",
     "dia": "04/08",
-    "desde": "09:30",
-    "ts": 1785846634770
-   },
-   {
-    "nome": "554497035911",
-    "tel": "5544*****911",
-    "dia": "04/08",
-    "desde": "09:38",
-    "ts": 1785847088504
+    "desde": "09:55",
+    "ts": 1785848138887
    }
   ],
   "grupos": [
@@ -236,6 +235,12 @@
     "dia": "31/07",
     "desde": "21:59",
     "ts": 1785545944326
+   },
+   {
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "dia": "03/08",
+    "desde": "13:35",
+    "ts": 1785774903222
    },
    {
     "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
@@ -395,19 +400,52 @@
   ]
  },
  "agora": {
-  "fila": 291,
-  "abertos": 407,
+  "fila": 296,
+  "abertos": 412,
   "com_atendimento": 8,
-  "online": 5,
-  "offline": 4,
-  "ausentes": 0,
-  "espera_media_s": 811
+  "online": 4,
+  "offline": 3,
+  "ausentes": 2,
+  "espera_media_s": 802
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T18:50:54.022Z",
-  "min_sem_lead": 1073
+  "ultimo_lead_at": "2026-07-25T20:19:27.273Z",
+  "min_sem_lead": 13960
  },
  "leads": [
+  {
+   "nome": "556192557249",
+   "tel": "5561*****249",
+   "criado": "09:47",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZCDVWMSej/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553298657695",
+   "tel": "5532*****695",
+   "criado": "09:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "555196069695",
+   "tel": "5551*****695",
+   "criado": "09:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
   {
    "nome": "554497035911",
    "tel": "5544*****911",
