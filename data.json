@@ -1,5 +1,5 @@
 {
- "gerado_em": "04/08/2026, 15:35",
+ "gerado_em": "04/08/2026, 15:51",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -69,21 +69,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 193,
-  "turnos": 441,
-  "respondidos": 434,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 19.9,
+  "turnos": 444,
+  "respondidos": 436,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 19.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 193,
+    "respostas": 194,
     "mediana_min": 20.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 111,
-    "mediana_min": 51
+    "respostas": 112,
+    "mediana_min": 49.2
    },
    {
     "nome": "Gabrielle",
@@ -127,6 +127,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.J.C",
+    "dia": "04/08",
+    "desde": "15:45",
+    "ts": 1785869105073
+   },
    {
     "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
     "dia": "04/08",
@@ -280,6 +286,12 @@
     "dia": "04/08",
     "desde": "15:29",
     "ts": 1785868182009
+   },
+   {
+    "grupo": "A.J.C",
+    "dia": "04/08",
+    "desde": "15:45",
+    "ts": 1785869105073
    }
   ]
  },
@@ -388,16 +400,27 @@
   "fila": 235,
   "abertos": 359,
   "com_atendimento": 8,
-  "online": 2,
-  "offline": 4,
-  "ausentes": 3,
+  "online": 4,
+  "offline": 3,
+  "ausentes": 2,
   "espera_media_s": 2432
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
-  "min_sem_lead": 11882
+  "ultimo_lead_at": "2026-06-09T00:31:40.655Z",
+  "min_sem_lead": 81739
  },
  "leads": [
+  {
+   "nome": "Andressa Peres",
+   "tel": "5534*****122",
+   "criado": "14:29",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Emilly Sofia 🌹🖤",
    "tel": "5592*****736",
@@ -429,17 +452,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Andressa Peres",
-   "tel": "5534*****122",
-   "criado": "14:29",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Trabalhista"
   },
   {
