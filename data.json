@@ -1,23 +1,23 @@
 {
- "gerado_em": "04/08/2026, 16:37",
+ "gerado_em": "04/08/2026, 16:52",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 44,
-  "no_sla": 39,
+  "total": 45,
+  "no_sla": 40,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 376,
-  "tickets_abertos": 370,
+  "leads_7d": 377,
+  "tickets_abertos": 369,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 42,
+   "leads": 43,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 39,
+  "Anuncio": 40,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -36,11 +36,11 @@
    "leads": 10
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "url": "fb.me/4uJZlRfWK",
    "leads": 4
   },
   {
-   "url": "fb.me/4uJZlRfWK",
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
    "leads": 4
   },
   {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
+  "Nao identificada": 20,
   "Trabalhista": 23,
-  "Nao identificada": 19,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -74,15 +74,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 193,
-  "turnos": 456,
-  "respondidos": 446,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 19.6,
+  "turnos": 460,
+  "respondidos": 451,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 19.5,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 196,
+    "respostas": 199,
     "mediana_min": 20.2
    },
    {
@@ -92,8 +92,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 35,
-    "mediana_min": 5.6
+    "respostas": 37,
+    "mediana_min": 6.2
    },
    {
     "nome": "Luisa",
@@ -133,28 +133,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
-    "dia": "04/08",
-    "desde": "16:33",
-    "ts": 1785872036132
-   },
-   {
     "grupo": "V.F.D.S x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA.",
     "dia": "04/08",
     "desde": "16:17",
     "ts": 1785871079127
    },
    {
-    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
-    "dia": "04/08",
-    "desde": "14:31",
-    "ts": 1785864684954
-   },
-   {
     "grupo": "A.J.C",
     "dia": "04/08",
     "desde": "15:45",
     "ts": 1785869105073
+   },
+   {
+    "grupo": "E.A.D.J x GR SEGURANCA LTDA",
+    "dia": "04/08",
+    "desde": "15:32",
+    "ts": 1785868321177
    },
    {
     "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
@@ -197,6 +191,20 @@
  "pendencias": {
   "dias": 7,
   "leads": [
+   {
+    "nome": "Ana Cludia",
+    "tel": "5591*****892",
+    "dia": "04/08",
+    "desde": "12:47",
+    "ts": 1785858457003
+   },
+   {
+    "nome": "Edson",
+    "tel": "5532*****572",
+    "dia": "04/08",
+    "desde": "13:28",
+    "ts": 1785860891737
+   },
    {
     "nome": "☯️☪️🕉️",
     "tel": "5534*****057",
@@ -259,12 +267,6 @@
     "ts": 1785864344117
    },
    {
-    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
-    "dia": "04/08",
-    "desde": "14:31",
-    "ts": 1785864684954
-   },
-   {
     "grupo": "B.F.D.L x EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
     "dia": "04/08",
     "desde": "14:59",
@@ -277,6 +279,12 @@
     "ts": 1785867295050
    },
    {
+    "grupo": "E.A.D.J x GR SEGURANCA LTDA",
+    "dia": "04/08",
+    "desde": "15:32",
+    "ts": 1785868321177
+   },
+   {
     "grupo": "A.J.C",
     "dia": "04/08",
     "desde": "15:45",
@@ -287,12 +295,6 @@
     "dia": "04/08",
     "desde": "16:17",
     "ts": 1785871079127
-   },
-   {
-    "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
-    "dia": "04/08",
-    "desde": "16:33",
-    "ts": 1785872036132
    }
   ]
  },
@@ -399,28 +401,39 @@
  },
  "agora": {
   "fila": 245,
-  "abertos": 370,
+  "abertos": 369,
   "com_atendimento": 8,
-  "online": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 2358
+  "ausentes": 1,
+  "espera_media_s": 2366
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-26T04:07:11.986Z",
-  "min_sem_lead": 13890
+  "ultimo_lead_at": "2026-08-04T19:38:21.602Z",
+  "min_sem_lead": 14
  },
  "leads": [
   {
-   "nome": "Ana Paula",
-   "tel": "5586*****394",
-   "criado": "16:36",
+   "nome": "Ricardo Gabriel",
+   "tel": "5514*****116",
+   "criado": "16:38",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7vEH579Vm",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "LIi💞💕",
+   "tel": "5514*****597",
+   "criado": "16:15",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/4EHi0h7IT",
-   "area": "Trabalhista"
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
   },
   {
    "nome": "🥰💞",
@@ -431,6 +444,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ana Paula",
+   "tel": "5586*****394",
+   "criado": "16:36",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EHi0h7IT",
    "area": "Trabalhista"
   },
   {
@@ -454,17 +478,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/9Pf9FTshS",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "LIi💞💕",
-   "tel": "5514*****597",
-   "criado": "16:15",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4uJZlRfWK",
-   "area": "Nao identificada"
   },
   {
    "nome": "Iza💋",
