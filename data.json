@@ -1,5 +1,5 @@
 {
- "gerado_em": "04/08/2026, 09:59",
+ "gerado_em": "04/08/2026, 10:15",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -48,29 +48,30 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
-  "Nao identificada": 8
+  "Previdenciario": 1,
+  "Nao identificada": 7,
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 175,
-  "turnos": 383,
-  "respondidos": 369,
-  "sem_resposta": 14,
-  "sem_resposta_grupos": 14,
-  "mediana_min": 15.4,
+  "turnos": 386,
+  "respondidos": 375,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 16,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 182,
-    "mediana_min": 19.2
+    "respostas": 184,
+    "mediana_min": 19.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 88,
-    "mediana_min": 20.5
+    "respostas": 90,
+    "mediana_min": 22.2
    },
    {
     "nome": "Luisa",
@@ -84,8 +85,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 18,
-    "mediana_min": 10.5
+    "respostas": 19,
+    "mediana_min": 9.4
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -104,8 +105,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 4,
-    "mediana_min": 104.2
+    "respostas": 5,
+    "mediana_min": 193.7
    },
    {
     "nome": "—",
@@ -115,10 +116,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
+    "grupo": "D.D.A.F x ITAU",
     "dia": "04/08",
-    "desde": "09:10",
-    "ts": 1785845426711
+    "desde": "09:55",
+    "ts": 1785848109687
    },
    {
     "grupo": "S.D.C.G x PENSI EDUCACAO E PARTICIPACOES SA",
@@ -145,28 +146,10 @@
     "ts": 1785795797555
    },
    {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "03/08",
-    "desde": "13:35",
-    "ts": 1785774903222
-   },
-   {
     "grupo": "P.L.R.J",
     "dia": "03/08",
     "desde": "16:58",
     "ts": 1785787093405
-   },
-   {
-    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
-    "dia": "03/08",
-    "desde": "15:51",
-    "ts": 1785783062412
-   },
-   {
-    "grupo": "W.M.D.O x SENDAS",
-    "dia": "03/08",
-    "desde": "16:43",
-    "ts": 1785786231387
    },
    {
     "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
@@ -204,6 +187,34 @@
   "dias": 7,
   "leads": [
    {
+    "nome": "558396996306",
+    "tel": "5583*****306",
+    "dia": "04/08",
+    "desde": "09:30",
+    "ts": 1785846634770
+   },
+   {
+    "nome": "554497035911",
+    "tel": "5544*****911",
+    "dia": "04/08",
+    "desde": "09:38",
+    "ts": 1785847088504
+   },
+   {
+    "nome": "556192557249",
+    "tel": "5561*****249",
+    "dia": "04/08",
+    "desde": "09:47",
+    "ts": 1785847628453
+   },
+   {
+    "nome": "553298657695",
+    "tel": "5532*****695",
+    "dia": "04/08",
+    "desde": "09:51",
+    "ts": 1785847882793
+   },
+   {
     "nome": "555196069695",
     "tel": "5551*****695",
     "dia": "04/08",
@@ -237,28 +248,10 @@
     "ts": 1785545944326
    },
    {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "03/08",
-    "desde": "13:35",
-    "ts": 1785774903222
-   },
-   {
-    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
-    "dia": "03/08",
-    "desde": "15:51",
-    "ts": 1785783062412
-   },
-   {
     "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
     "dia": "03/08",
     "desde": "16:17",
     "ts": 1785784640436
-   },
-   {
-    "grupo": "W.M.D.O x SENDAS",
-    "dia": "03/08",
-    "desde": "16:43",
-    "ts": 1785786231387
    },
    {
     "grupo": "P.L.R.J",
@@ -291,10 +284,10 @@
     "ts": 1785837064655
    },
    {
-    "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
+    "grupo": "D.D.A.F x ITAU",
     "dia": "04/08",
-    "desde": "09:10",
-    "ts": 1785845426711
+    "desde": "09:55",
+    "ts": 1785848109687
    }
   ]
  },
@@ -400,19 +393,41 @@
   ]
  },
  "agora": {
-  "fila": 296,
+  "fila": 295,
   "abertos": 412,
   "com_atendimento": 8,
   "online": 4,
-  "offline": 3,
-  "ausentes": 2,
+  "offline": 2,
+  "ausentes": 3,
   "espera_media_s": 802
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T20:19:27.273Z",
-  "min_sem_lead": 13960
+  "ultimo_lead_at": "2026-08-04T12:51:22.793Z",
+  "min_sem_lead": 24
  },
  "leads": [
+  {
+   "nome": "553298657695",
+   "tel": "5532*****695",
+   "criado": "09:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "5522992556238",
+   "tel": "5522*****238",
+   "criado": "07:46",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
   {
    "nome": "556192557249",
    "tel": "5561*****249",
@@ -423,17 +438,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZCDVWMSej/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "553298657695",
-   "tel": "5532*****695",
-   "criado": "09:51",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "555196069695",
@@ -500,17 +504,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "5522992556238",
-   "tel": "5522*****238",
-   "criado": "07:46",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4uJZlRfWK",
-   "area": "Nao identificada"
   },
   {
    "nome": "5511999752206",
