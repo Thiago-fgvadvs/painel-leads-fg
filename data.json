@@ -1,23 +1,23 @@
 {
- "gerado_em": "04/08/2026, 17:53",
+ "gerado_em": "04/08/2026, 18:09",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 47,
-  "no_sla": 42,
+  "total": 50,
+  "no_sla": 44,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 379,
-  "tickets_abertos": 373,
+  "leads_7d": 382,
+  "tickets_abertos": 375,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 45,
+   "leads": 47,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 42,
-  "Direto/Indicacao": 5
+  "Anuncio": 44,
+  "Direto/Indicacao": 6
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
    "leads": 11
+  },
+  {
+   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "leads": 4
   },
   {
    "url": "fb.me/4uJZlRfWK",
@@ -44,12 +48,12 @@
    "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "leads": 4
-  },
-  {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/4aByuCBr5",
+   "leads": 2
   },
   {
    "url": "fb.me/4EHi0h7IT",
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/9Pf9FTshS",
    "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DbY-c_XMHEm/",
-   "leads": 2
   }
  ],
  "areas": {
-  "Trabalhista": 24,
-  "Nao identificada": 21,
+  "Trabalhista": 26,
+  "Nao identificada": 22,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -74,15 +74,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 193,
-  "turnos": 475,
-  "respondidos": 464,
+  "turnos": 476,
+  "respondidos": 465,
   "sem_resposta": 11,
   "sem_resposta_grupos": 11,
   "mediana_min": 19.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 200,
+    "respostas": 201,
     "mediana_min": 20.3
    },
    {
@@ -204,18 +204,11 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "jhe🫨",
-    "tel": "5583*****760",
+    "nome": "Ze",
+    "tel": "5582*****764",
     "dia": "04/08",
-    "desde": "17:10",
-    "ts": 1785874223649
-   },
-   {
-    "nome": "Gesa",
-    "tel": "5548*****986",
-    "dia": "04/08",
-    "desde": "17:46",
-    "ts": 1785876393741
+    "desde": "18:06",
+    "ts": 1785877614910
    }
   ],
   "grupos": [
@@ -398,19 +391,52 @@
   ]
  },
  "agora": {
-  "fila": 247,
-  "abertos": 373,
+  "fila": 249,
+  "abertos": 375,
   "com_atendimento": 7,
   "online": 3,
-  "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 2350
+  "offline": 4,
+  "ausentes": 2,
+  "espera_media_s": 2335
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T20:46:33.741Z",
-  "min_sem_lead": 7
+  "ultimo_lead_at": "2026-08-04T20:56:28.818Z",
+  "min_sem_lead": 13
  },
  "leads": [
+  {
+   "nome": "555391226822",
+   "tel": "5553*****822",
+   "criado": "17:56",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4aByuCBr5",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ze",
+   "tel": "5582*****764",
+   "criado": "18:06",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9yxU2JTeH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Proa",
+   "tel": "5599*****270",
+   "criado": "16:07",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Gesa",
    "tel": "5548*****986",
@@ -531,17 +557,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbY-c_XMHEm/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Proa",
-   "tel": "5599*****270",
-   "criado": "16:07",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTrh4jJ4e/",
-   "area": "Nao identificada"
   },
   {
    "nome": "Gabi",
@@ -921,6 +936,17 @@
    "nome": "Jeyciele Almeida",
    "tel": "5531*****238",
    "criado": "09:15",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "554898233659",
+   "tel": "5548*****659",
+   "criado": "18:07",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
