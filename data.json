@@ -1,23 +1,23 @@
 {
- "gerado_em": "03/08/2026, 21:25",
+ "gerado_em": "03/08/2026, 21:40",
  "data_ref": "03/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 67,
+  "total": 68,
   "no_sla": 46,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 16,
+  "fora_horario": 17,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 375,
-  "tickets_abertos": 384,
+  "leads_7d": 376,
+  "tickets_abertos": 385,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 61,
+   "leads": 62,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 54,
+  "Anuncio": 55,
   "Direto/Indicacao": 13
  },
  "criativos": [
@@ -46,7 +46,7 @@
   },
   {
    "url": "fb.me/4uJZlRfWK",
-   "leads": 6
+   "leads": 7
   },
   {
    "url": "fb.me/4aByuCBr5",
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
+  "Nao identificada": 40,
   "Previdenciario": 3,
-  "Nao identificada": 39,
   "Trabalhista": 25
  },
  "sem_resposta_lista": [],
@@ -463,19 +463,30 @@
   ]
  },
  "agora": {
-  "fila": 268,
-  "abertos": 384,
+  "fila": 269,
+  "abertos": 385,
   "com_atendimento": 8,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 873
+  "espera_media_s": 871
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T23:58:04.813Z",
-  "min_sem_lead": 27
+  "ultimo_lead_at": "2026-08-04T00:32:36.490Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "5511982899551",
+   "tel": "5511*****551",
+   "criado": "21:32",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Luana Salerno",
    "tel": "5521*****990",
