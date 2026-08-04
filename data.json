@@ -1,5 +1,5 @@
 {
- "gerado_em": "04/08/2026, 13:33",
+ "gerado_em": "04/08/2026, 13:48",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 359,
-  "tickets_abertos": 347,
+  "tickets_abertos": 348,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -70,9 +70,9 @@
   "dias": 7,
   "grupos_ativos": 181,
   "turnos": 423,
-  "respondidos": 416,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "respondidos": 417,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 18.1,
   "atendentes": [
    {
@@ -87,8 +87,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 30,
-    "mediana_min": 6.6
+    "respostas": 31,
+    "mediana_min": 7.5
    },
    {
     "nome": "Luisa",
@@ -127,12 +127,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
-    "dia": "04/08",
-    "desde": "12:10",
-    "ts": 1785856223004
-   },
    {
     "grupo": "W.M.D.O x SENDAS",
     "dia": "04/08",
@@ -174,6 +168,27 @@
  "pendencias": {
   "dias": 7,
   "leads": [
+   {
+    "nome": "556796534082",
+    "tel": "5567*****082",
+    "dia": "04/08",
+    "desde": "11:18",
+    "ts": 1785853109591
+   },
+   {
+    "nome": "taynara",
+    "tel": "5527*****120",
+    "dia": "04/08",
+    "desde": "11:29",
+    "ts": 1785853771856
+   },
+   {
+    "nome": "Camila",
+    "tel": "5521*****286",
+    "dia": "04/08",
+    "desde": "11:41",
+    "ts": 1785854492199
+   },
    {
     "nome": "Jayr",
     "tel": "5593*****681",
@@ -239,12 +254,6 @@
     "dia": "04/08",
     "desde": "10:23",
     "ts": 1785849806886
-   },
-   {
-    "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
-    "dia": "04/08",
-    "desde": "12:10",
-    "ts": 1785856223004
    }
   ]
  },
@@ -350,17 +359,17 @@
   ]
  },
  "agora": {
-  "fila": 228,
-  "abertos": 347,
+  "fila": 229,
+  "abertos": 348,
   "com_atendimento": 8,
-  "online": 1,
-  "offline": 8,
+  "online": 2,
+  "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2538
+  "espera_media_s": 2529
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T20:33:28.014Z",
-  "min_sem_lead": 6960
+  "ultimo_lead_at": "2026-08-03T18:46:31.678Z",
+  "min_sem_lead": 1322
  },
  "leads": [
   {
