@@ -1,23 +1,23 @@
 {
- "gerado_em": "04/08/2026, 20:42",
+ "gerado_em": "04/08/2026, 20:57",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 58,
+  "total": 60,
   "no_sla": 47,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 9,
+  "fora_horario": 11,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 390,
-  "tickets_abertos": 385,
+  "leads_7d": 392,
+  "tickets_abertos": 387,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 55,
+   "leads": 57,
    "mediana_min": 0.4
   },
   {
@@ -27,8 +27,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 51,
-  "Direto/Indicacao": 7
+  "Anuncio": 52,
+  "Direto/Indicacao": 8
  },
  "criativos": [
   {
@@ -52,22 +52,22 @@
    "leads": 4
   },
   {
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "leads": 3
+  },
+  {
    "url": "fb.me/4aByuCBr5",
    "leads": 2
   },
   {
    "url": "fb.me/4EHi0h7IT",
    "leads": 2
-  },
-  {
-   "url": "fb.me/9Pf9FTshS",
-   "leads": 2
   }
  ],
  "areas": {
-  "Trabalhista": 31,
-  "Nao identificada": 25,
-  "Previdenciario": 2
+  "Trabalhista": 32,
+  "Previdenciario": 2,
+  "Nao identificada": 26
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -202,7 +202,22 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Gilvan",
+    "tel": "5581*****402",
+    "dia": "04/08",
+    "desde": "14:24",
+    "ts": 1785864259169
+   },
+   {
+    "nome": "nenen",
+    "tel": "5583*****781",
+    "dia": "04/08",
+    "desde": "15:04",
+    "ts": 1785866657475
+   }
+  ],
   "grupos": [
    {
     "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
@@ -383,19 +398,63 @@
   ]
  },
  "agora": {
-  "fila": 258,
-  "abertos": 385,
+  "fila": 260,
+  "abertos": 387,
   "com_atendimento": 7,
-  "online": 0,
+  "online": 1,
   "offline": 8,
-  "ausentes": 1,
-  "espera_media_s": 2274
+  "ausentes": 0,
+  "espera_media_s": 2259
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T23:18:46.043Z",
-  "min_sem_lead": 24
+  "ultimo_lead_at": "2026-08-04T21:52:25.710Z",
+  "min_sem_lead": 125
  },
  "leads": [
+  {
+   "nome": "5511917429380",
+   "tel": "5511*****380",
+   "criado": "20:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.8,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "✨Géssica ( Faxina )💚🕖",
+   "tel": "5581*****423",
+   "criado": "14:21",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Ieda",
+   "tel": "5519*****073",
+   "criado": "18:52",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "😀",
+   "tel": "5522*****366",
+   "criado": "20:48",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "559988517854",
    "tel": "5599*****854",
@@ -428,17 +487,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZCDVWMSej/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Ieda",
-   "tel": "5519*****073",
-   "criado": "18:52",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
   },
   {
    "nome": "553288030434",
@@ -692,17 +740,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4EHi0h7IT",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "✨Géssica ( Faxina )💚🕖",
-   "tel": "5581*****423",
-   "criado": "14:21",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Previdenciario"
   },
   {
    "nome": "Pah Larissa .🙂‍↔️",
