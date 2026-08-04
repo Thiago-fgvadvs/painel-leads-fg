@@ -1,28 +1,28 @@
 {
- "gerado_em": "04/08/2026, 11:01",
+ "gerado_em": "04/08/2026, 11:16",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
-  "no_sla": 13,
+  "total": 19,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 350,
-  "tickets_abertos": 378,
+  "leads_7d": 351,
+  "tickets_abertos": 362,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 17,
+   "leads": 18,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 15,
+  "Anuncio": 16,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 1
+  },
+  {
    "url": "fb.me/gp4PFLi6F",
    "leads": 1
   },
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/6HJ2NfB5G",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 7,
   "Nao identificada": 10,
+  "Trabalhista": 8,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -69,11 +69,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 176,
-  "turnos": 398,
-  "respondidos": 388,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 17.9,
+  "turnos": 406,
+  "respondidos": 394,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
+  "mediana_min": 17.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -82,8 +82,13 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 95,
-    "mediana_min": 26.6
+    "respostas": 96,
+    "mediana_min": 28.9
+   },
+   {
+    "nome": "Gabrielle",
+    "respostas": 25,
+    "mediana_min": 7.5
    },
    {
     "nome": "Luisa",
@@ -94,11 +99,6 @@
     "nome": "Eduardo",
     "respostas": 22,
     "mediana_min": 7.7
-   },
-   {
-    "nome": "Gabrielle",
-    "respostas": 20,
-    "mediana_min": 9.3
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -130,8 +130,20 @@
    {
     "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
     "dia": "04/08",
-    "desde": "10:24",
-    "ts": 1785849842891
+    "desde": "11:14",
+    "ts": 1785852847779
+   },
+   {
+    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
+    "dia": "04/08",
+    "desde": "11:00",
+    "ts": 1785852040759
+   },
+   {
+    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "04/08",
+    "desde": "10:53",
+    "ts": 1785851632749
    },
    {
     "grupo": "W.M.D.O x SENDAS",
@@ -191,7 +203,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Vanderson Nascimento",
+    "tel": "5551*****972",
+    "dia": "04/08",
+    "desde": "11:04",
+    "ts": 1785852295662
+   }
+  ],
   "grupos": [
    {
     "grupo": "H.D.P.P.M x EMPRESA TEJOFRAN DE SANEAMENTO E SERVICOS LTDA",
@@ -248,10 +268,22 @@
     "ts": 1785849806886
    },
    {
+    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "04/08",
+    "desde": "10:53",
+    "ts": 1785851632749
+   },
+   {
+    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
+    "dia": "04/08",
+    "desde": "11:00",
+    "ts": 1785852040759
+   },
+   {
     "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
     "dia": "04/08",
-    "desde": "10:24",
-    "ts": 1785849842891
+    "desde": "11:14",
+    "ts": 1785852847779
    }
   ]
  },
@@ -357,19 +389,52 @@
   ]
  },
  "agora": {
-  "fila": 259,
-  "abertos": 378,
-  "com_atendimento": 7,
-  "online": 4,
+  "fila": 241,
+  "abertos": 362,
+  "com_atendimento": 8,
+  "online": 7,
   "offline": 0,
-  "ausentes": 5,
-  "espera_media_s": 2017
+  "ausentes": 2,
+  "espera_media_s": 2172
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T20:15:34.610Z",
-  "min_sem_lead": 5385
+  "ultimo_lead_at": "2026-08-04T10:46:51.480Z",
+  "min_sem_lead": 209
  },
  "leads": [
+  {
+   "nome": "5522992556238",
+   "tel": "5522*****238",
+   "criado": "07:46",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "555196069695",
+   "tel": "5551*****695",
+   "criado": "09:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Vanderson Nascimento",
+   "tel": "5551*****972",
+   "criado": "11:04",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
   {
    "nome": "tayna e Ryan  ❤💙",
    "tel": "5531*****197",
@@ -437,17 +502,6 @@
    "area": "Previdenciario"
   },
   {
-   "nome": "5522992556238",
-   "tel": "5522*****238",
-   "criado": "07:46",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4uJZlRfWK",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "556192557249",
    "tel": "5561*****249",
    "criado": "09:47",
@@ -457,17 +511,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZCDVWMSej/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "555196069695",
-   "tel": "5551*****695",
-   "criado": "09:55",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4uJZlRfWK",
-   "area": "Nao identificada"
   },
   {
    "nome": "554497035911",
