@@ -1,5 +1,5 @@
 {
- "gerado_em": "05/08/2026, 19:59",
+ "gerado_em": "05/08/2026, 20:15",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -68,10 +68,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 204,
-  "turnos": 454,
+  "turnos": 455,
   "respondidos": 438,
-  "sem_resposta": 16,
-  "sem_resposta_grupos": 16,
+  "sem_resposta": 17,
+  "sem_resposta_grupos": 17,
   "mediana_min": 25.4,
   "atendentes": [
    {
@@ -126,6 +126,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
+    "dia": "05/08",
+    "desde": "20:11",
+    "ts": 1785971507806
+   },
    {
     "grupo": "D.S.S x GMS INDUSTRIALIZACAO DE ALIMENTOS LTDA",
     "dia": "05/08",
@@ -415,6 +421,12 @@
     "dia": "05/08",
     "desde": "19:17",
     "ts": 1785968249669
+   },
+   {
+    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
+    "dia": "05/08",
+    "desde": "20:11",
+    "ts": 1785971507806
    }
   ]
  },
@@ -532,14 +544,14 @@
   "fila": 272,
   "abertos": 413,
   "com_atendimento": 7,
-  "online": 1,
+  "online": 0,
   "offline": 8,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 1763
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-05T08:49:15.387Z",
-  "min_sem_lead": 850
+  "ultimo_lead_at": "2025-12-06T06:06:37.358Z",
+  "min_sem_lead": 349508
  },
  "leads": [
   {
