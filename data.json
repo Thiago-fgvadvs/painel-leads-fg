@@ -1,41 +1,45 @@
 {
- "gerado_em": "05/08/2026, 10:48",
+ "gerado_em": "05/08/2026, 11:03",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 4,
+  "total": 13,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 364,
-  "tickets_abertos": 409,
+  "mediana_geral": 0.4,
+  "leads_7d": 366,
+  "tickets_abertos": 408,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 11,
-   "mediana_min": 0.5
+   "leads": 13,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 10,
   "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "fb.me/4uJZlRfWK",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 1
+   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 1
   },
   {
@@ -49,36 +53,32 @@
   {
    "url": "fb.me/4EHi0h7IT",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4uJZlRfWK",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 6,
-  "Nao identificada": 5
+  "Trabalhista": 7,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 188,
-  "turnos": 386,
-  "respondidos": 373,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
-  "mediana_min": 26.6,
+  "turnos": 388,
+  "respondidos": 376,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
+  "mediana_min": 26.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 133,
-    "mediana_min": 29
+    "respostas": 135,
+    "mediana_min": 28
    },
    {
     "nome": "Nicolas",
-    "respostas": 114,
-    "mediana_min": 93.8
+    "respostas": 115,
+    "mediana_min": 93.6
    },
    {
     "nome": "Gabrielle",
@@ -123,22 +123,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "grupo": "D.D.A.F x C6bank",
     "dia": "05/08",
-    "desde": "10:44",
-    "ts": 1785937461354
+    "desde": "11:01",
+    "ts": 1785938495490
    },
    {
     "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
     "dia": "05/08",
     "desde": "10:41",
     "ts": 1785937292542
-   },
-   {
-    "grupo": "R.L.M.D.O x LÍLIA RAMOS MARQUES",
-    "dia": "05/08",
-    "desde": "10:29",
-    "ts": 1785936573342
    },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
@@ -267,22 +261,16 @@
     "ts": 1785934601415
    },
    {
-    "grupo": "R.L.M.D.O x LÍLIA RAMOS MARQUES",
-    "dia": "05/08",
-    "desde": "10:29",
-    "ts": 1785936573342
-   },
-   {
     "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
     "dia": "05/08",
     "desde": "10:41",
     "ts": 1785937292542
    },
    {
-    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "grupo": "D.D.A.F x C6bank",
     "dia": "05/08",
-    "desde": "10:44",
-    "ts": 1785937461354
+    "desde": "11:01",
+    "ts": 1785938495490
    }
   ]
  },
@@ -389,18 +377,29 @@
  },
  "agora": {
   "fila": 276,
-  "abertos": 409,
-  "com_atendimento": 8,
-  "online": 5,
+  "abertos": 408,
+  "com_atendimento": 7,
+  "online": 6,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 2296
+  "ausentes": 2,
+  "espera_media_s": 2135
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-25T16:28:52.715Z",
-  "min_sem_lead": 191360
+  "ultimo_lead_at": "2026-08-05T13:54:08.114Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "Santiago",
+   "tel": "5592*****790",
+   "criado": "10:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Trabalhista"
+  },
   {
    "nome": "thelma",
    "tel": "5527*****666",
@@ -411,6 +410,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "🩷Debinha",
+   "tel": "5512*****585",
+   "criado": "10:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
   },
   {
    "nome": "558173192440",
