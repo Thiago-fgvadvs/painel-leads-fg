@@ -1,5 +1,5 @@
 {
- "gerado_em": "05/08/2026, 09:16",
+ "gerado_em": "05/08/2026, 09:32",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 360,
-  "tickets_abertos": 401,
+  "tickets_abertos": 402,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -56,11 +56,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 186,
-  "turnos": 369,
-  "respondidos": 357,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 26.1,
+  "turnos": 371,
+  "respondidos": 360,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 26,
   "atendentes": [
    {
     "nome": "Julia",
@@ -79,8 +79,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 22,
-    "mediana_min": 0.5
+    "respostas": 24,
+    "mediana_min": 0.6
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -93,14 +93,14 @@
     "mediana_min": 13
    },
    {
+    "nome": "Thauany",
+    "respostas": 9,
+    "mediana_min": 288.7
+   },
+   {
     "nome": "Eduardo",
     "respostas": 9,
     "mediana_min": 8
-   },
-   {
-    "nome": "Thauany",
-    "respostas": 8,
-    "mediana_min": 186
    },
    {
     "nome": "Tiago Bernardo",
@@ -115,10 +115,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "C.L.V x LINKCALL SERVICOS DE CALL CENTER S A",
+    "grupo": "A.J.C",
     "dia": "05/08",
-    "desde": "08:58",
-    "ts": 1785931090369
+    "desde": "09:29",
+    "ts": 1785932979291
    },
    {
     "grupo": "L.O.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
@@ -143,12 +143,6 @@
     "dia": "04/08",
     "desde": "17:21",
     "ts": 1785874896096
-   },
-   {
-    "grupo": "A.J.C",
-    "dia": "04/08",
-    "desde": "15:45",
-    "ts": 1785869105073
    },
    {
     "grupo": "L.G.D.S.D.S x AUTO POSTO DO TRABALHO PAVUNA LTDA",
@@ -190,50 +184,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Gabi",
-    "tel": "5511*****360",
-    "dia": "04/08",
-    "desde": "16:06",
-    "ts": 1785870383482
-   },
-   {
-    "nome": "Iza💋",
-    "tel": "5511*****987",
-    "dia": "04/08",
-    "desde": "16:09",
-    "ts": 1785870556672
-   },
-   {
-    "nome": "vertussophonie93",
-    "tel": "5547*****514",
-    "dia": "04/08",
-    "desde": "16:22",
-    "ts": 1785871369988
-   },
-   {
-    "nome": "Ana Paula",
-    "tel": "5586*****394",
-    "dia": "04/08",
-    "desde": "16:36",
-    "ts": 1785872164519
-   },
-   {
-    "nome": "Ricardo Gabriel",
-    "tel": "5514*****116",
-    "dia": "04/08",
-    "desde": "16:38",
-    "ts": 1785872301602
-   },
-   {
-    "nome": "jhe🫨",
-    "tel": "5583*****760",
-    "dia": "04/08",
-    "desde": "17:10",
-    "ts": 1785874223649
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
@@ -272,12 +223,6 @@
     "ts": 1785867295050
    },
    {
-    "grupo": "A.J.C",
-    "dia": "04/08",
-    "desde": "15:45",
-    "ts": 1785869105073
-   },
-   {
     "grupo": "F.P.L",
     "dia": "04/08",
     "desde": "17:21",
@@ -302,10 +247,10 @@
     "ts": 1785900140312
    },
    {
-    "grupo": "C.L.V x LINKCALL SERVICOS DE CALL CENTER S A",
+    "grupo": "A.J.C",
     "dia": "05/08",
-    "desde": "08:58",
-    "ts": 1785931090369
+    "desde": "09:29",
+    "ts": 1785932979291
    }
   ]
  },
@@ -411,17 +356,17 @@
   ]
  },
  "agora": {
-  "fila": 273,
-  "abertos": 401,
+  "fila": 274,
+  "abertos": 402,
   "com_atendimento": 8,
   "online": 4,
-  "offline": 4,
-  "ausentes": 1,
+  "offline": 3,
+  "ausentes": 2,
   "espera_media_s": 2317
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-26T04:07:11.986Z",
-  "min_sem_lead": 14889
+  "ultimo_lead_at": "2026-08-04T12:55:38.887Z",
+  "min_sem_lead": 1416
  },
  "leads": [
   {
