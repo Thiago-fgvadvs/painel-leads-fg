@@ -1,28 +1,28 @@
 {
- "gerado_em": "05/08/2026, 16:25",
+ "gerado_em": "05/08/2026, 16:40",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
-  "no_sla": 14,
+  "total": 23,
+  "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 375,
-  "tickets_abertos": 402,
+  "leads_7d": 376,
+  "tickets_abertos": 403,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DaTOs97M2al/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
    "leads": 1
   },
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/4PcZAj72p",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9Pf9FTshS",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 14,
+  "Trabalhista": 15,
   "Nao identificada": 8
  },
  "sem_resposta_lista": [],
@@ -68,11 +68,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 199,
-  "turnos": 433,
-  "respondidos": 419,
+  "turnos": 436,
+  "respondidos": 422,
   "sem_resposta": 14,
   "sem_resposta_grupos": 14,
-  "mediana_min": 24.8,
+  "mediana_min": 24.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -81,8 +81,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 129,
-    "mediana_min": 77
+    "respostas": 132,
+    "mediana_min": 71.6
    },
    {
     "nome": "Gabrielle",
@@ -237,13 +237,6 @@
     "ts": 1785919755387
    },
    {
-    "nome": "🩷Debinha",
-    "tel": "5512*****585",
-    "dia": "05/08",
-    "desde": "10:53",
-    "ts": 1785937996567
-   },
-   {
     "nome": "Rafaelly Muniz",
     "tel": "5521*****340",
     "dia": "05/08",
@@ -291,6 +284,13 @@
     "dia": "05/08",
     "desde": "16:07",
     "ts": 1785956829666
+   },
+   {
+    "nome": "553193246682",
+    "tel": "5531*****682",
+    "dia": "05/08",
+    "desde": "16:35",
+    "ts": 1785958538782
    }
   ],
   "grupos": [
@@ -491,19 +491,30 @@
   ]
  },
  "agora": {
-  "fila": 266,
-  "abertos": 402,
+  "fila": 267,
+  "abertos": 403,
   "com_atendimento": 7,
   "online": 6,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 1806
+  "espera_media_s": 1800
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-05T19:07:09.666Z",
-  "min_sem_lead": 18
+  "ultimo_lead_at": "2026-08-05T19:35:38.782Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "553193246682",
+   "tel": "5531*****682",
+   "criado": "16:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DaTOs97M2al/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Lea",
    "tel": "5511*****118",
