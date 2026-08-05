@@ -1,5 +1,5 @@
 {
- "gerado_em": "05/08/2026, 10:33",
+ "gerado_em": "05/08/2026, 10:48",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 364,
-  "tickets_abertos": 408,
+  "tickets_abertos": 409,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -64,10 +64,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 188,
-  "turnos": 383,
-  "respondidos": 372,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "turnos": 386,
+  "respondidos": 373,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
   "mediana_min": 26.6,
   "atendentes": [
    {
@@ -82,8 +82,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 38,
-    "mediana_min": 5.3
+    "respostas": 39,
+    "mediana_min": 5.6
    },
    {
     "nome": "Luisa",
@@ -122,6 +122,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "dia": "05/08",
+    "desde": "10:44",
+    "ts": 1785937461354
+   },
+   {
+    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
+    "dia": "05/08",
+    "desde": "10:41",
+    "ts": 1785937292542
+   },
    {
     "grupo": "R.L.M.D.O x LÍLIA RAMOS MARQUES",
     "dia": "05/08",
@@ -259,6 +271,18 @@
     "dia": "05/08",
     "desde": "10:29",
     "ts": 1785936573342
+   },
+   {
+    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
+    "dia": "05/08",
+    "desde": "10:41",
+    "ts": 1785937292542
+   },
+   {
+    "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
+    "dia": "05/08",
+    "desde": "10:44",
+    "ts": 1785937461354
    }
   ]
  },
@@ -364,17 +388,17 @@
   ]
  },
  "agora": {
-  "fila": 275,
-  "abertos": 408,
+  "fila": 276,
+  "abertos": 409,
   "com_atendimento": 8,
-  "online": 6,
+  "online": 5,
   "offline": 1,
-  "ausentes": 2,
+  "ausentes": 3,
   "espera_media_s": 2296
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-05T02:11:23.909Z",
-  "min_sem_lead": 682
+  "ultimo_lead_at": "2026-03-25T16:28:52.715Z",
+  "min_sem_lead": 191360
  },
  "leads": [
   {
