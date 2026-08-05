@@ -1,23 +1,23 @@
 {
- "gerado_em": "04/08/2026, 21:43",
+ "gerado_em": "04/08/2026, 21:59",
  "data_ref": "04/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 60,
+  "total": 61,
   "no_sla": 47,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 11,
+  "fora_horario": 12,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 392,
-  "tickets_abertos": 387,
+  "leads_7d": 393,
+  "tickets_abertos": 388,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 57,
+   "leads": 58,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 52,
+  "Anuncio": 53,
   "Direto/Indicacao": 8
  },
  "criativos": [
@@ -52,22 +52,22 @@
    "leads": 4
   },
   {
+   "url": "fb.me/gp4PFLi6F",
+   "leads": 3
+  },
+  {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 3
   },
   {
    "url": "fb.me/4aByuCBr5",
    "leads": 2
-  },
-  {
-   "url": "fb.me/4EHi0h7IT",
-   "leads": 2
   }
  ],
  "areas": {
+  "Nao identificada": 27,
   "Trabalhista": 32,
-  "Previdenciario": 2,
-  "Nao identificada": 26
+  "Previdenciario": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -391,19 +391,30 @@
   ]
  },
  "agora": {
-  "fila": 260,
-  "abertos": 387,
+  "fila": 261,
+  "abertos": 388,
   "com_atendimento": 7,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 2259
+  "espera_media_s": 2252
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-02T17:00:37.485Z",
-  "min_sem_lead": 3343
+  "min_sem_lead": 3358
  },
  "leads": [
+  {
+   "nome": "Maria Helena",
+   "tel": "5591*****802",
+   "criado": "21:44",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/gp4PFLi6F",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Ieda",
    "tel": "5519*****073",
