@@ -1,5 +1,5 @@
 {
- "gerado_em": "05/08/2026, 19:14",
+ "gerado_em": "05/08/2026, 19:29",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 382,
-  "tickets_abertos": 411,
+  "tickets_abertos": 412,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,10 +68,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 203,
-  "turnos": 453,
+  "turnos": 454,
   "respondidos": 438,
-  "sem_resposta": 15,
-  "sem_resposta_grupos": 15,
+  "sem_resposta": 16,
+  "sem_resposta_grupos": 16,
   "mediana_min": 25.4,
   "atendentes": [
    {
@@ -126,6 +126,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "D.S.S x GMS INDUSTRIALIZACAO DE ALIMENTOS LTDA",
+    "dia": "05/08",
+    "desde": "19:17",
+    "ts": 1785968249669
+   },
    {
     "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
     "dia": "05/08",
@@ -438,6 +444,12 @@
     "dia": "05/08",
     "desde": "18:13",
     "ts": 1785964422669
+   },
+   {
+    "grupo": "D.S.S x GMS INDUSTRIALIZACAO DE ALIMENTOS LTDA",
+    "dia": "05/08",
+    "desde": "19:17",
+    "ts": 1785968249669
    }
   ]
  },
@@ -552,17 +564,17 @@
   ]
  },
  "agora": {
-  "fila": 270,
-  "abertos": 411,
+  "fila": 271,
+  "abertos": 412,
   "com_atendimento": 7,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 1774
+  "espera_media_s": 1768
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T20:33:28.014Z",
-  "min_sem_lead": 8740
+  "ultimo_lead_at": "2025-12-06T06:06:37.358Z",
+  "min_sem_lead": 349463
  },
  "leads": [
   {
