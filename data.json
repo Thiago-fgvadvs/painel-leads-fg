@@ -1,5 +1,5 @@
 {
- "gerado_em": "05/08/2026, 11:49",
+ "gerado_em": "05/08/2026, 12:05",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 368,
-  "tickets_abertos": 410,
+  "tickets_abertos": 403,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,29 +60,29 @@
   }
  ],
  "areas": {
-  "Trabalhista": 9,
-  "Nao identificada": 6
+  "Nao identificada": 6,
+  "Trabalhista": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 189,
-  "turnos": 401,
-  "respondidos": 390,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
-  "mediana_min": 26,
+  "turnos": 405,
+  "respondidos": 395,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 24.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 139,
+    "respostas": 141,
     "mediana_min": 29.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 121,
-    "mediana_min": 81.7
+    "respostas": 123,
+    "mediana_min": 78.6
    },
    {
     "nome": "Gabrielle",
@@ -95,14 +95,14 @@
     "mediana_min": 0.5
    },
    {
+    "nome": "Thauany",
+    "respostas": 16,
+    "mediana_min": 20.8
+   },
+   {
     "nome": "Fernanda Gehm - Administradora",
     "respostas": 16,
     "mediana_min": 713.1
-   },
-   {
-    "nome": "Thauany",
-    "respostas": 15,
-    "mediana_min": 31.9
    },
    {
     "nome": "—",
@@ -127,10 +127,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
+    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
+    "dia": "05/08",
+    "desde": "11:59",
+    "ts": 1785941959466
+   },
+   {
+    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
     "dia": "05/08",
     "desde": "11:42",
-    "ts": 1785940947609
+    "ts": 1785940938392
    },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
@@ -157,22 +163,10 @@
     "ts": 1785860339000
    },
    {
-    "grupo": "S.A.D.H x ALICE'S BAR LTDA",
-    "dia": "04/08",
-    "desde": "17:37",
-    "ts": 1785875857195
-   },
-   {
     "grupo": "F.P.L",
     "dia": "04/08",
     "desde": "17:21",
     "ts": 1785874896096
-   },
-   {
-    "grupo": "B.F.D.L x EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
-    "dia": "04/08",
-    "desde": "14:59",
-    "ts": 1785866361973
    },
    {
     "grupo": "I.A.S x UMANA BRASIL - ASSESSORIA E CONSULTORIA DE RECURSOS HUMANOS LTDA",
@@ -197,6 +191,13 @@
  "pendencias": {
   "dias": 7,
   "leads": [
+   {
+    "nome": "thelma",
+    "tel": "5527*****666",
+    "dia": "05/08",
+    "desde": "09:54",
+    "ts": 1785934443769
+   },
    {
     "nome": "558173192440",
     "tel": "5581*****440",
@@ -266,22 +267,10 @@
     "ts": 1785864344117
    },
    {
-    "grupo": "B.F.D.L x EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
-    "dia": "04/08",
-    "desde": "14:59",
-    "ts": 1785866361973
-   },
-   {
     "grupo": "F.P.L",
     "dia": "04/08",
     "desde": "17:21",
     "ts": 1785874896096
-   },
-   {
-    "grupo": "S.A.D.H x ALICE'S BAR LTDA",
-    "dia": "04/08",
-    "desde": "17:37",
-    "ts": 1785875857195
    },
    {
     "grupo": "A.J.C",
@@ -302,10 +291,16 @@
     "ts": 1785934601415
    },
    {
-    "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
+    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
     "dia": "05/08",
     "desde": "11:42",
-    "ts": 1785940947609
+    "ts": 1785940938392
+   },
+   {
+    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
+    "dia": "05/08",
+    "desde": "11:59",
+    "ts": 1785941959466
    }
   ]
  },
@@ -412,29 +407,18 @@
  },
  "agora": {
   "fila": 277,
-  "abertos": 410,
+  "abertos": 403,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 7,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 2144
+  "ausentes": 1,
+  "espera_media_s": 1830
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-05T13:53:16.567Z",
-  "min_sem_lead": 56
+  "ultimo_lead_at": "2026-07-31T15:37:56.989Z",
+  "min_sem_lead": 7167
  },
  "leads": [
-  {
-   "nome": "🩷Debinha",
-   "tel": "5512*****585",
-   "criado": "10:53",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Leandro Dos Santos",
    "tel": "5582*****744",
@@ -445,6 +429,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "🩷Debinha",
+   "tel": "5512*****585",
+   "criado": "10:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
   },
   {
    "nome": "5519991050019",
