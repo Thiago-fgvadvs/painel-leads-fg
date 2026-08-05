@@ -1,5 +1,5 @@
 {
- "gerado_em": "05/08/2026, 11:03",
+ "gerado_em": "05/08/2026, 11:19",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 366,
-  "tickets_abertos": 408,
+  "tickets_abertos": 407,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,6 +27,10 @@
  },
  "criativos": [
   {
+   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "leads": 2
+  },
+  {
    "url": "fb.me/4uJZlRfWK",
    "leads": 2
   },
@@ -35,15 +39,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DbZBMoPsjD0/",
-   "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "url": "fb.me/9Pf9FTshS",
    "leads": 1
   },
   {
-   "url": "fb.me/9Pf9FTshS",
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 1
   },
   {
@@ -56,29 +56,29 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
-  "Nao identificada": 6
+  "Trabalhista": 8,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 188,
-  "turnos": 388,
-  "respondidos": 376,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 26.3,
+  "turnos": 392,
+  "respondidos": 381,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 26.5,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 135,
-    "mediana_min": 28
+    "respostas": 137,
+    "mediana_min": 29
    },
    {
     "nome": "Nicolas",
-    "respostas": 115,
-    "mediana_min": 93.6
+    "respostas": 118,
+    "mediana_min": 87.7
    },
    {
     "nome": "Gabrielle",
@@ -123,18 +123,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "D.D.A.F x C6bank",
-    "dia": "05/08",
-    "desde": "11:01",
-    "ts": 1785938495490
-   },
-   {
-    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
-    "dia": "05/08",
-    "desde": "10:41",
-    "ts": 1785937292542
-   },
-   {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "05/08",
     "desde": "09:56",
@@ -151,6 +139,12 @@
     "dia": "05/08",
     "desde": "09:29",
     "ts": 1785932979291
+   },
+   {
+    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
+    "dia": "04/08",
+    "desde": "13:05",
+    "ts": 1785859556000
    },
    {
     "grupo": "L.O.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
@@ -213,6 +207,12 @@
     "ts": 1785796248452
    },
    {
+    "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
+    "dia": "04/08",
+    "desde": "13:05",
+    "ts": 1785859556000
+   },
+   {
     "grupo": "I.A.S x UMANA BRASIL - ASSESSORIA E CONSULTORIA DE RECURSOS HUMANOS LTDA",
     "dia": "04/08",
     "desde": "14:25",
@@ -259,18 +259,6 @@
     "dia": "05/08",
     "desde": "09:56",
     "ts": 1785934601415
-   },
-   {
-    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
-    "dia": "05/08",
-    "desde": "10:41",
-    "ts": 1785937292542
-   },
-   {
-    "grupo": "D.D.A.F x C6bank",
-    "dia": "05/08",
-    "desde": "11:01",
-    "ts": 1785938495490
    }
   ]
  },
@@ -377,18 +365,51 @@
  },
  "agora": {
   "fila": 276,
-  "abertos": 408,
+  "abertos": 407,
   "com_atendimento": 7,
-  "online": 6,
-  "offline": 1,
-  "ausentes": 2,
+  "online": 4,
+  "offline": 2,
+  "ausentes": 3,
   "espera_media_s": 2135
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-05T13:54:08.114Z",
-  "min_sem_lead": 10
+  "ultimo_lead_at": "2026-08-05T13:53:16.567Z",
+  "min_sem_lead": 26
  },
  "leads": [
+  {
+   "nome": "🩷Debinha",
+   "tel": "5512*****585",
+   "criado": "10:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "albeniza Alves",
+   "tel": "5521*****400",
+   "criado": "00:31",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Leandro Dos Santos",
+   "tel": "5582*****744",
+   "criado": "05:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Santiago",
    "tel": "5592*****790",
@@ -412,17 +433,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "🩷Debinha",
-   "tel": "5512*****585",
-   "criado": "10:53",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "558173192440",
    "tel": "5581*****440",
    "criado": "10:14",
@@ -434,17 +444,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Leandro Dos Santos",
-   "tel": "5582*****744",
-   "criado": "05:49",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "5511930105067",
    "tel": "5511*****067",
    "criado": "10:20",
@@ -453,17 +452,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "albeniza Alves",
-   "tel": "5521*****400",
-   "criado": "00:31",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
    "area": "Trabalhista"
   },
   {
