@@ -1,28 +1,28 @@
 {
- "gerado_em": "05/08/2026, 20:30",
+ "gerado_em": "05/08/2026, 20:45",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
+  "total": 33,
   "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 8,
+  "fora_horario": 11,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 383,
-  "tickets_abertos": 413,
+  "leads_7d": 386,
+  "tickets_abertos": 416,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 28,
+   "leads": 31,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 24,
+  "Anuncio": 27,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -43,25 +43,25 @@
    "leads": 2
   },
   {
+   "url": "fb.me/annW3H6uu",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/4PcZAj72p",
+   "leads": 2
+  },
+  {
    "url": "www.instagram.com/p/DaTOs97M2al/",
    "leads": 2
   },
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
    "leads": 2
-  },
-  {
-   "url": "fb.me/9Fpd07xjH",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DYVTAskDMJ6/",
-   "leads": 1
   }
  ],
  "areas": {
   "Nao identificada": 10,
-  "Trabalhista": 20
+  "Trabalhista": 23
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -255,20 +255,6 @@
     "ts": 1785934443769
    },
    {
-    "nome": "RS=Amorim",
-    "tel": "5581*****440",
-    "dia": "05/08",
-    "desde": "10:14",
-    "ts": 1785935642824
-   },
-   {
-    "nome": "V",
-    "tel": "5511*****067",
-    "dia": "05/08",
-    "desde": "10:20",
-    "ts": 1785936015594
-   },
-   {
     "nome": "🩷Debinha",
     "tel": "5512*****585",
     "dia": "05/08",
@@ -304,25 +290,32 @@
     "ts": 1785953294889
    },
    {
-    "nome": "559888947032",
-    "tel": "5598*****032",
+    "nome": "🙃",
+    "tel": "5521*****022",
     "dia": "05/08",
-    "desde": "18:50",
-    "ts": 1785966603930
+    "desde": "15:30",
+    "ts": 1785954631043
    },
    {
-    "nome": "559185767568",
-    "tel": "5591*****568",
+    "nome": "🙌🏻",
+    "tel": "5571*****377",
     "dia": "05/08",
-    "desde": "18:59",
-    "ts": 1785967186948
+    "desde": "15:38",
+    "ts": 1785955116453
    },
    {
-    "nome": "5511981233881",
-    "tel": "5511*****881",
+    "nome": "5511963560677",
+    "tel": "5511*****677",
     "dia": "05/08",
-    "desde": "19:42",
-    "ts": 1785969767082
+    "desde": "20:39",
+    "ts": 1785973173765
+   },
+   {
+    "nome": "554599977842",
+    "tel": "5545*****842",
+    "dia": "05/08",
+    "desde": "20:43",
+    "ts": 1785973420312
    }
   ],
   "grupos": [
@@ -541,17 +534,17 @@
   ]
  },
  "agora": {
-  "fila": 272,
-  "abertos": 413,
+  "fila": 275,
+  "abertos": 416,
   "com_atendimento": 7,
-  "online": 0,
+  "online": 1,
   "offline": 8,
-  "ausentes": 1,
-  "espera_media_s": 1763
+  "ausentes": 0,
+  "espera_media_s": 1747
  },
  "captacao": {
   "ultimo_lead_at": "2026-05-27T19:37:16.732Z",
-  "min_sem_lead": 101033
+  "min_sem_lead": 101048
  },
  "leads": [
   {
@@ -564,6 +557,39 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "554599977842",
+   "tel": "5545*****842",
+   "criado": "20:43",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511963560677",
+   "tel": "5511*****677",
+   "criado": "20:39",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4PcZAj72p",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rosilene Zago Dallagostin",
+   "tel": "5567*****431",
+   "criado": "20:33",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
   },
   {
    "nome": "5511981233881",
