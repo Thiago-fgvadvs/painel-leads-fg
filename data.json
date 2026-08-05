@@ -1,17 +1,17 @@
 {
- "gerado_em": "05/08/2026, 15:08",
+ "gerado_em": "05/08/2026, 15:24",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
+  "total": 18,
   "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 370,
-  "tickets_abertos": 395,
+  "leads_7d": 371,
+  "tickets_abertos": 396,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 14,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
-  "Trabalhista": 11
+  "Trabalhista": 12,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -210,11 +210,25 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "thelma",
-    "tel": "5527*****666",
+    "nome": "Ricardo Gabriel",
+    "tel": "5514*****116",
+    "dia": "04/08",
+    "desde": "16:38",
+    "ts": 1785872301602
+   },
+   {
+    "nome": "albeniza Alves",
+    "tel": "5521*****400",
     "dia": "05/08",
-    "desde": "09:54",
-    "ts": 1785934443769
+    "desde": "00:31",
+    "ts": 1785900718140
+   },
+   {
+    "nome": "Leandro Dos Santos",
+    "tel": "5582*****744",
+    "dia": "05/08",
+    "desde": "05:49",
+    "ts": 1785919755387
    },
    {
     "nome": "🩷Debinha",
@@ -252,7 +266,7 @@
     "ts": 1785952446579
    },
    {
-    "nome": "554197034890",
+    "nome": "LEONARDO 4M",
     "tel": "5541*****890",
     "dia": "05/08",
     "desde": "15:08",
@@ -451,21 +465,32 @@
   ]
  },
  "agora": {
-  "fila": 261,
-  "abertos": 395,
+  "fila": 260,
+  "abertos": 396,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 7,
   "offline": 1,
-  "ausentes": 3,
+  "ausentes": 1,
   "espera_media_s": 1834
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T21:28:41.276Z",
-  "min_sem_lead": 4120
+  "ultimo_lead_at": "2026-08-05T14:37:49.223Z",
+  "min_sem_lead": 226
  },
  "leads": [
   {
-   "nome": "554197034890",
+   "nome": "Rafaelly Muniz",
+   "tel": "5521*****340",
+   "criado": "11:37",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "LEONARDO 4M",
    "tel": "5541*****890",
    "criado": "15:08",
    "atendente": "Fernanda Gehm - Administradora",
@@ -473,7 +498,7 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "Sandramaria",
@@ -484,17 +509,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4uJZlRfWK",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Rafaelly Muniz",
-   "tel": "5521*****340",
-   "criado": "11:37",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
    "area": "Trabalhista"
   },
   {
@@ -649,6 +663,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4uJZlRfWK",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "447710173736",
+   "tel": "4477*****736",
+   "criado": "15:15",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
