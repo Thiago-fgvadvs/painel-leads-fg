@@ -1,41 +1,45 @@
 {
- "gerado_em": "05/08/2026, 14:53",
+ "gerado_em": "05/08/2026, 15:08",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
-  "no_sla": 8,
+  "total": 17,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 368,
-  "tickets_abertos": 393,
+  "leads_7d": 370,
+  "tickets_abertos": 395,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 15,
+   "leads": 17,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 14,
   "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "fb.me/4uJZlRfWK",
+   "leads": 3
+  },
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 2
   },
   {
-   "url": "fb.me/4uJZlRfWK",
+   "url": "www.instagram.com/p/DbZBMoPsjD0/",
    "leads": 2
   },
   {
@@ -44,10 +48,6 @@
   },
   {
    "url": "fb.me/9Pf9FTshS",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 1
   },
   {
@@ -60,19 +60,19 @@
   }
  ],
  "areas": {
-  "Trabalhista": 10,
-  "Nao identificada": 5
+  "Nao identificada": 6,
+  "Trabalhista": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 196,
-  "turnos": 424,
-  "respondidos": 412,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 25.4,
+  "grupos_ativos": 198,
+  "turnos": 426,
+  "respondidos": 413,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
+  "mediana_min": 24.8,
   "atendentes": [
    {
     "nome": "Julia",
@@ -121,11 +121,23 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 5,
-    "mediana_min": 14
+    "respostas": 6,
+    "mediana_min": 7.8
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "K.C.A x SANTA HELENA ASSISTÊNCIA MEDICA S/A",
+    "dia": "05/08",
+    "desde": "14:37",
+    "ts": 1785951474491
+   },
+   {
+    "grupo": "G.N.D.S x EBAZAR.COM.BR. LTDA",
+    "dia": "05/08",
+    "desde": "15:05",
+    "ts": 1785953130517
+   },
    {
     "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
     "dia": "05/08",
@@ -149,12 +161,6 @@
     "dia": "05/08",
     "desde": "11:42",
     "ts": 1785940938392
-   },
-   {
-    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
-    "dia": "05/08",
-    "desde": "09:56",
-    "ts": 1785934601415
    },
    {
     "grupo": "S.M.L.M.B x BANCO DO BRASIL S.A ",
@@ -204,34 +210,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Ricardo Gabriel",
-    "tel": "5514*****116",
-    "dia": "04/08",
-    "desde": "16:38",
-    "ts": 1785872301602
-   },
-   {
-    "nome": "Juseli",
-    "tel": "5554*****328",
-    "dia": "04/08",
-    "desde": "23:11",
-    "ts": 1785895883909
-   },
-   {
-    "nome": "albeniza Alves",
-    "tel": "5521*****400",
-    "dia": "05/08",
-    "desde": "00:31",
-    "ts": 1785900718140
-   },
-   {
-    "nome": "Leandro Dos Santos",
-    "tel": "5582*****744",
-    "dia": "05/08",
-    "desde": "05:49",
-    "ts": 1785919755387
-   },
-   {
     "nome": "thelma",
     "tel": "5527*****666",
     "dia": "05/08",
@@ -265,6 +243,20 @@
     "dia": "05/08",
     "desde": "11:38",
     "ts": 1785940707617
+   },
+   {
+    "nome": "Sandramaria",
+    "tel": "5551*****011",
+    "dia": "05/08",
+    "desde": "14:54",
+    "ts": 1785952446579
+   },
+   {
+    "nome": "554197034890",
+    "tel": "5541*****890",
+    "dia": "05/08",
+    "desde": "15:08",
+    "ts": 1785953294889
    }
   ],
   "grupos": [
@@ -317,12 +309,6 @@
     "ts": 1785934042402
    },
    {
-    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
-    "dia": "05/08",
-    "desde": "09:56",
-    "ts": 1785934601415
-   },
-   {
     "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
     "dia": "05/08",
     "desde": "11:42",
@@ -339,16 +325,28 @@
     "dia": "05/08",
     "desde": "13:51",
     "ts": 1785948696472
+   },
+   {
+    "grupo": "K.C.A x SANTA HELENA ASSISTÊNCIA MEDICA S/A",
+    "dia": "05/08",
+    "desde": "14:37",
+    "ts": 1785951474491
+   },
+   {
+    "grupo": "G.N.D.S x EBAZAR.COM.BR. LTDA",
+    "dia": "05/08",
+    "desde": "15:05",
+    "ts": 1785953130517
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 12,
+  "total": 11,
   "por_vendedor": {
    "Eduardo": 3,
-   "Roseli": 5,
-   "Tiago Bernardo": 4
+   "Tiago Bernardo": 4,
+   "Roseli": 4
   },
   "lista": [
    {
@@ -357,15 +355,6 @@
     "dia": "05/08",
     "hora": "12:25",
     "ts": 1785943527454,
-    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
-    "de_anuncio": true
-   },
-   {
-    "vendedor": "Roseli",
-    "cliente": "E.P",
-    "dia": "05/08",
-    "hora": "12:15",
-    "ts": 1785942939602,
     "origem": "Anúncio: Trabalhista - doenças ocupacionais",
     "de_anuncio": true
    },
@@ -462,19 +451,41 @@
   ]
  },
  "agora": {
-  "fila": 259,
-  "abertos": 393,
+  "fila": 261,
+  "abertos": 395,
   "com_atendimento": 7,
   "online": 5,
-  "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 1847
+  "offline": 1,
+  "ausentes": 3,
+  "espera_media_s": 1834
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-05T14:37:49.223Z",
-  "min_sem_lead": 196
+  "ultimo_lead_at": "2026-08-02T21:28:41.276Z",
+  "min_sem_lead": 4120
  },
  "leads": [
+  {
+   "nome": "554197034890",
+   "tel": "5541*****890",
+   "criado": "15:08",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Sandramaria",
+   "tel": "5551*****011",
+   "criado": "14:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4uJZlRfWK",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Rafaelly Muniz",
    "tel": "5521*****340",
