@@ -1,5 +1,5 @@
 {
- "gerado_em": "05/08/2026, 14:38",
+ "gerado_em": "05/08/2026, 14:53",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 368,
-  "tickets_abertos": 394,
+  "tickets_abertos": 393,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,16 +68,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 196,
-  "turnos": 423,
-  "respondidos": 411,
+  "turnos": 424,
+  "respondidos": 412,
   "sem_resposta": 12,
   "sem_resposta_grupos": 12,
-  "mediana_min": 25.9,
+  "mediana_min": 25.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 152,
-    "mediana_min": 29.3
+    "respostas": 153,
+    "mediana_min": 29.2
    },
    {
     "nome": "Nicolas",
@@ -203,6 +203,34 @@
  "pendencias": {
   "dias": 7,
   "leads": [
+   {
+    "nome": "Ricardo Gabriel",
+    "tel": "5514*****116",
+    "dia": "04/08",
+    "desde": "16:38",
+    "ts": 1785872301602
+   },
+   {
+    "nome": "Juseli",
+    "tel": "5554*****328",
+    "dia": "04/08",
+    "desde": "23:11",
+    "ts": 1785895883909
+   },
+   {
+    "nome": "albeniza Alves",
+    "tel": "5521*****400",
+    "dia": "05/08",
+    "desde": "00:31",
+    "ts": 1785900718140
+   },
+   {
+    "nome": "Leandro Dos Santos",
+    "tel": "5582*****744",
+    "dia": "05/08",
+    "desde": "05:49",
+    "ts": 1785919755387
+   },
    {
     "nome": "thelma",
     "tel": "5527*****666",
@@ -434,17 +462,17 @@
   ]
  },
  "agora": {
-  "fila": 258,
-  "abertos": 394,
+  "fila": 259,
+  "abertos": 393,
   "com_atendimento": 7,
-  "online": 6,
-  "offline": 1,
+  "online": 5,
+  "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 1844
+  "espera_media_s": 1847
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-05T14:37:49.223Z",
-  "min_sem_lead": 180
+  "min_sem_lead": 196
  },
  "leads": [
   {
