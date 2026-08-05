@@ -1,5 +1,5 @@
 {
- "gerado_em": "05/08/2026, 14:22",
+ "gerado_em": "05/08/2026, 14:38",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 368,
-  "tickets_abertos": 397,
+  "tickets_abertos": 394,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -67,22 +67,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 195,
-  "turnos": 418,
-  "respondidos": 405,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
-  "mediana_min": 26.5,
+  "grupos_ativos": 196,
+  "turnos": 423,
+  "respondidos": 411,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
+  "mediana_min": 25.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 149,
-    "mediana_min": 29.6
+    "respostas": 152,
+    "mediana_min": 29.3
    },
    {
     "nome": "Nicolas",
-    "respostas": 124,
-    "mediana_min": 80.2
+    "respostas": 127,
+    "mediana_min": 77
    },
    {
     "nome": "Gabrielle",
@@ -126,12 +126,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
-    "dia": "05/08",
-    "desde": "14:17",
-    "ts": 1785950249674
-   },
    {
     "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
     "dia": "05/08",
@@ -317,12 +311,6 @@
     "dia": "05/08",
     "desde": "13:51",
     "ts": 1785948696472
-   },
-   {
-    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
-    "dia": "05/08",
-    "desde": "14:17",
-    "ts": 1785950249674
    }
   ]
  },
@@ -447,16 +435,16 @@
  },
  "agora": {
   "fila": 258,
-  "abertos": 397,
+  "abertos": 394,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 6,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 1842
+  "ausentes": 2,
+  "espera_media_s": 1844
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-05T14:37:49.223Z",
-  "min_sem_lead": 165
+  "min_sem_lead": 180
  },
  "leads": [
   {
