@@ -1,31 +1,35 @@
 {
- "gerado_em": "05/08/2026, 07:14",
+ "gerado_em": "05/08/2026, 07:29",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
+  "total": 7,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 6,
+  "fora_horario": 7,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 359,
-  "tickets_abertos": 398,
+  "leads_7d": 360,
+  "tickets_abertos": 399,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
    "leads": 1
@@ -44,8 +48,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 2
+  "Trabalhista": 3,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -186,7 +190,50 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Gabi",
+    "tel": "5511*****360",
+    "dia": "04/08",
+    "desde": "16:06",
+    "ts": 1785870383482
+   },
+   {
+    "nome": "Iza💋",
+    "tel": "5511*****987",
+    "dia": "04/08",
+    "desde": "16:09",
+    "ts": 1785870556672
+   },
+   {
+    "nome": "vertussophonie93",
+    "tel": "5547*****514",
+    "dia": "04/08",
+    "desde": "16:22",
+    "ts": 1785871369988
+   },
+   {
+    "nome": "Ana Paula",
+    "tel": "5586*****394",
+    "dia": "04/08",
+    "desde": "16:36",
+    "ts": 1785872164519
+   },
+   {
+    "nome": "Ricardo Gabriel",
+    "tel": "5514*****116",
+    "dia": "04/08",
+    "desde": "16:38",
+    "ts": 1785872301602
+   },
+   {
+    "nome": "jhe🫨",
+    "tel": "5583*****760",
+    "dia": "04/08",
+    "desde": "17:10",
+    "ts": 1785874223649
+   }
+  ],
   "grupos": [
    {
     "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
@@ -355,19 +402,30 @@
   ]
  },
  "agora": {
-  "fila": 271,
-  "abertos": 398,
+  "fila": 272,
+  "abertos": 399,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2188
+  "espera_media_s": 2181
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 673614
+  "ultimo_lead_at": "2026-08-05T10:17:02.624Z",
+  "min_sem_lead": 13
  },
  "leads": [
+  {
+   "nome": "Maria",
+   "tel": "5581*****586",
+   "criado": "07:17",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558296111744",
    "tel": "5582*****744",
