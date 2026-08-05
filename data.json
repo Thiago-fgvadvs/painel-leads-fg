@@ -1,31 +1,35 @@
 {
- "gerado_em": "05/08/2026, 15:24",
+ "gerado_em": "05/08/2026, 15:39",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
-  "no_sla": 10,
+  "total": 20,
+  "no_sla": 12,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 371,
-  "tickets_abertos": 396,
+  "leads_7d": 373,
+  "tickets_abertos": 397,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 17,
+   "leads": 19,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 16,
   "Direto/Indicacao": 4
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "leads": 3
+  },
   {
    "url": "fb.me/4uJZlRfWK",
    "leads": 3
@@ -33,10 +37,6 @@
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 3
-  },
-  {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
@@ -47,31 +47,31 @@
    "leads": 1
   },
   {
+   "url": "fb.me/4PcZAj72p",
+   "leads": 1
+  },
+  {
    "url": "fb.me/9Pf9FTshS",
    "leads": 1
   },
   {
    "url": "fb.me/gp4PFLi6F",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4EHi0h7IT",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 12,
-  "Nao identificada": 6
+  "Trabalhista": 13,
+  "Nao identificada": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 198,
-  "turnos": 426,
+  "turnos": 427,
   "respondidos": 413,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
   "mediana_min": 24.8,
   "atendentes": [
    {
@@ -126,6 +126,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "Á.C",
+    "dia": "05/08",
+    "desde": "15:30",
+    "ts": 1785954655542
+   },
    {
     "grupo": "K.C.A x SANTA HELENA ASSISTÊNCIA MEDICA S/A",
     "dia": "05/08",
@@ -210,18 +216,18 @@
   "dias": 7,
   "leads": [
    {
+    "nome": "Andressa Peres",
+    "tel": "5534*****122",
+    "dia": "04/08",
+    "desde": "14:29",
+    "ts": 1785864574916
+   },
+   {
     "nome": "Ricardo Gabriel",
     "tel": "5514*****116",
     "dia": "04/08",
     "desde": "16:38",
     "ts": 1785872301602
-   },
-   {
-    "nome": "albeniza Alves",
-    "tel": "5521*****400",
-    "dia": "05/08",
-    "desde": "00:31",
-    "ts": 1785900718140
    },
    {
     "nome": "Leandro Dos Santos",
@@ -236,13 +242,6 @@
     "dia": "05/08",
     "desde": "10:53",
     "ts": 1785937996567
-   },
-   {
-    "nome": "Santiago",
-    "tel": "5592*****790",
-    "dia": "05/08",
-    "desde": "10:54",
-    "ts": 1785938048114
    },
    {
     "nome": "Rafaelly Muniz",
@@ -271,6 +270,20 @@
     "dia": "05/08",
     "desde": "15:08",
     "ts": 1785953294889
+   },
+   {
+    "nome": "5521976137022",
+    "tel": "5521*****022",
+    "dia": "05/08",
+    "desde": "15:30",
+    "ts": 1785954631043
+   },
+   {
+    "nome": "557192562377",
+    "tel": "5571*****377",
+    "dia": "05/08",
+    "desde": "15:38",
+    "ts": 1785955116453
    }
   ],
   "grupos": [
@@ -351,6 +364,12 @@
     "dia": "05/08",
     "desde": "15:05",
     "ts": 1785953130517
+   },
+   {
+    "grupo": "Á.C",
+    "dia": "05/08",
+    "desde": "15:30",
+    "ts": 1785954655542
    }
   ]
  },
@@ -465,17 +484,17 @@
   ]
  },
  "agora": {
-  "fila": 260,
-  "abertos": 396,
+  "fila": 262,
+  "abertos": 397,
   "com_atendimento": 7,
-  "online": 7,
+  "online": 6,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 1834
+  "ausentes": 2,
+  "espera_media_s": 1822
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-05T14:37:49.223Z",
-  "min_sem_lead": 226
+  "min_sem_lead": 242
  },
  "leads": [
   {
@@ -488,6 +507,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DYVTAskDMJ6/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "557192562377",
+   "tel": "5571*****377",
+   "criado": "15:38",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4PcZAj72p",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5521976137022",
+   "tel": "5521*****022",
+   "criado": "15:30",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
   },
   {
    "nome": "LEONARDO 4M",
