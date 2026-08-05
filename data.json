@@ -1,45 +1,49 @@
 {
- "gerado_em": "05/08/2026, 09:47",
+ "gerado_em": "05/08/2026, 10:02",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 0,
+  "total": 9,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 360,
-  "tickets_abertos": 400,
+  "pct_sla": 100,
+  "mediana_geral": 0.6,
+  "leads_7d": 362,
+  "tickets_abertos": 401,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 7,
-   "mediana_min": null
+   "leads": 9,
+   "mediana_min": 0.6
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 7,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DYhcT7SDBWR/",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/gp4PFLi6F",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DYhcT7SDBWR/",
-   "leads": 1
-  },
-  {
    "url": "fb.me/4EHi0h7IT",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/9Pf9FTshS",
    "leads": 1
   },
   {
@@ -48,19 +52,19 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 3
+  "Trabalhista": 4,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 187,
-  "turnos": 372,
-  "respondidos": 362,
+  "grupos_ativos": 188,
+  "turnos": 376,
+  "respondidos": 366,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
-  "mediana_min": 25.4,
+  "mediana_min": 26,
   "atendentes": [
    {
     "nome": "Julia",
@@ -69,8 +73,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 108,
-    "mediana_min": 77.8
+    "respostas": 110,
+    "mediana_min": 80.2
    },
    {
     "nome": "Gabrielle",
@@ -94,7 +98,7 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 9,
+    "respostas": 11,
     "mediana_min": 288.7
    },
    {
@@ -116,21 +120,21 @@
   "sem_resposta_lista": [
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
-    "dia": "31/07",
-    "desde": "15:17",
-    "ts": 1785521853070
+    "dia": "05/08",
+    "desde": "09:56",
+    "ts": 1785934601415
+   },
+   {
+    "grupo": "S.M.L.M.B x BANCO DO BRASIL S.A ",
+    "dia": "05/08",
+    "desde": "09:47",
+    "ts": 1785934042402
    },
    {
     "grupo": "A.J.C",
     "dia": "05/08",
     "desde": "09:29",
     "ts": 1785932979291
-   },
-   {
-    "grupo": "L.D.M.S x LEVEL 1 SERVIÇOS DE ENGENHARIA LTDA",
-    "dia": "05/08",
-    "desde": "01:11",
-    "ts": 1785903070220
    },
    {
     "grupo": "L.O.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
@@ -187,12 +191,6 @@
     "ts": 1785420991000
    },
    {
-    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
-    "dia": "31/07",
-    "desde": "15:17",
-    "ts": 1785521853070
-   },
-   {
     "grupo": "J.S.B x ULTRAOBRA LTDA",
     "dia": "03/08",
     "desde": "19:30",
@@ -229,16 +227,22 @@
     "ts": 1785900140312
    },
    {
-    "grupo": "L.D.M.S x LEVEL 1 SERVIÇOS DE ENGENHARIA LTDA",
-    "dia": "05/08",
-    "desde": "01:11",
-    "ts": 1785903070220
-   },
-   {
     "grupo": "A.J.C",
     "dia": "05/08",
     "desde": "09:29",
     "ts": 1785932979291
+   },
+   {
+    "grupo": "S.M.L.M.B x BANCO DO BRASIL S.A ",
+    "dia": "05/08",
+    "desde": "09:47",
+    "ts": 1785934042402
+   },
+   {
+    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
+    "dia": "05/08",
+    "desde": "09:56",
+    "ts": 1785934601415
    }
   ]
  },
@@ -344,19 +348,52 @@
   ]
  },
  "agora": {
-  "fila": 275,
-  "abertos": 400,
-  "com_atendimento": 6,
-  "online": 6,
+  "fila": 276,
+  "abertos": 401,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 2317
+  "ausentes": 2,
+  "espera_media_s": 2310
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T15:14:52.190Z",
-  "min_sem_lead": 12812
+  "ultimo_lead_at": "2026-08-05T12:54:03.769Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "5527999434666",
+   "tel": "5527*****666",
+   "criado": "09:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "albeniza Alves",
+   "tel": "5521*****400",
+   "criado": "00:31",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Tuti",
+   "tel": "5514*****627",
+   "criado": "09:56",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/gp4PFLi6F",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Leandro Dos Santos",
    "tel": "5582*****744",
@@ -400,17 +437,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "5521990966400",
-   "tel": "5521*****400",
-   "criado": "00:31",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9Pf9FTshS",
-   "area": "Trabalhista"
   },
   {
    "nome": "5571994107244",
