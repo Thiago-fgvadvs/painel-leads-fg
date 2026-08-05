@@ -1,29 +1,29 @@
 {
- "gerado_em": "05/08/2026, 10:17",
+ "gerado_em": "05/08/2026, 10:33",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 3,
+  "total": 11,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 363,
-  "tickets_abertos": 405,
+  "leads_7d": 364,
+  "tickets_abertos": 408,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.5
   }
  ],
  "origem": {
   "Anuncio": 8,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -35,15 +35,15 @@
    "leads": 1
   },
   {
+   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/9Pf9FTshS",
    "leads": 1
   },
   {
    "url": "fb.me/gp4PFLi6F",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbZBMoPsjD0/",
    "leads": 1
   },
   {
@@ -56,24 +56,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
-  "Trabalhista": 4
+  "Trabalhista": 6,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 188,
-  "turnos": 381,
-  "respondidos": 370,
+  "turnos": 383,
+  "respondidos": 372,
   "sem_resposta": 11,
   "sem_resposta_grupos": 11,
   "mediana_min": 26.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 132,
-    "mediana_min": 29.2
+    "respostas": 133,
+    "mediana_min": 29
    },
    {
     "nome": "Nicolas",
@@ -82,8 +82,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 37,
-    "mediana_min": 5
+    "respostas": 38,
+    "mediana_min": 5.3
    },
    {
     "nome": "Luisa",
@@ -125,8 +125,8 @@
    {
     "grupo": "R.L.M.D.O x LÍLIA RAMOS MARQUES",
     "dia": "05/08",
-    "desde": "10:10",
-    "ts": 1785935444423
+    "desde": "10:29",
+    "ts": 1785936573342
    },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
@@ -257,8 +257,8 @@
    {
     "grupo": "R.L.M.D.O x LÍLIA RAMOS MARQUES",
     "dia": "05/08",
-    "desde": "10:10",
-    "ts": 1785935444423
+    "desde": "10:29",
+    "ts": 1785936573342
    }
   ]
  },
@@ -364,19 +364,30 @@
   ]
  },
  "agora": {
-  "fila": 277,
-  "abertos": 405,
-  "com_atendimento": 7,
-  "online": 3,
-  "offline": 2,
-  "ausentes": 4,
-  "espera_media_s": 2303
+  "fila": 275,
+  "abertos": 408,
+  "com_atendimento": 8,
+  "online": 6,
+  "offline": 1,
+  "ausentes": 2,
+  "espera_media_s": 2296
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
-  "min_sem_lead": 2897
+  "ultimo_lead_at": "2026-08-05T02:11:23.909Z",
+  "min_sem_lead": 682
  },
  "leads": [
+  {
+   "nome": "thelma",
+   "tel": "5527*****666",
+   "criado": "09:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558173192440",
    "tel": "5581*****440",
@@ -386,17 +397,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Leandro Dos Santos",
+   "tel": "5582*****744",
+   "criado": "05:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Nao identificada"
   },
   {
-   "nome": "5527999434666",
-   "tel": "5527*****666",
-   "criado": "09:54",
+   "nome": "5511930105067",
+   "tel": "5511*****067",
+   "criado": "10:20",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.7,
+   "espera_min": 0.3,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DYhcT7SDBWR/",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -419,17 +441,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/gp4PFLi6F",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Leandro Dos Santos",
-   "tel": "5582*****744",
-   "criado": "05:49",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Nao identificada"
   },
   {
