@@ -1,28 +1,28 @@
 {
- "gerado_em": "05/08/2026, 15:54",
+ "gerado_em": "05/08/2026, 16:10",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 13,
+  "total": 22,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
-  "mediana_geral": 0.3,
-  "leads_7d": 374,
-  "tickets_abertos": 398,
+  "mediana_geral": 0.4,
+  "leads_7d": 375,
+  "tickets_abertos": 402,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 20,
-   "mediana_min": 0.3
+   "leads": 21,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DYVTAskDMJ6/",
    "leads": 1
   },
@@ -53,26 +57,22 @@
   {
    "url": "fb.me/9Pf9FTshS",
    "leads": 1
-  },
-  {
-   "url": "fb.me/gp4PFLi6F",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 13,
+  "Trabalhista": 14,
   "Nao identificada": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 198,
-  "turnos": 427,
-  "respondidos": 413,
+  "grupos_ativos": 199,
+  "turnos": 430,
+  "respondidos": 416,
   "sem_resposta": 14,
   "sem_resposta_grupos": 14,
-  "mediana_min": 24.8,
+  "mediana_min": 24.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -96,8 +96,8 @@
    },
    {
     "nome": "Fernanda Gehm - Administradora",
-    "respostas": 17,
-    "mediana_min": 711.8
+    "respostas": 18,
+    "mediana_min": 702.8
    },
    {
     "nome": "Thauany",
@@ -115,14 +115,14 @@
     "mediana_min": 8
    },
    {
+    "nome": "Roseli",
+    "respostas": 8,
+    "mediana_min": 1.2
+   },
+   {
     "nome": "Tiago Bernardo",
     "respostas": 8,
     "mediana_min": 135.1
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 6,
-    "mediana_min": 7.8
    }
   ],
   "sem_resposta_lista": [
@@ -284,6 +284,13 @@
     "dia": "05/08",
     "desde": "15:40",
     "ts": 1785955209985
+   },
+   {
+    "nome": "5511976544118",
+    "tel": "5511*****118",
+    "dia": "05/08",
+    "desde": "16:07",
+    "ts": 1785956829666
    }
   ],
   "grupos": [
@@ -484,19 +491,30 @@
   ]
  },
  "agora": {
-  "fila": 263,
-  "abertos": 398,
+  "fila": 266,
+  "abertos": 402,
   "com_atendimento": 7,
   "online": 5,
   "offline": 1,
   "ausentes": 3,
-  "espera_media_s": 1817
+  "espera_media_s": 1806
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-05T14:37:49.223Z",
-  "min_sem_lead": 257
+  "ultimo_lead_at": "2026-08-05T19:07:09.666Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "5511976544118",
+   "tel": "5511*****118",
+   "criado": "16:07",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Rafaelly Muniz",
    "tel": "5521*****340",
