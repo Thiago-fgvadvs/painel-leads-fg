@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/08/2026, 16:13",
+ "gerado_em": "06/08/2026, 16:29",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 369,
-  "tickets_abertos": 454,
+  "tickets_abertos": 446,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -75,21 +75,21 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 199,
-  "turnos": 511,
-  "respondidos": 491,
-  "sem_resposta": 20,
-  "sem_resposta_grupos": 20,
-  "mediana_min": 21.3,
+  "grupos_ativos": 200,
+  "turnos": 513,
+  "respondidos": 501,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
+  "mediana_min": 21.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 168,
-    "mediana_min": 27.5
+    "respostas": 173,
+    "mediana_min": 28
    },
    {
     "nome": "Nicolas",
-    "respostas": 145,
+    "respostas": 149,
     "mediana_min": 72.3
    },
    {
@@ -99,8 +99,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 39,
-    "mediana_min": 2.2
+    "respostas": 40,
+    "mediana_min": 2.5
    },
    {
     "nome": "Thauany",
@@ -141,24 +141,6 @@
     "ts": 1786040531092
    },
    {
-    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
-    "dia": "06/08",
-    "desde": "15:43",
-    "ts": 1786041785216
-   },
-   {
-    "grupo": "F.M.C.A x ITAU UNIBANCO S.A.",
-    "dia": "06/08",
-    "desde": "15:42",
-    "ts": 1786041725210
-   },
-   {
-    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
-    "dia": "04/08",
-    "desde": "10:59",
-    "ts": 1785851942917
-   },
-   {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
     "dia": "06/08",
     "desde": "12:17",
@@ -171,22 +153,10 @@
     "ts": 1785873299154
    },
    {
-    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
-    "dia": "06/08",
-    "desde": "11:20",
-    "ts": 1786026058946
-   },
-   {
     "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
     "dia": "06/08",
     "desde": "08:46",
     "ts": 1786016788999
-   },
-   {
-    "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
-    "dia": "05/08",
-    "desde": "17:41",
-    "ts": 1785962516648
    },
    {
     "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
@@ -219,12 +189,6 @@
     "ts": 1785948696472
    },
    {
-    "grupo": "S.M.L.M.B x BANCO DO BRASIL S.A ",
-    "dia": "05/08",
-    "desde": "09:47",
-    "ts": 1785934042402
-   },
-   {
     "grupo": "A.J.C",
     "dia": "05/08",
     "desde": "09:29",
@@ -241,18 +205,6 @@
     "dia": "04/08",
     "desde": "17:21",
     "ts": 1785874896096
-   },
-   {
-    "grupo": "I.A.S x UMANA BRASIL - ASSESSORIA E CONSULTORIA DE RECURSOS HUMANOS LTDA",
-    "dia": "04/08",
-    "desde": "14:25",
-    "ts": 1785864344117
-   },
-   {
-    "grupo": "J.S.B x ULTRAOBRA LTDA",
-    "dia": "03/08",
-    "desde": "19:30",
-    "ts": 1785796248452
    }
   ]
  },
@@ -260,14 +212,14 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "559888947032",
+    "nome": "DEUS É FIEL🙏",
     "tel": "5598*****032",
     "dia": "05/08",
     "desde": "18:50",
     "ts": 1785966603930
    },
    {
-    "nome": "559185767568",
+    "nome": "reis1214rafael",
     "tel": "5591*****568",
     "dia": "05/08",
     "desde": "18:59",
@@ -283,28 +235,10 @@
   ],
   "grupos": [
    {
-    "grupo": "J.S.B x ULTRAOBRA LTDA",
-    "dia": "03/08",
-    "desde": "19:30",
-    "ts": 1785796248452
-   },
-   {
-    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
-    "dia": "04/08",
-    "desde": "10:59",
-    "ts": 1785851942917
-   },
-   {
     "grupo": "D.D.A.F x ITAU",
     "dia": "04/08",
     "desde": "13:18",
     "ts": 1785860339000
-   },
-   {
-    "grupo": "I.A.S x UMANA BRASIL - ASSESSORIA E CONSULTORIA DE RECURSOS HUMANOS LTDA",
-    "dia": "04/08",
-    "desde": "14:25",
-    "ts": 1785864344117
    },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
@@ -323,12 +257,6 @@
     "dia": "05/08",
     "desde": "09:29",
     "ts": 1785932979291
-   },
-   {
-    "grupo": "S.M.L.M.B x BANCO DO BRASIL S.A ",
-    "dia": "05/08",
-    "desde": "09:47",
-    "ts": 1785934042402
    },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
@@ -355,12 +283,6 @@
     "ts": 1785961708768
    },
    {
-    "grupo": "E.G x MAGALOG SERVICOS LOGISTICOS LTDA",
-    "dia": "05/08",
-    "desde": "17:41",
-    "ts": 1785962516648
-   },
-   {
     "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
     "dia": "05/08",
     "desde": "17:49",
@@ -373,12 +295,6 @@
     "ts": 1786016788999
    },
    {
-    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
-    "dia": "06/08",
-    "desde": "11:20",
-    "ts": 1786026058946
-   },
-   {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
     "dia": "06/08",
     "desde": "12:17",
@@ -389,18 +305,6 @@
     "dia": "06/08",
     "desde": "15:22",
     "ts": 1786040531092
-   },
-   {
-    "grupo": "F.M.C.A x ITAU UNIBANCO S.A.",
-    "dia": "06/08",
-    "desde": "15:42",
-    "ts": 1786041725210
-   },
-   {
-    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
-    "dia": "06/08",
-    "desde": "15:43",
-    "ts": 1786041785216
    }
   ]
  },
@@ -515,17 +419,17 @@
   ]
  },
  "agora": {
-  "fila": 303,
-  "abertos": 454,
+  "fila": 306,
+  "abertos": 447,
   "com_atendimento": 8,
-  "online": 4,
+  "online": 5,
   "offline": 1,
-  "ausentes": 4,
-  "espera_media_s": 1970
+  "ausentes": 3,
+  "espera_media_s": 1976
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-06T19:10:57.915Z",
-  "min_sem_lead": 3
+  "ultimo_lead_at": "2026-07-28T21:00:20.642Z",
+  "min_sem_lead": 12869
  },
  "leads": [
   {
@@ -534,6 +438,17 @@
    "criado": "16:10",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Cecilia Gomes",
+   "tel": "5583*****035",
+   "criado": "15:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
@@ -551,17 +466,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Cecilia Gomes",
-   "tel": "5583*****035",
-   "criado": "15:51",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Gabi Ferraz",
    "tel": "5511*****461",
    "criado": "15:27",
@@ -573,7 +477,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "553171870499",
+   "nome": "Paulo Henrique",
    "tel": "5531*****499",
    "criado": "14:14",
    "atendente": "Fernanda Gehm - Administradora",
@@ -661,7 +565,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5512988055790",
+   "nome": "Tathy Delgado",
    "tel": "5512*****790",
    "criado": "12:13",
    "atendente": "Fernanda Gehm - Administradora",
@@ -716,7 +620,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5516981326454",
+   "nome": "Thayla Fernandes ❤️🔱",
    "tel": "5516*****454",
    "criado": "01:57",
    "atendente": "Fernanda Gehm - Administradora",
