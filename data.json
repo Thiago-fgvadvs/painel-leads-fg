@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/08/2026, 10:51",
+ "gerado_em": "06/08/2026, 11:07",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.3,
   "leads_7d": 354,
-  "tickets_abertos": 434,
+  "tickets_abertos": 435,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -48,15 +48,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 190,
-  "turnos": 414,
-  "respondidos": 397,
-  "sem_resposta": 17,
-  "sem_resposta_grupos": 17,
+  "turnos": 415,
+  "respondidos": 399,
+  "sem_resposta": 16,
+  "sem_resposta_grupos": 16,
   "mediana_min": 21.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 134,
+    "respostas": 136,
     "mediana_min": 26.1
    },
    {
@@ -123,12 +123,6 @@
     "dia": "05/08",
     "desde": "11:59",
     "ts": 1785941959466
-   },
-   {
-    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
-    "dia": "05/08",
-    "desde": "20:11",
-    "ts": 1785971507806
    },
    {
     "grupo": "D.S.S x GMS INDUSTRIALIZACAO DE ALIMENTOS LTDA",
@@ -277,6 +271,34 @@
     "ts": 1785965056458
    },
    {
+    "nome": "559888947032",
+    "tel": "5598*****032",
+    "dia": "05/08",
+    "desde": "18:50",
+    "ts": 1785966603930
+   },
+   {
+    "nome": "555199611251",
+    "tel": "5551*****251",
+    "dia": "05/08",
+    "desde": "21:47",
+    "ts": 1785977242506
+   },
+   {
+    "nome": "5516981326454",
+    "tel": "5516*****454",
+    "dia": "06/08",
+    "desde": "01:57",
+    "ts": 1785992277675
+   },
+   {
+    "nome": "Chitao Do Forro",
+    "tel": "5585*****153",
+    "dia": "06/08",
+    "desde": "07:09",
+    "ts": 1786010941981
+   },
+   {
     "nome": "559181687365",
     "tel": "5591*****365",
     "dia": "06/08",
@@ -376,12 +398,6 @@
     "ts": 1785968249669
    },
    {
-    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
-    "dia": "05/08",
-    "desde": "20:11",
-    "ts": 1785971507806
-   },
-   {
     "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
     "dia": "06/08",
     "desde": "08:46",
@@ -473,17 +489,17 @@
   ]
  },
  "agora": {
-  "fila": 289,
-  "abertos": 434,
+  "fila": 291,
+  "abertos": 435,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 6,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 1857
+  "ausentes": 0,
+  "espera_media_s": 1852
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T17:01:47.488Z",
-  "min_sem_lead": 9890
+  "ultimo_lead_at": "2026-08-05T08:49:15.387Z",
+  "min_sem_lead": 1758
  },
  "leads": [
   {
