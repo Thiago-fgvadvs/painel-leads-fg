@@ -1,31 +1,39 @@
 {
- "gerado_em": "06/08/2026, 11:37",
+ "gerado_em": "06/08/2026, 11:53",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 1,
+  "total": 6,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
-  "mediana_geral": 0.3,
-  "leads_7d": 354,
-  "tickets_abertos": 436,
+  "mediana_geral": 0.4,
+  "leads_7d": 357,
+  "tickets_abertos": 439,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 3,
-   "mediana_min": 0.3
+   "leads": 6,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 3,
-  "Direto/Indicacao": 0
+  "Anuncio": 5,
+  "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DbqzjPtMmDo/",
+   "leads": 1
+  },
   {
    "url": "fb.me/annW3H6uu",
    "leads": 1
@@ -40,14 +48,14 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2,
-  "Nao identificada": 1
+  "Trabalhista": 3,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 191,
+  "grupos_ativos": 192,
   "turnos": 424,
   "respondidos": 407,
   "sem_resposta": 17,
@@ -214,69 +222,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Sandramaria",
-    "tel": "5551*****011",
-    "dia": "05/08",
-    "desde": "14:54",
-    "ts": 1785952446579
-   },
-   {
-    "nome": "LEONARDO 4M",
-    "tel": "5541*****890",
-    "dia": "05/08",
-    "desde": "15:08",
-    "ts": 1785953294889
-   },
-   {
-    "nome": "🙃",
-    "tel": "5521*****022",
-    "dia": "05/08",
-    "desde": "15:30",
-    "ts": 1785954631043
-   },
-   {
-    "nome": "🙌🏻",
-    "tel": "5571*****377",
-    "dia": "05/08",
-    "desde": "15:38",
-    "ts": 1785955116453
-   },
-   {
-    "nome": "Joao Vitor",
-    "tel": "5584*****773",
-    "dia": "05/08",
-    "desde": "15:40",
-    "ts": 1785955209985
-   },
-   {
-    "nome": "Lea",
-    "tel": "5511*****118",
-    "dia": "05/08",
-    "desde": "16:07",
-    "ts": 1785956829666
-   },
-   {
-    "nome": "rayanne",
-    "tel": "5511*****409",
-    "dia": "05/08",
-    "desde": "18:08",
-    "ts": 1785964098339
-   },
-   {
-    "nome": "553496967934",
-    "tel": "5534*****934",
-    "dia": "05/08",
-    "desde": "18:21",
-    "ts": 1785964865214
-   },
-   {
-    "nome": "559181671924",
-    "tel": "5591*****924",
-    "dia": "05/08",
-    "desde": "18:24",
-    "ts": 1785965056458
-   },
-   {
     "nome": "559888947032",
     "tel": "5598*****032",
     "dia": "05/08",
@@ -284,11 +229,18 @@
     "ts": 1785966603930
    },
    {
-    "nome": "555199611251",
-    "tel": "5551*****251",
+    "nome": "559185767568",
+    "tel": "5591*****568",
     "dia": "05/08",
-    "desde": "21:47",
-    "ts": 1785977242506
+    "desde": "18:59",
+    "ts": 1785967186948
+   },
+   {
+    "nome": "5511981233881",
+    "tel": "5511*****881",
+    "dia": "05/08",
+    "desde": "19:42",
+    "ts": 1785969767082
    },
    {
     "nome": "5516981326454",
@@ -310,6 +262,27 @@
     "dia": "06/08",
     "desde": "10:10",
     "ts": 1786021815543
+   },
+   {
+    "nome": "553183107882",
+    "tel": "5531*****882",
+    "dia": "06/08",
+    "desde": "11:38",
+    "ts": 1786027084114
+   },
+   {
+    "nome": ".",
+    "tel": "5551*****873",
+    "dia": "06/08",
+    "desde": "11:42",
+    "ts": 1786027379597
+   },
+   {
+    "nome": "Beatriz",
+    "tel": "5567*****006",
+    "dia": "06/08",
+    "desde": "11:46",
+    "ts": 1786027611567
    }
   ],
   "grupos": [
@@ -510,19 +483,52 @@
   ]
  },
  "agora": {
-  "fila": 290,
-  "abertos": 436,
+  "fila": 292,
+  "abertos": 439,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 6,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 1848
+  "ausentes": 1,
+  "espera_media_s": 1832
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-05T08:49:15.387Z",
-  "min_sem_lead": 1788
+  "ultimo_lead_at": "2026-08-06T14:46:51.567Z",
+  "min_sem_lead": 6
  },
  "leads": [
+  {
+   "nome": "Beatriz",
+   "tel": "5567*****006",
+   "criado": "11:46",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": ".",
+   "tel": "5551*****873",
+   "criado": "11:42",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553183107882",
+   "tel": "5531*****882",
+   "criado": "11:38",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbqzjPtMmDo/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "559181687365",
    "tel": "5591*****365",
