@@ -1,34 +1,34 @@
 {
- "gerado_em": "06/08/2026, 20:35",
+ "gerado_em": "06/08/2026, 20:50",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 34,
+  "total": 36,
   "no_sla": 27,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 6,
+  "fora_horario": 8,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 385,
-  "tickets_abertos": 458,
+  "leads_7d": 387,
+  "tickets_abertos": 460,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 33,
+   "leads": 35,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 29,
+  "Anuncio": 31,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 9
+   "leads": 10
   },
   {
    "url": "fb.me/annW3H6uu",
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/Dbqzq5EM0kg/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/kTs8YUtG7",
    "leads": 1
   },
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/4PcZAj72p",
    "leads": 1
-  },
-  {
-   "url": "fb.me/a0An5DqFR",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 27,
   "Nao identificada": 8,
-  "Trabalhista": 25,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
@@ -217,34 +217,6 @@
  "pendencias": {
   "dias": 7,
   "leads": [
-   {
-    "nome": "rayanne",
-    "tel": "5511*****409",
-    "dia": "05/08",
-    "desde": "18:08",
-    "ts": 1785964098339
-   },
-   {
-    "nome": "Julsinahya",
-    "tel": "5534*****934",
-    "dia": "05/08",
-    "desde": "18:21",
-    "ts": 1785964865214
-   },
-   {
-    "nome": "joao luccas💍",
-    "tel": "5591*****924",
-    "dia": "05/08",
-    "desde": "18:24",
-    "ts": 1785965056458
-   },
-   {
-    "nome": "DEUS É FIEL🙏",
-    "tel": "5598*****032",
-    "dia": "05/08",
-    "desde": "18:50",
-    "ts": 1785966603930
-   },
    {
     "nome": "morena",
     "tel": "5551*****877",
@@ -445,19 +417,41 @@
   ]
  },
  "agora": {
-  "fila": 317,
-  "abertos": 458,
+  "fila": 319,
+  "abertos": 460,
   "com_atendimento": 7,
   "online": 2,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 1820
+  "espera_media_s": 1810
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-06T23:20:34.264Z",
-  "min_sem_lead": 14
+  "ultimo_lead_at": "2026-08-06T23:41:32.239Z",
+  "min_sem_lead": 9
  },
  "leads": [
+  {
+   "nome": "5511974516340",
+   "tel": "5511*****340",
+   "criado": "20:41",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbqzq5EM0kg/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5524998378348",
+   "tel": "5524*****348",
+   "criado": "20:36",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Carvalho ❄️",
    "tel": "5511*****619",
