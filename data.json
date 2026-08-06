@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/08/2026, 09:35",
+ "gerado_em": "06/08/2026, 09:50",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 353,
-  "tickets_abertos": 433,
+  "tickets_abertos": 432,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -44,26 +44,26 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 186,
-  "turnos": 406,
-  "respondidos": 386,
-  "sem_resposta": 20,
-  "sem_resposta_grupos": 20,
-  "mediana_min": 20.4,
+  "turnos": 408,
+  "respondidos": 390,
+  "sem_resposta": 18,
+  "sem_resposta_grupos": 18,
+  "mediana_min": 20.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 128,
+    "respostas": 130,
     "mediana_min": 26.3
    },
    {
     "nome": "Nicolas",
-    "respostas": 118,
-    "mediana_min": 85.3
+    "respostas": 119,
+    "mediana_min": 93.6
    },
    {
     "nome": "Gabrielle",
-    "respostas": 51,
-    "mediana_min": 3.3
+    "respostas": 52,
+    "mediana_min": 3.6
    },
    {
     "nome": "Luisa",
@@ -103,22 +103,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "B.K.D.S x HOSPLOG LOGISTICA LTDA",
-    "dia": "06/08",
-    "desde": "09:23",
-    "ts": 1786019036887
-   },
-   {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
     "dia": "04/08",
     "desde": "10:29",
     "ts": 1785850185892
-   },
-   {
-    "grupo": "A.C.P.N.S x MUNICIPIO DE RIBEIRAO DAS NEVES ",
-    "dia": "06/08",
-    "desde": "08:55",
-    "ts": 1786017320911
    },
    {
     "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
@@ -406,18 +394,6 @@
     "dia": "06/08",
     "desde": "08:46",
     "ts": 1786016788999
-   },
-   {
-    "grupo": "A.C.P.N.S x MUNICIPIO DE RIBEIRAO DAS NEVES ",
-    "dia": "06/08",
-    "desde": "08:55",
-    "ts": 1786017320911
-   },
-   {
-    "grupo": "B.K.D.S x HOSPLOG LOGISTICA LTDA",
-    "dia": "06/08",
-    "desde": "09:23",
-    "ts": 1786019036887
    }
   ]
  },
@@ -506,16 +482,16 @@
  },
  "agora": {
   "fila": 287,
-  "abertos": 433,
+  "abertos": 432,
   "com_atendimento": 8,
-  "online": 1,
-  "offline": 6,
-  "ausentes": 2,
+  "online": 3,
+  "offline": 5,
+  "ausentes": 1,
   "espera_media_s": 1862
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T17:13:01.734Z",
-  "min_sem_lead": 5482
+  "ultimo_lead_at": "2026-08-05T20:32:02.896Z",
+  "min_sem_lead": 978
  },
  "leads": [
   {
