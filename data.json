@@ -1,28 +1,28 @@
 {
- "gerado_em": "05/08/2026, 21:01",
+ "gerado_em": "05/08/2026, 21:16",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
+  "total": 35,
   "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 11,
+  "fora_horario": 13,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 386,
-  "tickets_abertos": 416,
+  "leads_7d": 388,
+  "tickets_abertos": 418,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 31,
+   "leads": 33,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 27,
+  "Anuncio": 29,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -35,8 +35,16 @@
    "leads": 4
   },
   {
+   "url": "fb.me/annW3H6uu",
+   "leads": 3
+  },
+  {
    "url": "fb.me/4uJZlRfWK",
    "leads": 3
+  },
+  {
+   "url": "fb.me/4EHi0h7IT",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DbZBMoPsjD0/",
@@ -47,21 +55,13 @@
    "leads": 2
   },
   {
-   "url": "fb.me/annW3H6uu",
-   "leads": 2
-  },
-  {
    "url": "www.instagram.com/p/DaTOs97M2al/",
-   "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
    "leads": 2
   }
  ],
  "areas": {
-  "Nao identificada": 10,
-  "Trabalhista": 23
+  "Trabalhista": 25,
+  "Nao identificada": 10
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -234,25 +234,11 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Juseli",
-    "tel": "5554*****328",
-    "dia": "04/08",
-    "desde": "23:11",
-    "ts": 1785895883909
-   },
-   {
     "nome": "albeniza Alves",
     "tel": "5521*****400",
     "dia": "05/08",
     "desde": "00:31",
     "ts": 1785900718140
-   },
-   {
-    "nome": "thelma",
-    "tel": "5527*****666",
-    "dia": "05/08",
-    "desde": "09:54",
-    "ts": 1785934443769
    },
    {
     "nome": "🩷Debinha",
@@ -267,6 +253,13 @@
     "dia": "05/08",
     "desde": "10:54",
     "ts": 1785938048114
+   },
+   {
+    "nome": "Rafaelly Muniz",
+    "tel": "5521*****340",
+    "dia": "05/08",
+    "desde": "11:37",
+    "ts": 1785940669223
    },
    {
     "nome": "bc1820454",
@@ -304,18 +297,11 @@
     "ts": 1785955116453
    },
    {
-    "nome": "5511963560677",
-    "tel": "5511*****677",
+    "nome": "Joao Vitor",
+    "tel": "5584*****773",
     "dia": "05/08",
-    "desde": "20:39",
-    "ts": 1785973173765
-   },
-   {
-    "nome": "554599977842",
-    "tel": "5545*****842",
-    "dia": "05/08",
-    "desde": "20:43",
-    "ts": 1785973420312
+    "desde": "15:40",
+    "ts": 1785955209985
    }
   ],
   "grupos": [
@@ -534,19 +520,30 @@
   ]
  },
  "agora": {
-  "fila": 275,
-  "abertos": 416,
+  "fila": 277,
+  "abertos": 418,
   "com_atendimento": 7,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 1747
+  "espera_media_s": 1737
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-05T08:49:15.387Z",
-  "min_sem_lead": 912
+  "ultimo_lead_at": "2026-08-06T00:10:58.660Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "558594448898",
+   "tel": "5585*****898",
+   "criado": "21:10",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EHi0h7IT",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Leandro Dos Santos",
    "tel": "5582*****744",
@@ -557,6 +554,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbZBMoPsjD0/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "554599977842",
+   "tel": "5545*****842",
+   "criado": "20:43",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558197739983",
+   "tel": "5581*****983",
+   "criado": "21:06",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
   },
   {
    "nome": "Thay",
@@ -578,17 +597,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4PcZAj72p",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "554599977842",
-   "tel": "5545*****842",
-   "criado": "20:43",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/annW3H6uu",
    "area": "Trabalhista"
   },
   {
