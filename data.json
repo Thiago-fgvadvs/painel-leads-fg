@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/08/2026, 11:07",
+ "gerado_em": "06/08/2026, 11:22",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.3,
   "leads_7d": 354,
-  "tickets_abertos": 435,
+  "tickets_abertos": 436,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -47,17 +47,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 190,
-  "turnos": 415,
-  "respondidos": 399,
-  "sem_resposta": 16,
-  "sem_resposta_grupos": 16,
-  "mediana_min": 21.1,
+  "grupos_ativos": 191,
+  "turnos": 422,
+  "respondidos": 405,
+  "sem_resposta": 17,
+  "sem_resposta_grupos": 17,
+  "mediana_min": 21,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 136,
-    "mediana_min": 26.1
+    "respostas": 142,
+    "mediana_min": 26
    },
    {
     "nome": "Nicolas",
@@ -106,6 +106,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "D.A x Bradesco",
+    "dia": "06/08",
+    "desde": "10:27",
+    "ts": 1786022836935
+   },
    {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
     "dia": "04/08",
@@ -402,18 +408,33 @@
     "dia": "06/08",
     "desde": "08:46",
     "ts": 1786016788999
+   },
+   {
+    "grupo": "D.A x Bradesco",
+    "dia": "06/08",
+    "desde": "10:27",
+    "ts": 1786022836935
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 8,
+  "total": 9,
   "por_vendedor": {
+   "Roseli": 5,
    "Eduardo": 2,
-   "Tiago Bernardo": 2,
-   "Roseli": 4
+   "Tiago Bernardo": 2
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "L.D.S",
+    "dia": "06/08",
+    "hora": "11:18",
+    "ts": 1786025939890,
+    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Eduardo",
     "cliente": "J",
@@ -490,16 +511,16 @@
  },
  "agora": {
   "fila": 291,
-  "abertos": 435,
+  "abertos": 436,
   "com_atendimento": 8,
-  "online": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 1852
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-05T08:49:15.387Z",
-  "min_sem_lead": 1758
+  "min_sem_lead": 1773
  },
  "leads": [
   {
