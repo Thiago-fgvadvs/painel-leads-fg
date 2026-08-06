@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/08/2026, 13:40",
+ "gerado_em": "06/08/2026, 13:55",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -74,12 +74,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 193,
-  "turnos": 449,
-  "respondidos": 432,
-  "sem_resposta": 17,
-  "sem_resposta_grupos": 17,
-  "mediana_min": 21.5,
+  "grupos_ativos": 194,
+  "turnos": 456,
+  "respondidos": 438,
+  "sem_resposta": 18,
+  "sem_resposta_grupos": 18,
+  "mediana_min": 20.8,
   "atendentes": [
    {
     "nome": "Julia",
@@ -98,13 +98,13 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 27,
-    "mediana_min": 0.5
+    "respostas": 28,
+    "mediana_min": 0.6
    },
    {
     "nome": "Thauany",
-    "respostas": 20,
-    "mediana_min": 3.3
+    "respostas": 25,
+    "mediana_min": 0.7
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -134,10 +134,28 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
+    "dia": "05/08",
+    "desde": "11:59",
+    "ts": 1785941959466
+   },
+   {
+    "grupo": "G.N.D.S x EBAZAR.COM.BR. LTDA",
+    "dia": "05/08",
+    "desde": "15:05",
+    "ts": 1785953130517
+   },
+   {
     "grupo": "E.P.M.N x FONSECA SUPERMERCADOS LTDA",
     "dia": "06/08",
-    "desde": "13:36",
-    "ts": 1786034184134
+    "desde": "13:45",
+    "ts": 1786034739033
+   },
+   {
+    "grupo": "B.F.M x FONSECA SUPERMERCADO LTDA",
+    "dia": "06/08",
+    "desde": "13:43",
+    "ts": 1786034636145
    },
    {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
@@ -156,12 +174,6 @@
     "dia": "06/08",
     "desde": "08:46",
     "ts": 1786016788999
-   },
-   {
-    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
-    "dia": "05/08",
-    "desde": "11:59",
-    "ts": 1785941959466
    },
    {
     "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
@@ -186,12 +198,6 @@
     "dia": "05/08",
     "desde": "14:37",
     "ts": 1785951474491
-   },
-   {
-    "grupo": "G.N.D.S x EBAZAR.COM.BR. LTDA",
-    "dia": "05/08",
-    "desde": "15:05",
-    "ts": 1785953130517
    },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
@@ -430,10 +436,16 @@
     "ts": 1786029453975
    },
    {
+    "grupo": "B.F.M x FONSECA SUPERMERCADO LTDA",
+    "dia": "06/08",
+    "desde": "13:43",
+    "ts": 1786034636145
+   },
+   {
     "grupo": "E.P.M.N x FONSECA SUPERMERCADOS LTDA",
     "dia": "06/08",
-    "desde": "13:36",
-    "ts": 1786034184134
+    "desde": "13:45",
+    "ts": 1786034739033
    }
   ]
  },
@@ -542,14 +554,14 @@
   "fila": 297,
   "abertos": 443,
   "com_atendimento": 8,
-  "online": 5,
-  "offline": 3,
-  "ausentes": 1,
+  "online": 6,
+  "offline": 1,
+  "ausentes": 2,
   "espera_media_s": 1999
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T15:37:56.989Z",
-  "min_sem_lead": 8702
+  "ultimo_lead_at": "2026-08-05T20:32:02.896Z",
+  "min_sem_lead": 1224
  },
  "leads": [
   {
