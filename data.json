@@ -1,34 +1,38 @@
 {
- "gerado_em": "06/08/2026, 13:09",
+ "gerado_em": "06/08/2026, 13:25",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 6,
+  "total": 10,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 360,
-  "tickets_abertos": 441,
+  "leads_7d": 361,
+  "tickets_abertos": 443,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 8,
+   "leads": 9,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 9,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "fb.me/annW3H6uu",
    "leads": 2
+  },
+  {
+   "url": "fb.me/4EHi0h7IT",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
@@ -56,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
+  "Trabalhista": 5,
   "Nao identificada": 5
  },
  "sem_resposta_lista": [
@@ -71,11 +75,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 192,
-  "turnos": 437,
-  "respondidos": 420,
-  "sem_resposta": 17,
-  "sem_resposta_grupos": 17,
-  "mediana_min": 22.4,
+  "turnos": 439,
+  "respondidos": 421,
+  "sem_resposta": 18,
+  "sem_resposta_grupos": 18,
+  "mediana_min": 22.3,
   "atendentes": [
    {
     "nome": "Julia",
@@ -84,8 +88,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 131,
-    "mediana_min": 99.7
+    "respostas": 132,
+    "mediana_min": 97.2
    },
    {
     "nome": "Gabrielle",
@@ -130,10 +134,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "B.F.M x FONSECA SUPERMERCADO LTDA",
+    "dia": "06/08",
+    "desde": "10:05",
+    "ts": 1786021525898
+   },
+   {
     "grupo": "M.G.S",
     "dia": "06/08",
-    "desde": "13:09",
-    "ts": 1786032552990
+    "desde": "13:12",
+    "ts": 1786032736994
    },
    {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
@@ -237,13 +247,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "LEONARDO 4M",
-    "tel": "5541*****890",
-    "dia": "05/08",
-    "desde": "15:08",
-    "ts": 1785953294889
-   },
-   {
     "nome": "🙃",
     "tel": "5521*****022",
     "dia": "05/08",
@@ -251,18 +254,18 @@
     "ts": 1785954631043
    },
    {
+    "nome": "🙌🏻",
+    "tel": "5571*****377",
+    "dia": "05/08",
+    "desde": "15:38",
+    "ts": 1785955116453
+   },
+   {
     "nome": "Hildeberto Junior",
     "tel": "5581*****983",
     "dia": "05/08",
     "desde": "21:06",
     "ts": 1785974768447
-   },
-   {
-    "nome": "Milena Sanches",
-    "tel": "5518*****852",
-    "dia": "05/08",
-    "desde": "21:35",
-    "ts": 1785976509201
    },
    {
     "nome": "5516981326454",
@@ -326,6 +329,13 @@
     "dia": "06/08",
     "desde": "13:01",
     "ts": 1786032075445
+   },
+   {
+    "nome": "Leonor",
+    "tel": "5521*****568",
+    "dia": "06/08",
+    "desde": "13:21",
+    "ts": 1786033281158
    }
   ],
   "grupos": [
@@ -420,6 +430,12 @@
     "ts": 1786016788999
    },
    {
+    "grupo": "B.F.M x FONSECA SUPERMERCADO LTDA",
+    "dia": "06/08",
+    "desde": "10:05",
+    "ts": 1786021525898
+   },
+   {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
     "dia": "06/08",
     "desde": "12:17",
@@ -428,20 +444,29 @@
    {
     "grupo": "M.G.S",
     "dia": "06/08",
-    "desde": "13:09",
-    "ts": 1786032552990
+    "desde": "13:12",
+    "ts": 1786032736994
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 9,
+  "total": 10,
   "por_vendedor": {
+   "Tiago Bernardo": 3,
    "Roseli": 5,
-   "Eduardo": 2,
-   "Tiago Bernardo": 2
+   "Eduardo": 2
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "C.G",
+    "dia": "06/08",
+    "hora": "13:11",
+    "ts": 1786032685204,
+    "origem": "Anúncio: instagram.com/p/DbZBMoPsjD0/",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "L.D.S",
@@ -526,19 +551,30 @@
   ]
  },
  "agora": {
-  "fila": 296,
-  "abertos": 441,
+  "fila": 297,
+  "abertos": 443,
   "com_atendimento": 7,
   "online": 3,
   "offline": 3,
   "ausentes": 3,
-  "espera_media_s": 2005
+  "espera_media_s": 1999
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
-  "min_sem_lead": 4509
+  "ultimo_lead_at": "2026-08-06T16:21:21.158Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "Leonor",
+   "tel": "5521*****568",
+   "criado": "13:21",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EHi0h7IT",
+   "area": "Trabalhista"
+  },
   {
    "nome": "morena",
    "tel": "5551*****877",
