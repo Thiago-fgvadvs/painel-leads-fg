@@ -1,34 +1,38 @@
 {
- "gerado_em": "06/08/2026, 13:55",
+ "gerado_em": "06/08/2026, 14:11",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 7,
+  "total": 11,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 361,
-  "tickets_abertos": 443,
+  "leads_7d": 362,
+  "tickets_abertos": 445,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "fb.me/annW3H6uu",
    "leads": 2
+  },
+  {
+   "url": "fb.me/a0An5DqFR",
+   "leads": 1
   },
   {
    "url": "fb.me/4EHi0h7IT",
@@ -53,13 +57,10 @@
   {
    "url": "fb.me/9Pf9FTshS",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 1
   }
  ],
  "areas": {
+  "Previdenciario": 1,
   "Trabalhista": 5,
   "Nao identificada": 5
  },
@@ -75,16 +76,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 194,
-  "turnos": 456,
-  "respondidos": 438,
-  "sem_resposta": 18,
-  "sem_resposta_grupos": 18,
-  "mediana_min": 20.8,
+  "turnos": 465,
+  "respondidos": 446,
+  "sem_resposta": 19,
+  "sem_resposta_grupos": 19,
+  "mediana_min": 20.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 145,
-    "mediana_min": 26.1
+    "respostas": 150,
+    "mediana_min": 25.8
    },
    {
     "nome": "Nicolas",
@@ -98,8 +99,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 28,
-    "mediana_min": 0.6
+    "respostas": 31,
+    "mediana_min": 0.7
    },
    {
     "nome": "Thauany",
@@ -134,6 +135,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "E.P.M.N x FONSECA SUPERMERCADOS LTDA",
+    "dia": "06/08",
+    "desde": "14:09",
+    "ts": 1786036141037
+   },
+   {
     "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
     "dia": "05/08",
     "desde": "11:59",
@@ -146,16 +153,16 @@
     "ts": 1785953130517
    },
    {
-    "grupo": "E.P.M.N x FONSECA SUPERMERCADOS LTDA",
-    "dia": "06/08",
-    "desde": "13:45",
-    "ts": 1786034739033
-   },
-   {
     "grupo": "B.F.M x FONSECA SUPERMERCADO LTDA",
     "dia": "06/08",
     "desde": "13:43",
     "ts": 1786034636145
+   },
+   {
+    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
+    "dia": "06/08",
+    "desde": "13:10",
+    "ts": 1786032655992
    },
    {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
@@ -247,32 +254,11 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "🙃",
-    "tel": "5521*****022",
-    "dia": "05/08",
-    "desde": "15:30",
-    "ts": 1785954631043
-   },
-   {
-    "nome": "🙌🏻",
-    "tel": "5571*****377",
-    "dia": "05/08",
-    "desde": "15:38",
-    "ts": 1785955116453
-   },
-   {
     "nome": "Hildeberto Junior",
     "tel": "5581*****983",
     "dia": "05/08",
     "desde": "21:06",
     "ts": 1785974768447
-   },
-   {
-    "nome": "5516981326454",
-    "tel": "5516*****454",
-    "dia": "06/08",
-    "desde": "01:57",
-    "ts": 1785992277675
    },
    {
     "nome": "Chitao Do Forro",
@@ -336,6 +322,13 @@
     "dia": "06/08",
     "desde": "13:21",
     "ts": 1786033281158
+   },
+   {
+    "nome": "Wilson",
+    "tel": "5553*****991",
+    "dia": "06/08",
+    "desde": "13:57",
+    "ts": 1786035428566
    }
   ],
   "grupos": [
@@ -436,6 +429,12 @@
     "ts": 1786029453975
    },
    {
+    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
+    "dia": "06/08",
+    "desde": "13:10",
+    "ts": 1786032655992
+   },
+   {
     "grupo": "B.F.M x FONSECA SUPERMERCADO LTDA",
     "dia": "06/08",
     "desde": "13:43",
@@ -444,8 +443,8 @@
    {
     "grupo": "E.P.M.N x FONSECA SUPERMERCADOS LTDA",
     "dia": "06/08",
-    "desde": "13:45",
-    "ts": 1786034739033
+    "desde": "14:09",
+    "ts": 1786036141037
    }
   ]
  },
@@ -551,19 +550,30 @@
   ]
  },
  "agora": {
-  "fila": 297,
-  "abertos": 443,
+  "fila": 298,
+  "abertos": 445,
   "com_atendimento": 8,
-  "online": 6,
-  "offline": 1,
+  "online": 5,
+  "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 1999
+  "espera_media_s": 1994
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-05T20:32:02.896Z",
-  "min_sem_lead": 1224
+  "ultimo_lead_at": "2026-08-06T16:57:08.566Z",
+  "min_sem_lead": 14
  },
  "leads": [
+  {
+   "nome": "Wilson",
+   "tel": "5553*****991",
+   "criado": "13:57",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/a0An5DqFR",
+   "area": "Previdenciario"
+  },
   {
    "nome": "Leonor",
    "tel": "5521*****568",
