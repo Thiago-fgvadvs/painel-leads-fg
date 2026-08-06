@@ -1,28 +1,28 @@
 {
- "gerado_em": "05/08/2026, 21:16",
+ "gerado_em": "05/08/2026, 21:31",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 35,
+  "total": 36,
   "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 13,
+  "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 388,
-  "tickets_abertos": 418,
+  "leads_7d": 389,
+  "tickets_abertos": 420,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 33,
+   "leads": 34,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 29,
+  "Anuncio": 30,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -43,11 +43,11 @@
    "leads": 3
   },
   {
-   "url": "fb.me/4EHi0h7IT",
+   "url": "www.instagram.com/p/DbZBMoPsjD0/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DbZBMoPsjD0/",
+   "url": "fb.me/4EHi0h7IT",
    "leads": 2
   },
   {
@@ -61,7 +61,7 @@
  ],
  "areas": {
   "Trabalhista": 25,
-  "Nao identificada": 10
+  "Nao identificada": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -233,6 +233,13 @@
  "pendencias": {
   "dias": 7,
   "leads": [
+   {
+    "nome": "Ricardo Gabriel",
+    "tel": "5514*****116",
+    "dia": "04/08",
+    "desde": "16:38",
+    "ts": 1785872301602
+   },
    {
     "nome": "albeniza Alves",
     "tel": "5521*****400",
@@ -520,29 +527,40 @@
   ]
  },
  "agora": {
-  "fila": 277,
-  "abertos": 418,
+  "fila": 279,
+  "abertos": 420,
   "com_atendimento": 7,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 1737
+  "espera_media_s": 1727
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-06T00:10:58.660Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2026-08-05T23:43:40.312Z",
+  "min_sem_lead": 48
  },
  "leads": [
   {
-   "nome": "558594448898",
-   "tel": "5585*****898",
-   "criado": "21:10",
+   "nome": "554599977842",
+   "tel": "5545*****842",
+   "criado": "20:43",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "fb.me/4EHi0h7IT",
+   "criativo": "fb.me/annW3H6uu",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "amadeuslimaferreiralima",
+   "tel": "5562*****668",
+   "criado": "21:24",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9RDzqRvZg",
+   "area": "Nao identificada"
   },
   {
    "nome": "Leandro Dos Santos",
@@ -556,14 +574,14 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "554599977842",
-   "tel": "5545*****842",
-   "criado": "20:43",
+   "nome": "558594448898",
+   "tel": "5585*****898",
+   "criado": "21:10",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "fb.me/annW3H6uu",
+   "criativo": "fb.me/4EHi0h7IT",
    "area": "Trabalhista"
   },
   {
