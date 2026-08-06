@@ -1,29 +1,29 @@
 {
- "gerado_em": "06/08/2026, 15:43",
+ "gerado_em": "06/08/2026, 15:58",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 13,
+  "total": 17,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 367,
-  "tickets_abertos": 451,
+  "leads_7d": 368,
+  "tickets_abertos": 454,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 15,
+   "leads": 16,
    "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 15,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
+  "Nao identificada": 7,
   "Trabalhista": 9,
   "Previdenciario": 1
  },
@@ -76,11 +76,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 198,
-  "turnos": 505,
-  "respondidos": 484,
+  "turnos": 510,
+  "respondidos": 489,
   "sem_resposta": 21,
   "sem_resposta_grupos": 21,
-  "mediana_min": 21.2,
+  "mediana_min": 21.3,
   "atendentes": [
    {
     "nome": "Julia",
@@ -89,8 +89,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 141,
-    "mediana_min": 93.1
+    "respostas": 144,
+    "mediana_min": 74.7
    },
    {
     "nome": "Gabrielle",
@@ -114,18 +114,18 @@
    },
    {
     "nome": "Eduardo",
+    "respostas": 14,
+    "mediana_min": 9.4
+   },
+   {
+    "nome": "Roseli",
     "respostas": 13,
-    "mediana_min": 8
+    "mediana_min": 4.8
    },
    {
     "nome": "—",
     "respostas": 13,
     "mediana_min": 4.4
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 12,
-    "mediana_min": 5.4
    },
    {
     "nome": "Tiago Bernardo",
@@ -141,6 +141,12 @@
     "ts": 1786040531092
    },
    {
+    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
+    "dia": "06/08",
+    "desde": "15:43",
+    "ts": 1786041785216
+   },
+   {
     "grupo": "E.P.M.N x FONSECA SUPERMERCADOS LTDA",
     "dia": "06/08",
     "desde": "15:42",
@@ -151,12 +157,6 @@
     "dia": "06/08",
     "desde": "15:42",
     "ts": 1786041725210
-   },
-   {
-    "grupo": "R.L.M.D.O x LÍLIA RAMOS MARQUES",
-    "dia": "06/08",
-    "desde": "15:24",
-    "ts": 1786040654198
    },
    {
     "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
@@ -266,34 +266,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "🙃",
-    "tel": "5521*****022",
-    "dia": "05/08",
-    "desde": "15:30",
-    "ts": 1785954631043
-   },
-   {
-    "nome": "🙌🏻",
-    "tel": "5571*****377",
-    "dia": "05/08",
-    "desde": "15:38",
-    "ts": 1785955116453
-   },
-   {
-    "nome": "Joao Vitor",
-    "tel": "5584*****773",
-    "dia": "05/08",
-    "desde": "15:40",
-    "ts": 1785955209985
-   },
-   {
-    "nome": "Lea",
-    "tel": "5511*****118",
-    "dia": "05/08",
-    "desde": "16:07",
-    "ts": 1785956829666
-   },
-   {
     "nome": "rayanne",
     "tel": "5511*****409",
     "dia": "05/08",
@@ -301,11 +273,25 @@
     "ts": 1785964098339
    },
    {
+    "nome": "553496967934",
+    "tel": "5534*****934",
+    "dia": "05/08",
+    "desde": "18:21",
+    "ts": 1785964865214
+   },
+   {
     "nome": "559181671924",
     "tel": "5591*****924",
     "dia": "05/08",
     "desde": "18:24",
     "ts": 1785965056458
+   },
+   {
+    "nome": "559888947032",
+    "tel": "5598*****032",
+    "dia": "05/08",
+    "desde": "18:50",
+    "ts": 1785966603930
    },
    {
     "nome": "morena",
@@ -425,12 +411,6 @@
     "ts": 1786040531092
    },
    {
-    "grupo": "R.L.M.D.O x LÍLIA RAMOS MARQUES",
-    "dia": "06/08",
-    "desde": "15:24",
-    "ts": 1786040654198
-   },
-   {
     "grupo": "F.M.C.A x ITAU UNIBANCO S.A.",
     "dia": "06/08",
     "desde": "15:42",
@@ -441,6 +421,12 @@
     "dia": "06/08",
     "desde": "15:42",
     "ts": 1786041745214
+   },
+   {
+    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
+    "dia": "06/08",
+    "desde": "15:43",
+    "ts": 1786041785216
    }
   ]
  },
@@ -555,17 +541,17 @@
   ]
  },
  "agora": {
-  "fila": 301,
-  "abertos": 451,
+  "fila": 303,
+  "abertos": 454,
   "com_atendimento": 9,
   "online": 6,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 1986
+  "espera_media_s": 1975
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-06T18:32:38.384Z",
-  "min_sem_lead": 10
+  "ultimo_lead_at": "2025-05-13T22:24:51.176Z",
+  "min_sem_lead": 647793
  },
  "leads": [
   {
@@ -577,6 +563,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Cecilia Gomes",
+   "tel": "5583*****035",
+   "criado": "15:51",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   },
   {
