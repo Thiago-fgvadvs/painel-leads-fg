@@ -1,42 +1,46 @@
 {
- "gerado_em": "06/08/2026, 17:00",
+ "gerado_em": "06/08/2026, 17:15",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 16,
+  "total": 23,
+  "no_sla": 20,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 370,
-  "tickets_abertos": 444,
+  "leads_7d": 374,
+  "tickets_abertos": 448,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 18,
+   "leads": 22,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 20,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "fb.me/annW3H6uu",
-   "leads": 4
+   "leads": 5
   },
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 3
+   "leads": 5
   },
   {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DbZCMLzMsFb/",
+   "leads": 1
   },
   {
    "url": "fb.me/4PcZAj72p",
@@ -53,14 +57,10 @@
   {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DYVSzG2jDCz/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 12,
+  "Trabalhista": 16,
   "Nao identificada": 6,
   "Previdenciario": 1
  },
@@ -76,16 +76,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 202,
-  "turnos": 516,
-  "respondidos": 504,
+  "turnos": 517,
+  "respondidos": 505,
   "sem_resposta": 12,
   "sem_resposta_grupos": 12,
-  "mediana_min": 21.8,
+  "mediana_min": 21.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 175,
-    "mediana_min": 29.2
+    "respostas": 176,
+    "mediana_min": 29.4
    },
    {
     "nome": "Nicolas",
@@ -141,12 +141,6 @@
     "ts": 1786040531092
    },
    {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
-    "dia": "05/08",
-    "desde": "18:39",
-    "ts": 1785965988823
-   },
-   {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
     "dia": "06/08",
     "desde": "12:17",
@@ -157,6 +151,12 @@
     "dia": "04/08",
     "desde": "16:54",
     "ts": 1785873299154
+   },
+   {
+    "grupo": "E.S.V.D.S x MY SUSTENTABILIDADE LTDA",
+    "dia": "06/08",
+    "desde": "09:00",
+    "ts": 1786017634868
    },
    {
     "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
@@ -219,11 +219,18 @@
     "ts": 1786032075445
    },
    {
-    "nome": "5511994231655",
-    "tel": "5511*****655",
+    "nome": "Wilson",
+    "tel": "5553*****991",
     "dia": "06/08",
-    "desde": "16:49",
-    "ts": 1786045781443
+    "desde": "13:57",
+    "ts": 1786035428566
+   },
+   {
+    "nome": "𝙼𝚑𝚎̂",
+    "tel": "5581*****922",
+    "dia": "06/08",
+    "desde": "14:53",
+    "ts": 1786038784321
    }
   ],
   "grupos": [
@@ -276,16 +283,16 @@
     "ts": 1785962993650
    },
    {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
-    "dia": "05/08",
-    "desde": "18:39",
-    "ts": 1785965988823
-   },
-   {
     "grupo": "R.V.O x BARRA FOOD PRODUTOS ALIMENTICIOS LTDA",
     "dia": "06/08",
     "desde": "08:46",
     "ts": 1786016788999
+   },
+   {
+    "grupo": "E.S.V.D.S x MY SUSTENTABILIDADE LTDA",
+    "dia": "06/08",
+    "desde": "09:00",
+    "ts": 1786017634868
    },
    {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
@@ -412,19 +419,63 @@
   ]
  },
  "agora": {
-  "fila": 306,
-  "abertos": 444,
+  "fila": 310,
+  "abertos": 448,
   "com_atendimento": 8,
-  "online": 6,
+  "online": 4,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 1993
+  "ausentes": 4,
+  "espera_media_s": 1971
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-06T19:49:41.443Z",
-  "min_sem_lead": 10
+  "ultimo_lead_at": "2026-08-06T20:12:29.387Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "5519999114520",
+   "tel": "5519*****520",
+   "criado": "17:10",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbZCMLzMsFb/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554298690735",
+   "tel": "5542*****735",
+   "criado": "17:12",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Blindado Por Deus👐🏻",
+   "tel": "5521*****888",
+   "criado": "15:32",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Milene Firmo",
+   "tel": "5543*****232",
+   "criado": "17:08",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511994231655",
    "tel": "5511*****655",
@@ -434,6 +485,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4PcZAj72p",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "😌",
+   "tel": "5532*****452",
+   "criado": "17:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
   },
   {
@@ -457,17 +519,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Blindado Por Deus👐🏻",
-   "tel": "5521*****888",
-   "criado": "15:32",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
-   "area": "Nao identificada"
   },
   {
    "nome": "Gabi Ferraz",
