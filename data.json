@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/08/2026, 07:17",
+ "gerado_em": "06/08/2026, 07:32",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 353,
-  "tickets_abertos": 428,
+  "tickets_abertos": 429,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -43,12 +43,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 176,
-  "turnos": 386,
-  "respondidos": 369,
-  "sem_resposta": 17,
-  "sem_resposta_grupos": 17,
-  "mediana_min": 21.9,
+  "grupos_ativos": 177,
+  "turnos": 388,
+  "respondidos": 370,
+  "sem_resposta": 18,
+  "sem_resposta_grupos": 18,
+  "mediana_min": 22.1,
   "atendentes": [
    {
     "nome": "Julia",
@@ -62,8 +62,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 39,
-    "mediana_min": 5.6
+    "respostas": 40,
+    "mediana_min": 5.9
    },
    {
     "nome": "Luisa",
@@ -103,6 +103,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "D.D.S.F x SUPER TRANS TRANSPORTES LOGISTICA E SERVICOS LTDA",
+    "dia": "06/08",
+    "desde": "07:30",
+    "ts": 1786012254824
+   },
+   {
+    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
+    "dia": "05/08",
+    "desde": "11:59",
+    "ts": 1785941959466
+   },
+   {
     "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
     "dia": "05/08",
     "desde": "20:11",
@@ -137,12 +149,6 @@
     "dia": "05/08",
     "desde": "17:28",
     "ts": 1785961708768
-   },
-   {
-    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
-    "dia": "05/08",
-    "desde": "11:59",
-    "ts": 1785941959466
    },
    {
     "grupo": "Á.C",
@@ -389,6 +395,12 @@
     "dia": "05/08",
     "desde": "20:11",
     "ts": 1785971507806
+   },
+   {
+    "grupo": "D.D.S.F x SUPER TRANS TRANSPORTES LOGISTICA E SERVICOS LTDA",
+    "dia": "06/08",
+    "desde": "07:30",
+    "ts": 1786012254824
    }
   ]
  },
@@ -477,8 +489,8 @@
  },
  "agora": {
   "fila": 286,
-  "abertos": 428,
-  "com_atendimento": 7,
+  "abertos": 429,
+  "com_atendimento": 8,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
@@ -486,11 +498,11 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-06T10:09:01.981Z",
-  "min_sem_lead": 9
+  "min_sem_lead": 24
  },
  "leads": [
   {
-   "nome": "558596766153",
+   "nome": "Chitao Do Forro",
    "tel": "5585*****153",
    "criado": "07:09",
    "atendente": "Fernanda Gehm - Administradora",
