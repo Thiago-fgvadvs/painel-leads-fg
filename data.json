@@ -1,28 +1,28 @@
 {
- "gerado_em": "06/08/2026, 20:19",
+ "gerado_em": "06/08/2026, 20:35",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
+  "total": 34,
   "no_sla": 27,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 5,
+  "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 384,
-  "tickets_abertos": 457,
+  "leads_7d": 385,
+  "tickets_abertos": 458,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 32,
+   "leads": 33,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 28,
+  "Anuncio": 29,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -36,7 +36,7 @@
   },
   {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
+  "Nao identificada": 8,
   "Trabalhista": 25,
-  "Nao identificada": 7,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
@@ -218,13 +218,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Lea",
-    "tel": "5511*****118",
-    "dia": "05/08",
-    "desde": "16:07",
-    "ts": 1785956829666
-   },
-   {
     "nome": "rayanne",
     "tel": "5511*****409",
     "dia": "05/08",
@@ -244,6 +237,13 @@
     "dia": "05/08",
     "desde": "18:24",
     "ts": 1785965056458
+   },
+   {
+    "nome": "DEUS É FIEL🙏",
+    "tel": "5598*****032",
+    "dia": "05/08",
+    "desde": "18:50",
+    "ts": 1785966603930
    },
    {
     "nome": "morena",
@@ -445,19 +445,30 @@
   ]
  },
  "agora": {
-  "fila": 316,
-  "abertos": 457,
+  "fila": 317,
+  "abertos": 458,
   "com_atendimento": 7,
   "online": 2,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 1825
+  "espera_media_s": 1820
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-06T23:16:20.564Z",
-  "min_sem_lead": 3
+  "ultimo_lead_at": "2026-08-06T23:20:34.264Z",
+  "min_sem_lead": 14
  },
  "leads": [
+  {
+   "nome": "Carvalho ❄️",
+   "tel": "5511*****619",
+   "criado": "20:20",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "5546920013730",
    "tel": "5546*****730",
