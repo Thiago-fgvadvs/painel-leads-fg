@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/08/2026, 18:16",
+ "gerado_em": "06/08/2026, 18:32",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -76,10 +76,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 204,
-  "turnos": 525,
+  "turnos": 527,
   "respondidos": 514,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
   "mediana_min": 23.9,
   "atendentes": [
    {
@@ -134,6 +134,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.B x M DIAS BRANCO S.A. INDUSTRIA E COMERCIO DE ALIMENTOS",
+    "dia": "06/08",
+    "desde": "18:30",
+    "ts": 1786051836265
+   },
+   {
+    "grupo": "C.S.F x POUSADA RECANTO DOURADO LTDA",
+    "dia": "06/08",
+    "desde": "18:17",
+    "ts": 1786051056243
+   },
    {
     "grupo": "J.S.B x ULTRAOBRA LTDA",
     "dia": "06/08",
@@ -328,6 +340,18 @@
     "dia": "06/08",
     "desde": "17:47",
     "ts": 1786049273223
+   },
+   {
+    "grupo": "C.S.F x POUSADA RECANTO DOURADO LTDA",
+    "dia": "06/08",
+    "desde": "18:17",
+    "ts": 1786051056243
+   },
+   {
+    "grupo": "A.B x M DIAS BRANCO S.A. INDUSTRIA E COMERCIO DE ALIMENTOS",
+    "dia": "06/08",
+    "desde": "18:30",
+    "ts": 1786051836265
    }
   ]
  },
@@ -442,19 +466,30 @@
   ]
  },
  "agora": {
-  "fila": 315,
+  "fila": 314,
   "abertos": 455,
   "com_atendimento": 8,
   "online": 3,
-  "offline": 5,
-  "ausentes": 1,
-  "espera_media_s": 1765
+  "offline": 6,
+  "ausentes": 0,
+  "espera_media_s": 1839
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-06T21:13:41.533Z",
-  "min_sem_lead": 3
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 675732
  },
  "leads": [
+  {
+   "nome": "558491857251",
+   "tel": "5584*****251",
+   "criado": "18:11",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "557781107727",
    "tel": "5577*****727",
@@ -486,17 +521,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/annW3H6uu",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "558491857251",
-   "tel": "5584*****251",
-   "criado": "18:11",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
   },
   {
