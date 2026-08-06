@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/08/2026, 14:26",
+ "gerado_em": "06/08/2026, 14:41",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 363,
-  "tickets_abertos": 449,
+  "tickets_abertos": 444,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -76,16 +76,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 195,
-  "turnos": 473,
-  "respondidos": 452,
-  "sem_resposta": 21,
-  "sem_resposta_grupos": 21,
+  "turnos": 475,
+  "respondidos": 455,
+  "sem_resposta": 20,
+  "sem_resposta_grupos": 20,
   "mediana_min": 20.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 154,
-    "mediana_min": 26.1
+    "respostas": 156,
+    "mediana_min": 26
    },
    {
     "nome": "Nicolas",
@@ -99,8 +99,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 33,
-    "mediana_min": 0.7
+    "respostas": 34,
+    "mediana_min": 1
    },
    {
     "nome": "Thauany",
@@ -145,12 +145,6 @@
     "dia": "06/08",
     "desde": "14:24",
     "ts": 1786037083049
-   },
-   {
-    "grupo": "M.G.S",
-    "dia": "06/08",
-    "desde": "14:12",
-    "ts": 1786036375041
    },
    {
     "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
@@ -453,12 +447,6 @@
     "ts": 1786034636145
    },
    {
-    "grupo": "M.G.S",
-    "dia": "06/08",
-    "desde": "14:12",
-    "ts": 1786036375041
-   },
-   {
     "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
     "dia": "06/08",
     "desde": "14:24",
@@ -584,16 +572,16 @@
  },
  "agora": {
   "fila": 299,
-  "abertos": 449,
+  "abertos": 444,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 2,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 1989
+  "ausentes": 5,
+  "espera_media_s": 2002
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-06T17:14:36.274Z",
-  "min_sem_lead": 12
+  "min_sem_lead": 27
  },
  "leads": [
   {
