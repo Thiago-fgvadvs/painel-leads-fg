@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/08/2026, 13:25",
+ "gerado_em": "06/08/2026, 13:40",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -74,12 +74,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 192,
-  "turnos": 439,
-  "respondidos": 421,
-  "sem_resposta": 18,
-  "sem_resposta_grupos": 18,
-  "mediana_min": 22.3,
+  "grupos_ativos": 193,
+  "turnos": 449,
+  "respondidos": 432,
+  "sem_resposta": 17,
+  "sem_resposta_grupos": 17,
+  "mediana_min": 21.5,
   "atendentes": [
    {
     "nome": "Julia",
@@ -88,8 +88,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 132,
-    "mediana_min": 97.2
+    "respostas": 135,
+    "mediana_min": 94.7
    },
    {
     "nome": "Gabrielle",
@@ -98,8 +98,13 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 26,
+    "respostas": 27,
     "mediana_min": 0.5
+   },
+   {
+    "nome": "Thauany",
+    "respostas": 20,
+    "mediana_min": 3.3
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -107,14 +112,9 @@
     "mediana_min": 578.5
    },
    {
-    "nome": "Thauany",
-    "respostas": 14,
-    "mediana_min": 20.8
-   },
-   {
     "nome": "—",
-    "respostas": 12,
-    "mediana_min": 13
+    "respostas": 13,
+    "mediana_min": 4.4
    },
    {
     "nome": "Eduardo",
@@ -134,16 +134,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "B.F.M x FONSECA SUPERMERCADO LTDA",
+    "grupo": "E.P.M.N x FONSECA SUPERMERCADOS LTDA",
     "dia": "06/08",
-    "desde": "10:05",
-    "ts": 1786021525898
-   },
-   {
-    "grupo": "M.G.S",
-    "dia": "06/08",
-    "desde": "13:12",
-    "ts": 1786032736994
+    "desde": "13:36",
+    "ts": 1786034184134
    },
    {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
@@ -430,22 +424,16 @@
     "ts": 1786016788999
    },
    {
-    "grupo": "B.F.M x FONSECA SUPERMERCADO LTDA",
-    "dia": "06/08",
-    "desde": "10:05",
-    "ts": 1786021525898
-   },
-   {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
     "dia": "06/08",
     "desde": "12:17",
     "ts": 1786029453975
    },
    {
-    "grupo": "M.G.S",
+    "grupo": "E.P.M.N x FONSECA SUPERMERCADOS LTDA",
     "dia": "06/08",
-    "desde": "13:12",
-    "ts": 1786032736994
+    "desde": "13:36",
+    "ts": 1786034184134
    }
   ]
  },
@@ -553,15 +541,15 @@
  "agora": {
   "fila": 297,
   "abertos": 443,
-  "com_atendimento": 7,
-  "online": 3,
+  "com_atendimento": 8,
+  "online": 5,
   "offline": 3,
-  "ausentes": 3,
+  "ausentes": 1,
   "espera_media_s": 1999
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-06T16:21:21.158Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2026-07-31T15:37:56.989Z",
+  "min_sem_lead": 8702
  },
  "leads": [
   {
