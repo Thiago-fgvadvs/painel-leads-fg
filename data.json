@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/08/2026, 09:04",
+ "gerado_em": "06/08/2026, 09:19",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 353,
-  "tickets_abertos": 433,
+  "tickets_abertos": 434,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -43,17 +43,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 185,
-  "turnos": 401,
-  "respondidos": 382,
-  "sem_resposta": 19,
-  "sem_resposta_grupos": 19,
-  "mediana_min": 20.4,
+  "grupos_ativos": 186,
+  "turnos": 404,
+  "respondidos": 384,
+  "sem_resposta": 20,
+  "sem_resposta_grupos": 20,
+  "mediana_min": 20.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 124,
-    "mediana_min": 26.7
+    "respostas": 126,
+    "mediana_min": 26.3
    },
    {
     "nome": "Nicolas",
@@ -102,6 +102,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "B.B.A.L x PARTNER BPO LTDA",
+    "dia": "06/08",
+    "desde": "09:00",
+    "ts": 1786017653002
+   },
    {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
     "dia": "04/08",
@@ -222,20 +228,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Andressa Peres",
-    "tel": "5534*****122",
-    "dia": "04/08",
-    "desde": "14:29",
-    "ts": 1785864574916
-   },
-   {
-    "nome": "Ricardo Gabriel",
-    "tel": "5514*****116",
-    "dia": "04/08",
-    "desde": "16:38",
-    "ts": 1785872301602
-   },
-   {
     "nome": "🩷Debinha",
     "tel": "5512*****585",
     "dia": "05/08",
@@ -297,6 +289,13 @@
     "dia": "05/08",
     "desde": "16:07",
     "ts": 1785956829666
+   },
+   {
+    "nome": "rayanne",
+    "tel": "5511*****409",
+    "dia": "05/08",
+    "desde": "18:08",
+    "ts": 1785964098339
    }
   ],
   "grupos": [
@@ -413,6 +412,12 @@
     "dia": "06/08",
     "desde": "08:55",
     "ts": 1786017320911
+   },
+   {
+    "grupo": "B.B.A.L x PARTNER BPO LTDA",
+    "dia": "06/08",
+    "desde": "09:00",
+    "ts": 1786017653002
    }
   ]
  },
@@ -501,16 +506,16 @@
  },
  "agora": {
   "fila": 288,
-  "abertos": 433,
+  "abertos": 434,
   "com_atendimento": 8,
   "online": 1,
-  "offline": 7,
-  "ausentes": 1,
-  "espera_media_s": 1684
+  "offline": 6,
+  "ausentes": 2,
+  "espera_media_s": 1857
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 675165
+  "ultimo_lead_at": "2026-07-15T16:56:37.862Z",
+  "min_sem_lead": 31403
  },
  "leads": [
   {
