@@ -1,28 +1,28 @@
 {
- "gerado_em": "05/08/2026, 21:31",
+ "gerado_em": "05/08/2026, 21:47",
  "data_ref": "05/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 36,
+  "total": 37,
   "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 14,
+  "fora_horario": 15,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 389,
-  "tickets_abertos": 420,
+  "leads_7d": 390,
+  "tickets_abertos": 421,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 34,
+   "leads": 35,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 30,
+  "Anuncio": 31,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 25,
+  "Trabalhista": 26,
   "Nao identificada": 11
  },
  "sem_resposta_lista": [],
@@ -234,6 +234,13 @@
   "dias": 7,
   "leads": [
    {
+    "nome": "Andressa Peres",
+    "tel": "5534*****122",
+    "dia": "04/08",
+    "desde": "14:29",
+    "ts": 1785864574916
+   },
+   {
     "nome": "Ricardo Gabriel",
     "tel": "5514*****116",
     "dia": "04/08",
@@ -253,13 +260,6 @@
     "dia": "05/08",
     "desde": "10:53",
     "ts": 1785937996567
-   },
-   {
-    "nome": "Santiago",
-    "tel": "5592*****790",
-    "dia": "05/08",
-    "desde": "10:54",
-    "ts": 1785938048114
    },
    {
     "nome": "Rafaelly Muniz",
@@ -527,19 +527,41 @@
   ]
  },
  "agora": {
-  "fila": 279,
-  "abertos": 420,
+  "fila": 280,
+  "abertos": 421,
   "com_atendimento": 7,
-  "online": 1,
+  "online": 0,
   "offline": 8,
-  "ausentes": 0,
-  "espera_media_s": 1727
+  "ausentes": 1,
+  "espera_media_s": 1722
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-05T23:43:40.312Z",
-  "min_sem_lead": 48
+  "ultimo_lead_at": "2026-08-06T00:35:09.201Z",
+  "min_sem_lead": 12
  },
  "leads": [
+  {
+   "nome": "Milena Sanches",
+   "tel": "5518*****852",
+   "criado": "21:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbbUbobMGAY/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Thay",
+   "tel": "5511*****090",
+   "criado": "17:32",
+   "atendente": "—",
+   "espera_min": 0,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "554599977842",
    "tel": "5545*****842",
@@ -593,17 +615,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/annW3H6uu",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Thay",
-   "tel": "5511*****090",
-   "criado": "17:32",
-   "atendente": "—",
-   "espera_min": 0,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Trabalhista"
   },
   {
