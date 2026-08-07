@@ -1,31 +1,35 @@
 {
- "gerado_em": "07/08/2026, 11:28",
+ "gerado_em": "07/08/2026, 11:43",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 2,
+  "total": 7,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 335,
-  "tickets_abertos": 469,
+  "leads_7d": 336,
+  "tickets_abertos": 472,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
+   "leads": 2
+  },
   {
    "url": "fb.me/annW3H6uu",
    "leads": 2
@@ -41,31 +45,27 @@
   {
    "url": "fb.me/7se00hGXE",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbdhnJxM_D4/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 2
+  "Trabalhista": 3,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 206,
-  "turnos": 512,
-  "respondidos": 500,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 25.5,
+  "grupos_ativos": 209,
+  "turnos": 522,
+  "respondidos": 508,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
+  "mediana_min": 25.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 167,
-    "mediana_min": 38.8
+    "respostas": 172,
+    "mediana_min": 34.1
    },
    {
     "nome": "Nicolas",
@@ -74,13 +74,13 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 49,
+    "respostas": 51,
     "mediana_min": 3.3
    },
    {
     "nome": "Luisa",
-    "respostas": 40,
-    "mediana_min": 2.5
+    "respostas": 41,
+    "mediana_min": 2.7
    },
    {
     "nome": "Thauany",
@@ -121,6 +121,24 @@
     "ts": 1786111943127
    },
    {
+    "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
+    "dia": "07/08",
+    "desde": "11:32",
+    "ts": 1786113144125
+   },
+   {
+    "grupo": "R.J.M.F x MINAS VERDE MAQUINAS LTDA",
+    "dia": "07/08",
+    "desde": "11:13",
+    "ts": 1786112001136
+   },
+   {
+    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
+    "dia": "07/08",
+    "desde": "11:11",
+    "ts": 1786111904125
+   },
+   {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
     "dia": "07/08",
     "desde": "10:55",
@@ -131,12 +149,6 @@
     "dia": "07/08",
     "desde": "10:42",
     "ts": 1786110175095
-   },
-   {
-    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
-    "dia": "05/08",
-    "desde": "10:06",
-    "ts": 1785935215513
    },
    {
     "grupo": "C.S.F x POUSADA RECANTO DOURADO LTDA",
@@ -199,39 +211,18 @@
     "ts": 1786032075445
    },
    {
-    "nome": "Evelin Souza",
-    "tel": "5511*****488",
-    "dia": "07/08",
-    "desde": "06:58",
-    "ts": 1786096728628
-   },
-   {
-    "nome": "Gugu Mara🥰🥰",
-    "tel": "5586*****417",
-    "dia": "07/08",
-    "desde": "07:03",
-    "ts": 1786097005650
-   },
-   {
-    "nome": "553598726589",
-    "tel": "5535*****589",
-    "dia": "07/08",
-    "desde": "07:17",
-    "ts": 1786097827143
-   },
-   {
-    "nome": "Edilma",
-    "tel": "5583*****136",
-    "dia": "07/08",
-    "desde": "08:33",
-    "ts": 1786102427735
-   },
-   {
     "nome": "5511939144772",
     "tel": "5511*****772",
     "dia": "07/08",
     "desde": "11:19",
     "ts": 1786112395890
+   },
+   {
+    "nome": "José Winckler",
+    "tel": "5551*****895",
+    "dia": "07/08",
+    "desde": "11:31",
+    "ts": 1786113103845
    }
   ],
   "grupos": [
@@ -252,12 +243,6 @@
     "dia": "04/08",
     "desde": "17:21",
     "ts": 1785874896096
-   },
-   {
-    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
-    "dia": "05/08",
-    "desde": "10:06",
-    "ts": 1785935215513
    },
    {
     "grupo": "K.C.A x SANTA HELENA ASSISTÊNCIA MEDICA S/A",
@@ -302,10 +287,28 @@
     "ts": 1786110902099
    },
    {
+    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
+    "dia": "07/08",
+    "desde": "11:11",
+    "ts": 1786111904125
+   },
+   {
     "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
     "dia": "07/08",
     "desde": "11:12",
     "ts": 1786111943127
+   },
+   {
+    "grupo": "R.J.M.F x MINAS VERDE MAQUINAS LTDA",
+    "dia": "07/08",
+    "desde": "11:13",
+    "ts": 1786112001136
+   },
+   {
+    "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
+    "dia": "07/08",
+    "desde": "11:32",
+    "ts": 1786113144125
    }
   ]
  },
@@ -420,19 +423,30 @@
   ]
  },
  "agora": {
-  "fila": 328,
-  "abertos": 469,
+  "fila": 329,
+  "abertos": 472,
   "com_atendimento": 7,
-  "online": 6,
-  "offline": 3,
+  "online": 7,
+  "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 1701
+  "espera_media_s": 1697
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T17:29:34.916Z",
-  "min_sem_lead": 4138
+  "ultimo_lead_at": "2026-08-07T14:31:43.845Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "José Winckler",
+   "tel": "5551*****895",
+   "criado": "11:31",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511939144772",
    "tel": "5511*****772",
