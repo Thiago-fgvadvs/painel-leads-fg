@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/08/2026, 15:02",
+ "gerado_em": "07/08/2026, 15:17",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -69,20 +69,20 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 215,
-  "turnos": 550,
-  "respondidos": 535,
-  "sem_resposta": 15,
-  "sem_resposta_grupos": 15,
-  "mediana_min": 24.8,
+  "turnos": 554,
+  "respondidos": 538,
+  "sem_resposta": 16,
+  "sem_resposta_grupos": 16,
+  "mediana_min": 25,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 185,
-    "mediana_min": 30.4
+    "respostas": 186,
+    "mediana_min": 30.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 161,
+    "respostas": 163,
     "mediana_min": 65.2
    },
    {
@@ -101,14 +101,14 @@
     "mediana_min": 0.9
    },
    {
-    "nome": "Fernanda Gehm - Administradora",
-    "respostas": 16,
-    "mediana_min": 447.4
-   },
-   {
     "nome": "Roseli",
     "respostas": 16,
     "mediana_min": 4.1
+   },
+   {
+    "nome": "Fernanda Gehm - Administradora",
+    "respostas": 16,
+    "mediana_min": 447.4
    },
    {
     "nome": "Eduardo",
@@ -128,6 +128,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.C.M x INSS",
+    "dia": "07/08",
+    "desde": "15:10",
+    "ts": 1786126258225
+   },
+   {
+    "grupo": "P.D.S x AMERICANAS S.A",
+    "dia": "07/08",
+    "desde": "14:12",
+    "ts": 1786122720215
+   },
+   {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
     "dia": "07/08",
     "desde": "14:36",
@@ -138,12 +150,6 @@
     "dia": "07/08",
     "desde": "13:11",
     "ts": 1786119100194
-   },
-   {
-    "grupo": "P.D.S x AMERICANAS S.A",
-    "dia": "07/08",
-    "desde": "14:12",
-    "ts": 1786122720215
    },
    {
     "grupo": "J.S.B x ULTRAOBRA LTDA",
@@ -222,13 +228,6 @@
  "pendencias": {
   "dias": 7,
   "leads": [
-   {
-    "nome": "Evelin Souza",
-    "tel": "5511*****488",
-    "dia": "07/08",
-    "desde": "06:58",
-    "ts": 1786096728628
-   },
    {
     "nome": "5511939144772",
     "tel": "5511*****772",
@@ -376,6 +375,12 @@
     "dia": "07/08",
     "desde": "14:36",
     "ts": 1786124218215
+   },
+   {
+    "grupo": "A.C.M x INSS",
+    "dia": "07/08",
+    "desde": "15:10",
+    "ts": 1786126258225
    }
   ]
  },
@@ -502,14 +507,14 @@
   "fila": 332,
   "abertos": 469,
   "com_atendimento": 7,
-  "online": 5,
-  "offline": 3,
+  "online": 4,
+  "offline": 4,
   "ausentes": 1,
   "espera_media_s": 1688
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 676963
+  "ultimo_lead_at": "2026-07-17T22:30:39.514Z",
+  "min_sem_lead": 29987
  },
  "leads": [
   {
