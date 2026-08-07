@@ -1,37 +1,37 @@
 {
- "gerado_em": "07/08/2026, 07:07",
+ "gerado_em": "07/08/2026, 07:22",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
+  "total": 4,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 3,
+  "fora_horario": 4,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 332,
-  "tickets_abertos": 467,
+  "leads_7d": 333,
+  "tickets_abertos": 468,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 3,
+   "leads": 4,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
-   "url": "fb.me/7se00hGXE",
-   "leads": 1
+   "url": "fb.me/annW3H6uu",
+   "leads": 2
   },
   {
-   "url": "fb.me/annW3H6uu",
+   "url": "fb.me/7se00hGXE",
    "leads": 1
   },
   {
@@ -40,14 +40,14 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 1
+  "Trabalhista": 2,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 196,
+  "grupos_ativos": 198,
   "turnos": 468,
   "respondidos": 454,
   "sem_resposta": 14,
@@ -401,19 +401,30 @@
   ]
  },
  "agora": {
-  "fila": 326,
-  "abertos": 467,
+  "fila": 327,
+  "abertos": 468,
   "com_atendimento": 7,
   "online": 2,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 1778
+  "espera_media_s": 1773
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-07T10:03:25.650Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2026-08-07T10:17:07.143Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "553598726589",
+   "tel": "5535*****589",
+   "criado": "07:17",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Gugu Mara🥰🥰",
    "tel": "5586*****417",
