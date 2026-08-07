@@ -1,16 +1,16 @@
 {
- "gerado_em": "07/08/2026, 14:47",
+ "gerado_em": "07/08/2026, 15:02",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 9,
+  "total": 15,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 343,
+  "leads_7d": 344,
   "tickets_abertos": 469,
   "periodo_dias": 7
  },
@@ -19,11 +19,16 @@
    "nome": "Fernanda Gehm - Administradora",
    "leads": 13,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Julia",
+   "leads": 1,
+   "mediana_min": 7.8
   }
  ],
  "origem": {
   "Anuncio": 13,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -56,23 +61,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 9,
-  "Nao identificada": 5
+  "Nao identificada": 6,
+  "Trabalhista": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 214,
-  "turnos": 548,
-  "respondidos": 533,
+  "grupos_ativos": 215,
+  "turnos": 550,
+  "respondidos": 535,
   "sem_resposta": 15,
   "sem_resposta_grupos": 15,
-  "mediana_min": 24.4,
+  "mediana_min": 24.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 184,
+    "respostas": 185,
     "mediana_min": 30.4
    },
    {
@@ -82,7 +87,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 51,
+    "respostas": 52,
     "mediana_min": 3.3
    },
    {
@@ -96,14 +101,14 @@
     "mediana_min": 0.9
    },
    {
-    "nome": "Roseli",
-    "respostas": 16,
-    "mediana_min": 4.1
-   },
-   {
     "nome": "Fernanda Gehm - Administradora",
     "respostas": 16,
     "mediana_min": 447.4
+   },
+   {
+    "nome": "Roseli",
+    "respostas": 16,
+    "mediana_min": 4.1
    },
    {
     "nome": "Eduardo",
@@ -497,16 +502,27 @@
   "fila": 332,
   "abertos": 469,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 4,
+  "online": 5,
+  "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 1683
+  "espera_media_s": 1688
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-05T08:49:15.387Z",
-  "min_sem_lead": 3418
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 676963
  },
  "leads": [
+  {
+   "nome": "Correspondente Elizabeth Angélica ",
+   "tel": "5534*****220",
+   "criado": "14:47",
+   "atendente": "Julia",
+   "espera_min": 7.8,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "José Winckler",
    "tel": "5551*****895",
