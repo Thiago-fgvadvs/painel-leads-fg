@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/08/2026, 18:06",
+ "gerado_em": "07/08/2026, 18:21",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 349,
-  "tickets_abertos": 380,
+  "tickets_abertos": 381,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -73,16 +73,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 219,
-  "turnos": 579,
-  "respondidos": 571,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 25.2,
+  "turnos": 583,
+  "respondidos": 574,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 25,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 205,
-    "mediana_min": 31.4
+    "respostas": 208,
+    "mediana_min": 30.9
    },
    {
     "nome": "Nicolas",
@@ -132,10 +132,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.D.A.O.B x CENTRO EDUCACIONAL ESCOLA JARDIM GUANABARA LTDA oficial",
+    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
     "dia": "07/08",
-    "desde": "17:52",
-    "ts": 1786135943313
+    "desde": "18:14",
+    "ts": 1786137251367
+   },
+   {
+    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
+    "dia": "07/08",
+    "desde": "16:56",
+    "ts": 1786132595292
    },
    {
     "grupo": "V.F.D.S x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA.",
@@ -292,10 +298,16 @@
     "ts": 1786119100194
    },
    {
-    "grupo": "L.D.A.O.B x CENTRO EDUCACIONAL ESCOLA JARDIM GUANABARA LTDA oficial",
+    "grupo": "J.D.D.S.N x COOPAVEL COOPERATIVA AGROINDUSTRIAL",
     "dia": "07/08",
-    "desde": "17:52",
-    "ts": 1786135943313
+    "desde": "16:56",
+    "ts": 1786132595292
+   },
+   {
+    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
+    "dia": "07/08",
+    "desde": "18:14",
+    "ts": 1786137251367
    }
   ]
  },
@@ -419,17 +431,17 @@
   ]
  },
  "agora": {
-  "fila": 264,
-  "abertos": 380,
+  "fila": 265,
+  "abertos": 381,
   "com_atendimento": 6,
-  "online": 4,
-  "offline": 5,
+  "online": 2,
+  "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2041
+  "espera_media_s": 2035
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-07T21:03:03.004Z",
-  "min_sem_lead": 3
+  "ultimo_lead_at": "2026-07-15T14:53:26.450Z",
+  "min_sem_lead": 33508
  },
  "leads": [
   {
