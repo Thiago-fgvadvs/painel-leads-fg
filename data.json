@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/08/2026, 08:54",
+ "gerado_em": "07/08/2026, 09:09",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 334,
-  "tickets_abertos": 470,
+  "tickets_abertos": 472,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -51,11 +51,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 200,
-  "turnos": 468,
+  "grupos_ativos": 202,
+  "turnos": 469,
   "respondidos": 454,
-  "sem_resposta": 14,
-  "sem_resposta_grupos": 14,
+  "sem_resposta": 15,
+  "sem_resposta_grupos": 15,
   "mediana_min": 21.6,
   "atendentes": [
    {
@@ -110,6 +110,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "06/08",
+    "desde": "19:06",
+    "ts": 1786053990398
+   },
    {
     "grupo": "E.M.D.S x ZAMP S.A.",
     "dia": "06/08",
@@ -287,6 +293,12 @@
     "ts": 1786051928369
    },
    {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "06/08",
+    "desde": "19:06",
+    "ts": 1786053990398
+   },
+   {
     "grupo": "E.M.D.S x ZAMP S.A.",
     "dia": "06/08",
     "desde": "23:36",
@@ -405,17 +417,17 @@
   ]
  },
  "agora": {
-  "fila": 329,
-  "abertos": 470,
-  "com_atendimento": 7,
-  "online": 2,
-  "offline": 7,
+  "fila": 330,
+  "abertos": 472,
+  "com_atendimento": 8,
+  "online": 4,
+  "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 1764
+  "espera_media_s": 1759
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-24T19:01:09.592Z",
-  "min_sem_lead": 19733
+  "ultimo_lead_at": "2026-05-13T19:26:58.126Z",
+  "min_sem_lead": 123403
  },
  "leads": [
   {
