@@ -1,34 +1,38 @@
 {
- "gerado_em": "07/08/2026, 08:23",
+ "gerado_em": "07/08/2026, 08:39",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 0,
+  "total": 5,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 333,
-  "tickets_abertos": 468,
+  "pct_sla": 100,
+  "mediana_geral": 0.5,
+  "leads_7d": 334,
+  "tickets_abertos": 469,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 4,
-   "mediana_min": null
+   "leads": 5,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "fb.me/annW3H6uu",
    "leads": 2
+  },
+  {
+   "url": "fb.me/4EHi0h7IT",
+   "leads": 1
   },
   {
    "url": "fb.me/7se00hGXE",
@@ -40,14 +44,14 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2,
-  "Nao identificada": 2
+  "Nao identificada": 3,
+  "Trabalhista": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 199,
+  "grupos_ativos": 200,
   "turnos": 468,
   "respondidos": 454,
   "sem_resposta": 14,
@@ -401,19 +405,30 @@
   ]
  },
  "agora": {
-  "fila": 327,
-  "abertos": 468,
+  "fila": 328,
+  "abertos": 469,
   "com_atendimento": 7,
   "online": 2,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 1773
+  "espera_media_s": 1768
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-10T13:16:22.154Z",
-  "min_sem_lead": 83407
+  "ultimo_lead_at": "2026-08-07T11:33:47.735Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "Edilma",
+   "tel": "5583*****136",
+   "criado": "08:33",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EHi0h7IT",
+   "area": "Nao identificada"
+  },
   {
    "nome": "553598726589",
    "tel": "5535*****589",
