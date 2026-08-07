@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/08/2026, 13:46",
+ "gerado_em": "07/08/2026, 14:01",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -64,16 +64,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 212,
-  "turnos": 542,
-  "respondidos": 526,
+  "turnos": 543,
+  "respondidos": 527,
   "sem_resposta": 16,
   "sem_resposta_grupos": 16,
-  "mediana_min": 23.9,
+  "mediana_min": 24.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 181,
-    "mediana_min": 30.3
+    "respostas": 182,
+    "mediana_min": 30.9
    },
    {
     "nome": "Nicolas",
@@ -123,16 +123,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "C.L.V x LINKCALL SERVICOS DE CALL CENTER S A",
+    "dia": "07/08",
+    "desde": "13:43",
+    "ts": 1786121029208
+   },
+   {
     "grupo": "P.D.S x AMERICANAS S.A",
     "dia": "07/08",
     "desde": "13:41",
     "ts": 1786120864207
-   },
-   {
-    "grupo": "C.S.F x POUSADA RECANTO DOURADO LTDA",
-    "dia": "07/08",
-    "desde": "10:34",
-    "ts": 1786109677108
    },
    {
     "grupo": "V.F.D.S x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA.",
@@ -338,12 +338,6 @@
     "ts": 1786053736397
    },
    {
-    "grupo": "C.S.F x POUSADA RECANTO DOURADO LTDA",
-    "dia": "07/08",
-    "desde": "10:34",
-    "ts": 1786109677108
-   },
-   {
     "grupo": "E.M.D.S x ZAMP S.A.",
     "dia": "07/08",
     "desde": "10:42",
@@ -390,6 +384,12 @@
     "dia": "07/08",
     "desde": "13:41",
     "ts": 1786120864207
+   },
+   {
+    "grupo": "C.L.V x LINKCALL SERVICOS DE CALL CENTER S A",
+    "dia": "07/08",
+    "desde": "13:43",
+    "ts": 1786121029208
    }
   ]
  },
@@ -513,17 +513,17 @@
   ]
  },
  "agora": {
-  "fila": 332,
+  "fila": 333,
   "abertos": 473,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 4,
-  "ausentes": 2,
+  "online": 4,
+  "offline": 5,
+  "ausentes": 0,
   "espera_media_s": 1686
  },
  "captacao": {
-  "ultimo_lead_at": "2026-02-09T15:13:04.544Z",
-  "min_sem_lead": 257853
+  "ultimo_lead_at": "2026-07-27T19:07:45.533Z",
+  "min_sem_lead": 15713
  },
  "leads": [
   {
