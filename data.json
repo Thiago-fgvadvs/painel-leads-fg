@@ -1,37 +1,37 @@
 {
- "gerado_em": "07/08/2026, 13:00",
+ "gerado_em": "07/08/2026, 13:15",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 7,
+  "total": 12,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 340,
-  "tickets_abertos": 470,
+  "leads_7d": 341,
+  "tickets_abertos": 472,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 11,
+   "leads": 12,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 11,
+  "Anuncio": 12,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
-   "url": "fb.me/4EHi0h7IT",
-   "leads": 2
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "leads": 3
   },
   {
-   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "url": "fb.me/4EHi0h7IT",
    "leads": 2
   },
   {
@@ -56,19 +56,19 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 8,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 210,
-  "turnos": 534,
-  "respondidos": 519,
+  "grupos_ativos": 211,
+  "turnos": 537,
+  "respondidos": 522,
   "sem_resposta": 15,
   "sem_resposta_grupos": 15,
-  "mediana_min": 24.4,
+  "mediana_min": 24.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -87,7 +87,7 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 42,
+    "respostas": 44,
     "mediana_min": 2.8
    },
    {
@@ -101,14 +101,14 @@
     "mediana_min": 12.9
    },
    {
+    "nome": "Fernanda Gehm - Administradora",
+    "respostas": 15,
+    "mediana_min": 442.7
+   },
+   {
     "nome": "Roseli",
     "respostas": 14,
     "mediana_min": 5.4
-   },
-   {
-    "nome": "Fernanda Gehm - Administradora",
-    "respostas": 14,
-    "mediana_min": 447.4
    },
    {
     "nome": "—",
@@ -123,16 +123,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "V.F.D.S x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA.",
+    "dia": "07/08",
+    "desde": "13:11",
+    "ts": 1786119100194
+   },
+   {
     "grupo": "J.S.B x ULTRAOBRA LTDA",
     "dia": "07/08",
     "desde": "12:52",
     "ts": 1786117968174
-   },
-   {
-    "grupo": "E.R.D.P x 99 TECNOLOGIA LTDA",
-    "dia": "07/08",
-    "desde": "12:39",
-    "ts": 1786117187173
    },
    {
     "grupo": "T.M.F.D.L x SUPREMO RECUPERACAO DE ATIVOS LTDA",
@@ -232,13 +232,6 @@
     "ts": 1786096728628
    },
    {
-    "nome": "553598726589",
-    "tel": "5535*****589",
-    "dia": "07/08",
-    "desde": "07:17",
-    "ts": 1786097827143
-   },
-   {
     "nome": "Edilma",
     "tel": "5583*****136",
     "dia": "07/08",
@@ -286,6 +279,13 @@
     "dia": "07/08",
     "desde": "12:54",
     "ts": 1786118048189
+   },
+   {
+    "nome": "Libia😎🤨",
+    "tel": "5551*****877",
+    "dia": "07/08",
+    "desde": "13:04",
+    "ts": 1786118676670
    }
   ],
   "grupos": [
@@ -368,28 +368,37 @@
     "ts": 1786117089169
    },
    {
-    "grupo": "E.R.D.P x 99 TECNOLOGIA LTDA",
-    "dia": "07/08",
-    "desde": "12:39",
-    "ts": 1786117187173
-   },
-   {
     "grupo": "J.S.B x ULTRAOBRA LTDA",
     "dia": "07/08",
     "desde": "12:52",
     "ts": 1786117968174
+   },
+   {
+    "grupo": "V.F.D.S x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA.",
+    "dia": "07/08",
+    "desde": "13:11",
+    "ts": 1786119100194
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 11,
+  "total": 12,
   "por_vendedor": {
+   "Eduardo": 3,
    "Roseli": 6,
-   "Tiago Bernardo": 3,
-   "Eduardo": 2
+   "Tiago Bernardo": 3
   },
   "lista": [
+   {
+    "vendedor": "Eduardo",
+    "cliente": "A.P",
+    "dia": "07/08",
+    "hora": "13:06",
+    "ts": 1786118791203,
+    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "T",
@@ -492,19 +501,30 @@
   ]
  },
  "agora": {
-  "fila": 331,
-  "abertos": 470,
-  "com_atendimento": 8,
+  "fila": 333,
+  "abertos": 472,
+  "com_atendimento": 7,
   "online": 1,
-  "offline": 3,
-  "ausentes": 5,
-  "espera_media_s": 1695
+  "offline": 5,
+  "ausentes": 3,
+  "espera_media_s": 1686
  },
  "captacao": {
-  "ultimo_lead_at": "2025-11-03T12:28:59.280Z",
-  "min_sem_lead": 399091
+  "ultimo_lead_at": "2026-08-07T16:04:36.670Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "Libia😎🤨",
+   "tel": "5551*****877",
+   "criado": "13:04",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Antônio",
    "tel": "5581*****959",
