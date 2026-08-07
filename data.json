@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/08/2026, 10:26",
+ "gerado_em": "07/08/2026, 10:41",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 334,
-  "tickets_abertos": 473,
+  "tickets_abertos": 471,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -44,29 +44,29 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 2
+  "Trabalhista": 2,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 204,
-  "turnos": 493,
-  "respondidos": 479,
-  "sem_resposta": 14,
-  "sem_resposta_grupos": 14,
+  "grupos_ativos": 205,
+  "turnos": 503,
+  "respondidos": 491,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
   "mediana_min": 25.2,
   "atendentes": [
    {
-    "nome": "Nicolas",
-    "respostas": 155,
-    "mediana_min": 65.2
+    "nome": "Julia",
+    "respostas": 161,
+    "mediana_min": 35.4
    },
    {
-    "nome": "Julia",
-    "respostas": 153,
-    "mediana_min": 40.1
+    "nome": "Nicolas",
+    "respostas": 158,
+    "mediana_min": 60.7
    },
    {
     "nome": "Gabrielle",
@@ -89,14 +89,14 @@
     "mediana_min": 447.4
    },
    {
+    "nome": "Eduardo",
+    "respostas": 13,
+    "mediana_min": 15
+   },
+   {
     "nome": "Roseli",
     "respostas": 13,
     "mediana_min": 4.8
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 12,
-    "mediana_min": 12.9
    },
    {
     "nome": "—",
@@ -111,16 +111,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
+    "grupo": "C.S.F x POUSADA RECANTO DOURADO LTDA",
     "dia": "07/08",
-    "desde": "10:19",
-    "ts": 1786108766076
-   },
-   {
-    "grupo": "N.L.D.S x P S G QUEIROGA LTDA",
-    "dia": "07/08",
-    "desde": "10:05",
-    "ts": 1786107943064
+    "desde": "10:34",
+    "ts": 1786109677108
    },
    {
     "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
@@ -133,12 +127,6 @@
     "dia": "06/08",
     "desde": "19:02",
     "ts": 1786053736397
-   },
-   {
-    "grupo": "C.S.F x POUSADA RECANTO DOURADO LTDA",
-    "dia": "06/08",
-    "desde": "18:17",
-    "ts": 1786051056243
    },
    {
     "grupo": "J.S.B x ULTRAOBRA LTDA",
@@ -263,12 +251,6 @@
     "ts": 1786049001324
    },
    {
-    "grupo": "C.S.F x POUSADA RECANTO DOURADO LTDA",
-    "dia": "06/08",
-    "desde": "18:17",
-    "ts": 1786051056243
-   },
-   {
     "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
     "dia": "06/08",
     "desde": "18:32",
@@ -281,16 +263,10 @@
     "ts": 1786053736397
    },
    {
-    "grupo": "N.L.D.S x P S G QUEIROGA LTDA",
+    "grupo": "C.S.F x POUSADA RECANTO DOURADO LTDA",
     "dia": "07/08",
-    "desde": "10:05",
-    "ts": 1786107943064
-   },
-   {
-    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
-    "dia": "07/08",
-    "desde": "10:19",
-    "ts": 1786108766076
+    "desde": "10:34",
+    "ts": 1786109677108
    }
   ]
  },
@@ -405,19 +381,30 @@
   ]
  },
  "agora": {
-  "fila": 328,
-  "abertos": 473,
+  "fila": 327,
+  "abertos": 471,
   "com_atendimento": 7,
-  "online": 6,
-  "offline": 2,
+  "online": 5,
+  "offline": 3,
   "ausentes": 1,
   "espera_media_s": 1688
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-06T00:06:08.447Z",
-  "min_sem_lead": 2240
+  "min_sem_lead": 2256
  },
  "leads": [
+  {
+   "nome": "Evelin Souza",
+   "tel": "5511*****488",
+   "criado": "06:58",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Edilma",
    "tel": "5583*****136",
@@ -450,17 +437,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7se00hGXE",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Evelin Souza",
-   "tel": "5511*****488",
-   "criado": "06:58",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/annW3H6uu",
-   "area": "Trabalhista"
   },
   {
    "nome": "553591312401",
