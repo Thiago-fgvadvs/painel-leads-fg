@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/08/2026, 18:36",
+ "gerado_em": "07/08/2026, 18:52",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -73,10 +73,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 219,
-  "turnos": 584,
+  "turnos": 585,
   "respondidos": 576,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 25,
   "atendentes": [
    {
@@ -131,6 +131,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.D.S.A x INSS",
+    "dia": "07/08",
+    "desde": "18:51",
+    "ts": 1786139481338
+   },
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
     "dia": "07/08",
@@ -296,6 +302,12 @@
     "dia": "07/08",
     "desde": "18:32",
     "ts": 1786138328332
+   },
+   {
+    "grupo": "L.D.S.A x INSS",
+    "dia": "07/08",
+    "desde": "18:51",
+    "ts": 1786139481338
    }
   ]
  },
@@ -422,14 +434,14 @@
   "fila": 263,
   "abertos": 380,
   "com_atendimento": 5,
-  "online": 1,
-  "offline": 8,
+  "online": 0,
+  "offline": 9,
   "ausentes": 0,
   "espera_media_s": 2035
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-07T21:03:03.004Z",
-  "min_sem_lead": 34
+  "min_sem_lead": 49
  },
  "leads": [
   {
