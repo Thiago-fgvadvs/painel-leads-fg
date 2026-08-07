@@ -1,28 +1,28 @@
 {
- "gerado_em": "07/08/2026, 11:58",
+ "gerado_em": "07/08/2026, 12:13",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 3,
+  "total": 8,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 336,
-  "tickets_abertos": 471,
+  "leads_7d": 337,
+  "tickets_abertos": 472,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 7,
+   "leads": 8,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 7,
+  "Anuncio": 8,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -33,6 +33,10 @@
   {
    "url": "fb.me/annW3H6uu",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DbqzjPtMmDo/",
@@ -48,7 +52,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3,
+  "Trabalhista": 4,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
@@ -56,21 +60,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 524,
-  "respondidos": 512,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 24.8,
+  "turnos": 529,
+  "respondidos": 518,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 23.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 175,
-    "mediana_min": 31.5
+    "respostas": 178,
+    "mediana_min": 30.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 159,
-    "mediana_min": 65.2
+    "respostas": 160,
+    "mediana_min": 60.7
    },
    {
     "nome": "Gabrielle",
@@ -89,8 +93,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 14,
-    "mediana_min": 17
+    "respostas": 16,
+    "mediana_min": 12.9
    },
    {
     "nome": "Roseli",
@@ -119,12 +123,6 @@
     "dia": "07/08",
     "desde": "11:12",
     "ts": 1786111943127
-   },
-   {
-    "grupo": "R.J.M.F x MINAS VERDE MAQUINAS LTDA",
-    "dia": "07/08",
-    "desde": "11:13",
-    "ts": 1786112001136
    },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
@@ -246,6 +244,13 @@
     "dia": "07/08",
     "desde": "11:31",
     "ts": 1786113103845
+   },
+   {
+    "nome": "557588667114",
+    "tel": "5575*****114",
+    "dia": "07/08",
+    "desde": "12:09",
+    "ts": 1786115347805
    }
   ],
   "grupos": [
@@ -314,12 +319,6 @@
     "dia": "07/08",
     "desde": "11:12",
     "ts": 1786111943127
-   },
-   {
-    "grupo": "R.J.M.F x MINAS VERDE MAQUINAS LTDA",
-    "dia": "07/08",
-    "desde": "11:13",
-    "ts": 1786112001136
    }
   ]
  },
@@ -435,16 +434,16 @@
  },
  "agora": {
   "fila": 328,
-  "abertos": 471,
+  "abertos": 472,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 4,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 1697
+  "ausentes": 3,
+  "espera_media_s": 1688
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T15:37:56.989Z",
-  "min_sem_lead": 10041
+  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
+  "min_sem_lead": 16000
  },
  "leads": [
   {
@@ -456,6 +455,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "557588667114",
+   "tel": "5575*****114",
+   "criado": "12:09",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
   },
   {
