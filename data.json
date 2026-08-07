@@ -1,28 +1,28 @@
 {
- "gerado_em": "06/08/2026, 21:05",
+ "gerado_em": "06/08/2026, 21:21",
  "data_ref": "06/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 37,
+  "total": 38,
   "no_sla": 27,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 9,
+  "fora_horario": 10,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 388,
-  "tickets_abertos": 461,
+  "leads_7d": 389,
+  "tickets_abertos": 462,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 36,
+   "leads": 37,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 32,
+  "Anuncio": 33,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -32,7 +32,7 @@
   },
   {
    "url": "fb.me/annW3H6uu",
-   "leads": 6
+   "leads": 7
   },
   {
    "url": "www.instagram.com/p/DbdhnJxM_D4/",
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 28,
+  "Trabalhista": 29,
   "Nao identificada": 8,
   "Previdenciario": 1
  },
@@ -118,14 +118,14 @@
     "mediana_min": 9.4
    },
    {
-    "nome": "—",
-    "respostas": 13,
-    "mediana_min": 4.4
-   },
-   {
     "nome": "Roseli",
     "respostas": 13,
     "mediana_min": 4.8
+   },
+   {
+    "nome": "—",
+    "respostas": 13,
+    "mediana_min": 4.4
    },
    {
     "nome": "Tiago Bernardo",
@@ -223,6 +223,13 @@
     "dia": "05/08",
     "desde": "19:42",
     "ts": 1785969767082
+   },
+   {
+    "nome": "Rosilene Zago Dallagostin",
+    "tel": "5567*****431",
+    "dia": "05/08",
+    "desde": "20:33",
+    "ts": 1785972826094
    },
    {
     "nome": "morena",
@@ -424,19 +431,30 @@
   ]
  },
  "agora": {
-  "fila": 320,
-  "abertos": 461,
+  "fila": 321,
+  "abertos": 462,
   "com_atendimento": 7,
   "online": 2,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 1806
+  "espera_media_s": 1801
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-07T00:00:11.716Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2026-08-07T00:15:25.650Z",
+  "min_sem_lead": 6
  },
  "leads": [
+  {
+   "nome": "😍",
+   "tel": "5512*****671",
+   "criado": "21:15",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Cleber",
    "tel": "5516*****629",
