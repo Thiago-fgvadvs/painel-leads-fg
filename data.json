@@ -1,23 +1,23 @@
 {
- "gerado_em": "07/08/2026, 19:53",
+ "gerado_em": "07/08/2026, 20:08",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
+  "total": 23,
   "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 6,
+  "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 351,
-  "tickets_abertos": 384,
+  "leads_7d": 352,
+  "tickets_abertos": 385,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -48,6 +48,10 @@
    "leads": 3
   },
   {
+   "url": "www.instagram.com/p/DbwOTH9sH8t/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DYhcT7SDBWR/",
    "leads": 1
   },
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/a0An5DqFR",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9Pf9FTshS",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 9,
-  "Trabalhista": 13
+  "Trabalhista": 14,
+  "Nao identificada": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -189,7 +189,36 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Fabiano",
+    "tel": "5522*****760",
+    "dia": "07/08",
+    "desde": "12:29",
+    "ts": 1786116596349
+   },
+   {
+    "nome": "Antônio",
+    "tel": "5581*****959",
+    "dia": "07/08",
+    "desde": "12:54",
+    "ts": 1786118048189
+   },
+   {
+    "nome": "Libia😎🤨",
+    "tel": "5551*****877",
+    "dia": "07/08",
+    "desde": "13:04",
+    "ts": 1786118676670
+   },
+   {
+    "nome": "Zulene",
+    "tel": "5593*****623",
+    "dia": "07/08",
+    "desde": "14:07",
+    "ts": 1786122422273
+   }
+  ],
   "grupos": [
    {
     "grupo": "F.P.L",
@@ -367,19 +396,30 @@
   ]
  },
  "agora": {
-  "fila": 267,
-  "abertos": 384,
+  "fila": 268,
+  "abertos": 385,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2010
+  "espera_media_s": 2004
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-05T23:43:40.312Z",
-  "min_sem_lead": 2829
+  "ultimo_lead_at": "2026-08-04T18:22:09.468Z",
+  "min_sem_lead": 4606
  },
  "leads": [
+  {
+   "nome": "556293613429",
+   "tel": "5562*****429",
+   "criado": "20:04",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbwOTH9sH8t/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Pabllo Fellix",
    "tel": "5585*****647",
