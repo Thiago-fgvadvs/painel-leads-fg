@@ -1,16 +1,16 @@
 {
- "gerado_em": "07/08/2026, 13:30",
+ "gerado_em": "07/08/2026, 13:46",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
+  "total": 13,
   "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 341,
+  "leads_7d": 342,
   "tickets_abertos": 473,
   "periodo_dias": 7
  },
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 12,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -57,23 +57,23 @@
  ],
  "areas": {
   "Trabalhista": 8,
-  "Nao identificada": 4
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 211,
-  "turnos": 538,
-  "respondidos": 522,
+  "grupos_ativos": 212,
+  "turnos": 542,
+  "respondidos": 526,
   "sem_resposta": 16,
   "sem_resposta_grupos": 16,
-  "mediana_min": 24.6,
+  "mediana_min": 23.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 178,
-    "mediana_min": 30.9
+    "respostas": 181,
+    "mediana_min": 30.3
    },
    {
     "nome": "Nicolas",
@@ -112,8 +112,8 @@
    },
    {
     "nome": "—",
-    "respostas": 12,
-    "mediana_min": 13
+    "respostas": 13,
+    "mediana_min": 4.4
    },
    {
     "nome": "Tiago Bernardo",
@@ -125,8 +125,14 @@
    {
     "grupo": "P.D.S x AMERICANAS S.A",
     "dia": "07/08",
-    "desde": "12:17",
-    "ts": 1786115846163
+    "desde": "13:41",
+    "ts": 1786120864207
+   },
+   {
+    "grupo": "C.S.F x POUSADA RECANTO DOURADO LTDA",
+    "dia": "07/08",
+    "desde": "10:34",
+    "ts": 1786109677108
    },
    {
     "grupo": "V.F.D.S x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA.",
@@ -169,12 +175,6 @@
     "dia": "07/08",
     "desde": "10:42",
     "ts": 1786110175095
-   },
-   {
-    "grupo": "C.S.F x POUSADA RECANTO DOURADO LTDA",
-    "dia": "07/08",
-    "desde": "10:34",
-    "ts": 1786109677108
    },
    {
     "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
@@ -362,12 +362,6 @@
     "ts": 1786111943127
    },
    {
-    "grupo": "P.D.S x AMERICANAS S.A",
-    "dia": "07/08",
-    "desde": "12:17",
-    "ts": 1786115846163
-   },
-   {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
     "dia": "07/08",
     "desde": "12:26",
@@ -390,6 +384,12 @@
     "dia": "07/08",
     "desde": "13:11",
     "ts": 1786119100194
+   },
+   {
+    "grupo": "P.D.S x AMERICANAS S.A",
+    "dia": "07/08",
+    "desde": "13:41",
+    "ts": 1786120864207
    }
   ]
  },
@@ -513,17 +513,17 @@
   ]
  },
  "agora": {
-  "fila": 333,
+  "fila": 332,
   "abertos": 473,
   "com_atendimento": 7,
   "online": 3,
-  "offline": 5,
-  "ausentes": 1,
+  "offline": 4,
+  "ausentes": 2,
   "espera_media_s": 1686
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 676871
+  "ultimo_lead_at": "2026-02-09T15:13:04.544Z",
+  "min_sem_lead": 257853
  },
  "leads": [
   {
@@ -656,6 +656,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Fernando",
+   "tel": "5511*****569",
+   "criado": "13:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
