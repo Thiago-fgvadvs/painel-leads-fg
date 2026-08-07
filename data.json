@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/08/2026, 16:19",
+ "gerado_em": "07/08/2026, 16:34",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 346,
-  "tickets_abertos": 423,
+  "tickets_abertos": 400,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -73,21 +73,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 215,
-  "turnos": 563,
-  "respondidos": 547,
-  "sem_resposta": 16,
-  "sem_resposta_grupos": 16,
-  "mediana_min": 24.8,
+  "turnos": 565,
+  "respondidos": 550,
+  "sem_resposta": 15,
+  "sem_resposta_grupos": 15,
+  "mediana_min": 25,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 188,
-    "mediana_min": 31.5
+    "respostas": 190,
+    "mediana_min": 32.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 168,
-    "mediana_min": 55.7
+    "respostas": 169,
+    "mediana_min": 55.1
    },
    {
     "nome": "Gabrielle",
@@ -172,12 +172,6 @@
     "dia": "07/08",
     "desde": "12:38",
     "ts": 1786117089169
-   },
-   {
-    "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
-    "dia": "07/08",
-    "desde": "11:12",
-    "ts": 1786111943127
    },
    {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
@@ -346,12 +340,6 @@
     "ts": 1786110902099
    },
    {
-    "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
-    "dia": "07/08",
-    "desde": "11:12",
-    "ts": 1786111943127
-   },
-   {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
     "dia": "07/08",
     "desde": "12:26",
@@ -515,17 +503,17 @@
   ]
  },
  "agora": {
-  "fila": 282,
-  "abertos": 423,
-  "com_atendimento": 7,
-  "online": 4,
-  "offline": 4,
+  "fila": 263,
+  "abertos": 400,
+  "com_atendimento": 6,
+  "online": 5,
+  "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 1915
+  "espera_media_s": 2010
  },
  "captacao": {
-  "ultimo_lead_at": "2025-11-03T12:28:59.280Z",
-  "min_sem_lead": 399290
+  "ultimo_lead_at": "2026-08-01T21:08:48.585Z",
+  "min_sem_lead": 8546
  },
  "leads": [
   {
