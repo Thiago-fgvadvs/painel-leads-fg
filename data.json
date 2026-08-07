@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/08/2026, 11:43",
+ "gerado_em": "07/08/2026, 11:58",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 336,
-  "tickets_abertos": 472,
+  "tickets_abertos": 471,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -56,16 +56,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 522,
-  "respondidos": 508,
-  "sem_resposta": 14,
-  "sem_resposta_grupos": 14,
-  "mediana_min": 25.2,
+  "turnos": 524,
+  "respondidos": 512,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
+  "mediana_min": 24.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 172,
-    "mediana_min": 34.1
+    "respostas": 175,
+    "mediana_min": 31.5
    },
    {
     "nome": "Nicolas",
@@ -88,6 +88,11 @@
     "mediana_min": 0.9
    },
    {
+    "nome": "Eduardo",
+    "respostas": 14,
+    "mediana_min": 17
+   },
+   {
     "nome": "Roseli",
     "respostas": 14,
     "mediana_min": 5.4
@@ -96,11 +101,6 @@
     "nome": "Fernanda Gehm - Administradora",
     "respostas": 14,
     "mediana_min": 447.4
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 13,
-    "mediana_min": 15
    },
    {
     "nome": "—",
@@ -121,22 +121,10 @@
     "ts": 1786111943127
    },
    {
-    "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
-    "dia": "07/08",
-    "desde": "11:32",
-    "ts": 1786113144125
-   },
-   {
     "grupo": "R.J.M.F x MINAS VERDE MAQUINAS LTDA",
     "dia": "07/08",
     "desde": "11:13",
     "ts": 1786112001136
-   },
-   {
-    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
-    "dia": "07/08",
-    "desde": "11:11",
-    "ts": 1786111904125
    },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
@@ -209,6 +197,41 @@
     "dia": "06/08",
     "desde": "13:01",
     "ts": 1786032075445
+   },
+   {
+    "nome": "553591312401",
+    "tel": "5535*****401",
+    "dia": "07/08",
+    "desde": "01:00",
+    "ts": 1786075243029
+   },
+   {
+    "nome": "Evelin Souza",
+    "tel": "5511*****488",
+    "dia": "07/08",
+    "desde": "06:58",
+    "ts": 1786096728628
+   },
+   {
+    "nome": "Gugu Mara🥰🥰",
+    "tel": "5586*****417",
+    "dia": "07/08",
+    "desde": "07:03",
+    "ts": 1786097005650
+   },
+   {
+    "nome": "553598726589",
+    "tel": "5535*****589",
+    "dia": "07/08",
+    "desde": "07:17",
+    "ts": 1786097827143
+   },
+   {
+    "nome": "Edilma",
+    "tel": "5583*****136",
+    "dia": "07/08",
+    "desde": "08:33",
+    "ts": 1786102427735
    },
    {
     "nome": "5511939144772",
@@ -287,12 +310,6 @@
     "ts": 1786110902099
    },
    {
-    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
-    "dia": "07/08",
-    "desde": "11:11",
-    "ts": 1786111904125
-   },
-   {
     "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
     "dia": "07/08",
     "desde": "11:12",
@@ -303,12 +320,6 @@
     "dia": "07/08",
     "desde": "11:13",
     "ts": 1786112001136
-   },
-   {
-    "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
-    "dia": "07/08",
-    "desde": "11:32",
-    "ts": 1786113144125
    }
   ]
  },
@@ -423,17 +434,17 @@
   ]
  },
  "agora": {
-  "fila": 329,
-  "abertos": 472,
+  "fila": 328,
+  "abertos": 471,
   "com_atendimento": 7,
-  "online": 7,
+  "online": 5,
   "offline": 2,
-  "ausentes": 0,
+  "ausentes": 2,
   "espera_media_s": 1697
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-07T14:31:43.845Z",
-  "min_sem_lead": 11
+  "ultimo_lead_at": "2026-07-31T15:37:56.989Z",
+  "min_sem_lead": 10041
  },
  "leads": [
   {
