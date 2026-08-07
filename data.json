@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/08/2026, 10:41",
+ "gerado_em": "07/08/2026, 10:57",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 334,
-  "tickets_abertos": 471,
+  "tickets_abertos": 469,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -52,10 +52,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 205,
-  "turnos": 503,
-  "respondidos": 491,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
+  "turnos": 506,
+  "respondidos": 493,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
   "mediana_min": 25.2,
   "atendentes": [
    {
@@ -65,8 +65,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 158,
-    "mediana_min": 60.7
+    "respostas": 159,
+    "mediana_min": 65.2
    },
    {
     "nome": "Gabrielle",
@@ -84,6 +84,11 @@
     "mediana_min": 0.9
    },
    {
+    "nome": "Roseli",
+    "respostas": 14,
+    "mediana_min": 5.4
+   },
+   {
     "nome": "Fernanda Gehm - Administradora",
     "respostas": 14,
     "mediana_min": 447.4
@@ -92,11 +97,6 @@
     "nome": "Eduardo",
     "respostas": 13,
     "mediana_min": 15
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 13,
-    "mediana_min": 4.8
    },
    {
     "nome": "—",
@@ -110,6 +110,24 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
+    "dia": "07/08",
+    "desde": "10:55",
+    "ts": 1786110902099
+   },
+   {
+    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
+    "dia": "07/08",
+    "desde": "10:46",
+    "ts": 1786110418111
+   },
+   {
+    "grupo": "E.M.D.S x ZAMP S.A.",
+    "dia": "07/08",
+    "desde": "10:42",
+    "ts": 1786110175095
+   },
    {
     "grupo": "C.S.F x POUSADA RECANTO DOURADO LTDA",
     "dia": "07/08",
@@ -129,12 +147,6 @@
     "ts": 1786053736397
    },
    {
-    "grupo": "J.S.B x ULTRAOBRA LTDA",
-    "dia": "06/08",
-    "desde": "17:43",
-    "ts": 1786049001324
-   },
-   {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
     "dia": "06/08",
     "desde": "12:17",
@@ -145,12 +157,6 @@
     "dia": "04/08",
     "desde": "16:54",
     "ts": 1785873299154
-   },
-   {
-    "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
-    "dia": "05/08",
-    "desde": "17:49",
-    "ts": 1785962993650
    },
    {
     "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
@@ -233,22 +239,10 @@
     "ts": 1785961708768
    },
    {
-    "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
-    "dia": "05/08",
-    "desde": "17:49",
-    "ts": 1785962993650
-   },
-   {
     "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
     "dia": "06/08",
     "desde": "12:17",
     "ts": 1786029453975
-   },
-   {
-    "grupo": "J.S.B x ULTRAOBRA LTDA",
-    "dia": "06/08",
-    "desde": "17:43",
-    "ts": 1786049001324
    },
    {
     "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
@@ -267,6 +261,24 @@
     "dia": "07/08",
     "desde": "10:34",
     "ts": 1786109677108
+   },
+   {
+    "grupo": "E.M.D.S x ZAMP S.A.",
+    "dia": "07/08",
+    "desde": "10:42",
+    "ts": 1786110175095
+   },
+   {
+    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
+    "dia": "07/08",
+    "desde": "10:46",
+    "ts": 1786110418111
+   },
+   {
+    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
+    "dia": "07/08",
+    "desde": "10:55",
+    "ts": 1786110902099
    }
   ]
  },
@@ -382,16 +394,16 @@
  },
  "agora": {
   "fila": 327,
-  "abertos": 471,
+  "abertos": 469,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 4,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 1688
+  "ausentes": 2,
+  "espera_media_s": 1701
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-06T00:06:08.447Z",
-  "min_sem_lead": 2256
+  "ultimo_lead_at": "2026-08-02T21:28:41.276Z",
+  "min_sem_lead": 6748
  },
  "leads": [
   {
