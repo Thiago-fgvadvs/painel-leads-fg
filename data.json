@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/08/2026, 16:49",
+ "gerado_em": "07/08/2026, 17:05",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 347,
-  "tickets_abertos": 382,
+  "tickets_abertos": 384,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -73,10 +73,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 564,
+  "turnos": 565,
   "respondidos": 551,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
   "mediana_min": 25.2,
   "atendentes": [
    {
@@ -131,6 +131,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
+    "dia": "07/08",
+    "desde": "16:43",
+    "ts": 1786131827290
+   },
    {
     "grupo": "M.G.S",
     "dia": "07/08",
@@ -220,13 +226,6 @@
     "dia": "07/08",
     "desde": "11:31",
     "ts": 1786113103845
-   },
-   {
-    "nome": "Amanda",
-    "tel": "5547*****160",
-    "dia": "07/08",
-    "desde": "12:22",
-    "ts": 1786116170768
    },
    {
     "nome": "Fabiano",
@@ -356,6 +355,12 @@
     "dia": "07/08",
     "desde": "16:04",
     "ts": 1786129477262
+   },
+   {
+    "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
+    "dia": "07/08",
+    "desde": "16:43",
+    "ts": 1786131827290
    }
   ]
  },
@@ -479,17 +484,17 @@
   ]
  },
  "agora": {
-  "fila": 259,
-  "abertos": 382,
+  "fila": 260,
+  "abertos": 384,
   "com_atendimento": 7,
-  "online": 5,
-  "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 2061
+  "online": 3,
+  "offline": 4,
+  "ausentes": 2,
+  "espera_media_s": 2054
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-15T16:56:37.862Z",
-  "min_sem_lead": 33293
+  "ultimo_lead_at": "2026-08-06T19:49:41.443Z",
+  "min_sem_lead": 1455
  },
  "leads": [
   {
