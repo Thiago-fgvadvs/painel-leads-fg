@@ -1,23 +1,23 @@
 {
- "gerado_em": "07/08/2026, 15:48",
+ "gerado_em": "07/08/2026, 16:03",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 11,
+  "total": 17,
+  "no_sla": 12,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 345,
-  "tickets_abertos": 463,
+  "leads_7d": 346,
+  "tickets_abertos": 436,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 14,
+   "leads": 15,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 15,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -48,6 +48,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/a0An5DqFR",
+   "leads": 1
+  },
+  {
    "url": "fb.me/9Pf9FTshS",
    "leads": 1
   },
@@ -61,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 10,
+  "Trabalhista": 11,
   "Nao identificada": 6
  },
  "sem_resposta_lista": [],
@@ -101,14 +105,14 @@
     "mediana_min": 0.9
    },
    {
-    "nome": "Eduardo",
-    "respostas": 17,
-    "mediana_min": 15
-   },
-   {
     "nome": "Fernanda Gehm - Administradora",
     "respostas": 17,
     "mediana_min": 442.7
+   },
+   {
+    "nome": "Eduardo",
+    "respostas": 17,
+    "mediana_min": 15
    },
    {
     "nome": "Roseli",
@@ -127,6 +131,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "05/08",
+    "desde": "17:28",
+    "ts": 1785961708768
+   },
    {
     "grupo": "L.D.S.A x INSS",
     "dia": "07/08",
@@ -194,12 +204,6 @@
     "ts": 1786029453975
    },
    {
-    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
-    "dia": "05/08",
-    "desde": "17:28",
-    "ts": 1785961708768
-   },
-   {
     "grupo": "K.C.A x SANTA HELENA ASSISTÊNCIA MEDICA S/A",
     "dia": "05/08",
     "desde": "14:37",
@@ -228,13 +232,6 @@
     "dia": "07/08",
     "desde": "11:31",
     "ts": 1786113103845
-   },
-   {
-    "nome": "557588667114",
-    "tel": "5575*****114",
-    "dia": "07/08",
-    "desde": "12:09",
-    "ts": 1786115347805
    },
    {
     "nome": "Amanda",
@@ -277,6 +274,13 @@
     "dia": "07/08",
     "desde": "15:24",
     "ts": 1786127090452
+   },
+   {
+    "nome": "5511934745209",
+    "tel": "5511*****209",
+    "dia": "07/08",
+    "desde": "15:57",
+    "ts": 1786129043922
    }
   ],
   "grupos": [
@@ -492,19 +496,30 @@
   ]
  },
  "agora": {
-  "fila": 327,
-  "abertos": 463,
+  "fila": 298,
+  "abertos": 436,
   "com_atendimento": 7,
   "online": 5,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 1705
+  "espera_media_s": 1835
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-02T16:44:12.884Z",
-  "min_sem_lead": 51964
+  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
+  "min_sem_lead": 6123
  },
  "leads": [
+  {
+   "nome": "5511934745209",
+   "tel": "5511*****209",
+   "criado": "15:57",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/a0An5DqFR",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Libriana 🔥⚖️",
    "tel": "5521*****939",
@@ -660,7 +675,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553591312401",
+   "nome": "Silva D",
    "tel": "5535*****401",
    "criado": "01:00",
    "atendente": "Fernanda Gehm - Administradora",
