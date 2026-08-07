@@ -1,28 +1,28 @@
 {
- "gerado_em": "07/08/2026, 12:29",
+ "gerado_em": "07/08/2026, 12:44",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 5,
+  "total": 10,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 338,
+  "leads_7d": 339,
   "tickets_abertos": 468,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -39,6 +39,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DbqzjPtMmDo/",
    "leads": 1
   },
@@ -52,19 +56,19 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
+  "Trabalhista": 6,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 209,
-  "turnos": 530,
-  "respondidos": 518,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 23.9,
+  "grupos_ativos": 210,
+  "turnos": 533,
+  "respondidos": 519,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
+  "mediana_min": 24.4,
   "atendentes": [
    {
     "nome": "Julia",
@@ -83,8 +87,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 41,
-    "mediana_min": 2.7
+    "respostas": 42,
+    "mediana_min": 2.8
    },
    {
     "nome": "Thauany",
@@ -119,16 +123,28 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
+    "grupo": "E.R.D.P x 99 TECNOLOGIA LTDA",
     "dia": "07/08",
-    "desde": "12:26",
-    "ts": 1786116409169
+    "desde": "12:39",
+    "ts": 1786117187173
+   },
+   {
+    "grupo": "T.M.F.D.L x SUPREMO RECUPERACAO DE ATIVOS LTDA",
+    "dia": "07/08",
+    "desde": "12:38",
+    "ts": 1786117089169
    },
    {
     "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
     "dia": "07/08",
     "desde": "11:12",
     "ts": 1786111943127
+   },
+   {
+    "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
+    "dia": "07/08",
+    "desde": "12:26",
+    "ts": 1786116409169
    },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
@@ -203,13 +219,6 @@
     "ts": 1786032075445
    },
    {
-    "nome": "553591312401",
-    "tel": "5535*****401",
-    "dia": "07/08",
-    "desde": "01:00",
-    "ts": 1786075243029
-   },
-   {
     "nome": "Evelin Souza",
     "tel": "5511*****488",
     "dia": "07/08",
@@ -264,6 +273,13 @@
     "dia": "07/08",
     "desde": "12:22",
     "ts": 1786116170768
+   },
+   {
+    "nome": "5522998030760",
+    "tel": "5522*****760",
+    "dia": "07/08",
+    "desde": "12:29",
+    "ts": 1786116596349
    }
   ],
   "grupos": [
@@ -338,6 +354,18 @@
     "dia": "07/08",
     "desde": "12:26",
     "ts": 1786116409169
+   },
+   {
+    "grupo": "T.M.F.D.L x SUPREMO RECUPERACAO DE ATIVOS LTDA",
+    "dia": "07/08",
+    "desde": "12:38",
+    "ts": 1786117089169
+   },
+   {
+    "grupo": "E.R.D.P x 99 TECNOLOGIA LTDA",
+    "dia": "07/08",
+    "desde": "12:39",
+    "ts": 1786117187173
    }
   ]
  },
@@ -452,19 +480,30 @@
   ]
  },
  "agora": {
-  "fila": 329,
+  "fila": 330,
   "abertos": 468,
-  "com_atendimento": 7,
+  "com_atendimento": 8,
   "online": 3,
-  "offline": 2,
-  "ausentes": 4,
-  "espera_media_s": 1695
+  "offline": 3,
+  "ausentes": 3,
+  "espera_media_s": 1699
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T17:23:50.516Z",
-  "min_sem_lead": 9965
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 676825
  },
  "leads": [
+  {
+   "nome": "5522998030760",
+   "tel": "5522*****760",
+   "criado": "12:29",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Amanda",
    "tel": "5547*****160",
