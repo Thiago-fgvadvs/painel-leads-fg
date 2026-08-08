@@ -1,31 +1,35 @@
 {
- "gerado_em": "08/08/2026, 15:18",
+ "gerado_em": "08/08/2026, 15:34",
  "data_ref": "08/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
+  "total": 17,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 14,
+  "fora_horario": 16,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 327,
-  "tickets_abertos": 407,
+  "leads_7d": 329,
+  "tickets_abertos": 409,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 14,
+   "leads": 16,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 15,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DbwPwnpMmQ_/",
+   "leads": 2
+  },
   {
    "url": "fb.me/9qZJXQfW5",
    "leads": 2
@@ -43,26 +47,22 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4EHi0h7IT",
+   "url": "www.instagram.com/p/DbdhnJxM_D4/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DbwPwnpMmQ_/",
+   "url": "fb.me/4EHi0h7IT",
    "leads": 1
   },
   {
    "url": "fb.me/4PBmuDhBi",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9Pf9FTshS",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 12,
   "Previdenciario": 1,
-  "Nao identificada": 4,
-  "Trabalhista": 10
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -185,7 +185,22 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Libriana 🔥⚖️",
+    "tel": "5521*****939",
+    "dia": "07/08",
+    "desde": "15:24",
+    "ts": 1786127090452
+   },
+   {
+    "nome": "ADRIANO Oliveira",
+    "tel": "5511*****209",
+    "dia": "07/08",
+    "desde": "15:57",
+    "ts": 1786129043922
+   }
+  ],
   "grupos": [
    {
     "grupo": "F.P.L",
@@ -363,19 +378,30 @@
   ]
  },
  "agora": {
-  "fila": 290,
-  "abertos": 407,
+  "fila": 292,
+  "abertos": 409,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1882
+  "espera_media_s": 1871
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-08T16:48:28.437Z",
-  "min_sem_lead": 90
+  "ultimo_lead_at": "2026-08-08T18:30:18.990Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "555492745405",
+   "tel": "5554*****405",
+   "criado": "15:30",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbdhnJxM_D4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "554299230441",
    "tel": "5542*****441",
@@ -386,6 +412,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Previdenciario"
+  },
+  {
+   "nome": "558588480531",
+   "tel": "5585*****531",
+   "criado": "15:21",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbwPwnpMmQ_/",
+   "area": "Trabalhista"
   },
   {
    "nome": "556493428601",
