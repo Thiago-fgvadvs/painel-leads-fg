@@ -1,5 +1,5 @@
 {
- "gerado_em": "08/08/2026, 16:04",
+ "gerado_em": "08/08/2026, 16:19",
  "data_ref": "08/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -7,17 +7,17 @@
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 16,
+  "fora_horario": 17,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 329,
-  "tickets_abertos": 409,
+  "tickets_abertos": 410,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": null
   }
  ],
@@ -60,9 +60,9 @@
   }
  ],
  "areas": {
+  "Nao identificada": 4,
   "Trabalhista": 12,
-  "Previdenciario": 1,
-  "Nao identificada": 4
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -378,19 +378,30 @@
   ]
  },
  "agora": {
-  "fila": 292,
-  "abertos": 409,
+  "fila": 293,
+  "abertos": 410,
   "com_atendimento": 5,
-  "online": 1,
-  "offline": 8,
+  "online": 0,
+  "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1871
+  "espera_media_s": 1866
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-08T16:41:17.380Z",
-  "min_sem_lead": 143
+  "ultimo_lead_at": "2026-08-08T08:06:16.723Z",
+  "min_sem_lead": 674
  },
  "leads": [
+  {
+   "nome": "556193759779",
+   "tel": "5561*****779",
+   "criado": "05:06",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 673,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Carla Sousa",
    "tel": "5521*****263",
@@ -403,7 +414,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "555492745405",
+   "nome": "Maria Eduarda",
    "tel": "5554*****405",
    "criado": "15:30",
    "atendente": "Fernanda Gehm - Administradora",
@@ -414,7 +425,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554299230441",
+   "nome": "Henrique Ferreira",
    "tel": "5542*****441",
    "criado": "13:48",
    "atendente": "Fernanda Gehm - Administradora",
@@ -425,7 +436,7 @@
    "area": "Previdenciario"
   },
   {
-   "nome": "558588480531",
+   "nome": "Aldeíde",
    "tel": "5585*****531",
    "criado": "15:21",
    "atendente": "Fernanda Gehm - Administradora",
@@ -436,7 +447,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556493428601",
+   "nome": "Maria Auxiliadora",
    "tel": "5564*****601",
    "criado": "14:37",
    "atendente": "Fernanda Gehm - Administradora",
@@ -447,7 +458,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "557499439344",
+   "nome": "Ataidesvenacoi",
    "tel": "5574*****344",
    "criado": "14:16",
    "atendente": "Fernanda Gehm - Administradora",
@@ -458,7 +469,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5528999992776",
+   "nome": "Restaurante Kanttin🍕",
    "tel": "5528*****776",
    "criado": "13:37",
    "atendente": "Fernanda Gehm - Administradora",
@@ -502,7 +513,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "553398600894",
+   "nome": "Souza Lima",
    "tel": "5533*****894",
    "criado": "11:15",
    "atendente": "Fernanda Gehm - Administradora",
@@ -513,7 +524,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511967234006",
+   "nome": "salma😘",
    "tel": "5511*****006",
    "criado": "08:53",
    "atendente": "Fernanda Gehm - Administradora",
@@ -535,7 +546,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556992867572",
+   "nome": "JUNIOR",
    "tel": "5569*****572",
    "criado": "05:07",
    "atendente": "Fernanda Gehm - Administradora",
@@ -546,7 +557,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "558186364946",
+   "nome": "Grilos",
    "tel": "5581*****946",
    "criado": "03:59",
    "atendente": "Fernanda Gehm - Administradora",
@@ -566,17 +577,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/9ikHrVLv1",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "556193759779",
-   "tel": "5561*****779",
-   "criado": "05:06",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   }
  ]
 }
