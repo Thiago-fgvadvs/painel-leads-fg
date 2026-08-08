@@ -1,31 +1,35 @@
 {
- "gerado_em": "08/08/2026, 08:11",
+ "gerado_em": "08/08/2026, 08:27",
  "data_ref": "08/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
+  "total": 5,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 3,
+  "fora_horario": 4,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 316,
-  "tickets_abertos": 395,
+  "leads_7d": 317,
+  "tickets_abertos": 396,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 3,
+   "leads": 4,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/9Pf9FTshS",
+   "leads": 1
+  },
   {
    "url": "fb.me/9qZJXQfW5",
    "leads": 1
@@ -40,8 +44,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 2
+  "Trabalhista": 3,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -342,19 +346,30 @@
   ]
  },
  "agora": {
-  "fila": 278,
-  "abertos": 395,
+  "fila": 279,
+  "abertos": 396,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1950
+  "espera_media_s": 1944
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
-  "min_sem_lead": 7091
+  "ultimo_lead_at": "2026-08-08T11:18:03.882Z",
+  "min_sem_lead": 9
  },
  "leads": [
+  {
+   "nome": "Carmen",
+   "tel": "5548*****182",
+   "criado": "08:18",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Pf9FTshS",
+   "area": "Trabalhista"
+  },
   {
    "nome": "556992867572",
    "tel": "5569*****572",
