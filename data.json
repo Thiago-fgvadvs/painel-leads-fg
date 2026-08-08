@@ -1,34 +1,42 @@
 {
- "gerado_em": "08/08/2026, 13:32",
+ "gerado_em": "08/08/2026, 13:47",
  "data_ref": "08/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
+  "total": 12,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 8,
+  "fora_horario": 11,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 321,
-  "tickets_abertos": 400,
+  "leads_7d": 324,
+  "tickets_abertos": 403,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 8,
+   "leads": 11,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 11,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
+   "url": "fb.me/annW3H6uu",
+   "leads": 2
+  },
+  {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/4EHi0h7IT",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DbwPwnpMmQ_/",
@@ -49,21 +57,17 @@
   {
    "url": "fb.me/bNvX4h9Vo",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9ikHrVLv1",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 6,
-  "Nao identificada": 3
+  "Trabalhista": 8,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 220,
+  "grupos_ativos": 221,
   "turnos": 587,
   "respondidos": 578,
   "sem_resposta": 9,
@@ -180,64 +184,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Zulene",
-    "tel": "5593*****623",
-    "dia": "07/08",
-    "desde": "14:07",
-    "ts": 1786122422273
-   },
-   {
-    "nome": "Libriana 🔥⚖️",
-    "tel": "5521*****939",
-    "dia": "07/08",
-    "desde": "15:24",
-    "ts": 1786127090452
-   },
-   {
-    "nome": "ADRIANO Oliveira",
-    "tel": "5511*****209",
-    "dia": "07/08",
-    "desde": "15:57",
-    "ts": 1786129043922
-   },
-   {
-    "nome": "554892220333",
-    "tel": "5548*****333",
-    "dia": "07/08",
-    "desde": "16:36",
-    "ts": 1786131369422
-   },
-   {
-    "nome": "Alessandra",
-    "tel": "5511*****446",
-    "dia": "07/08",
-    "desde": "17:07",
-    "ts": 1786133236155
-   },
-   {
-    "nome": "Rafaelle Carvalho",
-    "tel": "5522*****187",
-    "dia": "07/08",
-    "desde": "18:03",
-    "ts": 1786136583004
-   },
-   {
-    "nome": "Pabllo Fellix",
-    "tel": "5585*****647",
-    "dia": "07/08",
-    "desde": "19:52",
-    "ts": 1786143131631
-   },
-   {
-    "nome": "556293613429",
-    "tel": "5562*****429",
-    "dia": "07/08",
-    "desde": "20:04",
-    "ts": 1786143866620
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "F.P.L",
@@ -415,19 +362,52 @@
   ]
  },
  "agora": {
-  "fila": 283,
-  "abertos": 400,
+  "fila": 286,
+  "abertos": 403,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1921
+  "espera_media_s": 1904
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-07T22:23:03.243Z",
-  "min_sem_lead": 1089
+  "ultimo_lead_at": "2026-08-08T16:37:35.715Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "5528999992776",
+   "tel": "5528*****776",
+   "criado": "13:37",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Marlene 💋",
+   "tel": "5592*****215",
+   "criado": "13:42",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4EHi0h7IT",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Carla Sousa",
+   "tel": "5521*****263",
+   "criado": "13:41",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Cris",
    "tel": "5532*****070",
