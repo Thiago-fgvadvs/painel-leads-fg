@@ -1,5 +1,5 @@
 {
- "gerado_em": "08/08/2026, 14:17",
+ "gerado_em": "08/08/2026, 14:33",
  "data_ref": "08/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -7,17 +7,17 @@
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 12,
+  "fora_horario": 13,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 326,
-  "tickets_abertos": 405,
+  "tickets_abertos": 406,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 12,
+   "leads": 13,
    "mediana_min": null
   }
  ],
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 10,
-  "Nao identificada": 4
+  "Nao identificada": 4,
+  "Trabalhista": 10
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -362,19 +362,30 @@
   ]
  },
  "agora": {
-  "fila": 288,
-  "abertos": 405,
+  "fila": 289,
+  "abertos": 406,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1893
+  "espera_media_s": 1888
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-08T17:16:43.043Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-08-08T16:48:28.437Z",
+  "min_sem_lead": 45
  },
  "leads": [
+  {
+   "nome": "554299230441",
+   "tel": "5542*****441",
+   "criado": "13:48",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 38.3,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "557499439344",
    "tel": "5574*****344",
@@ -506,17 +517,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/9ikHrVLv1",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "554299230441",
-   "tel": "5542*****441",
-   "criado": "13:48",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "556193759779",
