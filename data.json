@@ -1,17 +1,17 @@
 {
- "gerado_em": "08/08/2026, 17:05",
+ "gerado_em": "08/08/2026, 17:20",
  "data_ref": "08/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
+  "total": 21,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 20,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 332,
-  "tickets_abertos": 413,
+  "leads_7d": 333,
+  "tickets_abertos": 415,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,13 +22,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 3
+   "leads": 4
+  },
+  {
+   "url": "www.instagram.com/p/DbwPwnpMmQ_/",
+   "leads": 2
   },
   {
    "url": "fb.me/4PBmuDhBi",
@@ -36,10 +40,6 @@
   },
   {
    "url": "fb.me/annW3H6uu",
-   "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DbwPwnpMmQ_/",
    "leads": 2
   },
   {
@@ -60,11 +60,18 @@
   }
  ],
  "areas": {
+  "Trabalhista": 15,
   "Nao identificada": 5,
-  "Trabalhista": 14,
   "Previdenciario": 1
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "💪🏾🙏🏼",
+   "tel": "5531*****633",
+   "criado": "17:20",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -185,7 +192,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "💪🏾🙏🏼",
+    "tel": "5531*****633",
+    "dia": "08/08",
+    "desde": "17:20",
+    "ts": 1786220435398
+   }
+  ],
   "grupos": [
    {
     "grupo": "F.P.L",
@@ -363,29 +378,40 @@
   ]
  },
  "agora": {
-  "fila": 296,
-  "abertos": 413,
+  "fila": 298,
+  "abertos": 415,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1850
+  "espera_media_s": 1845
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-08T20:04:02.719Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-08-08T20:20:35.398Z",
+  "min_sem_lead": 0
  },
  "leads": [
   {
-   "nome": "5521976820274",
-   "tel": "5521*****274",
-   "criado": "17:04",
+   "nome": "💪🏾🙏🏼",
+   "tel": "5531*****633",
+   "criado": "17:20",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Aldeíde",
+   "tel": "5585*****531",
+   "criado": "15:21",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "fb.me/4PBmuDhBi",
-   "area": "Nao identificada"
+   "criativo": "www.instagram.com/p/DbwPwnpMmQ_/",
+   "area": "Trabalhista"
   },
   {
    "nome": "5511949886907",
@@ -397,6 +423,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbut5RKs2nP/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5521976820274",
+   "tel": "5521*****274",
+   "criado": "17:04",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4PBmuDhBi",
+   "area": "Nao identificada"
   },
   {
    "nome": "558899222109",
@@ -452,17 +489,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Previdenciario"
-  },
-  {
-   "nome": "Aldeíde",
-   "tel": "5585*****531",
-   "criado": "15:21",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbwPwnpMmQ_/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Maria Auxiliadora",
