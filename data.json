@@ -1,23 +1,23 @@
 {
- "gerado_em": "07/08/2026, 21:24",
+ "gerado_em": "07/08/2026, 21:40",
  "data_ref": "07/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
+  "total": 24,
   "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 7,
+  "fora_horario": 8,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 352,
-  "tickets_abertos": 386,
+  "leads_7d": 353,
+  "tickets_abertos": 387,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 22,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -36,15 +36,15 @@
    "leads": 5
   },
   {
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "leads": 4
+  },
+  {
    "url": "fb.me/annW3H6uu",
    "leads": 3
   },
   {
    "url": "fb.me/4EHi0h7IT",
-   "leads": 3
-  },
-  {
-   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
    "leads": 3
   },
   {
@@ -66,7 +66,7 @@
  ],
  "areas": {
   "Nao identificada": 9,
-  "Trabalhista": 14
+  "Trabalhista": 15
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -190,6 +190,20 @@
  "pendencias": {
   "dias": 7,
   "leads": [
+   {
+    "nome": "Ane",
+    "tel": "5575*****114",
+    "dia": "07/08",
+    "desde": "12:09",
+    "ts": 1786115347805
+   },
+   {
+    "nome": "Amanda",
+    "tel": "5547*****160",
+    "dia": "07/08",
+    "desde": "12:22",
+    "ts": 1786116170768
+   },
    {
     "nome": "Fabiano",
     "tel": "5522*****760",
@@ -396,17 +410,17 @@
   ]
  },
  "agora": {
-  "fila": 269,
-  "abertos": 386,
+  "fila": 270,
+  "abertos": 387,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1998
+  "espera_media_s": 1991
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T18:46:31.678Z",
-  "min_sem_lead": 6098
+  "ultimo_lead_at": "2026-08-07T22:23:03.243Z",
+  "min_sem_lead": 137
  },
  "leads": [
   {
@@ -419,6 +433,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4PBmuDhBi",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "553398211449",
+   "tel": "5533*****449",
+   "criado": "21:29",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
   },
   {
    "nome": "556293613429",
