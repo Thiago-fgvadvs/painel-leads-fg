@@ -1,28 +1,28 @@
 {
- "gerado_em": "09/08/2026, 12:01",
+ "gerado_em": "09/08/2026, 12:16",
  "data_ref": "09/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
+  "total": 18,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 17,
+  "fora_horario": 18,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 304,
-  "tickets_abertos": 454,
+  "leads_7d": 305,
+  "tickets_abertos": 456,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 17,
+   "leads": 18,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -33,6 +33,10 @@
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/23u6Sa6Iz3",
+   "leads": 1
   },
   {
    "url": "fb.me/fljy4QK1m",
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/5PrAglhO4",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9ikHrVLv1",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
+  "Trabalhista": 16,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -362,19 +362,30 @@
   ]
  },
  "agora": {
-  "fila": 337,
-  "abertos": 454,
+  "fila": 339,
+  "abertos": 456,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1666
+  "espera_media_s": 1658
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T14:33:15.489Z",
-  "min_sem_lead": 28
+  "ultimo_lead_at": "2026-07-06T19:22:37.181Z",
+  "min_sem_lead": 48714
  },
  "leads": [
+  {
+   "nome": "Sandro",
+   "tel": "5534*****579",
+   "criado": "12:03",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/23u6Sa6Iz3",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5519993818487",
    "tel": "5519*****487",
