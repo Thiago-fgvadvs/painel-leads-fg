@@ -1,28 +1,28 @@
 {
- "gerado_em": "09/08/2026, 18:22",
+ "gerado_em": "09/08/2026, 18:38",
  "data_ref": "09/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 32,
+  "total": 33,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 32,
+  "fora_horario": 33,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 319,
-  "tickets_abertos": 474,
+  "leads_7d": 320,
+  "tickets_abertos": 475,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 32,
+   "leads": 33,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 31,
+  "Anuncio": 32,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/Db0c3qfMTXm/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/9reIpIGlx",
    "leads": 1
   },
@@ -53,14 +57,10 @@
   {
    "url": "www.instagram.com/p/Db0bjh_M6vL/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbwRIUTsccb/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 25,
+  "Trabalhista": 26,
   "Nao identificada": 5,
   "Previdenciario": 2
  },
@@ -363,19 +363,30 @@
   ]
  },
  "agora": {
-  "fila": 357,
-  "abertos": 474,
+  "fila": 358,
+  "abertos": 475,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1585
+  "espera_media_s": 1582
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-29T20:55:53.015Z",
-  "min_sem_lead": 15867
+  "ultimo_lead_at": "2026-08-09T21:30:24.631Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "557181355823",
+   "tel": "5571*****823",
+   "criado": "18:30",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db0c3qfMTXm/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "556692110038",
    "tel": "5566*****038",
