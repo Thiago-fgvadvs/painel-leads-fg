@@ -1,29 +1,29 @@
 {
- "gerado_em": "09/08/2026, 19:08",
+ "gerado_em": "09/08/2026, 19:24",
  "data_ref": "09/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 34,
+  "total": 35,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 34,
+  "fora_horario": 35,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 321,
-  "tickets_abertos": 477,
+  "leads_7d": 322,
+  "tickets_abertos": 478,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 34,
+   "leads": 35,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 33,
-  "Direto/Indicacao": 1
+  "Anuncio": 35,
+  "Direto/Indicacao": 0
  },
  "criativos": [
   {
@@ -43,25 +43,25 @@
    "leads": 2
   },
   {
+   "url": "fb.me/73927V0PX",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/d0kmhcqkF",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/Db0c3qfMTXm/",
    "leads": 1
   },
   {
    "url": "fb.me/9reIpIGlx",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbyvbZgsVpo/",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Db0bjh_M6vL/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 27,
   "Nao identificada": 5,
+  "Trabalhista": 28,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -363,19 +363,41 @@
   ]
  },
  "agora": {
-  "fila": 360,
-  "abertos": 477,
+  "fila": 361,
+  "abertos": 478,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1578
+  "espera_media_s": 1574
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T22:04:49.050Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2026-08-09T22:17:54.059Z",
+  "min_sem_lead": 6
  },
  "leads": [
+  {
+   "nome": "Jose nilson",
+   "tel": "5596*****340",
+   "criado": "19:17",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/73927V0PX",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "558191023745",
+   "tel": "5581*****745",
+   "criado": "15:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 56.1,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/d0kmhcqkF",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511932520000",
    "tel": "5511*****000",
@@ -463,17 +485,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbwRIUTsccb/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "558191023745",
-   "tel": "5581*****745",
-   "criado": "15:23",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 56.1,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Celia Regina ❣️",
