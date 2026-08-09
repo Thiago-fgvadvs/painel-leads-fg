@@ -1,38 +1,38 @@
 {
- "gerado_em": "09/08/2026, 17:37",
+ "gerado_em": "09/08/2026, 17:52",
  "data_ref": "09/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
+  "total": 32,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 29,
+  "fora_horario": 32,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 316,
-  "tickets_abertos": 470,
+  "leads_7d": 319,
+  "tickets_abertos": 474,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 29,
+   "leads": 32,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 28,
+  "Anuncio": 31,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
-   "url": "fb.me/annW3H6uu",
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
    "leads": 5
   },
   {
-   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 4
+   "url": "fb.me/annW3H6uu",
+   "leads": 5
   },
   {
    "url": "fb.me/7fkW339pa",
@@ -43,25 +43,25 @@
    "leads": 2
   },
   {
+   "url": "fb.me/9reIpIGlx",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DbyvbZgsVpo/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/Db0bjh_M6vL/",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DbwRIUTsccb/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/23u6Sa6Iz3",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/bNvX4h9Vo",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 23,
-  "Nao identificada": 4,
+  "Trabalhista": 25,
+  "Nao identificada": 5,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -185,36 +185,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Pabllo Fellix",
-    "tel": "5585*****647",
-    "dia": "07/08",
-    "desde": "19:52",
-    "ts": 1786143131631
-   },
-   {
-    "nome": "Prof. Sandra Neves📚",
-    "tel": "5562*****429",
-    "dia": "07/08",
-    "desde": "20:04",
-    "ts": 1786143866620
-   },
-   {
-    "nome": "❤❤❤‍🔥",
-    "tel": "5533*****449",
-    "dia": "07/08",
-    "desde": "21:29",
-    "ts": 1786148968540
-   },
-   {
-    "nome": "❤️❤️  Cilene correia ❤️❤️",
-    "tel": "5547*****182",
-    "dia": "07/08",
-    "desde": "22:28",
-    "ts": 1786152501889
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "F.P.L",
@@ -392,19 +363,52 @@
   ]
  },
  "agora": {
-  "fila": 353,
-  "abertos": 470,
+  "fila": 357,
+  "abertos": 474,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1601
+  "espera_media_s": 1585
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T18:29:22.353Z",
-  "min_sem_lead": 128
+  "ultimo_lead_at": "2026-08-09T20:47:31.002Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "556692110038",
+   "tel": "5566*****038",
+   "criado": "17:47",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9reIpIGlx",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5521987148618",
+   "tel": "5521*****618",
+   "criado": "17:44",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511932105028",
+   "tel": "5511*****028",
+   "criado": "17:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyvbZgsVpo/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Lu",
    "tel": "5562*****300",
