@@ -1,28 +1,28 @@
 {
- "gerado_em": "09/08/2026, 13:48",
+ "gerado_em": "09/08/2026, 14:03",
  "data_ref": "09/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
+  "total": 21,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 20,
+  "fora_horario": 21,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 307,
-  "tickets_abertos": 459,
+  "leads_7d": 308,
+  "tickets_abertos": 460,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -32,7 +32,7 @@
   },
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/23u6Sa6Iz3",
@@ -61,8 +61,8 @@
  ],
  "areas": {
   "Previdenciario": 1,
-  "Nao identificada": 3,
-  "Trabalhista": 16
+  "Trabalhista": 17,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -363,17 +363,17 @@
   ]
  },
  "agora": {
-  "fila": 342,
-  "abertos": 459,
+  "fila": 343,
+  "abertos": 460,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1645
+  "espera_media_s": 1641
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-09T15:03:42.752Z",
-  "min_sem_lead": 104
+  "min_sem_lead": 120
  },
  "leads": [
   {
@@ -386,6 +386,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/23u6Sa6Iz3",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "556684429405",
+   "tel": "5566*****405",
+   "criado": "13:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
   },
   {
    "nome": "gabriela",
