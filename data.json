@@ -1,13 +1,13 @@
 {
- "gerado_em": "09/08/2026, 08:12",
+ "gerado_em": "09/08/2026, 08:27",
  "data_ref": "09/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 7,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 6,
+  "sem_resposta": 0,
+  "fora_horario": 7,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 294,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": null
   }
  ],
@@ -50,14 +50,7 @@
  "areas": {
   "Trabalhista": 7
  },
- "sem_resposta_lista": [
-  {
-   "nome": "maria lelia",
-   "tel": "5533*****355",
-   "criado": "08:12",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -178,15 +171,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "maria lelia",
-    "tel": "5533*****355",
-    "dia": "09/08",
-    "desde": "08:12",
-    "ts": 1786273942258
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "F.P.L",
@@ -370,20 +355,20 @@
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1718
+  "espera_media_s": 1714
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-09T11:12:22.258Z",
-  "min_sem_lead": 0
+  "min_sem_lead": 15
  },
  "leads": [
   {
    "nome": "maria lelia",
    "tel": "5533*****355",
    "criado": "08:12",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/9ikHrVLv1",
    "area": "Trabalhista"
