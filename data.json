@@ -1,28 +1,28 @@
 {
- "gerado_em": "09/08/2026, 10:29",
+ "gerado_em": "09/08/2026, 10:44",
  "data_ref": "09/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
+  "total": 13,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 11,
+  "fora_horario": 13,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 298,
-  "tickets_abertos": 448,
+  "leads_7d": 300,
+  "tickets_abertos": 450,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 11,
+   "leads": 13,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 11,
+  "Anuncio": 13,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -32,7 +32,7 @@
   },
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 1
+   "leads": 3
   },
   {
    "url": "fb.me/4SCYyD8xw",
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 11
+  "Trabalhista": 13
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -185,13 +185,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Pabllo Fellix",
-    "tel": "5585*****647",
-    "dia": "07/08",
-    "desde": "19:52",
-    "ts": 1786143131631
-   },
-   {
     "nome": "Prof. Sandra Neves📚",
     "tel": "5562*****429",
     "dia": "07/08",
@@ -204,6 +197,13 @@
     "dia": "07/08",
     "desde": "21:29",
     "ts": 1786148968540
+   },
+   {
+    "nome": "Erinaldo & Michelly❤️",
+    "tel": "5581*****950",
+    "dia": "07/08",
+    "desde": "22:27",
+    "ts": 1786152469533
    },
    {
     "nome": "❤️❤️  Cilene correia ❤️❤️",
@@ -390,19 +390,41 @@
   ]
  },
  "agora": {
-  "fila": 331,
-  "abertos": 448,
+  "fila": 333,
+  "abertos": 450,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1696
+  "espera_media_s": 1683
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-25T13:06:31.393Z",
-  "min_sem_lead": 21623
+  "ultimo_lead_at": "2026-08-09T13:41:18.639Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "559384344484",
+   "tel": "5593*****484",
+   "criado": "10:41",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "557791465244",
+   "tel": "5577*****244",
+   "criado": "10:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.8,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Kaká♍️",
    "tel": "5511*****836",
