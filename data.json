@@ -1,34 +1,34 @@
 {
- "gerado_em": "08/08/2026, 21:41",
+ "gerado_em": "08/08/2026, 21:56",
  "data_ref": "08/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
+  "total": 31,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 29,
+  "fora_horario": 31,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 341,
-  "tickets_abertos": 423,
+  "leads_7d": 343,
+  "tickets_abertos": 425,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 29,
+   "leads": 31,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 27,
+  "Anuncio": 29,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 7
+   "leads": 9
   },
   {
    "url": "fb.me/annW3H6uu",
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 23,
+  "Trabalhista": 25,
   "Nao identificada": 5,
   "Previdenciario": 1
  },
@@ -185,57 +185,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "😀🫰🏾",
-    "tel": "5548*****333",
-    "dia": "07/08",
-    "desde": "16:36",
-    "ts": 1786131369422
-   },
-   {
-    "nome": "Alessandra",
-    "tel": "5511*****446",
-    "dia": "07/08",
-    "desde": "17:07",
-    "ts": 1786133236155
-   },
-   {
-    "nome": "Rafaelle Carvalho",
-    "tel": "5522*****187",
-    "dia": "07/08",
-    "desde": "18:03",
-    "ts": 1786136583004
-   },
-   {
-    "nome": "Pabllo Fellix",
-    "tel": "5585*****647",
-    "dia": "07/08",
-    "desde": "19:52",
-    "ts": 1786143131631
-   },
-   {
-    "nome": "Prof. Sandra Neves📚",
-    "tel": "5562*****429",
-    "dia": "07/08",
-    "desde": "20:04",
-    "ts": 1786143866620
-   },
-   {
-    "nome": "❤❤❤‍🔥",
-    "tel": "5533*****449",
-    "dia": "07/08",
-    "desde": "21:29",
-    "ts": 1786148968540
-   },
-   {
-    "nome": "❤️❤️  Cilene correia ❤️❤️",
-    "tel": "5547*****182",
-    "dia": "07/08",
-    "desde": "22:28",
-    "ts": 1786152501889
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "F.P.L",
@@ -413,19 +363,52 @@
   ]
  },
  "agora": {
-  "fila": 306,
-  "abertos": 423,
+  "fila": 308,
+  "abertos": 425,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1799
+  "espera_media_s": 1789
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T00:24:40.346Z",
-  "min_sem_lead": 16
+  "ultimo_lead_at": "2026-08-09T00:49:38.848Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "553284252251",
+   "tel": "5532*****251",
+   "criado": "21:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Leidemere",
+   "tel": "5511*****797",
+   "criado": "20:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "555199608970",
+   "tel": "5551*****970",
+   "criado": "21:42",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5519998617733",
    "tel": "5519*****733",
@@ -452,17 +435,6 @@
    "nome": "Ana Maria",
    "tel": "5519*****631",
    "criado": "19:05",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/annW3H6uu",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Leidemere",
-   "tel": "5511*****797",
-   "criado": "20:00",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
