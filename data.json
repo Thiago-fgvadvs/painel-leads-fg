@@ -1,29 +1,29 @@
 {
- "gerado_em": "09/08/2026, 15:19",
+ "gerado_em": "09/08/2026, 15:35",
  "data_ref": "09/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
+  "total": 26,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 24,
+  "fora_horario": 25,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 311,
-  "tickets_abertos": 463,
+  "leads_7d": 313,
+  "tickets_abertos": 464,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 24,
+   "leads": 25,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 24,
-  "Direto/Indicacao": 0
+  "Anuncio": 25,
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -35,15 +35,15 @@
    "leads": 4
   },
   {
+   "url": "fb.me/7fkW339pa",
+   "leads": 2
+  },
+  {
    "url": "fb.me/fljy4QK1m",
    "leads": 2
   },
   {
    "url": "fb.me/23u6Sa6Iz3",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/7fkW339pa",
    "leads": 1
   },
   {
@@ -60,9 +60,9 @@
   }
  ],
  "areas": {
+  "Trabalhista": 20,
   "Previdenciario": 2,
-  "Trabalhista": 19,
-  "Nao identificada": 3
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -363,19 +363,30 @@
   ]
  },
  "agora": {
-  "fila": 346,
-  "abertos": 463,
+  "fila": 347,
+  "abertos": 464,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1629
+  "espera_media_s": 1625
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T15:03:42.752Z",
-  "min_sem_lead": 196
+  "ultimo_lead_at": "2026-08-09T18:29:22.353Z",
+  "min_sem_lead": 6
  },
  "leads": [
+  {
+   "nome": "Lu",
+   "tel": "5562*****300",
+   "criado": "15:29",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7fkW339pa",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Sandro",
    "tel": "5534*****579",
@@ -639,6 +650,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/a0An5DqFR",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "558191023745",
+   "tel": "5581*****745",
+   "criado": "15:23",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
