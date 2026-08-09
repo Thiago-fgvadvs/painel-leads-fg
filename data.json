@@ -1,28 +1,28 @@
 {
- "gerado_em": "09/08/2026, 14:34",
+ "gerado_em": "09/08/2026, 14:49",
  "data_ref": "09/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
+  "total": 23,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 22,
+  "fora_horario": 23,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 309,
-  "tickets_abertos": 461,
+  "leads_7d": 310,
+  "tickets_abertos": 462,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 22,
+   "leads": 23,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 23,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -39,6 +39,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/bNvX4h9Vo",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/Db0iPeqspwX/",
    "leads": 1
   },
@@ -53,15 +57,11 @@
   {
    "url": "www.instagram.com/p/Db0iPZ1MCcz/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbyoAdIsARN/",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 18,
   "Previdenciario": 2,
-  "Trabalhista": 17,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
@@ -363,19 +363,30 @@
   ]
  },
  "agora": {
-  "fila": 344,
-  "abertos": 461,
+  "fila": 345,
+  "abertos": 462,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1637
+  "espera_media_s": 1633
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T16:08:25.759Z",
-  "min_sem_lead": 85
+  "ultimo_lead_at": "2026-08-09T17:35:49.109Z",
+  "min_sem_lead": 13
  },
  "leads": [
+  {
+   "nome": "556196170087",
+   "tel": "5561*****087",
+   "criado": "14:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/bNvX4h9Vo",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511919727777",
    "tel": "5511*****777",
