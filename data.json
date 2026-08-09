@@ -1,5 +1,5 @@
 {
- "gerado_em": "09/08/2026, 16:05",
+ "gerado_em": "09/08/2026, 16:21",
  "data_ref": "09/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -7,17 +7,17 @@
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 26,
+  "fora_horario": 27,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 314,
-  "tickets_abertos": 465,
+  "tickets_abertos": 468,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 26,
+   "leads": 27,
    "mediana_min": null
   }
  ],
@@ -60,9 +60,9 @@
   }
  ],
  "areas": {
+  "Nao identificada": 4,
   "Trabalhista": 21,
-  "Previdenciario": 2,
-  "Nao identificada": 4
+  "Previdenciario": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -185,7 +185,71 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Libia😎🤨",
+    "tel": "5551*****877",
+    "dia": "07/08",
+    "desde": "13:04",
+    "ts": 1786118676670
+   },
+   {
+    "nome": "Zulene",
+    "tel": "5593*****623",
+    "dia": "07/08",
+    "desde": "14:07",
+    "ts": 1786122422273
+   },
+   {
+    "nome": "Libriana 🔥⚖️",
+    "tel": "5521*****939",
+    "dia": "07/08",
+    "desde": "15:24",
+    "ts": 1786127090452
+   },
+   {
+    "nome": "ADRIANO Oliveira",
+    "tel": "5511*****209",
+    "dia": "07/08",
+    "desde": "15:57",
+    "ts": 1786129043922
+   },
+   {
+    "nome": "😀🫰🏾",
+    "tel": "5548*****333",
+    "dia": "07/08",
+    "desde": "16:36",
+    "ts": 1786131369422
+   },
+   {
+    "nome": "Alessandra",
+    "tel": "5511*****446",
+    "dia": "07/08",
+    "desde": "17:07",
+    "ts": 1786133236155
+   },
+   {
+    "nome": "Rafaelle Carvalho",
+    "tel": "5522*****187",
+    "dia": "07/08",
+    "desde": "18:03",
+    "ts": 1786136583004
+   },
+   {
+    "nome": "Pabllo Fellix",
+    "tel": "5585*****647",
+    "dia": "07/08",
+    "desde": "19:52",
+    "ts": 1786143131631
+   },
+   {
+    "nome": "Prof. Sandra Neves📚",
+    "tel": "5562*****429",
+    "dia": "07/08",
+    "desde": "20:04",
+    "ts": 1786143866620
+   }
+  ],
   "grupos": [
    {
     "grupo": "F.P.L",
@@ -363,21 +427,32 @@
   ]
  },
  "agora": {
-  "fila": 348,
-  "abertos": 465,
+  "fila": 351,
+  "abertos": 468,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1621
+  "espera_media_s": 1609
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T18:45:35.930Z",
-  "min_sem_lead": 20
+  "ultimo_lead_at": "2026-08-09T01:47:27.910Z",
+  "min_sem_lead": 1053
  },
  "leads": [
   {
-   "nome": "5511920938403",
+   "nome": "558191023745",
+   "tel": "5581*****745",
+   "criado": "15:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 56.1,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Celia Regina ❣️",
    "tel": "5511*****403",
    "criado": "15:45",
    "atendente": "Fernanda Gehm - Administradora",
@@ -421,7 +496,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556196170087",
+   "nome": "marcio",
    "tel": "5561*****087",
    "criado": "14:35",
    "atendente": "Fernanda Gehm - Administradora",
@@ -432,7 +507,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511919727777",
+   "nome": "Sarasantos Santos",
    "tel": "5511*****777",
    "criado": "13:08",
    "atendente": "Fernanda Gehm - Administradora",
@@ -454,7 +529,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556684429405",
+   "nome": "Leidi",
    "tel": "5566*****405",
    "criado": "13:54",
    "atendente": "Fernanda Gehm - Administradora",
@@ -476,7 +551,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5519993818487",
+   "nome": "Mauro Francisco Da Costa",
    "tel": "5519*****487",
    "criado": "11:33",
    "atendente": "Fernanda Gehm - Administradora",
@@ -487,7 +562,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556492055208",
+   "nome": "Márcia Melo",
    "tel": "5564*****208",
    "criado": "11:53",
    "atendente": "Fernanda Gehm - Administradora",
@@ -520,7 +595,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "559384344484",
+   "nome": "Evinha👑",
    "tel": "5593*****484",
    "criado": "10:41",
    "atendente": "Fernanda Gehm - Administradora",
@@ -531,7 +606,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "557791465244",
+   "nome": "LeandraPinheiro",
    "tel": "5577*****244",
    "criado": "10:35",
    "atendente": "Fernanda Gehm - Administradora",
@@ -575,7 +650,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5516997005606",
+   "nome": "Sandra 🌻",
    "tel": "5516*****606",
    "criado": "08:31",
    "atendente": "Fernanda Gehm - Administradora",
@@ -597,7 +672,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "559887769453",
+   "nome": "Amor perfeito",
    "tel": "5598*****453",
    "criado": "07:05",
    "atendente": "Fernanda Gehm - Administradora",
@@ -630,7 +705,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5515997923743",
+   "nome": "Rosana Maria da Veiga",
    "tel": "5515*****743",
    "criado": "02:17",
    "atendente": "Fernanda Gehm - Administradora",
@@ -652,7 +727,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554298023228",
+   "nome": "brizzifabricio136",
    "tel": "5542*****228",
    "criado": "01:11",
    "atendente": "Fernanda Gehm - Administradora",
@@ -661,17 +736,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/a0An5DqFR",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "558191023745",
-   "tel": "5581*****745",
-   "criado": "15:23",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   }
  ]
 }
