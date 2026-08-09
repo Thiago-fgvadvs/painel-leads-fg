@@ -1,28 +1,28 @@
 {
- "gerado_em": "09/08/2026, 15:35",
+ "gerado_em": "09/08/2026, 15:50",
  "data_ref": "09/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
+  "total": 27,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 25,
+  "fora_horario": 26,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 313,
-  "tickets_abertos": 464,
+  "leads_7d": 314,
+  "tickets_abertos": 465,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 25,
+  "Anuncio": 26,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -36,7 +36,7 @@
   },
   {
    "url": "fb.me/7fkW339pa",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "fb.me/fljy4QK1m",
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 20,
+  "Trabalhista": 21,
   "Previdenciario": 2,
   "Nao identificada": 4
  },
@@ -363,19 +363,30 @@
   ]
  },
  "agora": {
-  "fila": 347,
-  "abertos": 464,
+  "fila": 348,
+  "abertos": 465,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1625
+  "espera_media_s": 1621
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T18:29:22.353Z",
-  "min_sem_lead": 6
+  "ultimo_lead_at": "2026-08-09T18:45:35.930Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "5511920938403",
+   "tel": "5511*****403",
+   "criado": "15:45",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7fkW339pa",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Lu",
    "tel": "5562*****300",
