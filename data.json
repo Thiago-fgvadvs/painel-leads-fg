@@ -1,28 +1,28 @@
 {
- "gerado_em": "09/08/2026, 11:15",
+ "gerado_em": "09/08/2026, 11:30",
  "data_ref": "09/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
+  "total": 14,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 13,
+  "fora_horario": 14,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 300,
-  "tickets_abertos": 450,
+  "leads_7d": 301,
+  "tickets_abertos": 451,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 13,
+   "leads": 14,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 14,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -33,6 +33,10 @@
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DbyoAdIsARN/",
+   "leads": 1
   },
   {
    "url": "fb.me/4SCYyD8xw",
@@ -53,13 +57,10 @@
   {
    "url": "www.instagram.com/p/Dbut5RKs2nP/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/a0An5DqFR",
-   "leads": 1
   }
  ],
  "areas": {
+  "Nao identificada": 1,
   "Trabalhista": 13
  },
  "sem_resposta_lista": [],
@@ -183,36 +184,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Prof. Sandra Neves📚",
-    "tel": "5562*****429",
-    "dia": "07/08",
-    "desde": "20:04",
-    "ts": 1786143866620
-   },
-   {
-    "nome": "❤❤❤‍🔥",
-    "tel": "5533*****449",
-    "dia": "07/08",
-    "desde": "21:29",
-    "ts": 1786148968540
-   },
-   {
-    "nome": "Erinaldo & Michelly❤️",
-    "tel": "5581*****950",
-    "dia": "07/08",
-    "desde": "22:27",
-    "ts": 1786152469533
-   },
-   {
-    "nome": "❤️❤️  Cilene correia ❤️❤️",
-    "tel": "5547*****182",
-    "dia": "07/08",
-    "desde": "22:28",
-    "ts": 1786152501889
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "F.P.L",
@@ -390,19 +362,30 @@
   ]
  },
  "agora": {
-  "fila": 333,
-  "abertos": 450,
+  "fila": 334,
+  "abertos": 451,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1683
+  "espera_media_s": 1679
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-08T23:00:14.255Z",
-  "min_sem_lead": 915
+  "ultimo_lead_at": "2026-07-25T13:06:31.393Z",
+  "min_sem_lead": 21684
  },
  "leads": [
+  {
+   "nome": "bibi 💘",
+   "tel": "5541*****191",
+   "criado": "11:21",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyoAdIsARN/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "559384344484",
    "tel": "5593*****484",
