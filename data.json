@@ -1,17 +1,17 @@
 {
- "gerado_em": "09/08/2026, 07:57",
+ "gerado_em": "09/08/2026, 08:12",
  "data_ref": "09/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
+  "total": 7,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 6,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 293,
-  "tickets_abertos": 440,
+  "leads_7d": 294,
+  "tickets_abertos": 441,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,13 +22,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "fb.me/annW3H6uu",
    "leads": 3
+  },
+  {
+   "url": "fb.me/9ikHrVLv1",
+   "leads": 1
   },
   {
    "url": "fb.me/9Pf9FTshS",
@@ -44,9 +48,16 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6
+  "Trabalhista": 7
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "maria lelia",
+   "tel": "5533*****355",
+   "criado": "08:12",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -167,7 +178,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "maria lelia",
+    "tel": "5533*****355",
+    "dia": "09/08",
+    "desde": "08:12",
+    "ts": 1786273942258
+   }
+  ],
   "grupos": [
    {
     "grupo": "F.P.L",
@@ -345,8 +364,8 @@
   ]
  },
  "agora": {
-  "fila": 323,
-  "abertos": 440,
+  "fila": 324,
+  "abertos": 441,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
@@ -354,10 +373,21 @@
   "espera_media_s": 1718
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 679417
+  "ultimo_lead_at": "2026-08-09T11:12:22.258Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "maria lelia",
+   "tel": "5533*****355",
+   "criado": "08:12",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9ikHrVLv1",
+   "area": "Trabalhista"
+  },
   {
    "nome": "559887769453",
    "tel": "5598*****453",
