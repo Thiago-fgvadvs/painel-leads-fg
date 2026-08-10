@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/08/2026, 13:35",
+ "gerado_em": "10/08/2026, 13:51",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -40,15 +40,15 @@
    "leads": 4
   },
   {
+   "url": "fb.me/9reIpIGlx",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DbyoAdIsARN/",
    "leads": 1
   },
   {
    "url": "fb.me/45T4MyTNF",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/9reIpIGlx",
    "leads": 1
   },
   {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 22
+  "Trabalhista": 22,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -74,9 +74,9 @@
   "dias": 7,
   "grupos_ativos": 219,
   "turnos": 521,
-  "respondidos": 509,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
+  "respondidos": 510,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 30.4,
   "atendentes": [
    {
@@ -96,8 +96,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 26,
-    "mediana_min": 9.1
+    "respostas": 27,
+    "mediana_min": 9.9
    },
    {
     "nome": "Thauany",
@@ -131,12 +131,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "10/08",
-    "desde": "13:28",
-    "ts": 1786379281150
-   },
    {
     "grupo": "C.M.D.S.A.B.D.E.P.A.D",
     "dia": "10/08",
@@ -274,12 +268,6 @@
     "dia": "10/08",
     "desde": "12:56",
     "ts": 1786377407081
-   },
-   {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "10/08",
-    "desde": "13:28",
-    "ts": 1786379281150
    }
   ]
  },
@@ -367,19 +355,30 @@
   ]
  },
  "agora": {
-  "fila": 392,
+  "fila": 390,
   "abertos": 526,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 4,
   "offline": 3,
-  "ausentes": 4,
+  "ausentes": 2,
   "espera_media_s": 1693
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T15:52:39.121Z",
-  "min_sem_lead": 15883
+  "ultimo_lead_at": "2026-08-09T01:26:26.385Z",
+  "min_sem_lead": 2365
  },
  "leads": [
+  {
+   "nome": "Adriana Pitman",
+   "tel": "5533*****029",
+   "criado": "12:30",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9reIpIGlx",
+   "area": "Trabalhista"
+  },
   {
    "nome": ".",
    "tel": "5547*****056",
@@ -433,17 +432,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/45T4MyTNF",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Adriana Pitman",
-   "tel": "5533*****029",
-   "criado": "12:30",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9reIpIGlx",
    "area": "Trabalhista"
   },
   {
