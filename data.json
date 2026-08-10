@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/08/2026, 14:06",
+ "gerado_em": "10/08/2026, 14:21",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 284,
-  "tickets_abertos": 528,
+  "tickets_abertos": 527,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -73,10 +73,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 220,
-  "turnos": 521,
+  "turnos": 522,
   "respondidos": 510,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
   "mediana_min": 30.4,
   "atendentes": [
    {
@@ -131,6 +131,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "10/08",
+    "desde": "14:17",
+    "ts": 1786382259073
+   },
    {
     "grupo": "C.M.D.S.A.B.D.E.P.A.D",
     "dia": "10/08",
@@ -268,6 +274,12 @@
     "dia": "10/08",
     "desde": "12:56",
     "ts": 1786377407081
+   },
+   {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "10/08",
+    "desde": "14:17",
+    "ts": 1786382259073
    }
   ]
  },
@@ -356,16 +368,16 @@
  },
  "agora": {
   "fila": 393,
-  "abertos": 528,
+  "abertos": 527,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 3,
+  "online": 2,
+  "offline": 4,
   "ausentes": 3,
-  "espera_media_s": 1689
+  "espera_media_s": 1693
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T17:01:47.488Z",
-  "min_sem_lead": 15844
+  "ultimo_lead_at": "2026-08-10T16:52:32.783Z",
+  "min_sem_lead": 29
  },
  "leads": [
   {
