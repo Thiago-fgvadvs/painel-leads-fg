@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/08/2026, 11:33",
+ "gerado_em": "10/08/2026, 11:48",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 276,
-  "tickets_abertos": 514,
+  "tickets_abertos": 515,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,16 +60,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 214,
-  "turnos": 502,
-  "respondidos": 494,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 30.4,
+  "grupos_ativos": 215,
+  "turnos": 508,
+  "respondidos": 497,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 30.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 177,
+    "respostas": 179,
     "mediana_min": 40.1
    },
    {
@@ -94,8 +94,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 21,
-    "mediana_min": 15
+    "respostas": 22,
+    "mediana_min": 12.5
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -119,6 +119,24 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
+    "dia": "10/08",
+    "desde": "11:47",
+    "ts": 1786373265080
+   },
+   {
+    "grupo": "P.D.C.L x WMB SUPERMERCADOS DO BRASIL LTDA",
+    "dia": "10/08",
+    "desde": "11:42",
+    "ts": 1786372965077
+   },
+   {
+    "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "dia": "10/08",
+    "desde": "11:32",
+    "ts": 1786372331044
+   },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
     "dia": "10/08",
@@ -220,6 +238,24 @@
     "dia": "10/08",
     "desde": "10:17",
     "ts": 1786367829994
+   },
+   {
+    "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "dia": "10/08",
+    "desde": "11:32",
+    "ts": 1786372331044
+   },
+   {
+    "grupo": "P.D.C.L x WMB SUPERMERCADOS DO BRASIL LTDA",
+    "dia": "10/08",
+    "desde": "11:42",
+    "ts": 1786372965077
+   },
+   {
+    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
+    "dia": "10/08",
+    "desde": "11:47",
+    "ts": 1786373265080
    }
   ]
  },
@@ -307,19 +343,30 @@
   ]
  },
  "agora": {
-  "fila": 385,
-  "abertos": 514,
+  "fila": 384,
+  "abertos": 515,
   "com_atendimento": 5,
   "online": 6,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 1727
+  "espera_media_s": 1731
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-06T19:49:41.443Z",
-  "min_sem_lead": 5444
+  "ultimo_lead_at": "2026-08-07T22:23:03.243Z",
+  "min_sem_lead": 3866
  },
  "leads": [
+  {
+   "nome": "Cinthya Santos",
+   "tel": "5588*****708",
+   "criado": "11:09",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Yamileth❣️",
    "tel": "5595*****810",
@@ -335,17 +382,6 @@
    "nome": "558194251945",
    "tel": "5581*****945",
    "criado": "11:00",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Cinthya Santos",
-   "tel": "5588*****708",
-   "criado": "11:09",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
