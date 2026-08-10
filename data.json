@@ -1,17 +1,17 @@
 {
- "gerado_em": "10/08/2026, 16:23",
+ "gerado_em": "10/08/2026, 16:38",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 36,
   "no_sla": 29,
-  "fora_sla": 0,
-  "sem_resposta": 1,
+  "fora_sla": 1,
+  "sem_resposta": 0,
   "fora_horario": 6,
-  "pct_sla": 100,
+  "pct_sla": 97,
   "mediana_geral": 0.4,
   "leads_7d": 293,
-  "tickets_abertos": 533,
+  "tickets_abertos": 529,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,8 +22,8 @@
   },
   {
    "nome": "Nicolas",
-   "leads": 1,
-   "mediana_min": 1.9
+   "leads": 2,
+   "mediana_min": 18.5
   },
   {
    "nome": "Eduardo",
@@ -73,28 +73,29 @@
   "Trabalhista": 28,
   "Nao identificada": 8
  },
- "sem_resposta_lista": [
+ "sem_resposta_lista": [],
+ "fora_sla_lista": [
   {
    "nome": "Advogada Ana Paula Horiguchi",
    "tel": "5541*****065",
    "criado": "15:56",
-   "area": "Nao identificada"
+   "espera_min": 35,
+   "atendente": "Nicolas"
   }
  ],
- "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 225,
-  "turnos": 541,
-  "respondidos": 528,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
+  "turnos": 545,
+  "respondidos": 534,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 30.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 197,
-    "mediana_min": 39
+    "respostas": 201,
+    "mediana_min": 40.1
    },
    {
     "nome": "Nicolas",
@@ -108,7 +109,7 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 29,
+    "respostas": 31,
     "mediana_min": 9.9
    },
    {
@@ -146,26 +147,8 @@
    {
     "grupo": "C.L.M.D.O x HABIBS",
     "dia": "10/08",
-    "desde": "16:03",
-    "ts": 1786388580196
-   },
-   {
-    "grupo": "A.C.B.M x HOSPITAL ALEMÃO OSWALDO CRUZ",
-    "dia": "10/08",
-    "desde": "15:37",
-    "ts": 1786387077130
-   },
-   {
-    "grupo": "C.M.D.S.A.B.D.E.P.A.D",
-    "dia": "10/08",
-    "desde": "12:28",
-    "ts": 1786375711004
-   },
-   {
-    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
-    "dia": "10/08",
-    "desde": "09:15",
-    "ts": 1786364108950
+    "desde": "16:34",
+    "ts": 1786390475220
    },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
@@ -178,6 +161,12 @@
     "dia": "10/08",
     "desde": "12:56",
     "ts": 1786377407081
+   },
+   {
+    "grupo": "D.D.S.D.M x ORBENK ADMINISTRACAO E SERVICOS LTDA",
+    "dia": "10/08",
+    "desde": "10:32",
+    "ts": 1786368758003
    },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
@@ -232,20 +221,6 @@
     "dia": "10/08",
     "desde": "00:05",
     "ts": 1786331101799
-   },
-   {
-    "nome": "Achiles Fava",
-    "tel": "5512*****099",
-    "dia": "10/08",
-    "desde": "14:23",
-    "ts": 1786382614169
-   },
-   {
-    "nome": "Cristhian Bellck",
-    "tel": "5579*****642",
-    "dia": "10/08",
-    "desde": "14:50",
-    "ts": 1786384226719
    },
    {
     "nome": "Vanessa",
@@ -321,22 +296,16 @@
     "ts": 1786139481338
    },
    {
-    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
-    "dia": "10/08",
-    "desde": "09:15",
-    "ts": 1786364108950
-   },
-   {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
     "dia": "10/08",
     "desde": "10:17",
     "ts": 1786367829994
    },
    {
-    "grupo": "C.M.D.S.A.B.D.E.P.A.D",
+    "grupo": "D.D.S.D.M x ORBENK ADMINISTRACAO E SERVICOS LTDA",
     "dia": "10/08",
-    "desde": "12:28",
-    "ts": 1786375711004
+    "desde": "10:32",
+    "ts": 1786368758003
    },
    {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
@@ -351,16 +320,10 @@
     "ts": 1786384959153
    },
    {
-    "grupo": "A.C.B.M x HOSPITAL ALEMÃO OSWALDO CRUZ",
-    "dia": "10/08",
-    "desde": "15:37",
-    "ts": 1786387077130
-   },
-   {
     "grupo": "C.L.M.D.O x HABIBS",
     "dia": "10/08",
-    "desde": "16:03",
-    "ts": 1786388580196
+    "desde": "16:34",
+    "ts": 1786390475220
    }
   ]
  },
@@ -448,17 +411,17 @@
   ]
  },
  "agora": {
-  "fila": 397,
-  "abertos": 533,
-  "com_atendimento": 7,
+  "fila": 393,
+  "abertos": 529,
+  "com_atendimento": 6,
   "online": 5,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 1674
+  "espera_media_s": 1685
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T19:10:34.529Z",
-  "min_sem_lead": 13
+  "ultimo_lead_at": "2026-08-09T01:26:26.385Z",
+  "min_sem_lead": 2532
  },
  "leads": [
   {
@@ -470,6 +433,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/6hYkdh3KX",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Advogada Ana Paula Horiguchi",
+   "tel": "5541*****065",
+   "criado": "15:56",
+   "atendente": "Nicolas",
+   "espera_min": 35,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Frank Cavalcante",
+   "tel": "5597*****151",
+   "criado": "16:09",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/ey4Q1TKSH",
    "area": "Trabalhista"
   },
   {
@@ -493,17 +478,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Frank Cavalcante",
-   "tel": "5597*****151",
-   "criado": "16:09",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/ey4Q1TKSH",
-   "area": "Trabalhista"
   },
   {
    "nome": "Achiles Fava",
@@ -845,17 +819,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db1TYMhs6yc/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Advogada Ana Paula Horiguchi",
-   "tel": "5541*****065",
-   "criado": "15:56",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   }
  ]
 }
