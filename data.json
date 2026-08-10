@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 20:27",
+ "gerado_em": "10/08/2026, 20:43",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 50,
+  "total": 51,
   "no_sla": 36,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 12,
+  "fora_horario": 13,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 307,
-  "tickets_abertos": 493,
+  "leads_7d": 308,
+  "tickets_abertos": 495,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 45,
+   "leads": 46,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 41,
+  "Anuncio": 42,
   "Direto/Indicacao": 9
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 14
+   "leads": 15
   },
   {
    "url": "fb.me/annW3H6uu",
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 39,
+  "Trabalhista": 40,
   "Nao identificada": 11
  },
  "sem_resposta_lista": [],
@@ -85,7 +85,7 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 226,
+  "grupos_ativos": 227,
   "turnos": 562,
   "respondidos": 552,
   "sem_resposta": 10,
@@ -208,15 +208,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "JORGE INDICACAO",
-    "tel": "5511*****148",
-    "dia": "10/08",
-    "desde": "17:03",
-    "ts": 1786392219777
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "F.P.L",
@@ -373,17 +365,17 @@
   ]
  },
  "agora": {
-  "fila": 348,
-  "abertos": 493,
+  "fila": 350,
+  "abertos": 495,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1847
+  "espera_media_s": 1838
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-10T23:27:06.654Z",
-  "min_sem_lead": 1
+  "min_sem_lead": 16
  },
  "leads": [
   {
@@ -395,6 +387,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db0bjh_M6vL/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558192158780",
+   "tel": "5581*****780",
+   "criado": "20:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
   },
   {
