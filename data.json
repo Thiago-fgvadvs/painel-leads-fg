@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 12:04",
+ "gerado_em": "10/08/2026, 12:19",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 13,
+  "total": 21,
+  "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 276,
-  "tickets_abertos": 516,
+  "leads_7d": 278,
+  "tickets_abertos": 519,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 17,
+   "leads": 19,
    "mediana_min": 0.4
   },
   {
@@ -27,24 +27,24 @@
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 16,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 8
+   "leads": 9
   },
   {
    "url": "fb.me/annW3H6uu",
-   "leads": 3
-  },
-  {
-   "url": "fb.me/41inlpyts",
-   "leads": 1
+   "leads": 4
   },
   {
    "url": "fb.me/ey4Q1TKSH",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/41inlpyts",
    "leads": 1
   },
   {
@@ -54,15 +54,15 @@
  ],
  "areas": {
   "Nao identificada": 3,
-  "Trabalhista": 16
+  "Trabalhista": 18
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 215,
-  "turnos": 509,
-  "respondidos": 498,
+  "grupos_ativos": 217,
+  "turnos": 510,
+  "respondidos": 499,
   "sem_resposta": 11,
   "sem_resposta_grupos": 11,
   "mediana_min": 30.3,
@@ -93,14 +93,14 @@
     "mediana_min": 5.4
    },
    {
+    "nome": "Fernanda Gehm - Administradora",
+    "respostas": 22,
+    "mediana_min": 1071.7
+   },
+   {
     "nome": "Eduardo",
     "respostas": 22,
     "mediana_min": 12.5
-   },
-   {
-    "nome": "Fernanda Gehm - Administradora",
-    "respostas": 21,
-    "mediana_min": 1031.7
    },
    {
     "nome": "Roseli",
@@ -343,17 +343,17 @@
   ]
  },
  "agora": {
-  "fila": 384,
-  "abertos": 516,
+  "fila": 387,
+  "abertos": 519,
   "com_atendimento": 5,
   "online": 1,
-  "offline": 3,
-  "ausentes": 5,
-  "espera_media_s": 1727
+  "offline": 4,
+  "ausentes": 4,
+  "espera_media_s": 1715
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-08T23:00:14.255Z",
-  "min_sem_lead": 2404
+  "ultimo_lead_at": "2026-08-10T11:58:29.310Z",
+  "min_sem_lead": 201
  },
  "leads": [
   {
@@ -366,6 +366,39 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Juuh",
+   "tel": "5511*****840",
+   "criado": "12:15",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "559180448879",
+   "tel": "5591*****879",
+   "criado": "07:19",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/ey4Q1TKSH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5512991992422",
+   "tel": "5512*****422",
+   "criado": "12:04",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
   },
   {
    "nome": "Yamileth❣️",
@@ -508,17 +541,6 @@
    "status": "FORA_HORARIO",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "559180448879",
-   "tel": "5591*****879",
-   "criado": "07:19",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/ey4Q1TKSH",
    "area": "Trabalhista"
   },
   {
