@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 10:48",
+ "gerado_em": "10/08/2026, 11:03",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
-  "no_sla": 9,
+  "total": 17,
+  "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 272,
-  "tickets_abertos": 511,
+  "leads_7d": 274,
+  "tickets_abertos": 513,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 13,
+   "leads": 15,
    "mediana_min": 0.4
   },
   {
@@ -27,17 +27,21 @@
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 12,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 6
+   "leads": 7
   },
   {
    "url": "fb.me/annW3H6uu",
    "leads": 2
+  },
+  {
+   "url": "fb.me/41inlpyts",
+   "leads": 1
   },
   {
    "url": "fb.me/ey4Q1TKSH",
@@ -49,24 +53,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 12
+  "Trabalhista": 14,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 211,
-  "turnos": 495,
-  "respondidos": 485,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "grupos_ativos": 212,
+  "turnos": 498,
+  "respondidos": 489,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 30.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 172,
-    "mediana_min": 37.1
+    "respostas": 175,
+    "mediana_min": 38.8
    },
    {
     "nome": "Nicolas",
@@ -95,8 +99,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 18,
-    "mediana_min": 20.4
+    "respostas": 19,
+    "mediana_min": 18.9
    },
    {
     "nome": "Roseli",
@@ -115,12 +119,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "R.L.M.D.O x LÍLIA RAMOS MARQUES",
-    "dia": "10/08",
-    "desde": "10:46",
-    "ts": 1786369601941
-   },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
     "dia": "10/08",
@@ -234,12 +232,6 @@
     "dia": "10/08",
     "desde": "10:17",
     "ts": 1786367829994
-   },
-   {
-    "grupo": "R.L.M.D.O x LÍLIA RAMOS MARQUES",
-    "dia": "10/08",
-    "desde": "10:46",
-    "ts": 1786369601941
    }
   ]
  },
@@ -327,19 +319,41 @@
   ]
  },
  "agora": {
-  "fila": 382,
-  "abertos": 511,
+  "fila": 384,
+  "abertos": 513,
   "com_atendimento": 5,
-  "online": 4,
+  "online": 5,
   "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 2679
+  "ausentes": 2,
+  "espera_media_s": 2667
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T11:58:29.310Z",
-  "min_sem_lead": 109
+  "ultimo_lead_at": "2026-07-31T15:37:56.989Z",
+  "min_sem_lead": 14305
  },
  "leads": [
+  {
+   "nome": "Edna",
+   "tel": "5565*****638",
+   "criado": "10:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/41inlpyts",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558194251945",
+   "tel": "5581*****945",
+   "criado": "11:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": ".",
    "tel": "5547*****056",
