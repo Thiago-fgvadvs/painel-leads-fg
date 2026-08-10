@@ -1,29 +1,29 @@
 {
- "gerado_em": "10/08/2026, 08:58",
+ "gerado_em": "10/08/2026, 09:16",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 4,
+  "total": 11,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 267,
-  "tickets_abertos": 503,
+  "leads_7d": 268,
+  "tickets_abertos": 506,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 7,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -45,18 +45,18 @@
  ],
  "areas": {
   "Trabalhista": 9,
-  "Nao identificada": 1
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 199,
-  "turnos": 460,
-  "respondidos": 452,
+  "grupos_ativos": 209,
+  "turnos": 470,
+  "respondidos": 462,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
-  "mediana_min": 28.9,
+  "mediana_min": 29.7,
   "atendentes": [
    {
     "nome": "Julia",
@@ -65,8 +65,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 136,
-    "mediana_min": 61.2
+    "respostas": 138,
+    "mediana_min": 66.2
    },
    {
     "nome": "Gabrielle",
@@ -84,19 +84,19 @@
     "mediana_min": 5.4
    },
    {
+    "nome": "Fernanda Gehm - Administradora",
+    "respostas": 21,
+    "mediana_min": 1031.7
+   },
+   {
     "nome": "Roseli",
     "respostas": 16,
     "mediana_min": 5.4
    },
    {
-    "nome": "Fernanda Gehm - Administradora",
-    "respostas": 14,
-    "mediana_min": 258.9
-   },
-   {
     "nome": "Eduardo",
-    "respostas": 14,
-    "mediana_min": 20.4
+    "respostas": 15,
+    "mediana_min": 21.8
    },
    {
     "nome": "—",
@@ -110,12 +110,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
-    "dia": "07/08",
-    "desde": "10:55",
-    "ts": 1786110902099
-   },
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
     "dia": "07/08",
@@ -153,6 +147,12 @@
     "ts": 1786053736397
    },
    {
+    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
+    "dia": "06/08",
+    "desde": "17:03",
+    "ts": 1786046620197
+   },
+   {
     "grupo": "F.P.L",
     "dia": "04/08",
     "desde": "17:21",
@@ -171,6 +171,12 @@
     "ts": 1785874896096
    },
    {
+    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
+    "dia": "06/08",
+    "desde": "17:03",
+    "ts": 1786046620197
+   },
+   {
     "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
     "dia": "06/08",
     "desde": "19:02",
@@ -181,12 +187,6 @@
     "dia": "07/08",
     "desde": "10:42",
     "ts": 1786110175095
-   },
-   {
-    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
-    "dia": "07/08",
-    "desde": "10:55",
-    "ts": 1786110902099
    },
    {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
@@ -289,23 +289,23 @@
   ]
  },
  "agora": {
-  "fila": 387,
-  "abertos": 503,
+  "fila": 389,
+  "abertos": 506,
   "com_atendimento": 5,
-  "online": 2,
-  "offline": 7,
+  "online": 3,
+  "offline": 6,
   "ausentes": 0,
-  "espera_media_s": 1334
+  "espera_media_s": 1331
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-21T17:13:02.618Z",
-  "min_sem_lead": 116325
+  "ultimo_lead_at": "2026-08-10T11:58:29.310Z",
+  "min_sem_lead": 18
  },
  "leads": [
   {
-   "nome": "Francisco cleilson pessoa",
-   "tel": "5588*****899",
-   "criado": "08:22",
+   "nome": "Jessica Lima ",
+   "tel": "5581*****177",
+   "criado": "08:14",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
@@ -314,9 +314,20 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Jessica Lima ",
-   "tel": "5581*****177",
-   "criado": "08:14",
+   "nome": ".",
+   "tel": "5547*****056",
+   "criado": "08:58",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Francisco cleilson pessoa",
+   "tel": "5588*****899",
+   "criado": "08:22",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
