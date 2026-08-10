@@ -1,31 +1,35 @@
 {
- "gerado_em": "10/08/2026, 07:11",
+ "gerado_em": "10/08/2026, 07:27",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
+  "total": 6,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 3,
+  "fora_horario": 5,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 261,
-  "tickets_abertos": 495,
+  "leads_7d": 263,
+  "tickets_abertos": 497,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 3,
+   "leads": 5,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 2,
-  "Direto/Indicacao": 2
+  "Anuncio": 3,
+  "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "fb.me/ey4Q1TKSH",
+   "leads": 1
+  },
   {
    "url": "fb.me/annW3H6uu",
    "leads": 1
@@ -36,7 +40,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3,
+  "Trabalhista": 5,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
@@ -293,19 +297,41 @@
   ]
  },
  "agora": {
-  "fila": 378,
-  "abertos": 495,
+  "fila": 380,
+  "abertos": 497,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1512
+  "espera_media_s": 1505
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T09:18:57.800Z",
-  "min_sem_lead": 53
+  "ultimo_lead_at": "2026-08-10T10:21:59.740Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "Erika",
+   "tel": "5541*****924",
+   "criado": "07:21",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "559180448879",
+   "tel": "5591*****879",
+   "criado": "07:19",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/ey4Q1TKSH",
+   "area": "Trabalhista"
+  },
   {
    "nome": "554396016470",
    "tel": "5543*****470",
