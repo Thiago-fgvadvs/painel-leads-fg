@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 16:08",
+ "gerado_em": "10/08/2026, 16:23",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 32,
-  "no_sla": 26,
+  "total": 36,
+  "no_sla": 29,
   "fora_sla": 0,
-  "sem_resposta": 0,
-  "fora_horario": 5,
+  "sem_resposta": 1,
+  "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 289,
-  "tickets_abertos": 530,
+  "leads_7d": 293,
+  "tickets_abertos": 533,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 29,
+   "leads": 33,
    "mediana_min": 0.4
   },
   {
@@ -32,17 +32,25 @@
   }
  ],
  "origem": {
-  "Anuncio": 26,
-  "Direto/Indicacao": 6
+  "Anuncio": 29,
+  "Direto/Indicacao": 7
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 13
+   "leads": 14
   },
   {
    "url": "fb.me/annW3H6uu",
    "leads": 4
+  },
+  {
+   "url": "fb.me/ey4Q1TKSH",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/6hYkdh3KX",
+   "leads": 1
   },
   {
    "url": "fb.me/icKjE81qR",
@@ -59,35 +67,34 @@
   {
    "url": "www.instagram.com/p/DbwRIUTsccb/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbyoAdIsARN/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/45T4MyTNF",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 25,
-  "Nao identificada": 7
+  "Trabalhista": 28,
+  "Nao identificada": 8
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Advogada Ana Paula Horiguchi",
+   "tel": "5541*****065",
+   "criado": "15:56",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 225,
   "turnos": 541,
-  "respondidos": 527,
-  "sem_resposta": 14,
-  "sem_resposta_grupos": 14,
-  "mediana_min": 30,
+  "respondidos": 528,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
+  "mediana_min": 30.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 196,
-    "mediana_min": 38.9
+    "respostas": 197,
+    "mediana_min": 39
    },
    {
     "nome": "Nicolas",
@@ -167,12 +174,6 @@
     "ts": 1786384959153
    },
    {
-    "grupo": "D.D.J.S x LEVEL 1 SERVICOS DE ENGENHARIA LTDA",
-    "dia": "10/08",
-    "desde": "13:52",
-    "ts": 1786380735111
-   },
-   {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "10/08",
     "desde": "12:56",
@@ -226,18 +227,11 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "ㅤㅤ",
-    "tel": "5585*****747",
+    "nome": "5519983297353",
+    "tel": "5519*****353",
     "dia": "10/08",
-    "desde": "13:26",
-    "ts": 1786379195601
-   },
-   {
-    "nome": "Flavia",
-    "tel": "5528*****173",
-    "dia": "10/08",
-    "desde": "13:52",
-    "ts": 1786380752783
+    "desde": "00:05",
+    "ts": 1786331101799
    },
    {
     "nome": "Achiles Fava",
@@ -259,6 +253,34 @@
     "dia": "10/08",
     "desde": "15:37",
     "ts": 1786387070205
+   },
+   {
+    "nome": "Advogada Ana Paula Horiguchi",
+    "tel": "5541*****065",
+    "dia": "10/08",
+    "desde": "15:56",
+    "ts": 1786388166599
+   },
+   {
+    "nome": "Frank Cavalcante",
+    "tel": "5597*****151",
+    "dia": "10/08",
+    "desde": "16:09",
+    "ts": 1786388970991
+   },
+   {
+    "nome": "Jorge",
+    "tel": "5511*****651",
+    "dia": "10/08",
+    "desde": "16:10",
+    "ts": 1786389034529
+   },
+   {
+    "nome": "557981007568",
+    "tel": "5579*****568",
+    "dia": "10/08",
+    "desde": "16:21",
+    "ts": 1786389670971
    }
   ],
   "grupos": [
@@ -321,12 +343,6 @@
     "dia": "10/08",
     "desde": "12:56",
     "ts": 1786377407081
-   },
-   {
-    "grupo": "D.D.J.S x LEVEL 1 SERVICOS DE ENGENHARIA LTDA",
-    "dia": "10/08",
-    "desde": "13:52",
-    "ts": 1786380735111
    },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
@@ -432,19 +448,63 @@
   ]
  },
  "agora": {
-  "fila": 394,
-  "abertos": 530,
+  "fila": 397,
+  "abertos": 533,
   "com_atendimento": 7,
-  "online": 2,
+  "online": 5,
   "offline": 3,
-  "ausentes": 4,
-  "espera_media_s": 1689
+  "ausentes": 1,
+  "espera_media_s": 1674
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 681348
+  "ultimo_lead_at": "2026-08-10T19:10:34.529Z",
+  "min_sem_lead": 13
  },
  "leads": [
+  {
+   "nome": "Jorge",
+   "tel": "5511*****651",
+   "criado": "16:10",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6hYkdh3KX",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "557981007568",
+   "tel": "5579*****568",
+   "criado": "16:21",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5519983297353",
+   "tel": "5519*****353",
+   "criado": "00:05",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 975.5,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Frank Cavalcante",
+   "tel": "5597*****151",
+   "criado": "16:09",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/ey4Q1TKSH",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Achiles Fava",
    "tel": "5512*****099",
@@ -457,7 +517,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Advogada Andreia Rodrigues Morgado",
+   "nome": "Andreia Morgado",
    "tel": "5511*****607",
    "criado": "15:45",
    "atendente": "Nicolas",
@@ -655,7 +715,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "555180474061",
+   "nome": "Larissa boeck",
    "tel": "5551*****061",
    "criado": "10:39",
    "atendente": "Fernanda Gehm - Administradora",
@@ -754,7 +814,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554396016470",
+   "nome": "Ademir Torelli",
    "tel": "5543*****470",
    "criado": "06:18",
    "atendente": "Fernanda Gehm - Administradora",
@@ -776,7 +836,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511952066458",
+   "nome": "Marcelo Lucio",
    "tel": "5511*****458",
    "criado": "06:40",
    "atendente": "Fernanda Gehm - Administradora",
@@ -787,12 +847,12 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5519983297353",
-   "tel": "5519*****353",
-   "criado": "00:05",
+   "nome": "Advogada Ana Paula Horiguchi",
+   "tel": "5541*****065",
+   "criado": "15:56",
    "atendente": "—",
    "espera_min": null,
-   "status": "RESOLVIDO",
+   "status": "SEM_RESPOSTA",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
