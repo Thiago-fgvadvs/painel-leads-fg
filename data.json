@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 12:50",
+ "gerado_em": "10/08/2026, 13:05",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
-  "no_sla": 16,
+  "total": 23,
+  "no_sla": 17,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 279,
-  "tickets_abertos": 517,
+  "leads_7d": 280,
+  "tickets_abertos": 518,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 9
+   "leads": 10
   },
   {
    "url": "fb.me/annW3H6uu",
@@ -57,19 +57,19 @@
   }
  ],
  "areas": {
-  "Trabalhista": 19,
+  "Trabalhista": 20,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 217,
-  "turnos": 511,
-  "respondidos": 502,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 30.9,
+  "grupos_ativos": 218,
+  "turnos": 513,
+  "respondidos": 505,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 30.4,
   "atendentes": [
    {
     "nome": "Julia",
@@ -92,6 +92,11 @@
     "mediana_min": 0.7
    },
    {
+    "nome": "Eduardo",
+    "respostas": 25,
+    "mediana_min": 9.9
+   },
+   {
     "nome": "Luisa",
     "respostas": 24,
     "mediana_min": 5.4
@@ -100,11 +105,6 @@
     "nome": "Fernanda Gehm - Administradora",
     "respostas": 22,
     "mediana_min": 1071.7
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 22,
-    "mediana_min": 12.5
    },
    {
     "nome": "Roseli",
@@ -124,16 +124,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "10/08",
-    "desde": "12:47",
-    "ts": 1786376836014
-   },
-   {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "10/08",
-    "desde": "11:47",
-    "ts": 1786373265080
+    "desde": "12:56",
+    "ts": 1786377407081
    },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
@@ -228,14 +222,8 @@
    {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "10/08",
-    "desde": "11:47",
-    "ts": 1786373265080
-   },
-   {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "10/08",
-    "desde": "12:47",
-    "ts": 1786376836014
+    "desde": "12:56",
+    "ts": 1786377407081
    }
   ]
  },
@@ -323,19 +311,30 @@
   ]
  },
  "agora": {
-  "fila": 387,
-  "abertos": 517,
-  "com_atendimento": 5,
+  "fila": 389,
+  "abertos": 518,
+  "com_atendimento": 4,
   "online": 4,
   "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 1715
+  "espera_media_s": 1704
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
-  "min_sem_lead": 10249
+  "ultimo_lead_at": "2026-08-10T16:01:37.863Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "Diego",
+   "tel": "5584*****500",
+   "criado": "13:01",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Adriana Pitman",
    "tel": "5533*****029",
