@@ -1,24 +1,29 @@
 {
- "gerado_em": "10/08/2026, 15:37",
+ "gerado_em": "10/08/2026, 15:53",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
-  "no_sla": 23,
+  "total": 32,
+  "no_sla": 26,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 286,
-  "tickets_abertos": 528,
+  "leads_7d": 289,
+  "tickets_abertos": 531,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 27,
+   "leads": 29,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Nicolas",
+   "leads": 1,
+   "mediana_min": 1.9
   },
   {
    "nome": "Eduardo",
@@ -27,8 +32,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 24,
-  "Direto/Indicacao": 5
+  "Anuncio": 26,
+  "Direto/Indicacao": 6
  },
  "criativos": [
   {
@@ -38,6 +43,14 @@
   {
    "url": "fb.me/annW3H6uu",
    "leads": 4
+  },
+  {
+   "url": "fb.me/icKjE81qR",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/Db1RMyXsdNI/",
+   "leads": 1
   },
   {
    "url": "fb.me/9reIpIGlx",
@@ -54,34 +67,26 @@
   {
    "url": "fb.me/45T4MyTNF",
    "leads": 1
-  },
-  {
-   "url": "fb.me/ey4Q1TKSH",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/41inlpyts",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 25,
-  "Nao identificada": 4
+  "Nao identificada": 7,
+  "Trabalhista": 25
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 223,
-  "turnos": 534,
-  "respondidos": 522,
+  "grupos_ativos": 224,
+  "turnos": 537,
+  "respondidos": 525,
   "sem_resposta": 12,
   "sem_resposta_grupos": 12,
   "mediana_min": 30.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 192,
+    "respostas": 194,
     "mediana_min": 39.6
    },
    {
@@ -96,8 +101,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 28,
-    "mediana_min": 11.8
+    "respostas": 29,
+    "mediana_min": 9.9
    },
    {
     "nome": "Thauany",
@@ -138,6 +143,12 @@
     "ts": 1786375711004
    },
    {
+    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
+    "dia": "10/08",
+    "desde": "09:15",
+    "ts": 1786364108950
+   },
+   {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
     "dia": "10/08",
     "desde": "15:02",
@@ -148,12 +159,6 @@
     "dia": "10/08",
     "desde": "13:52",
     "ts": 1786380735111
-   },
-   {
-    "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
-    "dia": "10/08",
-    "desde": "13:24",
-    "ts": 1786379086099
    },
    {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
@@ -207,7 +212,29 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Vanessa",
+    "tel": "5582*****225",
+    "dia": "10/08",
+    "desde": "15:37",
+    "ts": 1786387070205
+   },
+   {
+    "nome": "Advogada Andreia Rodrigues Morgado",
+    "tel": "5511*****607",
+    "dia": "10/08",
+    "desde": "15:45",
+    "ts": 1786387518594
+   },
+   {
+    "nome": "R0DRIGO",
+    "tel": "5511*****845",
+    "dia": "10/08",
+    "desde": "15:47",
+    "ts": 1786387622802
+   }
+  ],
   "grupos": [
    {
     "grupo": "F.P.L",
@@ -246,6 +273,12 @@
     "ts": 1786139481338
    },
    {
+    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
+    "dia": "10/08",
+    "desde": "09:15",
+    "ts": 1786364108950
+   },
+   {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
     "dia": "10/08",
     "desde": "10:17",
@@ -262,12 +295,6 @@
     "dia": "10/08",
     "desde": "12:56",
     "ts": 1786377407081
-   },
-   {
-    "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
-    "dia": "10/08",
-    "desde": "13:24",
-    "ts": 1786379086099
    },
    {
     "grupo": "D.D.J.S x LEVEL 1 SERVICOS DE ENGENHARIA LTDA",
@@ -367,19 +394,52 @@
   ]
  },
  "agora": {
-  "fila": 394,
-  "abertos": 528,
+  "fila": 396,
+  "abertos": 531,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 6,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 1693
+  "ausentes": 0,
+  "espera_media_s": 1685
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-06T19:49:41.443Z",
-  "min_sem_lead": 5688
+  "ultimo_lead_at": "2026-07-31T21:37:09.612Z",
+  "min_sem_lead": 14236
  },
  "leads": [
+  {
+   "nome": "R0DRIGO",
+   "tel": "5511*****845",
+   "criado": "15:47",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/icKjE81qR",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Advogada Andreia Rodrigues Morgado",
+   "tel": "5511*****607",
+   "criado": "15:45",
+   "atendente": "Nicolas",
+   "espera_min": 1.9,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Vanessa",
+   "tel": "5582*****225",
+   "criado": "15:37",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db1RMyXsdNI/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Achiles Fava",
    "tel": "5512*****099",
