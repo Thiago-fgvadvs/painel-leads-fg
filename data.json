@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/08/2026, 09:31",
+ "gerado_em": "10/08/2026, 09:46",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 268,
-  "tickets_abertos": 507,
+  "tickets_abertos": 509,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -44,19 +44,19 @@
   }
  ],
  "areas": {
-  "Trabalhista": 9,
-  "Nao identificada": 2
+  "Nao identificada": 2,
+  "Trabalhista": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 210,
-  "turnos": 473,
-  "respondidos": 464,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 29.9,
+  "turnos": 479,
+  "respondidos": 469,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 30.3,
   "atendentes": [
    {
     "nome": "Julia",
@@ -65,8 +65,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 140,
-    "mediana_min": 66.2
+    "respostas": 145,
+    "mediana_min": 56.2
    },
    {
     "nome": "Gabrielle",
@@ -111,10 +111,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
+    "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "dia": "06/08",
+    "desde": "14:00",
+    "ts": 1786035601151
+   },
+   {
+    "grupo": "D.D.S.D.M x ORBENK ADMINISTRACAO E SERVICOS LTDA",
     "dia": "10/08",
-    "desde": "08:54",
-    "ts": 1786362893852
+    "desde": "09:23",
+    "ts": 1786364636952
    },
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
@@ -177,6 +183,12 @@
     "ts": 1785874896096
    },
    {
+    "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
+    "dia": "06/08",
+    "desde": "14:00",
+    "ts": 1786035601151
+   },
+   {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
     "dia": "06/08",
     "desde": "17:03",
@@ -219,10 +231,10 @@
     "ts": 1786139481338
    },
    {
-    "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
+    "grupo": "D.D.S.D.M x ORBENK ADMINISTRACAO E SERVICOS LTDA",
     "dia": "10/08",
-    "desde": "08:54",
-    "ts": 1786362893852
+    "desde": "09:23",
+    "ts": 1786364636952
    }
   ]
  },
@@ -301,30 +313,19 @@
   ]
  },
  "agora": {
-  "fila": 390,
-  "abertos": 507,
-  "com_atendimento": 5,
+  "fila": 389,
+  "abertos": 509,
+  "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 1,
   "espera_media_s": 1331
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T02:00:18.427Z",
-  "min_sem_lead": 631
+  "ultimo_lead_at": "2026-08-07T22:23:03.243Z",
+  "min_sem_lead": 3744
  },
  "leads": [
-  {
-   "nome": "Jessica Lima ",
-   "tel": "5581*****177",
-   "criado": "08:14",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
-  },
   {
    "nome": ".",
    "tel": "5547*****056",
@@ -335,6 +336,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Jessica Lima ",
+   "tel": "5581*****177",
+   "criado": "08:14",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Francisco cleilson pessoa",
