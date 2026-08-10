@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/08/2026, 08:43",
+ "gerado_em": "10/08/2026, 08:58",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 267,
-  "tickets_abertos": 504,
+  "tickets_abertos": 503,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -51,11 +51,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 198,
-  "turnos": 461,
+  "grupos_ativos": 199,
+  "turnos": 460,
   "respondidos": 452,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 28.9,
   "atendentes": [
    {
@@ -110,12 +110,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
-    "dia": "09/08",
-    "desde": "09:54",
-    "ts": 1786280064661
-   },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
     "dia": "07/08",
@@ -217,12 +211,6 @@
     "dia": "07/08",
     "desde": "18:51",
     "ts": 1786139481338
-   },
-   {
-    "grupo": "M.A.D.S.M x DIA DE BOLO LTDA",
-    "dia": "09/08",
-    "desde": "09:54",
-    "ts": 1786280064661
    }
   ]
  },
@@ -302,29 +290,18 @@
  },
  "agora": {
   "fila": 387,
-  "abertos": 504,
+  "abertos": 503,
   "com_atendimento": 5,
-  "online": 0,
-  "offline": 9,
+  "online": 2,
+  "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 1482
+  "espera_media_s": 1334
  },
  "captacao": {
   "ultimo_lead_at": "2026-05-21T17:13:02.618Z",
-  "min_sem_lead": 116310
+  "min_sem_lead": 116325
  },
  "leads": [
-  {
-   "nome": "Ana",
-   "tel": "5514*****338",
-   "criado": "08:40",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Francisco cleilson pessoa",
    "tel": "5588*****899",
@@ -340,6 +317,17 @@
    "nome": "Jessica Lima ",
    "tel": "5581*****177",
    "criado": "08:14",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ana",
+   "tel": "5514*****338",
+   "criado": "08:40",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
