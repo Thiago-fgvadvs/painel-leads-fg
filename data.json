@@ -1,31 +1,35 @@
 {
- "gerado_em": "10/08/2026, 08:12",
+ "gerado_em": "10/08/2026, 08:27",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 0,
+  "total": 9,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 263,
-  "tickets_abertos": 498,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 266,
+  "tickets_abertos": 501,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 5,
-   "mediana_min": null
+   "leads": 8,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 6,
   "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "leads": 3
+  },
   {
    "url": "fb.me/ey4Q1TKSH",
    "leads": 1
@@ -40,14 +44,14 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
+  "Trabalhista": 8,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 197,
+  "grupos_ativos": 198,
   "turnos": 461,
   "respondidos": 452,
   "sem_resposta": 9,
@@ -297,19 +301,52 @@
   ]
  },
  "agora": {
-  "fila": 381,
-  "abertos": 498,
+  "fila": 384,
+  "abertos": 501,
   "com_atendimento": 5,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1502
+  "espera_media_s": 1492
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 680873
+  "ultimo_lead_at": "2026-08-10T11:22:50.864Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "Francisco cleilson pessoa",
+   "tel": "5588*****899",
+   "criado": "08:22",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "rodrigo",
+   "tel": "5584*****928",
+   "criado": "08:19",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Jessica Lima ",
+   "tel": "5581*****177",
+   "criado": "08:14",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Erika",
    "tel": "5541*****924",
