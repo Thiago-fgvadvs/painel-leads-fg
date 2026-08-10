@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 11:03",
+ "gerado_em": "10/08/2026, 11:18",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
-  "no_sla": 11,
+  "total": 19,
+  "no_sla": 13,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 274,
+  "leads_7d": 276,
   "tickets_abertos": 513,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 15,
+   "leads": 17,
    "mediana_min": 0.4
   },
   {
@@ -27,17 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 14,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 7
+   "leads": 8
   },
   {
    "url": "fb.me/annW3H6uu",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "fb.me/41inlpyts",
@@ -53,24 +53,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 14,
+  "Trabalhista": 16,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 212,
+  "grupos_ativos": 213,
   "turnos": 498,
-  "respondidos": 489,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 30.3,
+  "respondidos": 490,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 30.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 175,
-    "mediana_min": 38.8
+    "respostas": 176,
+    "mediana_min": 39.5
    },
    {
     "nome": "Nicolas",
@@ -130,12 +130,6 @@
     "dia": "06/08",
     "desde": "17:41",
     "ts": 1786048877335
-   },
-   {
-    "grupo": "A.P.D.S x ALICERCE CONSTRUCOES E SERVICOS LTDA",
-    "dia": "08/08",
-    "desde": "13:43",
-    "ts": 1786207436506
    },
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
@@ -220,12 +214,6 @@
     "dia": "07/08",
     "desde": "18:51",
     "ts": 1786139481338
-   },
-   {
-    "grupo": "A.P.D.S x ALICERCE CONSTRUCOES E SERVICOS LTDA",
-    "dia": "08/08",
-    "desde": "13:43",
-    "ts": 1786207436506
    },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
@@ -319,34 +307,45 @@
   ]
  },
  "agora": {
-  "fila": 384,
+  "fila": 385,
   "abertos": 513,
   "com_atendimento": 5,
   "online": 5,
   "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 2667
+  "espera_media_s": 1723
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T15:37:56.989Z",
-  "min_sem_lead": 14305
+  "ultimo_lead_at": "2025-04-24T15:51:16.849Z",
+  "min_sem_lead": 681027
  },
  "leads": [
   {
-   "nome": "Edna",
-   "tel": "5565*****638",
-   "criado": "10:53",
+   "nome": "Yamileth❣️",
+   "tel": "5595*****810",
+   "criado": "11:10",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
+   "espera_min": 0.7,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/41inlpyts",
+   "criativo": "fb.me/annW3H6uu",
    "area": "Trabalhista"
   },
   {
    "nome": "558194251945",
    "tel": "5581*****945",
    "criado": "11:00",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Cinthya Santos",
+   "tel": "5588*****708",
+   "criado": "11:09",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
@@ -364,6 +363,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Edna",
+   "tel": "5565*****638",
+   "criado": "10:53",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/41inlpyts",
+   "area": "Trabalhista"
   },
   {
    "nome": "555180474061",
