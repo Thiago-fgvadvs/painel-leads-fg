@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 13:05",
+ "gerado_em": "10/08/2026, 13:20",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
-  "no_sla": 17,
+  "total": 24,
+  "no_sla": 18,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 280,
-  "tickets_abertos": 518,
+  "leads_7d": 281,
+  "tickets_abertos": 520,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "fb.me/annW3H6uu",
    "leads": 4
+  },
+  {
+   "url": "fb.me/45T4MyTNF",
+   "leads": 1
   },
   {
    "url": "fb.me/9reIpIGlx",
@@ -57,7 +61,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 20,
+  "Trabalhista": 21,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
@@ -65,10 +69,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 513,
-  "respondidos": 505,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "turnos": 515,
+  "respondidos": 506,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 30.4,
   "atendentes": [
    {
@@ -87,14 +91,14 @@
     "mediana_min": 3.1
    },
    {
+    "nome": "Eduardo",
+    "respostas": 26,
+    "mediana_min": 9.1
+   },
+   {
     "nome": "Thauany",
     "respostas": 25,
     "mediana_min": 0.7
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 25,
-    "mediana_min": 9.9
    },
    {
     "nome": "Luisa",
@@ -123,6 +127,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
+    "dia": "10/08",
+    "desde": "12:58",
+    "ts": 1786377481130
+   },
    {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "10/08",
@@ -224,6 +234,12 @@
     "dia": "10/08",
     "desde": "12:56",
     "ts": 1786377407081
+   },
+   {
+    "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
+    "dia": "10/08",
+    "desde": "12:58",
+    "ts": 1786377481130
    }
   ]
  },
@@ -311,17 +327,17 @@
   ]
  },
  "agora": {
-  "fila": 389,
-  "abertos": 518,
-  "com_atendimento": 4,
+  "fila": 390,
+  "abertos": 520,
+  "com_atendimento": 5,
   "online": 4,
   "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 1704
+  "espera_media_s": 1700
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-10T16:01:37.863Z",
-  "min_sem_lead": 4
+  "min_sem_lead": 19
  },
  "leads": [
   {
@@ -333,6 +349,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Maria Cleonice",
+   "tel": "5587*****399",
+   "criado": "13:05",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/45T4MyTNF",
    "area": "Trabalhista"
   },
   {
