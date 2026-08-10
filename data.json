@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 14:36",
+ "gerado_em": "10/08/2026, 14:52",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 28,
-  "no_sla": 22,
+  "total": 29,
+  "no_sla": 23,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 285,
-  "tickets_abertos": 527,
+  "leads_7d": 286,
+  "tickets_abertos": 526,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 26,
+   "leads": 27,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 24,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 12
+   "leads": 13
   },
   {
    "url": "fb.me/annW3H6uu",
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 24,
+  "Trabalhista": 25,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
@@ -73,16 +73,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 221,
-  "turnos": 524,
-  "respondidos": 512,
+  "turnos": 525,
+  "respondidos": 513,
   "sem_resposta": 12,
   "sem_resposta_grupos": 12,
   "mediana_min": 30.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 184,
-    "mediana_min": 40.2
+    "respostas": 185,
+    "mediana_min": 40.3
    },
    {
     "nome": "Nicolas",
@@ -138,6 +138,12 @@
     "ts": 1786383051175
    },
    {
+    "grupo": "A.E.P x DORGIA CONSTRUCOES LTDA",
+    "dia": "10/08",
+    "desde": "14:26",
+    "ts": 1786382760076
+   },
+   {
     "grupo": "C.M.D.S.A.B.D.E.P.A.D",
     "dia": "10/08",
     "desde": "12:28",
@@ -154,12 +160,6 @@
     "dia": "10/08",
     "desde": "12:24",
     "ts": 1786375441105
-   },
-   {
-    "grupo": "A.S.D.C.G x FUNDACAO DO ABC (HOSPITAL GERAL DE CARAPICUIBA)",
-    "dia": "10/08",
-    "desde": "12:10",
-    "ts": 1786374621096
    },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
@@ -252,12 +252,6 @@
     "ts": 1786367829994
    },
    {
-    "grupo": "A.S.D.C.G x FUNDACAO DO ABC (HOSPITAL GERAL DE CARAPICUIBA)",
-    "dia": "10/08",
-    "desde": "12:10",
-    "ts": 1786374621096
-   },
-   {
     "grupo": "G.D.F.F x R G DE ASSIS LTDA",
     "dia": "10/08",
     "desde": "12:24",
@@ -274,6 +268,12 @@
     "dia": "10/08",
     "desde": "12:56",
     "ts": 1786377407081
+   },
+   {
+    "grupo": "A.E.P x DORGIA CONSTRUCOES LTDA",
+    "dia": "10/08",
+    "desde": "14:26",
+    "ts": 1786382760076
    },
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
@@ -367,19 +367,41 @@
   ]
  },
  "agora": {
-  "fila": 394,
-  "abertos": 527,
+  "fila": 395,
+  "abertos": 526,
   "com_atendimento": 7,
   "online": 2,
-  "offline": 5,
-  "ausentes": 2,
+  "offline": 4,
+  "ausentes": 3,
   "espera_media_s": 1693
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T16:52:32.783Z",
-  "min_sem_lead": 44
+  "ultimo_lead_at": "2026-08-10T17:50:26.719Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "557991732642",
+   "tel": "5579*****642",
+   "criado": "14:50",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Achiles Fava",
+   "tel": "5512*****099",
+   "criado": "14:23",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Flavia",
    "tel": "5528*****173",
@@ -389,17 +411,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbwRIUTsccb/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5512992194099",
-   "tel": "5512*****099",
-   "criado": "14:23",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
   },
   {
