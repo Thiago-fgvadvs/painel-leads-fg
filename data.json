@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/08/2026, 12:34",
+ "gerado_em": "10/08/2026, 12:50",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 279,
-  "tickets_abertos": 520,
+  "tickets_abertos": 517,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,16 +65,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 510,
-  "respondidos": 500,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 30.4,
+  "turnos": 511,
+  "respondidos": 502,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 30.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 179,
-    "mediana_min": 40.1
+    "respostas": 181,
+    "mediana_min": 40.3
    },
    {
     "nome": "Nicolas",
@@ -124,28 +124,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "10/08",
+    "desde": "12:47",
+    "ts": 1786376836014
+   },
+   {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "10/08",
     "desde": "11:47",
     "ts": 1786373265080
    },
    {
-    "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
-    "dia": "10/08",
-    "desde": "11:32",
-    "ts": 1786372331044
-   },
-   {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
     "dia": "10/08",
     "desde": "10:17",
     "ts": 1786367829994
-   },
-   {
-    "grupo": "D.D.S.M x R S D ADOGLIO SERVICOS ADMINISTRATIVOS LTDA",
-    "dia": "06/08",
-    "desde": "17:41",
-    "ts": 1786048877335
    },
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
@@ -196,12 +190,6 @@
     "ts": 1785874896096
    },
    {
-    "grupo": "D.D.S.M x R S D ADOGLIO SERVICOS ADMINISTRATIVOS LTDA",
-    "dia": "06/08",
-    "desde": "17:41",
-    "ts": 1786048877335
-   },
-   {
     "grupo": "E.M.D.S x ZAMP S.A.",
     "dia": "07/08",
     "desde": "10:42",
@@ -238,16 +226,16 @@
     "ts": 1786367829994
    },
    {
-    "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
-    "dia": "10/08",
-    "desde": "11:32",
-    "ts": 1786372331044
-   },
-   {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "10/08",
     "desde": "11:47",
     "ts": 1786373265080
+   },
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "10/08",
+    "desde": "12:47",
+    "ts": 1786376836014
    }
   ]
  },
@@ -335,21 +323,21 @@
   ]
  },
  "agora": {
-  "fila": 388,
-  "abertos": 520,
+  "fila": 387,
+  "abertos": 517,
   "com_atendimento": 5,
-  "online": 5,
-  "offline": 4,
-  "ausentes": 0,
-  "espera_media_s": 1712
+  "online": 4,
+  "offline": 3,
+  "ausentes": 2,
+  "espera_media_s": 1715
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T15:30:21.822Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
+  "min_sem_lead": 10249
  },
  "leads": [
   {
-   "nome": "553391312029",
+   "nome": "Adriana Pitman",
    "tel": "5533*****029",
    "criado": "12:30",
    "atendente": "Fernanda Gehm - Administradora",
@@ -357,6 +345,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/9reIpIGlx",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5512991992422",
+   "tel": "5512*****422",
+   "criado": "12:04",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
    "area": "Trabalhista"
   },
   {
@@ -401,17 +400,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/ey4Q1TKSH",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5512991992422",
-   "tel": "5512*****422",
-   "criado": "12:04",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/annW3H6uu",
    "area": "Trabalhista"
   },
   {
