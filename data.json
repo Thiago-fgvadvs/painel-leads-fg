@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 12:19",
+ "gerado_em": "10/08/2026, 12:34",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 15,
+  "total": 22,
+  "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 278,
-  "tickets_abertos": 519,
+  "leads_7d": 279,
+  "tickets_abertos": 520,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 17,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "fb.me/annW3H6uu",
    "leads": 4
+  },
+  {
+   "url": "fb.me/9reIpIGlx",
+   "leads": 1
   },
   {
    "url": "fb.me/ey4Q1TKSH",
@@ -53,8 +57,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 18
+  "Trabalhista": 19,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -62,10 +66,10 @@
   "dias": 7,
   "grupos_ativos": 217,
   "turnos": 510,
-  "respondidos": 499,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
-  "mediana_min": 30.3,
+  "respondidos": 500,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 30.4,
   "atendentes": [
    {
     "nome": "Julia",
@@ -114,17 +118,11 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 6,
-    "mediana_min": 150.3
+    "respostas": 7,
+    "mediana_min": 76.6
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "P.D.C.L x WMB SUPERMERCADOS DO BRASIL LTDA",
-    "dia": "10/08",
-    "desde": "11:53",
-    "ts": 1786373581027
-   },
    {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "10/08",
@@ -250,12 +248,6 @@
     "dia": "10/08",
     "desde": "11:47",
     "ts": 1786373265080
-   },
-   {
-    "grupo": "P.D.C.L x WMB SUPERMERCADOS DO BRASIL LTDA",
-    "dia": "10/08",
-    "desde": "11:53",
-    "ts": 1786373581027
    }
   ]
  },
@@ -343,19 +335,41 @@
   ]
  },
  "agora": {
-  "fila": 387,
-  "abertos": 519,
+  "fila": 388,
+  "abertos": 520,
   "com_atendimento": 5,
-  "online": 1,
+  "online": 5,
   "offline": 4,
-  "ausentes": 4,
-  "espera_media_s": 1715
+  "ausentes": 0,
+  "espera_media_s": 1712
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T11:58:29.310Z",
-  "min_sem_lead": 201
+  "ultimo_lead_at": "2026-08-10T15:30:21.822Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "553391312029",
+   "tel": "5533*****029",
+   "criado": "12:30",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9reIpIGlx",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Yamileth❣️",
+   "tel": "5595*****810",
+   "criado": "11:10",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
   {
    "nome": ".",
    "tel": "5547*****056",
@@ -379,7 +393,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "559180448879",
+   "nome": "Artur  ❤️❤️",
    "tel": "5591*****879",
    "criado": "07:19",
    "atendente": "Fernanda Gehm - Administradora",
@@ -395,17 +409,6 @@
    "criado": "12:04",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/annW3H6uu",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Yamileth❣️",
-   "tel": "5595*****810",
-   "criado": "11:10",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.7,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/annW3H6uu",
