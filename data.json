@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 19:57",
+ "gerado_em": "10/08/2026, 20:12",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 46,
+  "total": 47,
   "no_sla": 36,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 8,
+  "fora_horario": 9,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 303,
-  "tickets_abertos": 488,
+  "leads_7d": 304,
+  "tickets_abertos": 489,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 41,
+   "leads": 42,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 37,
+  "Anuncio": 38,
   "Direto/Indicacao": 9
  },
  "criativos": [
@@ -43,6 +43,10 @@
   {
    "url": "fb.me/annW3H6uu",
    "leads": 4
+  },
+  {
+   "url": "fb.me/7tRJWUSsI",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DbyoAdIsARN/",
@@ -63,14 +67,10 @@
   {
    "url": "fb.me/6hYkdh3KX",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7a58KGmA0",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 35,
+  "Trabalhista": 36,
   "Nao identificada": 11
  },
  "sem_resposta_lista": [],
@@ -222,6 +222,13 @@
     "dia": "10/08",
     "desde": "15:37",
     "ts": 1786387070205
+   },
+   {
+    "nome": "Frank Cavalcante",
+    "tel": "5597*****151",
+    "dia": "10/08",
+    "desde": "16:09",
+    "ts": 1786388970991
    },
    {
     "nome": "557981007568",
@@ -387,19 +394,30 @@
   ]
  },
  "agora": {
-  "fila": 343,
-  "abertos": 488,
+  "fila": 344,
+  "abertos": 489,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1869
+  "espera_media_s": 1864
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T19:57:58.484Z",
-  "min_sem_lead": 1619
+  "ultimo_lead_at": "2026-08-10T23:07:47.424Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "Marcelo",
+   "tel": "5521*****627",
+   "criado": "20:07",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Sabrina 🌹",
    "tel": "5554*****176",
