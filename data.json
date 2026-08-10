@@ -1,17 +1,17 @@
 {
- "gerado_em": "10/08/2026, 17:55",
+ "gerado_em": "10/08/2026, 18:10",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 42,
+  "total": 43,
   "no_sla": 35,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 299,
-  "tickets_abertos": 487,
+  "leads_7d": 300,
+  "tickets_abertos": 483,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -33,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 34,
-  "Direto/Indicacao": 8
+  "Direto/Indicacao": 9
  },
  "criativos": [
   {
@@ -71,7 +71,7 @@
  ],
  "areas": {
   "Trabalhista": 33,
-  "Nao identificada": 9
+  "Nao identificada": 10
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -86,16 +86,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 559,
-  "respondidos": 549,
+  "turnos": 560,
+  "respondidos": 550,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
-  "mediana_min": 30.3,
+  "mediana_min": 30.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 210,
-    "mediana_min": 39.6
+    "respostas": 211,
+    "mediana_min": 39
    },
    {
     "nome": "Nicolas",
@@ -208,15 +208,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Vanessa",
-    "tel": "5582*****225",
-    "dia": "10/08",
-    "desde": "15:37",
-    "ts": 1786387070205
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "F.P.L",
@@ -364,17 +356,17 @@
   ]
  },
  "agora": {
-  "fila": 342,
-  "abertos": 487,
-  "com_atendimento": 7,
-  "online": 5,
-  "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 1881
+  "fila": 339,
+  "abertos": 483,
+  "com_atendimento": 6,
+  "online": 2,
+  "offline": 5,
+  "ausentes": 2,
+  "espera_media_s": 1891
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T20:34:12.112Z",
-  "min_sem_lead": 21
+  "ultimo_lead_at": "2026-07-17T11:04:58.040Z",
+  "min_sem_lead": 35165
  },
  "leads": [
   {
@@ -411,7 +403,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "557798444493",
+   "nome": "fagner",
    "tel": "5577*****493",
    "criado": "17:40",
    "atendente": "Fernanda Gehm - Administradora",
@@ -838,6 +830,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db1TYMhs6yc/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5519993712590",
+   "tel": "5519*****590",
+   "criado": "18:06",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
