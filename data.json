@@ -1,39 +1,39 @@
 {
- "gerado_em": "10/08/2026, 16:54",
+ "gerado_em": "10/08/2026, 17:09",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 37,
-  "no_sla": 30,
+  "total": 39,
+  "no_sla": 32,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 294,
-  "tickets_abertos": 506,
+  "leads_7d": 296,
+  "tickets_abertos": 481,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 34,
+   "leads": 35,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Eduardo",
+   "leads": 2,
+   "mediana_min": 0.5
   },
   {
    "nome": "Nicolas",
    "leads": 2,
    "mediana_min": 18.5
-  },
-  {
-   "nome": "Eduardo",
-   "leads": 1,
-   "mediana_min": 0.3
   }
  ],
  "origem": {
-  "Anuncio": 30,
-  "Direto/Indicacao": 7
+  "Anuncio": 31,
+  "Direto/Indicacao": 8
  },
  "criativos": [
   {
@@ -47,6 +47,10 @@
   {
    "url": "fb.me/ey4Q1TKSH",
    "leads": 2
+  },
+  {
+   "url": "fb.me/7tRJWUSsI",
+   "leads": 1
   },
   {
    "url": "fb.me/6hYkdh3KX",
@@ -63,15 +67,11 @@
   {
    "url": "www.instagram.com/p/Db1RMyXsdNI/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9reIpIGlx",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 29,
-  "Nao identificada": 8
+  "Nao identificada": 9,
+  "Trabalhista": 30
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -85,17 +85,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 225,
-  "turnos": 548,
-  "respondidos": 538,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 30.3,
+  "grupos_ativos": 226,
+  "turnos": 550,
+  "respondidos": 541,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 30.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 203,
-    "mediana_min": 40.3
+    "respostas": 205,
+    "mediana_min": 41.5
    },
    {
     "nome": "Nicolas",
@@ -109,8 +109,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 32,
-    "mediana_min": 11.4
+    "respostas": 33,
+    "mediana_min": 12.9
    },
    {
     "nome": "Thauany",
@@ -145,16 +145,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
+    "grupo": "T.A.J.D.O x ARCOS DOURADOS COM DE ALIMENTOS SA",
     "dia": "10/08",
-    "desde": "12:56",
-    "ts": 1786377407081
-   },
-   {
-    "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
-    "dia": "10/08",
-    "desde": "15:49",
-    "ts": 1786387769230
+    "desde": "17:05",
+    "ts": 1786392311257
    },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
@@ -208,50 +202,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "5519983297353",
-    "tel": "5519*****353",
-    "dia": "10/08",
-    "desde": "00:05",
-    "ts": 1786331101799
-   },
-   {
-    "nome": "Advogada Ana Paula Horiguchi",
-    "tel": "5541*****065",
-    "dia": "10/08",
-    "desde": "15:56",
-    "ts": 1786388166599
-   },
-   {
-    "nome": "Frank Cavalcante",
-    "tel": "5597*****151",
-    "dia": "10/08",
-    "desde": "16:09",
-    "ts": 1786388970991
-   },
-   {
-    "nome": "Jorge",
-    "tel": "5511*****651",
-    "dia": "10/08",
-    "desde": "16:10",
-    "ts": 1786389034529
-   },
-   {
-    "nome": "557981007568",
-    "tel": "5579*****568",
-    "dia": "10/08",
-    "desde": "16:21",
-    "ts": 1786389670971
-   },
-   {
-    "nome": "553591941867",
-    "tel": "5535*****867",
-    "dia": "10/08",
-    "desde": "16:41",
-    "ts": 1786390901889
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "F.P.L",
@@ -296,22 +247,16 @@
     "ts": 1786367829994
    },
    {
-    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
-    "dia": "10/08",
-    "desde": "12:56",
-    "ts": 1786377407081
-   },
-   {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
     "dia": "10/08",
     "desde": "15:02",
     "ts": 1786384959153
    },
    {
-    "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
+    "grupo": "T.A.J.D.O x ARCOS DOURADOS COM DE ALIMENTOS SA",
     "dia": "10/08",
-    "desde": "15:49",
-    "ts": 1786387769230
+    "desde": "17:05",
+    "ts": 1786392311257
    }
   ]
  },
@@ -399,19 +344,41 @@
   ]
  },
  "agora": {
-  "fila": 368,
-  "abertos": 506,
+  "fila": 342,
+  "abertos": 481,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 1770
+  "ausentes": 1,
+  "espera_media_s": 1906
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T17:51:55.135Z",
-  "min_sem_lead": 1562
+  "ultimo_lead_at": "2026-08-09T01:26:26.385Z",
+  "min_sem_lead": 2563
  },
  "leads": [
+  {
+   "nome": "JORGE INDICACAO",
+   "tel": "5511*****148",
+   "criado": "17:03",
+   "atendente": "Eduardo",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "555196998628",
+   "tel": "5551*****628",
+   "criado": "16:57",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Jorge",
    "tel": "5511*****651",
