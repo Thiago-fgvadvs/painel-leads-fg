@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 13:51",
+ "gerado_em": "10/08/2026, 14:06",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
-  "no_sla": 20,
+  "total": 27,
+  "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 283,
-  "tickets_abertos": 526,
+  "leads_7d": 284,
+  "tickets_abertos": 528,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 24,
+   "leads": 25,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 22,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "fb.me/annW3H6uu",
    "leads": 4
+  },
+  {
+   "url": "www.instagram.com/p/DbwRIUTsccb/",
+   "leads": 1
   },
   {
    "url": "fb.me/9reIpIGlx",
@@ -58,21 +62,17 @@
   {
    "url": "fb.me/41inlpyts",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Db1TYMhs6yc/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 22,
+  "Trabalhista": 23,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 219,
+  "grupos_ativos": 220,
   "turnos": 521,
   "respondidos": 510,
   "sem_resposta": 11,
@@ -355,19 +355,30 @@
   ]
  },
  "agora": {
-  "fila": 390,
-  "abertos": 526,
-  "com_atendimento": 6,
-  "online": 4,
+  "fila": 393,
+  "abertos": 528,
+  "com_atendimento": 7,
+  "online": 3,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 1693
+  "ausentes": 3,
+  "espera_media_s": 1689
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T01:26:26.385Z",
-  "min_sem_lead": 2365
+  "ultimo_lead_at": "2026-07-30T17:01:47.488Z",
+  "min_sem_lead": 15844
  },
  "leads": [
+  {
+   "nome": "Flavia",
+   "tel": "5528*****173",
+   "criado": "13:52",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbwRIUTsccb/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Adriana Pitman",
    "tel": "5533*****029",
