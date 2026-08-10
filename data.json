@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 19:26",
+ "gerado_em": "10/08/2026, 19:42",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 45,
+  "total": 46,
   "no_sla": 36,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 7,
+  "fora_horario": 8,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 302,
-  "tickets_abertos": 485,
+  "leads_7d": 303,
+  "tickets_abertos": 487,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 40,
+   "leads": 41,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 36,
+  "Anuncio": 37,
   "Direto/Indicacao": 9
  },
  "criativos": [
@@ -53,6 +53,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/Db3fLnNsEDx/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/73927V0PX",
    "leads": 1
   },
@@ -63,15 +67,11 @@
   {
    "url": "fb.me/7a58KGmA0",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4UOwRXqHU",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 11,
-  "Trabalhista": 34
+  "Trabalhista": 35,
+  "Nao identificada": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -209,6 +209,13 @@
  "pendencias": {
   "dias": 7,
   "leads": [
+   {
+    "nome": "5519983297353",
+    "tel": "5519*****353",
+    "dia": "10/08",
+    "desde": "00:05",
+    "ts": 1786331101799
+   },
    {
     "nome": "Vanessa",
     "tel": "5582*****225",
@@ -373,19 +380,30 @@
   ]
  },
  "agora": {
-  "fila": 340,
-  "abertos": 485,
+  "fila": 342,
+  "abertos": 487,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1882
+  "espera_media_s": 1873
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T22:18:48.481Z",
-  "min_sem_lead": 8
+  "ultimo_lead_at": "2026-08-10T22:27:25.259Z",
+  "min_sem_lead": 14
  },
  "leads": [
+  {
+   "nome": "Sabrina 🌹",
+   "tel": "5554*****176",
+   "criado": "19:27",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3fLnNsEDx/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Ananias",
    "tel": "5584*****507",
