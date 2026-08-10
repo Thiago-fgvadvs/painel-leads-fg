@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 17:09",
+ "gerado_em": "10/08/2026, 17:24",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 39,
-  "no_sla": 32,
+  "total": 40,
+  "no_sla": 33,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 296,
+  "leads_7d": 297,
   "tickets_abertos": 481,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 35,
+   "leads": 36,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 31,
+  "Anuncio": 32,
   "Direto/Indicacao": 8
  },
  "criativos": [
@@ -49,7 +49,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/7tRJWUSsI",
+   "url": "fb.me/8b1UxS5EL",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4UOwRXqHU",
    "leads": 1
   },
   {
@@ -57,21 +61,17 @@
    "leads": 1
   },
   {
-   "url": "fb.me/8b1UxS5EL",
+   "url": "fb.me/7tRJWUSsI",
    "leads": 1
   },
   {
    "url": "fb.me/icKjE81qR",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Db1RMyXsdNI/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 9,
-  "Trabalhista": 30
+  "Trabalhista": 31,
+  "Nao identificada": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -86,16 +86,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 550,
-  "respondidos": 541,
+  "turnos": 554,
+  "respondidos": 545,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
-  "mediana_min": 30.4,
+  "mediana_min": 30.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 205,
-    "mediana_min": 41.5
+    "respostas": 209,
+    "mediana_min": 40.1
    },
    {
     "nome": "Nicolas",
@@ -145,10 +145,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "T.A.J.D.O x ARCOS DOURADOS COM DE ALIMENTOS SA",
+    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "10/08",
-    "desde": "17:05",
-    "ts": 1786392311257
+    "desde": "17:14",
+    "ts": 1786392862294
    },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
@@ -253,10 +253,10 @@
     "ts": 1786384959153
    },
    {
-    "grupo": "T.A.J.D.O x ARCOS DOURADOS COM DE ALIMENTOS SA",
+    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "10/08",
-    "desde": "17:05",
-    "ts": 1786392311257
+    "desde": "17:14",
+    "ts": 1786392862294
    }
   ]
  },
@@ -344,19 +344,52 @@
   ]
  },
  "agora": {
-  "fila": 342,
+  "fila": 341,
   "abertos": 481,
-  "com_atendimento": 7,
+  "com_atendimento": 6,
   "online": 5,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 1906
+  "espera_media_s": 1901
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T01:26:26.385Z",
-  "min_sem_lead": 2563
+  "ultimo_lead_at": "2026-08-10T19:41:41.889Z",
+  "min_sem_lead": 43
  },
  "leads": [
+  {
+   "nome": "553591941867",
+   "tel": "5535*****867",
+   "criado": "16:41",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8b1UxS5EL",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Douguiinhasz",
+   "tel": "5535*****266",
+   "criado": "17:20",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4UOwRXqHU",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Jorge",
+   "tel": "5511*****651",
+   "criado": "16:10",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6hYkdh3KX",
+   "area": "Trabalhista"
+  },
   {
    "nome": "JORGE INDICACAO",
    "tel": "5511*****148",
@@ -377,28 +410,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7tRJWUSsI",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Jorge",
-   "tel": "5511*****651",
-   "criado": "16:10",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6hYkdh3KX",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "553591941867",
-   "tel": "5535*****867",
-   "criado": "16:41",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/8b1UxS5EL",
    "area": "Trabalhista"
   },
   {
