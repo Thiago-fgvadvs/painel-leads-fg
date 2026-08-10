@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/08/2026, 15:07",
+ "gerado_em": "10/08/2026, 15:22",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 286,
-  "tickets_abertos": 525,
+  "tickets_abertos": 526,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,16 +65,16 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 25
+  "Trabalhista": 25,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 221,
-  "turnos": 530,
-  "respondidos": 519,
+  "turnos": 531,
+  "respondidos": 520,
   "sem_resposta": 11,
   "sem_resposta_grupos": 11,
   "mediana_min": 30.3,
@@ -96,8 +96,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 27,
-    "mediana_min": 9.9
+    "respostas": 28,
+    "mediana_min": 11.8
    },
    {
     "nome": "Thauany",
@@ -138,10 +138,10 @@
     "ts": 1786384959153
    },
    {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "grupo": "D.D.J.S x LEVEL 1 SERVICOS DE ENGENHARIA LTDA",
     "dia": "10/08",
-    "desde": "14:30",
-    "ts": 1786383051175
+    "desde": "13:52",
+    "ts": 1786380735111
    },
    {
     "grupo": "C.M.D.S.A.B.D.E.P.A.D",
@@ -258,10 +258,10 @@
     "ts": 1786377407081
    },
    {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "grupo": "D.D.J.S x LEVEL 1 SERVICOS DE ENGENHARIA LTDA",
     "dia": "10/08",
-    "desde": "14:30",
-    "ts": 1786383051175
+    "desde": "13:52",
+    "ts": 1786380735111
    },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
@@ -356,29 +356,18 @@
  },
  "agora": {
   "fila": 395,
-  "abertos": 525,
-  "com_atendimento": 6,
-  "online": 4,
+  "abertos": 526,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 3,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 1693
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T11:58:29.310Z",
-  "min_sem_lead": 369
+  "ultimo_lead_at": "2026-08-10T17:23:34.169Z",
+  "min_sem_lead": 59
  },
  "leads": [
-  {
-   "nome": ".",
-   "tel": "5547*****056",
-   "criado": "08:58",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
   {
    "nome": "Achiles Fava",
    "tel": "5512*****099",
@@ -400,6 +389,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": ".",
+   "tel": "5547*****056",
+   "criado": "08:58",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Adriana Pitman",
