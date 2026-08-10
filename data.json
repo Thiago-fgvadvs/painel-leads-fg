@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 20:12",
+ "gerado_em": "10/08/2026, 20:27",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 47,
+  "total": 50,
   "no_sla": 36,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 9,
+  "fora_horario": 12,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 304,
-  "tickets_abertos": 489,
+  "leads_7d": 307,
+  "tickets_abertos": 493,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 42,
+   "leads": 45,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 38,
+  "Anuncio": 41,
   "Direto/Indicacao": 9
  },
  "criativos": [
@@ -43,6 +43,10 @@
   {
    "url": "fb.me/annW3H6uu",
    "leads": 4
+  },
+  {
+   "url": "fb.me/41inlpyts",
+   "leads": 2
   },
   {
    "url": "fb.me/7tRJWUSsI",
@@ -57,20 +61,16 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/Db3fLnNsEDx/",
+   "url": "www.instagram.com/p/Db0bjh_M6vL/",
    "leads": 1
   },
   {
-   "url": "fb.me/73927V0PX",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/6hYkdh3KX",
+   "url": "fb.me/fljy4QK1m",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 36,
+  "Trabalhista": 39,
   "Nao identificada": 11
  },
  "sem_resposta_lista": [],
@@ -210,32 +210,11 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "5519983297353",
-    "tel": "5519*****353",
+    "nome": "JORGE INDICACAO",
+    "tel": "5511*****148",
     "dia": "10/08",
-    "desde": "00:05",
-    "ts": 1786331101799
-   },
-   {
-    "nome": "Vanessa",
-    "tel": "5582*****225",
-    "dia": "10/08",
-    "desde": "15:37",
-    "ts": 1786387070205
-   },
-   {
-    "nome": "Frank Cavalcante",
-    "tel": "5597*****151",
-    "dia": "10/08",
-    "desde": "16:09",
-    "ts": 1786388970991
-   },
-   {
-    "nome": "557981007568",
-    "tel": "5579*****568",
-    "dia": "10/08",
-    "desde": "16:21",
-    "ts": 1786389670971
+    "desde": "17:03",
+    "ts": 1786392219777
    }
   ],
   "grupos": [
@@ -394,19 +373,52 @@
   ]
  },
  "agora": {
-  "fila": 344,
-  "abertos": 489,
+  "fila": 348,
+  "abertos": 493,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1864
+  "espera_media_s": 1847
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T23:07:47.424Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2026-08-10T23:27:06.654Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "Kaau 🦋🦋",
+   "tel": "5511*****993",
+   "criado": "20:27",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db0bjh_M6vL/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "555196322884",
+   "tel": "5551*****884",
+   "criado": "20:25",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/fljy4QK1m",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511962688216",
+   "tel": "5511*****216",
+   "criado": "20:15",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/41inlpyts",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Marcelo",
    "tel": "5521*****627",
