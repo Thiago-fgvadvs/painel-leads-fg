@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 17:24",
+ "gerado_em": "10/08/2026, 17:39",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 40,
-  "no_sla": 33,
+  "total": 41,
+  "no_sla": 34,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 297,
-  "tickets_abertos": 481,
+  "leads_7d": 298,
+  "tickets_abertos": 484,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 36,
+   "leads": 37,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 32,
+  "Anuncio": 33,
   "Direto/Indicacao": 8
  },
  "criativos": [
@@ -49,11 +49,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/8b1UxS5EL",
+   "url": "fb.me/4UOwRXqHU",
    "leads": 1
   },
   {
-   "url": "fb.me/4UOwRXqHU",
+   "url": "fb.me/7a58KGmA0",
    "leads": 1
   },
   {
@@ -61,16 +61,16 @@
    "leads": 1
   },
   {
-   "url": "fb.me/7tRJWUSsI",
+   "url": "fb.me/8b1UxS5EL",
    "leads": 1
   },
   {
-   "url": "fb.me/icKjE81qR",
+   "url": "fb.me/7tRJWUSsI",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 31,
+  "Trabalhista": 32,
   "Nao identificada": 9
  },
  "sem_resposta_lista": [],
@@ -86,10 +86,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 554,
-  "respondidos": 545,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "turnos": 557,
+  "respondidos": 547,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 30.3,
   "atendentes": [
    {
@@ -99,7 +99,7 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 153,
+    "respostas": 155,
     "mediana_min": 56.2
    },
    {
@@ -144,6 +144,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "D.S.B.C x BANCO BRADESCO",
+    "dia": "10/08",
+    "desde": "17:38",
+    "ts": 1786394305228
+   },
    {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "10/08",
@@ -257,6 +263,12 @@
     "dia": "10/08",
     "desde": "17:14",
     "ts": 1786392862294
+   },
+   {
+    "grupo": "D.S.B.C x BANCO BRADESCO",
+    "dia": "10/08",
+    "desde": "17:38",
+    "ts": 1786394305228
    }
   ]
  },
@@ -344,30 +356,19 @@
   ]
  },
  "agora": {
-  "fila": 341,
-  "abertos": 481,
-  "com_atendimento": 6,
-  "online": 5,
+  "fila": 339,
+  "abertos": 484,
+  "com_atendimento": 7,
+  "online": 4,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 1901
+  "ausentes": 2,
+  "espera_media_s": 1886
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T19:41:41.889Z",
-  "min_sem_lead": 43
+  "ultimo_lead_at": "2026-08-10T20:20:29.977Z",
+  "min_sem_lead": 19
  },
  "leads": [
-  {
-   "nome": "553591941867",
-   "tel": "5535*****867",
-   "criado": "16:41",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/8b1UxS5EL",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Douguiinhasz",
    "tel": "5535*****266",
@@ -380,6 +381,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "Edvaldo",
+   "tel": "5575*****352",
+   "criado": "17:34",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7a58KGmA0",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "Jorge",
    "tel": "5511*****651",
    "criado": "16:10",
@@ -388,6 +400,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/6hYkdh3KX",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553591941867",
+   "tel": "5535*****867",
+   "criado": "16:41",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8b1UxS5EL",
    "area": "Trabalhista"
   },
   {
