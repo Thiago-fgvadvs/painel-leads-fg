@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/08/2026, 15:53",
+ "gerado_em": "10/08/2026, 16:08",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 289,
-  "tickets_abertos": 531,
+  "tickets_abertos": 530,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -70,24 +70,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 7,
-  "Trabalhista": 25
+  "Trabalhista": 25,
+  "Nao identificada": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 224,
-  "turnos": 537,
-  "respondidos": 525,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 30.3,
+  "grupos_ativos": 225,
+  "turnos": 541,
+  "respondidos": 527,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
+  "mediana_min": 30,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 194,
-    "mediana_min": 39.6
+    "respostas": 196,
+    "mediana_min": 38.9
    },
    {
     "nome": "Nicolas",
@@ -136,6 +136,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "C.L.M.D.O x HABIBS",
+    "dia": "10/08",
+    "desde": "16:03",
+    "ts": 1786388580196
+   },
+   {
+    "grupo": "A.C.B.M x HOSPITAL ALEMÃO OSWALDO CRUZ",
+    "dia": "10/08",
+    "desde": "15:37",
+    "ts": 1786387077130
+   },
    {
     "grupo": "C.M.D.S.A.B.D.E.P.A.D",
     "dia": "10/08",
@@ -214,25 +226,39 @@
   "dias": 7,
   "leads": [
    {
+    "nome": "ㅤㅤ",
+    "tel": "5585*****747",
+    "dia": "10/08",
+    "desde": "13:26",
+    "ts": 1786379195601
+   },
+   {
+    "nome": "Flavia",
+    "tel": "5528*****173",
+    "dia": "10/08",
+    "desde": "13:52",
+    "ts": 1786380752783
+   },
+   {
+    "nome": "Achiles Fava",
+    "tel": "5512*****099",
+    "dia": "10/08",
+    "desde": "14:23",
+    "ts": 1786382614169
+   },
+   {
+    "nome": "Cristhian Bellck",
+    "tel": "5579*****642",
+    "dia": "10/08",
+    "desde": "14:50",
+    "ts": 1786384226719
+   },
+   {
     "nome": "Vanessa",
     "tel": "5582*****225",
     "dia": "10/08",
     "desde": "15:37",
     "ts": 1786387070205
-   },
-   {
-    "nome": "Advogada Andreia Rodrigues Morgado",
-    "tel": "5511*****607",
-    "dia": "10/08",
-    "desde": "15:45",
-    "ts": 1786387518594
-   },
-   {
-    "nome": "R0DRIGO",
-    "tel": "5511*****845",
-    "dia": "10/08",
-    "desde": "15:47",
-    "ts": 1786387622802
    }
   ],
   "grupos": [
@@ -307,6 +333,18 @@
     "dia": "10/08",
     "desde": "15:02",
     "ts": 1786384959153
+   },
+   {
+    "grupo": "A.C.B.M x HOSPITAL ALEMÃO OSWALDO CRUZ",
+    "dia": "10/08",
+    "desde": "15:37",
+    "ts": 1786387077130
+   },
+   {
+    "grupo": "C.L.M.D.O x HABIBS",
+    "dia": "10/08",
+    "desde": "16:03",
+    "ts": 1786388580196
    }
   ]
  },
@@ -394,29 +432,29 @@
   ]
  },
  "agora": {
-  "fila": 396,
-  "abertos": 531,
+  "fila": 394,
+  "abertos": 530,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 2,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 1685
+  "ausentes": 4,
+  "espera_media_s": 1689
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T21:37:09.612Z",
-  "min_sem_lead": 14236
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 681348
  },
  "leads": [
   {
-   "nome": "R0DRIGO",
-   "tel": "5511*****845",
-   "criado": "15:47",
+   "nome": "Achiles Fava",
+   "tel": "5512*****099",
+   "criado": "14:23",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.3,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/icKjE81qR",
-   "area": "Nao identificada"
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Advogada Andreia Rodrigues Morgado",
@@ -427,6 +465,17 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "R0DRIGO",
+   "tel": "5511*****845",
+   "criado": "15:47",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/icKjE81qR",
    "area": "Nao identificada"
   },
   {
@@ -441,18 +490,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Achiles Fava",
-   "tel": "5512*****099",
-   "criado": "14:23",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "557991732642",
+   "nome": "Cristhian Bellck",
    "tel": "5579*****642",
    "criado": "14:50",
    "atendente": "Fernanda Gehm - Administradora",
@@ -540,7 +578,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5512991992422",
+   "nome": "edicarloszandonadidopradoedi",
    "tel": "5512*****422",
    "criado": "12:04",
    "atendente": "Fernanda Gehm - Administradora",
@@ -650,7 +688,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5511944949824",
+   "nome": "Jéssica🥰",
    "tel": "5511*****824",
    "criado": "09:52",
    "atendente": "Fernanda Gehm - Administradora",
