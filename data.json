@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/08/2026, 14:52",
+ "gerado_em": "10/08/2026, 15:07",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 286,
-  "tickets_abertos": 526,
+  "tickets_abertos": 525,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -40,11 +40,11 @@
    "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DbwRIUTsccb/",
+   "url": "fb.me/9reIpIGlx",
    "leads": 1
   },
   {
-   "url": "fb.me/9reIpIGlx",
+   "url": "www.instagram.com/p/DbwRIUTsccb/",
    "leads": 1
   },
   {
@@ -65,29 +65,29 @@
   }
  ],
  "areas": {
-  "Trabalhista": 25,
-  "Nao identificada": 4
+  "Nao identificada": 4,
+  "Trabalhista": 25
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 221,
-  "turnos": 525,
-  "respondidos": 513,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
+  "turnos": 530,
+  "respondidos": 519,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 30.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 185,
-    "mediana_min": 40.3
+    "respostas": 190,
+    "mediana_min": 39.6
    },
    {
     "nome": "Nicolas",
-    "respostas": 151,
-    "mediana_min": 55.1
+    "respostas": 152,
+    "mediana_min": 55.7
    },
    {
     "nome": "Gabrielle",
@@ -132,16 +132,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "10/08",
+    "desde": "15:02",
+    "ts": 1786384959153
+   },
+   {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "10/08",
     "desde": "14:30",
     "ts": 1786383051175
-   },
-   {
-    "grupo": "A.E.P x DORGIA CONSTRUCOES LTDA",
-    "dia": "10/08",
-    "desde": "14:26",
-    "ts": 1786382760076
    },
    {
     "grupo": "C.M.D.S.A.B.D.E.P.A.D",
@@ -154,12 +154,6 @@
     "dia": "10/08",
     "desde": "12:56",
     "ts": 1786377407081
-   },
-   {
-    "grupo": "G.D.F.F x R G DE ASSIS LTDA",
-    "dia": "10/08",
-    "desde": "12:24",
-    "ts": 1786375441105
    },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
@@ -252,12 +246,6 @@
     "ts": 1786367829994
    },
    {
-    "grupo": "G.D.F.F x R G DE ASSIS LTDA",
-    "dia": "10/08",
-    "desde": "12:24",
-    "ts": 1786375441105
-   },
-   {
     "grupo": "C.M.D.S.A.B.D.E.P.A.D",
     "dia": "10/08",
     "desde": "12:28",
@@ -270,16 +258,16 @@
     "ts": 1786377407081
    },
    {
-    "grupo": "A.E.P x DORGIA CONSTRUCOES LTDA",
-    "dia": "10/08",
-    "desde": "14:26",
-    "ts": 1786382760076
-   },
-   {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "10/08",
     "desde": "14:30",
     "ts": 1786383051175
+   },
+   {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "10/08",
+    "desde": "15:02",
+    "ts": 1786384959153
    }
   ]
  },
@@ -368,28 +356,28 @@
  },
  "agora": {
   "fila": 395,
-  "abertos": 526,
-  "com_atendimento": 7,
-  "online": 2,
-  "offline": 4,
-  "ausentes": 3,
+  "abertos": 525,
+  "com_atendimento": 6,
+  "online": 4,
+  "offline": 3,
+  "ausentes": 2,
   "espera_media_s": 1693
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T17:50:26.719Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-08-10T11:58:29.310Z",
+  "min_sem_lead": 369
  },
  "leads": [
   {
-   "nome": "557991732642",
-   "tel": "5579*****642",
-   "criado": "14:50",
+   "nome": ".",
+   "tel": "5547*****056",
+   "criado": "08:58",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Achiles Fava",
@@ -403,26 +391,15 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Flavia",
-   "tel": "5528*****173",
-   "criado": "13:52",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbwRIUTsccb/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": ".",
-   "tel": "5547*****056",
-   "criado": "08:58",
+   "nome": "557991732642",
+   "tel": "5579*****642",
+   "criado": "14:50",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Adriana Pitman",
@@ -433,6 +410,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/9reIpIGlx",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Flavia",
+   "tel": "5528*****173",
+   "criado": "13:52",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbwRIUTsccb/",
    "area": "Trabalhista"
   },
   {
