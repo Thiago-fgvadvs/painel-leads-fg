@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/08/2026, 11:48",
+ "gerado_em": "10/08/2026, 12:04",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 276,
-  "tickets_abertos": 515,
+  "tickets_abertos": 516,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -53,16 +53,16 @@
   }
  ],
  "areas": {
-  "Trabalhista": 16,
-  "Nao identificada": 3
+  "Nao identificada": 3,
+  "Trabalhista": 16
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 215,
-  "turnos": 508,
-  "respondidos": 497,
+  "turnos": 509,
+  "respondidos": 498,
   "sem_resposta": 11,
   "sem_resposta_grupos": 11,
   "mediana_min": 30.3,
@@ -114,22 +114,22 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 5,
-    "mediana_min": 224
+    "respostas": 6,
+    "mediana_min": 150.3
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "P.D.C.L x WMB SUPERMERCADOS DO BRASIL LTDA",
+    "dia": "10/08",
+    "desde": "11:53",
+    "ts": 1786373581027
+   },
    {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "10/08",
     "desde": "11:47",
     "ts": 1786373265080
-   },
-   {
-    "grupo": "P.D.C.L x WMB SUPERMERCADOS DO BRASIL LTDA",
-    "dia": "10/08",
-    "desde": "11:42",
-    "ts": 1786372965077
    },
    {
     "grupo": "E.K.D.E.R x AMIDA INFORMACOES CADASTRAIS LTDA",
@@ -246,16 +246,16 @@
     "ts": 1786372331044
    },
    {
-    "grupo": "P.D.C.L x WMB SUPERMERCADOS DO BRASIL LTDA",
-    "dia": "10/08",
-    "desde": "11:42",
-    "ts": 1786372965077
-   },
-   {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "10/08",
     "desde": "11:47",
     "ts": 1786373265080
+   },
+   {
+    "grupo": "P.D.C.L x WMB SUPERMERCADOS DO BRASIL LTDA",
+    "dia": "10/08",
+    "desde": "11:53",
+    "ts": 1786373581027
    }
   ]
  },
@@ -344,28 +344,28 @@
  },
  "agora": {
   "fila": 384,
-  "abertos": 515,
+  "abertos": 516,
   "com_atendimento": 5,
-  "online": 6,
+  "online": 1,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 1731
+  "ausentes": 5,
+  "espera_media_s": 1727
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-07T22:23:03.243Z",
-  "min_sem_lead": 3866
+  "ultimo_lead_at": "2026-08-08T23:00:14.255Z",
+  "min_sem_lead": 2404
  },
  "leads": [
   {
-   "nome": "Cinthya Santos",
-   "tel": "5588*****708",
-   "criado": "11:09",
+   "nome": ".",
+   "tel": "5547*****056",
+   "criado": "08:58",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Yamileth❣️",
@@ -379,9 +379,9 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "558194251945",
-   "tel": "5581*****945",
-   "criado": "11:00",
+   "nome": "Cinthya Santos",
+   "tel": "5588*****708",
+   "criado": "11:09",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
@@ -390,15 +390,15 @@
    "area": "Trabalhista"
   },
   {
-   "nome": ".",
-   "tel": "5547*****056",
-   "criado": "08:58",
+   "nome": "Gilberto Sousa 🙈🙉🙊",
+   "tel": "5581*****945",
+   "criado": "11:00",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Edna",
