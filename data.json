@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/08/2026, 18:56",
+ "gerado_em": "10/08/2026, 19:11",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -289,13 +289,22 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 8,
+  "total": 9,
   "por_vendedor": {
+   "Roseli": 4,
    "Eduardo": 3,
-   "Roseli": 3,
    "Tiago Bernardo": 2
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "C",
+    "dia": "10/08",
+    "hora": "18:58",
+    "ts": 1786399120665,
+    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Eduardo",
     "cliente": "D",
@@ -374,14 +383,14 @@
   "fila": 339,
   "abertos": 484,
   "com_atendimento": 6,
-  "online": 2,
-  "offline": 7,
+  "online": 0,
+  "offline": 9,
   "ausentes": 0,
   "espera_media_s": 1887
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T21:32:54.900Z",
-  "min_sem_lead": 23
+  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
+  "min_sem_lead": 10631
  },
  "leads": [
   {
