@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/08/2026, 13:14",
+ "gerado_em": "11/08/2026, 13:29",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.3,
   "leads_7d": 273,
-  "tickets_abertos": 537,
+  "tickets_abertos": 539,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -73,7 +73,7 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 210,
+  "grupos_ativos": 212,
   "turnos": 514,
   "respondidos": 502,
   "sem_resposta": 12,
@@ -378,18 +378,29 @@
  },
  "agora": {
   "fila": 378,
-  "abertos": 537,
+  "abertos": 539,
   "com_atendimento": 7,
-  "online": 3,
+  "online": 4,
   "offline": 2,
-  "ausentes": 4,
-  "espera_media_s": 1698
+  "ausentes": 3,
+  "espera_media_s": 1694
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T15:32:21.102Z",
-  "min_sem_lead": 42
+  "ultimo_lead_at": "2026-07-31T15:37:56.989Z",
+  "min_sem_lead": 15892
  },
  "leads": [
+  {
+   "nome": "miguel",
+   "tel": "5519*****286",
+   "criado": "11:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "Tatyana Freitas",
    "tel": "5573*****649",
@@ -410,17 +421,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7a58KGmA0",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "miguel",
-   "tel": "5519*****286",
-   "criado": "11:55",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Trabalhista"
   },
   {
