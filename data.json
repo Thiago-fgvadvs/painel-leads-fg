@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/08/2026, 18:20",
+ "gerado_em": "11/08/2026, 18:35",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
-  "no_sla": 26,
+  "total": 35,
+  "no_sla": 27,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 288,
-  "tickets_abertos": 536,
+  "leads_7d": 290,
+  "tickets_abertos": 538,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 32,
+   "leads": 33,
    "mediana_min": 0.4
   },
   {
@@ -27,8 +27,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 28,
-  "Direto/Indicacao": 5
+  "Anuncio": 29,
+  "Direto/Indicacao": 6
  },
  "criativos": [
   {
@@ -36,16 +36,20 @@
    "leads": 6
   },
   {
+   "url": "fb.me/annW3H6uu",
+   "leads": 4
+  },
+  {
    "url": "fb.me/7a58KGmA0",
    "leads": 4
   },
   {
-   "url": "fb.me/annW3H6uu",
-   "leads": 3
-  },
-  {
    "url": "fb.me/6bZ2VUBug",
    "leads": 2
+  },
+  {
+   "url": "fb.me/4RpRFqGbv",
+   "leads": 1
   },
   {
    "url": "fb.me/9ikHrVLv1",
@@ -58,15 +62,11 @@
   {
    "url": "www.instagram.com/p/DbyvboFsQ2p/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbytebJsx75/",
-   "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 26,
-  "Nao identificada": 5,
+  "Nao identificada": 7,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -74,11 +74,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 219,
-  "turnos": 573,
-  "respondidos": 564,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 28.7,
+  "turnos": 576,
+  "respondidos": 566,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 28.4,
   "atendentes": [
    {
     "nome": "Julia",
@@ -117,7 +117,7 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 19,
+    "respostas": 21,
     "mediana_min": 4.8
    },
    {
@@ -132,6 +132,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
+    "dia": "11/08",
+    "desde": "18:29",
+    "ts": 1786483752959
+   },
    {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "11/08",
@@ -190,7 +196,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "558388739476",
+    "tel": "5583*****476",
+    "dia": "11/08",
+    "desde": "18:35",
+    "ts": 1786484116367
+   }
+  ],
   "grupos": [
    {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
@@ -245,6 +259,12 @@
     "dia": "11/08",
     "desde": "12:34",
     "ts": 1786462475656
+   },
+   {
+    "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
+    "dia": "11/08",
+    "desde": "18:29",
+    "ts": 1786483752959
    }
   ]
  },
@@ -386,23 +406,56 @@
   ]
  },
  "agora": {
-  "fila": 390,
-  "abertos": 536,
+  "fila": 392,
+  "abertos": 538,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 6,
+  "online": 1,
+  "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 1286
+  "espera_media_s": 1280
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-20T17:22:29.954Z",
-  "min_sem_lead": 119758
+  "ultimo_lead_at": "2026-08-11T20:54:56.781Z",
+  "min_sem_lead": 40
  },
  "leads": [
   {
-   "nome": "Pássaro De Fogo",
-   "tel": "5575*****520",
-   "criado": "18:07",
+   "nome": "Nerci",
+   "tel": "5542*****188",
+   "criado": "06:44",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5521991356695",
+   "tel": "5521*****695",
+   "criado": "18:34",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "miguel",
+   "tel": "5519*****286",
+   "criado": "11:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Expedito",
+   "tel": "5511*****326",
+   "criado": "17:54",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
@@ -411,9 +464,20 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Expedito",
-   "tel": "5511*****326",
-   "criado": "17:54",
+   "nome": "Aveni",
+   "tel": "5547*****609",
+   "criado": "14:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9ikHrVLv1",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Pássaro De Fogo",
+   "tel": "5575*****520",
+   "criado": "18:07",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
@@ -431,17 +495,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Aveni",
-   "tel": "5547*****609",
-   "criado": "14:59",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9ikHrVLv1",
-   "area": "Trabalhista"
   },
   {
    "nome": "Luiz Antonio",
@@ -554,17 +607,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "miguel",
-   "tel": "5519*****286",
-   "criado": "11:55",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Fernando",
    "tel": "5567*****761",
    "criado": "14:25",
@@ -639,17 +681,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h6EcMD9Q/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Nerci",
-   "tel": "5542*****188",
-   "criado": "06:44",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4RpRFqGbv",
    "area": "Trabalhista"
   },
   {
@@ -761,6 +792,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbwOTH9sH8t/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "558388739476",
+   "tel": "5583*****476",
+   "criado": "18:35",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
