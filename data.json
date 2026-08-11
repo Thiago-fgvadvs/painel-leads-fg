@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/08/2026, 11:18",
+ "gerado_em": "11/08/2026, 11:28",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 266,
-  "tickets_abertos": 528,
+  "tickets_abertos": 527,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -75,15 +75,15 @@
   "dias": 7,
   "grupos_ativos": 206,
   "turnos": 493,
-  "respondidos": 483,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "respondidos": 484,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 29.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 202,
-    "mediana_min": 38.9
+    "respostas": 203,
+    "mediana_min": 38.8
    },
    {
     "nome": "Nicolas",
@@ -137,12 +137,6 @@
     "dia": "05/08",
     "desde": "12:31",
     "ts": 1785943870440
-   },
-   {
-    "grupo": "E.V.D.A x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
-    "dia": "11/08",
-    "desde": "10:57",
-    "ts": 1786456645622
    },
    {
     "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
@@ -251,12 +245,6 @@
     "dia": "11/08",
     "desde": "10:36",
     "ts": 1786455375542
-   },
-   {
-    "grupo": "E.V.D.A x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
-    "dia": "11/08",
-    "desde": "10:57",
-    "ts": 1786456645622
    }
   ]
  },
@@ -354,16 +342,16 @@
  },
  "agora": {
   "fila": 371,
-  "abertos": 528,
+  "abertos": 527,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 1728
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-04T17:11:20.220Z",
-  "min_sem_lead": 9907
+  "min_sem_lead": 9917
  },
  "leads": [
   {
