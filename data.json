@@ -1,31 +1,35 @@
 {
- "gerado_em": "11/08/2026, 07:14",
+ "gerado_em": "11/08/2026, 07:30",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
+  "total": 7,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 5,
+  "fora_horario": 7,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 260,
-  "tickets_abertos": 513,
+  "leads_7d": 262,
+  "tickets_abertos": 515,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 5,
+   "leads": 7,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 7,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/7tRJWUSsI",
+   "leads": 2
+  },
   {
    "url": "fb.me/4RpRFqGbv",
    "leads": 1
@@ -48,7 +52,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
+  "Trabalhista": 6,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -314,17 +318,17 @@
   ]
  },
  "agora": {
-  "fila": 368,
-  "abertos": 513,
+  "fila": 370,
+  "abertos": 515,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1763
+  "espera_media_s": 1755
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-11T09:44:53.287Z",
-  "min_sem_lead": 30
+  "min_sem_lead": 45
  },
  "leads": [
   {
@@ -336,6 +340,28 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Niltom Gonçalves",
+   "tel": "5518*****631",
+   "criado": "07:27",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554999024167",
+   "tel": "5549*****167",
+   "criado": "07:19",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
    "area": "Trabalhista"
   },
   {
