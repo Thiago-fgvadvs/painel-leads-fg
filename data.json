@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/08/2026, 13:29",
+ "gerado_em": "11/08/2026, 13:45",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
-  "no_sla": 11,
+  "total": 19,
+  "no_sla": 12,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
-  "mediana_geral": 0.3,
-  "leads_7d": 273,
-  "tickets_abertos": 539,
+  "mediana_geral": 0.4,
+  "leads_7d": 274,
+  "tickets_abertos": 541,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 17,
+   "leads": 18,
    "mediana_min": 0.3
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 15,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
+  "Nao identificada": 2,
   "Trabalhista": 16,
-  "Nao identificada": 1,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -74,11 +74,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 212,
-  "turnos": 514,
-  "respondidos": 502,
+  "turnos": 515,
+  "respondidos": 503,
   "sem_resposta": 12,
   "sem_resposta_grupos": 12,
-  "mediana_min": 29.9,
+  "mediana_min": 30,
   "atendentes": [
    {
     "nome": "Julia",
@@ -92,8 +92,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 42,
-    "mediana_min": 11.8
+    "respostas": 43,
+    "mediana_min": 12.9
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -133,6 +133,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
+    "dia": "11/08",
+    "desde": "13:36",
+    "ts": 1786466190719
+   },
+   {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
     "dia": "11/08",
     "desde": "12:24",
@@ -149,12 +155,6 @@
     "dia": "11/08",
     "desde": "12:08",
     "ts": 1786460907593
-   },
-   {
-    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
-    "dia": "11/08",
-    "desde": "12:02",
-    "ts": 1786460570627
    },
    {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
@@ -265,12 +265,6 @@
     "ts": 1786458946639
    },
    {
-    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
-    "dia": "11/08",
-    "desde": "12:02",
-    "ts": 1786460570627
-   },
-   {
     "grupo": "E.M.D.S x ZAMP S.A.",
     "dia": "11/08",
     "desde": "12:08",
@@ -281,6 +275,12 @@
     "dia": "11/08",
     "desde": "12:24",
     "ts": 1786461848599
+   },
+   {
+    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
+    "dia": "11/08",
+    "desde": "13:36",
+    "ts": 1786466190719
    }
   ]
  },
@@ -377,19 +377,30 @@
   ]
  },
  "agora": {
-  "fila": 378,
-  "abertos": 539,
+  "fila": 380,
+  "abertos": 541,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 5,
   "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 1694
+  "ausentes": 2,
+  "espera_media_s": 1687
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T15:37:56.989Z",
-  "min_sem_lead": 15892
+  "ultimo_lead_at": "2026-05-25T16:03:33.516Z",
+  "min_sem_lead": 112362
  },
  "leads": [
+  {
+   "nome": "553497754972",
+   "tel": "5534*****972",
+   "criado": "13:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "miguel",
    "tel": "5519*****286",
