@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/08/2026, 17:49",
+ "gerado_em": "11/08/2026, 18:04",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 31,
-  "no_sla": 24,
+  "total": 32,
+  "no_sla": 25,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 286,
+  "leads_7d": 287,
   "tickets_abertos": 535,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 30,
+   "leads": 31,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 26,
+  "Anuncio": 27,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -36,15 +36,15 @@
    "leads": 6
   },
   {
+   "url": "fb.me/7a58KGmA0",
+   "leads": 3
+  },
+  {
    "url": "fb.me/annW3H6uu",
    "leads": 3
   },
   {
    "url": "fb.me/6bZ2VUBug",
-   "leads": 2
-  },
-  {
-   "url": "fb.me/7a58KGmA0",
    "leads": 2
   },
   {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
+  "Trabalhista": 25,
   "Nao identificada": 5,
-  "Trabalhista": 24,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -74,16 +74,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 570,
-  "respondidos": 559,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
-  "mediana_min": 29.2,
+  "turnos": 572,
+  "respondidos": 562,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 28.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 233,
-    "mediana_min": 47.3
+    "respostas": 234,
+    "mediana_min": 47.2
    },
    {
     "nome": "Nicolas",
@@ -117,7 +117,7 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 17,
+    "respostas": 19,
     "mediana_min": 4.8
    },
    {
@@ -132,12 +132,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
-    "dia": "11/08",
-    "desde": "17:47",
-    "ts": 1786481226884
-   },
    {
     "grupo": "A.M x INSS",
     "dia": "11/08",
@@ -263,24 +257,27 @@
     "dia": "11/08",
     "desde": "17:33",
     "ts": 1786480392918
-   },
-   {
-    "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
-    "dia": "11/08",
-    "desde": "17:47",
-    "ts": 1786481226884
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 12,
+  "total": 13,
   "por_vendedor": {
+   "Tiago Bernardo": 4,
    "Roseli": 6,
-   "Eduardo": 3,
-   "Tiago Bernardo": 3
+   "Eduardo": 3
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "S",
+    "dia": "11/08",
+    "hora": "17:58",
+    "ts": 1786481890938,
+    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "H",
@@ -392,19 +389,30 @@
   ]
  },
  "agora": {
-  "fila": 387,
+  "fila": 388,
   "abertos": 535,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 4,
   "offline": 4,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 1286
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-08T23:00:09.780Z",
-  "min_sem_lead": 4189
+  "ultimo_lead_at": "2026-08-11T20:54:56.781Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "Expedito",
+   "tel": "5511*****326",
+   "criado": "17:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7a58KGmA0",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Elio Dias",
    "tel": "5534*****972",
