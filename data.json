@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/08/2026, 15:47",
+ "gerado_em": "11/08/2026, 16:02",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
-  "no_sla": 18,
+  "total": 27,
+  "no_sla": 20,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 280,
-  "tickets_abertos": 547,
+  "leads_7d": 282,
+  "tickets_abertos": 548,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 24,
+   "leads": 26,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 23,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -44,6 +44,14 @@
    "leads": 2
   },
   {
+   "url": "fb.me/7VvbFaWie",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DbyvboFsQ2p/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/9ikHrVLv1",
    "leads": 1
   },
@@ -54,18 +62,10 @@
   {
    "url": "fb.me/87jYMAhSB",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Db3h6EcMD9Q/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/4RpRFqGbv",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 21,
+  "Trabalhista": 23,
   "Nao identificada": 3,
   "Previdenciario": 1
  },
@@ -73,12 +73,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 213,
-  "turnos": 550,
-  "respondidos": 539,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
-  "mediana_min": 29.6,
+  "grupos_ativos": 214,
+  "turnos": 552,
+  "respondidos": 540,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
+  "mediana_min": 29.7,
   "atendentes": [
    {
     "nome": "Julia",
@@ -117,8 +117,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 15,
-    "mediana_min": 4.8
+    "respostas": 16,
+    "mediana_min": 5.4
    },
    {
     "nome": "Tiago Bernardo",
@@ -132,6 +132,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E",
+    "dia": "11/08",
+    "desde": "15:57",
+    "ts": 1786474635852
+   },
    {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
     "dia": "11/08",
@@ -269,6 +275,12 @@
     "dia": "11/08",
     "desde": "12:34",
     "ts": 1786462475656
+   },
+   {
+    "grupo": "E",
+    "dia": "11/08",
+    "desde": "15:57",
+    "ts": 1786474635852
    }
   ]
  },
@@ -383,19 +395,41 @@
   ]
  },
  "agora": {
-  "fila": 387,
-  "abertos": 547,
-  "com_atendimento": 8,
-  "online": 5,
+  "fila": 388,
+  "abertos": 548,
+  "com_atendimento": 7,
+  "online": 4,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 1665
+  "ausentes": 2,
+  "espera_media_s": 1658
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-27T19:26:26.196Z",
-  "min_sem_lead": 109401
+  "ultimo_lead_at": "2026-08-08T23:00:09.780Z",
+  "min_sem_lead": 4082
  },
  "leads": [
+  {
+   "nome": "Luiz Antonio",
+   "tel": "5554*****243",
+   "criado": "15:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 1.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7VvbFaWie",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553190641868",
+   "tel": "5531*****868",
+   "criado": "15:56",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyvboFsQ2p/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Aveni",
    "tel": "5547*****609",
