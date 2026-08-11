@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/08/2026, 15:01",
+ "gerado_em": "11/08/2026, 15:16",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 279,
-  "tickets_abertos": 546,
+  "tickets_abertos": 544,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -74,21 +74,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 213,
-  "turnos": 534,
-  "respondidos": 520,
-  "sem_resposta": 14,
-  "sem_resposta_grupos": 14,
-  "mediana_min": 30.4,
+  "turnos": 537,
+  "respondidos": 525,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
+  "mediana_min": 30.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 222,
-    "mediana_min": 49.8
+    "respostas": 223,
+    "mediana_min": 50.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 132,
-    "mediana_min": 39.7
+    "respostas": 133,
+    "mediana_min": 40.3
    },
    {
     "nome": "Eduardo",
@@ -96,14 +96,14 @@
     "mediana_min": 13.7
    },
    {
+    "nome": "Thauany",
+    "respostas": 29,
+    "mediana_min": 0.5
+   },
+   {
     "nome": "Fernanda Gehm - Administradora",
     "respostas": 27,
     "mediana_min": 1385.7
-   },
-   {
-    "nome": "Thauany",
-    "respostas": 26,
-    "mediana_min": 0.5
    },
    {
     "nome": "Gabrielle",
@@ -133,12 +133,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "B.V.S.L x AEC CENTRO DE CONTATOS S A",
-    "dia": "11/08",
-    "desde": "14:34",
-    "ts": 1786469687756
-   },
-   {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
     "dia": "11/08",
     "desde": "12:24",
@@ -149,12 +143,6 @@
     "dia": "11/08",
     "desde": "12:34",
     "ts": 1786462475656
-   },
-   {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
-    "dia": "07/08",
-    "desde": "10:35",
-    "ts": 1786109715084
    },
    {
     "grupo": "E.M.D.S x ZAMP S.A.",
@@ -223,12 +211,6 @@
   "leads": [],
   "grupos": [
    {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
-    "dia": "07/08",
-    "desde": "10:35",
-    "ts": 1786109715084
-   },
-   {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
     "dia": "07/08",
     "desde": "12:26",
@@ -299,24 +281,27 @@
     "dia": "11/08",
     "desde": "12:34",
     "ts": 1786462475656
-   },
-   {
-    "grupo": "B.V.S.L x AEC CENTRO DE CONTATOS S A",
-    "dia": "11/08",
-    "desde": "14:34",
-    "ts": 1786469687756
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 10,
+  "total": 11,
   "por_vendedor": {
-   "Roseli": 4,
+   "Roseli": 5,
    "Eduardo": 3,
    "Tiago Bernardo": 3
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "M",
+    "dia": "11/08",
+    "hora": "15:08",
+    "ts": 1786471731844,
+    "origem": "Outros",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Roseli",
     "cliente": "K.R",
@@ -410,21 +395,21 @@
   ]
  },
  "agora": {
-  "fila": 384,
-  "abertos": 546,
+  "fila": 385,
+  "abertos": 544,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 4,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 1669
+  "ausentes": 3,
+  "espera_media_s": 1673
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T17:59:43.161Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-08-11T00:37:04.850Z",
+  "min_sem_lead": 1060
  },
  "leads": [
   {
-   "nome": "554797266609",
+   "nome": "Aveni",
    "tel": "5547*****609",
    "criado": "14:59",
    "atendente": "Fernanda Gehm - Administradora",
@@ -432,6 +417,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/9ikHrVLv1",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Wagner Odilon Constantino",
+   "tel": "5511*****562",
+   "criado": "11:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "miguel",
+   "tel": "5519*****286",
+   "criado": "11:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -454,17 +461,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/annW3H6uu",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "miguel",
-   "tel": "5519*****286",
-   "criado": "11:55",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -553,17 +549,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4RpRFqGbv",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Wagner Odilon Constantino",
-   "tel": "5511*****562",
-   "criado": "11:49",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7tRJWUSsI",
    "area": "Trabalhista"
   },
   {
