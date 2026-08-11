@@ -1,23 +1,23 @@
 {
- "gerado_em": "10/08/2026, 21:28",
+ "gerado_em": "10/08/2026, 21:44",
  "data_ref": "10/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 54,
+  "total": 55,
   "no_sla": 36,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 16,
+  "fora_horario": 17,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 311,
-  "tickets_abertos": 499,
+  "leads_7d": 312,
+  "tickets_abertos": 500,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 49,
+   "leads": 50,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 44,
+  "Anuncio": 45,
   "Direto/Indicacao": 10
  },
  "criativos": [
@@ -65,12 +65,13 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/Db0bjh_M6vL/",
+   "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 43,
+  "Previdenciario": 1,
   "Nao identificada": 11
  },
  "sem_resposta_lista": [],
@@ -365,17 +366,17 @@
   ]
  },
  "agora": {
-  "fila": 354,
-  "abertos": 499,
+  "fila": 355,
+  "abertos": 500,
   "com_atendimento": 6,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1821
+  "espera_media_s": 1817
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-11T00:23:58.067Z",
-  "min_sem_lead": 5
+  "min_sem_lead": 20
  },
  "leads": [
   {
@@ -387,6 +388,28 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h15Hso0z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Marcos De abreu",
+   "tel": "5511*****861",
+   "criado": "21:37",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "555196322884",
+   "tel": "5551*****884",
+   "criado": "20:25",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/fljy4QK1m",
    "area": "Trabalhista"
   },
   {
@@ -431,17 +454,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "555196322884",
-   "tel": "5551*****884",
-   "criado": "20:25",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.6,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/fljy4QK1m",
    "area": "Trabalhista"
   },
   {
