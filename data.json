@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/08/2026, 18:04",
+ "gerado_em": "11/08/2026, 18:20",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 32,
-  "no_sla": 25,
+  "total": 33,
+  "no_sla": 26,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 287,
-  "tickets_abertos": 535,
+  "leads_7d": 288,
+  "tickets_abertos": 536,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 31,
+   "leads": 32,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 27,
+  "Anuncio": 28,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -37,7 +37,7 @@
   },
   {
    "url": "fb.me/7a58KGmA0",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/annW3H6uu",
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 25,
+  "Trabalhista": 26,
   "Nao identificada": 5,
   "Previdenciario": 2
  },
@@ -73,11 +73,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 218,
-  "turnos": 572,
-  "respondidos": 562,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "grupos_ativos": 219,
+  "turnos": 573,
+  "respondidos": 564,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 28.7,
   "atendentes": [
    {
@@ -87,8 +87,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 143,
-    "mediana_min": 37.4
+    "respostas": 144,
+    "mediana_min": 38.2
    },
    {
     "nome": "Eduardo",
@@ -121,23 +121,17 @@
     "mediana_min": 4.8
    },
    {
+    "nome": "—",
+    "respostas": 3,
+    "mediana_min": 0.4
+   },
+   {
     "nome": "Tiago Bernardo",
     "respostas": 2,
     "mediana_min": 23.3
-   },
-   {
-    "nome": "—",
-    "respostas": 2,
-    "mediana_min": 1.2
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "A.M x INSS",
-    "dia": "11/08",
-    "desde": "17:33",
-    "ts": 1786480392918
-   },
    {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "11/08",
@@ -251,24 +245,27 @@
     "dia": "11/08",
     "desde": "12:34",
     "ts": 1786462475656
-   },
-   {
-    "grupo": "A.M x INSS",
-    "dia": "11/08",
-    "desde": "17:33",
-    "ts": 1786480392918
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 13,
+  "total": 14,
   "por_vendedor": {
-   "Tiago Bernardo": 4,
+   "Tiago Bernardo": 5,
    "Roseli": 6,
    "Eduardo": 3
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "L",
+    "dia": "11/08",
+    "hora": "18:18",
+    "ts": 1786483101323,
+    "origem": "Anúncio: instagram.com/p/DbZBMoPsjD0/",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "S",
@@ -389,19 +386,30 @@
   ]
  },
  "agora": {
-  "fila": 388,
-  "abertos": 535,
+  "fila": 390,
+  "abertos": 536,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 4,
-  "ausentes": 1,
+  "online": 3,
+  "offline": 6,
+  "ausentes": 0,
   "espera_media_s": 1286
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T20:54:56.781Z",
-  "min_sem_lead": 10
+  "ultimo_lead_at": "2026-05-20T17:22:29.954Z",
+  "min_sem_lead": 119758
  },
  "leads": [
+  {
+   "nome": "Pássaro De Fogo",
+   "tel": "5575*****520",
+   "criado": "18:07",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7a58KGmA0",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Expedito",
    "tel": "5511*****326",
