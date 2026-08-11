@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/08/2026, 12:59",
+ "gerado_em": "11/08/2026, 13:14",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.3,
   "leads_7d": 273,
-  "tickets_abertos": 535,
+  "tickets_abertos": 537,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -74,10 +74,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 210,
-  "turnos": 513,
+  "turnos": 514,
   "respondidos": 502,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
   "mediana_min": 29.9,
   "atendentes": [
    {
@@ -137,6 +137,12 @@
     "dia": "11/08",
     "desde": "12:24",
     "ts": 1786461848599
+   },
+   {
+    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
+    "dia": "07/08",
+    "desde": "10:35",
+    "ts": 1786109715084
    },
    {
     "grupo": "E.M.D.S x ZAMP S.A.",
@@ -204,6 +210,12 @@
   "dias": 7,
   "leads": [],
   "grupos": [
+   {
+    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
+    "dia": "07/08",
+    "desde": "10:35",
+    "ts": 1786109715084
+   },
    {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
     "dia": "07/08",
@@ -365,28 +377,28 @@
   ]
  },
  "agora": {
-  "fila": 377,
-  "abertos": 535,
+  "fila": 378,
+  "abertos": 537,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 3,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 1702
+  "ausentes": 4,
+  "espera_media_s": 1698
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T15:56:07.541Z",
-  "min_sem_lead": 3
+  "ultimo_lead_at": "2026-08-11T15:32:21.102Z",
+  "min_sem_lead": 42
  },
  "leads": [
   {
-   "nome": "Rosimary",
-   "tel": "5521*****559",
-   "criado": "12:19",
+   "nome": "Tatyana Freitas",
+   "tel": "5573*****649",
+   "criado": "12:32",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
+   "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/annW3H6uu",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -412,6 +424,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "Rosimary",
+   "tel": "5521*****559",
+   "criado": "12:19",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "5517981274381",
    "tel": "5517*****381",
    "criado": "12:35",
@@ -420,17 +443,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h6EcMD9Q/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Tatyana Freitas",
-   "tel": "5573*****649",
-   "criado": "12:32",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Trabalhista"
   },
   {
