@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/08/2026, 16:02",
+ "gerado_em": "11/08/2026, 16:17",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
-  "no_sla": 20,
+  "total": 28,
+  "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 282,
-  "tickets_abertos": 548,
+  "leads_7d": 283,
+  "tickets_abertos": 541,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 26,
+   "leads": 27,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 24,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -48,7 +48,7 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DbyvboFsQ2p/",
+   "url": "fb.me/6bZ2VUBug",
    "leads": 1
   },
   {
@@ -56,17 +56,17 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DbytebJsx75/",
+   "url": "www.instagram.com/p/DbyvboFsQ2p/",
    "leads": 1
   },
   {
-   "url": "fb.me/87jYMAhSB",
+   "url": "www.instagram.com/p/DbytebJsx75/",
    "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 23,
-  "Nao identificada": 3,
+  "Nao identificada": 4,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -75,10 +75,10 @@
   "dias": 7,
   "grupos_ativos": 214,
   "turnos": 552,
-  "respondidos": 540,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 29.7,
+  "respondidos": 541,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 29.8,
   "atendentes": [
    {
     "nome": "Julia",
@@ -87,8 +87,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 133,
-    "mediana_min": 40.3
+    "respostas": 134,
+    "mediana_min": 40.5
    },
    {
     "nome": "Eduardo",
@@ -137,12 +137,6 @@
     "dia": "11/08",
     "desde": "15:57",
     "ts": 1786474635852
-   },
-   {
-    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
-    "dia": "11/08",
-    "desde": "12:24",
-    "ts": 1786461848599
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
@@ -263,12 +257,6 @@
     "dia": "11/08",
     "desde": "12:08",
     "ts": 1786460907593
-   },
-   {
-    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
-    "dia": "11/08",
-    "desde": "12:24",
-    "ts": 1786461848599
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
@@ -395,17 +383,17 @@
   ]
  },
  "agora": {
-  "fila": 388,
-  "abertos": 548,
+  "fila": 389,
+  "abertos": 541,
   "com_atendimento": 7,
   "online": 4,
-  "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 1658
+  "offline": 2,
+  "ausentes": 3,
+  "espera_media_s": 1673
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-08T23:00:09.780Z",
-  "min_sem_lead": 4082
+  "min_sem_lead": 4097
  },
  "leads": [
   {
@@ -420,14 +408,25 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "553190641868",
-   "tel": "5531*****868",
-   "criado": "15:56",
+   "nome": "Jerusa",
+   "tel": "5589*****422",
+   "criado": "16:13",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
+   "espera_min": 0.3,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbyvboFsQ2p/",
+   "criativo": "fb.me/6bZ2VUBug",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Rosimary",
+   "tel": "5521*****559",
+   "criado": "12:19",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
    "area": "Trabalhista"
   },
   {
@@ -439,6 +438,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/9ikHrVLv1",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553190641868",
+   "tel": "5531*****868",
+   "criado": "15:56",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyvboFsQ2p/",
    "area": "Trabalhista"
   },
   {
@@ -549,17 +559,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7a58KGmA0",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Rosimary",
-   "tel": "5521*****559",
-   "criado": "12:19",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/annW3H6uu",
    "area": "Trabalhista"
   },
   {
