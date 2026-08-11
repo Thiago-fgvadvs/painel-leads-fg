@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/08/2026, 15:31",
+ "gerado_em": "11/08/2026, 15:47",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
-  "no_sla": 17,
+  "total": 25,
+  "no_sla": 18,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 279,
-  "tickets_abertos": 546,
+  "leads_7d": 280,
+  "tickets_abertos": 547,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 23,
+   "leads": 24,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -48,6 +48,10 @@
    "leads": 1
   },
   {
+   "url": "www.instagram.com/p/DbytebJsx75/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/87jYMAhSB",
    "leads": 1
   },
@@ -58,14 +62,10 @@
   {
    "url": "fb.me/4RpRFqGbv",
    "leads": 1
-  },
-  {
-   "url": "fb.me/8DNq9ICGB",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 20,
+  "Trabalhista": 21,
   "Nao identificada": 3,
   "Previdenciario": 1
  },
@@ -74,16 +74,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 213,
-  "turnos": 541,
-  "respondidos": 529,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 30.3,
+  "turnos": 550,
+  "respondidos": 539,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 29.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 225,
-    "mediana_min": 50.2
+    "respostas": 227,
+    "mediana_min": 49.4
    },
    {
     "nome": "Nicolas",
@@ -97,7 +97,7 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 31,
+    "respostas": 39,
     "mediana_min": 0.5
    },
    {
@@ -132,12 +132,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
-    "dia": "11/08",
-    "desde": "15:31",
-    "ts": 1786473102757
-   },
    {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
     "dia": "11/08",
@@ -275,12 +269,6 @@
     "dia": "11/08",
     "desde": "12:34",
     "ts": 1786462475656
-   },
-   {
-    "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
-    "dia": "11/08",
-    "desde": "15:31",
-    "ts": 1786473102757
    }
   ]
  },
@@ -395,17 +383,17 @@
   ]
  },
  "agora": {
-  "fila": 385,
-  "abertos": 546,
+  "fila": 387,
+  "abertos": 547,
   "com_atendimento": 8,
-  "online": 6,
-  "offline": 2,
+  "online": 5,
+  "offline": 3,
   "ausentes": 1,
   "espera_media_s": 1665
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-02T14:58:20.744Z",
-  "min_sem_lead": 57813
+  "ultimo_lead_at": "2026-05-27T19:26:26.196Z",
+  "min_sem_lead": 109401
  },
  "leads": [
   {
@@ -417,6 +405,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/9ikHrVLv1",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rafael Boaventura",
+   "tel": "5585*****231",
+   "criado": "15:36",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbytebJsx75/",
    "area": "Trabalhista"
   },
   {
