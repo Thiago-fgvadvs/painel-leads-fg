@@ -1,34 +1,34 @@
 {
- "gerado_em": "11/08/2026, 10:02",
+ "gerado_em": "11/08/2026, 10:17",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 2,
+  "total": 10,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.3,
-  "leads_7d": 264,
-  "tickets_abertos": 521,
+  "leads_7d": 265,
+  "tickets_abertos": 523,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": 0.3
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "fb.me/7tRJWUSsI",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "fb.me/4RpRFqGbv",
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
+  "Trabalhista": 9,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -68,26 +68,26 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 205,
-  "turnos": 472,
-  "respondidos": 463,
+  "turnos": 477,
+  "respondidos": 468,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
-  "mediana_min": 29.8,
+  "mediana_min": 29.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 195,
-    "mediana_min": 40.1
+    "respostas": 197,
+    "mediana_min": 39
    },
    {
     "nome": "Nicolas",
-    "respostas": 120,
+    "respostas": 122,
     "mediana_min": 39.7
    },
    {
     "nome": "Eduardo",
-    "respostas": 34,
-    "mediana_min": 14.4
+    "respostas": 35,
+    "mediana_min": 15
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -127,6 +127,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.E.P x DORGIA CONSTRUCOES LTDA",
+    "dia": "11/08",
+    "desde": "10:13",
+    "ts": 1786454016513
+   },
+   {
     "grupo": "W.O.V x INSS",
     "dia": "11/08",
     "desde": "09:41",
@@ -137,12 +143,6 @@
     "dia": "11/08",
     "desde": "09:01",
     "ts": 1786449662481
-   },
-   {
-    "grupo": "E.M.D.S x ZAMP S.A.",
-    "dia": "07/08",
-    "desde": "10:42",
-    "ts": 1786110175095
    },
    {
     "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
@@ -187,12 +187,6 @@
   "leads": [],
   "grupos": [
    {
-    "grupo": "E.M.D.S x ZAMP S.A.",
-    "dia": "07/08",
-    "desde": "10:42",
-    "ts": 1786110175095
-   },
-   {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
     "dia": "07/08",
     "desde": "12:26",
@@ -239,6 +233,12 @@
     "dia": "11/08",
     "desde": "09:41",
     "ts": 1786452116503
+   },
+   {
+    "grupo": "A.E.P x DORGIA CONSTRUCOES LTDA",
+    "dia": "11/08",
+    "desde": "10:13",
+    "ts": 1786454016513
    }
   ]
  },
@@ -326,21 +326,21 @@
   ]
  },
  "agora": {
-  "fila": 374,
-  "abertos": 521,
+  "fila": 371,
+  "abertos": 523,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 4,
+  "online": 5,
+  "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 1740
+  "espera_media_s": 1736
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-10T13:16:22.154Z",
-  "min_sem_lead": 89266
+  "ultimo_lead_at": "2026-07-04T02:42:18.159Z",
+  "min_sem_lead": 55355
  },
  "leads": [
   {
-   "nome": "5542920014188",
+   "nome": "Nerci",
    "tel": "5542*****188",
    "criado": "06:44",
    "atendente": "Fernanda Gehm - Administradora",
@@ -348,6 +348,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Robson Arruda",
+   "tel": "5514*****204",
+   "criado": "10:14",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
    "area": "Trabalhista"
   },
   {
