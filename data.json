@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/08/2026, 11:28",
+ "gerado_em": "11/08/2026, 11:43",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 4,
+  "total": 12,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
-  "mediana_geral": 0.4,
-  "leads_7d": 266,
+  "mediana_geral": 0.3,
+  "leads_7d": 267,
   "tickets_abertos": 527,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.3
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -37,6 +37,10 @@
   },
   {
    "url": "fb.me/4RpRFqGbv",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/8DNq9ICGB",
    "leads": 1
   },
   {
@@ -58,14 +62,10 @@
   {
    "url": "fb.me/4N9oQabSV",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbwOTH9sH8t/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 10,
   "Nao identificada": 1,
   "Previdenciario": 1
  },
@@ -74,26 +74,26 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 206,
-  "turnos": 493,
-  "respondidos": 484,
+  "turnos": 497,
+  "respondidos": 488,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 29.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 203,
-    "mediana_min": 38.8
+    "respostas": 205,
+    "mediana_min": 39
    },
    {
     "nome": "Nicolas",
-    "respostas": 128,
-    "mediana_min": 38.2
+    "respostas": 129,
+    "mediana_min": 39
    },
    {
     "nome": "Eduardo",
-    "respostas": 37,
-    "mediana_min": 15
+    "respostas": 38,
+    "mediana_min": 14.4
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -133,10 +133,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "P.L.R.J",
-    "dia": "05/08",
-    "desde": "12:31",
-    "ts": 1785943870440
+    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
+    "dia": "11/08",
+    "desde": "11:35",
+    "ts": 1786458946639
    },
    {
     "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
@@ -145,16 +145,16 @@
     "ts": 1786455375542
    },
    {
-    "grupo": "W.O.V x INSS",
-    "dia": "11/08",
-    "desde": "09:41",
-    "ts": 1786452116503
-   },
-   {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
     "dia": "11/08",
     "desde": "09:01",
     "ts": 1786449662481
+   },
+   {
+    "grupo": "D.S.B.C x BANCO BRADESCO",
+    "dia": "11/08",
+    "desde": "09:01",
+    "ts": 1786449666484
    },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
@@ -193,12 +193,6 @@
   "leads": [],
   "grupos": [
    {
-    "grupo": "P.L.R.J",
-    "dia": "05/08",
-    "desde": "12:31",
-    "ts": 1785943870440
-   },
-   {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
     "dia": "07/08",
     "desde": "12:26",
@@ -235,16 +229,22 @@
     "ts": 1786449662481
    },
    {
-    "grupo": "W.O.V x INSS",
+    "grupo": "D.S.B.C x BANCO BRADESCO",
     "dia": "11/08",
-    "desde": "09:41",
-    "ts": 1786452116503
+    "desde": "09:01",
+    "ts": 1786449666484
    },
    {
     "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
     "dia": "11/08",
     "desde": "10:36",
     "ts": 1786455375542
+   },
+   {
+    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
+    "dia": "11/08",
+    "desde": "11:35",
+    "ts": 1786458946639
    }
   ]
  },
@@ -341,17 +341,17 @@
   ]
  },
  "agora": {
-  "fila": 371,
+  "fila": 372,
   "abertos": 527,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 2,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 1728
+  "ausentes": 4,
+  "espera_media_s": 1724
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T17:11:20.220Z",
-  "min_sem_lead": 9917
+  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
+  "min_sem_lead": 21729
  },
  "leads": [
   {
@@ -363,6 +363,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5516981141902",
+   "tel": "5516*****902",
+   "criado": "11:29",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8DNq9ICGB",
    "area": "Trabalhista"
   },
   {
