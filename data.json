@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/08/2026, 09:31",
+ "gerado_em": "11/08/2026, 09:46",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.3,
   "leads_7d": 264,
-  "tickets_abertos": 518,
+  "tickets_abertos": 521,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -67,17 +67,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 204,
-  "turnos": 467,
-  "respondidos": 457,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "grupos_ativos": 205,
+  "turnos": 469,
+  "respondidos": 458,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 29.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 192,
-    "mediana_min": 39.6
+    "respostas": 193,
+    "mediana_min": 40.1
    },
    {
     "nome": "Nicolas",
@@ -127,6 +127,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "W.O.V x INSS",
+    "dia": "11/08",
+    "desde": "09:41",
+    "ts": 1786452116503
+   },
+   {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
     "dia": "11/08",
     "desde": "09:01",
@@ -139,6 +145,12 @@
     "ts": 1786110175095
    },
    {
+    "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "10/08",
+    "desde": "18:15",
+    "ts": 1786396551323
+   },
+   {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "10/08",
     "desde": "17:43",
@@ -149,12 +161,6 @@
     "dia": "10/08",
     "desde": "17:14",
     "ts": 1786392862294
-   },
-   {
-    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
-    "dia": "10/08",
-    "desde": "15:02",
-    "ts": 1786384959153
    },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
@@ -229,12 +235,6 @@
     "ts": 1786367829994
    },
    {
-    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
-    "dia": "10/08",
-    "desde": "15:02",
-    "ts": 1786384959153
-   },
-   {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "10/08",
     "desde": "17:14",
@@ -247,10 +247,22 @@
     "ts": 1786394617236
    },
    {
+    "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "10/08",
+    "desde": "18:15",
+    "ts": 1786396551323
+   },
+   {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
     "dia": "11/08",
     "desde": "09:01",
     "ts": 1786449662481
+   },
+   {
+    "grupo": "W.O.V x INSS",
+    "dia": "11/08",
+    "desde": "09:41",
+    "ts": 1786452116503
    }
   ]
  },
@@ -338,17 +350,17 @@
   ]
  },
  "agora": {
-  "fila": 373,
-  "abertos": 518,
+  "fila": 375,
+  "abertos": 521,
   "com_atendimento": 6,
-  "online": 0,
-  "offline": 9,
-  "ausentes": 0,
-  "espera_media_s": 1743
+  "online": 3,
+  "offline": 5,
+  "ausentes": 1,
+  "espera_media_s": 1740
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-04T02:42:18.159Z",
-  "min_sem_lead": 55309
+  "ultimo_lead_at": "2026-08-10T23:25:08.089Z",
+  "min_sem_lead": 802
  },
  "leads": [
   {
