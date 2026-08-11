@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/08/2026, 14:15",
+ "gerado_em": "11/08/2026, 14:30",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 14,
+  "total": 22,
+  "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 276,
-  "tickets_abertos": 544,
+  "leads_7d": 277,
+  "tickets_abertos": 545,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
    "url": "fb.me/7tRJWUSsI",
-   "leads": 4
+   "leads": 5
   },
   {
    "url": "fb.me/annW3H6uu",
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 17,
+  "Trabalhista": 18,
   "Nao identificada": 3,
   "Previdenciario": 1
  },
@@ -74,16 +74,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 213,
-  "turnos": 517,
-  "respondidos": 505,
+  "turnos": 525,
+  "respondidos": 513,
   "sem_resposta": 12,
   "sem_resposta_grupos": 12,
   "mediana_min": 29.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 213,
-    "mediana_min": 41.5
+    "respostas": 216,
+    "mediana_min": 47.2
    },
    {
     "nome": "Nicolas",
@@ -92,13 +92,18 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 44,
-    "mediana_min": 13.3
+    "respostas": 45,
+    "mediana_min": 13.7
    },
    {
     "nome": "Fernanda Gehm - Administradora",
     "respostas": 27,
     "mediana_min": 1385.7
+   },
+   {
+    "nome": "Thauany",
+    "respostas": 26,
+    "mediana_min": 0.5
    },
    {
     "nome": "Gabrielle",
@@ -109,11 +114,6 @@
     "nome": "Luisa",
     "respostas": 23,
     "mediana_min": 4.8
-   },
-   {
-    "nome": "Thauany",
-    "respostas": 22,
-    "mediana_min": 0.5
    },
    {
     "nome": "Roseli",
@@ -133,16 +133,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.V.P.D.R.D.P",
-    "dia": "11/08",
-    "desde": "13:47",
-    "ts": 1786466859726
-   },
-   {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
     "dia": "11/08",
     "desde": "12:24",
     "ts": 1786461848599
+   },
+   {
+    "grupo": "P.N.C x PORTO SEGURO ATENDIMENTO LTDA",
+    "dia": "11/08",
+    "desde": "13:15",
+    "ts": 1786464902702
    },
    {
     "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
@@ -277,10 +277,10 @@
     "ts": 1786461848599
    },
    {
-    "grupo": "E.V.P.D.R.D.P",
+    "grupo": "P.N.C x PORTO SEGURO ATENDIMENTO LTDA",
     "dia": "11/08",
-    "desde": "13:47",
-    "ts": 1786466859726
+    "desde": "13:15",
+    "ts": 1786464902702
    }
   ]
  },
@@ -386,19 +386,41 @@
   ]
  },
  "agora": {
-  "fila": 381,
-  "abertos": 544,
+  "fila": 382,
+  "abertos": 545,
   "com_atendimento": 8,
   "online": 5,
   "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 1680
+  "espera_media_s": 1676
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-20T17:22:29.954Z",
-  "min_sem_lead": 119513
+  "ultimo_lead_at": "2026-08-11T17:25:29.131Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "Fernando",
+   "tel": "5567*****761",
+   "criado": "14:25",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "miguel",
+   "tel": "5519*****286",
+   "criado": "11:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "Naza Sanches",
    "tel": "5594*****516",
@@ -431,17 +453,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/87jYMAhSB",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "miguel",
-   "tel": "5519*****286",
-   "criado": "11:55",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
   },
   {
    "nome": "Tatyana Freitas",
