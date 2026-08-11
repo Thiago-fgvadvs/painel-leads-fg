@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/08/2026, 16:48",
+ "gerado_em": "11/08/2026, 17:03",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 28,
-  "no_sla": 21,
+  "total": 30,
+  "no_sla": 23,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 283,
-  "tickets_abertos": 535,
+  "leads_7d": 285,
+  "tickets_abertos": 534,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 27,
+   "leads": 29,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 24,
-  "Direto/Indicacao": 4
+  "Anuncio": 25,
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "fb.me/7tRJWUSsI",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "fb.me/annW3H6uu",
@@ -44,11 +44,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/7VvbFaWie",
+   "url": "fb.me/9ikHrVLv1",
    "leads": 1
   },
   {
-   "url": "fb.me/9ikHrVLv1",
+   "url": "fb.me/7VvbFaWie",
    "leads": 1
   },
   {
@@ -65,30 +65,30 @@
   }
  ],
  "areas": {
-  "Trabalhista": 23,
-  "Nao identificada": 4,
-  "Previdenciario": 1
+  "Previdenciario": 2,
+  "Trabalhista": 24,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 216,
-  "turnos": 561,
-  "respondidos": 549,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 29.3,
+  "turnos": 564,
+  "respondidos": 554,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 29.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 227,
-    "mediana_min": 49.4
+    "respostas": 230,
+    "mediana_min": 49.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 140,
-    "mediana_min": 37.2
+    "respostas": 142,
+    "mediana_min": 38.2
    },
    {
     "nome": "Eduardo",
@@ -133,22 +133,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.C.F.D.A.C x DE CRIANCA COMERCIO DE PRODUTOS INFANTINS LTDA",
-    "dia": "11/08",
-    "desde": "16:44",
-    "ts": 1786477464811
-   },
-   {
-    "grupo": "L.R.R x INSS",
-    "dia": "06/08",
-    "desde": "13:19",
-    "ts": 1786033151121
-   },
-   {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "11/08",
     "desde": "11:35",
     "ts": 1786458946639
+   },
+   {
+    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
+    "dia": "11/08",
+    "desde": "16:38",
+    "ts": 1786477082867
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
@@ -161,12 +155,6 @@
     "dia": "11/08",
     "desde": "12:08",
     "ts": 1786460907593
-   },
-   {
-    "grupo": "P.L.R.J",
-    "dia": "11/08",
-    "desde": "12:03",
-    "ts": 1786460600659
    },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
@@ -211,12 +199,6 @@
   "leads": [],
   "grupos": [
    {
-    "grupo": "L.R.R x INSS",
-    "dia": "06/08",
-    "desde": "13:19",
-    "ts": 1786033151121
-   },
-   {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
     "dia": "07/08",
     "desde": "12:26",
@@ -259,12 +241,6 @@
     "ts": 1786458946639
    },
    {
-    "grupo": "P.L.R.J",
-    "dia": "11/08",
-    "desde": "12:03",
-    "ts": 1786460600659
-   },
-   {
     "grupo": "E.M.D.S x ZAMP S.A.",
     "dia": "11/08",
     "desde": "12:08",
@@ -277,10 +253,10 @@
     "ts": 1786462475656
    },
    {
-    "grupo": "M.C.F.D.A.C x DE CRIANCA COMERCIO DE PRODUTOS INFANTINS LTDA",
+    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
     "dia": "11/08",
-    "desde": "16:44",
-    "ts": 1786477464811
+    "desde": "16:38",
+    "ts": 1786477082867
    }
   ]
  },
@@ -395,28 +371,50 @@
   ]
  },
  "agora": {
-  "fila": 388,
-  "abertos": 535,
+  "fila": 389,
+  "abertos": 534,
   "com_atendimento": 7,
-  "online": 7,
-  "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 1694
+  "online": 5,
+  "offline": 2,
+  "ausentes": 2,
+  "espera_media_s": 1684
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-21T17:13:02.618Z",
-  "min_sem_lead": 118235
+  "ultimo_lead_at": "2026-08-11T19:50:40.570Z",
+  "min_sem_lead": 13
  },
  "leads": [
   {
-   "nome": "Luiz Antonio",
-   "tel": "5554*****243",
-   "criado": "15:55",
+   "nome": "Josenildo Silva",
+   "tel": "5511*****910",
+   "criado": "16:50",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 1.3,
+   "espera_min": 0.7,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/7VvbFaWie",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "556499503933",
+   "tel": "5564*****933",
+   "criado": "16:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rosimary",
+   "tel": "5521*****559",
+   "criado": "12:19",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
    "area": "Trabalhista"
   },
   {
@@ -431,14 +429,14 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Rosimary",
-   "tel": "5521*****559",
-   "criado": "12:19",
+   "nome": "Luiz Antonio",
+   "tel": "5554*****243",
+   "criado": "15:55",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
+   "espera_min": 1.3,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/annW3H6uu",
+   "criativo": "fb.me/7VvbFaWie",
    "area": "Trabalhista"
   },
   {
