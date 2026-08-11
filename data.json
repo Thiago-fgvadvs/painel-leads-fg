@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/08/2026, 16:32",
+ "gerado_em": "11/08/2026, 16:48",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 283,
-  "tickets_abertos": 538,
+  "tickets_abertos": 535,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -73,12 +73,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 214,
-  "turnos": 558,
-  "respondidos": 545,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
-  "mediana_min": 29.6,
+  "grupos_ativos": 216,
+  "turnos": 561,
+  "respondidos": 549,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
+  "mediana_min": 29.3,
   "atendentes": [
    {
     "nome": "Julia",
@@ -87,13 +87,13 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 137,
-    "mediana_min": 39
+    "respostas": 140,
+    "mediana_min": 37.2
    },
    {
     "nome": "Eduardo",
-    "respostas": 45,
-    "mediana_min": 13.7
+    "respostas": 46,
+    "mediana_min": 13.3
    },
    {
     "nome": "Thauany",
@@ -133,28 +133,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "grupo": "M.C.F.D.A.C x DE CRIANCA COMERCIO DE PRODUTOS INFANTINS LTDA",
     "dia": "11/08",
-    "desde": "16:25",
-    "ts": 1786476346860
+    "desde": "16:44",
+    "ts": 1786477464811
+   },
+   {
+    "grupo": "L.R.R x INSS",
+    "dia": "06/08",
+    "desde": "13:19",
+    "ts": 1786033151121
    },
    {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "11/08",
     "desde": "11:35",
     "ts": 1786458946639
-   },
-   {
-    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
-    "dia": "11/08",
-    "desde": "16:18",
-    "ts": 1786475900831
-   },
-   {
-    "grupo": "E",
-    "dia": "11/08",
-    "desde": "15:57",
-    "ts": 1786474635852
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
@@ -217,6 +211,12 @@
   "leads": [],
   "grupos": [
    {
+    "grupo": "L.R.R x INSS",
+    "dia": "06/08",
+    "desde": "13:19",
+    "ts": 1786033151121
+   },
+   {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
     "dia": "07/08",
     "desde": "12:26",
@@ -277,22 +277,10 @@
     "ts": 1786462475656
    },
    {
-    "grupo": "E",
+    "grupo": "M.C.F.D.A.C x DE CRIANCA COMERCIO DE PRODUTOS INFANTINS LTDA",
     "dia": "11/08",
-    "desde": "15:57",
-    "ts": 1786474635852
-   },
-   {
-    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
-    "dia": "11/08",
-    "desde": "16:18",
-    "ts": 1786475900831
-   },
-   {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "11/08",
-    "desde": "16:25",
-    "ts": 1786476346860
+    "desde": "16:44",
+    "ts": 1786477464811
    }
   ]
  },
@@ -407,17 +395,17 @@
   ]
  },
  "agora": {
-  "fila": 390,
-  "abertos": 538,
+  "fila": 388,
+  "abertos": 535,
   "com_atendimento": 7,
-  "online": 5,
-  "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 1687
+  "online": 7,
+  "offline": 1,
+  "ausentes": 1,
+  "espera_media_s": 1694
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T18:55:09.830Z",
-  "min_sem_lead": 38
+  "ultimo_lead_at": "2026-05-21T17:13:02.618Z",
+  "min_sem_lead": 118235
  },
  "leads": [
   {
