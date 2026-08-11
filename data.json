@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/08/2026, 11:03",
+ "gerado_em": "11/08/2026, 11:18",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 266,
-  "tickets_abertos": 526,
+  "tickets_abertos": 528,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -74,26 +74,26 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 206,
-  "turnos": 490,
-  "respondidos": 480,
+  "turnos": 493,
+  "respondidos": 483,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
-  "mediana_min": 29.7,
+  "mediana_min": 29.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 201,
-    "mediana_min": 39
+    "respostas": 202,
+    "mediana_min": 38.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 127,
-    "mediana_min": 39
+    "respostas": 128,
+    "mediana_min": 38.2
    },
    {
     "nome": "Eduardo",
-    "respostas": 36,
-    "mediana_min": 17
+    "respostas": 37,
+    "mediana_min": 15
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -133,16 +133,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "N.M.D.M x ADOBE ASSESSORIA DE SERVICOS CADASTRAIS S.A.",
-    "dia": "11/08",
-    "desde": "10:57",
-    "ts": 1786456621518
+    "grupo": "P.L.R.J",
+    "dia": "05/08",
+    "desde": "12:31",
+    "ts": 1785943870440
    },
    {
-    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
+    "grupo": "E.V.D.A x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
     "dia": "11/08",
-    "desde": "10:53",
-    "ts": 1786456397575
+    "desde": "10:57",
+    "ts": 1786456645622
    },
    {
     "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
@@ -199,6 +199,12 @@
   "leads": [],
   "grupos": [
    {
+    "grupo": "P.L.R.J",
+    "dia": "05/08",
+    "desde": "12:31",
+    "ts": 1785943870440
+   },
+   {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
     "dia": "07/08",
     "desde": "12:26",
@@ -247,16 +253,10 @@
     "ts": 1786455375542
    },
    {
-    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
-    "dia": "11/08",
-    "desde": "10:53",
-    "ts": 1786456397575
-   },
-   {
-    "grupo": "N.M.D.M x ADOBE ASSESSORIA DE SERVICOS CADASTRAIS S.A.",
+    "grupo": "E.V.D.A x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
     "dia": "11/08",
     "desde": "10:57",
-    "ts": 1786456621518
+    "ts": 1786456645622
    }
   ]
  },
@@ -353,17 +353,17 @@
   ]
  },
  "agora": {
-  "fila": 370,
-  "abertos": 526,
+  "fila": 371,
+  "abertos": 528,
   "com_atendimento": 7,
   "online": 6,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 1732
+  "espera_media_s": 1728
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T15:04:14.889Z",
-  "min_sem_lead": 1379
+  "ultimo_lead_at": "2026-08-04T17:11:20.220Z",
+  "min_sem_lead": 9907
  },
  "leads": [
   {
