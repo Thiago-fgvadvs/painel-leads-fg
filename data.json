@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/08/2026, 12:29",
+ "gerado_em": "11/08/2026, 12:44",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
-  "no_sla": 8,
+  "total": 17,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.3,
-  "leads_7d": 270,
-  "tickets_abertos": 531,
+  "leads_7d": 272,
+  "tickets_abertos": 533,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 14,
+   "leads": 16,
    "mediana_min": 0.3
   },
   {
@@ -27,8 +27,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 13,
-  "Direto/Indicacao": 2
+  "Anuncio": 14,
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -37,6 +37,10 @@
   },
   {
    "url": "fb.me/annW3H6uu",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/Db3h6EcMD9Q/",
    "leads": 1
   },
   {
@@ -58,14 +62,10 @@
   {
    "url": "fb.me/4Vg6RqJcp",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Db3h15Hso0z/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 13,
+  "Trabalhista": 15,
   "Nao identificada": 1,
   "Previdenciario": 1
  },
@@ -73,7 +73,7 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 208,
+  "grupos_ativos": 209,
   "turnos": 512,
   "respondidos": 500,
   "sem_resposta": 12,
@@ -377,17 +377,17 @@
   ]
  },
  "agora": {
-  "fila": 374,
-  "abertos": 531,
+  "fila": 376,
+  "abertos": 533,
   "com_atendimento": 7,
-  "online": 1,
-  "offline": 3,
+  "online": 2,
+  "offline": 2,
   "ausentes": 5,
-  "espera_media_s": 1717
+  "espera_media_s": 1709
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-11T15:19:06.640Z",
-  "min_sem_lead": 10
+  "min_sem_lead": 25
  },
  "leads": [
   {
@@ -405,6 +405,28 @@
    "nome": "miguel",
    "tel": "5519*****286",
    "criado": "11:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5517981274381",
+   "tel": "5517*****381",
+   "criado": "12:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h6EcMD9Q/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Tatyana Freitas",
+   "tel": "5573*****649",
+   "criado": "12:32",
    "atendente": "Fernanda Gehm - Administradora",
    "espera_min": 0.4,
    "status": "NO_SLA",
