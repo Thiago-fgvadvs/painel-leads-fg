@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/08/2026, 08:46",
+ "gerado_em": "11/08/2026, 09:01",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -31,11 +31,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4RpRFqGbv",
+   "url": "fb.me/7a58KGmA0",
    "leads": 1
   },
   {
-   "url": "fb.me/7a58KGmA0",
+   "url": "fb.me/4RpRFqGbv",
    "leads": 1
   },
   {
@@ -67,12 +67,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 196,
-  "turnos": 458,
-  "respondidos": 449,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 29.2,
+  "grupos_ativos": 204,
+  "turnos": 467,
+  "respondidos": 457,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 29.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -90,6 +90,11 @@
     "mediana_min": 13.3
    },
    {
+    "nome": "Fernanda Gehm - Administradora",
+    "respostas": 27,
+    "mediana_min": 1385.7
+   },
+   {
     "nome": "Gabrielle",
     "respostas": 23,
     "mediana_min": 3.1
@@ -103,11 +108,6 @@
     "nome": "Thauany",
     "respostas": 22,
     "mediana_min": 0.5
-   },
-   {
-    "nome": "Fernanda Gehm - Administradora",
-    "respostas": 19,
-    "mediana_min": 1031.7
    },
    {
     "nome": "Roseli",
@@ -126,6 +126,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
+    "dia": "11/08",
+    "desde": "09:01",
+    "ts": 1786449662481
+   },
    {
     "grupo": "E.M.D.S x ZAMP S.A.",
     "dia": "07/08",
@@ -239,6 +245,12 @@
     "dia": "10/08",
     "desde": "17:43",
     "ts": 1786394617236
+   },
+   {
+    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
+    "dia": "11/08",
+    "desde": "09:01",
+    "ts": 1786449662481
    }
   ]
  },
@@ -335,21 +347,10 @@
   "espera_media_s": 1743
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T09:44:53.287Z",
-  "min_sem_lead": 121
+  "ultimo_lead_at": "2026-07-04T02:42:18.159Z",
+  "min_sem_lead": 55279
  },
  "leads": [
-  {
-   "nome": "5542920014188",
-   "tel": "5542*****188",
-   "criado": "06:44",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4RpRFqGbv",
-   "area": "Trabalhista"
-  },
   {
    "nome": "antonioavelino1979",
    "tel": "5521*****372",
@@ -359,6 +360,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7a58KGmA0",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5542920014188",
+   "tel": "5542*****188",
+   "criado": "06:44",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4RpRFqGbv",
    "area": "Trabalhista"
   },
   {
