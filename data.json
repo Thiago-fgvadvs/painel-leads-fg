@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/08/2026, 14:30",
+ "gerado_em": "11/08/2026, 14:46",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
-  "no_sla": 15,
+  "total": 23,
+  "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 277,
-  "tickets_abertos": 545,
+  "leads_7d": 278,
+  "tickets_abertos": 546,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -37,7 +37,7 @@
   },
   {
    "url": "fb.me/annW3H6uu",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "fb.me/7a58KGmA0",
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 18,
+  "Trabalhista": 19,
   "Nao identificada": 3,
   "Previdenciario": 1
  },
@@ -74,16 +74,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 213,
-  "turnos": 525,
-  "respondidos": 513,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 29.8,
+  "turnos": 529,
+  "respondidos": 516,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
+  "mediana_min": 30.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 216,
-    "mediana_min": 47.2
+    "respostas": 219,
+    "mediana_min": 48.9
    },
    {
     "nome": "Nicolas",
@@ -133,22 +133,28 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "B.V.S.L x AEC CENTRO DE CONTATOS S A",
+    "dia": "11/08",
+    "desde": "14:34",
+    "ts": 1786469687756
+   },
+   {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
     "dia": "11/08",
     "desde": "12:24",
     "ts": 1786461848599
    },
    {
-    "grupo": "P.N.C x PORTO SEGURO ATENDIMENTO LTDA",
-    "dia": "11/08",
-    "desde": "13:15",
-    "ts": 1786464902702
-   },
-   {
     "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
     "dia": "07/08",
     "desde": "10:35",
     "ts": 1786109715084
+   },
+   {
+    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
+    "dia": "11/08",
+    "desde": "12:27",
+    "ts": 1786462051602
    },
    {
     "grupo": "E.M.D.S x ZAMP S.A.",
@@ -277,10 +283,16 @@
     "ts": 1786461848599
    },
    {
-    "grupo": "P.N.C x PORTO SEGURO ATENDIMENTO LTDA",
+    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "11/08",
-    "desde": "13:15",
-    "ts": 1786464902702
+    "desde": "12:27",
+    "ts": 1786462051602
+   },
+   {
+    "grupo": "B.V.S.L x AEC CENTRO DE CONTATOS S A",
+    "dia": "11/08",
+    "desde": "14:34",
+    "ts": 1786469687756
    }
   ]
  },
@@ -386,17 +398,17 @@
   ]
  },
  "agora": {
-  "fila": 382,
-  "abertos": 545,
+  "fila": 383,
+  "abertos": 546,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 4,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 1676
+  "ausentes": 3,
+  "espera_media_s": 1673
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-11T17:25:29.131Z",
-  "min_sem_lead": 5
+  "min_sem_lead": 21
  },
  "leads": [
   {
@@ -408,6 +420,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511936192530",
+   "tel": "5511*****530",
+   "criado": "14:32",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
    "area": "Trabalhista"
   },
   {
