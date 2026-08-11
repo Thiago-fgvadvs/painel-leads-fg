@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/08/2026, 10:17",
+ "gerado_em": "11/08/2026, 10:32",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.3,
   "leads_7d": 265,
-  "tickets_abertos": 523,
+  "tickets_abertos": 524,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -67,21 +67,21 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 205,
-  "turnos": 477,
-  "respondidos": 468,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "grupos_ativos": 206,
+  "turnos": 482,
+  "respondidos": 474,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 29.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 197,
+    "respostas": 199,
     "mediana_min": 39
    },
    {
     "nome": "Nicolas",
-    "respostas": 122,
+    "respostas": 124,
     "mediana_min": 39.7
    },
    {
@@ -96,7 +96,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 23,
+    "respostas": 25,
     "mediana_min": 3.1
    },
    {
@@ -127,28 +127,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.E.P x DORGIA CONSTRUCOES LTDA",
-    "dia": "11/08",
-    "desde": "10:13",
-    "ts": 1786454016513
-   },
-   {
     "grupo": "W.O.V x INSS",
     "dia": "11/08",
     "desde": "09:41",
     "ts": 1786452116503
    },
    {
+    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "11/08",
+    "desde": "09:00",
+    "ts": 1786449641531
+   },
+   {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
     "dia": "11/08",
     "desde": "09:01",
     "ts": 1786449662481
-   },
-   {
-    "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
-    "dia": "10/08",
-    "desde": "18:15",
-    "ts": 1786396551323
    },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
@@ -217,10 +211,10 @@
     "ts": 1786367829994
    },
    {
-    "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
-    "dia": "10/08",
-    "desde": "18:15",
-    "ts": 1786396551323
+    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "11/08",
+    "desde": "09:00",
+    "ts": 1786449641531
    },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
@@ -233,12 +227,6 @@
     "dia": "11/08",
     "desde": "09:41",
     "ts": 1786452116503
-   },
-   {
-    "grupo": "A.E.P x DORGIA CONSTRUCOES LTDA",
-    "dia": "11/08",
-    "desde": "10:13",
-    "ts": 1786454016513
    }
   ]
  },
@@ -327,7 +315,7 @@
  },
  "agora": {
   "fila": 371,
-  "abertos": 523,
+  "abertos": 524,
   "com_atendimento": 7,
   "online": 5,
   "offline": 3,
@@ -335,8 +323,8 @@
   "espera_media_s": 1736
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-04T02:42:18.159Z",
-  "min_sem_lead": 55355
+  "ultimo_lead_at": "2026-08-09T01:26:26.385Z",
+  "min_sem_lead": 3606
  },
  "leads": [
   {
