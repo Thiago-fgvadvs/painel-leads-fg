@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/08/2026, 14:46",
+ "gerado_em": "11/08/2026, 15:01",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
-  "no_sla": 16,
+  "total": 24,
+  "no_sla": 17,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 278,
+  "leads_7d": 279,
   "tickets_abertos": 546,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 22,
+   "leads": 23,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -44,6 +44,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/9ikHrVLv1",
+   "leads": 1
+  },
+  {
    "url": "fb.me/87jYMAhSB",
    "leads": 1
   },
@@ -58,14 +62,10 @@
   {
    "url": "fb.me/8DNq9ICGB",
    "leads": 1
-  },
-  {
-   "url": "fb.me/fljy4QK1m",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 19,
+  "Trabalhista": 20,
   "Nao identificada": 3,
   "Previdenciario": 1
  },
@@ -74,21 +74,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 213,
-  "turnos": 529,
-  "respondidos": 516,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
-  "mediana_min": 30.2,
+  "turnos": 534,
+  "respondidos": 520,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
+  "mediana_min": 30.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 219,
-    "mediana_min": 48.9
+    "respostas": 222,
+    "mediana_min": 49.8
    },
    {
     "nome": "Nicolas",
-    "respostas": 131,
-    "mediana_min": 39
+    "respostas": 132,
+    "mediana_min": 39.7
    },
    {
     "nome": "Eduardo",
@@ -145,22 +145,28 @@
     "ts": 1786461848599
    },
    {
+    "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
+    "dia": "11/08",
+    "desde": "12:34",
+    "ts": 1786462475656
+   },
+   {
     "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
     "dia": "07/08",
     "desde": "10:35",
     "ts": 1786109715084
    },
    {
-    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
-    "dia": "11/08",
-    "desde": "12:27",
-    "ts": 1786462051602
-   },
-   {
     "grupo": "E.M.D.S x ZAMP S.A.",
     "dia": "11/08",
     "desde": "12:08",
     "ts": 1786460907593
+   },
+   {
+    "grupo": "P.L.R.J",
+    "dia": "11/08",
+    "desde": "12:03",
+    "ts": 1786460600659
    },
    {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
@@ -271,6 +277,12 @@
     "ts": 1786458946639
    },
    {
+    "grupo": "P.L.R.J",
+    "dia": "11/08",
+    "desde": "12:03",
+    "ts": 1786460600659
+   },
+   {
     "grupo": "E.M.D.S x ZAMP S.A.",
     "dia": "11/08",
     "desde": "12:08",
@@ -283,10 +295,10 @@
     "ts": 1786461848599
    },
    {
-    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
+    "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
     "dia": "11/08",
-    "desde": "12:27",
-    "ts": 1786462051602
+    "desde": "12:34",
+    "ts": 1786462475656
    },
    {
     "grupo": "B.V.S.L x AEC CENTRO DE CONTATOS S A",
@@ -398,19 +410,30 @@
   ]
  },
  "agora": {
-  "fila": 383,
+  "fila": 384,
   "abertos": 546,
   "com_atendimento": 8,
-  "online": 4,
+  "online": 5,
   "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 1673
+  "ausentes": 2,
+  "espera_media_s": 1669
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T17:25:29.131Z",
-  "min_sem_lead": 21
+  "ultimo_lead_at": "2026-08-11T17:59:43.161Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "554797266609",
+   "tel": "5547*****609",
+   "criado": "14:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9ikHrVLv1",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Fernando",
    "tel": "5567*****761",
