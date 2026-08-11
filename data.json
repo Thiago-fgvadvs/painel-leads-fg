@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/08/2026, 17:03",
+ "gerado_em": "11/08/2026, 17:18",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 285,
-  "tickets_abertos": 534,
+  "tickets_abertos": 533,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Previdenciario": 2,
   "Trabalhista": 24,
+  "Previdenciario": 2,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
@@ -74,11 +74,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 216,
-  "turnos": 564,
-  "respondidos": 554,
+  "turnos": 566,
+  "respondidos": 556,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
-  "mediana_min": 29.4,
+  "mediana_min": 29.3,
   "atendentes": [
    {
     "nome": "Julia",
@@ -87,13 +87,13 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 142,
-    "mediana_min": 38.2
+    "respostas": 143,
+    "mediana_min": 37.4
    },
    {
     "nome": "Eduardo",
-    "respostas": 46,
-    "mediana_min": 13.3
+    "respostas": 47,
+    "mediana_min": 12.9
    },
    {
     "nome": "Thauany",
@@ -139,10 +139,10 @@
     "ts": 1786458946639
    },
    {
-    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
+    "grupo": "J.M.D.S x CIRURGICA FERNANDES COM. DE MATERIAIS CIRURGICOS E HOSPITALARES - SOC. LTDA.",
     "dia": "11/08",
-    "desde": "16:38",
-    "ts": 1786477082867
+    "desde": "16:57",
+    "ts": 1786478249903
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
@@ -253,22 +253,31 @@
     "ts": 1786462475656
    },
    {
-    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
+    "grupo": "J.M.D.S x CIRURGICA FERNANDES COM. DE MATERIAIS CIRURGICOS E HOSPITALARES - SOC. LTDA.",
     "dia": "11/08",
-    "desde": "16:38",
-    "ts": 1786477082867
+    "desde": "16:57",
+    "ts": 1786478249903
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 11,
+  "total": 12,
   "por_vendedor": {
-   "Roseli": 5,
+   "Roseli": 6,
    "Eduardo": 3,
    "Tiago Bernardo": 3
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "H",
+    "dia": "11/08",
+    "hora": "17:09",
+    "ts": 1786478963076,
+    "origem": "Indicação",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Roseli",
     "cliente": "M",
@@ -371,19 +380,41 @@
   ]
  },
  "agora": {
-  "fila": 389,
-  "abertos": 534,
+  "fila": 388,
+  "abertos": 533,
   "com_atendimento": 7,
-  "online": 5,
-  "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 1684
+  "online": 2,
+  "offline": 3,
+  "ausentes": 4,
+  "espera_media_s": 1291
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T19:50:40.570Z",
-  "min_sem_lead": 13
+  "ultimo_lead_at": "2026-08-07T21:03:03.004Z",
+  "min_sem_lead": 5716
  },
  "leads": [
+  {
+   "nome": "Geane S. O. Claudino😘",
+   "tel": "5564*****933",
+   "criado": "16:54",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Wagner Odilon Constantino",
+   "tel": "5511*****562",
+   "criado": "11:49",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Josenildo Silva",
    "tel": "5511*****910",
@@ -394,17 +425,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7tRJWUSsI",
    "area": "Previdenciario"
-  },
-  {
-   "nome": "556499503933",
-   "tel": "5564*****933",
-   "criado": "16:54",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
   },
   {
    "nome": "Rosimary",
@@ -470,17 +490,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbytebJsx75/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Wagner Odilon Constantino",
-   "tel": "5511*****562",
-   "criado": "11:49",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7tRJWUSsI",
    "area": "Trabalhista"
   },
   {
