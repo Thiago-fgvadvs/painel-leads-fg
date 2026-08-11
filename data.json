@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/08/2026, 10:47",
+ "gerado_em": "11/08/2026, 11:03",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 266,
-  "tickets_abertos": 527,
+  "tickets_abertos": 526,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 1,
   "Trabalhista": 9,
+  "Nao identificada": 1,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -74,21 +74,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 206,
-  "turnos": 484,
-  "respondidos": 475,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 29.8,
+  "turnos": 490,
+  "respondidos": 480,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 29.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 199,
+    "respostas": 201,
     "mediana_min": 39
    },
    {
     "nome": "Nicolas",
-    "respostas": 124,
-    "mediana_min": 39.7
+    "respostas": 127,
+    "mediana_min": 39
    },
    {
     "nome": "Eduardo",
@@ -133,6 +133,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "N.M.D.M x ADOBE ASSESSORIA DE SERVICOS CADASTRAIS S.A.",
+    "dia": "11/08",
+    "desde": "10:57",
+    "ts": 1786456621518
+   },
+   {
+    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
+    "dia": "11/08",
+    "desde": "10:53",
+    "ts": 1786456397575
+   },
+   {
     "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
     "dia": "11/08",
     "desde": "10:36",
@@ -143,12 +155,6 @@
     "dia": "11/08",
     "desde": "09:41",
     "ts": 1786452116503
-   },
-   {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
-    "dia": "11/08",
-    "desde": "09:00",
-    "ts": 1786449641531
    },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
@@ -223,12 +229,6 @@
     "ts": 1786367829994
    },
    {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
-    "dia": "11/08",
-    "desde": "09:00",
-    "ts": 1786449641531
-   },
-   {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
     "dia": "11/08",
     "desde": "09:01",
@@ -245,16 +245,28 @@
     "dia": "11/08",
     "desde": "10:36",
     "ts": 1786455375542
+   },
+   {
+    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
+    "dia": "11/08",
+    "desde": "10:53",
+    "ts": 1786456397575
+   },
+   {
+    "grupo": "N.M.D.M x ADOBE ASSESSORIA DE SERVICOS CADASTRAIS S.A.",
+    "dia": "11/08",
+    "desde": "10:57",
+    "ts": 1786456621518
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 8,
+  "total": 9,
   "por_vendedor": {
    "Roseli": 3,
    "Eduardo": 3,
-   "Tiago Bernardo": 2
+   "Tiago Bernardo": 3
   },
   "lista": [
    {
@@ -308,8 +320,17 @@
     "dia": "06/08",
     "hora": "11:18",
     "ts": 1786025939890,
-    "origem": "Anúncio: instagram.com/p/DbZBMoPsjD0/",
+    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
     "de_anuncio": true
+   },
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "—",
+    "dia": "05/08",
+    "hora": "15:26",
+    "ts": 1785954380198,
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
    },
    {
     "vendedor": "Eduardo",
@@ -332,30 +353,19 @@
   ]
  },
  "agora": {
-  "fila": 371,
-  "abertos": 527,
+  "fila": 370,
+  "abertos": 526,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 6,
   "offline": 3,
-  "ausentes": 2,
+  "ausentes": 0,
   "espera_media_s": 1732
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T02:24:06.520Z",
-  "min_sem_lead": 684
+  "ultimo_lead_at": "2026-08-10T15:04:14.889Z",
+  "min_sem_lead": 1379
  },
  "leads": [
-  {
-   "nome": "Saulo",
-   "tel": "5516*****811",
-   "criado": "10:34",
-   "atendente": "Roseli",
-   "espera_min": 0.8,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
   {
    "nome": "Nerci",
    "tel": "5542*****188",
@@ -366,6 +376,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4RpRFqGbv",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Saulo",
+   "tel": "5516*****811",
+   "criado": "10:34",
+   "atendente": "Roseli",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Robson Arruda",
