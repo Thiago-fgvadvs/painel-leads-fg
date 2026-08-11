@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/08/2026, 17:34",
+ "gerado_em": "11/08/2026, 17:49",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -73,11 +73,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 217,
-  "turnos": 569,
+  "grupos_ativos": 218,
+  "turnos": 570,
   "respondidos": 559,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 29.2,
   "atendentes": [
    {
@@ -132,6 +132,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
+    "dia": "11/08",
+    "desde": "17:47",
+    "ts": 1786481226884
+   },
    {
     "grupo": "A.M x INSS",
     "dia": "11/08",
@@ -257,6 +263,12 @@
     "dia": "11/08",
     "desde": "17:33",
     "ts": 1786480392918
+   },
+   {
+    "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
+    "dia": "11/08",
+    "desde": "17:47",
+    "ts": 1786481226884
    }
   ]
  },
@@ -380,19 +392,63 @@
   ]
  },
  "agora": {
-  "fila": 389,
+  "fila": 387,
   "abertos": 535,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 3,
-  "ausentes": 2,
+  "online": 5,
+  "offline": 4,
+  "ausentes": 0,
   "espera_media_s": 1286
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T20:33:34.453Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-08-08T23:00:09.780Z",
+  "min_sem_lead": 4189
  },
  "leads": [
+  {
+   "nome": "Elio Dias",
+   "tel": "5534*****972",
+   "criado": "13:40",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Aveni",
+   "tel": "5547*****609",
+   "criado": "14:59",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9ikHrVLv1",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Luiz Antonio",
+   "tel": "5554*****243",
+   "criado": "15:55",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 1.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7VvbFaWie",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Saulo ",
+   "tel": "5516*****811",
+   "criado": "10:34",
+   "atendente": "Roseli",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Fernando Moitad",
    "tel": "5588*****854",
@@ -413,17 +469,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Aveni",
-   "tel": "5547*****609",
-   "criado": "14:59",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9ikHrVLv1",
    "area": "Trabalhista"
   },
   {
@@ -457,17 +502,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/annW3H6uu",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Luiz Antonio",
-   "tel": "5554*****243",
-   "criado": "15:55",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 1.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7VvbFaWie",
    "area": "Trabalhista"
   },
   {
@@ -548,17 +582,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Elio Dias",
-   "tel": "5534*****972",
-   "criado": "13:40",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "sara Cristina",
    "tel": "5548*****740",
    "criado": "13:50",
@@ -623,17 +646,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/8DNq9ICGB",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Saulo",
-   "tel": "5516*****811",
-   "criado": "10:34",
-   "atendente": "Roseli",
-   "espera_min": 0.8,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Robson Arruda",
