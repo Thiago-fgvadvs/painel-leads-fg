@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/08/2026, 16:17",
+ "gerado_em": "11/08/2026, 16:32",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 283,
-  "tickets_abertos": 541,
+  "tickets_abertos": 538,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -48,11 +48,11 @@
    "leads": 1
   },
   {
-   "url": "fb.me/6bZ2VUBug",
+   "url": "fb.me/9ikHrVLv1",
    "leads": 1
   },
   {
-   "url": "fb.me/9ikHrVLv1",
+   "url": "fb.me/6bZ2VUBug",
    "leads": 1
   },
   {
@@ -74,11 +74,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 214,
-  "turnos": 552,
-  "respondidos": 541,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
-  "mediana_min": 29.8,
+  "turnos": 558,
+  "respondidos": 545,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
+  "mediana_min": 29.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -87,8 +87,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 134,
-    "mediana_min": 40.5
+    "respostas": 137,
+    "mediana_min": 39
    },
    {
     "nome": "Eduardo",
@@ -117,8 +117,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 16,
-    "mediana_min": 5.4
+    "respostas": 17,
+    "mediana_min": 4.8
    },
    {
     "nome": "Tiago Bernardo",
@@ -132,6 +132,24 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "11/08",
+    "desde": "16:25",
+    "ts": 1786476346860
+   },
+   {
+    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
+    "dia": "11/08",
+    "desde": "11:35",
+    "ts": 1786458946639
+   },
+   {
+    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
+    "dia": "11/08",
+    "desde": "16:18",
+    "ts": 1786475900831
+   },
    {
     "grupo": "E",
     "dia": "11/08",
@@ -155,12 +173,6 @@
     "dia": "11/08",
     "desde": "12:03",
     "ts": 1786460600659
-   },
-   {
-    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
-    "dia": "11/08",
-    "desde": "11:35",
-    "ts": 1786458946639
    },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
@@ -269,6 +281,18 @@
     "dia": "11/08",
     "desde": "15:57",
     "ts": 1786474635852
+   },
+   {
+    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
+    "dia": "11/08",
+    "desde": "16:18",
+    "ts": 1786475900831
+   },
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "11/08",
+    "desde": "16:25",
+    "ts": 1786476346860
    }
   ]
  },
@@ -383,17 +407,17 @@
   ]
  },
  "agora": {
-  "fila": 389,
-  "abertos": 541,
+  "fila": 390,
+  "abertos": 538,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 5,
   "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 1673
+  "ausentes": 2,
+  "espera_media_s": 1687
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-08T23:00:09.780Z",
-  "min_sem_lead": 4097
+  "ultimo_lead_at": "2026-08-11T18:55:09.830Z",
+  "min_sem_lead": 38
  },
  "leads": [
   {
@@ -408,15 +432,15 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Jerusa",
-   "tel": "5589*****422",
-   "criado": "16:13",
+   "nome": "Aveni",
+   "tel": "5547*****609",
+   "criado": "14:59",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/6bZ2VUBug",
-   "area": "Nao identificada"
+   "criativo": "fb.me/9ikHrVLv1",
+   "area": "Trabalhista"
   },
   {
    "nome": "Rosimary",
@@ -430,18 +454,18 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Aveni",
-   "tel": "5547*****609",
-   "criado": "14:59",
+   "nome": "Jerusa",
+   "tel": "5589*****422",
+   "criado": "16:13",
    "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
+   "espera_min": 0.3,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/9ikHrVLv1",
-   "area": "Trabalhista"
+   "criativo": "fb.me/6bZ2VUBug",
+   "area": "Nao identificada"
   },
   {
-   "nome": "553190641868",
+   "nome": "L.",
    "tel": "5531*****868",
    "criado": "15:56",
    "atendente": "Fernanda Gehm - Administradora",
@@ -496,7 +520,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511936192530",
+   "nome": "paty",
    "tel": "5511*****530",
    "criado": "14:32",
    "atendente": "Fernanda Gehm - Administradora",
@@ -529,7 +553,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "554892120740",
+   "nome": "sara Cristina",
    "tel": "5548*****740",
    "criado": "13:50",
    "atendente": "Fernanda Gehm - Administradora",
@@ -562,7 +586,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5517981274381",
+   "nome": "●CIDINHA",
    "tel": "5517*****381",
    "criado": "12:35",
    "atendente": "Fernanda Gehm - Administradora",
@@ -584,7 +608,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5516981141902",
+   "nome": ".",
    "tel": "5516*****902",
    "criado": "11:29",
    "atendente": "Fernanda Gehm - Administradora",
@@ -628,7 +652,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "559294998468",
+   "nome": "Francineia Reis",
    "tel": "5592*****468",
    "criado": "08:27",
    "atendente": "Fernanda Gehm - Administradora",
@@ -650,7 +674,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554999024167",
+   "nome": "Mari Tombini",
    "tel": "5549*****167",
    "criado": "07:19",
    "atendente": "Fernanda Gehm - Administradora",
@@ -672,7 +696,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511994930526",
+   "nome": "Deus é bom o tempo todo",
    "tel": "5511*****526",
    "criado": "02:42",
    "atendente": "Fernanda Gehm - Administradora",
