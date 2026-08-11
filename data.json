@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/08/2026, 15:16",
+ "gerado_em": "11/08/2026, 15:31",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 279,
-  "tickets_abertos": 544,
+  "tickets_abertos": 546,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -74,15 +74,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 213,
-  "turnos": 537,
-  "respondidos": 525,
+  "turnos": 541,
+  "respondidos": 529,
   "sem_resposta": 12,
   "sem_resposta_grupos": 12,
   "mediana_min": 30.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 223,
+    "respostas": 225,
     "mediana_min": 50.2
    },
    {
@@ -97,7 +97,7 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 29,
+    "respostas": 31,
     "mediana_min": 0.5
    },
    {
@@ -133,6 +133,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "11/08",
+    "desde": "15:31",
+    "ts": 1786473102757
+   },
+   {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
     "dia": "11/08",
     "desde": "12:24",
@@ -161,12 +167,6 @@
     "dia": "11/08",
     "desde": "11:35",
     "ts": 1786458946639
-   },
-   {
-    "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
-    "dia": "11/08",
-    "desde": "10:36",
-    "ts": 1786455375542
    },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
@@ -247,12 +247,6 @@
     "ts": 1786449662481
    },
    {
-    "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
-    "dia": "11/08",
-    "desde": "10:36",
-    "ts": 1786455375542
-   },
-   {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "11/08",
     "desde": "11:35",
@@ -281,6 +275,12 @@
     "dia": "11/08",
     "desde": "12:34",
     "ts": 1786462475656
+   },
+   {
+    "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "11/08",
+    "desde": "15:31",
+    "ts": 1786473102757
    }
   ]
  },
@@ -396,16 +396,16 @@
  },
  "agora": {
   "fila": 385,
-  "abertos": 544,
+  "abertos": 546,
   "com_atendimento": 8,
-  "online": 4,
+  "online": 6,
   "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 1673
+  "ausentes": 1,
+  "espera_media_s": 1665
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T00:37:04.850Z",
-  "min_sem_lead": 1060
+  "ultimo_lead_at": "2026-07-02T14:58:20.744Z",
+  "min_sem_lead": 57813
  },
  "leads": [
   {
