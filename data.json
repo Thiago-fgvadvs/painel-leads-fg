@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/08/2026, 12:44",
+ "gerado_em": "11/08/2026, 12:59",
  "data_ref": "11/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
-  "no_sla": 10,
+  "total": 18,
+  "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.3,
-  "leads_7d": 272,
-  "tickets_abertos": 533,
+  "leads_7d": 273,
+  "tickets_abertos": 535,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.3
   },
   {
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 15,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "fb.me/7tRJWUSsI",
    "leads": 4
+  },
+  {
+   "url": "fb.me/7a58KGmA0",
+   "leads": 2
   },
   {
    "url": "fb.me/annW3H6uu",
@@ -52,10 +56,6 @@
    "leads": 1
   },
   {
-   "url": "fb.me/7a58KGmA0",
-   "leads": 1
-  },
-  {
    "url": "fb.me/fljy4QK1m",
    "leads": 1
   },
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 15,
+  "Trabalhista": 16,
   "Nao identificada": 1,
   "Previdenciario": 1
  },
@@ -73,17 +73,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 209,
-  "turnos": 512,
-  "respondidos": 500,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
+  "grupos_ativos": 210,
+  "turnos": 513,
+  "respondidos": 502,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 29.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 211,
-    "mediana_min": 41.5
+    "respostas": 212,
+    "mediana_min": 44.4
    },
    {
     "nome": "Nicolas",
@@ -92,8 +92,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 41,
-    "mediana_min": 12.9
+    "respostas": 42,
+    "mediana_min": 11.8
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -169,12 +169,6 @@
     "ts": 1786449662481
    },
    {
-    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
-    "dia": "10/08",
-    "desde": "12:54",
-    "ts": 1786377247077
-   },
-   {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
     "dia": "10/08",
     "desde": "10:17",
@@ -239,12 +233,6 @@
     "dia": "10/08",
     "desde": "10:17",
     "ts": 1786367829994
-   },
-   {
-    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
-    "dia": "10/08",
-    "desde": "12:54",
-    "ts": 1786377247077
    },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
@@ -377,17 +365,17 @@
   ]
  },
  "agora": {
-  "fila": 376,
-  "abertos": 533,
+  "fila": 377,
+  "abertos": 535,
   "com_atendimento": 7,
-  "online": 2,
+  "online": 6,
   "offline": 2,
-  "ausentes": 5,
-  "espera_media_s": 1709
+  "ausentes": 1,
+  "espera_media_s": 1702
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T15:19:06.640Z",
-  "min_sem_lead": 25
+  "ultimo_lead_at": "2026-08-11T15:56:07.541Z",
+  "min_sem_lead": 3
  },
  "leads": [
   {
@@ -399,6 +387,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Raimundo",
+   "tel": "5548*****660",
+   "criado": "12:56",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7a58KGmA0",
    "area": "Trabalhista"
   },
   {
