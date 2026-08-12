@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/08/2026, 09:56",
+ "gerado_em": "12/08/2026, 10:11",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.7,
   "leads_7d": 273,
-  "tickets_abertos": 559,
+  "tickets_abertos": 561,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -32,15 +32,15 @@
  },
  "criativos": [
   {
+   "url": "fb.me/fljy4QK1m",
+   "leads": 1
+  },
+  {
    "url": "fb.me/7VvbFaWie",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/Db0dln6sawH/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/fljy4QK1m",
    "leads": 1
   },
   {
@@ -57,29 +57,29 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 4
+  "Trabalhista": 4,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 208,
-  "turnos": 493,
-  "respondidos": 482,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
-  "mediana_min": 26.9,
+  "grupos_ativos": 209,
+  "turnos": 499,
+  "respondidos": 487,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
+  "mediana_min": 27.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 204,
-    "mediana_min": 44.3
+    "respostas": 205,
+    "mediana_min": 47
    },
    {
     "nome": "Nicolas",
-    "respostas": 103,
-    "mediana_min": 40.3
+    "respostas": 104,
+    "mediana_min": 40.5
    },
    {
     "nome": "Eduardo",
@@ -92,14 +92,14 @@
     "mediana_min": 0.6
    },
    {
+    "nome": "Gabrielle",
+    "respostas": 27,
+    "mediana_min": 3.1
+   },
+   {
     "nome": "Fernanda Gehm - Administradora",
     "respostas": 26,
     "mediana_min": 1406.5
-   },
-   {
-    "nome": "Gabrielle",
-    "respostas": 24,
-    "mediana_min": 3
    },
    {
     "nome": "Luisa",
@@ -124,10 +124,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.D.S.R x IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE SAO PAULO",
-    "dia": "12/08",
-    "desde": "09:11",
-    "ts": 1786536677189
+    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
+    "dia": "11/08",
+    "desde": "13:01",
+    "ts": 1786464063717
    },
    {
     "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
@@ -152,6 +152,12 @@
     "dia": "11/08",
     "desde": "12:08",
     "ts": 1786460907593
+   },
+   {
+    "grupo": "N.M.D.M x ADOBE ASSESSORIA DE SERVICOS CADASTRAIS S.A.",
+    "dia": "11/08",
+    "desde": "11:07",
+    "ts": 1786457232612
    },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
@@ -232,6 +238,12 @@
     "ts": 1786449662481
    },
    {
+    "grupo": "N.M.D.M x ADOBE ASSESSORIA DE SERVICOS CADASTRAIS S.A.",
+    "dia": "11/08",
+    "desde": "11:07",
+    "ts": 1786457232612
+   },
+   {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "11/08",
     "desde": "11:35",
@@ -250,16 +262,16 @@
     "ts": 1786462475656
    },
    {
+    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
+    "dia": "11/08",
+    "desde": "13:01",
+    "ts": 1786464063717
+   },
+   {
     "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
     "dia": "11/08",
     "desde": "18:29",
     "ts": 1786483752959
-   },
-   {
-    "grupo": "L.D.S.R x IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE SAO PAULO",
-    "dia": "12/08",
-    "desde": "09:11",
-    "ts": 1786536677189
    }
   ]
  },
@@ -374,19 +386,30 @@
   ]
  },
  "agora": {
-  "fila": 412,
-  "abertos": 559,
-  "com_atendimento": 7,
+  "fila": 413,
+  "abertos": 561,
+  "com_atendimento": 6,
   "online": 4,
-  "offline": 5,
-  "ausentes": 0,
+  "offline": 4,
+  "ausentes": 1,
   "espera_media_s": 2800
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-11T00:37:04.850Z",
-  "min_sem_lead": 2179
+  "min_sem_lead": 2195
  },
  "leads": [
+  {
+   "nome": ".",
+   "tel": "5511*****531",
+   "criado": "06:20",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/fljy4QK1m",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Advogada Amanda Pivott de Jesus",
    "tel": "5511*****549",
@@ -429,17 +452,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db0dln6sawH/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": ".",
-   "tel": "5511*****531",
-   "criado": "06:20",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/fljy4QK1m",
    "area": "Trabalhista"
   },
   {
