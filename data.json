@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/08/2026, 13:14",
+ "gerado_em": "12/08/2026, 13:29",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -74,11 +74,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 516,
-  "respondidos": 504,
+  "turnos": 519,
+  "respondidos": 507,
   "sem_resposta": 12,
   "sem_resposta_grupos": 12,
-  "mediana_min": 28.7,
+  "mediana_min": 28.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -87,8 +87,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 109,
-    "mediana_min": 40.7
+    "respostas": 112,
+    "mediana_min": 40.5
    },
    {
     "nome": "Eduardo",
@@ -133,6 +133,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
+    "dia": "12/08",
+    "desde": "13:28",
+    "ts": 1786552139288
+   },
+   {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
     "dia": "12/08",
     "desde": "12:34",
@@ -179,12 +185,6 @@
     "dia": "11/08",
     "desde": "11:07",
     "ts": 1786457232612
-   },
-   {
-    "grupo": "E.A.R.R x Banco Itaú ",
-    "dia": "11/08",
-    "desde": "08:52",
-    "ts": 1786449161469
    },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
@@ -229,12 +229,6 @@
     "ts": 1786367829994
    },
    {
-    "grupo": "E.A.R.R x Banco Itaú ",
-    "dia": "11/08",
-    "desde": "08:52",
-    "ts": 1786449161469
-   },
-   {
     "grupo": "N.M.D.M x ADOBE ASSESSORIA DE SERVICOS CADASTRAIS S.A.",
     "dia": "11/08",
     "desde": "11:07",
@@ -281,6 +275,12 @@
     "dia": "12/08",
     "desde": "12:34",
     "ts": 1786548858229
+   },
+   {
+    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
+    "dia": "12/08",
+    "desde": "13:28",
+    "ts": 1786552139288
    }
   ]
  },
@@ -413,17 +413,17 @@
   ]
  },
  "agora": {
-  "fila": 423,
+  "fila": 422,
   "abertos": 543,
   "com_atendimento": 7,
-  "online": 3,
+  "online": 4,
   "offline": 3,
-  "ausentes": 3,
+  "ausentes": 2,
   "espera_media_s": 2675
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T15:59:06.986Z",
-  "min_sem_lead": 15
+  "ultimo_lead_at": "2026-05-21T17:13:02.618Z",
+  "min_sem_lead": 119477
  },
  "leads": [
   {
@@ -504,7 +504,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Advogada Amanda Pivott de Jesus",
+   "nome": "Amanda Pivott Advocacia",
    "tel": "5511*****549",
    "criado": "09:44",
    "atendente": "Nicolas",
