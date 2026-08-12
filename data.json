@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/08/2026, 15:32",
+ "gerado_em": "12/08/2026, 15:47",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 297,
-  "tickets_abertos": 550,
+  "tickets_abertos": 545,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -74,11 +74,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 212,
-  "turnos": 544,
-  "respondidos": 532,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 28.4,
+  "turnos": 545,
+  "respondidos": 535,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 28.8,
   "atendentes": [
    {
     "nome": "Julia",
@@ -87,8 +87,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 114,
-    "mediana_min": 39.7
+    "respostas": 115,
+    "mediana_min": 40.3
    },
    {
     "nome": "Eduardo",
@@ -101,14 +101,14 @@
     "mediana_min": 0.6
    },
    {
+    "nome": "FG Advogados - Isadora ",
+    "respostas": 27,
+    "mediana_min": 1427.2
+   },
+   {
     "nome": "Gabrielle",
     "respostas": 27,
     "mediana_min": 3.1
-   },
-   {
-    "nome": "FG Advogados - Isadora ",
-    "respostas": 26,
-    "mediana_min": 1406.5
    },
    {
     "nome": "Luisa",
@@ -117,8 +117,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 16,
-    "mediana_min": 5.7
+    "respostas": 17,
+    "mediana_min": 5.9
    },
    {
     "nome": "—",
@@ -157,12 +157,6 @@
     "ts": 1786555407387
    },
    {
-    "grupo": "E.A.R.R x Banco Itaú ",
-    "dia": "12/08",
-    "desde": "13:53",
-    "ts": 1786553618319
-   },
-   {
     "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
     "dia": "12/08",
     "desde": "11:36",
@@ -173,12 +167,6 @@
     "dia": "12/08",
     "desde": "11:28",
     "ts": 1786544933208
-   },
-   {
-    "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
-    "dia": "11/08",
-    "desde": "18:29",
-    "ts": 1786483752959
    },
    {
     "grupo": "N.M.D.M x ADOBE ASSESSORIA DE SERVICOS CADASTRAIS S.A.",
@@ -235,12 +223,6 @@
     "ts": 1786457232612
    },
    {
-    "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
-    "dia": "11/08",
-    "desde": "18:29",
-    "ts": 1786483752959
-   },
-   {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "12/08",
     "desde": "11:28",
@@ -251,12 +233,6 @@
     "dia": "12/08",
     "desde": "11:36",
     "ts": 1786545363285
-   },
-   {
-    "grupo": "E.A.R.R x Banco Itaú ",
-    "dia": "12/08",
-    "desde": "13:53",
-    "ts": 1786553618319
    },
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
@@ -431,17 +407,17 @@
   ]
  },
  "agora": {
-  "fila": 423,
-  "abertos": 550,
+  "fila": 419,
+  "abertos": 545,
   "com_atendimento": 8,
-  "online": 3,
+  "online": 5,
   "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 2645
+  "ausentes": 1,
+  "espera_media_s": 2675
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-12T17:54:19.254Z",
-  "min_sem_lead": 38
+  "min_sem_lead": 53
  },
  "leads": [
   {
@@ -453,6 +429,17 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Karla",
+   "tel": "5511*****851",
+   "criado": "14:18",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db0dln6sawH/",
    "area": "Trabalhista"
   },
   {
@@ -497,17 +484,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Karla",
-   "tel": "5511*****851",
-   "criado": "14:18",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Db0dln6sawH/",
    "area": "Trabalhista"
   },
   {
