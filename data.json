@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/08/2026, 13:45",
+ "gerado_em": "12/08/2026, 14:00",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 293,
-  "tickets_abertos": 545,
+  "tickets_abertos": 544,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -36,11 +36,11 @@
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "url": "fb.me/7VvbFaWie",
    "leads": 2
   },
   {
-   "url": "fb.me/7VvbFaWie",
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
    "leads": 2
   },
   {
@@ -52,15 +52,15 @@
    "leads": 2
   },
   {
+   "url": "fb.me/kMMSTN8VC",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 1
   },
   {
    "url": "fb.me/9ikHrVLv1",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/kMMSTN8VC",
    "leads": 1
   }
  ],
@@ -74,15 +74,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 522,
-  "respondidos": 511,
+  "turnos": 528,
+  "respondidos": 517,
   "sem_resposta": 11,
   "sem_resposta_grupos": 11,
-  "mediana_min": 28.8,
+  "mediana_min": 29.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 220,
+    "respostas": 226,
     "mediana_min": 48.3
    },
    {
@@ -133,10 +133,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "H.S.A x BRASIL CENTER COMUNICACOES LTDA",
+    "grupo": "E.A.R.R x Banco Itaú ",
     "dia": "12/08",
-    "desde": "13:14",
-    "ts": 1786551256276
+    "desde": "13:53",
+    "ts": 1786553618319
    },
    {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
@@ -157,16 +157,16 @@
     "ts": 1786544933208
    },
    {
-    "grupo": "A.F.G",
-    "dia": "12/08",
-    "desde": "11:11",
-    "ts": 1786543871268
-   },
-   {
     "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
     "dia": "11/08",
     "desde": "13:01",
     "ts": 1786464063717
+   },
+   {
+    "grupo": "A.D.S x DAIANNY CHRISTINE PATROCINIO VIANA",
+    "dia": "11/08",
+    "desde": "21:08",
+    "ts": 1786493293125
    },
    {
     "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
@@ -241,10 +241,10 @@
     "ts": 1786483752959
    },
    {
-    "grupo": "A.F.G",
-    "dia": "12/08",
-    "desde": "11:11",
-    "ts": 1786543871268
+    "grupo": "A.D.S x DAIANNY CHRISTINE PATROCINIO VIANA",
+    "dia": "11/08",
+    "desde": "21:08",
+    "ts": 1786493293125
    },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
@@ -265,10 +265,10 @@
     "ts": 1786546590277
    },
    {
-    "grupo": "H.S.A x BRASIL CENTER COMUNICACOES LTDA",
+    "grupo": "E.A.R.R x Banco Itaú ",
     "dia": "12/08",
-    "desde": "13:14",
-    "ts": 1786551256276
+    "desde": "13:53",
+    "ts": 1786553618319
    }
   ]
  },
@@ -401,19 +401,41 @@
   ]
  },
  "agora": {
-  "fila": 424,
-  "abertos": 545,
+  "fila": 422,
+  "abertos": 544,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 3,
   "offline": 3,
-  "ausentes": 1,
+  "ausentes": 3,
   "espera_media_s": 2658
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T15:59:06.986Z",
-  "min_sem_lead": 46
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 684100
  },
  "leads": [
+  {
+   "nome": "Earli",
+   "tel": "5521*****955",
+   "criado": "09:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7VvbFaWie",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Moita👍🏻",
+   "tel": "5561*****495",
+   "criado": "11:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/kMMSTN8VC",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Beatriz Rayssa",
    "tel": "5511*****967",
@@ -437,14 +459,14 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Earli",
-   "tel": "5521*****955",
-   "criado": "09:28",
+   "nome": "Zuleica 🌻",
+   "tel": "5567*****283",
+   "criado": "13:05",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/7VvbFaWie",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
   },
   {
@@ -470,17 +492,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Zuleica 🌻",
-   "tel": "5567*****283",
-   "criado": "13:05",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Deus E Fiel",
    "tel": "5531*****607",
    "criado": "13:02",
@@ -489,17 +500,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Moita👍🏻",
-   "tel": "5561*****495",
-   "criado": "11:41",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/kMMSTN8VC",
    "area": "Trabalhista"
   },
   {
