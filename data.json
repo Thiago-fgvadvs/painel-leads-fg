@@ -1,23 +1,23 @@
 {
- "gerado_em": "12/08/2026, 11:58",
+ "gerado_em": "12/08/2026, 12:13",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
-  "no_sla": 14,
+  "total": 20,
+  "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 283,
-  "tickets_abertos": 535,
+  "leads_7d": 285,
+  "tickets_abertos": 537,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 17,
+   "leads": 18,
    "mediana_min": 0.4
   },
   {
@@ -27,8 +27,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 15,
-  "Direto/Indicacao": 3
+  "Anuncio": 16,
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -42,6 +42,10 @@
   {
    "url": "fb.me/fljy4QK1m",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/Db1RMyXsdNI/",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DbyqiNZMPek/",
@@ -58,15 +62,11 @@
   {
    "url": "www.instagram.com/p/Db0dln6sawH/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/23u6Sa6Iz3",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 10,
-  "Trabalhista": 7,
+  "Trabalhista": 8,
+  "Nao identificada": 11,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -74,10 +74,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 511,
+  "turnos": 512,
   "respondidos": 500,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
   "mediana_min": 28.4,
   "atendentes": [
    {
@@ -133,16 +133,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
-    "dia": "12/08",
-    "desde": "11:56",
-    "ts": 1786546590277
+    "grupo": "W.O.V x INSS",
+    "dia": "11/08",
+    "desde": "12:03",
+    "ts": 1786460605660
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
     "dia": "11/08",
     "desde": "12:34",
     "ts": 1786462475656
+   },
+   {
+    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
+    "dia": "12/08",
+    "desde": "11:56",
+    "ts": 1786546590277
    },
    {
     "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
@@ -227,6 +233,12 @@
     "dia": "11/08",
     "desde": "11:07",
     "ts": 1786457232612
+   },
+   {
+    "grupo": "W.O.V x INSS",
+    "dia": "11/08",
+    "desde": "12:03",
+    "ts": 1786460605660
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
@@ -392,19 +404,30 @@
   ]
  },
  "agora": {
-  "fila": 418,
-  "abertos": 535,
+  "fila": 419,
+  "abertos": 537,
   "com_atendimento": 7,
-  "online": 5,
-  "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 2709
+  "online": 4,
+  "offline": 2,
+  "ausentes": 3,
+  "espera_media_s": 2703
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T14:41:43.797Z",
-  "min_sem_lead": 17
+  "ultimo_lead_at": "2026-05-27T19:26:26.196Z",
+  "min_sem_lead": 110627
  },
  "leads": [
+  {
+   "nome": "Domingos Ferreira Pessoa",
+   "tel": "5585*****767",
+   "criado": "12:12",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db1RMyXsdNI/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "🙏🏻🙌🏻",
    "tel": "5511*****340",
@@ -602,6 +625,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7tRJWUSsI",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "556392508119",
+   "tel": "5563*****119",
+   "criado": "12:10",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
