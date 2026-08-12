@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/08/2026, 10:57",
+ "gerado_em": "12/08/2026, 11:12",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 277,
-  "tickets_abertos": 529,
+  "tickets_abertos": 528,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,30 +65,30 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
+  "Trabalhista": 5,
   "Previdenciario": 1,
-  "Trabalhista": 5
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 501,
-  "respondidos": 492,
+  "turnos": 505,
+  "respondidos": 496,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
-  "mediana_min": 27.9,
+  "mediana_min": 28.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 210,
-    "mediana_min": 44.3
+    "respostas": 213,
+    "mediana_min": 47
    },
    {
     "nome": "Nicolas",
-    "respostas": 104,
-    "mediana_min": 40.5
+    "respostas": 105,
+    "mediana_min": 40.7
    },
    {
     "nome": "Eduardo",
@@ -133,10 +133,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "grupo": "A.F.G",
     "dia": "12/08",
-    "desde": "10:10",
-    "ts": 1786540205130
+    "desde": "11:11",
+    "ts": 1786543871268
    },
    {
     "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
@@ -145,16 +145,16 @@
     "ts": 1786464063717
    },
    {
+    "grupo": "F.D.A.F",
+    "dia": "12/08",
+    "desde": "08:13",
+    "ts": 1786533202068
+   },
+   {
     "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
     "dia": "11/08",
     "desde": "18:29",
     "ts": 1786483752959
-   },
-   {
-    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
-    "dia": "11/08",
-    "desde": "11:35",
-    "ts": 1786458946639
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
@@ -217,12 +217,6 @@
     "ts": 1786457232612
    },
    {
-    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
-    "dia": "11/08",
-    "desde": "11:35",
-    "ts": 1786458946639
-   },
-   {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
     "dia": "11/08",
     "desde": "12:34",
@@ -241,20 +235,26 @@
     "ts": 1786483752959
    },
    {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "grupo": "F.D.A.F",
     "dia": "12/08",
-    "desde": "10:10",
-    "ts": 1786540205130
+    "desde": "08:13",
+    "ts": 1786533202068
+   },
+   {
+    "grupo": "A.F.G",
+    "dia": "12/08",
+    "desde": "11:11",
+    "ts": 1786543871268
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 13,
+  "total": 12,
   "por_vendedor": {
    "Eduardo": 4,
    "Tiago Bernardo": 3,
-   "Roseli": 6
+   "Roseli": 5
   },
   "lista": [
    {
@@ -292,15 +292,6 @@
     "ts": 1786481890938,
     "origem": "Anúncio: Trabalhista - doenças ocupacionais",
     "de_anuncio": true
-   },
-   {
-    "vendedor": "Roseli",
-    "cliente": "H",
-    "dia": "11/08",
-    "hora": "17:09",
-    "ts": 1786478963076,
-    "origem": "Indicação",
-    "de_anuncio": false
    },
    {
     "vendedor": "Roseli",
@@ -377,29 +368,29 @@
   ]
  },
  "agora": {
-  "fila": 415,
-  "abertos": 529,
-  "com_atendimento": 6,
-  "online": 4,
+  "fila": 413,
+  "abertos": 528,
+  "com_atendimento": 7,
+  "online": 6,
   "offline": 3,
-  "ausentes": 2,
+  "ausentes": 0,
   "espera_media_s": 2743
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T12:44:05.056Z",
-  "min_sem_lead": 73
+  "ultimo_lead_at": "2026-08-12T12:28:36.544Z",
+  "min_sem_lead": 104
  },
  "leads": [
   {
-   "nome": "Advogada Amanda Pivott de Jesus",
-   "tel": "5511*****549",
-   "criado": "09:44",
-   "atendente": "Nicolas",
-   "espera_min": 1.6,
+   "nome": "Earli",
+   "tel": "5521*****955",
+   "criado": "09:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 1,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "origem": "Anuncio",
+   "criativo": "fb.me/7VvbFaWie",
+   "area": "Trabalhista"
   },
   {
    "nome": "🍀☘️Tânia ☘️🍀",
@@ -424,15 +415,15 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Earli",
-   "tel": "5521*****955",
-   "criado": "09:28",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 1,
+   "nome": "Advogada Amanda Pivott de Jesus",
+   "tel": "5511*****549",
+   "criado": "09:44",
+   "atendente": "Nicolas",
+   "espera_min": 1.6,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7VvbFaWie",
-   "area": "Trabalhista"
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Vida Privada Reservada🤍😉",
