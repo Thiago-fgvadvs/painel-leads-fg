@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/08/2026, 15:47",
+ "gerado_em": "12/08/2026, 16:02",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 297,
-  "tickets_abertos": 545,
+  "tickets_abertos": 531,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -73,22 +73,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 212,
-  "turnos": 545,
-  "respondidos": 535,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 28.8,
+  "grupos_ativos": 213,
+  "turnos": 547,
+  "respondidos": 539,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 29.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 240,
-    "mediana_min": 46.8
+    "respostas": 242,
+    "mediana_min": 47
    },
    {
     "nome": "Nicolas",
-    "respostas": 115,
-    "mediana_min": 40.3
+    "respostas": 116,
+    "mediana_min": 40.5
    },
    {
     "nome": "Eduardo",
@@ -121,40 +121,28 @@
     "mediana_min": 5.9
    },
    {
+    "nome": "Tiago Bernardo",
+    "respostas": 3,
+    "mediana_min": 38.5
+   },
+   {
     "nome": "—",
     "respostas": 3,
     "mediana_min": 0.4
-   },
-   {
-    "nome": "Tiago Bernardo",
-    "respostas": 2,
-    "mediana_min": 23.3
    }
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.D.F.R.P x CENTRO DE ESTUDOS E PESQUISAS CIENTIFICAS FRANCISCO ANTONIO",
+    "grupo": "D.D.J.S x LEVEL 1 SERVICOS DE ENGENHARIA LTDA",
     "dia": "12/08",
-    "desde": "14:59",
-    "ts": 1786557557320
+    "desde": "16:02",
+    "ts": 1786561325363
    },
    {
     "grupo": "L.D.S.R x INSS",
     "dia": "12/08",
     "desde": "14:56",
     "ts": 1786557377416
-   },
-   {
-    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
-    "dia": "12/08",
-    "desde": "14:17",
-    "ts": 1786555027386
-   },
-   {
-    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
-    "dia": "12/08",
-    "desde": "14:23",
-    "ts": 1786555407387
    },
    {
     "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
@@ -235,28 +223,16 @@
     "ts": 1786545363285
    },
    {
-    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
-    "dia": "12/08",
-    "desde": "14:17",
-    "ts": 1786555027386
-   },
-   {
-    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
-    "dia": "12/08",
-    "desde": "14:23",
-    "ts": 1786555407387
-   },
-   {
     "grupo": "L.D.S.R x INSS",
     "dia": "12/08",
     "desde": "14:56",
     "ts": 1786557377416
    },
    {
-    "grupo": "M.D.F.R.P x CENTRO DE ESTUDOS E PESQUISAS CIENTIFICAS FRANCISCO ANTONIO",
+    "grupo": "D.D.J.S x LEVEL 1 SERVICOS DE ENGENHARIA LTDA",
     "dia": "12/08",
-    "desde": "14:59",
-    "ts": 1786557557320
+    "desde": "16:02",
+    "ts": 1786561325363
    }
   ]
  },
@@ -407,19 +383,30 @@
   ]
  },
  "agora": {
-  "fila": 419,
-  "abertos": 545,
+  "fila": 411,
+  "abertos": 531,
   "com_atendimento": 8,
   "online": 5,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 2675
+  "espera_media_s": 2730
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T17:54:19.254Z",
-  "min_sem_lead": 53
+  "ultimo_lead_at": "2026-08-06T19:49:41.443Z",
+  "min_sem_lead": 8593
  },
  "leads": [
+  {
+   "nome": "Beatriz Rayssa",
+   "tel": "5511*****967",
+   "criado": "12:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5512981216017",
    "tel": "5512*****017",
@@ -495,17 +482,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7VvbFaWie",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Beatriz Rayssa",
-   "tel": "5511*****967",
-   "criado": "12:59",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
   },
   {
