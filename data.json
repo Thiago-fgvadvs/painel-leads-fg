@@ -1,23 +1,23 @@
 {
- "gerado_em": "12/08/2026, 16:48",
+ "gerado_em": "12/08/2026, 17:03",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
-  "no_sla": 28,
+  "total": 34,
+  "no_sla": 29,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 298,
-  "tickets_abertos": 531,
+  "leads_7d": 299,
+  "tickets_abertos": 532,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 32,
+   "leads": 33,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 26,
+  "Anuncio": 27,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "www.instagram.com/p/DbyoAdIsARN/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/ey4Q1TKSH",
+   "leads": 2
   },
   {
    "url": "fb.me/7VvbFaWie",
@@ -58,14 +62,10 @@
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/ey4Q1TKSH",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 20,
+  "Trabalhista": 21,
   "Nao identificada": 11,
   "Previdenciario": 2
  },
@@ -412,25 +412,58 @@
   ]
  },
  "agora": {
-  "fila": 414,
-  "abertos": 531,
+  "fila": 413,
+  "abertos": 532,
   "com_atendimento": 8,
-  "online": 3,
+  "online": 5,
   "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 2719
+  "ausentes": 1,
+  "espera_media_s": 2713
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:58.961Z",
-  "min_sem_lead": 463765
+  "ultimo_lead_at": "2026-08-12T20:02:58.186Z",
+  "min_sem_lead": 1
  },
  "leads": [
   {
-   "nome": "5527999276637",
+   "nome": "553598142148",
+   "tel": "5535*****148",
+   "criado": "17:02",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/ey4Q1TKSH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Débora Cristina",
+   "tel": "5511*****535",
+   "criado": "11:37",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Ester",
    "tel": "5527*****637",
    "criado": "16:39",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 2.1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Beatriz Rayssa",
+   "tel": "5511*****967",
+   "criado": "12:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
@@ -446,17 +479,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Débora Cristina",
-   "tel": "5511*****535",
-   "criado": "11:37",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "egsilva700",
@@ -479,17 +501,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Beatriz Rayssa",
-   "tel": "5511*****967",
-   "criado": "12:59",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Earli",
