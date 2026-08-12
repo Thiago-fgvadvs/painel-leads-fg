@@ -1,23 +1,23 @@
 {
- "gerado_em": "12/08/2026, 10:27",
+ "gerado_em": "12/08/2026, 10:42",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 6,
+  "total": 12,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 275,
-  "tickets_abertos": 566,
+  "leads_7d": 277,
+  "tickets_abertos": 553,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 9,
+   "leads": 11,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 10,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -36,15 +36,19 @@
    "leads": 2
   },
   {
-   "url": "fb.me/23u6Sa6Iz3",
-   "leads": 1
+   "url": "fb.me/7VvbFaWie",
+   "leads": 2
   },
   {
-   "url": "fb.me/7VvbFaWie",
+   "url": "www.instagram.com/p/DbyoAdIsARN/",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/Db0dln6sawH/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/23u6Sa6Iz3",
    "leads": 1
   },
   {
@@ -61,24 +65,25 @@
   }
  ],
  "areas": {
-  "Nao identificada": 5,
-  "Trabalhista": 5
+  "Trabalhista": 5,
+  "Previdenciario": 1,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 501,
-  "respondidos": 487,
-  "sem_resposta": 14,
-  "sem_resposta_grupos": 14,
-  "mediana_min": 27.4,
+  "turnos": 504,
+  "respondidos": 491,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
+  "mediana_min": 27.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 205,
-    "mediana_min": 47
+    "respostas": 209,
+    "mediana_min": 41.5
    },
    {
     "nome": "Nicolas",
@@ -132,12 +137,6 @@
     "dia": "12/08",
     "desde": "10:10",
     "ts": 1786540205130
-   },
-   {
-    "grupo": "P.R.D.S.S x HAPVIDA",
-    "dia": "12/08",
-    "desde": "10:00",
-    "ts": 1786539607157
    },
    {
     "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
@@ -290,12 +289,6 @@
     "ts": 1786483752959
    },
    {
-    "grupo": "P.R.D.S.S x HAPVIDA",
-    "dia": "12/08",
-    "desde": "10:00",
-    "ts": 1786539607157
-   },
-   {
     "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
     "dia": "12/08",
     "desde": "10:10",
@@ -305,13 +298,22 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 11,
+  "total": 12,
   "por_vendedor": {
+   "Eduardo": 3,
    "Tiago Bernardo": 3,
-   "Roseli": 6,
-   "Eduardo": 2
+   "Roseli": 6
   },
   "lista": [
+   {
+    "vendedor": "Eduardo",
+    "cliente": "V",
+    "dia": "12/08",
+    "hora": "10:40",
+    "ts": 1786542026790,
+    "origem": "Anúncio: instagram.com/p/DbZBMoPsjD0/",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "L",
@@ -415,18 +417,73 @@
  },
  "agora": {
   "fila": 415,
-  "abertos": 566,
+  "abertos": 553,
   "com_atendimento": 6,
   "online": 5,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 2789
+  "espera_media_s": 2742
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T21:35:16.367Z",
-  "min_sem_lead": 952
+  "ultimo_lead_at": "2026-05-21T17:13:02.618Z",
+  "min_sem_lead": 119309
  },
  "leads": [
+  {
+   "nome": "Francisco",
+   "tel": "5551*****775",
+   "criado": "10:17",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/fljy4QK1m",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "🍀☘️Tânia ☘️🍀",
+   "tel": "5565*****152",
+   "criado": "10:27",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7VvbFaWie",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Earli",
+   "tel": "5521*****955",
+   "criado": "09:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7VvbFaWie",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Vida Privada Reservada🤍😉",
+   "tel": "5521*****455",
+   "criado": "10:32",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyoAdIsARN/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Day🥰",
+   "tel": "5571*****168",
+   "criado": "08:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db0dln6sawH/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "adcalculos",
    "tel": "5522*****917",
@@ -450,17 +507,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Francisco",
-   "tel": "5551*****775",
-   "criado": "10:17",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/fljy4QK1m",
-   "area": "Trabalhista"
-  },
-  {
    "nome": ".",
    "tel": "5511*****531",
    "criado": "06:20",
@@ -469,17 +515,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/fljy4QK1m",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Earli",
-   "tel": "5521*****955",
-   "criado": "09:28",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 1,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7VvbFaWie",
    "area": "Trabalhista"
   },
   {
@@ -492,17 +527,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Day🥰",
-   "tel": "5571*****168",
-   "criado": "08:35",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Db0dln6sawH/",
-   "area": "Trabalhista"
   },
   {
    "nome": "ilian🧿",
