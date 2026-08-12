@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/08/2026, 18:19",
+ "gerado_em": "12/08/2026, 18:35",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 11,
   "Trabalhista": 25,
+  "Nao identificada": 11,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -109,14 +109,14 @@
     "mediana_min": 0.7
    },
    {
-    "nome": "FG Advogados - Isadora ",
-    "respostas": 27,
-    "mediana_min": 1427.2
-   },
-   {
     "nome": "Gabrielle",
     "respostas": 27,
     "mediana_min": 3.1
+   },
+   {
+    "nome": "FG Advogados - Isadora ",
+    "respostas": 27,
+    "mediana_min": 1427.2
    },
    {
     "nome": "Luisa",
@@ -400,30 +400,19 @@
   ]
  },
  "agora": {
-  "fila": 420,
+  "fila": 419,
   "abertos": 538,
   "com_atendimento": 8,
-  "online": 3,
-  "offline": 5,
+  "online": 1,
+  "offline": 7,
   "ausentes": 1,
   "espera_media_s": 2682
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T17:11:20.220Z",
-  "min_sem_lead": 11768
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 684375
  },
  "leads": [
-  {
-   "nome": "Débora Cristina",
-   "tel": "5511*****535",
-   "criado": "11:37",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
   {
    "nome": "Mike Assis 🏹",
    "tel": "5511*****436",
@@ -445,6 +434,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/kMMSTN8VC",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Débora Cristina",
+   "tel": "5511*****535",
+   "criado": "11:37",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Ester",
