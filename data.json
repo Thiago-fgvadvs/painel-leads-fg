@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/08/2026, 12:28",
+ "gerado_em": "12/08/2026, 12:44",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 286,
-  "tickets_abertos": 537,
+  "tickets_abertos": 538,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -48,6 +48,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/kMMSTN8VC",
+   "leads": 1
+  },
+  {
    "url": "fb.me/ey4Q1TKSH",
    "leads": 1
   },
@@ -58,26 +62,22 @@
   {
    "url": "www.instagram.com/p/Db1RMyXsdNI/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/kMMSTN8VC",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9,
   "Nao identificada": 11,
-  "Previdenciario": 1
+  "Trabalhista": 8,
+  "Previdenciario": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 514,
+  "turnos": 515,
   "respondidos": 504,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 28.7,
   "atendentes": [
    {
@@ -132,6 +132,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
+    "dia": "12/08",
+    "desde": "12:34",
+    "ts": 1786548858229
+   },
    {
     "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "12/08",
@@ -257,6 +263,12 @@
     "dia": "12/08",
     "desde": "11:56",
     "ts": 1786546590277
+   },
+   {
+    "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
+    "dia": "12/08",
+    "desde": "12:34",
+    "ts": 1786548858229
    }
   ]
  },
@@ -390,7 +402,7 @@
  },
  "agora": {
   "fila": 418,
-  "abertos": 537,
+  "abertos": 538,
   "com_atendimento": 7,
   "online": 5,
   "offline": 2,
@@ -398,10 +410,65 @@
   "espera_media_s": 2698
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
-  "min_sem_lead": 13108
+  "ultimo_lead_at": "2026-08-12T12:44:05.056Z",
+  "min_sem_lead": 180
  },
  "leads": [
+  {
+   "nome": "Advogada Amanda Pivott de Jesus",
+   "tel": "5511*****549",
+   "criado": "09:44",
+   "atendente": "Nicolas",
+   "espera_min": 1.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Moita👍🏻",
+   "tel": "5561*****495",
+   "criado": "11:41",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/kMMSTN8VC",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5512992097400",
+   "tel": "5512*****400",
+   "criado": "12:17",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Earli",
+   "tel": "5521*****955",
+   "criado": "09:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7VvbFaWie",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Débora Cristina",
+   "tel": "5511*****535",
+   "criado": "11:37",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "egsilva700",
    "tel": "5521*****085",
@@ -425,17 +492,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5512992097400",
-   "tel": "5512*****400",
-   "criado": "12:17",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7tRJWUSsI",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Domingos Ferreira Pessoa",
    "tel": "5585*****767",
    "criado": "12:12",
@@ -445,17 +501,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db1RMyXsdNI/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Débora Cristina",
-   "tel": "5511*****535",
-   "criado": "11:37",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "556195690327",
@@ -469,17 +514,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Earli",
-   "tel": "5521*****955",
-   "criado": "09:28",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 1,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7VvbFaWie",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Pedro Gonçalves",
    "tel": "5512*****278",
    "criado": "11:50",
@@ -488,28 +522,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbyoAdIsARN/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Moita👍🏻",
-   "tel": "5561*****495",
-   "criado": "11:41",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/kMMSTN8VC",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Advogada Amanda Pivott de Jesus",
-   "tel": "5511*****549",
-   "criado": "09:44",
-   "atendente": "Nicolas",
-   "espera_min": 1.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Nao identificada"
   },
   {
