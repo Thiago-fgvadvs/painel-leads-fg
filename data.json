@@ -1,23 +1,23 @@
 {
- "gerado_em": "12/08/2026, 19:20",
+ "gerado_em": "12/08/2026, 19:36",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 38,
+  "total": 39,
   "no_sla": 33,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 4,
+  "fora_horario": 5,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 303,
-  "tickets_abertos": 538,
+  "leads_7d": 304,
+  "tickets_abertos": 539,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 37,
+   "leads": 38,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 31,
+  "Anuncio": 32,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -60,12 +60,12 @@
    "leads": 2
   },
   {
-   "url": "fb.me/kMMSTN8VC",
+   "url": "fb.me/kTYejxYr9",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 25,
+  "Trabalhista": 26,
   "Nao identificada": 11,
   "Previdenciario": 2
  },
@@ -204,7 +204,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "5511998138178",
+    "tel": "5511*****178",
+    "dia": "12/08",
+    "desde": "19:34",
+    "ts": 1786574064000
+   }
+  ],
   "grupos": [
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
@@ -424,19 +432,30 @@
   ]
  },
  "agora": {
-  "fila": 419,
-  "abertos": 538,
+  "fila": 420,
+  "abertos": 539,
   "com_atendimento": 8,
-  "online": 1,
-  "offline": 8,
+  "online": 0,
+  "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2682
+  "espera_media_s": 2676
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T14:41:37.979Z",
-  "min_sem_lead": 459
+  "ultimo_lead_at": "2026-08-12T22:34:24.000Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "5511998138178",
+   "tel": "5511*****178",
+   "criado": "19:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/kTYejxYr9",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Moita👍🏻",
    "tel": "5561*****495",
