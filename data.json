@@ -1,23 +1,23 @@
 {
- "gerado_em": "12/08/2026, 11:27",
+ "gerado_em": "12/08/2026, 11:43",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 8,
+  "total": 16,
+  "no_sla": 12,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 277,
-  "tickets_abertos": 530,
+  "leads_7d": 281,
+  "tickets_abertos": 534,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 11,
+   "leads": 15,
    "mediana_min": 0.4
   },
   {
@@ -27,8 +27,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 10,
-  "Direto/Indicacao": 2
+  "Anuncio": 13,
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -38,6 +38,18 @@
   {
    "url": "fb.me/fljy4QK1m",
    "leads": 2
+  },
+  {
+   "url": "fb.me/kMMSTN8VC",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/ey4Q1TKSH",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DbyqiNZMPek/",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DbyoAdIsARN/",
@@ -50,23 +62,11 @@
   {
    "url": "fb.me/23u6Sa6Iz3",
    "leads": 1
-  },
-  {
-   "url": "fb.me/87jYMAhSB",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/9Tu3a4cRn",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/7tRJWUSsI",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 6,
-  "Trabalhista": 5,
+  "Trabalhista": 7,
+  "Nao identificada": 8,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -74,10 +74,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 507,
+  "turnos": 509,
   "respondidos": 498,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 28.4,
   "atendentes": [
    {
@@ -133,6 +133,24 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "12/08",
+    "desde": "11:36",
+    "ts": 1786545363285
+   },
+   {
+    "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
+    "dia": "11/08",
+    "desde": "12:34",
+    "ts": 1786462475656
+   },
+   {
+    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
+    "dia": "12/08",
+    "desde": "11:28",
+    "ts": 1786544933208
+   },
+   {
     "grupo": "J.D.L x IBDSOCIAL",
     "dia": "11/08",
     "desde": "13:56",
@@ -155,12 +173,6 @@
     "dia": "11/08",
     "desde": "18:29",
     "ts": 1786483752959
-   },
-   {
-    "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
-    "dia": "11/08",
-    "desde": "12:34",
-    "ts": 1786462475656
    },
    {
     "grupo": "N.M.D.M x ADOBE ASSESSORIA DE SERVICOS CADASTRAIS S.A.",
@@ -245,6 +257,18 @@
     "dia": "12/08",
     "desde": "11:11",
     "ts": 1786543871268
+   },
+   {
+    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
+    "dia": "12/08",
+    "desde": "11:28",
+    "ts": 1786544933208
+   },
+   {
+    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "12/08",
+    "desde": "11:36",
+    "ts": 1786545363285
    }
   ]
  },
@@ -368,19 +392,63 @@
   ]
  },
  "agora": {
-  "fila": 414,
-  "abertos": 530,
+  "fila": 417,
+  "abertos": 534,
   "com_atendimento": 7,
   "online": 4,
   "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 2744
+  "espera_media_s": 2721
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T17:11:20.220Z",
-  "min_sem_lead": 11356
+  "ultimo_lead_at": "2026-08-12T14:41:37.979Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "Moita👍🏻",
+   "tel": "5561*****495",
+   "criado": "11:41",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/kMMSTN8VC",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "egsilva700",
+   "tel": "5521*****085",
+   "criado": "11:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/ey4Q1TKSH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "🙏🏻🙌🏻",
+   "tel": "5511*****340",
+   "criado": "11:41",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyqiNZMPek/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511967946535",
+   "tel": "5511*****535",
+   "criado": "11:37",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Advogada Amanda Pivott de Jesus",
    "tel": "5511*****549",
