@@ -1,23 +1,23 @@
 {
- "gerado_em": "12/08/2026, 14:46",
+ "gerado_em": "12/08/2026, 15:01",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
-  "no_sla": 25,
+  "total": 31,
+  "no_sla": 26,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 295,
-  "tickets_abertos": 547,
+  "leads_7d": 296,
+  "tickets_abertos": 550,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 28,
+   "leads": 29,
    "mediana_min": 0.4
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 24,
-  "Direto/Indicacao": 6
+  "Direto/Indicacao": 7
  },
  "criativos": [
   {
@@ -66,29 +66,29 @@
  ],
  "areas": {
   "Trabalhista": 16,
-  "Nao identificada": 12,
+  "Nao identificada": 13,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 210,
-  "turnos": 537,
-  "respondidos": 526,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
-  "mediana_min": 28.4,
+  "grupos_ativos": 212,
+  "turnos": 544,
+  "respondidos": 531,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
+  "mediana_min": 28.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 235,
-    "mediana_min": 47
+    "respostas": 239,
+    "mediana_min": 46.6
    },
    {
     "nome": "Nicolas",
-    "respostas": 113,
-    "mediana_min": 40.3
+    "respostas": 114,
+    "mediana_min": 39.7
    },
    {
     "nome": "Eduardo",
@@ -133,16 +133,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
+    "grupo": "M.D.F.R.P x CENTRO DE ESTUDOS E PESQUISAS CIENTIFICAS FRANCISCO ANTONIO",
     "dia": "12/08",
-    "desde": "11:56",
-    "ts": 1786546590277
+    "desde": "14:59",
+    "ts": 1786557557320
    },
    {
-    "grupo": "C.C.L x J.J. M. AGRICOLA LTDA",
+    "grupo": "L.D.S.R x INSS",
     "dia": "12/08",
-    "desde": "14:36",
-    "ts": 1786556188402
+    "desde": "14:56",
+    "ts": 1786557377416
+   },
+   {
+    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
+    "dia": "12/08",
+    "desde": "14:17",
+    "ts": 1786555027386
    },
    {
     "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
@@ -155,6 +161,12 @@
     "dia": "12/08",
     "desde": "13:53",
     "ts": 1786553618319
+   },
+   {
+    "grupo": "M.V.T x NASCIMENTO SERVICOS DE LIMPEZA LTDA",
+    "dia": "11/08",
+    "desde": "16:43",
+    "ts": 1786477407904
    },
    {
     "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
@@ -229,6 +241,12 @@
     "ts": 1786457232612
    },
    {
+    "grupo": "M.V.T x NASCIMENTO SERVICOS DE LIMPEZA LTDA",
+    "dia": "11/08",
+    "desde": "16:43",
+    "ts": 1786477407904
+   },
+   {
     "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
     "dia": "11/08",
     "desde": "18:29",
@@ -247,16 +265,16 @@
     "ts": 1786545363285
    },
    {
-    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
-    "dia": "12/08",
-    "desde": "11:56",
-    "ts": 1786546590277
-   },
-   {
     "grupo": "E.A.R.R x Banco Itaú ",
     "dia": "12/08",
     "desde": "13:53",
     "ts": 1786553618319
+   },
+   {
+    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
+    "dia": "12/08",
+    "desde": "14:17",
+    "ts": 1786555027386
    },
    {
     "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
@@ -265,10 +283,16 @@
     "ts": 1786555407387
    },
    {
-    "grupo": "C.C.L x J.J. M. AGRICOLA LTDA",
+    "grupo": "L.D.S.R x INSS",
     "dia": "12/08",
-    "desde": "14:36",
-    "ts": 1786556188402
+    "desde": "14:56",
+    "ts": 1786557377416
+   },
+   {
+    "grupo": "M.D.F.R.P x CENTRO DE ESTUDOS E PESQUISAS CIENTIFICAS FRANCISCO ANTONIO",
+    "dia": "12/08",
+    "desde": "14:59",
+    "ts": 1786557557320
    }
   ]
  },
@@ -401,17 +425,17 @@
   ]
  },
  "agora": {
-  "fila": 424,
-  "abertos": 547,
+  "fila": 423,
+  "abertos": 550,
   "com_atendimento": 8,
   "online": 5,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 2653
+  "espera_media_s": 2647
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-11T21:34:15.165Z",
-  "min_sem_lead": 1212
+  "min_sem_lead": 1227
  },
  "leads": [
   {
@@ -424,6 +448,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "❤️",
+   "tel": "5565*****124",
+   "criado": "13:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5512981216017",
+   "tel": "5512*****017",
+   "criado": "14:54",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Beatriz Rayssa",
@@ -501,17 +547,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/kMMSTN8VC",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "❤️",
-   "tel": "5565*****124",
-   "criado": "13:32",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "😀",
