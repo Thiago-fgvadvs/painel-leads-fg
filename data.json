@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/08/2026, 16:02",
+ "gerado_em": "12/08/2026, 16:17",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 297,
-  "tickets_abertos": 531,
+  "tickets_abertos": 526,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -32,11 +32,11 @@
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "url": "www.instagram.com/p/DbyoAdIsARN/",
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DbyoAdIsARN/",
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
    "leads": 3
   },
   {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 18,
-  "Nao identificada": 12,
+  "Nao identificada": 11,
+  "Trabalhista": 19,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -74,21 +74,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 213,
-  "turnos": 547,
-  "respondidos": 539,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "turnos": 549,
+  "respondidos": 543,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 29.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 242,
+    "respostas": 245,
     "mediana_min": 47
    },
    {
     "nome": "Nicolas",
-    "respostas": 116,
-    "mediana_min": 40.5
+    "respostas": 117,
+    "mediana_min": 40.7
    },
    {
     "nome": "Eduardo",
@@ -133,22 +133,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "D.D.J.S x LEVEL 1 SERVICOS DE ENGENHARIA LTDA",
-    "dia": "12/08",
-    "desde": "16:02",
-    "ts": 1786561325363
-   },
-   {
     "grupo": "L.D.S.R x INSS",
     "dia": "12/08",
     "desde": "14:56",
     "ts": 1786557377416
-   },
-   {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
-    "dia": "12/08",
-    "desde": "11:36",
-    "ts": 1786545363285
    },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
@@ -217,22 +205,10 @@
     "ts": 1786544933208
    },
    {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
-    "dia": "12/08",
-    "desde": "11:36",
-    "ts": 1786545363285
-   },
-   {
     "grupo": "L.D.S.R x INSS",
     "dia": "12/08",
     "desde": "14:56",
     "ts": 1786557377416
-   },
-   {
-    "grupo": "D.D.J.S x LEVEL 1 SERVICOS DE ENGENHARIA LTDA",
-    "dia": "12/08",
-    "desde": "16:02",
-    "ts": 1786561325363
    }
   ]
  },
@@ -384,18 +360,40 @@
  },
  "agora": {
   "fila": 411,
-  "abertos": 531,
+  "abertos": 526,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 3,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 2730
+  "ausentes": 3,
+  "espera_media_s": 2741
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-06T19:49:41.443Z",
-  "min_sem_lead": 8593
+  "ultimo_lead_at": "2026-08-12T16:32:39.258Z",
+  "min_sem_lead": 165
  },
  "leads": [
+  {
+   "nome": "❤️",
+   "tel": "5565*****124",
+   "criado": "13:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Pedro Gonçalves",
+   "tel": "5512*****278",
+   "criado": "11:50",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyoAdIsARN/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Beatriz Rayssa",
    "tel": "5511*****967",
@@ -428,17 +426,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db0dln6sawH/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "❤️",
-   "tel": "5565*****124",
-   "criado": "13:32",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Débora Cristina",
@@ -620,17 +607,6 @@
    "nome": "556195690327",
    "tel": "5561*****327",
    "criado": "11:52",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbyoAdIsARN/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Pedro Gonçalves",
-   "tel": "5512*****278",
-   "criado": "11:50",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
