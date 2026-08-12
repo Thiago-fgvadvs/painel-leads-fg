@@ -1,17 +1,17 @@
 {
- "gerado_em": "12/08/2026, 09:41",
+ "gerado_em": "12/08/2026, 09:56",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 3,
+  "total": 8,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
-  "mediana_geral": 0.4,
-  "leads_7d": 272,
-  "tickets_abertos": 560,
+  "mediana_geral": 0.7,
+  "leads_7d": 273,
+  "tickets_abertos": 559,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "Fernanda Gehm - Administradora",
    "leads": 7,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Nicolas",
+   "leads": 1,
+   "mediana_min": 1.6
   }
  ],
  "origem": {
   "Anuncio": 6,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -52,24 +57,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
-  "Nao identificada": 3
+  "Nao identificada": 4,
+  "Trabalhista": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 207,
-  "turnos": 489,
-  "respondidos": 478,
+  "grupos_ativos": 208,
+  "turnos": 493,
+  "respondidos": 482,
   "sem_resposta": 11,
   "sem_resposta_grupos": 11,
   "mediana_min": 26.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 203,
-    "mediana_min": 41.5
+    "respostas": 204,
+    "mediana_min": 44.3
    },
    {
     "nome": "Nicolas",
@@ -83,8 +88,8 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 38,
-    "mediana_min": 0.5
+    "respostas": 40,
+    "mediana_min": 0.6
    },
    {
     "nome": "Fernanda Gehm - Administradora",
@@ -93,8 +98,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 23,
-    "mediana_min": 2.8
+    "respostas": 24,
+    "mediana_min": 3
    },
    {
     "nome": "Luisa",
@@ -119,10 +124,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
+    "grupo": "L.D.S.R x IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE SAO PAULO",
     "dia": "12/08",
-    "desde": "06:56",
-    "ts": 1786528602097
+    "desde": "09:11",
+    "ts": 1786536677189
    },
    {
     "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
@@ -251,10 +256,10 @@
     "ts": 1786483752959
    },
    {
-    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
+    "grupo": "L.D.S.R x IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE SAO PAULO",
     "dia": "12/08",
-    "desde": "06:56",
-    "ts": 1786528602097
+    "desde": "09:11",
+    "ts": 1786536677189
    }
   ]
  },
@@ -369,19 +374,30 @@
   ]
  },
  "agora": {
-  "fila": 413,
-  "abertos": 560,
-  "com_atendimento": 8,
-  "online": 5,
-  "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 1225
+  "fila": 412,
+  "abertos": 559,
+  "com_atendimento": 7,
+  "online": 4,
+  "offline": 5,
+  "ausentes": 0,
+  "espera_media_s": 2800
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-26T20:24:27.894Z",
-  "min_sem_lead": 111857
+  "ultimo_lead_at": "2026-08-11T00:37:04.850Z",
+  "min_sem_lead": 2179
  },
  "leads": [
+  {
+   "nome": "Advogada Amanda Pivott de Jesus",
+   "tel": "5511*****549",
+   "criado": "09:44",
+   "atendente": "Nicolas",
+   "espera_min": 1.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Earli",
    "tel": "5521*****955",
