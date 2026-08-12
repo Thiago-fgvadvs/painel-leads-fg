@@ -1,33 +1,37 @@
 {
- "gerado_em": "12/08/2026, 07:39",
+ "gerado_em": "12/08/2026, 07:54",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
+  "total": 4,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 3,
+  "fora_horario": 4,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 268,
-  "tickets_abertos": 555,
+  "leads_7d": 269,
+  "tickets_abertos": 556,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 3,
+   "leads": 4,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "fb.me/fljy4QK1m",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/87jYMAhSB",
    "leads": 1
   },
   {
@@ -41,7 +45,7 @@
  ],
  "areas": {
   "Trabalhista": 2,
-  "Nao identificada": 1
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -357,17 +361,17 @@
   ]
  },
  "agora": {
-  "fila": 409,
-  "abertos": 555,
+  "fila": 410,
+  "abertos": 556,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 1235
+  "espera_media_s": 1233
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T21:38:50.189Z",
-  "min_sem_lead": 781
+  "ultimo_lead_at": "2026-08-12T09:20:09.949Z",
+  "min_sem_lead": 95
  },
  "leads": [
   {
@@ -380,6 +384,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/fljy4QK1m",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "ilian🧿",
+   "tel": "5842*****508",
+   "criado": "07:50",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87jYMAhSB",
+   "area": "Nao identificada"
   },
   {
    "nome": "558486493476",
