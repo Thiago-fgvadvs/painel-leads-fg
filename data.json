@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/08/2026, 11:12",
+ "gerado_em": "12/08/2026, 11:27",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 277,
-  "tickets_abertos": 528,
+  "tickets_abertos": 530,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,30 +65,30 @@
   }
  ],
  "areas": {
+  "Nao identificada": 6,
   "Trabalhista": 5,
-  "Previdenciario": 1,
-  "Nao identificada": 6
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 505,
-  "respondidos": 496,
+  "turnos": 507,
+  "respondidos": 498,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 28.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 213,
+    "respostas": 214,
     "mediana_min": 47
    },
    {
     "nome": "Nicolas",
-    "respostas": 105,
-    "mediana_min": 40.7
+    "respostas": 106,
+    "mediana_min": 40.5
    },
    {
     "nome": "Eduardo",
@@ -133,6 +133,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "J.D.L x IBDSOCIAL",
+    "dia": "11/08",
+    "desde": "13:56",
+    "ts": 1786467367729
+   },
+   {
     "grupo": "A.F.G",
     "dia": "12/08",
     "desde": "11:11",
@@ -143,12 +149,6 @@
     "dia": "11/08",
     "desde": "13:01",
     "ts": 1786464063717
-   },
-   {
-    "grupo": "F.D.A.F",
-    "dia": "12/08",
-    "desde": "08:13",
-    "ts": 1786533202068
    },
    {
     "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
@@ -229,16 +229,16 @@
     "ts": 1786464063717
    },
    {
+    "grupo": "J.D.L x IBDSOCIAL",
+    "dia": "11/08",
+    "desde": "13:56",
+    "ts": 1786467367729
+   },
+   {
     "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
     "dia": "11/08",
     "desde": "18:29",
     "ts": 1786483752959
-   },
-   {
-    "grupo": "F.D.A.F",
-    "dia": "12/08",
-    "desde": "08:13",
-    "ts": 1786533202068
    },
    {
     "grupo": "A.F.G",
@@ -368,19 +368,30 @@
   ]
  },
  "agora": {
-  "fila": 413,
-  "abertos": 528,
+  "fila": 414,
+  "abertos": 530,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 4,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 2743
+  "ausentes": 2,
+  "espera_media_s": 2744
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T12:28:36.544Z",
-  "min_sem_lead": 104
+  "ultimo_lead_at": "2026-08-04T17:11:20.220Z",
+  "min_sem_lead": 11356
  },
  "leads": [
+  {
+   "nome": "Advogada Amanda Pivott de Jesus",
+   "tel": "5511*****549",
+   "criado": "09:44",
+   "atendente": "Nicolas",
+   "espera_min": 1.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Earli",
    "tel": "5521*****955",
@@ -413,17 +424,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/fljy4QK1m",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Advogada Amanda Pivott de Jesus",
-   "tel": "5511*****549",
-   "criado": "09:44",
-   "atendente": "Nicolas",
-   "espera_min": 1.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Vida Privada Reservada🤍😉",
