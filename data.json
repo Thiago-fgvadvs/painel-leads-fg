@@ -1,23 +1,23 @@
 {
- "gerado_em": "12/08/2026, 11:43",
+ "gerado_em": "12/08/2026, 11:58",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 12,
+  "total": 18,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 281,
-  "tickets_abertos": 534,
+  "leads_7d": 283,
+  "tickets_abertos": 535,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 15,
+   "leads": 17,
    "mediana_min": 0.4
   },
   {
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 15,
   "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DbyoAdIsARN/",
+   "leads": 3
+  },
   {
    "url": "fb.me/7VvbFaWie",
    "leads": 2
@@ -40,19 +44,15 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DbyqiNZMPek/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/kMMSTN8VC",
    "leads": 1
   },
   {
    "url": "fb.me/ey4Q1TKSH",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbyqiNZMPek/",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbyoAdIsARN/",
    "leads": 1
   },
   {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
+  "Nao identificada": 10,
   "Trabalhista": 7,
-  "Nao identificada": 8,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -74,15 +74,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 509,
-  "respondidos": 498,
+  "turnos": 511,
+  "respondidos": 500,
   "sem_resposta": 11,
   "sem_resposta_grupos": 11,
   "mediana_min": 28.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 214,
+    "respostas": 216,
     "mediana_min": 47
    },
    {
@@ -133,10 +133,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
     "dia": "12/08",
-    "desde": "11:36",
-    "ts": 1786545363285
+    "desde": "11:56",
+    "ts": 1786546590277
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
@@ -145,16 +145,16 @@
     "ts": 1786462475656
    },
    {
+    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "12/08",
+    "desde": "11:36",
+    "ts": 1786545363285
+   },
+   {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "12/08",
     "desde": "11:28",
     "ts": 1786544933208
-   },
-   {
-    "grupo": "J.D.L x IBDSOCIAL",
-    "dia": "11/08",
-    "desde": "13:56",
-    "ts": 1786467367729
    },
    {
     "grupo": "A.F.G",
@@ -241,12 +241,6 @@
     "ts": 1786464063717
    },
    {
-    "grupo": "J.D.L x IBDSOCIAL",
-    "dia": "11/08",
-    "desde": "13:56",
-    "ts": 1786467367729
-   },
-   {
     "grupo": "R.P.D.S x P A RUNICHI CARNAVALE LTDA",
     "dia": "11/08",
     "desde": "18:29",
@@ -269,6 +263,12 @@
     "dia": "12/08",
     "desde": "11:36",
     "ts": 1786545363285
+   },
+   {
+    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
+    "dia": "12/08",
+    "desde": "11:56",
+    "ts": 1786546590277
    }
   ]
  },
@@ -392,19 +392,74 @@
   ]
  },
  "agora": {
-  "fila": 417,
-  "abertos": 534,
+  "fila": 418,
+  "abertos": 535,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 5,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 2721
+  "ausentes": 1,
+  "espera_media_s": 2709
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T14:41:37.979Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-08-12T14:41:43.797Z",
+  "min_sem_lead": 17
  },
  "leads": [
+  {
+   "nome": "🙏🏻🙌🏻",
+   "tel": "5511*****340",
+   "criado": "11:41",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyqiNZMPek/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Débora Cristina",
+   "tel": "5511*****535",
+   "criado": "11:37",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "556195690327",
+   "tel": "5561*****327",
+   "criado": "11:52",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyoAdIsARN/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Earli",
+   "tel": "5521*****955",
+   "criado": "09:28",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7VvbFaWie",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Pedro Gonçalves",
+   "tel": "5512*****278",
+   "criado": "11:50",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyoAdIsARN/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Moita👍🏻",
    "tel": "5561*****495",
@@ -428,28 +483,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "🙏🏻🙌🏻",
-   "tel": "5511*****340",
-   "criado": "11:41",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbyqiNZMPek/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5511967946535",
-   "tel": "5511*****535",
-   "criado": "11:37",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Advogada Amanda Pivott de Jesus",
    "tel": "5511*****549",
    "criado": "09:44",
@@ -459,17 +492,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Earli",
-   "tel": "5521*****955",
-   "criado": "09:28",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 1,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7VvbFaWie",
-   "area": "Trabalhista"
   },
   {
    "nome": "🍀☘️Tânia ☘️🍀",
