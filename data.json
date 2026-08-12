@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/08/2026, 10:42",
+ "gerado_em": "12/08/2026, 10:57",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 277,
-  "tickets_abertos": 553,
+  "tickets_abertos": 529,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -32,11 +32,11 @@
  },
  "criativos": [
   {
-   "url": "fb.me/fljy4QK1m",
+   "url": "fb.me/7VvbFaWie",
    "leads": 2
   },
   {
-   "url": "fb.me/7VvbFaWie",
+   "url": "fb.me/fljy4QK1m",
    "leads": 2
   },
   {
@@ -65,25 +65,25 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
+  "Nao identificada": 6,
   "Previdenciario": 1,
-  "Nao identificada": 6
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 504,
-  "respondidos": 491,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
-  "mediana_min": 27.6,
+  "turnos": 501,
+  "respondidos": 492,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 27.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 209,
-    "mediana_min": 41.5
+    "respostas": 210,
+    "mediana_min": 44.3
    },
    {
     "nome": "Nicolas",
@@ -163,22 +163,10 @@
     "ts": 1786462475656
    },
    {
-    "grupo": "E.M.D.S x ZAMP S.A.",
-    "dia": "11/08",
-    "desde": "12:08",
-    "ts": 1786460907593
-   },
-   {
     "grupo": "N.M.D.M x ADOBE ASSESSORIA DE SERVICOS CADASTRAIS S.A.",
     "dia": "11/08",
     "desde": "11:07",
     "ts": 1786457232612
-   },
-   {
-    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
-    "dia": "11/08",
-    "desde": "09:01",
-    "ts": 1786449662481
    },
    {
     "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
@@ -197,18 +185,6 @@
     "dia": "07/08",
     "desde": "18:51",
     "ts": 1786139481338
-   },
-   {
-    "grupo": "V.F.D.S x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA.",
-    "dia": "07/08",
-    "desde": "13:11",
-    "ts": 1786119100194
-   },
-   {
-    "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
-    "dia": "07/08",
-    "desde": "12:26",
-    "ts": 1786116409169
    }
   ]
  },
@@ -217,18 +193,6 @@
   "leads": [],
   "grupos": [
    {
-    "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
-    "dia": "07/08",
-    "desde": "12:26",
-    "ts": 1786116409169
-   },
-   {
-    "grupo": "V.F.D.S x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA.",
-    "dia": "07/08",
-    "desde": "13:11",
-    "ts": 1786119100194
-   },
-   {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
     "dia": "07/08",
     "desde": "18:32",
@@ -245,12 +209,6 @@
     "dia": "10/08",
     "desde": "10:17",
     "ts": 1786367829994
-   },
-   {
-    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
-    "dia": "11/08",
-    "desde": "09:01",
-    "ts": 1786449662481
    },
    {
     "grupo": "N.M.D.M x ADOBE ASSESSORIA DE SERVICOS CADASTRAIS S.A.",
@@ -263,12 +221,6 @@
     "dia": "11/08",
     "desde": "11:35",
     "ts": 1786458946639
-   },
-   {
-    "grupo": "E.M.D.S x ZAMP S.A.",
-    "dia": "11/08",
-    "desde": "12:08",
-    "ts": 1786460907593
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
@@ -298,13 +250,22 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 12,
+  "total": 13,
   "por_vendedor": {
-   "Eduardo": 3,
+   "Eduardo": 4,
    "Tiago Bernardo": 3,
    "Roseli": 6
   },
   "lista": [
+   {
+    "vendedor": "Eduardo",
+    "cliente": "\ud83d",
+    "dia": "12/08",
+    "hora": "10:43",
+    "ts": 1786542191918,
+    "origem": "Anúncio: instagram.com/p/DaVuNbaM1sG/",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Eduardo",
     "cliente": "V",
@@ -417,28 +378,28 @@
  },
  "agora": {
   "fila": 415,
-  "abertos": 553,
+  "abertos": 529,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 4,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 2742
+  "ausentes": 2,
+  "espera_media_s": 2743
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-21T17:13:02.618Z",
-  "min_sem_lead": 119309
+  "ultimo_lead_at": "2026-08-12T12:44:05.056Z",
+  "min_sem_lead": 73
  },
  "leads": [
   {
-   "nome": "Francisco",
-   "tel": "5551*****775",
-   "criado": "10:17",
-   "atendente": "Fernanda Gehm - Administradora",
-   "espera_min": 0.3,
+   "nome": "Advogada Amanda Pivott de Jesus",
+   "tel": "5511*****549",
+   "criado": "09:44",
+   "atendente": "Nicolas",
+   "espera_min": 1.6,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/fljy4QK1m",
-   "area": "Trabalhista"
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "🍀☘️Tânia ☘️🍀",
@@ -450,6 +411,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7VvbFaWie",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "Francisco",
+   "tel": "5551*****775",
+   "criado": "10:17",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/fljy4QK1m",
+   "area": "Trabalhista"
   },
   {
    "nome": "Earli",
@@ -493,17 +465,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/23u6Sa6Iz3",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Advogada Amanda Pivott de Jesus",
-   "tel": "5511*****549",
-   "criado": "09:44",
-   "atendente": "Nicolas",
-   "espera_min": 1.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Nao identificada"
   },
   {
