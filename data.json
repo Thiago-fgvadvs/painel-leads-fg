@@ -1,31 +1,35 @@
 {
- "gerado_em": "12/08/2026, 08:25",
+ "gerado_em": "12/08/2026, 08:40",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 0,
+  "total": 5,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 269,
-  "tickets_abertos": 556,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 270,
+  "tickets_abertos": 557,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "Fernanda Gehm - Administradora",
-   "leads": 4,
-   "mediana_min": null
+   "leads": 5,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/Db0dln6sawH/",
+   "leads": 1
+  },
   {
    "url": "fb.me/fljy4QK1m",
    "leads": 1
@@ -44,7 +48,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2,
+  "Trabalhista": 3,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -361,21 +365,32 @@
   ]
  },
  "agora": {
-  "fila": 410,
-  "abertos": 556,
+  "fila": 411,
+  "abertos": 557,
   "com_atendimento": 7,
-  "online": 0,
-  "offline": 9,
+  "online": 1,
+  "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 1233
+  "espera_media_s": 1230
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T21:38:50.189Z",
-  "min_sem_lead": 826
+  "ultimo_lead_at": "2026-08-12T11:35:53.156Z",
+  "min_sem_lead": 4
  },
  "leads": [
   {
-   "nome": "5511967845531",
+   "nome": "Day🥰",
+   "tel": "5571*****168",
+   "criado": "08:35",
+   "atendente": "Fernanda Gehm - Administradora",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db0dln6sawH/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": ".",
    "tel": "5511*****531",
    "criado": "06:20",
    "atendente": "Fernanda Gehm - Administradora",
