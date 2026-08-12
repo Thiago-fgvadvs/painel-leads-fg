@@ -1,23 +1,23 @@
 {
- "gerado_em": "12/08/2026, 20:37",
+ "gerado_em": "12/08/2026, 20:52",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 42,
+  "total": 45,
   "no_sla": 33,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 8,
+  "fora_horario": 11,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 307,
-  "tickets_abertos": 543,
+  "leads_7d": 310,
+  "tickets_abertos": 547,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 41,
+   "leads": 44,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 35,
+  "Anuncio": 38,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "www.instagram.com/p/DbyoAdIsARN/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/kMMSTN8VC",
+   "leads": 2
   },
   {
    "url": "fb.me/ey4Q1TKSH",
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/7tRJWUSsI",
    "leads": 2
-  },
-  {
-   "url": "fb.me/4NSAy14MY",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 31,
   "Nao identificada": 12,
-  "Trabalhista": 28,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -82,15 +82,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 561,
-  "respondidos": 551,
+  "turnos": 562,
+  "respondidos": 552,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
   "mediana_min": 29.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 248,
+    "respostas": 249,
     "mediana_min": 47
    },
    {
@@ -204,15 +204,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "CLÓVES🙏",
-    "tel": "5527*****373",
-    "dia": "12/08",
-    "desde": "20:27",
-    "ts": 1786577247414
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
@@ -432,19 +424,63 @@
   ]
  },
  "agora": {
-  "fila": 424,
-  "abertos": 543,
+  "fila": 428,
+  "abertos": 547,
   "com_atendimento": 8,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2659
+  "espera_media_s": 2637
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T13:14:54.382Z",
-  "min_sem_lead": 2062
+  "ultimo_lead_at": "2026-08-12T23:51:07.980Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "553199307083",
+   "tel": "5531*****083",
+   "criado": "20:51",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9bs8zcB8M",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558796320828",
+   "tel": "5587*****828",
+   "criado": "20:50",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.8,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/kMMSTN8VC",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ester",
+   "tel": "5527*****637",
+   "criado": "16:39",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 2.1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558188915125",
+   "tel": "5581*****125",
+   "criado": "20:39",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7SoCxzO0g",
+   "area": "Trabalhista"
+  },
   {
    "nome": "CLÓVES🙏",
    "tel": "5527*****373",
@@ -474,17 +510,6 @@
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.5,
    "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Ester",
-   "tel": "5527*****637",
-   "criado": "16:39",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 2.1,
-   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
