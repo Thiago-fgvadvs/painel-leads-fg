@@ -1,5 +1,5 @@
 {
- "gerado_em": "13/08/2026, 11:13",
+ "gerado_em": "13/08/2026, 11:28",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 286,
-  "tickets_abertos": 565,
+  "tickets_abertos": 564,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -51,17 +51,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 199,
-  "turnos": 499,
-  "respondidos": 488,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
-  "mediana_min": 19.4,
+  "grupos_ativos": 200,
+  "turnos": 504,
+  "respondidos": 494,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 19.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 271,
-    "mediana_min": 18.4
+    "respostas": 277,
+    "mediana_min": 18.8
    },
    {
     "nome": "Nicolas",
@@ -111,10 +111,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
+    "grupo": "A.J.C",
     "dia": "13/08",
-    "desde": "10:46",
-    "ts": 1786628790857
+    "desde": "11:24",
+    "ts": 1786631087847
    },
    {
     "grupo": "J.C.C.(",
@@ -139,12 +139,6 @@
     "dia": "12/08",
     "desde": "18:53",
     "ts": 1786571588616
-   },
-   {
-    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
-    "dia": "12/08",
-    "desde": "16:16",
-    "ts": 1786562210409
    },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
@@ -234,22 +228,10 @@
     "ts": 1786553682359
    },
    {
-    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
-    "dia": "12/08",
-    "desde": "16:16",
-    "ts": 1786562210409
-   },
-   {
     "grupo": "A.F.G",
     "dia": "12/08",
     "desde": "18:53",
     "ts": 1786571588616
-   },
-   {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
-    "dia": "13/08",
-    "desde": "10:46",
-    "ts": 1786628790857
    },
    {
     "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
@@ -262,6 +244,12 @@
     "dia": "13/08",
     "desde": "11:08",
     "ts": 1786630137844
+   },
+   {
+    "grupo": "A.J.C",
+    "dia": "13/08",
+    "desde": "11:24",
+    "ts": 1786631087847
    }
   ]
  },
@@ -403,17 +391,17 @@
   ]
  },
  "agora": {
-  "fila": 443,
-  "abertos": 565,
+  "fila": 444,
+  "abertos": 564,
   "com_atendimento": 8,
-  "online": 6,
+  "online": 3,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 1128
+  "ausentes": 4,
+  "espera_media_s": 1129
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-13T14:05:24.217Z",
-  "min_sem_lead": 7
+  "min_sem_lead": 23
  },
  "leads": [
   {
