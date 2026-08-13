@@ -1,37 +1,41 @@
 {
- "gerado_em": "13/08/2026, 09:56",
+ "gerado_em": "13/08/2026, 10:12",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 2,
+  "total": 5,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
-  "mediana_geral": 0.2,
-  "leads_7d": 283,
-  "tickets_abertos": 561,
+  "mediana_geral": 0.4,
+  "leads_7d": 284,
+  "tickets_abertos": 563,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
-   "mediana_min": 0.2
+   "leads": 5,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
-   "url": "fb.me/9bs8zcB8M",
+   "url": "www.instagram.com/p/Db0c3qfMTXm/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/Db0c3qfMTXm/",
+   "url": "fb.me/73927V0PX",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/9bs8zcB8M",
    "leads": 1
   },
   {
@@ -41,17 +45,17 @@
  ],
  "areas": {
   "Trabalhista": 3,
-  "Nao identificada": 1
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 197,
-  "turnos": 467,
+  "turnos": 469,
   "respondidos": 458,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 22.4,
   "atendentes": [
    {
@@ -107,6 +111,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
+    "dia": "13/08",
+    "desde": "09:53",
+    "ts": 1786625612748
+   },
+   {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
     "dia": "12/08",
     "desde": "13:54",
@@ -123,6 +133,12 @@
     "dia": "12/08",
     "desde": "18:49",
     "ts": 1786571340524
+   },
+   {
+    "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
+    "dia": "12/08",
+    "desde": "18:01",
+    "ts": 1786568485499
    },
    {
     "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
@@ -209,6 +225,12 @@
     "ts": 1786562210409
    },
    {
+    "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
+    "dia": "12/08",
+    "desde": "18:01",
+    "ts": 1786568485499
+   },
+   {
     "grupo": "R.P x SEARA ALIMENTOS LTDA",
     "dia": "12/08",
     "desde": "18:49",
@@ -219,6 +241,12 @@
     "dia": "12/08",
     "desde": "18:53",
     "ts": 1786571588616
+   },
+   {
+    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
+    "dia": "13/08",
+    "desde": "09:53",
+    "ts": 1786625612748
    }
   ]
  },
@@ -352,29 +380,18 @@
  },
  "agora": {
   "fila": 439,
-  "abertos": 561,
-  "com_atendimento": 8,
-  "online": 3,
-  "offline": 4,
-  "ausentes": 2,
-  "espera_media_s": 2669
+  "abertos": 563,
+  "com_atendimento": 7,
+  "online": 6,
+  "offline": 2,
+  "ausentes": 1,
+  "espera_media_s": 2664
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:51:16.849Z",
-  "min_sem_lead": 685265
+  "ultimo_lead_at": "2026-08-11T14:55:52.137Z",
+  "min_sem_lead": 2776
  },
  "leads": [
-  {
-   "nome": "felicidade",
-   "tel": "5583*****553",
-   "criado": "00:42",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9bs8zcB8M",
-   "area": "Trabalhista"
-  },
   {
    "nome": "😎😌💨",
    "tel": "5554*****351",
@@ -384,6 +401,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db0c3qfMTXm/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Raimunda",
+   "tel": "5569*****704",
+   "criado": "10:09",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/73927V0PX",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "felicidade",
+   "tel": "5583*****553",
+   "criado": "00:42",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9bs8zcB8M",
    "area": "Trabalhista"
   },
   {
