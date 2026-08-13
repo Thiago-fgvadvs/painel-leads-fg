@@ -1,23 +1,23 @@
 {
- "gerado_em": "13/08/2026, 14:46",
+ "gerado_em": "13/08/2026, 15:02",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
-  "no_sla": 15,
+  "total": 19,
+  "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 297,
-  "tickets_abertos": 575,
+  "leads_7d": 298,
+  "tickets_abertos": 573,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -44,11 +44,15 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DbwOTH9sH8t/",
+   "url": "www.instagram.com/p/Db3h6EcMD9Q/",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/Db0dln6sawH/",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DbwOTH9sH8t/",
    "leads": 1
   },
   {
@@ -58,26 +62,22 @@
   {
    "url": "fb.me/41inlpyts",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Db0c3qfMTXm/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
+  "Trabalhista": 11,
   "Nao identificada": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 210,
+  "grupos_ativos": 211,
   "turnos": 537,
-  "respondidos": 529,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 21.8,
+  "respondidos": 530,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 21.4,
   "atendentes": [
    {
     "nome": "Julia",
@@ -86,8 +86,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 97,
-    "mediana_min": 29.6
+    "respostas": 98,
+    "mediana_min": 29.2
    },
    {
     "nome": "Eduardo",
@@ -131,12 +131,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
-    "dia": "13/08",
-    "desde": "14:46",
-    "ts": 1786643202037
-   },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "13/08",
@@ -226,12 +220,6 @@
     "dia": "13/08",
     "desde": "13:03",
     "ts": 1786637037792
-   },
-   {
-    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
-    "dia": "13/08",
-    "desde": "14:46",
-    "ts": 1786643202037
    }
   ]
  },
@@ -373,19 +361,41 @@
   ]
  },
  "agora": {
-  "fila": 450,
-  "abertos": 575,
-  "com_atendimento": 8,
-  "online": 6,
+  "fila": 447,
+  "abertos": 573,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 1120
+  "ausentes": 3,
+  "espera_media_s": 1118
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T17:45:56.684Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-06-16T19:28:40.563Z",
+  "min_sem_lead": 83433
  },
  "leads": [
+  {
+   "nome": "558898503034",
+   "tel": "5588*****034",
+   "criado": "14:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h6EcMD9Q/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "A V",
+   "tel": "5561*****306",
+   "criado": "14:42",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db0dln6sawH/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "554499006460",
    "tel": "5544*****460",
@@ -395,17 +405,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbwOTH9sH8t/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "556181858306",
-   "tel": "5561*****306",
-   "criado": "14:42",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Db0dln6sawH/",
    "area": "Trabalhista"
   },
   {
@@ -464,7 +463,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "555196634583",
+   "nome": "Jurema Voese😃",
    "tel": "5551*****583",
    "criado": "14:07",
    "atendente": "FG Advogados - Isadora ",
