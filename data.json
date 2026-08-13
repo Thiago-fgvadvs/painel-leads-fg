@@ -1,23 +1,23 @@
 {
- "gerado_em": "12/08/2026, 21:07",
+ "gerado_em": "12/08/2026, 21:23",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 47,
+  "total": 48,
   "no_sla": 33,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 13,
+  "fora_horario": 14,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 312,
-  "tickets_abertos": 549,
+  "leads_7d": 313,
+  "tickets_abertos": 550,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 46,
+   "leads": 47,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 40,
+  "Anuncio": 41,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "www.instagram.com/p/DbyoAdIsARN/",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/Db3h15Hso0z/",
+   "leads": 2
   },
   {
    "url": "fb.me/kMMSTN8VC",
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/fljy4QK1m",
    "leads": 2
-  },
-  {
-   "url": "fb.me/7tRJWUSsI",
-   "leads": 2
   }
  ],
  "areas": {
-  "Trabalhista": 32,
   "Previdenciario": 3,
+  "Trabalhista": 33,
   "Nao identificada": 12
  },
  "sem_resposta_lista": [],
@@ -424,19 +424,30 @@
   ]
  },
  "agora": {
-  "fila": 430,
-  "abertos": 549,
+  "fila": 431,
+  "abertos": 550,
   "com_atendimento": 8,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2626
+  "espera_media_s": 2621
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T00:02:08.345Z",
-  "min_sem_lead": 6
+  "ultimo_lead_at": "2026-08-13T00:02:47.787Z",
+  "min_sem_lead": 20
  },
  "leads": [
+  {
+   "nome": "5518996635934",
+   "tel": "5518*****934",
+   "criado": "21:02",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h15Hso0z/",
+   "area": "Previdenciario"
+  },
   {
    "nome": "553799526308",
    "tel": "5537*****308",
@@ -449,15 +460,15 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5518996635934",
-   "tel": "5518*****934",
-   "criado": "21:02",
+   "nome": "Antônio JR",
+   "tel": "5524*****678",
+   "criado": "21:15",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h15Hso0z/",
-   "area": "Previdenciario"
+   "area": "Trabalhista"
   },
   {
    "nome": "558796320828",
