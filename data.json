@@ -1,5 +1,5 @@
 {
- "gerado_em": "13/08/2026, 14:16",
+ "gerado_em": "13/08/2026, 14:31",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 293,
-  "tickets_abertos": 568,
+  "tickets_abertos": 569,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -63,17 +63,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 209,
-  "turnos": 532,
-  "respondidos": 525,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 21.8,
+  "grupos_ativos": 210,
+  "turnos": 536,
+  "respondidos": 528,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 21.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 295,
-    "mediana_min": 19.6
+    "respostas": 297,
+    "mediana_min": 19.1
    },
    {
     "nome": "Nicolas",
@@ -87,8 +87,8 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 29,
-    "mediana_min": 0.8
+    "respostas": 30,
+    "mediana_min": 1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -106,14 +106,14 @@
     "mediana_min": 6.5
    },
    {
-    "nome": "Luisa",
-    "respostas": 4,
-    "mediana_min": 14.8
-   },
-   {
     "nome": "—",
     "respostas": 4,
     "mediana_min": 8.6
+   },
+   {
+    "nome": "Luisa",
+    "respostas": 4,
+    "mediana_min": 14.8
    },
    {
     "nome": "Tiago Bernardo",
@@ -122,6 +122,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
+    "dia": "13/08",
+    "desde": "11:46",
+    "ts": 1786632414902
+   },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "13/08",
@@ -213,6 +219,12 @@
     "dia": "12/08",
     "desde": "13:54",
     "ts": 1786553682359
+   },
+   {
+    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
+    "dia": "13/08",
+    "desde": "11:46",
+    "ts": 1786632414902
    },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
@@ -361,16 +373,16 @@
  },
  "agora": {
   "fila": 446,
-  "abertos": 568,
-  "com_atendimento": 8,
-  "online": 6,
+  "abertos": 569,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 1129
+  "ausentes": 3,
+  "espera_media_s": 1127
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T16:29:08.439Z",
-  "min_sem_lead": 47
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 685572
  },
  "leads": [
   {
