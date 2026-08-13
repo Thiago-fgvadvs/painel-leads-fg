@@ -1,31 +1,35 @@
 {
- "gerado_em": "13/08/2026, 13:30",
+ "gerado_em": "13/08/2026, 13:45",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 8,
+  "total": 11,
+  "no_sla": 9,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 289,
-  "tickets_abertos": 567,
+  "leads_7d": 290,
+  "tickets_abertos": 566,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 4
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "leads": 2
+  },
   {
    "url": "fb.me/73927V0PX",
    "leads": 2
@@ -41,31 +45,27 @@
   {
    "url": "fb.me/9bs8zcB8M",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 1
   }
  ],
  "areas": {
   "Nao identificada": 5,
-  "Trabalhista": 5
+  "Trabalhista": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 208,
-  "turnos": 522,
-  "respondidos": 512,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 19.8,
+  "turnos": 524,
+  "respondidos": 516,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 20.5,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 287,
-    "mediana_min": 18.8
+    "respostas": 290,
+    "mediana_min": 19.4
    },
    {
     "nome": "Nicolas",
@@ -79,7 +79,7 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 28,
+    "respostas": 29,
     "mediana_min": 0.8
    },
    {
@@ -115,12 +115,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.J.C",
-    "dia": "13/08",
-    "desde": "13:30",
-    "ts": 1786638606810
-   },
-   {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "13/08",
     "desde": "13:26",
@@ -131,12 +125,6 @@
     "dia": "13/08",
     "desde": "13:03",
     "ts": 1786637037792
-   },
-   {
-    "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
-    "dia": "13/08",
-    "desde": "12:51",
-    "ts": 1786636269940
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
@@ -178,29 +166,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "559584251946",
-    "tel": "5595*****946",
-    "dia": "13/08",
-    "desde": "13:09",
-    "ts": 1786637384745
-   },
-   {
-    "nome": "554788038650",
-    "tel": "5547*****650",
-    "dia": "13/08",
-    "desde": "13:20",
-    "ts": 1786638042262
-   },
-   {
-    "nome": "5547933828225",
-    "tel": "5547*****225",
-    "dia": "13/08",
-    "desde": "13:29",
-    "ts": 1786638548439
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
@@ -239,12 +205,6 @@
     "ts": 1786553682359
    },
    {
-    "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
-    "dia": "13/08",
-    "desde": "12:51",
-    "ts": 1786636269940
-   },
-   {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "13/08",
     "desde": "13:03",
@@ -255,12 +215,6 @@
     "dia": "13/08",
     "desde": "13:26",
     "ts": 1786638360969
-   },
-   {
-    "grupo": "A.J.C",
-    "dia": "13/08",
-    "desde": "13:30",
-    "ts": 1786638606810
    }
   ]
  },
@@ -402,25 +356,47 @@
   ]
  },
  "agora": {
-  "fila": 446,
-  "abertos": 567,
-  "com_atendimento": 8,
-  "online": 3,
-  "offline": 3,
+  "fila": 445,
+  "abertos": 566,
+  "com_atendimento": 7,
+  "online": 4,
+  "offline": 2,
   "ausentes": 3,
   "espera_media_s": 1131
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T16:29:08.439Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-08-10T23:57:42.096Z",
+  "min_sem_lead": 3888
  },
  "leads": [
   {
-   "nome": "5547933828225",
+   "nome": ".",
    "tel": "5547*****225",
    "criado": "13:29",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.9,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Hellen",
+   "tel": "5598*****597",
+   "criado": "13:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554788038650",
+   "tel": "5547*****650",
+   "criado": "13:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
@@ -436,17 +412,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
-  },
-  {
-   "nome": "554788038650",
-   "tel": "5547*****650",
-   "criado": "13:20",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "559584251946",
