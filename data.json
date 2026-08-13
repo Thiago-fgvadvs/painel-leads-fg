@@ -1,5 +1,5 @@
 {
- "gerado_em": "13/08/2026, 18:05",
+ "gerado_em": "13/08/2026, 18:20",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 95,
   "mediana_geral": 0.4,
   "leads_7d": 302,
-  "tickets_abertos": 572,
+  "tickets_abertos": 573,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 14,
-  "Nao identificada": 9
+  "Nao identificada": 9,
+  "Trabalhista": 14
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -81,21 +81,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 560,
-  "respondidos": 551,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 22.2,
+  "turnos": 563,
+  "respondidos": 553,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 22.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 312,
-    "mediana_min": 19.8
+    "respostas": 313,
+    "mediana_min": 19.6
    },
    {
     "nome": "Nicolas",
-    "respostas": 100,
-    "mediana_min": 29.8
+    "respostas": 101,
+    "mediana_min": 29.6
    },
    {
     "nome": "Eduardo",
@@ -139,6 +139,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.F.D.S x SM PIRITUBA HORTIFRUTI E APOIO ADMINISTRATIVO LTDA",
+    "dia": "13/08",
+    "desde": "18:19",
+    "ts": 1786655999145
+   },
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "13/08",
@@ -252,6 +258,12 @@
     "dia": "13/08",
     "desde": "17:15",
     "ts": 1786652108110
+   },
+   {
+    "grupo": "M.F.D.S x SM PIRITUBA HORTIFRUTI E APOIO ADMINISTRATIVO LTDA",
+    "dia": "13/08",
+    "desde": "18:19",
+    "ts": 1786655999145
    }
   ]
  },
@@ -385,29 +397,18 @@
  },
  "agora": {
   "fila": 452,
-  "abertos": 572,
-  "com_atendimento": 6,
-  "online": 3,
-  "offline": 4,
-  "ausentes": 2,
+  "abertos": 573,
+  "com_atendimento": 7,
+  "online": 2,
+  "offline": 7,
+  "ausentes": 0,
   "espera_media_s": 989
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T20:45:41.156Z",
-  "min_sem_lead": 19
+  "ultimo_lead_at": "2026-08-10T23:57:42.096Z",
+  "min_sem_lead": 4163
  },
  "leads": [
-  {
-   "nome": "ADRIANA",
-   "tel": "5521*****526",
-   "criado": "17:45",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1.2,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbwOTH9sH8t/",
-   "area": "Trabalhista"
-  },
   {
    "nome": ".",
    "tel": "5547*****225",
@@ -418,6 +419,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "ADRIANA",
+   "tel": "5521*****526",
+   "criado": "17:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.2,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbwOTH9sH8t/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Juliana",
