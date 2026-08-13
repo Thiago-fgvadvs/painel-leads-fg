@@ -1,34 +1,38 @@
 {
- "gerado_em": "13/08/2026, 13:00",
+ "gerado_em": "13/08/2026, 13:15",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 5,
+  "total": 8,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 286,
-  "tickets_abertos": 562,
+  "leads_7d": 287,
+  "tickets_abertos": 564,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
+   "leads": 8,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "fb.me/73927V0PX",
    "leads": 2
+  },
+  {
+   "url": "fb.me/41inlpyts",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/Db0c3qfMTXm/",
@@ -44,19 +48,19 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
+  "Trabalhista": 5,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 205,
-  "turnos": 514,
-  "respondidos": 507,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 19.5,
+  "grupos_ativos": 208,
+  "turnos": 516,
+  "respondidos": 508,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 19.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -80,8 +84,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 24,
-    "mediana_min": 1160.9
+    "respostas": 25,
+    "mediana_min": 1210.1
    },
    {
     "nome": "Gabrielle",
@@ -110,6 +114,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
+    "dia": "13/08",
+    "desde": "13:03",
+    "ts": 1786637037792
+   },
    {
     "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
     "dia": "13/08",
@@ -158,18 +168,11 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "José Jorge (Kinino)",
-    "tel": "5583*****495",
+    "nome": "559584251946",
+    "tel": "5595*****946",
     "dia": "13/08",
-    "desde": "10:35",
-    "ts": 1786628118381
-   },
-   {
-    "nome": "Matheus Henrique",
-    "tel": "5516*****766",
-    "dia": "13/08",
-    "desde": "11:05",
-    "ts": 1786629924217
+    "desde": "13:09",
+    "ts": 1786637384745
    }
   ],
   "grupos": [
@@ -214,6 +217,12 @@
     "dia": "13/08",
     "desde": "12:00",
     "ts": 1786633255872
+   },
+   {
+    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
+    "dia": "13/08",
+    "desde": "13:03",
+    "ts": 1786637037792
    }
   ]
  },
@@ -356,18 +365,29 @@
  },
  "agora": {
   "fila": 444,
-  "abertos": 562,
+  "abertos": 564,
   "com_atendimento": 7,
   "online": 1,
   "offline": 3,
   "ausentes": 5,
-  "espera_media_s": 1125
+  "espera_media_s": 1136
  },
  "captacao": {
-  "ultimo_lead_at": "2025-12-06T06:06:43.024Z",
-  "min_sem_lead": 360593
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 685495
  },
  "leads": [
+  {
+   "nome": "559584251946",
+   "tel": "5595*****946",
+   "criado": "13:09",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/41inlpyts",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Matheus Henrique",
    "tel": "5516*****766",
