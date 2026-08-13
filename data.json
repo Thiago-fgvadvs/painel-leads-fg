@@ -1,29 +1,29 @@
 {
- "gerado_em": "13/08/2026, 10:57",
+ "gerado_em": "13/08/2026, 11:13",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 4,
+  "total": 7,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 285,
-  "tickets_abertos": 563,
+  "leads_7d": 286,
+  "tickets_abertos": 565,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 5,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -44,29 +44,29 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 3
+  "Trabalhista": 4,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 199,
-  "turnos": 492,
-  "respondidos": 482,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 19.8,
+  "turnos": 499,
+  "respondidos": 488,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 19.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 267,
-    "mediana_min": 18.8
+    "respostas": 271,
+    "mediana_min": 18.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 89,
-    "mediana_min": 28.8
+    "respostas": 90,
+    "mediana_min": 28.2
    },
    {
     "nome": "Eduardo",
@@ -85,8 +85,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 14,
-    "mediana_min": 41.8
+    "respostas": 15,
+    "mediana_min": 17.7
    },
    {
     "nome": "Roseli",
@@ -94,14 +94,14 @@
     "mediana_min": 6.5
    },
    {
-    "nome": "—",
-    "respostas": 4,
-    "mediana_min": 8.6
-   },
-   {
     "nome": "Luisa",
     "respostas": 4,
     "mediana_min": 14.8
+   },
+   {
+    "nome": "—",
+    "respostas": 4,
+    "mediana_min": 8.6
    },
    {
     "nome": "Tiago Bernardo",
@@ -111,10 +111,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
+    "dia": "13/08",
+    "desde": "10:46",
+    "ts": 1786628790857
+   },
+   {
     "grupo": "J.C.C.(",
     "dia": "13/08",
-    "desde": "10:52",
-    "ts": 1786629157863
+    "desde": "11:08",
+    "ts": 1786630137844
+   },
+   {
+    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
+    "dia": "13/08",
+    "desde": "10:47",
+    "ts": 1786628833732
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
@@ -127,12 +139,6 @@
     "dia": "12/08",
     "desde": "18:53",
     "ts": 1786571588616
-   },
-   {
-    "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
-    "dia": "12/08",
-    "desde": "18:01",
-    "ts": 1786568485499
    },
    {
     "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
@@ -176,18 +182,18 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Raimunda",
-    "tel": "5569*****704",
-    "dia": "13/08",
-    "desde": "10:09",
-    "ts": 1786626561411
-   },
-   {
     "nome": "José Jorge (Kinino)",
     "tel": "5583*****495",
     "dia": "13/08",
     "desde": "10:35",
     "ts": 1786628118381
+   },
+   {
+    "nome": "Matheus Henrique",
+    "tel": "5516*****766",
+    "dia": "13/08",
+    "desde": "11:05",
+    "ts": 1786629924217
    }
   ],
   "grupos": [
@@ -234,22 +240,28 @@
     "ts": 1786562210409
    },
    {
-    "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
-    "dia": "12/08",
-    "desde": "18:01",
-    "ts": 1786568485499
-   },
-   {
     "grupo": "A.F.G",
     "dia": "12/08",
     "desde": "18:53",
     "ts": 1786571588616
    },
    {
+    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
+    "dia": "13/08",
+    "desde": "10:46",
+    "ts": 1786628790857
+   },
+   {
+    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
+    "dia": "13/08",
+    "desde": "10:47",
+    "ts": 1786628833732
+   },
+   {
     "grupo": "J.C.C.(",
     "dia": "13/08",
-    "desde": "10:52",
-    "ts": 1786629157863
+    "desde": "11:08",
+    "ts": 1786630137844
    }
   ]
  },
@@ -391,19 +403,30 @@
   ]
  },
  "agora": {
-  "fila": 442,
-  "abertos": 563,
+  "fila": 443,
+  "abertos": 565,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 6,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 1130
+  "ausentes": 1,
+  "espera_media_s": 1128
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-25T16:03:33.516Z",
-  "min_sem_lead": 115074
+  "ultimo_lead_at": "2026-08-13T14:05:24.217Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "Matheus Henrique",
+   "tel": "5516*****766",
+   "criado": "11:05",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "José Jorge (Kinino)",
    "tel": "5583*****495",
