@@ -1,29 +1,29 @@
 {
- "gerado_em": "13/08/2026, 14:01",
+ "gerado_em": "13/08/2026, 14:16",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 10,
+  "total": 14,
+  "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 291,
-  "tickets_abertos": 569,
+  "leads_7d": 293,
+  "tickets_abertos": 568,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 12,
+   "leads": 13,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
-  "Direto/Indicacao": 4
+  "Anuncio": 9,
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
@@ -33,6 +33,10 @@
   {
    "url": "fb.me/73927V0PX",
    "leads": 2
+  },
+  {
+   "url": "fb.me/2N1XNYrvvR",
+   "leads": 1
   },
   {
    "url": "fb.me/kTYejxYr9",
@@ -52,29 +56,29 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
-  "Nao identificada": 5
+  "Nao identificada": 7,
+  "Trabalhista": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 527,
-  "respondidos": 519,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 20,
+  "turnos": 532,
+  "respondidos": 525,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 21.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 291,
-    "mediana_min": 19.1
+    "respostas": 295,
+    "mediana_min": 19.6
    },
    {
     "nome": "Nicolas",
-    "respostas": 94,
-    "mediana_min": 28.2
+    "respostas": 96,
+    "mediana_min": 29.2
    },
    {
     "nome": "Eduardo",
@@ -118,12 +122,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
-    "dia": "13/08",
-    "desde": "13:26",
-    "ts": 1786638360969
-   },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "13/08",
@@ -170,7 +168,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "555196634583",
+    "tel": "5551*****583",
+    "dia": "13/08",
+    "desde": "14:07",
+    "ts": 1786640861503
+   }
+  ],
   "grupos": [
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
@@ -213,12 +219,6 @@
     "dia": "13/08",
     "desde": "13:03",
     "ts": 1786637037792
-   },
-   {
-    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
-    "dia": "13/08",
-    "desde": "13:26",
-    "ts": 1786638360969
    }
   ]
  },
@@ -361,35 +361,35 @@
  },
  "agora": {
   "fila": 446,
-  "abertos": 569,
+  "abertos": 568,
   "com_atendimento": 8,
   "online": 6,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 1127
+  "espera_media_s": 1129
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T17:00:14.767Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-08-13T16:29:08.439Z",
+  "min_sem_lead": 47
  },
  "leads": [
-  {
-   "nome": "Joel Cesar Matos",
-   "tel": "5579*****879",
-   "criado": "14:00",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/kTYejxYr9",
-   "area": "Trabalhista"
-  },
   {
    "nome": ".",
    "tel": "5547*****225",
    "criado": "13:29",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.9,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Nathan",
+   "tel": "5547*****650",
+   "criado": "13:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
@@ -407,6 +407,28 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "555196634583",
+   "tel": "5551*****583",
+   "criado": "14:07",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/2N1XNYrvvR",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Joel Cesar Matos",
+   "tel": "5579*****879",
+   "criado": "14:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/kTYejxYr9",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "Hellen",
    "tel": "5598*****597",
    "criado": "13:38",
@@ -418,18 +440,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554788038650",
-   "tel": "5547*****650",
-   "criado": "13:20",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "559584251946",
+   "nome": "Mariluz",
    "tel": "5595*****946",
    "criado": "13:09",
    "atendente": "FG Advogados - Isadora ",
@@ -485,7 +496,7 @@
   },
   {
    "nome": "5581983565142",
-   "tel": "2814*****262",
+   "tel": "5581*****142",
    "criado": "09:00",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0,
@@ -504,6 +515,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "559984776462",
+   "tel": "5599*****462",
+   "criado": "14:01",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
