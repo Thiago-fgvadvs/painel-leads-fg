@@ -1,23 +1,23 @@
 {
- "gerado_em": "13/08/2026, 18:51",
+ "gerado_em": "13/08/2026, 19:00",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
-  "no_sla": 21,
+  "total": 26,
+  "no_sla": 23,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 2,
-  "pct_sla": 95,
+  "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 303,
-  "tickets_abertos": 574,
+  "leads_7d": 305,
+  "tickets_abertos": 576,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 22,
+   "leads": 24,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 15,
+  "Anuncio": 17,
   "Direto/Indicacao": 9
  },
  "criativos": [
@@ -53,25 +53,25 @@
    "leads": 2
   },
   {
+   "url": "fb.me/7tRJWUSsI",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DbyoAdIsARN/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/Db3h6EcMD9Q/",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/Db0dln6sawH/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/kTYejxYr9",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/41inlpyts",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 10,
-  "Trabalhista": 14
+  "Trabalhista": 15,
+  "Nao identificada": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -86,8 +86,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 564,
-  "respondidos": 554,
+  "turnos": 566,
+  "respondidos": 556,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
   "mediana_min": 22.2,
@@ -114,8 +114,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 26,
-    "mediana_min": 1238.9
+    "respostas": 28,
+    "mediana_min": 1160.9
    },
    {
     "nome": "Gabrielle",
@@ -410,29 +410,29 @@
   ]
  },
  "agora": {
-  "fila": 452,
-  "abertos": 574,
+  "fila": 454,
+  "abertos": 576,
   "com_atendimento": 7,
-  "online": 2,
+  "online": 1,
   "offline": 7,
-  "ausentes": 0,
-  "espera_media_s": 989
+  "ausentes": 1,
+  "espera_media_s": 985
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T14:41:37.979Z",
-  "min_sem_lead": 1869
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 685841
  },
  "leads": [
   {
-   "nome": ".",
-   "tel": "5547*****225",
-   "criado": "13:29",
+   "nome": "553198321601",
+   "tel": "5531*****601",
+   "criado": "18:53",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.9,
+   "espera_min": 0.7,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
   },
   {
    "nome": "Vera Giassi",
@@ -440,6 +440,28 @@
    "criado": "18:37",
    "atendente": "Roseli",
    "espera_min": 4.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511984816198",
+   "tel": "5511*****198",
+   "criado": "18:50",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyoAdIsARN/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": ".",
+   "tel": "5547*****225",
+   "criado": "13:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.9,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
