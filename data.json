@@ -1,37 +1,37 @@
 {
- "gerado_em": "13/08/2026, 10:27",
+ "gerado_em": "13/08/2026, 10:42",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 3,
+  "total": 6,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 284,
+  "leads_7d": 285,
   "tickets_abertos": 565,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
+   "leads": 6,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/Db0c3qfMTXm/",
-   "leads": 1
+   "url": "fb.me/73927V0PX",
+   "leads": 2
   },
   {
-   "url": "fb.me/73927V0PX",
+   "url": "www.instagram.com/p/Db0c3qfMTXm/",
    "leads": 1
   },
   {
@@ -44,28 +44,28 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3,
-  "Nao identificada": 2
+  "Nao identificada": 3,
+  "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 198,
-  "turnos": 480,
-  "respondidos": 470,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 22.2,
+  "turnos": 486,
+  "respondidos": 477,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 21,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 258,
-    "mediana_min": 22.2
+    "respostas": 263,
+    "mediana_min": 19.6
    },
    {
     "nome": "Nicolas",
-    "respostas": 87,
+    "respostas": 89,
     "mediana_min": 28.8
    },
    {
@@ -110,12 +110,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
-    "dia": "13/08",
-    "desde": "09:53",
-    "ts": 1786625612748
-   },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
     "dia": "12/08",
@@ -176,32 +170,18 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Valéria 😘",
-    "tel": "5584*****044",
-    "dia": "13/08",
-    "desde": "06:56",
-    "ts": 1786615008888
-   },
-   {
-    "nome": "5581983565142",
-    "tel": "2814*****262",
-    "dia": "13/08",
-    "desde": "09:00",
-    "ts": 1786622409504
-   },
-   {
-    "nome": "😎😌💨",
-    "tel": "5554*****351",
-    "dia": "13/08",
-    "desde": "09:08",
-    "ts": 1786622898240
-   },
-   {
     "nome": "Raimunda",
     "tel": "5569*****704",
     "dia": "13/08",
     "desde": "10:09",
     "ts": 1786626561411
+   },
+   {
+    "nome": "José Jorge (Kinino)",
+    "tel": "5583*****495",
+    "dia": "13/08",
+    "desde": "10:35",
+    "ts": 1786628118381
    }
   ],
   "grupos": [
@@ -258,21 +238,15 @@
     "dia": "12/08",
     "desde": "18:53",
     "ts": 1786571588616
-   },
-   {
-    "grupo": "J.R.G.A x BRASPRESS TRANSPORTES URGENTES LTDA",
-    "dia": "13/08",
-    "desde": "09:53",
-    "ts": 1786625612748
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 13,
+  "total": 14,
   "por_vendedor": {
    "Eduardo": 5,
-   "Roseli": 5,
+   "Roseli": 6,
    "Tiago Bernardo": 3
   },
   "lista": [
@@ -301,6 +275,15 @@
     "hora": "15:18",
     "ts": 1786558734432,
     "origem": "Anúncio: Trabalhistas - Direitos Gerais",
+    "de_anuncio": true
+   },
+   {
+    "vendedor": "Roseli",
+    "cliente": "D.C",
+    "dia": "12/08",
+    "hora": "12:37",
+    "ts": 1786549062929,
+    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
     "de_anuncio": true
    },
    {
@@ -396,19 +379,30 @@
   ]
  },
  "agora": {
-  "fila": 439,
+  "fila": 441,
   "abertos": 565,
   "com_atendimento": 8,
-  "online": 6,
+  "online": 4,
   "offline": 2,
-  "ausentes": 1,
+  "ausentes": 3,
   "espera_media_s": 2659
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T12:08:18.240Z",
-  "min_sem_lead": 79
+  "ultimo_lead_at": "2026-08-12T16:40:28.594Z",
+  "min_sem_lead": 1262
  },
  "leads": [
+  {
+   "nome": "José Jorge (Kinino)",
+   "tel": "5583*****495",
+   "criado": "10:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/73927V0PX",
+   "area": "Nao identificada"
+  },
   {
    "nome": "😎😌💨",
    "tel": "5554*****351",
