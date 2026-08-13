@@ -1,5 +1,5 @@
 {
- "gerado_em": "13/08/2026, 15:17",
+ "gerado_em": "13/08/2026, 15:32",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -44,11 +44,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/Db0dln6sawH/",
+   "url": "www.instagram.com/p/Db3h6EcMD9Q/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/Db3h6EcMD9Q/",
+   "url": "www.instagram.com/p/Db0dln6sawH/",
    "leads": 1
   },
   {
@@ -73,15 +73,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 211,
-  "turnos": 538,
-  "respondidos": 531,
+  "turnos": 545,
+  "respondidos": 538,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 21.8,
+  "mediana_min": 22,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 298,
+    "respostas": 304,
     "mediana_min": 19.4
    },
    {
@@ -96,8 +96,8 @@
    },
    {
     "nome": "Thauany",
-    "respostas": 30,
-    "mediana_min": 1
+    "respostas": 31,
+    "mediana_min": 1.2
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -132,6 +132,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
+    "dia": "10/08",
+    "desde": "10:17",
+    "ts": 1786367829994
+   },
+   {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "13/08",
     "desde": "13:03",
@@ -154,12 +160,6 @@
     "dia": "11/08",
     "desde": "11:07",
     "ts": 1786457232612
-   },
-   {
-    "grupo": "D.B.F x UNIQUE GARDEN EMPREENDIMENTOS HOTELEIROS INDUSTRIA E PARTICIPACOES LTDA",
-    "dia": "10/08",
-    "desde": "10:17",
-    "ts": 1786367829994
    },
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
@@ -361,19 +361,30 @@
   ]
  },
  "agora": {
-  "fila": 447,
+  "fila": 449,
   "abertos": 572,
-  "com_atendimento": 7,
-  "online": 4,
-  "offline": 2,
+  "com_atendimento": 6,
+  "online": 5,
+  "offline": 1,
   "ausentes": 3,
-  "espera_media_s": 1121
+  "espera_media_s": 1122
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-16T19:28:40.563Z",
-  "min_sem_lead": 83449
+  "ultimo_lead_at": "2026-08-13T17:56:31.033Z",
+  "min_sem_lead": 36
  },
  "leads": [
+  {
+   "nome": "Esmael Lemos",
+   "tel": "5588*****034",
+   "criado": "14:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h6EcMD9Q/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "A V",
    "tel": "5561*****306",
@@ -383,17 +394,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db0dln6sawH/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "558898503034",
-   "tel": "5588*****034",
-   "criado": "14:56",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Db3h6EcMD9Q/",
    "area": "Trabalhista"
   },
   {
