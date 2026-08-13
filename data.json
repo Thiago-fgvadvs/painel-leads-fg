@@ -1,5 +1,5 @@
 {
- "gerado_em": "13/08/2026, 11:43",
+ "gerado_em": "13/08/2026, 11:59",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 286,
-  "tickets_abertos": 562,
+  "tickets_abertos": 560,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -51,22 +51,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 200,
-  "turnos": 508,
-  "respondidos": 501,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 19.6,
+  "grupos_ativos": 201,
+  "turnos": 512,
+  "respondidos": 506,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 19.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 280,
-    "mediana_min": 18.6
+    "respostas": 283,
+    "mediana_min": 18.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 91,
-    "mediana_min": 28.8
+    "respostas": 92,
+    "mediana_min": 28.2
    },
    {
     "nome": "Eduardo",
@@ -85,8 +85,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 16,
-    "mediana_min": 22.7
+    "respostas": 17,
+    "mediana_min": 17.7
    },
    {
     "nome": "Roseli",
@@ -94,14 +94,14 @@
     "mediana_min": 6.5
    },
    {
-    "nome": "—",
-    "respostas": 4,
-    "mediana_min": 8.6
-   },
-   {
     "nome": "Luisa",
     "respostas": 4,
     "mediana_min": 14.8
+   },
+   {
+    "nome": "—",
+    "respostas": 4,
+    "mediana_min": 8.6
    },
    {
     "nome": "Tiago Bernardo",
@@ -110,12 +110,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "A.F.G",
-    "dia": "13/08",
-    "desde": "11:41",
-    "ts": 1786632075868
-   },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
     "dia": "12/08",
@@ -215,12 +209,6 @@
     "dia": "12/08",
     "desde": "13:54",
     "ts": 1786553682359
-   },
-   {
-    "grupo": "A.F.G",
-    "dia": "13/08",
-    "desde": "11:41",
-    "ts": 1786632075868
    }
   ]
  },
@@ -363,16 +351,16 @@
  },
  "agora": {
   "fila": 444,
-  "abertos": 562,
-  "com_atendimento": 7,
+  "abertos": 560,
+  "com_atendimento": 6,
   "online": 5,
-  "offline": 3,
-  "ausentes": 1,
+  "offline": 2,
+  "ausentes": 2,
   "espera_media_s": 1127
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:58.522Z",
-  "min_sem_lead": 464901
+  "ultimo_lead_at": "2026-08-12T19:39:26.690Z",
+  "min_sem_lead": 1160
  },
  "leads": [
   {
