@@ -1,23 +1,23 @@
 {
- "gerado_em": "13/08/2026, 19:00",
+ "gerado_em": "13/08/2026, 19:16",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
+  "total": 27,
   "no_sla": 23,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 2,
+  "fora_horario": 3,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 305,
-  "tickets_abertos": 576,
+  "leads_7d": 306,
+  "tickets_abertos": 577,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 24,
+   "leads": 25,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 9
  },
  "criativos": [
@@ -53,6 +53,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/ey4Q1TKSH",
+   "leads": 1
+  },
+  {
    "url": "fb.me/7tRJWUSsI",
    "leads": 1
   },
@@ -63,14 +67,10 @@
   {
    "url": "www.instagram.com/p/Db3h6EcMD9Q/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Db0dln6sawH/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
+  "Trabalhista": 16,
   "Nao identificada": 11
  },
  "sem_resposta_lista": [],
@@ -86,8 +86,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 566,
-  "respondidos": 556,
+  "turnos": 567,
+  "respondidos": 557,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
   "mediana_min": 22.2,
@@ -124,8 +124,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 14,
-    "mediana_min": 6.5
+    "respostas": 15,
+    "mediana_min": 7.4
    },
    {
     "nome": "—",
@@ -147,8 +147,8 @@
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "13/08",
-    "desde": "18:47",
-    "ts": 1786657665046
+    "desde": "19:05",
+    "ts": 1786658743053
    },
    {
     "grupo": "M.F.D.S x SM PIRITUBA HORTIFRUTI E APOIO ADMINISTRATIVO LTDA",
@@ -267,8 +267,8 @@
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "13/08",
-    "desde": "18:47",
-    "ts": 1786657665046
+    "desde": "19:05",
+    "ts": 1786658743053
    }
   ]
  },
@@ -410,28 +410,28 @@
   ]
  },
  "agora": {
-  "fila": 454,
-  "abertos": 576,
+  "fila": 455,
+  "abertos": 577,
   "com_atendimento": 7,
   "online": 1,
-  "offline": 7,
-  "ausentes": 1,
-  "espera_media_s": 985
+  "offline": 8,
+  "ausentes": 0,
+  "espera_media_s": 984
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 685841
+  "ultimo_lead_at": "2026-08-11T00:37:04.850Z",
+  "min_sem_lead": 4179
  },
  "leads": [
   {
-   "nome": "553198321601",
-   "tel": "5531*****601",
-   "criado": "18:53",
+   "nome": "Wesley",
+   "tel": "5519*****871",
+   "criado": "19:12",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "fb.me/7tRJWUSsI",
+   "criativo": "fb.me/ey4Q1TKSH",
    "area": "Trabalhista"
   },
   {
@@ -444,6 +444,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "553198321601",
+   "tel": "5531*****601",
+   "criado": "18:53",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
   },
   {
    "nome": "5511984816198",
