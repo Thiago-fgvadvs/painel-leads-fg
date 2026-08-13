@@ -1,5 +1,5 @@
 {
- "gerado_em": "13/08/2026, 10:42",
+ "gerado_em": "13/08/2026, 10:57",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 285,
-  "tickets_abertos": 565,
+  "tickets_abertos": 563,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -51,17 +51,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 198,
-  "turnos": 486,
-  "respondidos": 477,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 21,
+  "grupos_ativos": 199,
+  "turnos": 492,
+  "respondidos": 482,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 19.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 263,
-    "mediana_min": 19.6
+    "respostas": 267,
+    "mediana_min": 18.8
    },
    {
     "nome": "Nicolas",
@@ -85,8 +85,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 13,
-    "mediana_min": 17.7
+    "respostas": 14,
+    "mediana_min": 41.8
    },
    {
     "nome": "Roseli",
@@ -110,6 +110,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.C.C.(",
+    "dia": "13/08",
+    "desde": "10:52",
+    "ts": 1786629157863
+   },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
     "dia": "12/08",
@@ -238,6 +244,12 @@
     "dia": "12/08",
     "desde": "18:53",
     "ts": 1786571588616
+   },
+   {
+    "grupo": "J.C.C.(",
+    "dia": "13/08",
+    "desde": "10:52",
+    "ts": 1786629157863
    }
   ]
  },
@@ -379,17 +391,17 @@
   ]
  },
  "agora": {
-  "fila": 441,
-  "abertos": 565,
+  "fila": 442,
+  "abertos": 563,
   "com_atendimento": 8,
-  "online": 4,
+  "online": 5,
   "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 2659
+  "ausentes": 2,
+  "espera_media_s": 1130
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T16:40:28.594Z",
-  "min_sem_lead": 1262
+  "ultimo_lead_at": "2026-05-25T16:03:33.516Z",
+  "min_sem_lead": 115074
  },
  "leads": [
   {
