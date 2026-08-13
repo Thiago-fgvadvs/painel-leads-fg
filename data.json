@@ -1,17 +1,17 @@
 {
- "gerado_em": "13/08/2026, 18:35",
+ "gerado_em": "13/08/2026, 18:51",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
-  "no_sla": 20,
+  "total": 24,
+  "no_sla": 21,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 302,
-  "tickets_abertos": 573,
+  "leads_7d": 303,
+  "tickets_abertos": 574,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -21,6 +21,11 @@
    "mediana_min": 0.4
   },
   {
+   "nome": "Roseli",
+   "leads": 1,
+   "mediana_min": 4.7
+  },
+  {
    "nome": "Tiago Bernardo",
    "leads": 1,
    "mediana_min": 0.6
@@ -28,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 15,
-  "Direto/Indicacao": 8
+  "Direto/Indicacao": 9
  },
  "criativos": [
   {
@@ -65,7 +70,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 9,
+  "Nao identificada": 10,
   "Trabalhista": 14
  },
  "sem_resposta_lista": [],
@@ -81,11 +86,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 563,
-  "respondidos": 553,
+  "turnos": 564,
+  "respondidos": 554,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
-  "mediana_min": 22.1,
+  "mediana_min": 22.2,
   "atendentes": [
    {
     "nome": "Julia",
@@ -119,8 +124,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 13,
-    "mediana_min": 5.5
+    "respostas": 14,
+    "mediana_min": 6.5
    },
    {
     "nome": "—",
@@ -142,8 +147,8 @@
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "13/08",
-    "desde": "17:15",
-    "ts": 1786652108110
+    "desde": "18:47",
+    "ts": 1786657665046
    },
    {
     "grupo": "M.F.D.S x SM PIRITUBA HORTIFRUTI E APOIO ADMINISTRATIVO LTDA",
@@ -254,28 +259,37 @@
     "ts": 1786649738010
    },
    {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "13/08",
-    "desde": "17:15",
-    "ts": 1786652108110
-   },
-   {
     "grupo": "M.F.D.S x SM PIRITUBA HORTIFRUTI E APOIO ADMINISTRATIVO LTDA",
     "dia": "13/08",
     "desde": "18:19",
     "ts": 1786655999145
+   },
+   {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "13/08",
+    "desde": "18:47",
+    "ts": 1786657665046
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 13,
+  "total": 14,
   "por_vendedor": {
+   "Roseli": 7,
    "Eduardo": 5,
-   "Roseli": 6,
    "Tiago Bernardo": 2
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "—",
+    "dia": "13/08",
+    "hora": "18:46",
+    "ts": 1786657589263,
+    "origem": "Outros",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Eduardo",
     "cliente": "B.R",
@@ -397,16 +411,16 @@
  },
  "agora": {
   "fila": 452,
-  "abertos": 573,
+  "abertos": 574,
   "com_atendimento": 7,
-  "online": 1,
+  "online": 2,
   "offline": 7,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 989
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 685816
+  "ultimo_lead_at": "2026-08-12T14:41:37.979Z",
+  "min_sem_lead": 1869
  },
  "leads": [
   {
@@ -415,6 +429,17 @@
    "criado": "13:29",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.9,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Vera Giassi",
+   "tel": "5547*****847",
+   "criado": "18:37",
+   "atendente": "Roseli",
+   "espera_min": 4.7,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
