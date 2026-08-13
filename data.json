@@ -1,5 +1,5 @@
 {
- "gerado_em": "13/08/2026, 20:32",
+ "gerado_em": "13/08/2026, 20:47",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -10,8 +10,8 @@
   "fora_horario": 8,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 311,
-  "tickets_abertos": 583,
+  "leads_7d": 313,
+  "tickets_abertos": 585,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -214,7 +214,22 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Anderson James Da Silva",
+    "tel": "5519*****125",
+    "dia": "13/08",
+    "desde": "20:47",
+    "ts": 1786664844660
+   },
+   {
+    "nome": "tuliofluzao",
+    "tel": "5521*****952",
+    "dia": "13/08",
+    "desde": "20:47",
+    "ts": 1786664845684
+   }
+  ],
   "grupos": [
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
@@ -422,8 +437,8 @@
   ]
  },
  "agora": {
-  "fila": 460,
-  "abertos": 583,
+  "fila": 462,
+  "abertos": 585,
   "com_atendimento": 7,
   "online": 1,
   "offline": 8,
@@ -431,8 +446,8 @@
   "espera_media_s": 972
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T23:13:42.501Z",
-  "min_sem_lead": 18
+  "ultimo_lead_at": "2026-08-13T23:47:25.684Z",
+  "min_sem_lead": 0
  },
  "leads": [
   {
@@ -447,17 +462,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Pedro Persi",
-   "tel": "5591*****383",
-   "criado": "20:24",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/73927V0PX",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "5514997585444",
    "tel": "5514*****444",
    "criado": "20:23",
@@ -467,6 +471,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/9reIpIGlx",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Pedro Persi",
+   "tel": "5591*****383",
+   "criado": "20:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/73927V0PX",
+   "area": "Nao identificada"
   },
   {
    "nome": "5528999390407",
