@@ -1,5 +1,5 @@
 {
- "gerado_em": "13/08/2026, 17:19",
+ "gerado_em": "13/08/2026, 17:34",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 13,
-  "Nao identificada": 9
+  "Nao identificada": 9,
+  "Trabalhista": 13
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -388,15 +388,26 @@
   "abertos": 571,
   "com_atendimento": 6,
   "online": 3,
-  "offline": 3,
-  "ausentes": 3,
+  "offline": 4,
+  "ausentes": 2,
   "espera_media_s": 991
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T18:54:17.460Z",
-  "min_sem_lead": 85
+  "ultimo_lead_at": "2026-06-08T17:10:18.559Z",
+  "min_sem_lead": 95244
  },
  "leads": [
+  {
+   "nome": ".",
+   "tel": "5547*****225",
+   "criado": "13:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.9,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Juliana",
    "tel": "5511*****327",
@@ -440,17 +451,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db0dln6sawH/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": ".",
-   "tel": "5547*****225",
-   "criado": "13:29",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.9,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Marilene Silva",
