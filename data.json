@@ -1,5 +1,5 @@
 {
- "gerado_em": "13/08/2026, 10:12",
+ "gerado_em": "13/08/2026, 10:27",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 284,
-  "tickets_abertos": 563,
+  "tickets_abertos": 565,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -51,22 +51,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 197,
-  "turnos": 469,
-  "respondidos": 458,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
-  "mediana_min": 22.4,
+  "grupos_ativos": 198,
+  "turnos": 480,
+  "respondidos": 470,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 22.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 248,
-    "mediana_min": 25
+    "respostas": 258,
+    "mediana_min": 22.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 85,
-    "mediana_min": 27.6
+    "respostas": 87,
+    "mediana_min": 28.8
    },
    {
     "nome": "Eduardo",
@@ -129,12 +129,6 @@
     "ts": 1786571588616
    },
    {
-    "grupo": "R.P x SEARA ALIMENTOS LTDA",
-    "dia": "12/08",
-    "desde": "18:49",
-    "ts": 1786571340524
-   },
-   {
     "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
     "dia": "12/08",
     "desde": "18:01",
@@ -180,7 +174,36 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Valéria 😘",
+    "tel": "5584*****044",
+    "dia": "13/08",
+    "desde": "06:56",
+    "ts": 1786615008888
+   },
+   {
+    "nome": "5581983565142",
+    "tel": "2814*****262",
+    "dia": "13/08",
+    "desde": "09:00",
+    "ts": 1786622409504
+   },
+   {
+    "nome": "😎😌💨",
+    "tel": "5554*****351",
+    "dia": "13/08",
+    "desde": "09:08",
+    "ts": 1786622898240
+   },
+   {
+    "nome": "Raimunda",
+    "tel": "5569*****704",
+    "dia": "13/08",
+    "desde": "10:09",
+    "ts": 1786626561411
+   }
+  ],
   "grupos": [
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
@@ -229,12 +252,6 @@
     "dia": "12/08",
     "desde": "18:01",
     "ts": 1786568485499
-   },
-   {
-    "grupo": "R.P x SEARA ALIMENTOS LTDA",
-    "dia": "12/08",
-    "desde": "18:49",
-    "ts": 1786571340524
    },
    {
     "grupo": "A.F.G",
@@ -380,16 +397,16 @@
  },
  "agora": {
   "fila": 439,
-  "abertos": 563,
-  "com_atendimento": 7,
+  "abertos": 565,
+  "com_atendimento": 8,
   "online": 6,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 2664
+  "espera_media_s": 2659
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T14:55:52.137Z",
-  "min_sem_lead": 2776
+  "ultimo_lead_at": "2026-08-13T12:08:18.240Z",
+  "min_sem_lead": 79
  },
  "leads": [
   {
