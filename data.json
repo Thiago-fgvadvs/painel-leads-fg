@@ -1,23 +1,23 @@
 {
- "gerado_em": "13/08/2026, 19:16",
+ "gerado_em": "13/08/2026, 19:31",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
+  "total": 28,
   "no_sla": 23,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 3,
+  "fora_horario": 4,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 306,
-  "tickets_abertos": 577,
+  "leads_7d": 307,
+  "tickets_abertos": 579,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 9
  },
  "criativos": [
@@ -42,6 +42,10 @@
   },
   {
    "url": "www.instagram.com/p/DbwOTH9sH8t/",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/7tRJWUSsI",
    "leads": 2
   },
   {
@@ -57,10 +61,6 @@
    "leads": 1
   },
   {
-   "url": "fb.me/7tRJWUSsI",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DbyoAdIsARN/",
    "leads": 1
   },
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 16,
+  "Trabalhista": 17,
   "Nao identificada": 11
  },
  "sem_resposta_lista": [],
@@ -85,11 +85,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 218,
-  "turnos": 567,
+  "grupos_ativos": 219,
+  "turnos": 568,
   "respondidos": 557,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 22.2,
   "atendentes": [
    {
@@ -145,16 +145,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
     "dia": "13/08",
-    "desde": "19:05",
-    "ts": 1786658743053
+    "desde": "19:26",
+    "ts": 1786660011014
    },
    {
     "grupo": "M.F.D.S x SM PIRITUBA HORTIFRUTI E APOIO ADMINISTRATIVO LTDA",
     "dia": "13/08",
     "desde": "18:19",
     "ts": 1786655999145
+   },
+   {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "13/08",
+    "desde": "19:05",
+    "ts": 1786658743053
    },
    {
     "grupo": "P.D.C.L x WMB SUPERMERCADOS DO BRASIL LTDA",
@@ -269,6 +275,12 @@
     "dia": "13/08",
     "desde": "19:05",
     "ts": 1786658743053
+   },
+   {
+    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
+    "dia": "13/08",
+    "desde": "19:26",
+    "ts": 1786660011014
    }
   ]
  },
@@ -410,19 +422,41 @@
   ]
  },
  "agora": {
-  "fila": 455,
-  "abertos": 577,
+  "fila": 456,
+  "abertos": 579,
   "com_atendimento": 7,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 984
+  "espera_media_s": 980
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T00:37:04.850Z",
-  "min_sem_lead": 4179
+  "ultimo_lead_at": "2026-08-13T20:45:41.156Z",
+  "min_sem_lead": 105
  },
  "leads": [
+  {
+   "nome": "ADRIANA",
+   "tel": "5521*****526",
+   "criado": "17:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.2,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbwOTH9sH8t/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "sebastiaoalvees",
+   "tel": "5562*****479",
+   "criado": "19:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Wesley",
    "tel": "5519*****871",
@@ -477,17 +511,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "ADRIANA",
-   "tel": "5521*****526",
-   "criado": "17:45",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1.2,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbwOTH9sH8t/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Juliana",
