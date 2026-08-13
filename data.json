@@ -1,23 +1,23 @@
 {
- "gerado_em": "13/08/2026, 17:34",
+ "gerado_em": "13/08/2026, 17:50",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
-  "no_sla": 19,
+  "total": 23,
+  "no_sla": 20,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 301,
-  "tickets_abertos": 571,
+  "leads_7d": 302,
+  "tickets_abertos": 573,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 15,
   "Direto/Indicacao": 8
  },
  "criativos": [
   {
    "url": "fb.me/2N1XNYrvvR",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DbwOTH9sH8t/",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
@@ -52,10 +56,6 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DbwOTH9sH8t/",
-   "leads": 1
-  },
-  {
    "url": "fb.me/kTYejxYr9",
    "leads": 1
   },
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 9,
-  "Trabalhista": 13
+  "Trabalhista": 14,
+  "Nao identificada": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -81,11 +81,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 557,
-  "respondidos": 548,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 22,
+  "turnos": 559,
+  "respondidos": 549,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 22.1,
   "atendentes": [
    {
     "nome": "Julia",
@@ -94,8 +94,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 99,
-    "mediana_min": 29.6
+    "respostas": 100,
+    "mediana_min": 29.8
    },
    {
     "nome": "Eduardo",
@@ -162,6 +162,12 @@
     "dia": "13/08",
     "desde": "13:03",
     "ts": 1786637037792
+   },
+   {
+    "grupo": "M.D.S.S x PREFEITURA MUNICIPAL DE BOA VISTA",
+    "dia": "13/08",
+    "desde": "13:14",
+    "ts": 1786637681894
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
@@ -234,6 +240,12 @@
     "dia": "13/08",
     "desde": "13:03",
     "ts": 1786637037792
+   },
+   {
+    "grupo": "M.D.S.S x PREFEITURA MUNICIPAL DE BOA VISTA",
+    "dia": "13/08",
+    "desde": "13:14",
+    "ts": 1786637681894
    },
    {
     "grupo": "S.A.D.S x J. S. TREINAMENTO EM DESENVOLVIMENTO PESSOAL E PROFISSIONAL LTDA",
@@ -384,19 +396,30 @@
   ]
  },
  "agora": {
-  "fila": 451,
-  "abertos": 571,
-  "com_atendimento": 6,
+  "fila": 452,
+  "abertos": 573,
+  "com_atendimento": 7,
   "online": 3,
   "offline": 4,
   "ausentes": 2,
-  "espera_media_s": 991
+  "espera_media_s": 989
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-08T17:10:18.559Z",
-  "min_sem_lead": 95244
+  "ultimo_lead_at": "2026-08-13T20:45:41.156Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "ADRIANA",
+   "tel": "5521*****526",
+   "criado": "17:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.2,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbwOTH9sH8t/",
+   "area": "Trabalhista"
+  },
   {
    "nome": ".",
    "tel": "5547*****225",
