@@ -1,23 +1,23 @@
 {
- "gerado_em": "13/08/2026, 15:47",
+ "gerado_em": "13/08/2026, 16:03",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 18,
+  "total": 22,
+  "no_sla": 19,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 300,
-  "tickets_abertos": 573,
+  "leads_7d": 301,
+  "tickets_abertos": 567,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 14,
-  "Direto/Indicacao": 7
+  "Direto/Indicacao": 8
  },
  "criativos": [
   {
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 12,
+  "Trabalhista": 13,
   "Nao identificada": 9
  },
  "sem_resposta_lista": [],
@@ -73,21 +73,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 211,
-  "turnos": 545,
-  "respondidos": 539,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 22.1,
+  "turnos": 549,
+  "respondidos": 542,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 22,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 304,
-    "mediana_min": 19.4
+    "respostas": 306,
+    "mediana_min": 19
    },
    {
     "nome": "Nicolas",
-    "respostas": 98,
-    "mediana_min": 29.2
+    "respostas": 99,
+    "mediana_min": 29.6
    },
    {
     "nome": "Eduardo",
@@ -131,6 +131,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "S.A.D.S x J. S. TREINAMENTO EM DESENVOLVIMENTO PESSOAL E PROFISSIONAL LTDA",
+    "dia": "13/08",
+    "desde": "15:50",
+    "ts": 1786647039084
+   },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "13/08",
@@ -208,16 +214,22 @@
     "dia": "13/08",
     "desde": "13:03",
     "ts": 1786637037792
+   },
+   {
+    "grupo": "S.A.D.S x J. S. TREINAMENTO EM DESENVOLVIMENTO PESSOAL E PROFISSIONAL LTDA",
+    "dia": "13/08",
+    "desde": "15:50",
+    "ts": 1786647039084
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 14,
+  "total": 13,
   "por_vendedor": {
    "Eduardo": 5,
    "Roseli": 6,
-   "Tiago Bernardo": 3
+   "Tiago Bernardo": 2
   },
   "lista": [
    {
@@ -254,15 +266,6 @@
     "hora": "12:37",
     "ts": 1786549062929,
     "origem": "Anúncio: Trabalhista - doenças ocupacionais",
-    "de_anuncio": true
-   },
-   {
-    "vendedor": "Tiago Bernardo",
-    "cliente": "E",
-    "dia": "12/08",
-    "hora": "12:23",
-    "ts": 1786548192931,
-    "origem": "Anúncio: Trabalhista - insalubridade",
     "de_anuncio": true
    },
    {
@@ -350,18 +353,29 @@
  },
  "agora": {
   "fila": 451,
-  "abertos": 573,
-  "com_atendimento": 6,
-  "online": 7,
+  "abertos": 567,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 1118
+  "ausentes": 2,
+  "espera_media_s": 1006
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T13:56:58.265Z",
-  "min_sem_lead": 24771
+  "ultimo_lead_at": "2026-08-13T18:54:17.460Z",
+  "min_sem_lead": 9
  },
  "leads": [
+  {
+   "nome": "Juliana",
+   "tel": "5511*****327",
+   "criado": "15:54",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "A V",
    "tel": "5561*****306",
