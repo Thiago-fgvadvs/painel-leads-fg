@@ -1,13 +1,13 @@
 {
- "gerado_em": "12/08/2026, 21:38",
+ "gerado_em": "12/08/2026, 21:53",
  "data_ref": "12/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 49,
+  "total": 50,
   "no_sla": 33,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 15,
+  "fora_horario": 16,
   "pct_sla": 97,
   "mediana_geral": 0.4,
   "leads_7d": 315,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 48,
+   "leads": 49,
    "mediana_min": 0.4
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 42,
-  "Direto/Indicacao": 7
+  "Direto/Indicacao": 8
  },
  "criativos": [
   {
@@ -65,9 +65,9 @@
   }
  ],
  "areas": {
+  "Nao identificada": 13,
   "Trabalhista": 34,
-  "Previdenciario": 3,
-  "Nao identificada": 12
+  "Previdenciario": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -82,16 +82,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 566,
-  "respondidos": 556,
+  "turnos": 567,
+  "respondidos": 557,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
-  "mediana_min": 28.7,
+  "mediana_min": 28.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 253,
-    "mediana_min": 41.5
+    "respostas": 254,
+    "mediana_min": 40.9
    },
    {
     "nome": "Nicolas",
@@ -204,15 +204,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Edna 🍓🍓",
-    "tel": "5511*****056",
-    "dia": "12/08",
-    "desde": "21:38",
-    "ts": 1786581491180
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
@@ -438,13 +430,35 @@
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 2616
+  "espera_media_s": 2610
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-13T00:38:11.180Z",
-  "min_sem_lead": 0
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "Edna 🍓🍓",
+   "tel": "5511*****056",
+   "criado": "21:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "558188915125",
+   "tel": "5581*****125",
+   "criado": "20:39",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7SoCxzO0g",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511947258634",
    "tel": "5511*****634",
@@ -520,17 +534,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "558188915125",
-   "tel": "5581*****125",
-   "criado": "20:39",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7SoCxzO0g",
    "area": "Trabalhista"
   },
   {
