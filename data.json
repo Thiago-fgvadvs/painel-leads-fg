@@ -1,5 +1,5 @@
 {
- "gerado_em": "13/08/2026, 16:49",
+ "gerado_em": "13/08/2026, 17:04",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 95,
   "mediana_geral": 0.4,
   "leads_7d": 301,
-  "tickets_abertos": 568,
+  "tickets_abertos": 570,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -80,17 +80,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 213,
-  "turnos": 551,
-  "respondidos": 543,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 21.8,
+  "grupos_ativos": 215,
+  "turnos": 555,
+  "respondidos": 545,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 22.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 307,
-    "mediana_min": 18.8
+    "respostas": 309,
+    "mediana_min": 19.1
    },
    {
     "nome": "Nicolas",
@@ -140,10 +140,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
+    "dia": "13/08",
+    "desde": "17:02",
+    "ts": 1786651348017
+   },
+   {
     "grupo": "P.D.C.L x WMB SUPERMERCADOS DO BRASIL LTDA",
     "dia": "13/08",
     "desde": "16:35",
     "ts": 1786649738010
+   },
+   {
+    "grupo": "T.H.D.S.C x G4 EDUCAÇÃO LTDA",
+    "dia": "13/08",
+    "desde": "16:31",
+    "ts": 1786649502955
    },
    {
     "grupo": "S.A.D.S x J. S. TREINAMENTO EM DESENVOLVIMENTO PESSOAL E PROFISSIONAL LTDA",
@@ -236,10 +248,22 @@
     "ts": 1786647039084
    },
    {
+    "grupo": "T.H.D.S.C x G4 EDUCAÇÃO LTDA",
+    "dia": "13/08",
+    "desde": "16:31",
+    "ts": 1786649502955
+   },
+   {
     "grupo": "P.D.C.L x WMB SUPERMERCADOS DO BRASIL LTDA",
     "dia": "13/08",
     "desde": "16:35",
     "ts": 1786649738010
+   },
+   {
+    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
+    "dia": "13/08",
+    "desde": "17:02",
+    "ts": 1786651348017
    }
   ]
  },
@@ -372,30 +396,19 @@
   ]
  },
  "agora": {
-  "fila": 451,
-  "abertos": 568,
-  "com_atendimento": 6,
+  "fila": 450,
+  "abertos": 570,
+  "com_atendimento": 7,
   "online": 3,
-  "offline": 2,
-  "ausentes": 4,
+  "offline": 3,
+  "ausentes": 3,
   "espera_media_s": 993
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T17:56:31.033Z",
-  "min_sem_lead": 112
+  "ultimo_lead_at": "2026-08-04T18:22:09.468Z",
+  "min_sem_lead": 13062
  },
  "leads": [
-  {
-   "nome": "Esmael Lemos",
-   "tel": "5588*****034",
-   "criado": "14:56",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Db3h6EcMD9Q/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Juliana",
    "tel": "5511*****327",
@@ -405,6 +418,17 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Esmael Lemos",
+   "tel": "5588*****034",
+   "criado": "14:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h6EcMD9Q/",
    "area": "Trabalhista"
   },
   {
