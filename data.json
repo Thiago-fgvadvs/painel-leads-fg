@@ -1,28 +1,28 @@
 {
- "gerado_em": "13/08/2026, 13:45",
+ "gerado_em": "13/08/2026, 14:01",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 9,
+  "total": 12,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 290,
-  "tickets_abertos": 566,
+  "leads_7d": 291,
+  "tickets_abertos": 569,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
+   "leads": 12,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 7,
+  "Anuncio": 8,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -33,6 +33,10 @@
   {
    "url": "fb.me/73927V0PX",
    "leads": 2
+  },
+  {
+   "url": "fb.me/kTYejxYr9",
+   "leads": 1
   },
   {
    "url": "fb.me/41inlpyts",
@@ -48,28 +52,28 @@
   }
  ],
  "areas": {
-  "Nao identificada": 5,
-  "Trabalhista": 6
+  "Trabalhista": 7,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 208,
-  "turnos": 524,
-  "respondidos": 516,
+  "grupos_ativos": 209,
+  "turnos": 527,
+  "respondidos": 519,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
-  "mediana_min": 20.5,
+  "mediana_min": 20,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 290,
-    "mediana_min": 19.4
+    "respostas": 291,
+    "mediana_min": 19.1
    },
    {
     "nome": "Nicolas",
-    "respostas": 92,
+    "respostas": 94,
     "mediana_min": 28.2
    },
    {
@@ -356,19 +360,30 @@
   ]
  },
  "agora": {
-  "fila": 445,
-  "abertos": 566,
-  "com_atendimento": 7,
-  "online": 4,
-  "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 1131
+  "fila": 446,
+  "abertos": 569,
+  "com_atendimento": 8,
+  "online": 6,
+  "offline": 1,
+  "ausentes": 2,
+  "espera_media_s": 1127
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T23:57:42.096Z",
-  "min_sem_lead": 3888
+  "ultimo_lead_at": "2026-08-13T17:00:14.767Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "Joel Cesar Matos",
+   "tel": "5579*****879",
+   "criado": "14:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/kTYejxYr9",
+   "area": "Trabalhista"
+  },
   {
    "nome": ".",
    "tel": "5547*****225",
@@ -379,6 +394,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Matheus Henrique",
+   "tel": "5516*****766",
+   "criado": "11:05",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
   },
   {
    "nome": "Hellen",
@@ -401,17 +427,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Matheus Henrique",
-   "tel": "5516*****766",
-   "criado": "11:05",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
   },
   {
    "nome": "559584251946",
