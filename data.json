@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/08/2026, 18:00",
+ "gerado_em": "14/08/2026, 18:15",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 316,
-  "tickets_abertos": 221,
+  "tickets_abertos": 219,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,25 +60,25 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
   "Previdenciario": 1,
+  "Nao identificada": 6,
   "Trabalhista": 20
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 211,
-  "turnos": 534,
-  "respondidos": 531,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 22.2,
+  "grupos_ativos": 212,
+  "turnos": 536,
+  "respondidos": 534,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
+  "mediana_min": 22.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 286,
-    "mediana_min": 17
+    "respostas": 288,
+    "mediana_min": 17.3
    },
    {
     "nome": "Nicolas",
@@ -102,8 +102,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 20,
-    "mediana_min": 1326.8
+    "respostas": 21,
+    "mediana_min": 1385.7
    },
    {
     "nome": "Gabrielle",
@@ -129,12 +129,6 @@
     "ts": 1786717926348
    },
    {
-    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
-    "dia": "14/08",
-    "desde": "12:22",
-    "ts": 1786720978256
-   },
-   {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "12/08",
     "desde": "11:28",
@@ -157,12 +151,6 @@
     "dia": "14/08",
     "desde": "11:32",
     "ts": 1786717926348
-   },
-   {
-    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
-    "dia": "14/08",
-    "desde": "12:22",
-    "ts": 1786720978256
    }
   ]
  },
@@ -314,30 +302,19 @@
   ]
  },
  "agora": {
-  "fila": 115,
-  "abertos": 221,
+  "fila": 114,
+  "abertos": 219,
   "com_atendimento": 8,
-  "online": 3,
+  "online": 4,
   "offline": 3,
-  "ausentes": 3,
+  "ausentes": 2,
   "espera_media_s": 6385
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T17:11:20.220Z",
-  "min_sem_lead": 14629
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 687236
  },
  "leads": [
-  {
-   "nome": "Karla Andrea",
-   "tel": "5547*****068",
-   "criado": "17:40",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7a1xvbpgp",
-   "area": "Nao identificada"
-  },
   {
    "nome": "👑 Ju ✨☘️",
    "tel": "5561*****572",
@@ -348,6 +325,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "Karla Andrea",
+   "tel": "5547*****068",
+   "criado": "17:40",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7a1xvbpgp",
+   "area": "Nao identificada"
   },
   {
    "nome": "5554936182310",
