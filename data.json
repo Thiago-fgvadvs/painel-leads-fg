@@ -1,17 +1,17 @@
 {
- "gerado_em": "14/08/2026, 13:56",
+ "gerado_em": "14/08/2026, 14:11",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
+  "total": 18,
   "no_sla": 10,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 306,
-  "tickets_abertos": 415,
+  "leads_7d": 307,
+  "tickets_abertos": 414,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,7 +22,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 17,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -32,7 +32,7 @@
   },
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "fb.me/7VvbFaWie",
@@ -60,18 +60,25 @@
   }
  ],
  "areas": {
-  "Trabalhista": 13,
+  "Trabalhista": 14,
   "Nao identificada": 4
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5521965662220",
+   "tel": "5521*****220",
+   "criado": "14:10",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
   "turnos": 510,
-  "respondidos": 495,
-  "sem_resposta": 15,
-  "sem_resposta_grupos": 15,
+  "respondidos": 496,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
   "mediana_min": 22.7,
   "atendentes": [
    {
@@ -106,8 +113,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 13,
-    "mediana_min": 7.9
+    "respostas": 14,
+    "mediana_min": 11.5
    },
    {
     "nome": "Tiago Bernardo",
@@ -138,12 +145,6 @@
     "dia": "14/08",
     "desde": "11:12",
     "ts": 1786716750236
-   },
-   {
-    "grupo": "M.F x GIASSI & CIA LTDA",
-    "dia": "14/08",
-    "desde": "12:48",
-    "ts": 1786722483254
    },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
@@ -215,7 +216,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "5521965662220",
+    "tel": "5521*****220",
+    "dia": "14/08",
+    "desde": "14:10",
+    "ts": 1786727457657
+   }
+  ],
   "grupos": [
    {
     "grupo": "J.A.C x INSS",
@@ -288,12 +297,6 @@
     "dia": "14/08",
     "desde": "12:37",
     "ts": 1786721871263
-   },
-   {
-    "grupo": "M.F x GIASSI & CIA LTDA",
-    "dia": "14/08",
-    "desde": "12:48",
-    "ts": 1786722483254
    },
    {
     "grupo": "A.A.C.D.M x INSS",
@@ -438,19 +441,30 @@
   ]
  },
  "agora": {
-  "fila": 301,
-  "abertos": 415,
+  "fila": 296,
+  "abertos": 414,
   "com_atendimento": 8,
-  "online": 5,
-  "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 1409
+  "online": 6,
+  "offline": 3,
+  "ausentes": 0,
+  "espera_media_s": 1495
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T16:29:08.439Z",
-  "min_sem_lead": 1468
+  "ultimo_lead_at": "2026-08-04T10:46:51.480Z",
+  "min_sem_lead": 14785
  },
  "leads": [
+  {
+   "nome": "5521965662220",
+   "tel": "5521*****220",
+   "criado": "14:10",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Morena🥰",
    "tel": "5527*****785",
