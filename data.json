@@ -1,28 +1,28 @@
 {
- "gerado_em": "14/08/2026, 17:14",
+ "gerado_em": "14/08/2026, 17:30",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
-  "no_sla": 18,
+  "total": 26,
+  "no_sla": 19,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 314,
-  "tickets_abertos": 243,
+  "leads_7d": 315,
+  "tickets_abertos": 230,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 24,
+  "Anuncio": 25,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/Db1RMyXsdNI/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/annW3H6uu",
    "leads": 1
   },
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/87jYMAhSB",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9bs8zcB8M",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 20,
   "Previdenciario": 1,
-  "Trabalhista": 19,
   "Nao identificada": 5
  },
  "sem_resposta_lista": [],
@@ -69,21 +69,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 210,
-  "turnos": 525,
-  "respondidos": 519,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 22.7,
+  "turnos": 526,
+  "respondidos": 522,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 22.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 282,
-    "mediana_min": 17
+    "respostas": 284,
+    "mediana_min": 17.3
    },
    {
     "nome": "Nicolas",
-    "respostas": 107,
-    "mediana_min": 61.2
+    "respostas": 108,
+    "mediana_min": 65.7
    },
    {
     "nome": "Eduardo",
@@ -129,22 +129,10 @@
     "ts": 1786736963371
    },
    {
-    "grupo": "A.A.C.D.M x INSS",
-    "dia": "14/08",
-    "desde": "13:21",
-    "ts": 1786724509412
-   },
-   {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "14/08",
     "desde": "11:32",
     "ts": 1786717926348
-   },
-   {
-    "grupo": "F.D.L.B.D.O x CASA DE SAUDE SANTA MARCELINA",
-    "dia": "14/08",
-    "desde": "12:31",
-    "ts": 1786721484314
    },
    {
     "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
@@ -183,18 +171,6 @@
     "ts": 1786720978256
    },
    {
-    "grupo": "F.D.L.B.D.O x CASA DE SAUDE SANTA MARCELINA",
-    "dia": "14/08",
-    "desde": "12:31",
-    "ts": 1786721484314
-   },
-   {
-    "grupo": "A.A.C.D.M x INSS",
-    "dia": "14/08",
-    "desde": "13:21",
-    "ts": 1786724509412
-   },
-   {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "14/08",
     "desde": "16:49",
@@ -204,13 +180,23 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 13,
+  "total": 14,
   "por_vendedor": {
+   "Nicolas": 1,
    "Roseli": 7,
    "Eduardo": 4,
    "Tiago Bernardo": 2
   },
   "lista": [
+   {
+    "vendedor": "Nicolas",
+    "cliente": "M.F",
+    "dia": "14/08",
+    "hora": "17:20",
+    "ts": 1786738832868,
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Roseli",
     "cliente": "—",
@@ -331,19 +317,30 @@
   ]
  },
  "agora": {
-  "fila": 133,
-  "abertos": 243,
+  "fila": 124,
+  "abertos": 230,
   "com_atendimento": 8,
   "online": 3,
   "offline": 3,
   "ausentes": 3,
-  "espera_media_s": 5717
+  "espera_media_s": 6048
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-08T23:00:09.780Z",
-  "min_sem_lead": 8475
+  "ultimo_lead_at": "2026-08-11T21:37:10.861Z",
+  "min_sem_lead": 4253
  },
  "leads": [
+  {
+   "nome": "5554936182310",
+   "tel": "5554*****310",
+   "criado": "17:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db1RMyXsdNI/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "👑 Ju ✨☘️",
    "tel": "5561*****572",
