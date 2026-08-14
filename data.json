@@ -1,29 +1,29 @@
 {
- "gerado_em": "14/08/2026, 09:37",
+ "gerado_em": "14/08/2026, 09:52",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 1,
+  "total": 9,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 297,
-  "tickets_abertos": 597,
+  "leads_7d": 298,
+  "tickets_abertos": 600,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 8,
+   "leads": 9,
    "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 8,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -52,6 +52,7 @@
   }
  ],
  "areas": {
+  "Nao identificada": 1,
   "Trabalhista": 8
  },
  "sem_resposta_lista": [],
@@ -59,16 +60,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 194,
-  "turnos": 458,
-  "respondidos": 448,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 19.2,
+  "turnos": 460,
+  "respondidos": 449,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 18.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 262,
-    "mediana_min": 17.7
+    "respostas": 263,
+    "mediana_min": 17.3
    },
    {
     "nome": "Nicolas",
@@ -113,6 +114,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "13/08",
+    "desde": "19:05",
+    "ts": 1786658743053
+   },
+   {
+    "grupo": "G.D.S.H x MARIO CELSO SCHMITT",
+    "dia": "11/08",
+    "desde": "19:27",
+    "ts": 1786487228027
+   },
+   {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "13/08",
     "desde": "13:03",
@@ -135,12 +148,6 @@
     "dia": "13/08",
     "desde": "19:17",
     "ts": 1786659447060
-   },
-   {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "13/08",
-    "desde": "19:05",
-    "ts": 1786658743053
    },
    {
     "grupo": "P.D.C.L x WMB SUPERMERCADOS DO BRASIL LTDA",
@@ -183,6 +190,12 @@
     "dia": "11/08",
     "desde": "11:07",
     "ts": 1786457232612
+   },
+   {
+    "grupo": "G.D.S.H x MARIO CELSO SCHMITT",
+    "dia": "11/08",
+    "desde": "19:27",
+    "ts": 1786487228027
    },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
@@ -369,21 +382,32 @@
   ]
  },
  "agora": {
-  "fila": 473,
-  "abertos": 597,
-  "com_atendimento": 7,
-  "online": 3,
+  "fila": 475,
+  "abertos": 600,
+  "com_atendimento": 8,
+  "online": 6,
   "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 949
+  "ausentes": 0,
+  "espera_media_s": 945
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-14T00:16:54.742Z",
-  "min_sem_lead": 741
+  "ultimo_lead_at": "2026-07-15T16:56:37.862Z",
+  "min_sem_lead": 42956
  },
  "leads": [
   {
-   "nome": "555591259000",
+   "nome": "556592123234",
+   "tel": "5565*****234",
+   "criado": "09:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Gabi",
    "tel": "5555*****000",
    "criado": "05:28",
    "atendente": "FG Advogados - Isadora ",
