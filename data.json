@@ -1,28 +1,28 @@
 {
- "gerado_em": "14/08/2026, 11:09",
+ "gerado_em": "14/08/2026, 11:24",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 3,
+  "total": 11,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 299,
-  "tickets_abertos": 527,
+  "leads_7d": 300,
+  "tickets_abertos": 461,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -33,6 +33,10 @@
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/7a58KGmA0",
+   "leads": 1
   },
   {
    "url": "fb.me/4NSAy14MY",
@@ -56,29 +60,29 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 8
+  "Trabalhista": 9,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 196,
-  "turnos": 471,
-  "respondidos": 465,
+  "grupos_ativos": 197,
+  "turnos": 479,
+  "respondidos": 473,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 20,
+  "mediana_min": 20.5,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 269,
-    "mediana_min": 18
+    "respostas": 272,
+    "mediana_min": 17.7
    },
    {
     "nome": "Nicolas",
-    "respostas": 81,
-    "mediana_min": 40.9
+    "respostas": 82,
+    "mediana_min": 41
    },
    {
     "nome": "Eduardo",
@@ -92,8 +96,13 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 16,
+    "respostas": 18,
     "mediana_min": 1238.9
+   },
+   {
+    "nome": "Roseli",
+    "respostas": 13,
+    "mediana_min": 7.9
    },
    {
     "nome": "Gabrielle",
@@ -101,14 +110,9 @@
     "mediana_min": 17.7
    },
    {
-    "nome": "Roseli",
-    "respostas": 12,
-    "mediana_min": 6.7
-   },
-   {
     "nome": "Tiago Bernardo",
-    "respostas": 6,
-    "mediana_min": 23.3
+    "respostas": 7,
+    "mediana_min": 20.5
    },
    {
     "nome": "—",
@@ -120,14 +124,14 @@
    {
     "grupo": "M.E.D.A.V x MERCATO EXPRESS HOLDING DE PARTICIPACAO LTDA",
     "dia": "14/08",
-    "desde": "10:58",
-    "ts": 1786715939211
+    "desde": "11:19",
+    "ts": 1786717188259
    },
    {
-    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
-    "dia": "13/08",
-    "desde": "19:26",
-    "ts": 1786660011014
+    "grupo": "G.D.S.H x MARIO CELSO SCHMITT",
+    "dia": "14/08",
+    "desde": "11:09",
+    "ts": 1786716554317
    },
    {
     "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
@@ -184,16 +188,16 @@
     "ts": 1786659447060
    },
    {
-    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
-    "dia": "13/08",
-    "desde": "19:26",
-    "ts": 1786660011014
+    "grupo": "G.D.S.H x MARIO CELSO SCHMITT",
+    "dia": "14/08",
+    "desde": "11:09",
+    "ts": 1786716554317
    },
    {
     "grupo": "M.E.D.A.V x MERCATO EXPRESS HOLDING DE PARTICIPACAO LTDA",
     "dia": "14/08",
-    "desde": "10:58",
-    "ts": 1786715939211
+    "desde": "11:19",
+    "ts": 1786717188259
    }
   ]
  },
@@ -326,19 +330,30 @@
   ]
  },
  "agora": {
-  "fila": 402,
-  "abertos": 527,
-  "com_atendimento": 7,
-  "online": 6,
-  "offline": 2,
+  "fila": 337,
+  "abertos": 461,
+  "com_atendimento": 8,
+  "online": 7,
+  "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 1089
+  "espera_media_s": 1211
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T01:26:26.385Z",
-  "min_sem_lead": 7963
+  "ultimo_lead_at": "2026-07-15T16:56:37.862Z",
+  "min_sem_lead": 43048
  },
  "leads": [
+  {
+   "nome": "Jonas Farias",
+   "tel": "5548*****399",
+   "criado": "11:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7a58KGmA0",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Francisca Pereira",
    "tel": "5563*****906",
