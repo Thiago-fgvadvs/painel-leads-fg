@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/08/2026, 09:52",
+ "gerado_em": "14/08/2026, 10:08",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 298,
-  "tickets_abertos": 600,
+  "tickets_abertos": 596,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -59,17 +59,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 194,
-  "turnos": 460,
-  "respondidos": 449,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
-  "mediana_min": 18.8,
+  "grupos_ativos": 195,
+  "turnos": 458,
+  "respondidos": 450,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 19.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 263,
-    "mediana_min": 17.3
+    "respostas": 264,
+    "mediana_min": 17.7
    },
    {
     "nome": "Nicolas",
@@ -120,12 +120,6 @@
     "ts": 1786658743053
    },
    {
-    "grupo": "G.D.S.H x MARIO CELSO SCHMITT",
-    "dia": "11/08",
-    "desde": "19:27",
-    "ts": 1786487228027
-   },
-   {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "13/08",
     "desde": "13:03",
@@ -148,18 +142,6 @@
     "dia": "13/08",
     "desde": "19:17",
     "ts": 1786659447060
-   },
-   {
-    "grupo": "P.D.C.L x WMB SUPERMERCADOS DO BRASIL LTDA",
-    "dia": "13/08",
-    "desde": "16:35",
-    "ts": 1786649738010
-   },
-   {
-    "grupo": "S.A.D.S x J. S. TREINAMENTO EM DESENVOLVIMENTO PESSOAL E PROFISSIONAL LTDA",
-    "dia": "13/08",
-    "desde": "15:50",
-    "ts": 1786647039084
    },
    {
     "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
@@ -192,12 +174,6 @@
     "ts": 1786457232612
    },
    {
-    "grupo": "G.D.S.H x MARIO CELSO SCHMITT",
-    "dia": "11/08",
-    "desde": "19:27",
-    "ts": 1786487228027
-   },
-   {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "12/08",
     "desde": "11:28",
@@ -214,18 +190,6 @@
     "dia": "13/08",
     "desde": "13:03",
     "ts": 1786637037792
-   },
-   {
-    "grupo": "S.A.D.S x J. S. TREINAMENTO EM DESENVOLVIMENTO PESSOAL E PROFISSIONAL LTDA",
-    "dia": "13/08",
-    "desde": "15:50",
-    "ts": 1786647039084
-   },
-   {
-    "grupo": "P.D.C.L x WMB SUPERMERCADOS DO BRASIL LTDA",
-    "dia": "13/08",
-    "desde": "16:35",
-    "ts": 1786649738010
    },
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
@@ -383,16 +347,16 @@
  },
  "agora": {
   "fila": 475,
-  "abertos": 600,
-  "com_atendimento": 8,
+  "abertos": 596,
+  "com_atendimento": 7,
   "online": 6,
-  "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 945
+  "offline": 2,
+  "ausentes": 1,
+  "espera_media_s": 946
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-15T16:56:37.862Z",
-  "min_sem_lead": 42956
+  "ultimo_lead_at": "2026-08-11T00:37:04.850Z",
+  "min_sem_lead": 5071
  },
  "leads": [
   {
