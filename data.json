@@ -1,28 +1,28 @@
 {
- "gerado_em": "14/08/2026, 17:30",
+ "gerado_em": "14/08/2026, 17:45",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
-  "no_sla": 19,
+  "total": 27,
+  "no_sla": 20,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 315,
-  "tickets_abertos": 230,
+  "leads_7d": 316,
+  "tickets_abertos": 228,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 26,
+   "leads": 27,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 25,
+  "Anuncio": 26,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/7a1xvbpgp",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/Db1RMyXsdNI/",
    "leads": 1
   },
@@ -53,32 +57,28 @@
   {
    "url": "www.instagram.com/p/Db3h15Hso0z/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/87jYMAhSB",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 20,
+  "Nao identificada": 6,
   "Previdenciario": 1,
-  "Nao identificada": 5
+  "Trabalhista": 20
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 210,
-  "turnos": 526,
-  "respondidos": 522,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 22.8,
+  "grupos_ativos": 211,
+  "turnos": 534,
+  "respondidos": 531,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 22.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 284,
-    "mediana_min": 17.3
+    "respostas": 286,
+    "mediana_min": 17
    },
    {
     "nome": "Nicolas",
@@ -96,14 +96,14 @@
     "mediana_min": 1.2
    },
    {
+    "nome": "Roseli",
+    "respostas": 25,
+    "mediana_min": 6.5
+   },
+   {
     "nome": "FG Advogados - Isadora ",
     "respostas": 20,
     "mediana_min": 1326.8
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 18,
-    "mediana_min": 15.2
    },
    {
     "nome": "Gabrielle",
@@ -122,12 +122,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "14/08",
-    "desde": "16:49",
-    "ts": 1786736963371
-   },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "14/08",
@@ -169,25 +163,28 @@
     "dia": "14/08",
     "desde": "12:22",
     "ts": 1786720978256
-   },
-   {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "14/08",
-    "desde": "16:49",
-    "ts": 1786736963371
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 14,
+  "total": 15,
   "por_vendedor": {
+   "Tiago Bernardo": 3,
    "Nicolas": 1,
    "Roseli": 7,
-   "Eduardo": 4,
-   "Tiago Bernardo": 2
+   "Eduardo": 4
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "P.H",
+    "dia": "14/08",
+    "hora": "17:35",
+    "ts": 1786739744929,
+    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Nicolas",
     "cliente": "M.F",
@@ -317,29 +314,29 @@
   ]
  },
  "agora": {
-  "fila": 124,
-  "abertos": 230,
+  "fila": 122,
+  "abertos": 228,
   "com_atendimento": 8,
   "online": 3,
   "offline": 3,
   "ausentes": 3,
-  "espera_media_s": 6048
+  "espera_media_s": 6145
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T21:37:10.861Z",
-  "min_sem_lead": 4253
+  "ultimo_lead_at": "2026-08-04T17:11:20.220Z",
+  "min_sem_lead": 14614
  },
  "leads": [
   {
-   "nome": "5554936182310",
-   "tel": "5554*****310",
-   "criado": "17:16",
+   "nome": "Karla Andrea",
+   "tel": "5547*****068",
+   "criado": "17:40",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Db1RMyXsdNI/",
-   "area": "Trabalhista"
+   "criativo": "fb.me/7a1xvbpgp",
+   "area": "Nao identificada"
   },
   {
    "nome": "👑 Ju ✨☘️",
@@ -351,6 +348,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "5554936182310",
+   "tel": "5554*****310",
+   "criado": "17:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db1RMyXsdNI/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Murilo",
