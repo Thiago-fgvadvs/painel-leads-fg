@@ -1,45 +1,45 @@
 {
- "gerado_em": "14/08/2026, 11:54",
+ "gerado_em": "14/08/2026, 12:10",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
-  "no_sla": 5,
+  "total": 14,
+  "no_sla": 7,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 302,
-  "tickets_abertos": 455,
+  "leads_7d": 303,
+  "tickets_abertos": 428,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 12,
+   "leads": 14,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/7VvbFaWie",
    "leads": 2
   },
   {
-   "url": "fb.me/7a58KGmA0",
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "url": "fb.me/7a58KGmA0",
    "leads": 1
   },
   {
@@ -60,31 +60,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 11,
+  "Trabalhista": 12,
   "Nao identificada": 2
  },
- "sem_resposta_lista": [
-  {
-   "nome": "5527997248785",
-   "tel": "5527*****785",
-   "criado": "11:54",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 199,
-  "turnos": 484,
-  "respondidos": 478,
+  "turnos": 485,
+  "respondidos": 479,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 19.8,
+  "mediana_min": 19.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 277,
-    "mediana_min": 17.2
+    "respostas": 278,
+    "mediana_min": 17
    },
    {
     "nome": "Nicolas",
@@ -168,15 +161,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "5527997248785",
-    "tel": "5527*****785",
-    "dia": "14/08",
-    "desde": "11:54",
-    "ts": 1786719244267
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "N.M.D.M x ADOBE ASSESSORIA DE SERVICOS CADASTRAIS S.A.",
@@ -345,39 +330,39 @@
   ]
  },
  "agora": {
-  "fila": 339,
-  "abertos": 455,
+  "fila": 325,
+  "abertos": 428,
   "com_atendimento": 7,
   "online": 6,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 1235
+  "espera_media_s": 1320
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-14T14:20:50.149Z",
-  "min_sem_lead": 34
+  "ultimo_lead_at": "2026-08-14T14:54:04.267Z",
+  "min_sem_lead": 16
  },
  "leads": [
   {
-   "nome": "Jonas Farias",
-   "tel": "5548*****399",
-   "criado": "11:20",
+   "nome": "Morena🥰",
+   "tel": "5527*****785",
+   "criado": "11:54",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rebeca Silva",
+   "tel": "5511*****131",
+   "criado": "12:00",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/7a58KGmA0",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5527997248785",
-   "tel": "5527*****785",
-   "criado": "11:54",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
    "area": "Trabalhista"
   },
   {
@@ -389,6 +374,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Jonas Farias",
+   "tel": "5548*****399",
+   "criado": "11:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7a58KGmA0",
    "area": "Trabalhista"
   },
   {
