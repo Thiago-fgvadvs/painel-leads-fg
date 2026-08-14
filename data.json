@@ -1,37 +1,37 @@
 {
- "gerado_em": "14/08/2026, 11:24",
+ "gerado_em": "14/08/2026, 11:39",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 4,
+  "total": 12,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 300,
-  "tickets_abertos": 461,
+  "leads_7d": 301,
+  "tickets_abertos": 454,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
+   "leads": 12,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
-   "url": "fb.me/7VvbFaWie",
-   "leads": 2
+   "url": "www.instagram.com/p/Db3h-Ghspuz/",
+   "leads": 3
   },
   {
-   "url": "www.instagram.com/p/Db3h-Ghspuz/",
+   "url": "fb.me/7VvbFaWie",
    "leads": 2
   },
   {
@@ -60,24 +60,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 10,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 197,
-  "turnos": 479,
-  "respondidos": 473,
+  "grupos_ativos": 199,
+  "turnos": 482,
+  "respondidos": 476,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 20.5,
+  "mediana_min": 20,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 272,
-    "mediana_min": 17.7
+    "respostas": 275,
+    "mediana_min": 17.3
    },
    {
     "nome": "Nicolas",
@@ -122,16 +122,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
+    "dia": "14/08",
+    "desde": "11:32",
+    "ts": 1786717926348
+   },
+   {
     "grupo": "M.E.D.A.V x MERCATO EXPRESS HOLDING DE PARTICIPACAO LTDA",
     "dia": "14/08",
     "desde": "11:19",
     "ts": 1786717188259
-   },
-   {
-    "grupo": "G.D.S.H x MARIO CELSO SCHMITT",
-    "dia": "14/08",
-    "desde": "11:09",
-    "ts": 1786716554317
    },
    {
     "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
@@ -188,16 +188,16 @@
     "ts": 1786659447060
    },
    {
-    "grupo": "G.D.S.H x MARIO CELSO SCHMITT",
-    "dia": "14/08",
-    "desde": "11:09",
-    "ts": 1786716554317
-   },
-   {
     "grupo": "M.E.D.A.V x MERCATO EXPRESS HOLDING DE PARTICIPACAO LTDA",
     "dia": "14/08",
     "desde": "11:19",
     "ts": 1786717188259
+   },
+   {
+    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
+    "dia": "14/08",
+    "desde": "11:32",
+    "ts": 1786717926348
    }
   ]
  },
@@ -330,17 +330,17 @@
   ]
  },
  "agora": {
-  "fila": 337,
-  "abertos": 461,
-  "com_atendimento": 8,
-  "online": 7,
+  "fila": 339,
+  "abertos": 454,
+  "com_atendimento": 7,
+  "online": 4,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 1211
+  "ausentes": 4,
+  "espera_media_s": 1232
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-15T16:56:37.862Z",
-  "min_sem_lead": 43048
+  "ultimo_lead_at": "2026-08-07T21:03:03.004Z",
+  "min_sem_lead": 9696
  },
  "leads": [
   {
@@ -352,6 +352,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7a58KGmA0",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Vivi 🥰",
+   "tel": "5511*****355",
+   "criado": "11:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
    "area": "Trabalhista"
   },
   {
