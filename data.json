@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/08/2026, 15:28",
+ "gerado_em": "14/08/2026, 15:43",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 310,
-  "tickets_abertos": 365,
+  "tickets_abertos": 364,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,8 +68,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 513,
-  "respondidos": 503,
+  "turnos": 514,
+  "respondidos": 504,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
   "mediana_min": 22.7,
@@ -95,14 +95,14 @@
     "mediana_min": 1.2
    },
    {
+    "nome": "Roseli",
+    "respostas": 18,
+    "mediana_min": 15.2
+   },
+   {
     "nome": "FG Advogados - Isadora ",
     "respostas": 18,
     "mediana_min": 1238.9
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 17,
-    "mediana_min": 15
    },
    {
     "nome": "Gabrielle",
@@ -122,16 +122,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "J.C.C.(",
+    "dia": "14/08",
+    "desde": "15:30",
+    "ts": 1786732226473
+   },
+   {
     "grupo": "A.A.C.D.M x INSS",
     "dia": "14/08",
     "desde": "13:21",
     "ts": 1786724509412
-   },
-   {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "14/08",
-    "desde": "11:12",
-    "ts": 1786716750236
    },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
@@ -218,12 +218,6 @@
     "ts": 1786706727241
    },
    {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "14/08",
-    "desde": "11:12",
-    "ts": 1786716750236
-   },
-   {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "14/08",
     "desde": "11:32",
@@ -246,6 +240,12 @@
     "dia": "14/08",
     "desde": "13:21",
     "ts": 1786724509412
+   },
+   {
+    "grupo": "J.C.C.(",
+    "dia": "14/08",
+    "desde": "15:30",
+    "ts": 1786732226473
    }
   ]
  },
@@ -379,16 +379,16 @@
  },
  "agora": {
   "fila": 247,
-  "abertos": 365,
+  "abertos": 364,
   "com_atendimento": 8,
-  "online": 4,
+  "online": 6,
   "offline": 1,
-  "ausentes": 4,
-  "espera_media_s": 3655
+  "ausentes": 2,
+  "espera_media_s": 3670
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T19:07:45.533Z",
-  "min_sem_lead": 25880
+  "ultimo_lead_at": "2026-08-13T21:37:48.547Z",
+  "min_sem_lead": 1266
  },
  "leads": [
   {
