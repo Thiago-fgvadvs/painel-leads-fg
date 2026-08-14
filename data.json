@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/08/2026, 13:41",
+ "gerado_em": "14/08/2026, 13:56",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 306,
-  "tickets_abertos": 429,
+  "tickets_abertos": 415,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,10 +68,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 509,
+  "turnos": 510,
   "respondidos": 495,
-  "sem_resposta": 14,
-  "sem_resposta_grupos": 14,
+  "sem_resposta": 15,
+  "sem_resposta_grupos": 15,
   "mediana_min": 22.7,
   "atendentes": [
    {
@@ -121,6 +121,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "K.D.R.O x IRPAO FABRICACAO E COM. DE MASSAS ALIMENTICIAS LTDA",
+    "dia": "14/08",
+    "desde": "13:55",
+    "ts": 1786726532273
+   },
    {
     "grupo": "A.A.C.D.M x INSS",
     "dia": "14/08",
@@ -294,6 +300,12 @@
     "dia": "14/08",
     "desde": "13:21",
     "ts": 1786724509412
+   },
+   {
+    "grupo": "K.D.R.O x IRPAO FABRICACAO E COM. DE MASSAS ALIMENTICIAS LTDA",
+    "dia": "14/08",
+    "desde": "13:55",
+    "ts": 1786726532273
    }
   ]
  },
@@ -426,17 +438,17 @@
   ]
  },
  "agora": {
-  "fila": 314,
-  "abertos": 429,
+  "fila": 301,
+  "abertos": 415,
   "com_atendimento": 8,
-  "online": 6,
-  "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 1359
+  "online": 5,
+  "offline": 2,
+  "ausentes": 2,
+  "espera_media_s": 1409
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T19:07:34.030Z",
-  "min_sem_lead": 14254
+  "ultimo_lead_at": "2026-08-13T16:29:08.439Z",
+  "min_sem_lead": 1468
  },
  "leads": [
   {
