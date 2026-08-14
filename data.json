@@ -1,28 +1,28 @@
 {
- "gerado_em": "14/08/2026, 16:44",
+ "gerado_em": "14/08/2026, 16:59",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
-  "no_sla": 15,
+  "total": 24,
+  "no_sla": 17,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 312,
-  "tickets_abertos": 287,
+  "leads_7d": 313,
+  "tickets_abertos": 259,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 22,
+   "leads": 24,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 23,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/Db3h15Hso0z/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/87jYMAhSB",
    "leads": 1
   },
@@ -53,33 +57,22 @@
   {
    "url": "fb.me/73927V0PX",
    "leads": 1
-  },
-  {
-   "url": "fb.me/41inlpyts",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 17,
+  "Trabalhista": 18,
   "Previdenciario": 1,
   "Nao identificada": 5
  },
- "sem_resposta_lista": [
-  {
-   "nome": "Cleonete",
-   "tel": "5571*****802",
-   "criado": "16:44",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 210,
-  "turnos": 518,
-  "respondidos": 513,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "turnos": 520,
+  "respondidos": 514,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 22.7,
   "atendentes": [
    {
@@ -89,8 +82,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 103,
-    "mediana_min": 77.7
+    "respostas": 104,
+    "mediana_min": 74
    },
    {
     "nome": "Eduardo",
@@ -130,6 +123,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "14/08",
+    "desde": "16:49",
+    "ts": 1786736963371
+   },
+   {
     "grupo": "A.A.C.D.M x INSS",
     "dia": "14/08",
     "desde": "13:21",
@@ -163,15 +162,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Cleonete",
-    "tel": "5571*****802",
-    "dia": "14/08",
-    "desde": "16:44",
-    "ts": 1786736643538
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
@@ -202,6 +193,12 @@
     "dia": "14/08",
     "desde": "13:21",
     "ts": 1786724509412
+   },
+   {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "14/08",
+    "desde": "16:49",
+    "ts": 1786736963371
    }
   ]
  },
@@ -334,26 +331,37 @@
   ]
  },
  "agora": {
-  "fila": 174,
-  "abertos": 287,
+  "fila": 146,
+  "abertos": 259,
   "com_atendimento": 8,
-  "online": 2,
+  "online": 5,
   "offline": 2,
-  "ausentes": 5,
-  "espera_media_s": 4744
+  "ausentes": 2,
+  "espera_media_s": 5320
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-14T19:44:03.538Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-08-14T19:57:11.360Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "558288366430",
+   "tel": "5582*****430",
+   "criado": "16:57",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h15Hso0z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Cleonete",
    "tel": "5571*****802",
    "criado": "16:44",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
    "area": "Trabalhista"
