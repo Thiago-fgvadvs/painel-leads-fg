@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/08/2026, 12:55",
+ "gerado_em": "14/08/2026, 13:11",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 306,
-  "tickets_abertos": 456,
+  "tickets_abertos": 453,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,19 +60,19 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 13
+  "Trabalhista": 13,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 208,
-  "turnos": 509,
-  "respondidos": 484,
-  "sem_resposta": 25,
-  "sem_resposta_grupos": 25,
-  "mediana_min": 20,
+  "grupos_ativos": 209,
+  "turnos": 508,
+  "respondidos": 486,
+  "sem_resposta": 22,
+  "sem_resposta_grupos": 22,
+  "mediana_min": 20.3,
   "atendentes": [
    {
     "nome": "Julia",
@@ -81,8 +81,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 85,
-    "mediana_min": 41.6
+    "respostas": 87,
+    "mediana_min": 44.2
    },
    {
     "nome": "Eduardo",
@@ -252,24 +252,6 @@
     "dia": "11/08",
     "desde": "11:07",
     "ts": 1786457232612
-   },
-   {
-    "grupo": "A.C.B.M x HOSPITAL ALEMÃO OSWALDO CRUZ",
-    "dia": "10/08",
-    "desde": "16:53",
-    "ts": 1786391599263
-   },
-   {
-    "grupo": "N.J.D.S.M x SAVANEGO SUPERMERCADOS LTDA",
-    "dia": "10/08",
-    "desde": "10:11",
-    "ts": 1786367485906
-   },
-   {
-    "grupo": "A.S.D.S.L x BRAVO ASSESORIA E SERVICOS EMPRESARIAIS LTDA",
-    "dia": "10/08",
-    "desde": "12:05",
-    "ts": 1786374351991
    }
   ]
  },
@@ -288,24 +270,6 @@
     "dia": "10/08",
     "desde": "09:24",
     "ts": 1786364688914
-   },
-   {
-    "grupo": "N.J.D.S.M x SAVANEGO SUPERMERCADOS LTDA",
-    "dia": "10/08",
-    "desde": "10:11",
-    "ts": 1786367485906
-   },
-   {
-    "grupo": "A.S.D.S.L x BRAVO ASSESORIA E SERVICOS EMPRESARIAIS LTDA",
-    "dia": "10/08",
-    "desde": "12:05",
-    "ts": 1786374351991
-   },
-   {
-    "grupo": "A.C.B.M x HOSPITAL ALEMÃO OSWALDO CRUZ",
-    "dia": "10/08",
-    "desde": "16:53",
-    "ts": 1786391599263
    },
    {
     "grupo": "N.M.D.M x ADOBE ASSESSORIA DE SERVICOS CADASTRAIS S.A.",
@@ -558,30 +522,19 @@
   ]
  },
  "agora": {
-  "fila": 329,
-  "abertos": 456,
+  "fila": 330,
+  "abertos": 453,
   "com_atendimento": 8,
   "online": 3,
   "offline": 2,
   "ausentes": 4,
-  "espera_media_s": 1306
+  "espera_media_s": 1303
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-14T15:51:35.170Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2026-08-14T14:54:04.267Z",
+  "min_sem_lead": 77
  },
  "leads": [
-  {
-   "nome": "553597386626",
-   "tel": "5535*****626",
-   "criado": "12:51",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/73927V0PX",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Morena🥰",
    "tel": "5527*****785",
@@ -592,6 +545,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "553597386626",
+   "tel": "5535*****626",
+   "criado": "12:51",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/73927V0PX",
+   "area": "Nao identificada"
   },
   {
    "nome": "556192711572",
