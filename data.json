@@ -1,28 +1,28 @@
 {
- "gerado_em": "14/08/2026, 10:08",
+ "gerado_em": "14/08/2026, 10:23",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 2,
+  "total": 10,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 298,
-  "tickets_abertos": 596,
+  "leads_7d": 299,
+  "tickets_abertos": 598,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 9,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -33,6 +33,10 @@
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/4NSAy14MY",
+   "leads": 1
   },
   {
    "url": "fb.me/4RpRFqGbv",
@@ -52,7 +56,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 1,
+  "Nao identificada": 2,
   "Trabalhista": 8
  },
  "sem_resposta_lista": [],
@@ -61,10 +65,10 @@
   "dias": 7,
   "grupos_ativos": 195,
   "turnos": 458,
-  "respondidos": 450,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 19.2,
+  "respondidos": 451,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 19.6,
   "atendentes": [
    {
     "nome": "Julia",
@@ -98,8 +102,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 9,
-    "mediana_min": 5.5
+    "respostas": 10,
+    "mediana_min": 6.7
    },
    {
     "nome": "Tiago Bernardo",
@@ -114,22 +118,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "grupo": "M.F.D.S x SM PIRITUBA HORTIFRUTI E APOIO ADMINISTRATIVO LTDA",
     "dia": "13/08",
-    "desde": "19:05",
-    "ts": 1786658743053
+    "desde": "23:53",
+    "ts": 1786676033065
    },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "13/08",
     "desde": "13:03",
     "ts": 1786637037792
-   },
-   {
-    "grupo": "M.F.D.S x SM PIRITUBA HORTIFRUTI E APOIO ADMINISTRATIVO LTDA",
-    "dia": "13/08",
-    "desde": "23:53",
-    "ts": 1786676033065
    },
    {
     "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
@@ -190,12 +188,6 @@
     "dia": "13/08",
     "desde": "13:03",
     "ts": 1786637037792
-   },
-   {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "13/08",
-    "desde": "19:05",
-    "ts": 1786658743053
    },
    {
     "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
@@ -346,19 +338,30 @@
   ]
  },
  "agora": {
-  "fila": 475,
-  "abertos": 596,
+  "fila": 477,
+  "abertos": 598,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 5,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 946
+  "ausentes": 2,
+  "espera_media_s": 943
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T00:37:04.850Z",
-  "min_sem_lead": 5071
+  "ultimo_lead_at": "2026-08-14T13:13:51.961Z",
+  "min_sem_lead": 9
  },
  "leads": [
+  {
+   "nome": "Francisca Pereira",
+   "tel": "5563*****906",
+   "criado": "10:13",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4NSAy14MY",
+   "area": "Nao identificada"
+  },
   {
    "nome": "556592123234",
    "tel": "5565*****234",
