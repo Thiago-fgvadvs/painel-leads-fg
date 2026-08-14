@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/08/2026, 15:12",
+ "gerado_em": "14/08/2026, 15:28",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 310,
-  "tickets_abertos": 383,
+  "tickets_abertos": 365,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -69,10 +69,10 @@
   "dias": 7,
   "grupos_ativos": 209,
   "turnos": 513,
-  "respondidos": 501,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 22.5,
+  "respondidos": 503,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 22.7,
   "atendentes": [
    {
     "nome": "Julia",
@@ -81,8 +81,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 96,
-    "mediana_min": 74
+    "respostas": 97,
+    "mediana_min": 77.7
    },
    {
     "nome": "Eduardo",
@@ -106,8 +106,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 15,
-    "mediana_min": 17.7
+    "respostas": 16,
+    "mediana_min": 22.7
    },
    {
     "nome": "Tiago Bernardo",
@@ -170,18 +170,6 @@
     "ts": 1786706727241
    },
    {
-    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
-    "dia": "14/08",
-    "desde": "07:21",
-    "ts": 1786702888230
-   },
-   {
-    "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
-    "dia": "12/08",
-    "desde": "13:54",
-    "ts": 1786553682359
-   },
-   {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "12/08",
     "desde": "11:28",
@@ -218,22 +206,10 @@
     "ts": 1786544933208
    },
    {
-    "grupo": "V.T.M.D.O x VERDE FERTILIZANTES LTDA",
-    "dia": "12/08",
-    "desde": "13:54",
-    "ts": 1786553682359
-   },
-   {
     "grupo": "I.D.S.L x HOSPITAL NOSSA SENHORA DAS GRAÇAS",
     "dia": "13/08",
     "desde": "14:08",
     "ts": 1786640922890
-   },
-   {
-    "grupo": "R.D.C.D.J.O x GENERAL MILLS BRASIL ALIMENTOS LTDA",
-    "dia": "14/08",
-    "desde": "07:21",
-    "ts": 1786702888230
    },
    {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
@@ -402,17 +378,17 @@
   ]
  },
  "agora": {
-  "fila": 266,
-  "abertos": 383,
+  "fila": 247,
+  "abertos": 365,
   "com_atendimento": 8,
-  "online": 7,
+  "online": 4,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 1613
+  "ausentes": 4,
+  "espera_media_s": 3655
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-14T17:46:12.914Z",
-  "min_sem_lead": 27
+  "ultimo_lead_at": "2026-07-27T19:07:45.533Z",
+  "min_sem_lead": 25880
  },
  "leads": [
   {
@@ -449,7 +425,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553498035351",
+   "nome": "Lorenna Albuquerque",
    "tel": "5534*****351",
    "criado": "14:29",
    "atendente": "FG Advogados - Isadora ",
