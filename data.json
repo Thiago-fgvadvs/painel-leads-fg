@@ -1,17 +1,17 @@
 {
- "gerado_em": "14/08/2026, 16:29",
+ "gerado_em": "14/08/2026, 16:44",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
+  "total": 23,
   "no_sla": 15,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 311,
-  "tickets_abertos": 297,
+  "leads_7d": 312,
+  "tickets_abertos": 287,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,16 +22,16 @@
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 22,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 4
+   "url": "www.instagram.com/p/Db3h-Ghspuz/",
+   "leads": 5
   },
   {
-   "url": "www.instagram.com/p/Db3h-Ghspuz/",
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
    "leads": 4
   },
   {
@@ -60,18 +60,26 @@
   }
  ],
  "areas": {
-  "Nao identificada": 5,
-  "Trabalhista": 17
+  "Trabalhista": 17,
+  "Previdenciario": 1,
+  "Nao identificada": 5
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Cleonete",
+   "tel": "5571*****802",
+   "criado": "16:44",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 209,
+  "grupos_ativos": 210,
   "turnos": 518,
-  "respondidos": 512,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "respondidos": 513,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 22.7,
   "atendentes": [
    {
@@ -81,8 +89,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 102,
-    "mediana_min": 74
+    "respostas": 103,
+    "mediana_min": 77.7
    },
    {
     "nome": "Eduardo",
@@ -140,12 +148,6 @@
     "ts": 1786721484314
    },
    {
-    "grupo": "J.A.C x INSS",
-    "dia": "09/08",
-    "desde": "15:43",
-    "ts": 1786301018743
-   },
-   {
     "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
     "dia": "14/08",
     "desde": "12:22",
@@ -161,14 +163,16 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
-  "grupos": [
+  "leads": [
    {
-    "grupo": "J.A.C x INSS",
-    "dia": "09/08",
-    "desde": "15:43",
-    "ts": 1786301018743
-   },
+    "nome": "Cleonete",
+    "tel": "5571*****802",
+    "dia": "14/08",
+    "desde": "16:44",
+    "ts": 1786736643538
+   }
+  ],
+  "grupos": [
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "12/08",
@@ -330,19 +334,41 @@
   ]
  },
  "agora": {
-  "fila": 183,
-  "abertos": 297,
+  "fila": 174,
+  "abertos": 287,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 2,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 4503
+  "ausentes": 5,
+  "espera_media_s": 4744
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T22:18:48.481Z",
-  "min_sem_lead": 5590
+  "ultimo_lead_at": "2026-08-14T19:44:03.538Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "Cleonete",
+   "tel": "5571*****802",
+   "criado": "16:44",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "👑 Ju ✨☘️",
+   "tel": "5561*****572",
+   "criado": "12:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Previdenciario"
+  },
   {
    "nome": "María José",
    "tel": "5565*****750",
@@ -419,17 +445,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/73927V0PX",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "👑 Ju ✨☘️",
-   "tel": "5561*****572",
-   "criado": "12:34",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Priscila Gontijo",
