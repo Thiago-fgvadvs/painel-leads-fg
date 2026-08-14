@@ -1,23 +1,23 @@
 {
- "gerado_em": "14/08/2026, 14:11",
+ "gerado_em": "14/08/2026, 14:27",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 18,
-  "no_sla": 10,
+  "no_sla": 11,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 307,
-  "tickets_abertos": 414,
+  "tickets_abertos": 409,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 17,
+   "leads": 18,
    "mediana_min": 0.4
   }
  ],
@@ -63,28 +63,21 @@
   "Trabalhista": 14,
   "Nao identificada": 4
  },
- "sem_resposta_lista": [
-  {
-   "nome": "5521965662220",
-   "tel": "5521*****220",
-   "criado": "14:10",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
   "turnos": 510,
-  "respondidos": 496,
-  "sem_resposta": 14,
-  "sem_resposta_grupos": 14,
+  "respondidos": 498,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
   "mediana_min": 22.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 278,
-    "mediana_min": 17
+    "respostas": 279,
+    "mediana_min": 17.2
    },
    {
     "nome": "Nicolas",
@@ -107,14 +100,14 @@
     "mediana_min": 1238.9
    },
    {
+    "nome": "Roseli",
+    "respostas": 15,
+    "mediana_min": 15
+   },
+   {
     "nome": "Gabrielle",
     "respostas": 15,
     "mediana_min": 17.7
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 14,
-    "mediana_min": 11.5
    },
    {
     "nome": "Tiago Bernardo",
@@ -128,12 +121,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "K.D.R.O x IRPAO FABRICACAO E COM. DE MASSAS ALIMENTICIAS LTDA",
-    "dia": "14/08",
-    "desde": "13:55",
-    "ts": 1786726532273
-   },
    {
     "grupo": "A.A.C.D.M x INSS",
     "dia": "14/08",
@@ -151,12 +138,6 @@
     "dia": "14/08",
     "desde": "11:32",
     "ts": 1786717926348
-   },
-   {
-    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
-    "dia": "14/08",
-    "desde": "12:37",
-    "ts": 1786721871263
    },
    {
     "grupo": "F.D.L.B.D.O x CASA DE SAUDE SANTA MARCELINA",
@@ -216,15 +197,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "5521965662220",
-    "tel": "5521*****220",
-    "dia": "14/08",
-    "desde": "14:10",
-    "ts": 1786727457657
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "J.A.C x INSS",
@@ -293,22 +266,10 @@
     "ts": 1786721484314
    },
    {
-    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
-    "dia": "14/08",
-    "desde": "12:37",
-    "ts": 1786721871263
-   },
-   {
     "grupo": "A.A.C.D.M x INSS",
     "dia": "14/08",
     "desde": "13:21",
     "ts": 1786724509412
-   },
-   {
-    "grupo": "K.D.R.O x IRPAO FABRICACAO E COM. DE MASSAS ALIMENTICIAS LTDA",
-    "dia": "14/08",
-    "desde": "13:55",
-    "ts": 1786726532273
    }
   ]
  },
@@ -441,26 +402,26 @@
   ]
  },
  "agora": {
-  "fila": 296,
-  "abertos": 414,
+  "fila": 293,
+  "abertos": 409,
   "com_atendimento": 8,
-  "online": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 1495
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T10:46:51.480Z",
-  "min_sem_lead": 14785
+  "ultimo_lead_at": "2026-08-04T23:18:46.043Z",
+  "min_sem_lead": 14048
  },
  "leads": [
   {
    "nome": "5521965662220",
    "tel": "5521*****220",
    "criado": "14:10",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.1,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
