@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/08/2026, 10:23",
+ "gerado_em": "14/08/2026, 10:38",
  "data_ref": "14/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 299,
-  "tickets_abertos": 598,
+  "tickets_abertos": 597,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -64,16 +64,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 195,
-  "turnos": 458,
-  "respondidos": 451,
+  "turnos": 460,
+  "respondidos": 453,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 19.6,
+  "mediana_min": 20,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 264,
-    "mediana_min": 17.7
+    "respostas": 265,
+    "mediana_min": 18
    },
    {
     "nome": "Nicolas",
@@ -82,8 +82,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 33,
-    "mediana_min": 9.9
+    "respostas": 34,
+    "mediana_min": 10.1
    },
    {
     "nome": "Thauany",
@@ -118,16 +118,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "14/08",
+    "desde": "10:33",
+    "ts": 1786714436174
+   },
+   {
     "grupo": "M.F.D.S x SM PIRITUBA HORTIFRUTI E APOIO ADMINISTRATIVO LTDA",
     "dia": "13/08",
     "desde": "23:53",
     "ts": 1786676033065
-   },
-   {
-    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
-    "dia": "13/08",
-    "desde": "13:03",
-    "ts": 1786637037792
    },
    {
     "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
@@ -184,12 +184,6 @@
     "ts": 1786553682359
    },
    {
-    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
-    "dia": "13/08",
-    "desde": "13:03",
-    "ts": 1786637037792
-   },
-   {
     "grupo": "R.P.C x BUY4 PROCESSAMENTO DE PAGAMENTOS S.A",
     "dia": "13/08",
     "desde": "19:17",
@@ -206,6 +200,12 @@
     "dia": "13/08",
     "desde": "23:53",
     "ts": 1786676033065
+   },
+   {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "14/08",
+    "desde": "10:33",
+    "ts": 1786714436174
    }
   ]
  },
@@ -338,17 +338,17 @@
   ]
  },
  "agora": {
-  "fila": 477,
-  "abertos": 598,
-  "com_atendimento": 7,
-  "online": 5,
+  "fila": 476,
+  "abertos": 597,
+  "com_atendimento": 8,
+  "online": 7,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 943
+  "ausentes": 0,
+  "espera_media_s": 944
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-14T13:13:51.961Z",
-  "min_sem_lead": 9
+  "ultimo_lead_at": "2026-08-13T14:05:24.217Z",
+  "min_sem_lead": 1413
  },
  "leads": [
   {
