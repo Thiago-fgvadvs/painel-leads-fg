@@ -1,23 +1,23 @@
 {
- "gerado_em": "13/08/2026, 21:02",
+ "gerado_em": "13/08/2026, 21:18",
  "data_ref": "13/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 34,
+  "total": 35,
   "no_sla": 23,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 10,
+  "fora_horario": 11,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 313,
-  "tickets_abertos": 585,
+  "leads_7d": 314,
+  "tickets_abertos": 586,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 32,
+   "leads": 33,
    "mediana_min": 0.4
   },
   {
@@ -32,16 +32,16 @@
   }
  ],
  "origem": {
-  "Anuncio": 25,
+  "Anuncio": 26,
   "Direto/Indicacao": 9
  },
  "criativos": [
   {
-   "url": "fb.me/73927V0PX",
-   "leads": 3
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "leads": 4
   },
   {
-   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "url": "fb.me/73927V0PX",
    "leads": 3
   },
   {
@@ -61,17 +61,17 @@
    "leads": 1
   },
   {
-   "url": "fb.me/kMMSTN8VC",
+   "url": "fb.me/9reIpIGlx",
    "leads": 1
   },
   {
-   "url": "fb.me/6bZ2VUBug",
+   "url": "fb.me/kMMSTN8VC",
    "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 21,
   "Previdenciario": 1,
-  "Trabalhista": 20,
   "Nao identificada": 13
  },
  "sem_resposta_lista": [],
@@ -423,19 +423,30 @@
   ]
  },
  "agora": {
-  "fila": 462,
-  "abertos": 585,
+  "fila": 463,
+  "abertos": 586,
   "com_atendimento": 7,
   "online": 1,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 969
+  "espera_media_s": 967
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T23:47:24.660Z",
-  "min_sem_lead": 15
+  "ultimo_lead_at": "2026-08-14T00:16:54.742Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "557996861208",
+   "tel": "5579*****208",
+   "criado": "21:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Anderson James Da Silva",
    "tel": "5519*****125",
@@ -446,6 +457,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4h6OgZp5w",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "5514997585444",
+   "tel": "5514*****444",
+   "criado": "20:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9reIpIGlx",
+   "area": "Trabalhista"
   },
   {
    "nome": "tuliofluzao",
@@ -468,17 +490,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/6bZ2VUBug",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "5514997585444",
-   "tel": "5514*****444",
-   "criado": "20:23",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9reIpIGlx",
-   "area": "Trabalhista"
   },
   {
    "nome": "Pedro Persi",
