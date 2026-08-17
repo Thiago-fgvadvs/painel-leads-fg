@@ -1,5 +1,5 @@
 {
- "gerado_em": "17/08/2026, 16:03",
+ "gerado_em": "17/08/2026, 16:18",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -69,21 +69,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 211,
-  "turnos": 606,
-  "respondidos": 604,
-  "sem_resposta": 2,
-  "sem_resposta_grupos": 2,
-  "mediana_min": 21.3,
+  "turnos": 611,
+  "respondidos": 608,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 22.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 364,
-    "mediana_min": 14.7
+    "respostas": 365,
+    "mediana_min": 14.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 116,
-    "mediana_min": 76.4
+    "respostas": 117,
+    "mediana_min": 76.2
    },
    {
     "nome": "Thauany",
@@ -97,7 +97,7 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 26,
+    "respostas": 28,
     "mediana_min": 6
    },
    {
@@ -122,6 +122,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "17/08",
+    "desde": "16:08",
+    "ts": 1786993726883
+   },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "14/08",
@@ -151,6 +157,12 @@
     "dia": "14/08",
     "desde": "11:32",
     "ts": 1786717926348
+   },
+   {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "17/08",
+    "desde": "16:08",
+    "ts": 1786993726883
    }
   ]
  },
@@ -296,16 +308,27 @@
   "fila": 145,
   "abertos": 284,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 4,
   "offline": 3,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 4883
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T15:59:06.986Z",
-  "min_sem_lead": 7384
+  "ultimo_lead_at": "2026-08-17T18:07:39.769Z",
+  "min_sem_lead": 71
  },
  "leads": [
+  {
+   "nome": "flavio🤨",
+   "tel": "5521*****589",
+   "criado": "15:07",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
   {
    "nome": "🅓🅞🅜🅘🅒🅘🅞",
    "tel": "5514*****971",
@@ -338,17 +361,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/kdSBBh9FE",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "flavio🤨",
-   "tel": "5521*****589",
-   "criado": "15:07",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4RpRFqGbv",
-   "area": "Trabalhista"
   },
   {
    "nome": "Paula Ferrari",
