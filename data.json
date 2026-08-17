@@ -1,5 +1,5 @@
 {
- "gerado_em": "17/08/2026, 12:30",
+ "gerado_em": "17/08/2026, 12:45",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 2.4,
   "leads_7d": 250,
-  "tickets_abertos": 259,
+  "tickets_abertos": 261,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -67,21 +67,21 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 203,
-  "turnos": 529,
-  "respondidos": 523,
+  "grupos_ativos": 205,
+  "turnos": 536,
+  "respondidos": 530,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 20.5,
+  "mediana_min": 19.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 286,
-    "mediana_min": 14.5
+    "respostas": 291,
+    "mediana_min": 14.3
    },
    {
     "nome": "Nicolas",
-    "respostas": 113,
+    "respostas": 115,
     "mediana_min": 76.6
    },
    {
@@ -122,28 +122,28 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "B.M x FC Oliveira",
+    "grupo": "M.V.F.D.O x INDUSTRIA E COMERCIO DE ARTEFATOS PLASTICOS VELAPLAST LTDA",
     "dia": "17/08",
-    "desde": "12:05",
-    "ts": 1786979127872
-   },
-   {
-    "grupo": "C.A.G x R&D MINERACAO E CONSTRUCAO LTDA",
-    "dia": "14/08",
-    "desde": "13:07",
-    "ts": 1786723624280
-   },
-   {
-    "grupo": "G.D.F.F x R G DE ASSIS LTDA",
-    "dia": "17/08",
-    "desde": "11:23",
-    "ts": 1786976592646
+    "desde": "12:44",
+    "ts": 1786981476749
    },
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "15/08",
     "desde": "17:47",
     "ts": 1786826864631
+   },
+   {
+    "grupo": "G.D.F.F x R G DE ASSIS LTDA",
+    "dia": "17/08",
+    "desde": "12:40",
+    "ts": 1786981231894
+   },
+   {
+    "grupo": "B.M x FC Oliveira",
+    "dia": "17/08",
+    "desde": "12:05",
+    "ts": 1786979127872
    },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
@@ -176,28 +176,28 @@
     "ts": 1786717926348
    },
    {
-    "grupo": "C.A.G x R&D MINERACAO E CONSTRUCAO LTDA",
-    "dia": "14/08",
-    "desde": "13:07",
-    "ts": 1786723624280
-   },
-   {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "15/08",
     "desde": "17:47",
     "ts": 1786826864631
    },
    {
-    "grupo": "G.D.F.F x R G DE ASSIS LTDA",
-    "dia": "17/08",
-    "desde": "11:23",
-    "ts": 1786976592646
-   },
-   {
     "grupo": "B.M x FC Oliveira",
     "dia": "17/08",
     "desde": "12:05",
     "ts": 1786979127872
+   },
+   {
+    "grupo": "G.D.F.F x R G DE ASSIS LTDA",
+    "dia": "17/08",
+    "desde": "12:40",
+    "ts": 1786981231894
+   },
+   {
+    "grupo": "M.V.F.D.O x INDUSTRIA E COMERCIO DE ARTEFATOS PLASTICOS VELAPLAST LTDA",
+    "dia": "17/08",
+    "desde": "12:44",
+    "ts": 1786981476749
    }
   ]
  },
@@ -340,17 +340,17 @@
   ]
  },
  "agora": {
-  "fila": 127,
-  "abertos": 259,
+  "fila": 128,
+  "abertos": 260,
   "com_atendimento": 8,
   "online": 5,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 5438
+  "espera_media_s": 5400
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 691211
+  "ultimo_lead_at": "2026-07-27T02:06:37.379Z",
+  "min_sem_lead": 31059
  },
  "leads": [
   {
