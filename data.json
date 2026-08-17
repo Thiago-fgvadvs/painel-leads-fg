@@ -1,5 +1,5 @@
 {
- "gerado_em": "17/08/2026, 17:04",
+ "gerado_em": "17/08/2026, 17:19",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 2.1,
   "leads_7d": 269,
-  "tickets_abertos": 289,
+  "tickets_abertos": 288,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -69,16 +69,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 212,
-  "turnos": 622,
-  "respondidos": 618,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 19.9,
+  "turnos": 628,
+  "respondidos": 625,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 19.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 374,
-    "mediana_min": 14.4
+    "respostas": 381,
+    "mediana_min": 13.4
    },
    {
     "nome": "Nicolas",
@@ -129,12 +129,6 @@
     "ts": 1786994629124
    },
    {
-    "grupo": "F.J x COMPANHIA ZAFFARI COMERCIO E INDUSTRIA",
-    "dia": "17/08",
-    "desde": "09:41",
-    "ts": 1786970502520
-   },
-   {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "14/08",
     "desde": "11:32",
@@ -163,12 +157,6 @@
     "dia": "14/08",
     "desde": "11:32",
     "ts": 1786717926348
-   },
-   {
-    "grupo": "F.J x COMPANHIA ZAFFARI COMERCIO E INDUSTRIA",
-    "dia": "17/08",
-    "desde": "09:41",
-    "ts": 1786970502520
    },
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
@@ -318,18 +306,29 @@
  },
  "agora": {
   "fila": 147,
-  "abertos": 289,
-  "com_atendimento": 8,
-  "online": 1,
+  "abertos": 288,
+  "com_atendimento": 7,
+  "online": 3,
   "offline": 4,
-  "ausentes": 4,
+  "ausentes": 2,
   "espera_media_s": 4823
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T18:50:37.748Z",
-  "min_sem_lead": 74
+  "ultimo_lead_at": "2026-08-13T00:38:11.180Z",
+  "min_sem_lead": 6941
  },
  "leads": [
+  {
+   "nome": "flavio🤨",
+   "tel": "5521*****589",
+   "criado": "15:07",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Ana Maria  Del RIO OSORIO",
    "tel": "5595*****662",
@@ -350,17 +349,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/fljy4QK1m",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "flavio🤨",
-   "tel": "5521*****589",
-   "criado": "15:07",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4RpRFqGbv",
    "area": "Trabalhista"
   },
   {
