@@ -1,28 +1,28 @@
 {
- "gerado_em": "17/08/2026, 17:19",
+ "gerado_em": "17/08/2026, 17:34",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 88,
-  "no_sla": 86,
+  "total": 89,
+  "no_sla": 87,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
-  "mediana_geral": 2.1,
-  "leads_7d": 269,
-  "tickets_abertos": 288,
+  "mediana_geral": 2,
+  "leads_7d": 270,
+  "tickets_abertos": 291,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 86,
-   "mediana_min": 2.1
+   "leads": 87,
+   "mediana_min": 2
   }
  ],
  "origem": {
-  "Anuncio": 65,
+  "Anuncio": 66,
   "Direto/Indicacao": 23
  },
  "criativos": [
@@ -32,7 +32,7 @@
   },
   {
    "url": "fb.me/annW3H6uu",
-   "leads": 6
+   "leads": 7
   },
   {
    "url": "fb.me/7tRJWUSsI",
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 53,
+  "Trabalhista": 54,
   "Nao identificada": 34,
   "Previdenciario": 1
  },
@@ -69,16 +69,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 212,
-  "turnos": 628,
-  "respondidos": 625,
+  "turnos": 632,
+  "respondidos": 629,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 19.6,
+  "mediana_min": 18.5,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 381,
-    "mediana_min": 13.4
+    "respostas": 385,
+    "mediana_min": 12.1
    },
    {
     "nome": "Nicolas",
@@ -305,19 +305,30 @@
   ]
  },
  "agora": {
-  "fila": 147,
-  "abertos": 288,
-  "com_atendimento": 7,
-  "online": 3,
+  "fila": 148,
+  "abertos": 291,
+  "com_atendimento": 8,
+  "online": 4,
   "offline": 4,
-  "ausentes": 2,
-  "espera_media_s": 4823
+  "ausentes": 1,
+  "espera_media_s": 4784
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T00:38:11.180Z",
-  "min_sem_lead": 6941
+  "ultimo_lead_at": "2026-08-17T20:22:24.117Z",
+  "min_sem_lead": 12
  },
  "leads": [
+  {
+   "nome": "marcoaureliomarques1968",
+   "tel": "5532*****948",
+   "criado": "17:22",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
   {
    "nome": "flavio🤨",
    "tel": "5521*****589",
