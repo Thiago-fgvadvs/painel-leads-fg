@@ -1,5 +1,5 @@
 {
- "gerado_em": "17/08/2026, 13:15",
+ "gerado_em": "17/08/2026, 13:31",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -67,11 +67,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 207,
-  "turnos": 546,
+  "grupos_ativos": 208,
+  "turnos": 547,
   "respondidos": 542,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 18.5,
   "atendentes": [
    {
@@ -121,6 +121,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.V.F.D.O x INDUSTRIA E COMERCIO DE ARTEFATOS PLASTICOS VELAPLAST LTDA",
+    "dia": "17/08",
+    "desde": "13:18",
+    "ts": 1786983507789
+   },
    {
     "grupo": "B.M x FC Oliveira",
     "dia": "17/08",
@@ -174,6 +180,12 @@
     "dia": "17/08",
     "desde": "13:09",
     "ts": 1786982956933
+   },
+   {
+    "grupo": "M.V.F.D.O x INDUSTRIA E COMERCIO DE ARTEFATOS PLASTICOS VELAPLAST LTDA",
+    "dia": "17/08",
+    "desde": "13:18",
+    "ts": 1786983507789
    }
   ]
  },
@@ -316,19 +328,30 @@
   ]
  },
  "agora": {
-  "fila": 138,
+  "fila": 136,
   "abertos": 269,
   "com_atendimento": 8,
-  "online": 3,
-  "offline": 4,
+  "online": 4,
+  "offline": 3,
   "ausentes": 2,
   "espera_media_s": 5172
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T00:02:47.787Z",
-  "min_sem_lead": 6733
+  "ultimo_lead_at": "2026-08-17T16:04:27.643Z",
+  "min_sem_lead": 27
  },
  "leads": [
+  {
+   "nome": "Larissa",
+   "tel": "5511*****979",
+   "criado": "13:04",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "Vanessa Gabriela❤️",
    "tel": "5561*****904",
@@ -338,17 +361,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5511989242979",
-   "tel": "5511*****979",
-   "criado": "13:04",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Trabalhista"
   },
   {
