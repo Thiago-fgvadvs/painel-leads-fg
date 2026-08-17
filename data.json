@@ -1,5 +1,5 @@
 {
- "gerado_em": "17/08/2026, 11:44",
+ "gerado_em": "17/08/2026, 12:00",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 2.5,
   "leads_7d": 249,
-  "tickets_abertos": 274,
+  "tickets_abertos": 264,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,20 +68,20 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 202,
-  "turnos": 516,
-  "respondidos": 512,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 21.3,
+  "turnos": 520,
+  "respondidos": 515,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 22.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 278,
-    "mediana_min": 14.4
+    "respostas": 280,
+    "mediana_min": 14.5
    },
    {
     "nome": "Nicolas",
-    "respostas": 110,
+    "respostas": 111,
     "mediana_min": 77.7
    },
    {
@@ -122,10 +122,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.G.P x JBS SA",
+    "grupo": "S.A.D.O.G x MATEUS SUPERMERCADOS S.A.",
     "dia": "17/08",
-    "desde": "09:16",
-    "ts": 1786968963506
+    "desde": "11:56",
+    "ts": 1786978617858
+   },
+   {
+    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
+    "dia": "17/08",
+    "desde": "11:47",
+    "ts": 1786978057669
    },
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
@@ -170,10 +176,16 @@
     "ts": 1786826864631
    },
    {
-    "grupo": "R.G.P x JBS SA",
+    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
     "dia": "17/08",
-    "desde": "09:16",
-    "ts": 1786968963506
+    "desde": "11:47",
+    "ts": 1786978057669
+   },
+   {
+    "grupo": "S.A.D.O.G x MATEUS SUPERMERCADOS S.A.",
+    "dia": "17/08",
+    "desde": "11:56",
+    "ts": 1786978617858
    }
   ]
  },
@@ -316,21 +328,21 @@
   ]
  },
  "agora": {
-  "fila": 151,
-  "abertos": 274,
+  "fila": 135,
+  "abertos": 264,
   "com_atendimento": 8,
-  "online": 5,
+  "online": 6,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 6958
+  "ausentes": 0,
+  "espera_media_s": 7375
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-14T20:40:54.805Z",
-  "min_sem_lead": 3964
+  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
+  "min_sem_lead": 20279
  },
  "leads": [
   {
-   "nome": "5521972242019",
+   "nome": "Malu",
    "tel": "5521*****019",
    "criado": "11:28",
    "atendente": "FG Advogados - Isadora ",
@@ -346,6 +358,17 @@
    "criado": "11:30",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Lourdes Salvador",
+   "tel": "5545*****306",
+   "criado": "08:51",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 2,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7tRJWUSsI",
@@ -404,17 +427,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/annW3H6uu",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Lourdes Salvador",
-   "tel": "5545*****306",
-   "criado": "08:51",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 2,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7tRJWUSsI",
    "area": "Trabalhista"
   },
   {
