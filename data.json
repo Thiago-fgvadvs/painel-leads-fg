@@ -1,28 +1,28 @@
 {
- "gerado_em": "17/08/2026, 11:29",
+ "gerado_em": "17/08/2026, 11:44",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 67,
-  "no_sla": 65,
+  "total": 68,
+  "no_sla": 66,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 2.5,
-  "leads_7d": 248,
-  "tickets_abertos": 279,
+  "leads_7d": 249,
+  "tickets_abertos": 274,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 65,
+   "leads": 66,
    "mediana_min": 2.5
   }
  ],
  "origem": {
-  "Anuncio": 45,
+  "Anuncio": 46,
   "Direto/Indicacao": 22
  },
  "criativos": [
@@ -35,11 +35,11 @@
    "leads": 5
   },
   {
-   "url": "fb.me/annW3H6uu",
-   "leads": 3
+   "url": "fb.me/7tRJWUSsI",
+   "leads": 4
   },
   {
-   "url": "fb.me/7tRJWUSsI",
+   "url": "fb.me/annW3H6uu",
    "leads": 3
   },
   {
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 35,
+  "Trabalhista": 36,
   "Nao identificada": 32
  },
  "sem_resposta_lista": [],
@@ -68,20 +68,20 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 202,
-  "turnos": 517,
-  "respondidos": 509,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 20,
+  "turnos": 516,
+  "respondidos": 512,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 21.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 277,
+    "respostas": 278,
     "mediana_min": 14.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 108,
+    "respostas": 110,
     "mediana_min": 77.7
    },
    {
@@ -121,30 +121,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "L.T.A x POLI POSITIVO IND. COM. IMP. E EXP. LTDA EM RECUPERACAO JUDICIAL",
-    "dia": "17/08",
-    "desde": "10:55",
-    "ts": 1786974926615
-   },
-   {
-    "grupo": "J.P.S x TERRIS TECNOLOGIA LTDA",
-    "dia": "17/08",
-    "desde": "10:07",
-    "ts": 1786972071539
-   },
-   {
-    "grupo": "M.C.F.D.A.C x DE CRIANCA COMERCIO DE PRODUTOS INFANTINS LTDA",
-    "dia": "17/08",
-    "desde": "09:24",
-    "ts": 1786969487716
-   },
-   {
-    "grupo": "S.M.D.S x BRASTEX S/A",
-    "dia": "17/08",
-    "desde": "09:22",
-    "ts": 1786969371513
-   },
    {
     "grupo": "R.G.P x JBS SA",
     "dia": "17/08",
@@ -198,30 +174,6 @@
     "dia": "17/08",
     "desde": "09:16",
     "ts": 1786968963506
-   },
-   {
-    "grupo": "S.M.D.S x BRASTEX S/A",
-    "dia": "17/08",
-    "desde": "09:22",
-    "ts": 1786969371513
-   },
-   {
-    "grupo": "M.C.F.D.A.C x DE CRIANCA COMERCIO DE PRODUTOS INFANTINS LTDA",
-    "dia": "17/08",
-    "desde": "09:24",
-    "ts": 1786969487716
-   },
-   {
-    "grupo": "J.P.S x TERRIS TECNOLOGIA LTDA",
-    "dia": "17/08",
-    "desde": "10:07",
-    "ts": 1786972071539
-   },
-   {
-    "grupo": "L.T.A x POLI POSITIVO IND. COM. IMP. E EXP. LTDA EM RECUPERACAO JUDICIAL",
-    "dia": "17/08",
-    "desde": "10:55",
-    "ts": 1786974926615
    }
   ]
  },
@@ -365,16 +317,16 @@
  },
  "agora": {
   "fila": 151,
-  "abertos": 279,
+  "abertos": 274,
   "com_atendimento": 8,
-  "online": 6,
-  "offline": 2,
+  "online": 5,
+  "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 5023
+  "espera_media_s": 6958
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T14:28:44.132Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-08-14T20:40:54.805Z",
+  "min_sem_lead": 3964
  },
  "leads": [
   {
@@ -386,6 +338,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Na vida tudo  a seu tempo",
+   "tel": "5567*****021",
+   "criado": "11:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
    "area": "Trabalhista"
   },
   {
