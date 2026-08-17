@@ -1,16 +1,16 @@
 {
- "gerado_em": "17/08/2026, 18:05",
+ "gerado_em": "17/08/2026, 18:20",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 89,
-  "no_sla": 87,
+  "total": 91,
+  "no_sla": 89,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 2,
-  "leads_7d": 270,
+  "leads_7d": 272,
   "tickets_abertos": 293,
   "periodo_dias": 7
  },
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 87,
    "mediana_min": 2
+  },
+  {
+   "nome": "Julia",
+   "leads": 2,
+   "mediana_min": 1.9
   }
  ],
  "origem": {
   "Anuncio": 66,
-  "Direto/Indicacao": 23
+  "Direto/Indicacao": 25
  },
  "criativos": [
   {
@@ -61,7 +66,7 @@
  ],
  "areas": {
   "Trabalhista": 54,
-  "Nao identificada": 34,
+  "Nao identificada": 36,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -69,21 +74,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 212,
-  "turnos": 640,
-  "respondidos": 635,
+  "turnos": 644,
+  "respondidos": 639,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 18.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 390,
-    "mediana_min": 10.2
+    "respostas": 391,
+    "mediana_min": 10.8
    },
    {
     "nome": "Nicolas",
-    "respostas": 118,
-    "mediana_min": 73.2
+    "respostas": 121,
+    "mediana_min": 70.2
    },
    {
     "nome": "Thauany",
@@ -329,30 +334,19 @@
   ]
  },
  "agora": {
-  "fila": 147,
+  "fila": 149,
   "abertos": 293,
-  "com_atendimento": 8,
-  "online": 3,
-  "offline": 4,
-  "ausentes": 2,
-  "espera_media_s": 4784
+  "com_atendimento": 7,
+  "online": 1,
+  "offline": 8,
+  "ausentes": 0,
+  "espera_media_s": 4800
  },
  "captacao": {
-  "ultimo_lead_at": "2025-11-03T12:28:59.280Z",
-  "min_sem_lead": 413796
+  "ultimo_lead_at": "2026-08-07T21:03:03.004Z",
+  "min_sem_lead": 14417
  },
  "leads": [
-  {
-   "nome": "marcoaureliomarques1968",
-   "tel": "5532*****948",
-   "criado": "17:22",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/annW3H6uu",
-   "area": "Trabalhista"
-  },
   {
    "nome": "flavio🤨",
    "tel": "5521*****589",
@@ -362,6 +356,39 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Correspondente Bianka Santos",
+   "tel": "5551*****483",
+   "criado": "18:10",
+   "atendente": "Julia",
+   "espera_min": 1.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Correspondente Mohab de Paula",
+   "tel": "5588*****979",
+   "criado": "18:07",
+   "atendente": "Julia",
+   "espera_min": 2.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "marcoaureliomarques1968",
+   "tel": "5532*****948",
+   "criado": "17:22",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
    "area": "Trabalhista"
   },
   {
@@ -1300,9 +1327,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "559985246481",
-   "tel": "5599*****481",
-   "criado": "09:43",
+   "nome": "559991430805",
+   "tel": "5599*****805",
+   "criado": "10:43",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -1311,9 +1338,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "559991430805",
-   "tel": "5599*****805",
-   "criado": "10:43",
+   "nome": "559985246481",
+   "tel": "5599*****481",
+   "criado": "09:43",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
