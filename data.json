@@ -1,34 +1,34 @@
 {
- "gerado_em": "17/08/2026, 14:01",
+ "gerado_em": "17/08/2026, 14:16",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 77,
-  "no_sla": 75,
+  "total": 79,
+  "no_sla": 77,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 2.3,
-  "leads_7d": 258,
-  "tickets_abertos": 271,
+  "leads_7d": 260,
+  "tickets_abertos": 274,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 75,
+   "leads": 77,
    "mediana_min": 2.3
   }
  ],
  "origem": {
-  "Anuncio": 54,
+  "Anuncio": 56,
   "Direto/Indicacao": 23
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 9
+   "leads": 10
   },
   {
    "url": "fb.me/annW3H6uu",
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 43,
+  "Trabalhista": 45,
   "Previdenciario": 1,
   "Nao identificada": 33
  },
@@ -69,16 +69,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 208,
-  "turnos": 559,
-  "respondidos": 554,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 22.3,
+  "turnos": 569,
+  "respondidos": 567,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
+  "mediana_min": 23.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 314,
-    "mediana_min": 14.5
+    "respostas": 327,
+    "mediana_min": 15.7
    },
    {
     "nome": "Nicolas",
@@ -123,24 +123,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "C.A.G x R&D MINERACAO E CONSTRUCAO LTDA",
-    "dia": "17/08",
-    "desde": "13:43",
-    "ts": 1786984995963
-   },
-   {
-    "grupo": "M.V.F.D.O x INDUSTRIA E COMERCIO DE ARTEFATOS PLASTICOS VELAPLAST LTDA",
-    "dia": "17/08",
-    "desde": "13:18",
-    "ts": 1786983507789
-   },
-   {
-    "grupo": "B.M x FC Oliveira",
-    "dia": "17/08",
-    "desde": "13:09",
-    "ts": 1786982956933
-   },
-   {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "14/08",
     "desde": "11:32",
@@ -169,24 +151,6 @@
     "dia": "14/08",
     "desde": "11:32",
     "ts": 1786717926348
-   },
-   {
-    "grupo": "B.M x FC Oliveira",
-    "dia": "17/08",
-    "desde": "13:09",
-    "ts": 1786982956933
-   },
-   {
-    "grupo": "M.V.F.D.O x INDUSTRIA E COMERCIO DE ARTEFATOS PLASTICOS VELAPLAST LTDA",
-    "dia": "17/08",
-    "desde": "13:18",
-    "ts": 1786983507789
-   },
-   {
-    "grupo": "C.A.G x R&D MINERACAO E CONSTRUCAO LTDA",
-    "dia": "17/08",
-    "desde": "13:43",
-    "ts": 1786984995963
    }
   ]
  },
@@ -329,28 +293,39 @@
   ]
  },
  "agora": {
-  "fila": 139,
-  "abertos": 271,
+  "fila": 140,
+  "abertos": 274,
   "com_atendimento": 8,
   "online": 3,
   "offline": 3,
   "ausentes": 3,
-  "espera_media_s": 5104
+  "espera_media_s": 5038
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T20:33:28.014Z",
-  "min_sem_lead": 25708
+  "ultimo_lead_at": "2026-08-17T14:28:44.132Z",
+  "min_sem_lead": 168
  },
  "leads": [
   {
-   "nome": "Cristina 🌹🌺🌷💐🌻🌼🪷",
-   "tel": "5518*****973",
-   "criado": "13:48",
+   "nome": "Malu",
+   "tel": "5521*****019",
+   "criado": "11:28",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/annW3H6uu",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5519993349306",
+   "tel": "5519*****306",
+   "criado": "14:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.9,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/kTYejxYr9",
    "area": "Trabalhista"
   },
   {
@@ -363,6 +338,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "Sabrina Paixão",
+   "tel": "5565*****949",
+   "criado": "14:05",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Cristina 🌹🌺🌷💐🌻🌼🪷",
+   "tel": "5518*****973",
+   "criado": "13:48",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
   },
   {
    "nome": "Larissa",
@@ -439,17 +436,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/annW3H6uu",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Malu",
-   "tel": "5521*****019",
-   "criado": "11:28",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
   },
   {
@@ -1168,9 +1154,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "559985246481",
-   "tel": "5599*****481",
-   "criado": "09:43",
+   "nome": "559991430805",
+   "tel": "5599*****805",
+   "criado": "10:43",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -1179,9 +1165,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "559991430805",
-   "tel": "5599*****805",
-   "criado": "10:43",
+   "nome": "559985246481",
+   "tel": "5599*****481",
+   "criado": "09:43",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
