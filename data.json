@@ -1,28 +1,28 @@
 {
- "gerado_em": "17/08/2026, 14:16",
+ "gerado_em": "17/08/2026, 14:32",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 79,
-  "no_sla": 77,
+  "total": 80,
+  "no_sla": 78,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 2.3,
-  "leads_7d": 260,
+  "leads_7d": 261,
   "tickets_abertos": 274,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 77,
+   "leads": 78,
    "mediana_min": 2.3
   }
  ],
  "origem": {
-  "Anuncio": 56,
+  "Anuncio": 57,
   "Direto/Indicacao": 23
  },
  "criativos": [
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 45,
+  "Trabalhista": 46,
   "Previdenciario": 1,
   "Nao identificada": 33
  },
@@ -69,16 +69,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 208,
-  "turnos": 569,
-  "respondidos": 567,
+  "turnos": 581,
+  "respondidos": 579,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
   "mediana_min": 23.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 327,
-    "mediana_min": 15.7
+    "respostas": 339,
+    "mediana_min": 16.7
    },
    {
     "nome": "Nicolas",
@@ -293,19 +293,30 @@
   ]
  },
  "agora": {
-  "fila": 140,
+  "fila": 141,
   "abertos": 274,
   "com_atendimento": 8,
   "online": 3,
-  "offline": 3,
-  "ausentes": 3,
+  "offline": 4,
+  "ausentes": 2,
   "espera_media_s": 5038
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T14:28:44.132Z",
-  "min_sem_lead": 168
+  "ultimo_lead_at": "2026-08-17T17:31:08.592Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "5521990429463",
+   "tel": "5521*****463",
+   "criado": "14:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/a0An5DqFR",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Malu",
    "tel": "5521*****019",
