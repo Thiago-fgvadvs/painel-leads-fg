@@ -1,5 +1,5 @@
 {
- "gerado_em": "17/08/2026, 15:17",
+ "gerado_em": "17/08/2026, 15:32",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -69,16 +69,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 211,
-  "turnos": 600,
-  "respondidos": 598,
+  "turnos": 604,
+  "respondidos": 602,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 22.3,
+  "mediana_min": 21.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 358,
-    "mediana_min": 15
+    "respostas": 362,
+    "mediana_min": 14.7
    },
    {
     "nome": "Nicolas",
@@ -293,19 +293,30 @@
   ]
  },
  "agora": {
-  "fila": 146,
+  "fila": 142,
   "abertos": 282,
   "com_atendimento": 8,
-  "online": 6,
+  "online": 4,
   "offline": 3,
-  "ausentes": 0,
+  "ausentes": 2,
   "espera_media_s": 4952
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-07T21:03:03.004Z",
-  "min_sem_lead": 14235
+  "ultimo_lead_at": "2026-08-17T18:07:39.769Z",
+  "min_sem_lead": 25
  },
  "leads": [
+  {
+   "nome": "flavio🤨",
+   "tel": "5521*****589",
+   "criado": "15:07",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Paula Ferrari",
    "tel": "5511*****383",
@@ -318,14 +329,14 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "flavio🤨",
-   "tel": "5521*****589",
-   "criado": "15:07",
+   "nome": "Larissa",
+   "tel": "5511*****979",
+   "criado": "13:04",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
+   "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4RpRFqGbv",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -414,17 +425,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/annW3H6uu",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Larissa",
-   "tel": "5511*****979",
-   "criado": "13:04",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Trabalhista"
   },
   {
