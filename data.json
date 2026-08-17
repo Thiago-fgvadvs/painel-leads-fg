@@ -1,5 +1,5 @@
 {
- "gerado_em": "17/08/2026, 16:33",
+ "gerado_em": "17/08/2026, 16:49",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -69,16 +69,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 211,
-  "turnos": 613,
-  "respondidos": 610,
+  "turnos": 618,
+  "respondidos": 615,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 21.3,
+  "mediana_min": 20,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 366,
-    "mediana_min": 14.7
+    "respostas": 371,
+    "mediana_min": 14.4
    },
    {
     "nome": "Nicolas",
@@ -305,30 +305,19 @@
   ]
  },
  "agora": {
-  "fila": 147,
+  "fila": 146,
   "abertos": 286,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 5,
   "offline": 3,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 4843
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-16T18:47:29.940Z",
-  "min_sem_lead": 46126
+  "ultimo_lead_at": "2026-07-28T11:35:40.904Z",
+  "min_sem_lead": 29293
  },
  "leads": [
-  {
-   "nome": "5512992227068",
-   "tel": "5512*****068",
-   "criado": "16:29",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7tRJWUSsI",
-   "area": "Trabalhista"
-  },
   {
    "nome": "flavio🤨",
    "tel": "5521*****589",
@@ -338,6 +327,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Carlos Paiva",
+   "tel": "5512*****068",
+   "criado": "16:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
    "area": "Trabalhista"
   },
   {
