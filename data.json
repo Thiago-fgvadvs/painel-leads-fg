@@ -1,5 +1,5 @@
 {
- "gerado_em": "17/08/2026, 17:49",
+ "gerado_em": "17/08/2026, 18:05",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 2,
   "leads_7d": 270,
-  "tickets_abertos": 292,
+  "tickets_abertos": 293,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -69,21 +69,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 212,
-  "turnos": 636,
-  "respondidos": 633,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 18.4,
+  "turnos": 640,
+  "respondidos": 635,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 18.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 389,
-    "mediana_min": 10.8
+    "respostas": 390,
+    "mediana_min": 10.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 117,
-    "mediana_min": 76.2
+    "respostas": 118,
+    "mediana_min": 73.2
    },
    {
     "nome": "Thauany",
@@ -122,6 +122,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
+    "dia": "17/08",
+    "desde": "18:00",
+    "ts": 1787000433243
+   },
+   {
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
+    "dia": "17/08",
+    "desde": "17:50",
+    "ts": 1786999828225
+   },
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "17/08",
@@ -163,6 +175,18 @@
     "dia": "17/08",
     "desde": "16:23",
     "ts": 1786994629124
+   },
+   {
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
+    "dia": "17/08",
+    "desde": "17:50",
+    "ts": 1786999828225
+   },
+   {
+    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
+    "dia": "17/08",
+    "desde": "18:00",
+    "ts": 1787000433243
    }
   ]
  },
@@ -306,16 +330,16 @@
  },
  "agora": {
   "fila": 147,
-  "abertos": 292,
+  "abertos": 293,
   "com_atendimento": 8,
-  "online": 4,
+  "online": 3,
   "offline": 4,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 4784
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T15:52:39.121Z",
-  "min_sem_lead": 26217
+  "ultimo_lead_at": "2025-11-03T12:28:59.280Z",
+  "min_sem_lead": 413796
  },
  "leads": [
   {
