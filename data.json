@@ -1,23 +1,23 @@
 {
- "gerado_em": "17/08/2026, 19:21",
+ "gerado_em": "17/08/2026, 19:36",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 93,
+  "total": 96,
   "no_sla": 91,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 0,
+  "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 2,
-  "leads_7d": 274,
-  "tickets_abertos": 299,
+  "leads_7d": 277,
+  "tickets_abertos": 302,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 89,
+   "leads": 92,
    "mediana_min": 2
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 68,
+  "Anuncio": 71,
   "Direto/Indicacao": 25
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 12
+   "leads": 13
   },
   {
    "url": "fb.me/annW3H6uu",
@@ -41,7 +41,7 @@
   },
   {
    "url": "fb.me/7tRJWUSsI",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
@@ -65,25 +65,25 @@
   }
  ],
  "areas": {
-  "Trabalhista": 56,
-  "Nao identificada": 36,
-  "Previdenciario": 1
+  "Trabalhista": 59,
+  "Previdenciario": 1,
+  "Nao identificada": 36
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 215,
-  "turnos": 672,
-  "respondidos": 667,
+  "turnos": 674,
+  "respondidos": 669,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 17.2,
+  "mediana_min": 16.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 417,
-    "mediana_min": 7.5
+    "respostas": 419,
+    "mediana_min": 7.3
    },
    {
     "nome": "Nicolas",
@@ -128,10 +128,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
+    "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
     "dia": "17/08",
-    "desde": "19:20",
-    "ts": 1787005212224
+    "desde": "19:23",
+    "ts": 1787005423230
    },
    {
     "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
@@ -188,23 +188,32 @@
     "ts": 1787005203152
    },
    {
-    "grupo": "N.M.D.S.L x CAVA- COMERCIAL ATACADISTA E VAREJISTA DE ALIMENTOS LTDA",
+    "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
     "dia": "17/08",
-    "desde": "19:20",
-    "ts": 1787005212224
+    "desde": "19:23",
+    "ts": 1787005423230
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 14,
+  "total": 16,
   "por_vendedor": {
+   "Roseli": 8,
    "Eduardo": 4,
    "Tiago Bernardo": 3,
-   "Nicolas": 1,
-   "Roseli": 6
+   "Nicolas": 1
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "K.A",
+    "dia": "17/08",
+    "hora": "19:22",
+    "ts": 1787005320211,
+    "origem": "Anúncio: Trabalhista – Fast Foods",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Eduardo",
     "cliente": "E",
@@ -231,6 +240,15 @@
     "ts": 1786738832868,
     "origem": "Direto/Indicação",
     "de_anuncio": false
+   },
+   {
+    "vendedor": "Roseli",
+    "cliente": "R.C",
+    "dia": "14/08",
+    "hora": "11:39",
+    "ts": 1786718390906,
+    "origem": "Anúncio: Trabalhista - insalubridade",
+    "de_anuncio": true
    },
    {
     "vendedor": "Roseli",
@@ -334,19 +352,63 @@
   ]
  },
  "agora": {
-  "fila": 152,
-  "abertos": 299,
+  "fila": 155,
+  "abertos": 302,
   "com_atendimento": 7,
-  "online": 1,
-  "offline": 8,
+  "online": 0,
+  "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 4741
+  "espera_media_s": 4685
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-07T21:03:03.004Z",
-  "min_sem_lead": 14478
+  "ultimo_lead_at": "2026-08-17T22:21:19.036Z",
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "5518997558914",
+   "tel": "5518*****914",
+   "criado": "19:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8iw0NhmiF",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rafaela",
+   "tel": "5511*****824",
+   "criado": "19:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "PAULO SANTOS BASTDOS",
+   "tel": "5577*****705",
+   "criado": "19:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Vanessa Gabriela❤️",
+   "tel": "5561*****904",
+   "criado": "12:53",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Previdenciario"
+  },
   {
    "nome": "555183546491",
    "tel": "5551*****491",
@@ -566,17 +628,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/kTYejxYr9",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Vanessa Gabriela❤️",
-   "tel": "5561*****904",
-   "criado": "12:53",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Previdenciario"
   },
   {
    "nome": "Sabrina Paixão",
