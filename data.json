@@ -1,17 +1,17 @@
 {
- "gerado_em": "17/08/2026, 10:28",
+ "gerado_em": "17/08/2026, 10:44",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 63,
+  "total": 64,
   "no_sla": 62,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 2.6,
-  "leads_7d": 244,
-  "tickets_abertos": 315,
+  "leads_7d": 245,
+  "tickets_abertos": 313,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 42,
-  "Direto/Indicacao": 21
+  "Direto/Indicacao": 22
  },
  "criativos": [
   {
@@ -61,23 +61,23 @@
  ],
  "areas": {
   "Trabalhista": 34,
-  "Nao identificada": 29
+  "Nao identificada": 30
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 197,
-  "turnos": 490,
-  "respondidos": 484,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "turnos": 493,
+  "respondidos": 486,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 22.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 263,
-    "mediana_min": 14.9
+    "respostas": 264,
+    "mediana_min": 14.7
    },
    {
     "nome": "Nicolas",
@@ -91,8 +91,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 30,
-    "mediana_min": 2695.1
+    "respostas": 31,
+    "mediana_min": 2669
    },
    {
     "nome": "Roseli",
@@ -121,6 +121,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "C.G.D.S x ALMADA GASTRONOMIA LTDA",
+    "dia": "17/08",
+    "desde": "10:34",
+    "ts": 1786973677590
+   },
    {
     "grupo": "J.P.S x TERRIS TECNOLOGIA LTDA",
     "dia": "17/08",
@@ -198,6 +204,12 @@
     "dia": "17/08",
     "desde": "10:07",
     "ts": 1786972071539
+   },
+   {
+    "grupo": "C.G.D.S x ALMADA GASTRONOMIA LTDA",
+    "dia": "17/08",
+    "desde": "10:34",
+    "ts": 1786973677590
    }
   ]
  },
@@ -340,17 +352,17 @@
   ]
  },
  "agora": {
-  "fila": 197,
-  "abertos": 315,
+  "fila": 191,
+  "abertos": 313,
   "com_atendimento": 8,
-  "online": 7,
+  "online": 3,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 4357
+  "ausentes": 4,
+  "espera_media_s": 5320
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T11:51:50.835Z",
-  "min_sem_lead": 97
+  "ultimo_lead_at": "2026-08-10T19:41:41.889Z",
+  "min_sem_lead": 9722
  },
  "leads": [
   {
@@ -1039,6 +1051,17 @@
    "nome": "559985246481",
    "tel": "5599*****481",
    "criado": "09:43",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "559991430805",
+   "tel": "5599*****805",
+   "criado": "10:43",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
