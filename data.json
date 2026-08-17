@@ -1,28 +1,28 @@
 {
- "gerado_em": "17/08/2026, 13:31",
+ "gerado_em": "17/08/2026, 13:46",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 75,
-  "no_sla": 73,
+  "total": 76,
+  "no_sla": 74,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 2.3,
-  "leads_7d": 256,
+  "leads_7d": 257,
   "tickets_abertos": 269,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 73,
+   "leads": 74,
    "mediana_min": 2.3
   }
  ],
  "origem": {
-  "Anuncio": 52,
+  "Anuncio": 53,
   "Direto/Indicacao": 23
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 4
   },
   {
+   "url": "fb.me/87jYMAhSB",
+   "leads": 2
+  },
+  {
    "url": "fb.me/7a58KGmA0",
    "leads": 2
   },
@@ -53,36 +57,33 @@
   {
    "url": "fb.me/kdSBBh9FE",
    "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DbwOTH9sH8t/",
-   "leads": 2
   }
  ],
  "areas": {
-  "Trabalhista": 43,
-  "Nao identificada": 32
+  "Previdenciario": 1,
+  "Trabalhista": 42,
+  "Nao identificada": 33
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 208,
-  "turnos": 547,
-  "respondidos": 542,
+  "turnos": 549,
+  "respondidos": 544,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 18.5,
+  "mediana_min": 18.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 303,
-    "mediana_min": 12.1
+    "respostas": 304,
+    "mediana_min": 12.6
    },
    {
     "nome": "Nicolas",
-    "respostas": 115,
-    "mediana_min": 76.6
+    "respostas": 116,
+    "mediana_min": 76.4
    },
    {
     "nome": "Thauany",
@@ -122,6 +123,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "C.A.G x R&D MINERACAO E CONSTRUCAO LTDA",
+    "dia": "17/08",
+    "desde": "13:43",
+    "ts": 1786984995963
+   },
+   {
     "grupo": "M.V.F.D.O x INDUSTRIA E COMERCIO DE ARTEFATOS PLASTICOS VELAPLAST LTDA",
     "dia": "17/08",
     "desde": "13:18",
@@ -132,12 +139,6 @@
     "dia": "17/08",
     "desde": "13:09",
     "ts": 1786982956933
-   },
-   {
-    "grupo": "G.D.F.F x R G DE ASSIS LTDA",
-    "dia": "17/08",
-    "desde": "12:40",
-    "ts": 1786981231894
    },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
@@ -170,12 +171,6 @@
     "ts": 1786717926348
    },
    {
-    "grupo": "G.D.F.F x R G DE ASSIS LTDA",
-    "dia": "17/08",
-    "desde": "12:40",
-    "ts": 1786981231894
-   },
-   {
     "grupo": "B.M x FC Oliveira",
     "dia": "17/08",
     "desde": "13:09",
@@ -186,6 +181,12 @@
     "dia": "17/08",
     "desde": "13:18",
     "ts": 1786983507789
+   },
+   {
+    "grupo": "C.A.G x R&D MINERACAO E CONSTRUCAO LTDA",
+    "dia": "17/08",
+    "desde": "13:43",
+    "ts": 1786984995963
    }
   ]
  },
@@ -328,19 +329,30 @@
   ]
  },
  "agora": {
-  "fila": 136,
+  "fila": 137,
   "abertos": 269,
   "com_atendimento": 8,
   "online": 4,
   "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 5172
+  "espera_media_s": 5149
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T16:04:27.643Z",
-  "min_sem_lead": 27
+  "ultimo_lead_at": "2026-08-17T15:53:43.885Z",
+  "min_sem_lead": 53
  },
  "leads": [
+  {
+   "nome": "Vanessa Gabriela❤️",
+   "tel": "5561*****904",
+   "criado": "12:53",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Previdenciario"
+  },
   {
    "nome": "Larissa",
    "tel": "5511*****979",
@@ -353,15 +365,15 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Vanessa Gabriela❤️",
-   "tel": "5561*****904",
-   "criado": "12:53",
+   "nome": "Rita Finote",
+   "tel": "5527*****460",
+   "criado": "13:39",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
+   "criativo": "fb.me/87jYMAhSB",
+   "area": "Nao identificada"
   },
   {
    "nome": "554899434151",
