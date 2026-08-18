@@ -1,28 +1,28 @@
 {
- "gerado_em": "18/08/2026, 12:28",
+ "gerado_em": "18/08/2026, 12:43",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 28,
-  "no_sla": 15,
+  "total": 29,
+  "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 13,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 269,
-  "tickets_abertos": 345,
+  "leads_7d": 270,
+  "tickets_abertos": 347,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 28,
+   "leads": 29,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 27,
+  "Anuncio": 28,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -33,6 +33,10 @@
   {
    "url": "fb.me/87jYMAhSB",
    "leads": 3
+  },
+  {
+   "url": "fb.me/4RpRFqGbv",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/Db0c3qfMTXm/",
@@ -47,36 +51,33 @@
    "leads": 2
   },
   {
-   "url": "fb.me/kdSBBh9FE",
+   "url": "fb.me/fljy4QK1m",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DbyoAdIsARN/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4RpRFqGbv",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 6,
-  "Trabalhista": 22
+  "Previdenciario": 1,
+  "Trabalhista": 22,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 198,
-  "turnos": 639,
-  "respondidos": 633,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 7.3,
+  "grupos_ativos": 199,
+  "turnos": 643,
+  "respondidos": 636,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 7.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 431,
+    "respostas": 434,
     "mediana_min": 3.4
    },
    {
@@ -126,6 +127,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
+    "dia": "18/08",
+    "desde": "12:36",
+    "ts": 1787067360294
+   },
    {
     "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "18/08",
@@ -203,6 +210,12 @@
     "dia": "18/08",
     "desde": "12:25",
     "ts": 1787066724627
+   },
+   {
+    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
+    "dia": "18/08",
+    "desde": "12:36",
+    "ts": 1787067360294
    }
   ]
  },
@@ -327,29 +340,40 @@
   ]
  },
  "agora": {
-  "fila": 192,
-  "abertos": 345,
-  "com_atendimento": 8,
-  "online": 6,
+  "fila": 194,
+  "abertos": 347,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 4226
+  "ausentes": 2,
+  "espera_media_s": 4211
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-18T15:25:37.918Z",
-  "min_sem_lead": 3
+  "ultimo_lead_at": "2026-08-18T15:30:28.528Z",
+  "min_sem_lead": 13
  },
  "leads": [
   {
-   "nome": "Jô",
-   "tel": "5522*****472",
-   "criado": "12:25",
+   "nome": "marcio123costa1",
+   "tel": "5513*****635",
+   "criado": "12:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4RpRFqGbv",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Daniel Vaqueirinho",
+   "tel": "5582*****228",
+   "criado": "11:16",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/kdSBBh9FE",
-   "area": "Nao identificada"
+   "criativo": "fb.me/fljy4QK1m",
+   "area": "Trabalhista"
   },
   {
    "nome": "Júlia",
@@ -361,6 +385,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbyoAdIsARN/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Jô",
+   "tel": "5522*****472",
+   "criado": "12:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/kdSBBh9FE",
+   "area": "Nao identificada"
   },
   {
    "nome": "Alex",
@@ -404,17 +439,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/9ikHrVLv1",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Daniel Vaqueirinho",
-   "tel": "5582*****228",
-   "criado": "11:16",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/fljy4QK1m",
    "area": "Trabalhista"
   },
   {
