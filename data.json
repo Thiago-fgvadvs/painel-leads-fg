@@ -1,34 +1,38 @@
 {
- "gerado_em": "18/08/2026, 07:39",
+ "gerado_em": "18/08/2026, 07:54",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
+  "total": 12,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 11,
+  "fora_horario": 12,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 252,
-  "tickets_abertos": 329,
+  "leads_7d": 253,
+  "tickets_abertos": 330,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
+   "leads": 12,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 11,
+  "Anuncio": 12,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "fb.me/9ikHrVLv1",
    "leads": 2
+  },
+  {
+   "url": "fb.me/7tRJWUSsI",
+   "leads": 1
   },
   {
    "url": "fb.me/7a58KGmA0",
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/annW3H6uu",
    "leads": 1
-  },
-  {
-   "url": "fb.me/kTYejxYr9",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 8,
+  "Trabalhista": 9,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
@@ -310,19 +310,30 @@
   ]
  },
  "agora": {
-  "fila": 182,
-  "abertos": 329,
+  "fila": 183,
+  "abertos": 330,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 4245
+  "espera_media_s": 4229
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T13:53:25.668Z",
-  "min_sem_lead": 31486
+  "ultimo_lead_at": "2026-08-18T10:47:07.835Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "Eeemar",
+   "tel": "5549*****133",
+   "criado": "07:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
   {
    "nome": "553498382664",
    "tel": "5534*****664",
