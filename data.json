@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/08/2026, 13:13",
+ "gerado_em": "18/08/2026, 13:29",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -69,15 +69,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 199,
-  "turnos": 646,
-  "respondidos": 640,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 7.3,
+  "turnos": 651,
+  "respondidos": 646,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 7.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 438,
+    "respostas": 444,
     "mediana_min": 3.4
    },
    {
@@ -134,12 +134,6 @@
     "ts": 1787067360294
    },
    {
-    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
-    "dia": "18/08",
-    "desde": "12:25",
-    "ts": 1787066724627
-   },
-   {
     "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
     "dia": "17/08",
     "desde": "19:20",
@@ -192,12 +186,6 @@
     "dia": "17/08",
     "desde": "19:23",
     "ts": 1787005423230
-   },
-   {
-    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
-    "dia": "18/08",
-    "desde": "12:25",
-    "ts": 1787066724627
    },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
@@ -337,32 +325,10 @@
   "espera_media_s": 4072
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-18T14:36:22.107Z",
-  "min_sem_lead": 98
+  "ultimo_lead_at": "2026-08-18T16:05:46.030Z",
+  "min_sem_lead": 23
  },
  "leads": [
-  {
-   "nome": "Júlia",
-   "tel": "5511*****214",
-   "criado": "11:36",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbyoAdIsARN/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Alex",
-   "tel": "5511*****155",
-   "criado": "11:58",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.8,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4RpRFqGbv",
-   "area": "Trabalhista"
-  },
   {
    "nome": "5511980689570",
    "tel": "5511*****570",
@@ -384,6 +350,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4RpRFqGbv",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "Júlia",
+   "tel": "5511*****214",
+   "criado": "11:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyoAdIsARN/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Alex",
+   "tel": "5511*****155",
+   "criado": "11:58",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
   },
   {
    "nome": "Daniel Vaqueirinho",
