@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/08/2026, 09:10",
+ "gerado_em": "18/08/2026, 09:25",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 257,
-  "tickets_abertos": 336,
+  "tickets_abertos": 337,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 11,
-  "Nao identificada": 5
+  "Nao identificada": 5,
+  "Trabalhista": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -311,29 +311,18 @@
  },
  "agora": {
   "fila": 188,
-  "abertos": 336,
-  "com_atendimento": 7,
-  "online": 1,
-  "offline": 7,
+  "abertos": 337,
+  "com_atendimento": 8,
+  "online": 4,
+  "offline": 4,
   "ausentes": 1,
   "espera_media_s": 4140
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T23:10:25.284Z",
-  "min_sem_lead": 780
+  "ultimo_lead_at": "2026-08-18T11:56:57.233Z",
+  "min_sem_lead": 29
  },
  "leads": [
-  {
-   "nome": "Josenilson Lombard",
-   "tel": "5598*****267",
-   "criado": "08:51",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Db0c3qfMTXm/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Francisco",
    "tel": "5581*****626",
@@ -344,6 +333,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Josenilson Lombard",
+   "tel": "5598*****267",
+   "criado": "08:51",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db0c3qfMTXm/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Eeemar",
