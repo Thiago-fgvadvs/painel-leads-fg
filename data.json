@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/08/2026, 13:59",
+ "gerado_em": "18/08/2026, 14:14",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 276,
-  "tickets_abertos": 361,
+  "tickets_abertos": 360,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,17 +68,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 200,
-  "turnos": 668,
-  "respondidos": 663,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 6.4,
+  "grupos_ativos": 201,
+  "turnos": 675,
+  "respondidos": 668,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 6.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 454,
-    "mediana_min": 3.3
+    "respostas": 455,
+    "mediana_min": 3.2
    },
    {
     "nome": "Nicolas",
@@ -96,14 +96,14 @@
     "mediana_min": 6.5
    },
    {
+    "nome": "Luisa",
+    "respostas": 22,
+    "mediana_min": 1.1
+   },
+   {
     "nome": "FG Advogados - Isadora ",
     "respostas": 22,
     "mediana_min": 2291.6
-   },
-   {
-    "nome": "Luisa",
-    "respostas": 18,
-    "mediana_min": 1
    },
    {
     "nome": "Thauany",
@@ -127,6 +127,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.V.D.A x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
+    "dia": "18/08",
+    "desde": "14:14",
+    "ts": 1787073278474
+   },
+   {
+    "grupo": "R.M.G x CTS PORTARIA E SERVICOS LTDA",
+    "dia": "18/08",
+    "desde": "13:36",
+    "ts": 1787070995698
+   },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "18/08",
@@ -192,6 +204,18 @@
     "dia": "18/08",
     "desde": "12:36",
     "ts": 1787067360294
+   },
+   {
+    "grupo": "R.M.G x CTS PORTARIA E SERVICOS LTDA",
+    "dia": "18/08",
+    "desde": "13:36",
+    "ts": 1787070995698
+   },
+   {
+    "grupo": "E.V.D.A x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
+    "dia": "18/08",
+    "desde": "14:14",
+    "ts": 1787073278474
    }
   ]
  },
@@ -317,16 +341,16 @@
  },
  "agora": {
   "fila": 203,
-  "abertos": 361,
-  "com_atendimento": 8,
-  "online": 4,
-  "offline": 3,
-  "ausentes": 1,
+  "abertos": 360,
+  "com_atendimento": 7,
+  "online": 5,
+  "offline": 1,
+  "ausentes": 2,
   "espera_media_s": 4072
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-18T16:58:22.781Z",
-  "min_sem_lead": 1
+  "min_sem_lead": 16
  },
  "leads": [
   {
