@@ -1,16 +1,16 @@
 {
- "gerado_em": "18/08/2026, 20:06",
+ "gerado_em": "18/08/2026, 20:21",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 50,
+  "total": 51,
   "no_sla": 36,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 14,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 291,
+  "leads_7d": 292,
   "tickets_abertos": 370,
   "periodo_dias": 7
  },
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 47,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -62,23 +62,23 @@
  "areas": {
   "Trabalhista": 40,
   "Previdenciario": 2,
-  "Nao identificada": 8
+  "Nao identificada": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 219,
-  "turnos": 760,
-  "respondidos": 753,
+  "turnos": 765,
+  "respondidos": 758,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 5.3,
+  "mediana_min": 5.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 508,
-    "mediana_min": 3.1
+    "respostas": 513,
+    "mediana_min": 3
    },
    {
     "nome": "Nicolas",
@@ -341,7 +341,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-18T14:16:59.076Z",
-  "min_sem_lead": 529
+  "min_sem_lead": 545
  },
  "leads": [
   {
@@ -892,6 +892,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/87jYMAhSB",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "558173319497",
+   "tel": "5581*****497",
+   "criado": "20:17",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
