@@ -1,41 +1,41 @@
 {
- "gerado_em": "18/08/2026, 15:47",
+ "gerado_em": "18/08/2026, 16:02",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 38,
-  "no_sla": 25,
+  "total": 39,
+  "no_sla": 26,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 13,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 279,
-  "tickets_abertos": 363,
+  "leads_7d": 280,
+  "tickets_abertos": 361,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 38,
+   "leads": 39,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 35,
+  "Anuncio": 36,
   "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/Db3h-Ghspuz/",
+   "leads": 4
+  },
   {
    "url": "fb.me/4RpRFqGbv",
    "leads": 3
   },
   {
    "url": "fb.me/annW3H6uu",
-   "leads": 3
-  },
-  {
-   "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 3
   },
   {
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
+  "Previdenciario": 2,
   "Trabalhista": 29,
-  "Previdenciario": 1,
   "Nao identificada": 8
  },
  "sem_resposta_lista": [],
@@ -69,21 +69,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 205,
-  "turnos": 701,
-  "respondidos": 695,
+  "turnos": 705,
+  "respondidos": 699,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 5.3,
+  "mediana_min": 5.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 469,
+    "respostas": 472,
     "mediana_min": 3.1
    },
    {
     "nome": "Nicolas",
-    "respostas": 96,
-    "mediana_min": 76.4
+    "respostas": 97,
+    "mediana_min": 76.2
    },
    {
     "nome": "Luisa",
@@ -128,10 +128,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "J.R.A.D.O x DORGIA CONSTRUCOES LTDA",
+    "grupo": "I.F.M x INSS",
     "dia": "18/08",
-    "desde": "14:50",
-    "ts": 1787075428761
+    "desde": "15:50",
+    "ts": 1787079053651
    },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
@@ -200,10 +200,10 @@
     "ts": 1787067360294
    },
    {
-    "grupo": "J.R.A.D.O x DORGIA CONSTRUCOES LTDA",
+    "grupo": "I.F.M x INSS",
     "dia": "18/08",
-    "desde": "14:50",
-    "ts": 1787075428761
+    "desde": "15:50",
+    "ts": 1787079053651
    }
   ]
  },
@@ -328,8 +328,8 @@
   ]
  },
  "agora": {
-  "fila": 205,
-  "abertos": 363,
+  "fila": 206,
+  "abertos": 361,
   "com_atendimento": 6,
   "online": 3,
   "offline": 2,
@@ -337,10 +337,21 @@
   "espera_media_s": 4039
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T20:22:24.117Z",
-  "min_sem_lead": 1345
+  "ultimo_lead_at": "2026-08-10T00:58:14.792Z",
+  "min_sem_lead": 12604
  },
  "leads": [
+  {
+   "nome": "Gilberto Bonfim Giba",
+   "tel": "5511*****523",
+   "criado": "15:57",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
+   "area": "Previdenciario"
+  },
   {
    "nome": "Lucimara 777",
    "tel": "5511*****342",
