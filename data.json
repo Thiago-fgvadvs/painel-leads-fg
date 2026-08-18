@@ -1,28 +1,28 @@
 {
- "gerado_em": "18/08/2026, 12:13",
+ "gerado_em": "18/08/2026, 12:28",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
-  "no_sla": 14,
+  "total": 28,
+  "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 13,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 268,
+  "leads_7d": 269,
   "tickets_abertos": 345,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 27,
+   "leads": 28,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 26,
+  "Anuncio": 27,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -47,7 +47,7 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4RpRFqGbv",
+   "url": "fb.me/kdSBBh9FE",
    "leads": 1
   },
   {
@@ -55,44 +55,44 @@
    "leads": 1
   },
   {
-   "url": "fb.me/fljy4QK1m",
+   "url": "fb.me/4RpRFqGbv",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 22,
-  "Nao identificada": 5
+  "Nao identificada": 6,
+  "Trabalhista": 22
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 198,
-  "turnos": 629,
-  "respondidos": 625,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
+  "turnos": 639,
+  "respondidos": 633,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 7.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 429,
-    "mediana_min": 3.5
+    "respostas": 431,
+    "mediana_min": 3.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 91,
-    "mediana_min": 77.7
+    "respostas": 94,
+    "mediana_min": 77.2
+   },
+   {
+    "nome": "Gabrielle",
+    "respostas": 25,
+    "mediana_min": 4.8
    },
    {
     "nome": "Roseli",
     "respostas": 25,
     "mediana_min": 6.5
-   },
-   {
-    "nome": "Gabrielle",
-    "respostas": 23,
-    "mediana_min": 6.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -106,8 +106,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 11,
-    "mediana_min": 0.9
+    "respostas": 12,
+    "mediana_min": 1
    },
    {
     "nome": "Tiago Bernardo",
@@ -126,6 +126,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
+    "dia": "18/08",
+    "desde": "12:25",
+    "ts": 1787066724627
+   },
+   {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "18/08",
+    "desde": "12:16",
+    "ts": 1787066205522
+   },
    {
     "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
     "dia": "17/08",
@@ -179,6 +191,18 @@
     "dia": "17/08",
     "desde": "19:23",
     "ts": 1787005423230
+   },
+   {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "18/08",
+    "desde": "12:16",
+    "ts": 1787066205522
+   },
+   {
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
+    "dia": "18/08",
+    "desde": "12:25",
+    "ts": 1787066724627
    }
   ]
  },
@@ -303,19 +327,41 @@
   ]
  },
  "agora": {
-  "fila": 191,
+  "fila": 192,
   "abertos": 345,
-  "com_atendimento": 7,
+  "com_atendimento": 8,
   "online": 6,
-  "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 4211
+  "offline": 2,
+  "ausentes": 1,
+  "espera_media_s": 4226
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T21:37:48.547Z",
-  "min_sem_lead": 6815
+  "ultimo_lead_at": "2026-08-18T15:25:37.918Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "Jô",
+   "tel": "5522*****472",
+   "criado": "12:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/kdSBBh9FE",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Júlia",
+   "tel": "5511*****214",
+   "criado": "11:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyoAdIsARN/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Alex",
    "tel": "5511*****155",
@@ -347,17 +393,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db0c3qfMTXm/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Júlia",
-   "tel": "5511*****214",
-   "criado": "11:36",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DbyoAdIsARN/",
    "area": "Trabalhista"
   },
   {
