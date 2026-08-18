@@ -1,41 +1,41 @@
 {
- "gerado_em": "18/08/2026, 20:21",
+ "gerado_em": "18/08/2026, 20:36",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 51,
+  "total": 52,
   "no_sla": 36,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 14,
+  "fora_horario": 15,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 292,
-  "tickets_abertos": 370,
+  "leads_7d": 293,
+  "tickets_abertos": 371,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 50,
+   "leads": 51,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 47,
+  "Anuncio": 48,
   "Direto/Indicacao": 4
  },
  "criativos": [
+  {
+   "url": "fb.me/7tRJWUSsI",
+   "leads": 4
+  },
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 4
   },
   {
    "url": "fb.me/7a58KGmA0",
-   "leads": 3
-  },
-  {
-   "url": "fb.me/7tRJWUSsI",
    "leads": 3
   },
   {
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 40,
+  "Trabalhista": 41,
   "Previdenciario": 2,
   "Nao identificada": 9
  },
@@ -69,15 +69,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 219,
-  "turnos": 765,
-  "respondidos": 758,
+  "turnos": 766,
+  "respondidos": 759,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 5.2,
+  "mediana_min": 5.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 513,
+    "respostas": 514,
     "mediana_min": 3
    },
    {
@@ -331,19 +331,30 @@
   ]
  },
  "agora": {
-  "fila": 216,
-  "abertos": 370,
+  "fila": 217,
+  "abertos": 371,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 3936
+  "espera_media_s": 3923
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-18T14:16:59.076Z",
-  "min_sem_lead": 545
+  "ultimo_lead_at": "2026-08-18T23:34:05.922Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "Jaqueline",
+   "tel": "5545*****310",
+   "criado": "20:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Daniel Vaqueirinho",
    "tel": "5582*****228",
