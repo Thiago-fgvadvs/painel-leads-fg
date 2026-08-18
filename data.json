@@ -1,28 +1,28 @@
 {
- "gerado_em": "18/08/2026, 10:56",
+ "gerado_em": "18/08/2026, 11:12",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
-  "no_sla": 7,
+  "total": 21,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 13,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 261,
-  "tickets_abertos": 341,
+  "leads_7d": 262,
+  "tickets_abertos": 340,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -39,6 +39,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/Db0dln6sawH/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/Db0c3qfMTXm/",
    "leads": 1
   },
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/7VvbFaWie",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7a58KGmA0",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 14,
+  "Trabalhista": 15,
   "Nao identificada": 6
  },
  "sem_resposta_lista": [],
@@ -69,9 +69,9 @@
   "dias": 7,
   "grupos_ativos": 196,
   "turnos": 613,
-  "respondidos": 606,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "respondidos": 607,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 7.6,
   "atendentes": [
    {
@@ -106,8 +106,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 9,
-    "mediana_min": 0.4
+    "respostas": 10,
+    "mediana_min": 0.7
    },
    {
     "nome": "Tiago Bernardo",
@@ -126,12 +126,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "E.V.D.A x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
-    "dia": "18/08",
-    "desde": "10:50",
-    "ts": 1787061036207
-   },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "14/08",
@@ -209,12 +203,6 @@
     "dia": "18/08",
     "desde": "10:40",
     "ts": 1787060433536
-   },
-   {
-    "grupo": "E.V.D.A x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
-    "dia": "18/08",
-    "desde": "10:50",
-    "ts": 1787061036207
    }
   ]
  },
@@ -339,8 +327,8 @@
   ]
  },
  "agora": {
-  "fila": 184,
-  "abertos": 341,
+  "fila": 185,
+  "abertos": 340,
   "com_atendimento": 9,
   "online": 6,
   "offline": 2,
@@ -348,10 +336,32 @@
   "espera_media_s": 4255
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T00:58:14.792Z",
-  "min_sem_lead": 12299
+  "ultimo_lead_at": "2026-08-18T14:09:39.546Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "558896039161",
+   "tel": "5588*****161",
+   "criado": "11:09",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db0dln6sawH/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Fer",
+   "tel": "5554*****581",
+   "criado": "00:51",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 2.8,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Josenilson Lombard",
    "tel": "5598*****267",
@@ -381,17 +391,6 @@
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/annW3H6uu",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Fer",
-   "tel": "5554*****581",
-   "criado": "00:51",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 2.8,
-   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/annW3H6uu",
    "area": "Trabalhista"
