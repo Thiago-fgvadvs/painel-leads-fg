@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/08/2026, 11:42",
+ "gerado_em": "18/08/2026, 11:57",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 266,
-  "tickets_abertos": 341,
+  "tickets_abertos": 342,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,23 +60,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 19,
-  "Nao identificada": 6
+  "Trabalhista": 20,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 197,
-  "turnos": 620,
-  "respondidos": 614,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 7.4,
+  "grupos_ativos": 198,
+  "turnos": 628,
+  "respondidos": 623,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 7.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 422,
+    "respostas": 429,
     "mediana_min": 3.5
    },
    {
@@ -96,8 +96,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 21,
-    "mediana_min": 6.1
+    "respostas": 22,
+    "mediana_min": 5.4
    },
    {
     "nome": "Thauany",
@@ -116,8 +116,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 2,
-    "mediana_min": 2448.9
+    "respostas": 3,
+    "mediana_min": 3608.9
    },
    {
     "nome": "—",
@@ -129,14 +129,8 @@
    {
     "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "18/08",
-    "desde": "11:40",
-    "ts": 1787064009586
-   },
-   {
-    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
-    "dia": "14/08",
-    "desde": "11:32",
-    "ts": 1786717926348
+    "desde": "11:50",
+    "ts": 1787064616495
    },
    {
     "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
@@ -175,12 +169,6 @@
     "ts": 1786544933208
    },
    {
-    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
-    "dia": "14/08",
-    "desde": "11:32",
-    "ts": 1786717926348
-   },
-   {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "17/08",
     "desde": "16:23",
@@ -201,8 +189,8 @@
    {
     "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "18/08",
-    "desde": "11:40",
-    "ts": 1787064009586
+    "desde": "11:50",
+    "ts": 1787064616495
    }
   ]
  },
@@ -327,28 +315,28 @@
   ]
  },
  "agora": {
-  "fila": 188,
-  "abertos": 341,
-  "com_atendimento": 8,
-  "online": 5,
-  "offline": 2,
+  "fila": 189,
+  "abertos": 342,
+  "com_atendimento": 7,
+  "online": 4,
+  "offline": 3,
   "ausentes": 2,
   "espera_media_s": 4240
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-18T13:09:14.799Z",
-  "min_sem_lead": 93
+  "ultimo_lead_at": "2026-08-18T13:49:13.098Z",
+  "min_sem_lead": 69
  },
  "leads": [
   {
-   "nome": "CristianoF.'.",
-   "tel": "5511*****680",
-   "criado": "10:09",
+   "nome": "Rodrigo Nicolino",
+   "tel": "5511*****111",
+   "criado": "10:49",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9ikHrVLv1",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -363,15 +351,15 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Rodrigo Nicolino",
-   "tel": "5511*****111",
-   "criado": "10:49",
+   "nome": "CristianoF.'.",
+   "tel": "5511*****680",
+   "criado": "10:09",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "origem": "Anuncio",
+   "criativo": "fb.me/9ikHrVLv1",
+   "area": "Trabalhista"
   },
   {
    "nome": "Daniel Vaqueirinho",
