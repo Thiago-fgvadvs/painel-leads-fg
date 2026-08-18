@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/08/2026, 09:40",
+ "gerado_em": "18/08/2026, 09:56",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 258,
-  "tickets_abertos": 339,
+  "tickets_abertos": 338,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,16 +68,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 196,
-  "turnos": 575,
-  "respondidos": 568,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 12.4,
+  "turnos": 581,
+  "respondidos": 575,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 10.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 397,
-    "mediana_min": 4.1
+    "respostas": 404,
+    "mediana_min": 3.7
    },
    {
     "nome": "Nicolas",
@@ -121,12 +121,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
-    "dia": "18/08",
-    "desde": "09:39",
-    "ts": 1787056755315
-   },
    {
     "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "18/08",
@@ -204,12 +198,6 @@
     "dia": "18/08",
     "desde": "09:25",
     "ts": 1787055952132
-   },
-   {
-    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
-    "dia": "18/08",
-    "desde": "09:39",
-    "ts": 1787056755315
    }
   ]
  },
@@ -334,17 +322,17 @@
   ]
  },
  "agora": {
-  "fila": 189,
-  "abertos": 339,
-  "com_atendimento": 8,
-  "online": 2,
-  "offline": 4,
-  "ausentes": 3,
+  "fila": 188,
+  "abertos": 338,
+  "com_atendimento": 7,
+  "online": 5,
+  "offline": 3,
+  "ausentes": 1,
   "espera_media_s": 4125
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-18T12:33:14.213Z",
-  "min_sem_lead": 8
+  "ultimo_lead_at": "2026-07-21T17:37:45.458Z",
+  "min_sem_lead": 40038
  },
  "leads": [
   {
