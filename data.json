@@ -1,37 +1,37 @@
 {
- "gerado_em": "18/08/2026, 14:30",
+ "gerado_em": "18/08/2026, 14:45",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 35,
-  "no_sla": 22,
+  "total": 36,
+  "no_sla": 23,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 13,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 276,
-  "tickets_abertos": 358,
+  "leads_7d": 277,
+  "tickets_abertos": 359,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 35,
+   "leads": 36,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 33,
+  "Anuncio": 34,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
-   "url": "fb.me/4RpRFqGbv",
+   "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/Db3h-Ghspuz/",
+   "url": "fb.me/4RpRFqGbv",
    "leads": 3
   },
   {
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 26,
+  "Trabalhista": 27,
   "Previdenciario": 1,
   "Nao identificada": 8
  },
@@ -69,25 +69,25 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 201,
-  "turnos": 681,
-  "respondidos": 675,
+  "turnos": 688,
+  "respondidos": 682,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 5.4,
+  "mediana_min": 5.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 456,
-    "mediana_min": 3.2
+    "respostas": 460,
+    "mediana_min": 3.1
    },
    {
     "nome": "Nicolas",
-    "respostas": 94,
-    "mediana_min": 77.2
+    "respostas": 95,
+    "mediana_min": 76.6
    },
    {
     "nome": "Luisa",
-    "respostas": 28,
+    "respostas": 30,
     "mediana_min": 1
    },
    {
@@ -128,10 +128,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.M.G x CTS PORTARIA E SERVICOS LTDA",
+    "grupo": "E.V.D.A x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
     "dia": "18/08",
-    "desde": "13:36",
-    "ts": 1787070995698
+    "desde": "14:40",
+    "ts": 1787074809757
    },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
@@ -200,10 +200,10 @@
     "ts": 1787067360294
    },
    {
-    "grupo": "R.M.G x CTS PORTARIA E SERVICOS LTDA",
+    "grupo": "E.V.D.A x SOMA CAMPINAS PRODUTOS DE HIGIENE LTDA",
     "dia": "18/08",
-    "desde": "13:36",
-    "ts": 1787070995698
+    "desde": "14:40",
+    "ts": 1787074809757
    }
   ]
  },
@@ -329,18 +329,51 @@
  },
  "agora": {
   "fila": 202,
-  "abertos": 358,
+  "abertos": 359,
   "com_atendimento": 7,
   "online": 6,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 4072
+  "espera_media_s": 4059
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-18T10:47:07.835Z",
-  "min_sem_lead": 403
+  "ultimo_lead_at": "2026-08-18T17:42:07.756Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "5517997384838",
+   "tel": "5517*****838",
+   "criado": "14:42",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/2N1XNYrvvR",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Caroline",
+   "tel": "5511*****570",
+   "criado": "13:05",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Lucimara 777",
+   "tel": "5511*****342",
+   "criado": "13:58",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Eeemar",
    "tel": "5549*****133",
@@ -350,17 +383,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/7tRJWUSsI",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5511953825342",
-   "tel": "5511*****342",
-   "criado": "13:58",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4RpRFqGbv",
    "area": "Trabalhista"
   },
   {
@@ -383,17 +405,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7a58KGmA0",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5511980689570",
-   "tel": "5511*****570",
-   "criado": "13:05",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
    "area": "Trabalhista"
   },
   {
