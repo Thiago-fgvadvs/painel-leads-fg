@@ -1,23 +1,23 @@
 {
- "gerado_em": "17/08/2026, 21:07",
+ "gerado_em": "17/08/2026, 21:23",
  "data_ref": "17/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 101,
+  "total": 102,
   "no_sla": 91,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 7,
+  "fora_horario": 8,
   "pct_sla": 100,
   "mediana_geral": 2,
-  "leads_7d": 282,
-  "tickets_abertos": 307,
+  "leads_7d": 283,
+  "tickets_abertos": 308,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 96,
+   "leads": 97,
    "mediana_min": 2
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 75,
+  "Anuncio": 76,
   "Direto/Indicacao": 26
  },
  "criativos": [
@@ -45,7 +45,7 @@
   },
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "fb.me/fljy4QK1m",
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 62,
+  "Trabalhista": 63,
   "Nao identificada": 38,
   "Previdenciario": 1
  },
@@ -352,19 +352,30 @@
   ]
  },
  "agora": {
-  "fila": 160,
-  "abertos": 307,
+  "fila": 161,
+  "abertos": 308,
   "com_atendimento": 7,
   "online": 0,
   "offline": 9,
   "ausentes": 0,
-  "espera_media_s": 4611
+  "espera_media_s": 4593
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T23:10:25.284Z",
-  "min_sem_lead": 57
+  "ultimo_lead_at": "2026-08-18T00:15:05.478Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "554196809589",
+   "tel": "5541*****589",
+   "criado": "21:15",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5519993321269",
    "tel": "5519*****269",
@@ -1455,9 +1466,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "559991430805",
-   "tel": "5599*****805",
-   "criado": "10:43",
+   "nome": "559985246481",
+   "tel": "5599*****481",
+   "criado": "09:43",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -1466,9 +1477,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "559985246481",
-   "tel": "5599*****481",
-   "criado": "09:43",
+   "nome": "559991430805",
+   "tel": "5599*****805",
+   "criado": "10:43",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
