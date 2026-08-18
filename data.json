@@ -1,28 +1,28 @@
 {
- "gerado_em": "18/08/2026, 11:12",
+ "gerado_em": "18/08/2026, 11:27",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 8,
+  "total": 24,
+  "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 13,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 262,
-  "tickets_abertos": 340,
+  "leads_7d": 265,
+  "tickets_abertos": 341,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 21,
+   "leads": 24,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 23,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -35,8 +35,20 @@
    "leads": 3
   },
   {
+   "url": "www.instagram.com/p/Db3h-Ghspuz/",
+   "leads": 2
+  },
+  {
    "url": "fb.me/annW3H6uu",
    "leads": 2
+  },
+  {
+   "url": "fb.me/fljy4QK1m",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/ey4Q1TKSH",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/Db0dln6sawH/",
@@ -45,22 +57,10 @@
   {
    "url": "www.instagram.com/p/Db0c3qfMTXm/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Db3h-Ghspuz/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/7tRJWUSsI",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/7VvbFaWie",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
+  "Trabalhista": 18,
   "Nao identificada": 6
  },
  "sem_resposta_lista": [],
@@ -327,21 +327,54 @@
   ]
  },
  "agora": {
-  "fila": 185,
-  "abertos": 340,
+  "fila": 187,
+  "abertos": 341,
   "com_atendimento": 9,
-  "online": 6,
+  "online": 4,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 4255
+  "ausentes": 3,
+  "espera_media_s": 4240
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-18T14:09:39.546Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-08-18T14:16:59.076Z",
+  "min_sem_lead": 10
  },
  "leads": [
   {
-   "nome": "558896039161",
+   "nome": "Daniel Vaqueirinho",
+   "tel": "5582*****228",
+   "criado": "11:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/fljy4QK1m",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Lorisvaldo Martins",
+   "tel": "5531*****362",
+   "criado": "11:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/ey4Q1TKSH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "________ 🧚🏻‍♂️",
+   "tel": "5585*****750",
+   "criado": "11:13",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "germanodesouza179",
    "tel": "5588*****161",
    "criado": "11:09",
    "atendente": "FG Advogados - Isadora ",
