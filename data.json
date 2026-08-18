@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/08/2026, 10:11",
+ "gerado_em": "18/08/2026, 10:26",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 259,
-  "tickets_abertos": 338,
+  "tickets_abertos": 339,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,8 +22,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
-  "Direto/Indicacao": 1
+  "Anuncio": 18,
+  "Direto/Indicacao": 0
  },
  "criativos": [
   {
@@ -37,6 +37,10 @@
   {
    "url": "fb.me/87jYMAhSB",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/Db3h-Ghspuz/",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/Db0c3qfMTXm/",
@@ -53,31 +57,27 @@
   {
    "url": "fb.me/7a58KGmA0",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9LsHeGfqD",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 13,
-  "Nao identificada": 5
+  "Trabalhista": 14,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 196,
-  "turnos": 587,
-  "respondidos": 582,
+  "turnos": 597,
+  "respondidos": 592,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 9.8,
+  "mediana_min": 8.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 408,
-    "mediana_min": 3.7
+    "respostas": 412,
+    "mediana_min": 3.6
    },
    {
     "nome": "Nicolas",
@@ -96,8 +96,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 14,
-    "mediana_min": 18.1
+    "respostas": 18,
+    "mediana_min": 6.8
    },
    {
     "nome": "Thauany",
@@ -108,6 +108,11 @@
     "nome": "Tiago Bernardo",
     "respostas": 5,
     "mediana_min": 20.5
+   },
+   {
+    "nome": "Luisa",
+    "respostas": 2,
+    "mediana_min": 2
    },
    {
     "nome": "Eduardo",
@@ -310,17 +315,17 @@
   ]
  },
  "agora": {
-  "fila": 187,
-  "abertos": 338,
-  "com_atendimento": 7,
+  "fila": 186,
+  "abertos": 339,
+  "com_atendimento": 8,
   "online": 5,
-  "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 4111
+  "offline": 3,
+  "ausentes": 1,
+  "espera_media_s": 4299
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-18T13:09:14.799Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-08-10T00:58:14.792Z",
+  "min_sem_lead": 12268
  },
  "leads": [
   {
@@ -335,6 +340,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "Francisco",
+   "tel": "5581*****626",
+   "criado": "08:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "5511994943680",
    "tel": "5511*****680",
    "criado": "10:09",
@@ -344,17 +360,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/9ikHrVLv1",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Francisco",
-   "tel": "5581*****626",
-   "criado": "08:56",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Josenilson Lombard",
