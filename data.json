@@ -1,28 +1,28 @@
 {
- "gerado_em": "18/08/2026, 16:17",
+ "gerado_em": "18/08/2026, 16:32",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 40,
-  "no_sla": 27,
+  "total": 41,
+  "no_sla": 28,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 13,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 281,
-  "tickets_abertos": 362,
+  "leads_7d": 282,
+  "tickets_abertos": 364,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 40,
+   "leads": 41,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 37,
+  "Anuncio": 38,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
+  "Trabalhista": 31,
   "Previdenciario": 2,
-  "Trabalhista": 30,
   "Nao identificada": 8
  },
  "sem_resposta_lista": [],
@@ -69,15 +69,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 205,
-  "turnos": 709,
-  "respondidos": 704,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "turnos": 713,
+  "respondidos": 707,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 5.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 474,
+    "respostas": 476,
     "mediana_min": 3.1
    },
    {
@@ -92,8 +92,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 25,
-    "mediana_min": 4.8
+    "respostas": 26,
+    "mediana_min": 5.4
    },
    {
     "nome": "Roseli",
@@ -127,6 +127,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "I.F.M x INSS",
+    "dia": "18/08",
+    "desde": "16:22",
+    "ts": 1787080966678
+   },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
     "dia": "18/08",
@@ -192,6 +198,12 @@
     "dia": "18/08",
     "desde": "12:36",
     "ts": 1787067360294
+   },
+   {
+    "grupo": "I.F.M x INSS",
+    "dia": "18/08",
+    "desde": "16:22",
+    "ts": 1787080966678
    }
   ]
  },
@@ -317,18 +329,29 @@
  },
  "agora": {
   "fila": 206,
-  "abertos": 362,
+  "abertos": 364,
   "com_atendimento": 6,
   "online": 5,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 4026
+  "espera_media_s": 4013
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T21:34:15.165Z",
-  "min_sem_lead": 9943
+  "ultimo_lead_at": "2026-08-18T19:32:04.500Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "224629131316",
+   "tel": "2246*****316",
+   "criado": "16:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/41inlpyts",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Gilberto Bonfim Giba",
    "tel": "5511*****523",
