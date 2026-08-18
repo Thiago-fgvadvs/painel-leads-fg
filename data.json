@@ -1,34 +1,38 @@
 {
- "gerado_em": "18/08/2026, 17:18",
+ "gerado_em": "18/08/2026, 17:33",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 43,
-  "no_sla": 30,
+  "total": 44,
+  "no_sla": 31,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 13,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 284,
-  "tickets_abertos": 364,
+  "leads_7d": 285,
+  "tickets_abertos": 365,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 43,
+   "leads": 44,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 40,
+  "Anuncio": 41,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 4
+  },
+  {
+   "url": "fb.me/7a58KGmA0",
+   "leads": 3
   },
   {
    "url": "fb.me/4RpRFqGbv",
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/7tRJWUSsI",
    "leads": 2
-  },
-  {
-   "url": "fb.me/7a58KGmA0",
-   "leads": 2
   }
  ],
  "areas": {
-  "Trabalhista": 33,
+  "Trabalhista": 34,
   "Previdenciario": 2,
   "Nao identificada": 8
  },
@@ -69,15 +69,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 205,
-  "turnos": 724,
-  "respondidos": 718,
+  "turnos": 728,
+  "respondidos": 722,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 4.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 481,
+    "respostas": 483,
     "mediana_min": 3
    },
    {
@@ -106,14 +106,14 @@
     "mediana_min": 2291.6
    },
    {
+    "nome": "Eduardo",
+    "respostas": 14,
+    "mediana_min": 6.6
+   },
+   {
     "nome": "Thauany",
     "respostas": 14,
     "mediana_min": 1.3
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 12,
-    "mediana_min": 6.1
    },
    {
     "nome": "Tiago Bernardo",
@@ -130,8 +130,8 @@
    {
     "grupo": "I.F.M x INSS",
     "dia": "18/08",
-    "desde": "17:12",
-    "ts": 1787083951846
+    "desde": "17:27",
+    "ts": 1787084826591
    },
    {
     "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
@@ -202,8 +202,8 @@
    {
     "grupo": "I.F.M x INSS",
     "dia": "18/08",
-    "desde": "17:12",
-    "ts": 1787083951846
+    "desde": "17:27",
+    "ts": 1787084826591
    }
   ]
  },
@@ -328,28 +328,28 @@
   ]
  },
  "agora": {
-  "fila": 209,
-  "abertos": 364,
+  "fila": 210,
+  "abertos": 365,
   "com_atendimento": 6,
-  "online": 5,
-  "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 4000
+  "online": 2,
+  "offline": 2,
+  "ausentes": 4,
+  "espera_media_s": 3987
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-14T11:33:39.332Z",
-  "min_sem_lead": 6285
+  "ultimo_lead_at": "2026-06-03T13:41:13.232Z",
+  "min_sem_lead": 109853
  },
  "leads": [
   {
-   "nome": "Alex",
-   "tel": "5511*****155",
-   "criado": "11:58",
+   "nome": "Daniel",
+   "tel": "5534*****532",
+   "criado": "17:27",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.8,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/4RpRFqGbv",
+   "criativo": "fb.me/7a58KGmA0",
    "area": "Trabalhista"
   },
   {
@@ -361,6 +361,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/kMMSTN8VC",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Alex",
+   "tel": "5511*****155",
+   "criado": "11:58",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4RpRFqGbv",
    "area": "Trabalhista"
   },
   {
