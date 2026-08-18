@@ -1,31 +1,35 @@
 {
- "gerado_em": "18/08/2026, 09:25",
+ "gerado_em": "18/08/2026, 09:40",
  "data_ref": "18/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 3,
+  "total": 17,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 13,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 257,
-  "tickets_abertos": 337,
+  "leads_7d": 258,
+  "tickets_abertos": 339,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 15,
+  "Anuncio": 16,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/annW3H6uu",
+   "leads": 2
+  },
   {
    "url": "fb.me/87jYMAhSB",
    "leads": 2
@@ -53,30 +57,26 @@
   {
    "url": "fb.me/9LsHeGfqD",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DbwOTH9sH8t/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 5,
-  "Trabalhista": 11
+  "Trabalhista": 12,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 195,
-  "turnos": 570,
-  "respondidos": 565,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 12.6,
+  "grupos_ativos": 196,
+  "turnos": 575,
+  "respondidos": 568,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 12.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 394,
+    "respostas": 397,
     "mediana_min": 4.1
    },
    {
@@ -121,6 +121,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
+    "dia": "18/08",
+    "desde": "09:39",
+    "ts": 1787056755315
+   },
+   {
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
+    "dia": "18/08",
+    "desde": "09:25",
+    "ts": 1787055952132
+   },
    {
     "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
     "dia": "17/08",
@@ -186,6 +198,18 @@
     "dia": "17/08",
     "desde": "19:23",
     "ts": 1787005423230
+   },
+   {
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
+    "dia": "18/08",
+    "desde": "09:25",
+    "ts": 1787055952132
+   },
+   {
+    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
+    "dia": "18/08",
+    "desde": "09:39",
+    "ts": 1787056755315
    }
   ]
  },
@@ -310,19 +334,30 @@
   ]
  },
  "agora": {
-  "fila": 188,
-  "abertos": 337,
+  "fila": 189,
+  "abertos": 339,
   "com_atendimento": 8,
-  "online": 4,
+  "online": 2,
   "offline": 4,
-  "ausentes": 1,
-  "espera_media_s": 4140
+  "ausentes": 3,
+  "espera_media_s": 4125
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-18T11:56:57.233Z",
-  "min_sem_lead": 29
+  "ultimo_lead_at": "2026-08-18T12:33:14.213Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "559292972135",
+   "tel": "5592*****135",
+   "criado": "09:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Francisco",
    "tel": "5581*****626",
