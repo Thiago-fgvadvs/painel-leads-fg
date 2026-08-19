@@ -1,29 +1,29 @@
 {
- "gerado_em": "19/08/2026, 07:23",
+ "gerado_em": "19/08/2026, 07:38",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
+  "total": 16,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 12,
+  "sem_resposta": 0,
+  "fora_horario": 15,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 261,
-  "tickets_abertos": 393,
+  "leads_7d": 263,
+  "tickets_abertos": 395,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 12,
+   "leads": 15,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 12,
-  "Direto/Indicacao": 2
+  "Anuncio": 13,
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -33,6 +33,10 @@
   {
    "url": "fb.me/7tRJWUSsI",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DbyvboFsQ2p/",
+   "leads": 1
   },
   {
    "url": "fb.me/fljy4QK1m",
@@ -53,37 +57,26 @@
   {
    "url": "fb.me/73927V0PX",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4NSAy14MY",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 8,
-  "Nao identificada": 6
+  "Trabalhista": 9,
+  "Nao identificada": 7
  },
- "sem_resposta_lista": [
-  {
-   "nome": "Nacelio",
-   "tel": "5585*****244",
-   "criado": "07:22",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 205,
-  "turnos": 695,
-  "respondidos": 689,
+  "turnos": 696,
+  "respondidos": 690,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 3.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 485,
+    "respostas": 486,
     "mediana_min": 2.5
    },
    {
@@ -280,26 +273,48 @@
   ]
  },
  "agora": {
-  "fila": 239,
-  "abertos": 393,
+  "fila": 241,
+  "abertos": 395,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 3666
+  "espera_media_s": 3645
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T10:22:43.261Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-08-19T10:29:32.168Z",
+  "min_sem_lead": 9
  },
  "leads": [
+  {
+   "nome": "Toda Honra A Ele O Justo",
+   "tel": "5511*****185",
+   "criado": "07:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511946324391",
+   "tel": "5511*****391",
+   "criado": "07:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyvboFsQ2p/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Nacelio",
    "tel": "5585*****244",
    "criado": "07:22",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.8,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/7tRJWUSsI",
    "area": "Trabalhista"
