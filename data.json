@@ -1,29 +1,29 @@
 {
- "gerado_em": "19/08/2026, 14:35",
+ "gerado_em": "19/08/2026, 14:51",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 36,
-  "no_sla": 18,
+  "total": 37,
+  "no_sla": 19,
   "fora_sla": 0,
   "sem_resposta": 2,
   "fora_horario": 16,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 283,
-  "tickets_abertos": 382,
+  "leads_7d": 284,
+  "tickets_abertos": 383,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 34,
+   "leads": 35,
    "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 30,
-  "Direto/Indicacao": 6
+  "Direto/Indicacao": 7
  },
  "criativos": [
   {
@@ -55,12 +55,12 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/Db1RMyXsdNI/",
+   "url": "fb.me/4RpRFqGbv",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 22,
+  "Trabalhista": 23,
   "Previdenciario": 3,
   "Nao identificada": 11
  },
@@ -82,15 +82,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 815,
-  "respondidos": 810,
+  "turnos": 816,
+  "respondidos": 811,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 582,
+    "respostas": 583,
     "mediana_min": 2.5
    },
    {
@@ -299,19 +299,41 @@
   ]
  },
  "agora": {
-  "fila": 255,
-  "abertos": 382,
+  "fila": 254,
+  "abertos": 383,
   "com_atendimento": 6,
   "online": 4,
   "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 3575
+  "espera_media_s": 3565
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T17:29:52.556Z",
-  "min_sem_lead": 6
+  "ultimo_lead_at": "2026-08-19T15:48:50.863Z",
+  "min_sem_lead": 122
  },
  "leads": [
+  {
+   "nome": "Alcione Tadeu",
+   "tel": "5548*****632",
+   "criado": "12:48",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "josé",
+   "tel": "5511*****145",
+   "criado": "14:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "Rosa Helena",
    "tel": "5521*****410",
@@ -453,17 +475,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/41inlpyts",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Alcione Tadeu",
-   "tel": "5548*****632",
-   "criado": "12:48",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4RpRFqGbv",
    "area": "Trabalhista"
   },
   {
