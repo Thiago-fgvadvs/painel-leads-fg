@@ -1,29 +1,29 @@
 {
- "gerado_em": "19/08/2026, 17:54",
+ "gerado_em": "19/08/2026, 18:09",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 42,
-  "no_sla": 24,
+  "total": 43,
+  "no_sla": 25,
   "fora_sla": 0,
   "sem_resposta": 2,
   "fora_horario": 16,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 289,
-  "tickets_abertos": 391,
+  "leads_7d": 291,
+  "tickets_abertos": 394,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 40,
+   "leads": 41,
    "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 35,
-  "Direto/Indicacao": 7
+  "Direto/Indicacao": 8
  },
  "criativos": [
   {
@@ -60,9 +60,9 @@
   }
  ],
  "areas": {
+  "Nao identificada": 13,
   "Trabalhista": 27,
-  "Previdenciario": 3,
-  "Nao identificada": 12
+  "Previdenciario": 3
  },
  "sem_resposta_lista": [
   {
@@ -82,21 +82,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 231,
-  "turnos": 862,
-  "respondidos": 855,
+  "turnos": 866,
+  "respondidos": 859,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 2.9,
+  "mediana_min": 3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 620,
+    "respostas": 622,
     "mediana_min": 2.5
    },
    {
     "nome": "Nicolas",
-    "respostas": 89,
-    "mediana_min": 40
+    "respostas": 91,
+    "mediana_min": 36.1
    },
    {
     "nome": "Luisa",
@@ -141,6 +141,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.D.S.C x FUNDACAO ABM DE PESQUISA E EXTENSAO NA AREA DA SAUDE - FABAMED",
+    "dia": "19/08",
+    "desde": "18:06",
+    "ts": 1787173617371
+   },
+   {
     "grupo": "A.J.C",
     "dia": "19/08",
     "desde": "13:52",
@@ -151,12 +157,6 @@
     "dia": "19/08",
     "desde": "17:22",
     "ts": 1787170964195
-   },
-   {
-    "grupo": "R.D.S.C x FUNDACAO ABM DE PESQUISA E EXTENSAO NA AREA DA SAUDE - FABAMED",
-    "dia": "19/08",
-    "desde": "16:59",
-    "ts": 1787169540423
    },
    {
     "grupo": "R.R.S x COBE SERVICOS DE COBRANCAS LTDA",
@@ -200,6 +200,13 @@
     "dia": "19/08",
     "desde": "14:01",
     "ts": 1787158894991
+   },
+   {
+    "nome": "555494722549",
+    "tel": "5554*****549",
+    "dia": "19/08",
+    "desde": "18:09",
+    "ts": 1787173749923
    }
   ],
   "grupos": [
@@ -234,16 +241,16 @@
     "ts": 1787168475452
    },
    {
-    "grupo": "R.D.S.C x FUNDACAO ABM DE PESQUISA E EXTENSAO NA AREA DA SAUDE - FABAMED",
-    "dia": "19/08",
-    "desde": "16:59",
-    "ts": 1787169540423
-   },
-   {
     "grupo": "M.E.D.A.V x MERCATO EXPRESS HOLDING DE PARTICIPACAO LTDA",
     "dia": "19/08",
     "desde": "17:22",
     "ts": 1787170964195
+   },
+   {
+    "grupo": "R.D.S.C x FUNDACAO ABM DE PESQUISA E EXTENSAO NA AREA DA SAUDE - FABAMED",
+    "dia": "19/08",
+    "desde": "18:06",
+    "ts": 1787173617371
    }
   ]
  },
@@ -332,19 +339,30 @@
   ]
  },
  "agora": {
-  "fila": 257,
-  "abertos": 391,
+  "fila": 260,
+  "abertos": 394,
   "com_atendimento": 6,
-  "online": 3,
-  "offline": 2,
-  "ausentes": 3,
+  "online": 4,
+  "offline": 3,
+  "ausentes": 1,
   "espera_media_s": 3775
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T17:29:52.556Z",
-  "min_sem_lead": 204
+  "ultimo_lead_at": "2026-08-19T21:09:09.923Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "5511978736294",
+   "tel": "5511*****294",
+   "criado": "17:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Rosa Helena",
    "tel": "5521*****410",
