@@ -1,28 +1,28 @@
 {
- "gerado_em": "19/08/2026, 12:49",
+ "gerado_em": "19/08/2026, 13:04",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
-  "no_sla": 9,
+  "total": 27,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 15,
+  "fora_horario": 16,
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 274,
-  "tickets_abertos": 376,
+  "tickets_abertos": 378,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 24,
+   "leads": 26,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -39,6 +39,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/4RpRFqGbv",
+   "leads": 1
+  },
+  {
    "url": "fb.me/9QFJriUbK",
    "leads": 1
   },
@@ -53,16 +57,12 @@
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/ey4Q1TKSH",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 14,
   "Nao identificada": 11,
-  "Previdenciario": 2,
-  "Trabalhista": 13
+  "Previdenciario": 2
  },
  "sem_resposta_lista": [
   {
@@ -76,15 +76,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 223,
-  "turnos": 784,
-  "respondidos": 780,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
+  "turnos": 785,
+  "respondidos": 782,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
   "mediana_min": 3.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 557,
+    "respostas": 559,
     "mediana_min": 2.5
    },
    {
@@ -135,12 +135,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "F.G x ITAU UNIBANCO",
-    "dia": "19/08",
-    "desde": "12:45",
-    "ts": 1787154315159
-   },
-   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "19/08",
     "desde": "10:49",
@@ -189,12 +183,6 @@
     "dia": "19/08",
     "desde": "10:49",
     "ts": 1787147395061
-   },
-   {
-    "grupo": "F.G x ITAU UNIBANCO",
-    "dia": "19/08",
-    "desde": "12:45",
-    "ts": 1787154315159
    }
   ]
  },
@@ -274,19 +262,41 @@
   ]
  },
  "agora": {
-  "fila": 243,
-  "abertos": 376,
-  "com_atendimento": 7,
+  "fila": 246,
+  "abertos": 378,
+  "com_atendimento": 6,
   "online": 2,
   "offline": 2,
   "ausentes": 4,
-  "espera_media_s": 3653
+  "espera_media_s": 3619
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-14T00:16:54.742Z",
-  "min_sem_lead": 8132
+  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
+  "min_sem_lead": 23223
  },
  "leads": [
+  {
+   "nome": "Alcione Tadeu",
+   "tel": "5548*****632",
+   "criado": "12:48",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511986719912",
+   "tel": "5511*****912",
+   "criado": "00:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 756.9,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Gabi",
    "tel": "5511*****180",
@@ -321,7 +331,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5519991202561",
+   "nome": "conta comercial",
    "tel": "5519*****561",
    "criado": "10:42",
    "atendente": "FG Advogados - Isadora ",
@@ -442,7 +452,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "558388318614",
+   "nome": "Madame Luana",
    "tel": "5583*****614",
    "criado": "01:34",
    "atendente": "FG Advogados - Isadora ",
@@ -497,7 +507,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "553183856179",
+   "nome": "Ricardo",
    "tel": "5531*****179",
    "criado": "06:44",
    "atendente": "FG Advogados - Isadora ",
@@ -519,7 +529,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511978262828",
+   "nome": "Marcos manara",
    "tel": "5511*****828",
    "criado": "05:51",
    "atendente": "FG Advogados - Isadora ",
@@ -552,7 +562,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "557581795596",
+   "nome": "buffetbellameuniere62",
    "tel": "5575*****596",
    "criado": "00:55",
    "atendente": "FG Advogados - Isadora ",
@@ -561,17 +571,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7a58KGmA0",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "5511986719912",
-   "tel": "5511*****912",
-   "criado": "00:16",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   }
  ]
 }
