@@ -1,16 +1,16 @@
 {
- "gerado_em": "19/08/2026, 10:25",
+ "gerado_em": "19/08/2026, 10:41",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
+  "total": 23,
   "no_sla": 6,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 15,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 269,
+  "leads_7d": 270,
   "tickets_abertos": 375,
   "periodo_dias": 7
  },
@@ -22,16 +22,16 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
-   "url": "fb.me/4NSAy14MY",
-   "leads": 3
+   "url": "fb.me/7a58KGmA0",
+   "leads": 4
   },
   {
-   "url": "fb.me/7a58KGmA0",
+   "url": "fb.me/4NSAy14MY",
    "leads": 3
   },
   {
@@ -39,11 +39,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/Db3h-Ghspuz/",
+   "url": "fb.me/fljy4QK1m",
    "leads": 1
   },
   {
-   "url": "fb.me/fljy4QK1m",
+   "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 1
   },
   {
@@ -61,23 +61,30 @@
  ],
  "areas": {
   "Previdenciario": 2,
-  "Trabalhista": 11,
+  "Trabalhista": 12,
   "Nao identificada": 9
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Leonardo",
+   "tel": "5524*****095",
+   "criado": "10:27",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 217,
-  "turnos": 716,
-  "respondidos": 710,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "grupos_ativos": 218,
+  "turnos": 720,
+  "respondidos": 715,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 3.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 498,
+    "respostas": 501,
     "mediana_min": 2.5
    },
    {
@@ -107,8 +114,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 17,
-    "mediana_min": 8
+    "respostas": 19,
+    "mediana_min": 8.3
    },
    {
     "nome": "Thauany",
@@ -130,14 +137,14 @@
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "19/08",
-    "desde": "10:18",
-    "ts": 1787145483022
+    "desde": "10:39",
+    "ts": 1787146771034
    },
    {
-    "grupo": "A.J.D.S x EXPRESSO NEPOMUCENO SA",
-    "dia": "19/08",
-    "desde": "09:26",
-    "ts": 1787142412830
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "17/08",
+    "desde": "16:23",
+    "ts": 1786994629124
    },
    {
     "grupo": "Z.D.F.M.M.D.A.C",
@@ -156,18 +163,20 @@
     "dia": "17/08",
     "desde": "19:23",
     "ts": 1787005423230
-   },
-   {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "17/08",
-    "desde": "16:23",
-    "ts": 1786994629124
    }
   ]
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Leonardo",
+    "tel": "5524*****095",
+    "dia": "19/08",
+    "desde": "10:27",
+    "ts": 1787146046163
+   }
+  ],
   "grupos": [
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
@@ -188,12 +197,6 @@
     "ts": 1787005423230
    },
    {
-    "grupo": "A.J.D.S x EXPRESSO NEPOMUCENO SA",
-    "dia": "19/08",
-    "desde": "09:26",
-    "ts": 1787142412830
-   },
-   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "19/08",
     "desde": "10:11",
@@ -202,8 +205,8 @@
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "19/08",
-    "desde": "10:18",
-    "ts": 1787145483022
+    "desde": "10:39",
+    "ts": 1787146771034
    }
   ]
  },
@@ -283,17 +286,17 @@
   ]
  },
  "agora": {
-  "fila": 240,
+  "fila": 239,
   "abertos": 375,
   "com_atendimento": 7,
-  "online": 5,
-  "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 3655
+  "online": 7,
+  "offline": 1,
+  "ausentes": 0,
+  "espera_media_s": 3644
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-18T21:22:35.779Z",
-  "min_sem_lead": 963
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 693981
  },
  "leads": [
   {
@@ -308,17 +311,6 @@
    "area": "Previdenciario"
   },
   {
-   "nome": "Lenne",
-   "tel": "5581*****054",
-   "criado": "08:22",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
-   "area": "Previdenciario"
-  },
-  {
    "nome": "Marcos",
    "tel": "5591*****934",
    "criado": "06:03",
@@ -328,6 +320,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/fljy4QK1m",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Leonardo",
+   "tel": "5524*****095",
+   "criado": "10:27",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7a58KGmA0",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Lenne",
+   "tel": "5581*****054",
+   "criado": "08:22",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
+   "area": "Previdenciario"
   },
   {
    "nome": "553192253061",
@@ -341,7 +355,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5522997042237",
+   "nome": "Gerlane Oliveira",
    "tel": "5522*****237",
    "criado": "09:55",
    "atendente": "FG Advogados - Isadora ",
