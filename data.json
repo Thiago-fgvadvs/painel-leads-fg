@@ -1,28 +1,28 @@
 {
- "gerado_em": "19/08/2026, 15:52",
+ "gerado_em": "19/08/2026, 16:07",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 40,
-  "no_sla": 22,
+  "total": 41,
+  "no_sla": 23,
   "fora_sla": 0,
   "sem_resposta": 2,
   "fora_horario": 16,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 287,
+  "leads_7d": 288,
   "tickets_abertos": 388,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 38,
+   "leads": 39,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 33,
+  "Anuncio": 34,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -55,14 +55,14 @@
    "leads": 2
   },
   {
-   "url": "fb.me/cPDtBx7IF",
+   "url": "fb.me/kTYejxYr9",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 25,
-  "Previdenciario": 3,
-  "Nao identificada": 12
+  "Trabalhista": 26,
+  "Nao identificada": 12,
+  "Previdenciario": 3
  },
  "sem_resposta_lista": [
   {
@@ -82,15 +82,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 228,
-  "turnos": 837,
-  "respondidos": 832,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "turnos": 840,
+  "respondidos": 836,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
   "mediana_min": 2.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 600,
+    "respostas": 604,
     "mediana_min": 2.5
    },
    {
@@ -140,12 +140,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
-    "dia": "19/08",
-    "desde": "15:40",
-    "ts": 1787164845288
-   },
    {
     "grupo": "R.R.S x COBE SERVICOS DE COBRANCAS LTDA",
     "dia": "19/08",
@@ -214,12 +208,6 @@
     "dia": "19/08",
     "desde": "15:24",
     "ts": 1787163861384
-   },
-   {
-    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
-    "dia": "19/08",
-    "desde": "15:40",
-    "ts": 1787164845288
    }
   ]
  },
@@ -299,19 +287,30 @@
   ]
  },
  "agora": {
-  "fila": 255,
+  "fila": 256,
   "abertos": 388,
-  "com_atendimento": 7,
-  "online": 4,
+  "com_atendimento": 6,
+  "online": 6,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 3797
+  "ausentes": 0,
+  "espera_media_s": 3786
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T17:41:48.524Z",
-  "min_sem_lead": 70
+  "ultimo_lead_at": "2026-08-19T18:53:04.313Z",
+  "min_sem_lead": 14
  },
  "leads": [
+  {
+   "nome": "558688651126",
+   "tel": "5586*****126",
+   "criado": "15:53",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.9,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/kTYejxYr9",
+   "area": "Trabalhista"
+  },
   {
    "nome": "josé",
    "tel": "5511*****145",
@@ -322,6 +321,39 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Alcione Tadeu",
+   "tel": "5548*****632",
+   "criado": "12:48",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Gabi",
+   "tel": "5511*****180",
+   "criado": "11:18",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Mandy 🌼",
+   "tel": "5528*****255",
+   "criado": "09:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Previdenciario"
   },
   {
    "nome": "Adriano Tavares",
@@ -357,7 +389,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5513981052299",
+   "nome": "Fabiana",
    "tel": "5513*****299",
    "criado": "15:22",
    "atendente": "FG Advogados - Isadora ",
@@ -366,17 +398,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/41inlpyts",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Gabi",
-   "tel": "5511*****180",
-   "criado": "11:18",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Michelle Martins | Neuro&Liderança",
@@ -398,17 +419,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/ey4Q1TKSH",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Alcione Tadeu",
-   "tel": "5548*****632",
-   "criado": "12:48",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4RpRFqGbv",
    "area": "Trabalhista"
   },
   {
@@ -465,17 +475,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Mandy 🌼",
-   "tel": "5528*****255",
-   "criado": "09:30",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Previdenciario"
   },
   {
    "nome": "Exù 🖤",
