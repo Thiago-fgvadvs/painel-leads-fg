@@ -1,28 +1,28 @@
 {
- "gerado_em": "19/08/2026, 11:26",
+ "gerado_em": "19/08/2026, 11:42",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
-  "no_sla": 8,
+  "total": 26,
+  "no_sla": 9,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 15,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 272,
-  "tickets_abertos": 375,
+  "leads_7d": 273,
+  "tickets_abertos": 376,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 23,
+   "leads": 24,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -39,6 +39,14 @@
    "leads": 2
   },
   {
+   "url": "fb.me/9QFJriUbK",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/41inlpyts",
+   "leads": 1
+  },
+  {
    "url": "fb.me/fljy4QK1m",
    "leads": 1
   },
@@ -47,20 +55,12 @@
    "leads": 1
   },
   {
-   "url": "fb.me/41inlpyts",
-   "leads": 1
-  },
-  {
    "url": "fb.me/ey4Q1TKSH",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/kdSBBh9FE",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 10,
+  "Nao identificada": 11,
   "Previdenciario": 2,
   "Trabalhista": 13
  },
@@ -76,21 +76,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 220,
-  "turnos": 748,
-  "respondidos": 743,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "turnos": 752,
+  "respondidos": 749,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
   "mediana_min": 3.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 523,
+    "respostas": 528,
     "mediana_min": 2.5
    },
    {
     "nome": "Nicolas",
-    "respostas": 81,
-    "mediana_min": 54.5
+    "respostas": 82,
+    "mediana_min": 53.2
    },
    {
     "nome": "Luisa",
@@ -134,18 +134,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "R.D.F.C x KFC - HORIZONTE RESTAURANTES S.A.",
-    "dia": "19/08",
-    "desde": "11:26",
-    "ts": 1787149593186
-   },
-   {
-    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
-    "dia": "19/08",
-    "desde": "11:21",
-    "ts": 1787149304080
-   },
    {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "19/08",
@@ -195,18 +183,6 @@
     "dia": "19/08",
     "desde": "10:49",
     "ts": 1787147395061
-   },
-   {
-    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
-    "dia": "19/08",
-    "desde": "11:21",
-    "ts": 1787149304080
-   },
-   {
-    "grupo": "R.D.F.C x KFC - HORIZONTE RESTAURANTES S.A.",
-    "dia": "19/08",
-    "desde": "11:26",
-    "ts": 1787149593186
    }
   ]
  },
@@ -286,28 +262,28 @@
   ]
  },
  "agora": {
-  "fila": 243,
-  "abertos": 375,
-  "com_atendimento": 7,
-  "online": 7,
-  "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 3644
+  "fila": 244,
+  "abertos": 376,
+  "com_atendimento": 6,
+  "online": 4,
+  "offline": 2,
+  "ausentes": 2,
+  "espera_media_s": 3633
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T14:18:58.909Z",
-  "min_sem_lead": 8
+  "ultimo_lead_at": "2026-08-19T14:37:12.898Z",
+  "min_sem_lead": 5
  },
  "leads": [
   {
-   "nome": "Gabi",
-   "tel": "5511*****180",
-   "criado": "11:18",
+   "nome": "559881755295",
+   "tel": "5598*****295",
+   "criado": "11:37",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
+   "espera_min": 0.7,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
+   "origem": "Anuncio",
+   "criativo": "fb.me/9QFJriUbK",
    "area": "Nao identificada"
   },
   {
@@ -320,6 +296,28 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Previdenciario"
+  },
+  {
+   "nome": "5519991202561",
+   "tel": "5519*****561",
+   "criado": "10:42",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 2.9,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/41inlpyts",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Gabi",
+   "tel": "5511*****180",
+   "criado": "11:18",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Marcos",
@@ -342,17 +340,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
    "area": "Previdenciario"
-  },
-  {
-   "nome": "5519991202561",
-   "tel": "5519*****561",
-   "criado": "10:42",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 2.9,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/41inlpyts",
-   "area": "Trabalhista"
   },
   {
    "nome": "Leonardo",
