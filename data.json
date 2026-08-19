@@ -1,5 +1,5 @@
 {
- "gerado_em": "19/08/2026, 18:24",
+ "gerado_em": "19/08/2026, 18:39",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Previdenciario": 3,
   "Trabalhista": 29,
+  "Previdenciario": 3,
   "Nao identificada": 13
  },
  "sem_resposta_lista": [
@@ -237,14 +237,23 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 8,
+  "total": 9,
   "por_vendedor": {
+   "Roseli": 4,
    "Tiago Bernardo": 3,
-   "Roseli": 3,
    "Eduardo": 1,
    "Nicolas": 1
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "M",
+    "dia": "19/08",
+    "hora": "18:35",
+    "ts": 1787175326583,
+    "origem": "Outros",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "J",
@@ -329,21 +338,10 @@
   "espera_media_s": 3753
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T21:09:09.923Z",
-  "min_sem_lead": 15
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 694460
  },
  "leads": [
-  {
-   "nome": "Mandy 🌼",
-   "tel": "5528*****255",
-   "criado": "09:30",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Previdenciario"
-  },
   {
    "nome": "555494722549",
    "tel": "5554*****549",
@@ -354,6 +352,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Mandy 🌼",
+   "tel": "5528*****255",
+   "criado": "09:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Previdenciario"
   },
   {
    "nome": "558182424469",
