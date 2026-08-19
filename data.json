@@ -1,5 +1,5 @@
 {
- "gerado_em": "19/08/2026, 10:56",
+ "gerado_em": "19/08/2026, 11:11",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -76,15 +76,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 731,
-  "respondidos": 726,
+  "turnos": 737,
+  "respondidos": 732,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 3.4,
+  "mediana_min": 3.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 508,
+    "respostas": 514,
     "mediana_min": 2.5
    },
    {
@@ -135,6 +135,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.A.D.S x INSS",
+    "dia": "19/08",
+    "desde": "11:03",
+    "ts": 1787148203892
+   },
+   {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "19/08",
     "desde": "10:53",
@@ -145,12 +151,6 @@
     "dia": "19/08",
     "desde": "10:49",
     "ts": 1787147395061
-   },
-   {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "17/08",
-    "desde": "16:23",
-    "ts": 1786994629124
    },
    {
     "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
@@ -179,12 +179,6 @@
   ],
   "grupos": [
    {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "17/08",
-    "desde": "16:23",
-    "ts": 1786994629124
-   },
-   {
     "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
     "dia": "17/08",
     "desde": "19:20",
@@ -207,6 +201,12 @@
     "dia": "19/08",
     "desde": "10:53",
     "ts": 1787147610163
+   },
+   {
+    "grupo": "A.A.D.S x INSS",
+    "dia": "19/08",
+    "desde": "11:03",
+    "ts": 1787148203892
    }
   ]
  },
@@ -286,19 +286,30 @@
   ]
  },
  "agora": {
-  "fila": 240,
+  "fila": 241,
   "abertos": 373,
-  "com_atendimento": 6,
-  "online": 6,
+  "com_atendimento": 7,
+  "online": 4,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 3,
   "espera_media_s": 3655
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T11:22:55.129Z",
-  "min_sem_lead": 153
+  "ultimo_lead_at": "2026-07-22T10:43:28.978Z",
+  "min_sem_lead": 40528
  },
  "leads": [
+  {
+   "nome": "Mandy 🌼",
+   "tel": "5528*****255",
+   "criado": "09:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Previdenciario"
+  },
   {
    "nome": "Lenne",
    "tel": "5581*****054",
@@ -333,17 +344,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Mandy 🌼",
-   "tel": "5528*****255",
-   "criado": "09:30",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Previdenciario"
-  },
-  {
    "nome": "Leonardo",
    "tel": "5524*****095",
    "criado": "10:27",
@@ -355,7 +355,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "553192253061",
+   "nome": "Elen",
    "tel": "5531*****061",
    "criado": "09:30",
    "atendente": "FG Advogados - Isadora ",
