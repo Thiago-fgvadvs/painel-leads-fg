@@ -1,28 +1,28 @@
 {
- "gerado_em": "19/08/2026, 15:21",
+ "gerado_em": "19/08/2026, 15:36",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 38,
-  "no_sla": 20,
+  "total": 40,
+  "no_sla": 22,
   "fora_sla": 0,
   "sem_resposta": 2,
   "fora_horario": 16,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 285,
-  "tickets_abertos": 385,
+  "leads_7d": 287,
+  "tickets_abertos": 388,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 36,
+   "leads": 38,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 31,
+  "Anuncio": 33,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -32,6 +32,10 @@
   },
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "leads": 3
+  },
+  {
+   "url": "fb.me/41inlpyts",
    "leads": 3
   },
   {
@@ -51,16 +55,12 @@
    "leads": 2
   },
   {
-   "url": "fb.me/41inlpyts",
-   "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/Db3h15Hso0z/",
+   "url": "fb.me/cPDtBx7IF",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 23,
+  "Trabalhista": 25,
   "Nao identificada": 12,
   "Previdenciario": 3
  },
@@ -81,22 +81,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 227,
-  "turnos": 824,
-  "respondidos": 819,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "grupos_ativos": 228,
+  "turnos": 834,
+  "respondidos": 830,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
   "mediana_min": 2.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 590,
+    "respostas": 599,
     "mediana_min": 2.5
    },
    {
     "nome": "Nicolas",
-    "respostas": 86,
-    "mediana_min": 49.7
+    "respostas": 87,
+    "mediana_min": 49.3
    },
    {
     "nome": "Luisa",
@@ -105,8 +105,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 27,
-    "mediana_min": 6.5
+    "respostas": 28,
+    "mediana_min": 5.1
    },
    {
     "nome": "Gabrielle",
@@ -141,16 +141,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.G.S",
-    "dia": "13/08",
-    "desde": "15:24",
-    "ts": 1786645487939
-   },
-   {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "grupo": "R.R.S x COBE SERVICOS DE COBRANCAS LTDA",
     "dia": "19/08",
-    "desde": "14:27",
-    "ts": 1787160447294
+    "desde": "15:24",
+    "ts": 1787163861384
    },
    {
     "grupo": "A.J.C",
@@ -192,12 +186,6 @@
   ],
   "grupos": [
    {
-    "grupo": "M.G.S",
-    "dia": "13/08",
-    "desde": "15:24",
-    "ts": 1786645487939
-   },
-   {
     "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
     "dia": "17/08",
     "desde": "19:20",
@@ -216,10 +204,10 @@
     "ts": 1787158378039
    },
    {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "grupo": "R.R.S x COBE SERVICOS DE COBRANCAS LTDA",
     "dia": "19/08",
-    "desde": "14:27",
-    "ts": 1787160447294
+    "desde": "15:24",
+    "ts": 1787163861384
    }
   ]
  },
@@ -299,17 +287,17 @@
   ]
  },
  "agora": {
-  "fila": 253,
-  "abertos": 385,
+  "fila": 255,
+  "abertos": 388,
   "com_atendimento": 7,
   "online": 5,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 3820
+  "espera_media_s": 3787
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-19T17:41:48.524Z",
-  "min_sem_lead": 40
+  "min_sem_lead": 55
  },
  "leads": [
   {
@@ -321,6 +309,39 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rosa Helena",
+   "tel": "5521*****410",
+   "criado": "14:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "João Brito",
+   "tel": "5588*****767",
+   "criado": "15:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/cPDtBx7IF",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5513981052299",
+   "tel": "5513*****299",
+   "criado": "15:22",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/41inlpyts",
    "area": "Trabalhista"
   },
   {
@@ -344,17 +365,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h15Hso0z/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Rosa Helena",
-   "tel": "5521*****410",
-   "criado": "14:29",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
   },
   {
    "nome": "jonas",
