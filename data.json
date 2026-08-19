@@ -1,5 +1,5 @@
 {
- "gerado_em": "19/08/2026, 09:40",
+ "gerado_em": "19/08/2026, 09:55",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 268,
-  "tickets_abertos": 379,
+  "tickets_abertos": 373,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,30 +60,30 @@
   }
  ],
  "areas": {
-  "Previdenciario": 2,
   "Trabalhista": 10,
+  "Previdenciario": 2,
   "Nao identificada": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 215,
-  "turnos": 701,
-  "respondidos": 696,
+  "grupos_ativos": 217,
+  "turnos": 708,
+  "respondidos": 703,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 3.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 489,
+    "respostas": 492,
     "mediana_min": 2.5
    },
    {
     "nome": "Nicolas",
-    "respostas": 76,
-    "mediana_min": 65.4
+    "respostas": 79,
+    "mediana_min": 54.5
    },
    {
     "nome": "Luisa",
@@ -107,8 +107,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 15,
-    "mediana_min": 8
+    "respostas": 16,
+    "mediana_min": 6.6
    },
    {
     "nome": "Thauany",
@@ -128,16 +128,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "19/08",
+    "desde": "09:54",
+    "ts": 1787144069110
+   },
+   {
     "grupo": "A.J.D.S x EXPRESSO NEPOMUCENO SA",
     "dia": "19/08",
     "desde": "09:26",
     "ts": 1787142412830
-   },
-   {
-    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
-    "dia": "18/08",
-    "desde": "12:36",
-    "ts": 1787067360294
    },
    {
     "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
@@ -182,16 +182,16 @@
     "ts": 1787005423230
    },
    {
-    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
-    "dia": "18/08",
-    "desde": "12:36",
-    "ts": 1787067360294
-   },
-   {
     "grupo": "A.J.D.S x EXPRESSO NEPOMUCENO SA",
     "dia": "19/08",
     "desde": "09:26",
     "ts": 1787142412830
+   },
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "19/08",
+    "desde": "09:54",
+    "ts": 1787144069110
    }
   ]
  },
@@ -262,19 +262,41 @@
   ]
  },
  "agora": {
-  "fila": 245,
-  "abertos": 379,
-  "com_atendimento": 6,
-  "online": 4,
-  "offline": 4,
-  "ausentes": 0,
-  "espera_media_s": 3698
+  "fila": 243,
+  "abertos": 373,
+  "com_atendimento": 7,
+  "online": 3,
+  "offline": 3,
+  "ausentes": 2,
+  "espera_media_s": 3677
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T12:30:58.393Z",
-  "min_sem_lead": 9
+  "ultimo_lead_at": "2026-08-15T00:03:51.970Z",
+  "min_sem_lead": 6532
  },
  "leads": [
+  {
+   "nome": "553192253061",
+   "tel": "5531*****061",
+   "criado": "09:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Lenne",
+   "tel": "5581*****054",
+   "criado": "08:22",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
+   "area": "Previdenciario"
+  },
   {
    "nome": "Mandy 🌼",
    "tel": "5528*****255",
@@ -307,28 +329,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4NSAy14MY",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "553192253061",
-   "tel": "5531*****061",
-   "criado": "09:30",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Lenne",
-   "tel": "5581*****054",
-   "criado": "08:22",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
-   "area": "Previdenciario"
   },
   {
    "nome": "Valda Chaves",
