@@ -1,34 +1,38 @@
 {
- "gerado_em": "19/08/2026, 13:34",
+ "gerado_em": "19/08/2026, 13:50",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
-  "no_sla": 13,
+  "total": 32,
+  "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 16,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 277,
-  "tickets_abertos": 380,
+  "leads_7d": 279,
+  "tickets_abertos": 382,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 29,
+   "leads": 31,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 24,
+  "Anuncio": 26,
   "Direto/Indicacao": 6
  },
  "criativos": [
   {
    "url": "fb.me/7a58KGmA0",
    "leads": 4
+  },
+  {
+   "url": "fb.me/7tRJWUSsI",
+   "leads": 3
   },
   {
    "url": "fb.me/4NSAy14MY",
@@ -43,8 +47,8 @@
    "leads": 2
   },
   {
-   "url": "fb.me/7tRJWUSsI",
-   "leads": 2
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DbwRIUTsccb/",
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/4RpRFqGbv",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9QFJriUbK",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 17,
+  "Trabalhista": 19,
   "Nao identificada": 11,
   "Previdenciario": 2
  },
@@ -76,15 +76,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 224,
-  "turnos": 796,
-  "respondidos": 794,
-  "sem_resposta": 2,
-  "sem_resposta_grupos": 2,
+  "turnos": 798,
+  "respondidos": 795,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
   "mediana_min": 3.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 570,
+    "respostas": 571,
     "mediana_min": 2.5
    },
    {
@@ -135,6 +135,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "Z.D.F.M.M.D.A.C",
+    "dia": "19/08",
+    "desde": "13:48",
+    "ts": 1787158111035
+   },
+   {
     "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
     "dia": "17/08",
     "desde": "19:20",
@@ -171,6 +177,12 @@
     "dia": "17/08",
     "desde": "19:23",
     "ts": 1787005423230
+   },
+   {
+    "grupo": "Z.D.F.M.M.D.A.C",
+    "dia": "19/08",
+    "desde": "13:48",
+    "ts": 1787158111035
    }
   ]
  },
@@ -250,19 +262,41 @@
   ]
  },
  "agora": {
-  "fila": 249,
-  "abertos": 380,
+  "fila": 251,
+  "abertos": 382,
   "com_atendimento": 6,
-  "online": 1,
-  "offline": 3,
-  "ausentes": 4,
-  "espera_media_s": 3587
+  "online": 3,
+  "offline": 2,
+  "ausentes": 3,
+  "espera_media_s": 3565
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
-  "min_sem_lead": 33361
+  "ultimo_lead_at": "2026-08-19T16:46:21.643Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "553175122381",
+   "tel": "5531*****381",
+   "criado": "13:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "José Luis",
+   "tel": "5522*****829",
+   "criado": "13:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Exù 🖤",
    "tel": "5511*****457",
@@ -275,7 +309,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556892627804",
+   "nome": "jonas",
    "tel": "5568*****804",
    "criado": "13:12",
    "atendente": "FG Advogados - Isadora ",
