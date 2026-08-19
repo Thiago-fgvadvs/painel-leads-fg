@@ -1,28 +1,28 @@
 {
- "gerado_em": "19/08/2026, 08:09",
+ "gerado_em": "19/08/2026, 08:24",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 0,
+  "total": 17,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 15,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 263,
-  "tickets_abertos": 394,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 264,
+  "tickets_abertos": 395,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 15,
-   "mediana_min": null
+   "leads": 16,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 14,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -33,6 +33,10 @@
   {
    "url": "fb.me/7tRJWUSsI",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/Db3h-Ghspuz/",
+   "leads": 1
   },
   {
    "url": "fb.me/kdSBBh9FE",
@@ -53,21 +57,17 @@
   {
    "url": "fb.me/8b1UxS5EL",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4xcQewzII",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 10,
   "Nao identificada": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 205,
+  "grupos_ativos": 207,
   "turnos": 696,
   "respondidos": 691,
   "sem_resposta": 5,
@@ -261,19 +261,30 @@
   ]
  },
  "agora": {
-  "fila": 241,
-  "abertos": 394,
+  "fila": 242,
+  "abertos": 395,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 1,
   "offline": 6,
-  "ausentes": 0,
-  "espera_media_s": 3645
+  "ausentes": 1,
+  "espera_media_s": 3634
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T10:29:32.168Z",
-  "min_sem_lead": 40
+  "ultimo_lead_at": "2026-08-19T11:22:55.129Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "558193554054",
+   "tel": "5581*****054",
+   "criado": "08:22",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Toda Honra A Ele O Justo",
    "tel": "5511*****185",
