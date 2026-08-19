@@ -1,34 +1,38 @@
 {
- "gerado_em": "19/08/2026, 08:24",
+ "gerado_em": "19/08/2026, 08:39",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
-  "no_sla": 1,
+  "total": 18,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 15,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 264,
-  "tickets_abertos": 395,
+  "leads_7d": 265,
+  "tickets_abertos": 396,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 15,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "fb.me/7a58KGmA0",
    "leads": 3
+  },
+  {
+   "url": "fb.me/4NSAy14MY",
+   "leads": 2
   },
   {
    "url": "fb.me/7tRJWUSsI",
@@ -53,15 +57,12 @@
   {
    "url": "www.instagram.com/p/Db0bYSYMvaF/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/8b1UxS5EL",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
-  "Nao identificada": 7
+  "Previdenciario": 1,
+  "Nao identificada": 8,
+  "Trabalhista": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -261,17 +262,17 @@
   ]
  },
  "agora": {
-  "fila": 242,
-  "abertos": 395,
+  "fila": 243,
+  "abertos": 396,
   "com_atendimento": 6,
   "online": 1,
   "offline": 6,
   "ausentes": 1,
-  "espera_media_s": 3634
+  "espera_media_s": 3623
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-19T11:22:55.129Z",
-  "min_sem_lead": 1
+  "min_sem_lead": 17
  },
  "leads": [
   {
@@ -283,7 +284,18 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
-   "area": "Trabalhista"
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Valda Chaves",
+   "tel": "5588*****847",
+   "criado": "08:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4NSAy14MY",
+   "area": "Nao identificada"
   },
   {
    "nome": "Toda Honra A Ele O Justo",
