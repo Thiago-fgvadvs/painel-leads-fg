@@ -1,28 +1,28 @@
 {
- "gerado_em": "19/08/2026, 16:53",
+ "gerado_em": "19/08/2026, 17:08",
  "data_ref": "19/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 41,
-  "no_sla": 23,
+  "total": 42,
+  "no_sla": 24,
   "fora_sla": 0,
   "sem_resposta": 2,
   "fora_horario": 16,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 288,
+  "leads_7d": 289,
   "tickets_abertos": 389,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 39,
+   "leads": 40,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 34,
+  "Anuncio": 35,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -55,14 +55,14 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4RpRFqGbv",
+   "url": "fb.me/annW3H6uu",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 26,
-  "Previdenciario": 3,
-  "Nao identificada": 12
+  "Trabalhista": 27,
+  "Nao identificada": 12,
+  "Previdenciario": 3
  },
  "sem_resposta_lista": [
   {
@@ -82,15 +82,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 230,
-  "turnos": 851,
-  "respondidos": 845,
+  "turnos": 857,
+  "respondidos": 851,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 2.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 613,
+    "respostas": 617,
     "mediana_min": 2.5
    },
    {
@@ -110,8 +110,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 25,
-    "mediana_min": 4.8
+    "respostas": 27,
+    "mediana_min": 4.3
    },
    {
     "nome": "Eduardo",
@@ -143,8 +143,8 @@
    {
     "grupo": "R.D.S.C x FUNDACAO ABM DE PESQUISA E EXTENSAO NA AREA DA SAUDE - FABAMED",
     "dia": "19/08",
-    "desde": "16:52",
-    "ts": 1787169158345
+    "desde": "16:59",
+    "ts": 1787169540423
    },
    {
     "grupo": "R.R.S x COBE SERVICOS DE COBRANCAS LTDA",
@@ -230,8 +230,8 @@
    {
     "grupo": "R.D.S.C x FUNDACAO ABM DE PESQUISA E EXTENSAO NA AREA DA SAUDE - FABAMED",
     "dia": "19/08",
-    "desde": "16:52",
-    "ts": 1787169158345
+    "desde": "16:59",
+    "ts": 1787169540423
    }
   ]
  },
@@ -320,30 +320,19 @@
   ]
  },
  "agora": {
-  "fila": 255,
+  "fila": 256,
   "abertos": 389,
-  "com_atendimento": 7,
-  "online": 5,
+  "com_atendimento": 6,
+  "online": 3,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 3797
+  "ausentes": 3,
+  "espera_media_s": 3786
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T15:48:50.863Z",
-  "min_sem_lead": 244
+  "ultimo_lead_at": "2026-08-19T17:41:48.524Z",
+  "min_sem_lead": 146
  },
  "leads": [
-  {
-   "nome": "Alcione Tadeu",
-   "tel": "5548*****632",
-   "criado": "12:48",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4RpRFqGbv",
-   "area": "Trabalhista"
-  },
   {
    "nome": "josé",
    "tel": "5511*****145",
@@ -356,15 +345,15 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Adriano Tavares",
-   "tel": "5581*****095",
-   "criado": "14:18",
+   "nome": "Nuza",
+   "tel": "5545*****151",
+   "criado": "16:55",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
-   "area": "Previdenciario"
+   "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
   },
   {
    "nome": "Gabi",
@@ -376,6 +365,28 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Alcione Tadeu",
+   "tel": "5548*****632",
+   "criado": "12:48",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Adriano Tavares",
+   "tel": "5581*****095",
+   "criado": "14:18",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
+   "area": "Previdenciario"
   },
   {
    "nome": "558688651126",
