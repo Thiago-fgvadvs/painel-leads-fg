@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/08/2026, 17:37",
+ "gerado_em": "20/08/2026, 17:53",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -89,15 +89,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 892,
-  "respondidos": 881,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "turnos": 903,
+  "respondidos": 893,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 2.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 658,
+    "respostas": 665,
     "mediana_min": 2.4
    },
    {
@@ -106,14 +106,14 @@
     "mediana_min": 18.3
    },
    {
+    "nome": "Roseli",
+    "respostas": 36,
+    "mediana_min": 3.5
+   },
+   {
     "nome": "Luisa",
     "respostas": 34,
     "mediana_min": 1.1
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 31,
-    "mediana_min": 6.5
    },
    {
     "nome": "Gabrielle",
@@ -148,28 +148,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
+    "grupo": "J.C.C.(",
     "dia": "20/08",
-    "desde": "17:36",
-    "ts": 1787258218957
+    "desde": "13:07",
+    "ts": 1787242026479
    },
    {
-    "grupo": "C.C.P x WMS SUPERMERCADOS DO BRASIL LTDA",
+    "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
     "dia": "20/08",
-    "desde": "17:30",
-    "ts": 1787257853612
+    "desde": "17:47",
+    "ts": 1787258852917
    },
    {
     "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
     "dia": "20/08",
     "desde": "17:09",
     "ts": 1787256578604
-   },
-   {
-    "grupo": "J.C.C.(",
-    "dia": "20/08",
-    "desde": "13:07",
-    "ts": 1787242026479
    },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
@@ -289,16 +283,10 @@
     "ts": 1787256578604
    },
    {
-    "grupo": "C.C.P x WMS SUPERMERCADOS DO BRASIL LTDA",
+    "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
     "dia": "20/08",
-    "desde": "17:30",
-    "ts": 1787257853612
-   },
-   {
-    "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
-    "dia": "20/08",
-    "desde": "17:36",
-    "ts": 1787258218957
+    "desde": "17:47",
+    "ts": 1787258852917
    }
   ]
  },
@@ -389,15 +377,15 @@
  "agora": {
   "fila": 294,
   "abertos": 439,
-  "com_atendimento": 6,
-  "online": 4,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 3,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 2503
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 695838
+  "ultimo_lead_at": "2026-08-14T22:53:48.368Z",
+  "min_sem_lead": 8519
  },
  "leads": [
   {
