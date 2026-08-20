@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/08/2026, 17:22",
+ "gerado_em": "20/08/2026, 17:37",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 91,
   "mediana_geral": 0.5,
   "leads_7d": 300,
-  "tickets_abertos": 438,
+  "tickets_abertos": 439,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 13,
   "Previdenciario": 1,
+  "Nao identificada": 13,
   "Trabalhista": 20
  },
  "sem_resposta_lista": [],
@@ -89,15 +89,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 888,
-  "respondidos": 878,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "turnos": 892,
+  "respondidos": 881,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 2.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 657,
+    "respostas": 658,
     "mediana_min": 2.4
    },
    {
@@ -112,7 +112,7 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 29,
+    "respostas": 31,
     "mediana_min": 6.5
    },
    {
@@ -148,6 +148,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
+    "dia": "20/08",
+    "desde": "17:36",
+    "ts": 1787258218957
+   },
+   {
+    "grupo": "C.C.P x WMS SUPERMERCADOS DO BRASIL LTDA",
+    "dia": "20/08",
+    "desde": "17:30",
+    "ts": 1787257853612
+   },
+   {
     "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
     "dia": "20/08",
     "desde": "17:09",
@@ -200,12 +212,6 @@
     "dia": "19/08",
     "desde": "13:48",
     "ts": 1787158111035
-   },
-   {
-    "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
-    "dia": "17/08",
-    "desde": "19:20",
-    "ts": 1787005203152
    }
   ]
  },
@@ -229,12 +235,6 @@
   ],
   "grupos": [
    {
-    "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
-    "dia": "17/08",
-    "desde": "19:20",
-    "ts": 1787005203152
-   },
-   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "19/08",
     "desde": "13:48",
@@ -287,6 +287,18 @@
     "dia": "20/08",
     "desde": "17:09",
     "ts": 1787256578604
+   },
+   {
+    "grupo": "C.C.P x WMS SUPERMERCADOS DO BRASIL LTDA",
+    "dia": "20/08",
+    "desde": "17:30",
+    "ts": 1787257853612
+   },
+   {
+    "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
+    "dia": "20/08",
+    "desde": "17:36",
+    "ts": 1787258218957
    }
   ]
  },
@@ -375,8 +387,8 @@
   ]
  },
  "agora": {
-  "fila": 293,
-  "abertos": 438,
+  "fila": 294,
+  "abertos": 439,
   "com_atendimento": 6,
   "online": 4,
   "offline": 3,
@@ -384,21 +396,10 @@
   "espera_media_s": 2503
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T11:51:50.192Z",
-  "min_sem_lead": 4831
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 695838
  },
  "leads": [
-  {
-   "nome": "Fatinha José4298410311o",
-   "tel": "5532*****119",
-   "criado": "17:07",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/73927V0PX",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Rosana",
    "tel": "5512*****791",
@@ -409,6 +410,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h15Hso0z/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "Fatinha José4298410311o",
+   "tel": "5532*****119",
+   "criado": "17:07",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/73927V0PX",
+   "area": "Nao identificada"
   },
   {
    "nome": "Tatiane Barboza Tjb",
