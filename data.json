@@ -1,34 +1,42 @@
 {
- "gerado_em": "20/08/2026, 07:13",
+ "gerado_em": "20/08/2026, 07:28",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
+  "total": 8,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 6,
+  "fora_horario": 8,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 271,
-  "tickets_abertos": 414,
+  "leads_7d": 273,
+  "tickets_abertos": 416,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
+   "leads": 8,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 8,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "fb.me/7a58KGmA0",
    "leads": 2
+  },
+  {
+   "url": "fb.me/9QFJriUbK",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/7tRJWUSsI",
+   "leads": 1
   },
   {
    "url": "fb.me/4RpRFqGbv",
@@ -48,23 +56,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
-  "Nao identificada": 1
+  "Nao identificada": 2,
+  "Trabalhista": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 203,
-  "turnos": 736,
-  "respondidos": 730,
+  "turnos": 737,
+  "respondidos": 731,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 2.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 537,
+    "respostas": 538,
     "mediana_min": 2.5
    },
    {
@@ -294,19 +302,41 @@
   ]
  },
  "agora": {
-  "fila": 279,
-  "abertos": 414,
+  "fila": 281,
+  "abertos": 416,
   "com_atendimento": 6,
   "online": 0,
   "offline": 8,
   "ausentes": 0,
-  "espera_media_s": 3576
+  "espera_media_s": 3556
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 695214
+  "ultimo_lead_at": "2026-08-20T10:23:01.580Z",
+  "min_sem_lead": 6
  },
  "leads": [
+  {
+   "nome": "Manoel Deniz",
+   "tel": "5583*****908",
+   "criado": "07:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9QFJriUbK",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Carlos",
+   "tel": "5542*****389",
+   "criado": "07:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
   {
    "nome": "553192972203",
    "tel": "5531*****203",
