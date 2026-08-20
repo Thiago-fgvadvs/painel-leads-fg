@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/08/2026, 10:31",
+ "gerado_em": "20/08/2026, 10:46",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
+  "total": 14,
   "no_sla": 2,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 10,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 279,
-  "tickets_abertos": 410,
+  "leads_7d": 280,
+  "tickets_abertos": 412,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,7 +22,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -39,6 +39,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/kTYejxYr9",
+   "leads": 1
+  },
+  {
    "url": "fb.me/73927V0PX",
    "leads": 1
   },
@@ -53,31 +57,34 @@
   {
    "url": "fb.me/6bZ2VUBug",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 10,
   "Nao identificada": 4
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Rony.com",
+   "tel": "5511*****846",
+   "criado": "10:45",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 217,
-  "turnos": 762,
-  "respondidos": 752,
+  "grupos_ativos": 218,
+  "turnos": 768,
+  "respondidos": 758,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
   "mediana_min": 2.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 556,
-    "mediana_min": 2.4
+    "respostas": 562,
+    "mediana_min": 2.5
    },
    {
     "nome": "Nicolas",
@@ -127,16 +134,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
     "dia": "20/08",
-    "desde": "10:02",
-    "ts": 1787230937530
+    "desde": "10:28",
+    "ts": 1787232485673
    },
    {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
-    "dia": "20/08",
-    "desde": "09:57",
-    "ts": 1787230670338
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "19/08",
+    "desde": "11:06",
+    "ts": 1787148413074
    },
    {
     "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
@@ -214,6 +221,12 @@
     "ts": 1787005203152
    },
    {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "19/08",
+    "desde": "11:06",
+    "ts": 1787148413074
+   },
+   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "19/08",
     "desde": "13:48",
@@ -256,16 +269,10 @@
     "ts": 1787229217629
    },
    {
-    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
     "dia": "20/08",
-    "desde": "09:57",
-    "ts": 1787230670338
-   },
-   {
-    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
-    "dia": "20/08",
-    "desde": "10:02",
-    "ts": 1787230937530
+    "desde": "10:28",
+    "ts": 1787232485673
    }
   ]
  },
@@ -354,19 +361,30 @@
   ]
  },
  "agora": {
-  "fila": 278,
-  "abertos": 410,
-  "com_atendimento": 6,
-  "online": 5,
-  "offline": 3,
-  "ausentes": 0,
+  "fila": 279,
+  "abertos": 412,
+  "com_atendimento": 7,
+  "online": 2,
+  "offline": 2,
+  "ausentes": 4,
   "espera_media_s": 2644
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T15:59:06.986Z",
-  "min_sem_lead": 11372
+  "ultimo_lead_at": "2026-08-20T13:45:51.468Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "Rony.com",
+   "tel": "5511*****846",
+   "criado": "10:45",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/kTYejxYr9",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Em Deus Eu Posso Tudo 🙌",
    "tel": "5521*****829",
