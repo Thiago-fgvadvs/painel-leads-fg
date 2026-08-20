@@ -1,28 +1,28 @@
 {
- "gerado_em": "20/08/2026, 14:50",
+ "gerado_em": "20/08/2026, 15:05",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
-  "no_sla": 15,
+  "total": 29,
+  "no_sla": 18,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 11,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 292,
-  "tickets_abertos": 426,
+  "leads_7d": 295,
+  "tickets_abertos": 431,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 26,
+   "leads": 29,
    "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 26,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -39,6 +39,10 @@
    "leads": 3
   },
   {
+   "url": "fb.me/kTYejxYr9",
+   "leads": 2
+  },
+  {
    "url": "fb.me/6bZ2VUBug",
    "leads": 2
   },
@@ -47,42 +51,39 @@
    "leads": 2
   },
   {
-   "url": "fb.me/87jYMAhSB",
+   "url": "www.instagram.com/p/Db3h15Hso0z/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/Db0bYSYMvaF/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/kdSBBh9FE",
+   "url": "fb.me/4Vg6RqJcp",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 17,
-  "Nao identificada": 9
+  "Previdenciario": 1,
+  "Trabalhista": 18,
+  "Nao identificada": 10
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 222,
-  "turnos": 848,
-  "respondidos": 838,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "grupos_ativos": 223,
+  "turnos": 851,
+  "respondidos": 842,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 2.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 629,
+    "respostas": 631,
     "mediana_min": 2.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 81,
-    "mediana_min": 18.3
+    "respostas": 82,
+    "mediana_min": 17.5
    },
    {
     "nome": "Luisa",
@@ -91,8 +92,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 25,
-    "mediana_min": 3.7
+    "respostas": 26,
+    "mediana_min": 5.1
    },
    {
     "nome": "Eduardo",
@@ -127,22 +128,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
+    "grupo": "D.D.S.S x FUNDAÇÃO BRADESCO",
     "dia": "20/08",
-    "desde": "14:48",
-    "ts": 1787248121848
+    "desde": "15:02",
+    "ts": 1787248961781
    },
    {
     "grupo": "J.C.C.(",
     "dia": "20/08",
     "desde": "13:07",
     "ts": 1787242026479
-   },
-   {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "20/08",
-    "desde": "11:17",
-    "ts": 1787235449394
    },
    {
     "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
@@ -250,22 +245,16 @@
     "ts": 1787229217629
    },
    {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "20/08",
-    "desde": "11:17",
-    "ts": 1787235449394
-   },
-   {
     "grupo": "J.C.C.(",
     "dia": "20/08",
     "desde": "13:07",
     "ts": 1787242026479
    },
    {
-    "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
+    "grupo": "D.D.S.S x FUNDAÇÃO BRADESCO",
     "dia": "20/08",
-    "desde": "14:48",
-    "ts": 1787248121848
+    "desde": "15:02",
+    "ts": 1787248961781
    }
   ]
  },
@@ -354,19 +343,52 @@
   ]
  },
  "agora": {
-  "fila": 287,
-  "abertos": 426,
+  "fila": 289,
+  "abertos": 431,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 4,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 2558
+  "ausentes": 2,
+  "espera_media_s": 2534
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-04T17:11:20.220Z",
-  "min_sem_lead": 23079
+  "min_sem_lead": 23094
  },
  "leads": [
+  {
+   "nome": "Rosana",
+   "tel": "5512*****791",
+   "criado": "14:57",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h15Hso0z/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Rony",
+   "tel": "5511*****964",
+   "criado": "15:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/kTYejxYr9",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Maria Jose",
+   "tel": "5581*****770",
+   "criado": "14:50",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4Vg6RqJcp",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Jéssica Lustosa",
    "tel": "5511*****706",
@@ -390,7 +412,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5521983732914",
+   "nome": "Fernandinha💗",
    "tel": "5521*****914",
    "criado": "14:35",
    "atendente": "FG Advogados - Isadora ",
