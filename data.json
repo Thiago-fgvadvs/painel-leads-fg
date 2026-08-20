@@ -1,24 +1,24 @@
 {
- "gerado_em": "20/08/2026, 10:15",
+ "gerado_em": "20/08/2026, 10:31",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 13,
-  "no_sla": 1,
+  "no_sla": 2,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 10,
   "pct_sla": 100,
-  "mediana_geral": 0.4,
+  "mediana_geral": 0.5,
   "leads_7d": 279,
-  "tickets_abertos": 409,
+  "tickets_abertos": 410,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
-   "mediana_min": 0.4
+   "leads": 12,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
@@ -63,14 +63,7 @@
   "Trabalhista": 9,
   "Nao identificada": 4
  },
- "sem_resposta_lista": [
-  {
-   "nome": "5521979340829",
-   "tel": "5521*****829",
-   "criado": "10:15",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -211,13 +204,6 @@
     "dia": "19/08",
     "desde": "14:01",
     "ts": 1787158894991
-   },
-   {
-    "nome": "5521979340829",
-    "tel": "5521*****829",
-    "dia": "20/08",
-    "desde": "10:15",
-    "ts": 1787231748273
    }
   ],
   "grupos": [
@@ -368,32 +354,43 @@
   ]
  },
  "agora": {
-  "fila": 281,
-  "abertos": 409,
+  "fila": 278,
+  "abertos": 410,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 5,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 2659
+  "ausentes": 0,
+  "espera_media_s": 2644
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-20T13:15:48.273Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-08-12T15:59:06.986Z",
+  "min_sem_lead": 11372
  },
  "leads": [
   {
-   "nome": "5521979340829",
+   "nome": "Em Deus Eu Posso Tudo 🙌",
    "tel": "5521*****829",
    "criado": "10:15",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7a58KGmA0",
    "area": "Trabalhista"
   },
   {
-   "nome": "558287538824",
+   "nome": "marcio",
+   "tel": "5545*****201",
+   "criado": "00:02",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7a58KGmA0",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Massagem Homecare",
    "tel": "5582*****824",
    "criado": "07:51",
    "atendente": "FG Advogados - Isadora ",
@@ -500,17 +497,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "554598437201",
-   "tel": "5545*****201",
-   "criado": "00:02",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7a58KGmA0",
    "area": "Trabalhista"
   },
   {
