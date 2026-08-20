@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/08/2026, 11:01",
+ "gerado_em": "20/08/2026, 11:16",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 280,
-  "tickets_abertos": 412,
+  "tickets_abertos": 415,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,15 +68,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 776,
-  "respondidos": 766,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "turnos": 787,
+  "respondidos": 775,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
   "mediana_min": 2.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 570,
+    "respostas": 578,
     "mediana_min": 2.5
    },
    {
@@ -90,14 +90,14 @@
     "mediana_min": 1.1
    },
    {
+    "nome": "Roseli",
+    "respostas": 25,
+    "mediana_min": 3.7
+   },
+   {
     "nome": "Eduardo",
     "respostas": 24,
     "mediana_min": 12.5
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 24,
-    "mediana_min": 3.5
    },
    {
     "nome": "Gabrielle",
@@ -127,16 +127,28 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.R.R x INSS",
+    "dia": "20/08",
+    "desde": "11:14",
+    "ts": 1787235279666
+   },
+   {
+    "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
+    "dia": "20/08",
+    "desde": "11:11",
+    "ts": 1787235074659
+   },
+   {
+    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "20/08",
+    "desde": "10:36",
+    "ts": 1787232978676
+   },
+   {
     "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
     "dia": "20/08",
     "desde": "10:28",
     "ts": 1787232485673
-   },
-   {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "19/08",
-    "desde": "11:06",
-    "ts": 1787148413074
    },
    {
     "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
@@ -214,12 +226,6 @@
     "ts": 1787005203152
    },
    {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "19/08",
-    "desde": "11:06",
-    "ts": 1787148413074
-   },
-   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "19/08",
     "desde": "13:48",
@@ -266,6 +272,24 @@
     "dia": "20/08",
     "desde": "10:28",
     "ts": 1787232485673
+   },
+   {
+    "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
+    "dia": "20/08",
+    "desde": "10:36",
+    "ts": 1787232978676
+   },
+   {
+    "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
+    "dia": "20/08",
+    "desde": "11:11",
+    "ts": 1787235074659
+   },
+   {
+    "grupo": "L.R.R x INSS",
+    "dia": "20/08",
+    "desde": "11:14",
+    "ts": 1787235279666
    }
   ]
  },
@@ -354,17 +378,17 @@
   ]
  },
  "agora": {
-  "fila": 279,
-  "abertos": 412,
+  "fila": 280,
+  "abertos": 415,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 5,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 2644
+  "ausentes": 1,
+  "espera_media_s": 2645
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T11:22:55.129Z",
-  "min_sem_lead": 1599
+  "ultimo_lead_at": "2026-08-02T21:28:41.276Z",
+  "min_sem_lead": 25488
  },
  "leads": [
   {
