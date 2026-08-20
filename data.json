@@ -1,28 +1,28 @@
 {
- "gerado_em": "20/08/2026, 08:29",
+ "gerado_em": "20/08/2026, 08:44",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 0,
+  "total": 12,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 10,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 276,
-  "tickets_abertos": 418,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 277,
+  "tickets_abertos": 419,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
-   "mediana_min": null
+   "leads": 11,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -37,6 +37,10 @@
   {
    "url": "fb.me/7a58KGmA0",
    "leads": 2
+  },
+  {
+   "url": "fb.me/73927V0PX",
+   "leads": 1
   },
   {
    "url": "fb.me/9QFJriUbK",
@@ -56,23 +60,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
-  "Nao identificada": 3
+  "Nao identificada": 4,
+  "Trabalhista": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 205,
-  "turnos": 740,
-  "respondidos": 733,
+  "turnos": 742,
+  "respondidos": 735,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 2.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 540,
+    "respostas": 542,
     "mediana_min": 2.5
    },
    {
@@ -314,19 +318,30 @@
   ]
  },
  "agora": {
-  "fila": 283,
-  "abertos": 418,
+  "fila": 284,
+  "abertos": 419,
   "com_atendimento": 6,
   "online": 0,
   "offline": 7,
   "ausentes": 1,
-  "espera_media_s": 3537
+  "espera_media_s": 3527
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-20T10:16:13.700Z",
-  "min_sem_lead": 73
+  "ultimo_lead_at": "2026-08-20T11:43:56.176Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "557498068415",
+   "tel": "5574*****415",
+   "criado": "08:43",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/73927V0PX",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Carlos",
    "tel": "5542*****389",
