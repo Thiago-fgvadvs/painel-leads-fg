@@ -1,28 +1,28 @@
 {
- "gerado_em": "20/08/2026, 12:48",
+ "gerado_em": "20/08/2026, 13:03",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
+  "total": 21,
   "no_sla": 9,
   "fora_sla": 0,
-  "sem_resposta": 0,
-  "fora_horario": 10,
+  "sem_resposta": 1,
+  "fora_horario": 11,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 286,
-  "tickets_abertos": 421,
+  "leads_7d": 287,
+  "tickets_abertos": 426,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/Db1TYMhs6yc/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/7pOq3FOgO",
    "leads": 1
   },
@@ -53,25 +57,28 @@
   {
    "url": "fb.me/73927V0PX",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9QFJriUbK",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
-  "Nao identificada": 5
+  "Nao identificada": 6,
+  "Trabalhista": 15
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "556696484843",
+   "tel": "5566*****843",
+   "criado": "13:02",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 815,
-  "respondidos": 806,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "turnos": 818,
+  "respondidos": 808,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 2.7,
   "atendentes": [
    {
@@ -81,8 +88,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 80,
-    "mediana_min": 20.7
+    "respostas": 81,
+    "mediana_min": 18.3
    },
    {
     "nome": "Luisa",
@@ -101,8 +108,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 22,
-    "mediana_min": 4
+    "respostas": 23,
+    "mediana_min": 4.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -126,6 +133,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "20/08",
+    "desde": "12:52",
+    "ts": 1787241131649
+   },
    {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
     "dia": "20/08",
@@ -193,7 +206,7 @@
     "ts": 1787146046163
    },
    {
-    "nome": "558494034166",
+    "nome": ".",
     "tel": "5584*****166",
     "dia": "19/08",
     "desde": "14:01",
@@ -254,6 +267,12 @@
     "dia": "20/08",
     "desde": "12:38",
     "ts": 1787240316634
+   },
+   {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "20/08",
+    "desde": "12:52",
+    "ts": 1787241131649
    }
   ]
  },
@@ -342,21 +361,43 @@
   ]
  },
  "agora": {
-  "fila": 285,
-  "abertos": 421,
+  "fila": 288,
+  "abertos": 426,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 4,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 2601
+  "ausentes": 3,
+  "espera_media_s": 2573
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T01:58:19.540Z",
-  "min_sem_lead": 31070
+  "ultimo_lead_at": "2026-08-20T16:02:54.596Z",
+  "min_sem_lead": 1
  },
  "leads": [
   {
-   "nome": "Vilson",
+   "nome": "556696484843",
+   "tel": "5566*****843",
+   "criado": "13:02",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db1TYMhs6yc/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "558599597666",
+   "tel": "5585*****666",
+   "criado": "07:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 317.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "vilsonwahl7",
    "tel": "5554*****885",
    "criado": "11:57",
    "atendente": "FG Advogados - Isadora ",
@@ -510,7 +551,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553192972203",
+   "nome": "19/",
    "tel": "5531*****203",
    "criado": "06:17",
    "atendente": "FG Advogados - Isadora ",
@@ -543,7 +584,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "556992960927",
+   "nome": "Leandro",
    "tel": "5569*****927",
    "criado": "02:41",
    "atendente": "FG Advogados - Isadora ",
@@ -554,7 +595,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511972828627",
+   "nome": "Cláudio Dornelas",
    "tel": "5511*****627",
    "criado": "02:00",
    "atendente": "FG Advogados - Isadora ",
@@ -563,17 +604,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "558599597666",
-   "tel": "5585*****666",
-   "criado": "07:35",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   }
  ]
 }
