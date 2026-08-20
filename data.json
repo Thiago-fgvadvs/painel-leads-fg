@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/08/2026, 09:15",
+ "gerado_em": "20/08/2026, 09:30",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 277,
-  "tickets_abertos": 420,
+  "tickets_abertos": 421,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -67,22 +67,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 215,
-  "turnos": 745,
-  "respondidos": 737,
+  "grupos_ativos": 217,
+  "turnos": 751,
+  "respondidos": 743,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
   "mediana_min": 2.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 543,
+    "respostas": 548,
     "mediana_min": 2.5
    },
    {
     "nome": "Nicolas",
-    "respostas": 74,
-    "mediana_min": 25.3
+    "respostas": 75,
+    "mediana_min": 23.8
    },
    {
     "nome": "Luisa",
@@ -90,14 +90,14 @@
     "mediana_min": 1.1
    },
    {
-    "nome": "Roseli",
-    "respostas": 24,
-    "mediana_min": 3.5
-   },
-   {
     "nome": "Eduardo",
     "respostas": 24,
     "mediana_min": 12.5
+   },
+   {
+    "nome": "Roseli",
+    "respostas": 24,
+    "mediana_min": 3.5
    },
    {
     "nome": "Gabrielle",
@@ -127,10 +127,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "grupo": "I.F.M x INSS",
     "dia": "20/08",
-    "desde": "09:13",
-    "ts": 1787228023596
+    "desde": "09:29",
+    "ts": 1787228942627
    },
    {
     "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
@@ -238,10 +238,10 @@
     "ts": 1787224988600
    },
    {
-    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "grupo": "I.F.M x INSS",
     "dia": "20/08",
-    "desde": "09:13",
-    "ts": 1787228023596
+    "desde": "09:29",
+    "ts": 1787228942627
    }
   ]
  },
@@ -330,17 +330,17 @@
   ]
  },
  "agora": {
-  "fila": 284,
-  "abertos": 420,
+  "fila": 285,
+  "abertos": 421,
   "com_atendimento": 6,
-  "online": 1,
-  "offline": 7,
-  "ausentes": 0,
-  "espera_media_s": 3527
+  "online": 2,
+  "offline": 5,
+  "ausentes": 1,
+  "espera_media_s": 3517
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T12:00:09.504Z",
-  "min_sem_lead": 10095
+  "ultimo_lead_at": "2026-08-19T17:41:48.524Z",
+  "min_sem_lead": 1128
  },
  "leads": [
   {
