@@ -1,28 +1,33 @@
 {
- "gerado_em": "20/08/2026, 16:36",
+ "gerado_em": "20/08/2026, 16:52",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 31,
-  "no_sla": 18,
-  "fora_sla": 0,
-  "sem_resposta": 2,
+  "total": 32,
+  "no_sla": 19,
+  "fora_sla": 2,
+  "sem_resposta": 0,
   "fora_horario": 11,
-  "pct_sla": 100,
+  "pct_sla": 90,
   "mediana_geral": 0.5,
-  "leads_7d": 297,
-  "tickets_abertos": 433,
+  "leads_7d": 298,
+  "tickets_abertos": 434,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 29,
+   "leads": 30,
    "mediana_min": 0.5
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 2,
+   "mediana_min": 44.2
   }
  ],
  "origem": {
-  "Anuncio": 28,
+  "Anuncio": 29,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -51,41 +56,43 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/Db3h15Hso0z/",
+   "url": "www.instagram.com/p/Db3fLnNsEDx/",
    "leads": 1
   },
   {
-   "url": "fb.me/48vlxrFZR",
+   "url": "www.instagram.com/p/Db3h15Hso0z/",
    "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 20,
   "Previdenciario": 1,
-  "Trabalhista": 19,
   "Nao identificada": 11
  },
- "sem_resposta_lista": [
+ "sem_resposta_lista": [],
+ "fora_sla_lista": [
   {
-   "nome": "5519989689507",
+   "nome": "mendesademir469",
    "tel": "5519*****507",
    "criado": "16:02",
-   "area": "Trabalhista"
+   "espera_min": 43.6,
+   "atendente": "Tiago Bernardo"
   },
   {
    "nome": "Emanuelle De Jesus🤍",
    "tel": "5571*****820",
    "criado": "16:02",
-   "area": "Nao identificada"
+   "espera_min": 44.8,
+   "atendente": "Tiago Bernardo"
   }
  ],
- "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 882,
-  "respondidos": 873,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "turnos": 884,
+  "respondidos": 874,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 2.6,
   "atendentes": [
    {
@@ -95,8 +102,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 85,
-    "mediana_min": 18.3
+    "respostas": 86,
+    "mediana_min": 17.5
    },
    {
     "nome": "Luisa",
@@ -145,6 +152,12 @@
     "dia": "20/08",
     "desde": "13:07",
     "ts": 1787242026479
+   },
+   {
+    "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
+    "dia": "20/08",
+    "desde": "16:38",
+    "ts": 1787254704938
    },
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
@@ -212,20 +225,6 @@
     "dia": "19/08",
     "desde": "14:01",
     "ts": 1787158894991
-   },
-   {
-    "nome": "Emanuelle De Jesus🤍",
-    "tel": "5571*****820",
-    "dia": "20/08",
-    "desde": "16:02",
-    "ts": 1787252559911
-   },
-   {
-    "nome": "5519989689507",
-    "tel": "5519*****507",
-    "dia": "20/08",
-    "desde": "16:02",
-    "ts": 1787252569182
    }
   ],
   "grupos": [
@@ -282,6 +281,12 @@
     "dia": "20/08",
     "desde": "15:58",
     "ts": 1787252315905
+   },
+   {
+    "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
+    "dia": "20/08",
+    "desde": "16:38",
+    "ts": 1787254704938
    }
   ]
  },
@@ -370,19 +375,30 @@
   ]
  },
  "agora": {
-  "fila": 292,
-  "abertos": 433,
+  "fila": 291,
+  "abertos": 434,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 3,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 2529
+  "ausentes": 3,
+  "espera_media_s": 2523
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T09:03:48.332Z",
-  "min_sem_lead": 2073
+  "ultimo_lead_at": "2026-07-30T01:58:19.540Z",
+  "min_sem_lead": 31314
  },
  "leads": [
+  {
+   "nome": "Wendi Reis 🍀🩷",
+   "tel": "5514*****605",
+   "criado": "16:40",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.9,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3fLnNsEDx/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Rosana",
    "tel": "5512*****791",
@@ -395,12 +411,12 @@
    "area": "Previdenciario"
   },
   {
-   "nome": "5519989689507",
+   "nome": "mendesademir469",
    "tel": "5519*****507",
    "criado": "16:02",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 43.6,
+   "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/48vlxrFZR",
    "area": "Trabalhista"
@@ -409,9 +425,9 @@
    "nome": "Emanuelle De Jesus🤍",
    "tel": "5571*****820",
    "criado": "16:02",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 44.8,
+   "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DbyoAdIsARN/",
    "area": "Nao identificada"
