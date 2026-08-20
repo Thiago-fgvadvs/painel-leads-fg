@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/08/2026, 15:05",
+ "gerado_em": "20/08/2026, 15:20",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 295,
-  "tickets_abertos": 431,
+  "tickets_abertos": 434,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,16 +68,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 223,
-  "turnos": 851,
-  "respondidos": 842,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "grupos_ativos": 225,
+  "turnos": 854,
+  "respondidos": 844,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 2.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 631,
+    "respostas": 633,
     "mediana_min": 2.4
    },
    {
@@ -128,10 +128,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "D.D.S.S x FUNDAÇÃO BRADESCO",
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "20/08",
-    "desde": "15:02",
-    "ts": 1787248961781
+    "desde": "15:10",
+    "ts": 1787249401786
+   },
+   {
+    "grupo": "E.J.U.A x ARMAZEM URBANO COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
+    "dia": "20/08",
+    "desde": "14:53",
+    "ts": 1787248407834
    },
    {
     "grupo": "J.C.C.(",
@@ -251,10 +257,16 @@
     "ts": 1787242026479
    },
    {
-    "grupo": "D.D.S.S x FUNDAÇÃO BRADESCO",
+    "grupo": "E.J.U.A x ARMAZEM URBANO COMERCIO DE PRODUTOS ALIMENTICIOS LTDA",
     "dia": "20/08",
-    "desde": "15:02",
-    "ts": 1787248961781
+    "desde": "14:53",
+    "ts": 1787248407834
+   },
+   {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "20/08",
+    "desde": "15:10",
+    "ts": 1787249401786
    }
   ]
  },
@@ -343,17 +355,17 @@
   ]
  },
  "agora": {
-  "fila": 289,
-  "abertos": 431,
+  "fila": 288,
+  "abertos": 434,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 6,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 2534
+  "ausentes": 0,
+  "espera_media_s": 2527
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T17:11:20.220Z",
-  "min_sem_lead": 23094
+  "ultimo_lead_at": "2026-07-31T16:53:50.644Z",
+  "min_sem_lead": 28887
  },
  "leads": [
   {
