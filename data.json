@@ -1,15 +1,15 @@
 {
- "gerado_em": "20/08/2026, 10:46",
+ "gerado_em": "20/08/2026, 11:01",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 14,
-  "no_sla": 2,
+  "no_sla": 3,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 10,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
+  "mediana_geral": 0.4,
   "leads_7d": 280,
   "tickets_abertos": 412,
   "periodo_dias": 7
@@ -17,8 +17,8 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 12,
-   "mediana_min": 0.5
+   "leads": 13,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
@@ -63,27 +63,20 @@
   "Trabalhista": 10,
   "Nao identificada": 4
  },
- "sem_resposta_lista": [
-  {
-   "nome": "Rony.com",
-   "tel": "5511*****846",
-   "criado": "10:45",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 768,
-  "respondidos": 758,
+  "turnos": 776,
+  "respondidos": 766,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
   "mediana_min": 2.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 562,
+    "respostas": 570,
     "mediana_min": 2.5
    },
    {
@@ -97,14 +90,14 @@
     "mediana_min": 1.1
    },
    {
-    "nome": "Roseli",
-    "respostas": 24,
-    "mediana_min": 3.5
-   },
-   {
     "nome": "Eduardo",
     "respostas": 24,
     "mediana_min": 12.5
+   },
+   {
+    "nome": "Roseli",
+    "respostas": 24,
+    "mediana_min": 3.5
    },
    {
     "nome": "Gabrielle",
@@ -364,23 +357,23 @@
   "fila": 279,
   "abertos": 412,
   "com_atendimento": 7,
-  "online": 2,
+  "online": 4,
   "offline": 2,
-  "ausentes": 4,
+  "ausentes": 2,
   "espera_media_s": 2644
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-20T13:45:51.468Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-08-19T11:22:55.129Z",
+  "min_sem_lead": 1599
  },
  "leads": [
   {
    "nome": "Rony.com",
    "tel": "5511*****846",
    "criado": "10:45",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/kTYejxYr9",
    "area": "Trabalhista"
