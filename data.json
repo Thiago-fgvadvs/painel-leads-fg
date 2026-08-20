@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/08/2026, 14:04",
+ "gerado_em": "20/08/2026, 14:19",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 290,
-  "tickets_abertos": 425,
+  "tickets_abertos": 424,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,15 +68,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 222,
-  "turnos": 842,
-  "respondidos": 833,
+  "turnos": 843,
+  "respondidos": 834,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 2.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 624,
+    "respostas": 625,
     "mediana_min": 2.4
    },
    {
@@ -343,18 +343,29 @@
  },
  "agora": {
   "fila": 286,
-  "abertos": 425,
-  "com_atendimento": 8,
-  "online": 4,
-  "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 2565
+  "abertos": 424,
+  "com_atendimento": 7,
+  "online": 2,
+  "offline": 3,
+  "ausentes": 3,
+  "espera_media_s": 2572
  },
  "captacao": {
-  "ultimo_lead_at": "2026-04-08T13:17:44.446Z",
-  "min_sem_lead": 193187
+  "ultimo_lead_at": "2026-08-20T14:57:46.144Z",
+  "min_sem_lead": 142
  },
  "leads": [
+  {
+   "nome": "vilsonwahl7",
+   "tel": "5554*****885",
+   "criado": "11:57",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 9.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "eletricista",
    "tel": "5598*****704",
@@ -420,17 +431,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "vilsonwahl7",
-   "tel": "5554*****885",
-   "criado": "11:57",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 9.5,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
   },
   {
    "nome": "Prof. Djalma",
