@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/08/2026, 09:30",
+ "gerado_em": "20/08/2026, 09:45",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -68,21 +68,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 751,
-  "respondidos": 743,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "turnos": 753,
+  "respondidos": 746,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 548,
-    "mediana_min": 2.5
+    "respostas": 550,
+    "mediana_min": 2.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 75,
-    "mediana_min": 23.8
+    "respostas": 76,
+    "mediana_min": 23.5
    },
    {
     "nome": "Luisa",
@@ -126,12 +126,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "I.F.M x INSS",
-    "dia": "20/08",
-    "desde": "09:29",
-    "ts": 1787228942627
-   },
    {
     "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
     "dia": "20/08",
@@ -236,12 +230,6 @@
     "dia": "20/08",
     "desde": "08:23",
     "ts": 1787224988600
-   },
-   {
-    "grupo": "I.F.M x INSS",
-    "dia": "20/08",
-    "desde": "09:29",
-    "ts": 1787228942627
    }
   ]
  },
@@ -330,17 +318,17 @@
   ]
  },
  "agora": {
-  "fila": 285,
+  "fila": 281,
   "abertos": 421,
-  "com_atendimento": 6,
-  "online": 2,
-  "offline": 5,
-  "ausentes": 1,
+  "com_atendimento": 7,
+  "online": 3,
+  "offline": 3,
+  "ausentes": 2,
   "espera_media_s": 3517
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-19T17:41:48.524Z",
-  "min_sem_lead": 1128
+  "min_sem_lead": 1144
  },
  "leads": [
   {
