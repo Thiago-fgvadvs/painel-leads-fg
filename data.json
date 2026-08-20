@@ -1,29 +1,29 @@
 {
- "gerado_em": "20/08/2026, 12:17",
+ "gerado_em": "20/08/2026, 12:33",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
-  "no_sla": 7,
+  "total": 20,
+  "no_sla": 9,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 10,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 284,
-  "tickets_abertos": 417,
+  "leads_7d": 286,
+  "tickets_abertos": 419,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 17,
+   "leads": 19,
    "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 16,
-  "Direto/Indicacao": 2
+  "Anuncio": 17,
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -33,6 +33,10 @@
   {
    "url": "fb.me/7a58KGmA0",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/9QFJriUbK",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4RpRFqGbv",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 13,
+  "Trabalhista": 15,
   "Nao identificada": 5
  },
  "sem_resposta_lista": [],
@@ -68,21 +68,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 802,
-  "respondidos": 793,
+  "turnos": 810,
+  "respondidos": 801,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
-  "mediana_min": 2.7,
+  "mediana_min": 2.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 590,
+    "respostas": 595,
     "mediana_min": 2.5
    },
    {
     "nome": "Nicolas",
-    "respostas": 79,
-    "mediana_min": 18.3
+    "respostas": 80,
+    "mediana_min": 20.7
    },
    {
     "nome": "Luisa",
@@ -111,8 +111,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 6,
-    "mediana_min": 12.5
+    "respostas": 8,
+    "mediana_min": 5.2
    },
    {
     "nome": "—",
@@ -126,6 +126,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
+    "dia": "20/08",
+    "desde": "12:31",
+    "ts": 1787239886764
+   },
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "20/08",
@@ -143,12 +149,6 @@
     "dia": "20/08",
     "desde": "08:23",
     "ts": 1787224988600
-   },
-   {
-    "grupo": "P.L",
-    "dia": "19/08",
-    "desde": "18:16",
-    "ts": 1787174186470
    },
    {
     "grupo": "A.J.C",
@@ -232,12 +232,6 @@
     "ts": 1787168475452
    },
    {
-    "grupo": "P.L",
-    "dia": "19/08",
-    "desde": "18:16",
-    "ts": 1787174186470
-   },
-   {
     "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
     "dia": "20/08",
     "desde": "08:23",
@@ -254,6 +248,12 @@
     "dia": "20/08",
     "desde": "11:17",
     "ts": 1787235449394
+   },
+   {
+    "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
+    "dia": "20/08",
+    "desde": "12:31",
+    "ts": 1787239886764
    }
   ]
  },
@@ -342,19 +342,41 @@
   ]
  },
  "agora": {
-  "fila": 283,
-  "abertos": 417,
+  "fila": 284,
+  "abertos": 419,
   "com_atendimento": 6,
   "online": 5,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 2615
+  "espera_media_s": 2601
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T11:51:50.192Z",
-  "min_sem_lead": 4526
+  "ultimo_lead_at": "2026-08-20T15:21:43.527Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "Prof. Djalma",
+   "tel": "5581*****857",
+   "criado": "12:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Juliana Paulaluiz",
+   "tel": "5548*****454",
+   "criado": "12:26",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Vilson",
    "tel": "5554*****885",
@@ -367,7 +389,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511958492054",
+   "nome": "Bruno Jorge",
    "tel": "5511*****054",
    "criado": "11:49",
    "atendente": "FG Advogados - Isadora ",
