@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/08/2026, 16:21",
+ "gerado_em": "20/08/2026, 16:36",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 297,
-  "tickets_abertos": 434,
+  "tickets_abertos": 433,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -82,20 +82,20 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 880,
-  "respondidos": 869,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "turnos": 882,
+  "respondidos": 873,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 2.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 652,
+    "respostas": 654,
     "mediana_min": 2.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 83,
+    "respostas": 85,
     "mediana_min": 18.3
    },
    {
@@ -141,28 +141,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.D.S x INSS",
+    "grupo": "J.C.C.(",
     "dia": "20/08",
-    "desde": "16:19",
-    "ts": 1787253571580
-   },
-   {
-    "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
-    "dia": "20/08",
-    "desde": "15:59",
-    "ts": 1787252343896
+    "desde": "13:07",
+    "ts": 1787242026479
    },
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "20/08",
     "desde": "15:58",
     "ts": 1787252315905
-   },
-   {
-    "grupo": "J.C.C.(",
-    "dia": "20/08",
-    "desde": "13:07",
-    "ts": 1787242026479
    },
    {
     "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
@@ -294,18 +282,6 @@
     "dia": "20/08",
     "desde": "15:58",
     "ts": 1787252315905
-   },
-   {
-    "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
-    "dia": "20/08",
-    "desde": "15:59",
-    "ts": 1787252343896
-   },
-   {
-    "grupo": "L.D.S x INSS",
-    "dia": "20/08",
-    "desde": "16:19",
-    "ts": 1787253571580
    }
   ]
  },
@@ -394,17 +370,17 @@
   ]
  },
  "agora": {
-  "fila": 293,
-  "abertos": 434,
-  "com_atendimento": 7,
-  "online": 4,
+  "fila": 292,
+  "abertos": 433,
+  "com_atendimento": 6,
+  "online": 5,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 2534
+  "ausentes": 1,
+  "espera_media_s": 2529
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-20T17:57:44.338Z",
-  "min_sem_lead": 84
+  "ultimo_lead_at": "2026-08-19T09:03:48.332Z",
+  "min_sem_lead": 2073
  },
  "leads": [
   {
