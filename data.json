@@ -1,23 +1,23 @@
 {
- "gerado_em": "20/08/2026, 17:07",
+ "gerado_em": "20/08/2026, 17:22",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
-  "no_sla": 20,
+  "total": 34,
+  "no_sla": 21,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 11,
   "pct_sla": 91,
   "mediana_geral": 0.5,
-  "leads_7d": 299,
-  "tickets_abertos": 435,
+  "leads_7d": 300,
+  "tickets_abertos": 438,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 31,
+   "leads": 32,
    "mediana_min": 0.5
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 29,
+  "Anuncio": 30,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -44,6 +44,10 @@
    "leads": 3
   },
   {
+   "url": "fb.me/73927V0PX",
+   "leads": 2
+  },
+  {
    "url": "fb.me/kTYejxYr9",
    "leads": 2
   },
@@ -58,15 +62,11 @@
   {
    "url": "www.instagram.com/p/Db3h15Hso0z/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Db3fLnNsEDx/",
-   "leads": 1
   }
  ],
  "areas": {
+  "Nao identificada": 13,
   "Previdenciario": 1,
-  "Nao identificada": 12,
   "Trabalhista": 20
  },
  "sem_resposta_lista": [],
@@ -89,21 +89,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 885,
-  "respondidos": 874,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "turnos": 888,
+  "respondidos": 878,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 2.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 654,
+    "respostas": 657,
     "mediana_min": 2.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 86,
-    "mediana_min": 17.5
+    "respostas": 87,
+    "mediana_min": 18.3
    },
    {
     "nome": "Luisa",
@@ -150,8 +150,8 @@
    {
     "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
     "dia": "20/08",
-    "desde": "17:06",
-    "ts": 1787256372943
+    "desde": "17:09",
+    "ts": 1787256578604
    },
    {
     "grupo": "J.C.C.(",
@@ -170,12 +170,6 @@
     "dia": "20/08",
     "desde": "15:58",
     "ts": 1787252315905
-   },
-   {
-    "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
-    "dia": "20/08",
-    "desde": "09:33",
-    "ts": 1787229217629
    },
    {
     "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
@@ -271,12 +265,6 @@
     "ts": 1787224988600
    },
    {
-    "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
-    "dia": "20/08",
-    "desde": "09:33",
-    "ts": 1787229217629
-   },
-   {
     "grupo": "J.C.C.(",
     "dia": "20/08",
     "desde": "13:07",
@@ -297,8 +285,8 @@
    {
     "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
     "dia": "20/08",
-    "desde": "17:06",
-    "ts": 1787256372943
+    "desde": "17:09",
+    "ts": 1787256578604
    }
   ]
  },
@@ -387,19 +375,30 @@
   ]
  },
  "agora": {
-  "fila": 291,
-  "abertos": 435,
-  "com_atendimento": 7,
-  "online": 2,
+  "fila": 293,
+  "abertos": 438,
+  "com_atendimento": 6,
+  "online": 4,
   "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 2516
+  "ausentes": 1,
+  "espera_media_s": 2503
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-15T04:06:48.250Z",
-  "min_sem_lead": 8160
+  "ultimo_lead_at": "2026-08-17T11:51:50.192Z",
+  "min_sem_lead": 4831
  },
  "leads": [
+  {
+   "nome": "Fatinha José4298410311o",
+   "tel": "5532*****119",
+   "criado": "17:07",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/73927V0PX",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Rosana",
    "tel": "5512*****791",
