@@ -1,31 +1,35 @@
 {
- "gerado_em": "20/08/2026, 07:59",
+ "gerado_em": "20/08/2026, 08:14",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
+  "total": 11,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 9,
+  "fora_horario": 10,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 275,
-  "tickets_abertos": 417,
+  "leads_7d": 276,
+  "tickets_abertos": 418,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/7tRJWUSsI",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 2
@@ -33,10 +37,6 @@
   {
    "url": "fb.me/7a58KGmA0",
    "leads": 2
-  },
-  {
-   "url": "fb.me/7tRJWUSsI",
-   "leads": 1
   },
   {
    "url": "fb.me/9QFJriUbK",
@@ -56,14 +56,14 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 8,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 203,
+  "grupos_ativos": 205,
   "turnos": 738,
   "respondidos": 732,
   "sem_resposta": 6,
@@ -302,23 +302,34 @@
   ]
  },
  "agora": {
-  "fila": 282,
-  "abertos": 417,
+  "fila": 283,
+  "abertos": 418,
   "com_atendimento": 6,
   "online": 0,
-  "offline": 8,
-  "ausentes": 0,
-  "espera_media_s": 3546
+  "offline": 7,
+  "ausentes": 1,
+  "espera_media_s": 3537
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-20T10:16:13.700Z",
-  "min_sem_lead": 43
+  "min_sem_lead": 58
  },
  "leads": [
   {
    "nome": "Carlos",
    "tel": "5542*****389",
    "criado": "07:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5515996337154",
+   "tel": "5515*****154",
+   "criado": "07:59",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.5,
    "status": "FORA_HORARIO",
