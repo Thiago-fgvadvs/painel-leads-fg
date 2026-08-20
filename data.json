@@ -1,34 +1,34 @@
 {
- "gerado_em": "20/08/2026, 11:47",
+ "gerado_em": "20/08/2026, 12:02",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 5,
+  "total": 18,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 10,
   "pct_sla": 100,
-  "mediana_geral": 0.4,
-  "leads_7d": 282,
-  "tickets_abertos": 415,
+  "mediana_geral": 0.5,
+  "leads_7d": 284,
+  "tickets_abertos": 416,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 15,
-   "mediana_min": 0.4
+   "leads": 16,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 15,
-  "Direto/Indicacao": 1
+  "Anuncio": 16,
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "fb.me/7tRJWUSsI",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/7a58KGmA0",
@@ -60,29 +60,29 @@
   }
  ],
  "areas": {
-  "Nao identificada": 5,
-  "Trabalhista": 11
+  "Trabalhista": 12,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 795,
-  "respondidos": 785,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "turnos": 801,
+  "respondidos": 790,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 2.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 586,
+    "respostas": 589,
     "mediana_min": 2.5
    },
    {
     "nome": "Nicolas",
-    "respostas": 76,
-    "mediana_min": 23.5
+    "respostas": 78,
+    "mediana_min": 20.7
    },
    {
     "nome": "Luisa",
@@ -126,6 +126,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.R.R x INSS",
+    "dia": "20/08",
+    "desde": "11:58",
+    "ts": 1787237908740
+   },
    {
     "grupo": "R.P.G x MUNICIPIO DE MARACANAU",
     "dia": "20/08",
@@ -266,6 +272,12 @@
     "dia": "20/08",
     "desde": "11:44",
     "ts": 1787237058416
+   },
+   {
+    "grupo": "L.R.R x INSS",
+    "dia": "20/08",
+    "desde": "11:58",
+    "ts": 1787237908740
    }
   ]
  },
@@ -354,19 +366,30 @@
   ]
  },
  "agora": {
-  "fila": 282,
-  "abertos": 415,
+  "fila": 283,
+  "abertos": 416,
   "com_atendimento": 6,
   "online": 6,
-  "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 2623
+  "offline": 1,
+  "ausentes": 1,
+  "espera_media_s": 2615
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T01:58:19.540Z",
-  "min_sem_lead": 31009
+  "ultimo_lead_at": "2026-08-20T14:49:04.728Z",
+  "min_sem_lead": 13
  },
  "leads": [
+  {
+   "nome": "5511958492054",
+   "tel": "5511*****054",
+   "criado": "11:49",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Lauren Linda",
    "tel": "5553*****211",
@@ -531,6 +554,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "555491729885",
+   "tel": "5554*****885",
+   "criado": "11:57",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "558599597666",
