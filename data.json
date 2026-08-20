@@ -1,23 +1,23 @@
 {
- "gerado_em": "20/08/2026, 18:23",
+ "gerado_em": "20/08/2026, 18:38",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 35,
-  "no_sla": 22,
+  "total": 36,
+  "no_sla": 23,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 11,
   "pct_sla": 92,
   "mediana_geral": 0.5,
-  "leads_7d": 301,
-  "tickets_abertos": 436,
+  "leads_7d": 302,
+  "tickets_abertos": 437,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 33,
+   "leads": 34,
    "mediana_min": 0.5
   },
   {
@@ -27,20 +27,20 @@
   }
  ],
  "origem": {
-  "Anuncio": 31,
+  "Anuncio": 32,
   "Direto/Indicacao": 4
  },
  "criativos": [
+  {
+   "url": "fb.me/7a58KGmA0",
+   "leads": 4
+  },
   {
    "url": "fb.me/7tRJWUSsI",
    "leads": 4
   },
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 3
-  },
-  {
-   "url": "fb.me/7a58KGmA0",
    "leads": 3
   },
   {
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 21,
+  "Trabalhista": 22,
   "Previdenciario": 1,
   "Nao identificada": 13
  },
@@ -89,15 +89,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 905,
-  "respondidos": 897,
+  "turnos": 910,
+  "respondidos": 902,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
   "mediana_min": 2.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 668,
+    "respostas": 672,
     "mediana_min": 2.4
    },
    {
@@ -107,8 +107,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 37,
-    "mediana_min": 3.7
+    "respostas": 38,
+    "mediana_min": 3.5
    },
    {
     "nome": "Luisa",
@@ -150,8 +150,8 @@
    {
     "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
     "dia": "20/08",
-    "desde": "18:23",
-    "ts": 1787260980945
+    "desde": "18:26",
+    "ts": 1787261162992
    },
    {
     "grupo": "J.C.C.(",
@@ -261,8 +261,8 @@
    {
     "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
     "dia": "20/08",
-    "desde": "18:23",
-    "ts": 1787260980945
+    "desde": "18:26",
+    "ts": 1787261162992
    }
   ]
  },
@@ -351,19 +351,30 @@
   ]
  },
  "agora": {
-  "fila": 294,
-  "abertos": 436,
+  "fila": 295,
+  "abertos": 437,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 1,
   "offline": 5,
-  "ausentes": 0,
-  "espera_media_s": 2509
+  "ausentes": 2,
+  "espera_media_s": 2503
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-20T21:12:53.935Z",
-  "min_sem_lead": 11
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 695899
  },
  "leads": [
+  {
+   "nome": "554792930688",
+   "tel": "5547*****688",
+   "criado": "18:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7a58KGmA0",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Gustavo",
    "tel": "5551*****350",
