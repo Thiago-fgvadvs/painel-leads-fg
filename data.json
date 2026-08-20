@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/08/2026, 15:51",
+ "gerado_em": "20/08/2026, 16:06",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
+  "total": 31,
   "no_sla": 18,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 2,
   "fora_horario": 11,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 295,
-  "tickets_abertos": 431,
+  "leads_7d": 297,
+  "tickets_abertos": 432,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,7 +22,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 26,
+  "Anuncio": 28,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -55,29 +55,42 @@
    "leads": 1
   },
   {
-   "url": "fb.me/4Vg6RqJcp",
+   "url": "fb.me/48vlxrFZR",
    "leads": 1
   }
  ],
  "areas": {
   "Previdenciario": 1,
-  "Trabalhista": 18,
-  "Nao identificada": 10
+  "Trabalhista": 19,
+  "Nao identificada": 11
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5519989689507",
+   "tel": "5519*****507",
+   "criado": "16:02",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Emanuelle De Jesus🤍",
+   "tel": "5571*****820",
+   "criado": "16:02",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 867,
-  "respondidos": 857,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "turnos": 873,
+  "respondidos": 862,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 2.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 643,
+    "respostas": 646,
     "mediana_min": 2.4
    },
    {
@@ -92,13 +105,13 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 28,
-    "mediana_min": 5.8
+    "respostas": 29,
+    "mediana_min": 6.5
    },
    {
     "nome": "Gabrielle",
-    "respostas": 24,
-    "mediana_min": 4
+    "respostas": 25,
+    "mediana_min": 4.3
    },
    {
     "nome": "Eduardo",
@@ -128,16 +141,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "J.C.C.(",
+    "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
     "dia": "20/08",
-    "desde": "13:07",
-    "ts": 1787242026479
+    "desde": "15:59",
+    "ts": 1787252343896
    },
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "20/08",
-    "desde": "15:42",
-    "ts": 1787251364897
+    "desde": "15:58",
+    "ts": 1787252315905
+   },
+   {
+    "grupo": "J.C.C.(",
+    "dia": "20/08",
+    "desde": "13:07",
+    "ts": 1787242026479
    },
    {
     "grupo": "P.L",
@@ -205,6 +224,20 @@
     "dia": "19/08",
     "desde": "14:01",
     "ts": 1787158894991
+   },
+   {
+    "nome": "Emanuelle De Jesus🤍",
+    "tel": "5571*****820",
+    "dia": "20/08",
+    "desde": "16:02",
+    "ts": 1787252559911
+   },
+   {
+    "nome": "5519989689507",
+    "tel": "5519*****507",
+    "dia": "20/08",
+    "desde": "16:02",
+    "ts": 1787252569182
    }
   ],
   "grupos": [
@@ -265,8 +298,14 @@
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "20/08",
-    "desde": "15:42",
-    "ts": 1787251364897
+    "desde": "15:58",
+    "ts": 1787252315905
+   },
+   {
+    "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
+    "dia": "20/08",
+    "desde": "15:59",
+    "ts": 1787252343896
    }
   ]
  },
@@ -355,17 +394,17 @@
   ]
  },
  "agora": {
-  "fila": 290,
-  "abertos": 431,
+  "fila": 292,
+  "abertos": 432,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 4,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 2527
+  "ausentes": 2,
+  "espera_media_s": 2534
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T01:58:19.540Z",
-  "min_sem_lead": 31253
+  "ultimo_lead_at": "2026-08-15T04:06:48.250Z",
+  "min_sem_lead": 8100
  },
  "leads": [
   {
@@ -378,6 +417,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h15Hso0z/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "5519989689507",
+   "tel": "5519*****507",
+   "criado": "16:02",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/48vlxrFZR",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Emanuelle De Jesus🤍",
+   "tel": "5571*****820",
+   "criado": "16:02",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyoAdIsARN/",
+   "area": "Nao identificada"
   },
   {
    "nome": "Rony",
