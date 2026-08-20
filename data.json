@@ -1,23 +1,23 @@
 {
- "gerado_em": "20/08/2026, 16:52",
+ "gerado_em": "20/08/2026, 17:07",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 32,
-  "no_sla": 19,
+  "total": 33,
+  "no_sla": 20,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 11,
-  "pct_sla": 90,
+  "pct_sla": 91,
   "mediana_geral": 0.5,
-  "leads_7d": 298,
-  "tickets_abertos": 434,
+  "leads_7d": 299,
+  "tickets_abertos": 435,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 30,
+   "leads": 31,
    "mediana_min": 0.5
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 29,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -56,18 +56,18 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/Db3fLnNsEDx/",
+   "url": "www.instagram.com/p/Db3h15Hso0z/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/Db3h15Hso0z/",
+   "url": "www.instagram.com/p/Db3fLnNsEDx/",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 20,
   "Previdenciario": 1,
-  "Nao identificada": 11
+  "Nao identificada": 12,
+  "Trabalhista": 20
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -89,10 +89,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 884,
+  "turnos": 885,
   "respondidos": 874,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 2.6,
   "atendentes": [
    {
@@ -147,6 +147,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
+    "dia": "20/08",
+    "desde": "17:06",
+    "ts": 1787256372943
+   },
    {
     "grupo": "J.C.C.(",
     "dia": "20/08",
@@ -287,6 +293,12 @@
     "dia": "20/08",
     "desde": "16:38",
     "ts": 1787254704938
+   },
+   {
+    "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
+    "dia": "20/08",
+    "desde": "17:06",
+    "ts": 1787256372943
    }
   ]
  },
@@ -376,29 +388,18 @@
  },
  "agora": {
   "fila": 291,
-  "abertos": 434,
-  "com_atendimento": 6,
-  "online": 3,
-  "offline": 2,
+  "abertos": 435,
+  "com_atendimento": 7,
+  "online": 2,
+  "offline": 3,
   "ausentes": 3,
-  "espera_media_s": 2523
+  "espera_media_s": 2516
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T01:58:19.540Z",
-  "min_sem_lead": 31314
+  "ultimo_lead_at": "2026-08-15T04:06:48.250Z",
+  "min_sem_lead": 8160
  },
  "leads": [
-  {
-   "nome": "Wendi Reis 🍀🩷",
-   "tel": "5514*****605",
-   "criado": "16:40",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.9,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Db3fLnNsEDx/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Rosana",
    "tel": "5512*****791",
@@ -409,6 +410,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h15Hso0z/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "Tatiane Barboza Tjb",
+   "tel": "5551*****001",
+   "criado": "16:53",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Wendi Reis 🍀🩷",
+   "tel": "5514*****605",
+   "criado": "16:40",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.9,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3fLnNsEDx/",
+   "area": "Trabalhista"
   },
   {
    "nome": "mendesademir469",
