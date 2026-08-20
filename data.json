@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/08/2026, 08:14",
+ "gerado_em": "20/08/2026, 08:29",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -64,15 +64,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 205,
-  "turnos": 738,
-  "respondidos": 732,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "turnos": 740,
+  "respondidos": 733,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 539,
+    "respostas": 540,
     "mediana_min": 2.5
    },
    {
@@ -86,14 +86,14 @@
     "mediana_min": 1.1
    },
    {
-    "nome": "Eduardo",
-    "respostas": 24,
-    "mediana_min": 12.5
-   },
-   {
     "nome": "Roseli",
     "respostas": 24,
     "mediana_min": 3.5
+   },
+   {
+    "nome": "Eduardo",
+    "respostas": 24,
+    "mediana_min": 12.5
    },
    {
     "nome": "Gabrielle",
@@ -122,6 +122,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
+    "dia": "20/08",
+    "desde": "08:23",
+    "ts": 1787224988600
+   },
    {
     "grupo": "P.L",
     "dia": "19/08",
@@ -214,6 +220,12 @@
     "dia": "19/08",
     "desde": "18:16",
     "ts": 1787174186470
+   },
+   {
+    "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
+    "dia": "20/08",
+    "desde": "08:23",
+    "ts": 1787224988600
    }
   ]
  },
@@ -312,7 +324,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-20T10:16:13.700Z",
-  "min_sem_lead": 58
+  "min_sem_lead": 73
  },
  "leads": [
   {
