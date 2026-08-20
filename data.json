@@ -1,23 +1,23 @@
 {
- "gerado_em": "20/08/2026, 18:54",
+ "gerado_em": "20/08/2026, 19:09",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 36,
+  "total": 37,
   "no_sla": 23,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 11,
+  "fora_horario": 12,
   "pct_sla": 92,
   "mediana_geral": 0.5,
-  "leads_7d": 302,
-  "tickets_abertos": 436,
+  "leads_7d": 303,
+  "tickets_abertos": 437,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 34,
+   "leads": 35,
    "mediana_min": 0.5
   },
   {
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 32,
+  "Anuncio": 33,
   "Direto/Indicacao": 4
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "leads": 4
+  },
   {
    "url": "fb.me/7a58KGmA0",
    "leads": 4
@@ -38,10 +42,6 @@
   {
    "url": "fb.me/7tRJWUSsI",
    "leads": 4
-  },
-  {
-   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "leads": 3
   },
   {
    "url": "fb.me/73927V0PX",
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 22,
+  "Trabalhista": 23,
   "Previdenciario": 1,
   "Nao identificada": 13
  },
@@ -89,15 +89,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 911,
-  "respondidos": 904,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 914,
+  "respondidos": 908,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 2.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 673,
+    "respostas": 674,
     "mediana_min": 2.4
    },
    {
@@ -107,7 +107,7 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 39,
+    "respostas": 41,
     "mediana_min": 3.7
    },
    {
@@ -127,8 +127,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 11,
-    "mediana_min": 81.9
+    "respostas": 12,
+    "mediana_min": 69.2
    },
    {
     "nome": "Tiago Bernardo",
@@ -164,12 +164,6 @@
     "dia": "20/08",
     "desde": "15:58",
     "ts": 1787252315905
-   },
-   {
-    "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
-    "dia": "20/08",
-    "desde": "08:23",
-    "ts": 1787224988600
    },
    {
     "grupo": "A.J.C",
@@ -227,12 +221,6 @@
     "dia": "19/08",
     "desde": "16:41",
     "ts": 1787168475452
-   },
-   {
-    "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
-    "dia": "20/08",
-    "desde": "08:23",
-    "ts": 1787224988600
    },
    {
     "grupo": "J.C.C.(",
@@ -339,19 +327,30 @@
   ]
  },
  "agora": {
-  "fila": 295,
-  "abertos": 436,
+  "fila": 296,
+  "abertos": 437,
   "com_atendimento": 6,
   "online": 2,
-  "offline": 5,
-  "ausentes": 1,
-  "espera_media_s": 2503
+  "offline": 6,
+  "ausentes": 0,
+  "espera_media_s": 2496
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 695914
+  "ultimo_lead_at": "2026-08-20T22:02:07.399Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "553184077345",
+   "tel": "5531*****345",
+   "criado": "19:02",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "554792930688",
    "tel": "5547*****688",
