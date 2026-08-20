@@ -1,16 +1,16 @@
 {
- "gerado_em": "20/08/2026, 10:00",
+ "gerado_em": "20/08/2026, 10:15",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
+  "total": 13,
   "no_sla": 1,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 10,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 277,
+  "leads_7d": 279,
   "tickets_abertos": 409,
   "periodo_dias": 7
  },
@@ -22,20 +22,20 @@
   }
  ],
  "origem": {
-  "Anuncio": 11,
+  "Anuncio": 12,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/7a58KGmA0",
+   "leads": 3
+  },
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 2
   },
   {
    "url": "fb.me/7tRJWUSsI",
-   "leads": 2
-  },
-  {
-   "url": "fb.me/7a58KGmA0",
    "leads": 2
   },
   {
@@ -60,23 +60,30 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
+  "Trabalhista": 9,
   "Nao identificada": 4
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5521979340829",
+   "tel": "5521*****829",
+   "criado": "10:15",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 755,
-  "respondidos": 746,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "turnos": 762,
+  "respondidos": 752,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 2.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 550,
+    "respostas": 556,
     "mediana_min": 2.4
    },
    {
@@ -90,14 +97,14 @@
     "mediana_min": 1.1
    },
    {
-    "nome": "Eduardo",
-    "respostas": 24,
-    "mediana_min": 12.5
-   },
-   {
     "nome": "Roseli",
     "respostas": 24,
     "mediana_min": 3.5
+   },
+   {
+    "nome": "Eduardo",
+    "respostas": 24,
+    "mediana_min": 12.5
    },
    {
     "nome": "Gabrielle",
@@ -126,6 +133,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "20/08",
+    "desde": "10:02",
+    "ts": 1787230937530
+   },
    {
     "grupo": "E.M.D.S.G x TURQUEZA TECIDOS E VESTUARIOS S/A",
     "dia": "20/08",
@@ -198,6 +211,13 @@
     "dia": "19/08",
     "desde": "14:01",
     "ts": 1787158894991
+   },
+   {
+    "nome": "5521979340829",
+    "tel": "5521*****829",
+    "dia": "20/08",
+    "desde": "10:15",
+    "ts": 1787231748273
    }
   ],
   "grupos": [
@@ -254,6 +274,12 @@
     "dia": "20/08",
     "desde": "09:57",
     "ts": 1787230670338
+   },
+   {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "20/08",
+    "desde": "10:02",
+    "ts": 1787230937530
    }
   ]
  },
@@ -342,19 +368,30 @@
   ]
  },
  "agora": {
-  "fila": 279,
+  "fila": 281,
   "abertos": 409,
-  "com_atendimento": 7,
-  "online": 3,
+  "com_atendimento": 6,
+  "online": 4,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 2652
+  "ausentes": 1,
+  "espera_media_s": 2659
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T17:41:48.524Z",
-  "min_sem_lead": 1159
+  "ultimo_lead_at": "2026-08-20T13:15:48.273Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "5521979340829",
+   "tel": "5521*****829",
+   "criado": "10:15",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7a58KGmA0",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558287538824",
    "tel": "5582*****824",
@@ -367,7 +404,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "557498068415",
+   "nome": "kuxe",
    "tel": "5574*****415",
    "criado": "08:43",
    "atendente": "FG Advogados - Isadora ",
@@ -389,7 +426,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5515996337154",
+   "nome": "João Celio",
    "tel": "5515*****154",
    "criado": "07:59",
    "atendente": "FG Advogados - Isadora ",
@@ -422,7 +459,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "559185582525",
+   "nome": "Boock Maly",
    "tel": "5591*****525",
    "criado": "04:39",
    "atendente": "FG Advogados - Isadora ",
