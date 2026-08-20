@@ -1,23 +1,23 @@
 {
- "gerado_em": "20/08/2026, 18:08",
+ "gerado_em": "20/08/2026, 18:23",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 34,
-  "no_sla": 21,
+  "total": 35,
+  "no_sla": 22,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 11,
-  "pct_sla": 91,
+  "pct_sla": 92,
   "mediana_geral": 0.5,
-  "leads_7d": 300,
-  "tickets_abertos": 435,
+  "leads_7d": 301,
+  "tickets_abertos": 436,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 32,
+   "leads": 33,
    "mediana_min": 0.5
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 30,
+  "Anuncio": 31,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -60,14 +60,14 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/Db3h15Hso0z/",
+   "url": "fb.me/bNvX4h9Vo",
    "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 21,
   "Previdenciario": 1,
-  "Nao identificada": 13,
-  "Trabalhista": 20
+  "Nao identificada": 13
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -89,15 +89,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 903,
-  "respondidos": 893,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "turnos": 905,
+  "respondidos": 897,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 665,
+    "respostas": 668,
     "mediana_min": 2.4
    },
    {
@@ -107,8 +107,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 36,
-    "mediana_min": 3.5
+    "respostas": 37,
+    "mediana_min": 3.7
    },
    {
     "nome": "Luisa",
@@ -148,22 +148,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
+    "dia": "20/08",
+    "desde": "18:23",
+    "ts": 1787260980945
+   },
+   {
     "grupo": "J.C.C.(",
     "dia": "20/08",
     "desde": "13:07",
     "ts": 1787242026479
-   },
-   {
-    "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
-    "dia": "20/08",
-    "desde": "17:47",
-    "ts": 1787258852917
-   },
-   {
-    "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
-    "dia": "20/08",
-    "desde": "17:09",
-    "ts": 1787256578604
    },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
@@ -194,12 +188,6 @@
     "dia": "19/08",
     "desde": "16:41",
     "ts": 1787168475452
-   },
-   {
-    "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
-    "dia": "19/08",
-    "desde": "16:07",
-    "ts": 1787166451317
    },
    {
     "grupo": "Z.D.F.M.M.D.A.C",
@@ -241,12 +229,6 @@
     "ts": 1787158378039
    },
    {
-    "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
-    "dia": "19/08",
-    "desde": "16:07",
-    "ts": 1787166451317
-   },
-   {
     "grupo": "R.R.S x COBE SERVICOS DE COBRANCAS LTDA",
     "dia": "19/08",
     "desde": "16:41",
@@ -277,16 +259,10 @@
     "ts": 1787254704938
    },
    {
-    "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
+    "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
     "dia": "20/08",
-    "desde": "17:09",
-    "ts": 1787256578604
-   },
-   {
-    "grupo": "J.H.V x FUNERARIA SANTA EDWIGES LTDA",
-    "dia": "20/08",
-    "desde": "17:47",
-    "ts": 1787258852917
+    "desde": "18:23",
+    "ts": 1787260980945
    }
   ]
  },
@@ -375,19 +351,30 @@
   ]
  },
  "agora": {
-  "fila": 293,
-  "abertos": 435,
+  "fila": 294,
+  "abertos": 436,
   "com_atendimento": 6,
   "online": 3,
-  "offline": 4,
-  "ausentes": 1,
+  "offline": 5,
+  "ausentes": 0,
   "espera_media_s": 2509
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 695868
+  "ultimo_lead_at": "2026-08-20T21:12:53.935Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "Gustavo",
+   "tel": "5551*****350",
+   "criado": "18:12",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/bNvX4h9Vo",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Rosana",
    "tel": "5512*****791",
