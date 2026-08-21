@@ -1,16 +1,16 @@
 {
- "gerado_em": "21/08/2026, 16:41",
+ "gerado_em": "21/08/2026, 16:57",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
+  "total": 25,
   "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 305,
+  "leads_7d": 306,
   "tickets_abertos": 443,
   "periodo_dias": 7
  },
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 22,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -39,11 +39,11 @@
    "leads": 1
   },
   {
-   "url": "fb.me/7a58KGmA0",
+   "url": "fb.me/43tXytZoW",
    "leads": 1
   },
   {
-   "url": "fb.me/43tXytZoW",
+   "url": "fb.me/7a58KGmA0",
    "leads": 1
   },
   {
@@ -61,7 +61,7 @@
  ],
  "areas": {
   "Trabalhista": 18,
-  "Nao identificada": 6
+  "Nao identificada": 7
  },
  "sem_resposta_lista": [
   {
@@ -300,8 +300,8 @@
   "espera_media_s": 615
  },
  "captacao": {
-  "ultimo_lead_at": "2025-11-03T12:28:59.280Z",
-  "min_sem_lead": 419473
+  "ultimo_lead_at": "2026-08-19T17:41:48.524Z",
+  "min_sem_lead": 3015
  },
  "leads": [
   {
@@ -313,6 +313,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/6xTo5qKHa",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Paula😉",
+   "tel": "5547*****362",
+   "criado": "14:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/43tXytZoW",
    "area": "Trabalhista"
   },
   {
@@ -335,17 +346,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7a58KGmA0",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Paula😉",
-   "tel": "5547*****362",
-   "criado": "14:25",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/43tXytZoW",
    "area": "Trabalhista"
   },
   {
@@ -564,6 +564,17 @@
    "atendente": "—",
    "espera_min": null,
    "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "558491134437",
+   "tel": "5584*****437",
+   "criado": "16:43",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
