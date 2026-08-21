@@ -1,45 +1,45 @@
 {
- "gerado_em": "21/08/2026, 16:57",
+ "gerado_em": "21/08/2026, 17:12",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
-  "no_sla": 21,
+  "total": 26,
+  "no_sla": 22,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 306,
+  "leads_7d": 307,
   "tickets_abertos": 443,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 23,
+   "leads": 24,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 23,
   "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "fb.me/73927V0PX",
+   "leads": 3
+  },
   {
    "url": "fb.me/4RpRFqGbv",
    "leads": 2
   },
   {
-   "url": "fb.me/73927V0PX",
-   "leads": 2
-  },
-  {
-   "url": "fb.me/6xTo5qKHa",
+   "url": "fb.me/43tXytZoW",
    "leads": 1
   },
   {
-   "url": "fb.me/43tXytZoW",
+   "url": "fb.me/6xTo5qKHa",
    "leads": 1
   },
   {
@@ -61,7 +61,7 @@
  ],
  "areas": {
   "Trabalhista": 18,
-  "Nao identificada": 7
+  "Nao identificada": 8
  },
  "sem_resposta_lista": [
   {
@@ -75,15 +75,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 919,
-  "respondidos": 914,
+  "turnos": 920,
+  "respondidos": 915,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 718,
+    "respostas": 719,
     "mediana_min": 2.3
    },
    {
@@ -183,13 +183,6 @@
     "dia": "21/08",
     "desde": "05:38",
     "ts": 1787301481397
-   },
-   {
-    "nome": "559691807087",
-    "tel": "5596*****087",
-    "dia": "21/08",
-    "desde": "16:37",
-    "ts": 1787341026051
    }
   ],
   "grupos": [
@@ -294,16 +287,27 @@
   "fila": 333,
   "abertos": 443,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 5,
   "offline": 2,
-  "ausentes": 4,
-  "espera_media_s": 615
+  "ausentes": 1,
+  "espera_media_s": 613
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T17:41:48.524Z",
-  "min_sem_lead": 3015
+  "ultimo_lead_at": "2026-08-21T17:25:05.431Z",
+  "min_sem_lead": 167
  },
  "leads": [
+  {
+   "nome": "Paula😉",
+   "tel": "5547*****362",
+   "criado": "14:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/43tXytZoW",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Uno Carneiro",
    "tel": "5521*****908",
@@ -316,15 +320,15 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Paula😉",
-   "tel": "5547*****362",
-   "criado": "14:25",
+   "nome": "Gilda",
+   "tel": "5583*****519",
+   "criado": "16:58",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/43tXytZoW",
-   "area": "Trabalhista"
+   "criativo": "fb.me/73927V0PX",
+   "area": "Nao identificada"
   },
   {
    "nome": "559691807087",
