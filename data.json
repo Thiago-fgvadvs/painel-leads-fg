@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/08/2026, 09:36",
+ "gerado_em": "21/08/2026, 09:51",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -7,17 +7,17 @@
   "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 1,
+  "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 287,
-  "tickets_abertos": 463,
+  "tickets_abertos": 464,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": 0.4
   }
  ],
@@ -44,18 +44,18 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3,
-  "Nao identificada": 3
+  "Nao identificada": 3,
+  "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 205,
-  "turnos": 849,
-  "respondidos": 843,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "grupos_ativos": 206,
+  "turnos": 851,
+  "respondidos": 844,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.4,
   "atendentes": [
    {
@@ -79,14 +79,14 @@
     "mediana_min": 3.7
    },
    {
+    "nome": "Eduardo",
+    "respostas": 23,
+    "mediana_min": 8
+   },
+   {
     "nome": "Gabrielle",
     "respostas": 22,
     "mediana_min": 4
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 22,
-    "mediana_min": 8.2
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -105,6 +105,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "C.C.P x INSS",
+    "dia": "21/08",
+    "desde": "09:47",
+    "ts": 1787316435162
+   },
    {
     "grupo": "J.C.C.(",
     "dia": "20/08",
@@ -197,6 +203,12 @@
     "dia": "20/08",
     "desde": "16:38",
     "ts": 1787254704938
+   },
+   {
+    "grupo": "C.C.P x INSS",
+    "dia": "21/08",
+    "desde": "09:47",
+    "ts": 1787316435162
    }
   ]
  },
@@ -257,19 +269,30 @@
   ]
  },
  "agora": {
-  "fila": 322,
-  "abertos": 463,
-  "com_atendimento": 7,
-  "online": 2,
-  "offline": 4,
-  "ausentes": 2,
-  "espera_media_s": 2361
+  "fila": 323,
+  "abertos": 464,
+  "com_atendimento": 6,
+  "online": 4,
+  "offline": 3,
+  "ausentes": 1,
+  "espera_media_s": 2355
  },
  "captacao": {
-  "ultimo_lead_at": "2025-12-06T06:06:43.024Z",
-  "min_sem_lead": 371909
+  "ultimo_lead_at": "2026-08-11T17:59:43.161Z",
+  "min_sem_lead": 14092
  },
  "leads": [
+  {
+   "nome": "Roberto",
+   "tel": "5538*****534",
+   "criado": "07:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 124.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Fernando Asconavieta",
    "tel": "5548*****392",
@@ -318,17 +341,6 @@
    "nome": "553597493535",
    "tel": "5535*****535",
    "criado": "05:38",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553891490534",
-   "tel": "5538*****534",
-   "criado": "07:32",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
