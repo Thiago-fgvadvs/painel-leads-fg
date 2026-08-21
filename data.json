@@ -1,31 +1,35 @@
 {
- "gerado_em": "21/08/2026, 10:06",
+ "gerado_em": "21/08/2026, 10:22",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 3,
+  "total": 7,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 287,
-  "tickets_abertos": 465,
+  "leads_7d": 288,
+  "tickets_abertos": 466,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
+   "leads": 6,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "fb.me/73927V0PX",
+   "leads": 1
+  },
   {
    "url": "fb.me/kTYejxYr9",
    "leads": 1
@@ -44,7 +48,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
+  "Nao identificada": 4,
   "Trabalhista": 3
  },
  "sem_resposta_lista": [],
@@ -52,15 +56,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 207,
-  "turnos": 853,
-  "respondidos": 845,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "turnos": 858,
+  "respondidos": 851,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 660,
+    "respostas": 663,
     "mediana_min": 2.3
    },
    {
@@ -74,19 +78,19 @@
     "mediana_min": 1.1
    },
    {
+    "nome": "Gabrielle",
+    "respostas": 25,
+    "mediana_min": 2.5
+   },
+   {
     "nome": "Roseli",
     "respostas": 25,
     "mediana_min": 3.7
    },
    {
-    "nome": "Gabrielle",
-    "respostas": 23,
-    "mediana_min": 3.7
-   },
-   {
     "nome": "Eduardo",
-    "respostas": 23,
-    "mediana_min": 8
+    "respostas": 24,
+    "mediana_min": 8.2
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -108,20 +112,14 @@
    {
     "grupo": "T.B x DROGARIA SAO PAULO S A",
     "dia": "21/08",
-    "desde": "10:06",
-    "ts": 1787317585128
+    "desde": "10:12",
+    "ts": 1787317979133
    },
    {
     "grupo": "J.C.C.(",
     "dia": "20/08",
     "desde": "13:07",
     "ts": 1787242026479
-   },
-   {
-    "grupo": "C.C.P x INSS",
-    "dia": "21/08",
-    "desde": "09:47",
-    "ts": 1787316435162
    },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
@@ -211,16 +209,10 @@
     "ts": 1787254704938
    },
    {
-    "grupo": "C.C.P x INSS",
-    "dia": "21/08",
-    "desde": "09:47",
-    "ts": 1787316435162
-   },
-   {
     "grupo": "T.B x DROGARIA SAO PAULO S A",
     "dia": "21/08",
-    "desde": "10:06",
-    "ts": 1787317585128
+    "desde": "10:12",
+    "ts": 1787317979133
    }
   ]
  },
@@ -282,18 +274,29 @@
  },
  "agora": {
   "fila": 323,
-  "abertos": 465,
-  "com_atendimento": 6,
-  "online": 3,
-  "offline": 3,
-  "ausentes": 2,
+  "abertos": 466,
+  "com_atendimento": 7,
+  "online": 5,
+  "offline": 2,
+  "ausentes": 1,
   "espera_media_s": 2355
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T21:28:41.276Z",
-  "min_sem_lead": 26858
+  "ultimo_lead_at": "2026-08-20T22:02:07.399Z",
+  "min_sem_lead": 920
  },
  "leads": [
+  {
+   "nome": "Lázaro Sarmento",
+   "tel": "5587*****585",
+   "criado": "10:12",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/73927V0PX",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Roberto",
    "tel": "5538*****534",
