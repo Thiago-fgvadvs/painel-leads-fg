@@ -1,17 +1,17 @@
 {
- "gerado_em": "21/08/2026, 19:15",
+ "gerado_em": "21/08/2026, 19:30",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 29,
   "no_sla": 22,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 3,
+  "sem_resposta": 0,
+  "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 310,
-  "tickets_abertos": 445,
+  "tickets_abertos": 444,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,6 +19,11 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 25,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": null
   }
  ],
  "origem": {
@@ -60,30 +65,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 19,
-  "Nao identificada": 10
+  "Nao identificada": 10,
+  "Trabalhista": 19
  },
- "sem_resposta_lista": [
-  {
-   "nome": "553597493535",
-   "tel": "5535*****535",
-   "criado": "05:38",
-   "area": "Nao identificada"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 220,
-  "turnos": 937,
-  "respondidos": 932,
+  "turnos": 939,
+  "respondidos": 934,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 735,
+    "respostas": 737,
     "mediana_min": 2.3
    },
    {
@@ -185,14 +183,7 @@
     "ts": 1787301481397
    },
    {
-    "nome": "Uno Carneiro",
-    "tel": "5521*****908",
-    "dia": "21/08",
-    "desde": "16:06",
-    "ts": 1787339204891
-   },
-   {
-    "nome": "559691807087",
+    "nome": "Claudia Celeste",
     "tel": "5596*****087",
     "dia": "21/08",
     "desde": "16:37",
@@ -206,7 +197,7 @@
     "ts": 1787342285516
    },
    {
-    "nome": "553183240295",
+    "nome": "Juliana ❤️",
     "tel": "5531*****295",
     "dia": "21/08",
     "desde": "19:03",
@@ -312,19 +303,30 @@
   ]
  },
  "agora": {
-  "fila": 336,
-  "abertos": 445,
+  "fila": 332,
+  "abertos": 444,
   "com_atendimento": 6,
   "online": 2,
   "offline": 6,
   "ausentes": 0,
-  "espera_media_s": 586
+  "espera_media_s": 709
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T17:41:48.524Z",
-  "min_sem_lead": 3153
+  "ultimo_lead_at": "2026-08-05T17:54:06.579Z",
+  "min_sem_lead": 23317
  },
  "leads": [
+  {
+   "nome": "553597493535",
+   "tel": "5535*****535",
+   "criado": "05:38",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 829.8,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Paula😉",
    "tel": "5547*****362",
@@ -337,7 +339,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "553183240295",
+   "nome": "Juliana ❤️",
    "tel": "5531*****295",
    "criado": "19:03",
    "atendente": "FG Advogados - Isadora ",
@@ -381,7 +383,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "559691807087",
+   "nome": "Claudia Celeste",
    "tel": "5596*****087",
    "criado": "16:37",
    "atendente": "FG Advogados - Isadora ",
@@ -601,28 +603,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553597493535",
-   "tel": "5535*****535",
-   "criado": "05:38",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "558491134437",
-   "tel": "5584*****437",
-   "criado": "16:43",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "5511966709276",
    "tel": "5511*****276",
    "criado": "18:25",
@@ -637,6 +617,17 @@
    "nome": "556784737130",
    "tel": "5567*****130",
    "criado": "18:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "558491134437",
+   "tel": "5584*****437",
+   "criado": "16:43",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
