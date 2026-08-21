@@ -1,31 +1,39 @@
 {
- "gerado_em": "21/08/2026, 10:37",
+ "gerado_em": "21/08/2026, 10:53",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 4,
+  "total": 9,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 288,
+  "leads_7d": 290,
   "tickets_abertos": 467,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
+   "leads": 8,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 7,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "fb.me/25jexRbTaO",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DbwRIUTsccb/",
+   "leads": 1
+  },
   {
    "url": "fb.me/48vlxrFZR",
    "leads": 1
@@ -48,7 +56,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3,
+  "Trabalhista": 5,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
@@ -56,15 +64,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 210,
-  "turnos": 862,
-  "respondidos": 855,
+  "turnos": 867,
+  "respondidos": 860,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 667,
+    "respostas": 671,
     "mediana_min": 2.3
    },
    {
@@ -79,8 +87,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 25,
-    "mediana_min": 2.5
+    "respostas": 26,
+    "mediana_min": 3.1
    },
    {
     "nome": "Roseli",
@@ -110,10 +118,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "T.B x DROGARIA SAO PAULO S A",
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "20/08",
+    "desde": "15:58",
+    "ts": 1787252315905
+   },
+   {
+    "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
     "dia": "21/08",
-    "desde": "10:12",
-    "ts": 1787317979133
+    "desde": "10:42",
+    "ts": 1787319743150
    },
    {
     "grupo": "J.C.C.(",
@@ -126,12 +140,6 @@
     "dia": "20/08",
     "desde": "16:38",
     "ts": 1787254704938
-   },
-   {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "20/08",
-    "desde": "15:58",
-    "ts": 1787252315905
    },
    {
     "grupo": "A.J.C",
@@ -209,10 +217,10 @@
     "ts": 1787254704938
    },
    {
-    "grupo": "T.B x DROGARIA SAO PAULO S A",
+    "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
     "dia": "21/08",
-    "desde": "10:12",
-    "ts": 1787317979133
+    "desde": "10:42",
+    "ts": 1787319743150
    }
   ]
  },
@@ -273,19 +281,41 @@
   ]
  },
  "agora": {
-  "fila": 321,
+  "fila": 320,
   "abertos": 467,
   "com_atendimento": 6,
   "online": 5,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 2355
+  "espera_media_s": 2349
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-20T22:02:07.399Z",
-  "min_sem_lead": 935
+  "ultimo_lead_at": "2026-08-17T14:28:44.132Z",
+  "min_sem_lead": 5724
  },
  "leads": [
+  {
+   "nome": "5516996499988",
+   "tel": "5516*****988",
+   "criado": "10:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/25jexRbTaO",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553197643835",
+   "tel": "5531*****835",
+   "criado": "10:49",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbwRIUTsccb/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Eva Cilene Nunes Rosa",
    "tel": "5531*****784",
