@@ -1,54 +1,58 @@
 {
- "gerado_em": "21/08/2026, 08:29",
+ "gerado_em": "21/08/2026, 08:45",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 0,
+  "total": 4,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 284,
-  "tickets_abertos": 458,
+  "pct_sla": 100,
+  "mediana_geral": 0.8,
+  "leads_7d": 285,
+  "tickets_abertos": 459,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 1,
-   "mediana_min": null
+   "leads": 2,
+   "mediana_min": 0.8
   }
  ],
  "origem": {
-  "Anuncio": 1,
+  "Anuncio": 2,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "fb.me/48vlxrFZR",
    "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DbyoAdIsARN/",
+   "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 1,
-  "Nao identificada": 2
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 200,
-  "turnos": 838,
-  "respondidos": 832,
+  "turnos": 839,
+  "respondidos": 833,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 2.5,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 651,
+    "respostas": 652,
     "mediana_min": 2.3
    },
    {
@@ -245,17 +249,17 @@
   ]
  },
  "agora": {
-  "fila": 317,
-  "abertos": 458,
+  "fila": 318,
+  "abertos": 459,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2378
+  "espera_media_s": 2372
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-21T10:54:50.922Z",
-  "min_sem_lead": 35
+  "min_sem_lead": 50
  },
  "leads": [
   {
@@ -268,6 +272,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/48vlxrFZR",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5511952728342",
+   "tel": "5511*****342",
+   "criado": "08:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DbyoAdIsARN/",
+   "area": "Nao identificada"
   },
   {
    "nome": "553597493535",
