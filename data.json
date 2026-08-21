@@ -1,23 +1,23 @@
 {
- "gerado_em": "21/08/2026, 20:32",
+ "gerado_em": "21/08/2026, 20:48",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
+  "total": 31,
   "no_sla": 22,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 4,
+  "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 311,
-  "tickets_abertos": 444,
+  "leads_7d": 312,
+  "tickets_abertos": 445,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 24,
+  "Anuncio": 25,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "fb.me/4RpRFqGbv",
    "leads": 2
+  },
+  {
+   "url": "fb.me/6hYkdh3KX",
+   "leads": 1
   },
   {
    "url": "fb.me/43tXytZoW",
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/7a1xvbpgp",
    "leads": 1
-  },
-  {
-   "url": "fb.me/annW3H6uu",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 11,
-  "Trabalhista": 19
+  "Trabalhista": 20,
+  "Nao identificada": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -202,6 +202,13 @@
     "dia": "21/08",
     "desde": "19:03",
     "ts": 1787349805722
+   },
+   {
+    "nome": "5521966566279",
+    "tel": "5521*****279",
+    "dia": "21/08",
+    "desde": "20:35",
+    "ts": 1787355312518
    }
   ],
   "grupos": [
@@ -303,19 +310,30 @@
   ]
  },
  "agora": {
-  "fila": 329,
-  "abertos": 444,
+  "fila": 330,
+  "abertos": 445,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 709
+  "espera_media_s": 707
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T10:29:32.168Z",
-  "min_sem_lead": 3663
+  "ultimo_lead_at": "2026-08-21T23:35:12.518Z",
+  "min_sem_lead": 13
  },
  "leads": [
+  {
+   "nome": "5521966566279",
+   "tel": "5521*****279",
+   "criado": "20:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6hYkdh3KX",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Lázaro Sarmento",
    "tel": "5587*****585",
