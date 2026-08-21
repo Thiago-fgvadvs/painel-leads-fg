@@ -1,31 +1,35 @@
 {
- "gerado_em": "21/08/2026, 11:54",
+ "gerado_em": "21/08/2026, 12:09",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 8,
+  "total": 12,
+  "no_sla": 9,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 292,
-  "tickets_abertos": 462,
+  "leads_7d": 293,
+  "tickets_abertos": 444,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "fb.me/73927V0PX",
+   "leads": 2
+  },
   {
    "url": "fb.me/25jexRbTaO",
    "leads": 1
@@ -51,32 +55,28 @@
    "leads": 1
   },
   {
-   "url": "fb.me/73927V0PX",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/Db3fLTAMrbo/",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 7,
-  "Nao identificada": 4
+  "Nao identificada": 5,
+  "Trabalhista": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 213,
-  "turnos": 881,
-  "respondidos": 875,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "turnos": 882,
+  "respondidos": 877,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 683,
+    "respostas": 685,
     "mediana_min": 2.3
    },
    {
@@ -121,12 +121,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
-    "dia": "21/08",
-    "desde": "11:48",
-    "ts": 1787323722947
-   },
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "21/08",
@@ -207,12 +201,6 @@
     "dia": "21/08",
     "desde": "10:54",
     "ts": 1787320495167
-   },
-   {
-    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
-    "dia": "21/08",
-    "desde": "11:48",
-    "ts": 1787323722947
    }
   ]
  },
@@ -273,19 +261,30 @@
   ]
  },
  "agora": {
-  "fila": 319,
-  "abertos": 462,
+  "fila": 321,
+  "abertos": 444,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 3,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 2120
+  "ausentes": 3,
+  "espera_media_s": 2202
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T01:28:33.527Z",
-  "min_sem_lead": 16646
+  "ultimo_lead_at": "2026-08-20T22:02:07.399Z",
+  "min_sem_lead": 1027
  },
  "leads": [
+  {
+   "nome": "Pedro Airton",
+   "tel": "5588*****272",
+   "criado": "12:04",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/73927V0PX",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Mestre",
    "tel": "5516*****988",
