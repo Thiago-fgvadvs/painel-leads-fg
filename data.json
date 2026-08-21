@@ -1,23 +1,23 @@
 {
- "gerado_em": "20/08/2026, 21:41",
+ "gerado_em": "20/08/2026, 21:57",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 46,
+  "total": 47,
   "no_sla": 23,
   "fora_sla": 2,
-  "sem_resposta": 1,
-  "fora_horario": 20,
+  "sem_resposta": 0,
+  "fora_horario": 22,
   "pct_sla": 92,
   "mediana_geral": 0.5,
-  "leads_7d": 312,
-  "tickets_abertos": 447,
+  "leads_7d": 313,
+  "tickets_abertos": 448,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 43,
+   "leads": 45,
    "mediana_min": 0.5
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 41,
+  "Anuncio": 42,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -44,12 +44,12 @@
    "leads": 5
   },
   {
-   "url": "fb.me/73927V0PX",
+   "url": "fb.me/bNvX4h9Vo",
    "leads": 3
   },
   {
-   "url": "fb.me/bNvX4h9Vo",
-   "leads": 2
+   "url": "fb.me/73927V0PX",
+   "leads": 3
   },
   {
    "url": "fb.me/kTYejxYr9",
@@ -65,18 +65,11 @@
   }
  ],
  "areas": {
+  "Trabalhista": 31,
   "Nao identificada": 15,
-  "Trabalhista": 30,
   "Previdenciario": 1
  },
- "sem_resposta_lista": [
-  {
-   "nome": "Deus é Fiel 🙌",
-   "tel": "5591*****925",
-   "criado": "21:41",
-   "area": "Nao identificada"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [
   {
    "nome": "mendesademir469",
@@ -96,15 +89,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 229,
-  "turnos": 918,
-  "respondidos": 912,
+  "turnos": 919,
+  "respondidos": 913,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 2.6,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 678,
+    "respostas": 679,
     "mediana_min": 2.4
    },
    {
@@ -208,13 +201,6 @@
     "dia": "19/08",
     "desde": "14:01",
     "ts": 1787158894991
-   },
-   {
-    "nome": "Deus é Fiel 🙌",
-    "tel": "5591*****925",
-    "dia": "20/08",
-    "desde": "21:41",
-    "ts": 1787272891200
    }
   ],
   "grupos": [
@@ -341,30 +327,19 @@
   ]
  },
  "agora": {
-  "fila": 306,
-  "abertos": 447,
+  "fila": 307,
+  "abertos": 448,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2445
+  "espera_media_s": 2433
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-21T00:41:31.200Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 696098
  },
  "leads": [
-  {
-   "nome": "Deus é Fiel 🙌",
-   "tel": "5591*****925",
-   "criado": "21:41",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4NSAy14MY",
-   "area": "Nao identificada"
-  },
   {
    "nome": "556799874977",
    "tel": "5567*****977",
@@ -375,6 +350,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7tRJWUSsI",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "553499973255",
+   "tel": "5534*****255",
+   "criado": "21:44",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/bNvX4h9Vo",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Deus é Fiel 🙌",
+   "tel": "5591*****925",
+   "criado": "21:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4NSAy14MY",
+   "area": "Nao identificada"
   },
   {
    "nome": "Suerlane",
