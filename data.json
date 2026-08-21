@@ -1,34 +1,42 @@
 {
- "gerado_em": "21/08/2026, 12:40",
+ "gerado_em": "21/08/2026, 12:55",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 9,
+  "total": 13,
+  "no_sla": 10,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 293,
-  "tickets_abertos": 427,
+  "leads_7d": 294,
+  "tickets_abertos": 430,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
+   "leads": 12,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "fb.me/73927V0PX",
    "leads": 2
+  },
+  {
+   "url": "fb.me/4RpRFqGbv",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/7a58KGmA0",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
@@ -43,40 +51,39 @@
    "leads": 1
   },
   {
-   "url": "fb.me/7a58KGmA0",
-   "leads": 1
-  },
-  {
    "url": "fb.me/kTYejxYr9",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DbwRIUTsccb/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Db3fLTAMrbo/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 8,
   "Nao identificada": 5
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "553597493535",
+   "tel": "5535*****535",
+   "criado": "05:38",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 213,
-  "turnos": 890,
-  "respondidos": 885,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "turnos": 892,
+  "respondidos": 886,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 692,
+    "respostas": 693,
     "mediana_min": 2.3
    },
    {
@@ -121,6 +128,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
+    "dia": "21/08",
+    "desde": "12:33",
+    "ts": 1787326387245
+   },
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "21/08",
@@ -169,6 +182,13 @@
     "dia": "19/08",
     "desde": "14:01",
     "ts": 1787158894991
+   },
+   {
+    "nome": "553597493535",
+    "tel": "5535*****535",
+    "dia": "21/08",
+    "desde": "05:38",
+    "ts": 1787301481397
    }
   ],
   "grupos": [
@@ -201,6 +221,12 @@
     "dia": "21/08",
     "desde": "10:54",
     "ts": 1787320495167
+   },
+   {
+    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
+    "dia": "21/08",
+    "desde": "12:33",
+    "ts": 1787326387245
    }
   ]
  },
@@ -261,19 +287,41 @@
   ]
  },
  "agora": {
-  "fila": 322,
-  "abertos": 427,
-  "com_atendimento": 6,
-  "online": 5,
-  "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 606
+  "fila": 326,
+  "abertos": 430,
+  "com_atendimento": 7,
+  "online": 1,
+  "offline": 3,
+  "ausentes": 4,
+  "espera_media_s": 601
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T14:05:24.217Z",
-  "min_sem_lead": 11615
+  "ultimo_lead_at": "2025-12-06T06:06:43.024Z",
+  "min_sem_lead": 372109
  },
  "leads": [
+  {
+   "nome": "Adriana Rocha",
+   "tel": "5551*****755",
+   "criado": "12:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4RpRFqGbv",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "valdecirluciano",
+   "tel": "5528*****576",
+   "criado": "10:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7a58KGmA0",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Zel Cardoso",
    "tel": "5514*****009",
@@ -319,17 +367,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5528999014576",
-   "tel": "5528*****576",
-   "criado": "10:56",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7a58KGmA0",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Fernando Asconavieta",
    "tel": "5548*****392",
    "criado": "08:49",
@@ -341,7 +378,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "553197643835",
+   "nome": "Alessandra Roberta",
    "tel": "5531*****835",
    "criado": "10:49",
    "atendente": "FG Advogados - Isadora ",
@@ -385,7 +422,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511952728342",
+   "nome": ".",
    "tel": "5511*****342",
    "criado": "08:34",
    "atendente": "FG Advogados - Isadora ",
@@ -401,7 +438,7 @@
    "criado": "05:38",
    "atendente": "—",
    "espera_min": null,
-   "status": "RESOLVIDO",
+   "status": "SEM_RESPOSTA",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
