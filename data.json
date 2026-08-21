@@ -1,28 +1,28 @@
 {
- "gerado_em": "21/08/2026, 18:59",
+ "gerado_em": "21/08/2026, 19:15",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 28,
+  "total": 29,
   "no_sla": 22,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 2,
+  "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 309,
-  "tickets_abertos": 444,
+  "leads_7d": 310,
+  "tickets_abertos": 445,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 24,
+   "leads": 25,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 24,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -36,6 +36,10 @@
   },
   {
    "url": "fb.me/43tXytZoW",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/Db0dln6sawH/",
    "leads": 1
   },
   {
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/annW3H6uu",
    "leads": 1
-  },
-  {
-   "url": "fb.me/ey4Q1TKSH",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 18,
+  "Trabalhista": 19,
   "Nao identificada": 10
  },
  "sem_resposta_lista": [
@@ -75,15 +75,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 220,
-  "turnos": 934,
-  "respondidos": 930,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
+  "turnos": 937,
+  "respondidos": 932,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 733,
+    "respostas": 735,
     "mediana_min": 2.3
    },
    {
@@ -128,6 +128,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "21/08",
+    "desde": "19:05",
+    "ts": 1787349935420
+   },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
     "dia": "20/08",
@@ -179,11 +185,32 @@
     "ts": 1787301481397
    },
    {
+    "nome": "Uno Carneiro",
+    "tel": "5521*****908",
+    "dia": "21/08",
+    "desde": "16:06",
+    "ts": 1787339204891
+   },
+   {
+    "nome": "559691807087",
+    "tel": "5596*****087",
+    "dia": "21/08",
+    "desde": "16:37",
+    "ts": 1787341026051
+   },
+   {
     "nome": "Gilda",
     "tel": "5583*****519",
     "dia": "21/08",
     "desde": "16:58",
     "ts": 1787342285516
+   },
+   {
+    "nome": "553183240295",
+    "tel": "5531*****295",
+    "dia": "21/08",
+    "desde": "19:03",
+    "ts": 1787349805722
    }
   ],
   "grupos": [
@@ -210,6 +237,12 @@
     "dia": "20/08",
     "desde": "16:38",
     "ts": 1787254704938
+   },
+   {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "21/08",
+    "desde": "19:05",
+    "ts": 1787349935420
    }
   ]
  },
@@ -279,17 +312,17 @@
   ]
  },
  "agora": {
-  "fila": 334,
-  "abertos": 444,
+  "fila": 336,
+  "abertos": 445,
   "com_atendimento": 6,
   "online": 2,
   "offline": 6,
   "ausentes": 0,
-  "espera_media_s": 584
+  "espera_media_s": 586
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-21T17:25:05.431Z",
-  "min_sem_lead": 275
+  "ultimo_lead_at": "2026-08-19T17:41:48.524Z",
+  "min_sem_lead": 3153
  },
  "leads": [
   {
@@ -301,6 +334,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/43tXytZoW",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553183240295",
+   "tel": "5531*****295",
+   "criado": "19:03",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 2.2,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db0dln6sawH/",
    "area": "Trabalhista"
   },
   {
