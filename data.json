@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/08/2026, 21:26",
+ "gerado_em": "20/08/2026, 21:41",
  "data_ref": "20/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 45,
+  "total": 46,
   "no_sla": 23,
   "fora_sla": 2,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 20,
   "pct_sla": 92,
   "mediana_geral": 0.5,
-  "leads_7d": 311,
-  "tickets_abertos": 445,
+  "leads_7d": 312,
+  "tickets_abertos": 447,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,16 +27,16 @@
   }
  ],
  "origem": {
-  "Anuncio": 40,
+  "Anuncio": 41,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
+   "url": "fb.me/7tRJWUSsI",
    "leads": 6
   },
   {
-   "url": "fb.me/7tRJWUSsI",
+   "url": "www.instagram.com/p/Dbq0WNmMz4z/",
    "leads": 6
   },
   {
@@ -65,11 +65,18 @@
   }
  ],
  "areas": {
+  "Nao identificada": 15,
   "Trabalhista": 30,
-  "Nao identificada": 14,
   "Previdenciario": 1
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Deus é Fiel 🙌",
+   "tel": "5591*****925",
+   "criado": "21:41",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [
   {
    "nome": "mendesademir469",
@@ -201,6 +208,13 @@
     "dia": "19/08",
     "desde": "14:01",
     "ts": 1787158894991
+   },
+   {
+    "nome": "Deus é Fiel 🙌",
+    "tel": "5591*****925",
+    "dia": "20/08",
+    "desde": "21:41",
+    "ts": 1787272891200
    }
   ],
   "grupos": [
@@ -327,8 +341,8 @@
   ]
  },
  "agora": {
-  "fila": 304,
-  "abertos": 445,
+  "fila": 306,
+  "abertos": 447,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
@@ -336,20 +350,20 @@
   "espera_media_s": 2445
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-20T23:59:17.317Z",
-  "min_sem_lead": 27
+  "ultimo_lead_at": "2026-08-21T00:41:31.200Z",
+  "min_sem_lead": 0
  },
  "leads": [
   {
-   "nome": "Suerlane",
-   "tel": "5587*****258",
-   "criado": "20:59",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
+   "nome": "Deus é Fiel 🙌",
+   "tel": "5591*****925",
+   "criado": "21:41",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
-   "area": "Trabalhista"
+   "criativo": "fb.me/4NSAy14MY",
+   "area": "Nao identificada"
   },
   {
    "nome": "556799874977",
@@ -360,6 +374,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/7tRJWUSsI",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Suerlane",
+   "tel": "5587*****258",
+   "criado": "20:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
   },
   {
