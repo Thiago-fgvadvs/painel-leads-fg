@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/08/2026, 15:13",
+ "gerado_em": "21/08/2026, 15:29",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 303,
-  "tickets_abertos": 440,
+  "tickets_abertos": 441,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -31,6 +31,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/43tXytZoW",
+   "leads": 1
+  },
+  {
    "url": "fb.me/7a1xvbpgp",
    "leads": 1
   },
@@ -40,10 +44,6 @@
   },
   {
    "url": "fb.me/ey4Q1TKSH",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/43tXytZoW",
    "leads": 1
   },
   {
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
-  "Trabalhista": 16
+  "Trabalhista": 16,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [
   {
@@ -75,8 +75,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 910,
-  "respondidos": 905,
+  "turnos": 911,
+  "respondidos": 906,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.4,
@@ -88,8 +88,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 67,
-    "mediana_min": 14.6
+    "respostas": 68,
+    "mediana_min": 14.4
    },
    {
     "nome": "Luisa",
@@ -284,19 +284,30 @@
   ]
  },
  "agora": {
-  "fila": 332,
-  "abertos": 440,
+  "fila": 331,
+  "abertos": 441,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 3,
   "offline": 2,
-  "ausentes": 2,
+  "ausentes": 3,
   "espera_media_s": 616
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-20T23:16:16.426Z",
-  "min_sem_lead": 1137
+  "min_sem_lead": 1153
  },
  "leads": [
+  {
+   "nome": "Paula😉",
+   "tel": "5547*****362",
+   "criado": "14:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/43tXytZoW",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Kimberly Lana",
    "tel": "5519*****403",
@@ -328,17 +339,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/ey4Q1TKSH",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Paula😉",
-   "tel": "5547*****362",
-   "criado": "14:25",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/43tXytZoW",
    "area": "Trabalhista"
   },
   {
