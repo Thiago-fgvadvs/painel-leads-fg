@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/08/2026, 10:22",
+ "gerado_em": "21/08/2026, 10:37",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 288,
-  "tickets_abertos": 466,
+  "tickets_abertos": 467,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,15 +27,15 @@
  },
  "criativos": [
   {
+   "url": "fb.me/48vlxrFZR",
+   "leads": 1
+  },
+  {
    "url": "fb.me/73927V0PX",
    "leads": 1
   },
   {
    "url": "fb.me/kTYejxYr9",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/48vlxrFZR",
    "leads": 1
   },
   {
@@ -48,23 +48,23 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 3
+  "Trabalhista": 3,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 207,
-  "turnos": 858,
-  "respondidos": 851,
+  "grupos_ativos": 210,
+  "turnos": 862,
+  "respondidos": 855,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 663,
+    "respostas": 667,
     "mediana_min": 2.3
    },
    {
@@ -273,9 +273,9 @@
   ]
  },
  "agora": {
-  "fila": 323,
-  "abertos": 466,
-  "com_atendimento": 7,
+  "fila": 321,
+  "abertos": 467,
+  "com_atendimento": 6,
   "online": 5,
   "offline": 2,
   "ausentes": 1,
@@ -283,9 +283,20 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-20T22:02:07.399Z",
-  "min_sem_lead": 920
+  "min_sem_lead": 935
  },
  "leads": [
+  {
+   "nome": "Eva Cilene Nunes Rosa",
+   "tel": "5531*****784",
+   "criado": "07:54",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/48vlxrFZR",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Lázaro Sarmento",
    "tel": "5587*****585",
@@ -317,17 +328,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/kTYejxYr9",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Eva Cilene Nunes Rosa",
-   "tel": "5531*****784",
-   "criado": "07:54",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/48vlxrFZR",
    "area": "Trabalhista"
   },
   {
