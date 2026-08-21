@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/08/2026, 17:12",
+ "gerado_em": "21/08/2026, 17:27",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 307,
-  "tickets_abertos": 443,
+  "tickets_abertos": 441,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -74,16 +74,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 218,
-  "turnos": 920,
-  "respondidos": 915,
+  "grupos_ativos": 219,
+  "turnos": 922,
+  "respondidos": 917,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 719,
+    "respostas": 721,
     "mediana_min": 2.3
    },
    {
@@ -183,6 +183,13 @@
     "dia": "21/08",
     "desde": "05:38",
     "ts": 1787301481397
+   },
+   {
+    "nome": "Gilda",
+    "tel": "5583*****519",
+    "dia": "21/08",
+    "desde": "16:58",
+    "ts": 1787342285516
    }
   ],
   "grupos": [
@@ -285,16 +292,16 @@
  },
  "agora": {
   "fila": 333,
-  "abertos": 443,
+  "abertos": 441,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 3,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 613
+  "ausentes": 3,
+  "espera_media_s": 604
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-21T17:25:05.431Z",
-  "min_sem_lead": 167
+  "ultimo_lead_at": "2026-08-21T02:13:48.005Z",
+  "min_sem_lead": 1094
  },
  "leads": [
   {
