@@ -1,27 +1,27 @@
 {
- "gerado_em": "21/08/2026, 07:28",
+ "gerado_em": "21/08/2026, 07:43",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 1,
+  "total": 2,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 282,
+  "leads_7d": 283,
   "tickets_abertos": 457,
   "periodo_dias": 7
  },
  "atendentes": [],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [],
  "areas": {
-  "Nao identificada": 1
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -243,13 +243,24 @@
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 696668
+  "min_sem_lead": 696684
  },
  "leads": [
   {
    "nome": "553597493535",
    "tel": "5535*****535",
    "criado": "05:38",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553891490534",
+   "tel": "5538*****534",
+   "criado": "07:32",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
