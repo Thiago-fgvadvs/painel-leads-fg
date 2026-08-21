@@ -1,28 +1,28 @@
 {
- "gerado_em": "21/08/2026, 15:59",
+ "gerado_em": "21/08/2026, 16:15",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
-  "no_sla": 19,
+  "total": 23,
+  "no_sla": 20,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 303,
-  "tickets_abertos": 441,
+  "leads_7d": 304,
+  "tickets_abertos": 443,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -31,11 +31,15 @@
    "leads": 2
   },
   {
-   "url": "fb.me/7a58KGmA0",
+   "url": "fb.me/6xTo5qKHa",
    "leads": 1
   },
   {
    "url": "fb.me/43tXytZoW",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/7a58KGmA0",
    "leads": 1
   },
   {
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/7tRJWUSsI",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Db3h-Ghspuz/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 16,
+  "Trabalhista": 17,
   "Nao identificada": 6
  },
  "sem_resposta_lista": [
@@ -75,15 +75,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 914,
-  "respondidos": 909,
+  "turnos": 916,
+  "respondidos": 911,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 714,
+    "respostas": 715,
     "mediana_min": 2.3
    },
    {
@@ -113,8 +113,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 6,
-    "mediana_min": 53.8
+    "respostas": 7,
+    "mediana_min": 56.5
    },
    {
     "nome": "Tiago Bernardo",
@@ -183,6 +183,13 @@
     "dia": "21/08",
     "desde": "05:38",
     "ts": 1787301481397
+   },
+   {
+    "nome": "Uno Carneiro",
+    "tel": "5521*****908",
+    "dia": "21/08",
+    "desde": "16:06",
+    "ts": 1787339204891
    }
   ],
   "grupos": [
@@ -284,28 +291,28 @@
   ]
  },
  "agora": {
-  "fila": 332,
-  "abertos": 441,
+  "fila": 334,
+  "abertos": 443,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 4,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 616
+  "ausentes": 2,
+  "espera_media_s": 615
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-17T22:30:39.514Z",
-  "min_sem_lead": 50189
+  "ultimo_lead_at": "2026-08-21T19:06:44.891Z",
+  "min_sem_lead": 8
  },
  "leads": [
   {
-   "nome": "valdecirluciano",
-   "tel": "5528*****576",
-   "criado": "10:56",
+   "nome": "Uno Carneiro",
+   "tel": "5521*****908",
+   "criado": "16:06",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
+   "espera_min": 0.5,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/7a58KGmA0",
+   "criativo": "fb.me/6xTo5qKHa",
    "area": "Trabalhista"
   },
   {
@@ -317,6 +324,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/43tXytZoW",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "valdecirluciano",
+   "tel": "5528*****576",
+   "criado": "10:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7a58KGmA0",
    "area": "Trabalhista"
   },
   {
@@ -419,7 +437,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511952831305",
+   "nome": "Luciene",
    "tel": "5511*****305",
    "criado": "13:10",
    "atendente": "FG Advogados - Isadora ",
