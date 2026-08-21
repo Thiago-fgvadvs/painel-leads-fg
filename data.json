@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/08/2026, 11:39",
+ "gerado_em": "21/08/2026, 11:54",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 292,
-  "tickets_abertos": 464,
+  "tickets_abertos": 462,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,15 +68,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 213,
-  "turnos": 878,
-  "respondidos": 872,
+  "turnos": 881,
+  "respondidos": 875,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 680,
+    "respostas": 683,
     "mediana_min": 2.3
    },
    {
@@ -122,16 +122,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
+    "dia": "21/08",
+    "desde": "11:48",
+    "ts": 1787323722947
+   },
+   {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "21/08",
     "desde": "10:54",
     "ts": 1787320495167
-   },
-   {
-    "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
-    "dia": "21/08",
-    "desde": "10:42",
-    "ts": 1787319743150
    },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
@@ -203,16 +203,16 @@
     "ts": 1787254704938
    },
    {
-    "grupo": "S.B.D.S x COOPERATIVA CENTRAL AURORA ALIMENTOS",
-    "dia": "21/08",
-    "desde": "10:42",
-    "ts": 1787319743150
-   },
-   {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "21/08",
     "desde": "10:54",
     "ts": 1787320495167
+   },
+   {
+    "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
+    "dia": "21/08",
+    "desde": "11:48",
+    "ts": 1787323722947
    }
   ]
  },
@@ -273,17 +273,17 @@
   ]
  },
  "agora": {
-  "fila": 320,
-  "abertos": 464,
+  "fila": 319,
+  "abertos": 462,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 4,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 2355
+  "ausentes": 2,
+  "espera_media_s": 2120
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T14:28:44.132Z",
-  "min_sem_lead": 5770
+  "ultimo_lead_at": "2026-08-10T01:28:33.527Z",
+  "min_sem_lead": 16646
  },
  "leads": [
   {
