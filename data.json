@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/08/2026, 12:09",
+ "gerado_em": "21/08/2026, 12:24",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 293,
-  "tickets_abertos": 444,
+  "tickets_abertos": 440,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -31,15 +31,15 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/Db3h-Ghspuz/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/25jexRbTaO",
    "leads": 1
   },
   {
    "url": "fb.me/48vlxrFZR",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 1
   },
   {
@@ -60,23 +60,23 @@
   }
  ],
  "areas": {
-  "Nao identificada": 5,
-  "Trabalhista": 7
+  "Trabalhista": 7,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 213,
-  "turnos": 882,
-  "respondidos": 877,
+  "turnos": 886,
+  "respondidos": 881,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 685,
+    "respostas": 689,
     "mediana_min": 2.3
    },
    {
@@ -262,18 +262,29 @@
  },
  "agora": {
   "fila": 321,
-  "abertos": 444,
+  "abertos": 440,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 4,
   "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 2202
+  "ausentes": 2,
+  "espera_media_s": 2218
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-20T22:02:07.399Z",
-  "min_sem_lead": 1027
+  "ultimo_lead_at": "2026-08-19T09:28:50.794Z",
+  "min_sem_lead": 3236
  },
  "leads": [
+  {
+   "nome": "Zel Cardoso",
+   "tel": "5514*****009",
+   "criado": "11:04",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Pedro Airton",
    "tel": "5588*****272",
@@ -305,17 +316,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/48vlxrFZR",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Zel Cardoso",
-   "tel": "5514*****009",
-   "criado": "11:04",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
    "area": "Trabalhista"
   },
   {
