@@ -1,28 +1,28 @@
 {
- "gerado_em": "21/08/2026, 14:43",
+ "gerado_em": "21/08/2026, 14:58",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 18,
+  "total": 22,
+  "no_sla": 19,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 302,
-  "tickets_abertos": 441,
+  "leads_7d": 303,
+  "tickets_abertos": 442,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -31,7 +31,15 @@
    "leads": 2
   },
   {
+   "url": "fb.me/7a1xvbpgp",
+   "leads": 1
+  },
+  {
    "url": "fb.me/annW3H6uu",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/ey4Q1TKSH",
    "leads": 1
   },
   {
@@ -49,19 +57,11 @@
   {
    "url": "fb.me/41inlpyts",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7a58KGmA0",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/bNvX4h9Vo",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
-  "Nao identificada": 6
+  "Nao identificada": 6,
+  "Trabalhista": 16
  },
  "sem_resposta_lista": [
   {
@@ -75,15 +75,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 907,
-  "respondidos": 902,
+  "turnos": 908,
+  "respondidos": 903,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 709,
+    "respostas": 710,
     "mediana_min": 2.3
    },
    {
@@ -276,18 +276,29 @@
  },
  "agora": {
   "fila": 332,
-  "abertos": 441,
+  "abertos": 442,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 3,
+  "online": 4,
+  "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 595
+  "espera_media_s": 594
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-21T17:35:29.697Z",
-  "min_sem_lead": 8
+  "ultimo_lead_at": "2026-02-03T21:50:10.517Z",
+  "min_sem_lead": 286328
  },
  "leads": [
+  {
+   "nome": "Kimberly Lana",
+   "tel": "5519*****403",
+   "criado": "13:05",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7a1xvbpgp",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Cicero",
    "tel": "5511*****557",
@@ -297,6 +308,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/annW3H6uu",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Madalena Mada",
+   "tel": "5521*****313",
+   "criado": "14:44",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/ey4Q1TKSH",
    "area": "Trabalhista"
   },
   {
@@ -397,17 +419,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Dbq0WNmMz4z/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Kimberly Lana",
-   "tel": "5519*****403",
-   "criado": "13:05",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7a1xvbpgp",
-   "area": "Nao identificada"
   },
   {
    "nome": "Pedro Airton",
