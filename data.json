@@ -1,31 +1,35 @@
 {
- "gerado_em": "22/08/2026, 11:09",
+ "gerado_em": "22/08/2026, 11:25",
  "data_ref": "22/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
+  "total": 7,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 6,
+  "fora_horario": 7,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 319,
-  "tickets_abertos": 456,
+  "leads_7d": 320,
+  "tickets_abertos": 457,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/9reIpIGlx",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 1
@@ -52,22 +56,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6
+  "Trabalhista": 6,
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 952,
-  "respondidos": 947,
+  "turnos": 955,
+  "respondidos": 950,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 751,
+    "respostas": 754,
     "mediana_min": 2.3
    },
    {
@@ -284,19 +289,30 @@
   ]
  },
  "agora": {
-  "fila": 341,
-  "abertos": 456,
+  "fila": 342,
+  "abertos": 457,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 690
+  "espera_media_s": 688
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-20T13:42:51.111Z",
-  "min_sem_lead": 135387
+  "ultimo_lead_at": "2026-08-22T14:20:17.329Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "j26099661",
+   "tel": "5519*****669",
+   "criado": "11:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9reIpIGlx",
+   "area": "Trabalhista"
+  },
   {
    "nome": "555194482790",
    "tel": "5551*****790",
@@ -306,7 +322,7 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
-   "area": "Trabalhista"
+   "area": "Previdenciario"
   },
   {
    "nome": "5511952964375",
