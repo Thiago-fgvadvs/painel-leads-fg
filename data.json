@@ -1,31 +1,43 @@
 {
- "gerado_em": "22/08/2026, 15:31",
+ "gerado_em": "22/08/2026, 15:46",
  "data_ref": "22/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
+  "total": 13,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 10,
+  "fora_horario": 13,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 323,
-  "tickets_abertos": 465,
+  "leads_7d": 326,
+  "tickets_abertos": 468,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 13,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 13,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/7SoCxzO0g",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/41inlpyts",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/6bZ2VUBug",
+   "leads": 1
+  },
   {
    "url": "fb.me/7tRJWUSsI",
    "leads": 1
@@ -45,22 +57,11 @@
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7SoCxzO0g",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/41inlpyts",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/9bs8zcB8M",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 11,
+  "Nao identificada": 1,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -68,15 +69,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 960,
-  "respondidos": 955,
+  "turnos": 961,
+  "respondidos": 956,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 759,
+    "respostas": 760,
     "mediana_min": 2.3
    },
    {
@@ -199,18 +200,25 @@
     "ts": 1787348161870
    },
    {
-    "nome": "Juliana ❤️",
-    "tel": "5531*****295",
-    "dia": "21/08",
-    "desde": "19:03",
-    "ts": 1787349805722
-   },
-   {
     "nome": "558695448205",
     "tel": "5586*****205",
     "dia": "21/08",
     "desde": "20:10",
     "ts": 1787353825328
+   },
+   {
+    "nome": "Altemiro",
+    "tel": "5521*****279",
+    "dia": "21/08",
+    "desde": "20:35",
+    "ts": 1787355312518
+   },
+   {
+    "nome": "Loja quero quero",
+    "tel": "5554*****631",
+    "dia": "21/08",
+    "desde": "20:57",
+    "ts": 1787356662789
    }
   ],
   "grupos": [
@@ -321,19 +329,52 @@
   ]
  },
  "agora": {
-  "fila": 350,
-  "abertos": 465,
+  "fila": 353,
+  "abertos": 468,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 681
+  "espera_media_s": 676
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-22T17:46:10.240Z",
-  "min_sem_lead": 45
+  "ultimo_lead_at": "2026-08-22T18:43:24.333Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "553192643642",
+   "tel": "5531*****642",
+   "criado": "15:43",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7SoCxzO0g",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554699792529",
+   "tel": "5546*****529",
+   "criado": "15:42",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/41inlpyts",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "sergiooliveirafidelis",
+   "tel": "5524*****743",
+   "criado": "15:44",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6bZ2VUBug",
+   "area": "Nao identificada"
+  },
   {
    "nome": "~J",
    "tel": "5596*****815",
