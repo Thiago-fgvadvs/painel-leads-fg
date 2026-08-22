@@ -1,28 +1,28 @@
 {
- "gerado_em": "22/08/2026, 20:38",
+ "gerado_em": "22/08/2026, 20:53",
  "data_ref": "22/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
+  "total": 17,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 16,
+  "fora_horario": 17,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 329,
-  "tickets_abertos": 472,
+  "leads_7d": 330,
+  "tickets_abertos": 473,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 17,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -39,6 +39,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/azDFvVG9f",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcWtaQdsNaV/",
    "leads": 1
   },
@@ -53,14 +57,10 @@
   {
    "url": "www.instagram.com/p/Dbq0WNmMz4z/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/ey4Q1TKSH",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 14,
+  "Trabalhista": 15,
   "Nao identificada": 1,
   "Previdenciario": 1
  },
@@ -69,15 +69,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 228,
-  "turnos": 973,
-  "respondidos": 968,
+  "turnos": 974,
+  "respondidos": 969,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 772,
+    "respostas": 773,
     "mediana_min": 2.3
    },
    {
@@ -172,13 +172,6 @@
     "ts": 1787158894991
    },
    {
-    "nome": "553597493535",
-    "tel": "5535*****535",
-    "dia": "21/08",
-    "desde": "05:38",
-    "ts": 1787301481397
-   },
-   {
     "nome": "558491134437",
     "tel": "5584*****437",
     "dia": "21/08",
@@ -240,6 +233,13 @@
     "dia": "21/08",
     "desde": "22:52",
     "ts": 1787363551445
+   },
+   {
+    "nome": "Gisele Lopes",
+    "tel": "5521*****288",
+    "dia": "22/08",
+    "desde": "03:40",
+    "ts": 1787380833275
    }
   ],
   "grupos": [
@@ -350,19 +350,30 @@
   ]
  },
  "agora": {
-  "fila": 357,
-  "abertos": 472,
+  "fila": 358,
+  "abertos": 473,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 670
+  "espera_media_s": 668
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T14:41:37.979Z",
-  "min_sem_lead": 14937
+  "ultimo_lead_at": "2026-08-22T23:42:18.429Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "Paulo",
+   "tel": "5583*****050",
+   "criado": "20:42",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/azDFvVG9f",
+   "area": "Trabalhista"
+  },
   {
    "nome": "V.V.M e I amo pra sempre!",
    "tel": "5511*****656",
