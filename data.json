@@ -1,33 +1,37 @@
 {
- "gerado_em": "22/08/2026, 10:39",
+ "gerado_em": "22/08/2026, 10:54",
  "data_ref": "22/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
+  "total": 6,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 5,
+  "fora_horario": 6,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 318,
-  "tickets_abertos": 455,
+  "leads_7d": 319,
+  "tickets_abertos": 456,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
+   "leads": 6,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/Db3h-Ghspuz/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/7SoCxzO0g",
    "leads": 1
   },
   {
@@ -48,7 +52,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5
+  "Trabalhista": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -156,6 +160,20 @@
     "dia": "19/08",
     "desde": "14:01",
     "ts": 1787158894991
+   },
+   {
+    "nome": "Gilda",
+    "tel": "5583*****519",
+    "dia": "21/08",
+    "desde": "16:58",
+    "ts": 1787342285516
+   },
+   {
+    "nome": "Juliana ❤️",
+    "tel": "5531*****295",
+    "dia": "21/08",
+    "desde": "19:03",
+    "ts": 1787349805722
    }
   ],
   "grupos": [
@@ -266,17 +284,17 @@
   ]
  },
  "agora": {
-  "fila": 340,
-  "abertos": 455,
+  "fila": 341,
+  "abertos": 456,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 691
+  "espera_media_s": 690
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-22T12:43:06.095Z",
-  "min_sem_lead": 56
+  "min_sem_lead": 71
  },
  "leads": [
   {
@@ -288,6 +306,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Db3h-Ghspuz/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511952964375",
+   "tel": "5511*****375",
+   "criado": "10:40",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7SoCxzO0g",
    "area": "Trabalhista"
   },
   {
