@@ -1,23 +1,23 @@
 {
- "gerado_em": "21/08/2026, 21:03",
+ "gerado_em": "21/08/2026, 21:18",
  "data_ref": "21/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 32,
+  "total": 33,
   "no_sla": 22,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 6,
+  "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 313,
-  "tickets_abertos": 446,
+  "leads_7d": 314,
+  "tickets_abertos": 447,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 27,
+   "leads": 28,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 26,
+  "Anuncio": 27,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "fb.me/4RpRFqGbv",
    "leads": 2
+  },
+  {
+   "url": "fb.me/7gn64Pvn5",
+   "leads": 1
   },
   {
    "url": "fb.me/8b1UxS5EL",
@@ -58,30 +62,26 @@
   {
    "url": "fb.me/6xTo5qKHa",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7a58KGmA0",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 21,
-  "Nao identificada": 11
+  "Nao identificada": 12,
+  "Trabalhista": 21
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 220,
-  "turnos": 940,
-  "respondidos": 935,
+  "turnos": 942,
+  "respondidos": 937,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 738,
+    "respostas": 740,
     "mediana_min": 2.3
    },
    {
@@ -202,6 +202,13 @@
     "dia": "21/08",
     "desde": "20:57",
     "ts": 1787356662789
+   },
+   {
+    "nome": "558899735483",
+    "tel": "5588*****483",
+    "dia": "21/08",
+    "desde": "21:03",
+    "ts": 1787357032056
    }
   ],
   "grupos": [
@@ -303,19 +310,30 @@
   ]
  },
  "agora": {
-  "fila": 331,
-  "abertos": 446,
+  "fila": 332,
+  "abertos": 447,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 705
+  "espera_media_s": 703
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-21T23:57:42.789Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2026-08-22T00:03:52.056Z",
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "558899735483",
+   "tel": "5588*****483",
+   "criado": "21:03",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.1,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7gn64Pvn5",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Loja quero quero",
    "tel": "5554*****631",
@@ -625,6 +643,17 @@
    "area": "Nao identificada"
   },
   {
+   "nome": "558695448205",
+   "tel": "5586*****205",
+   "criado": "20:10",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
    "nome": "556784737130",
    "tel": "5567*****130",
    "criado": "18:36",
@@ -639,17 +668,6 @@
    "nome": "5511966709276",
    "tel": "5511*****276",
    "criado": "18:25",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "558695448205",
-   "tel": "5586*****205",
-   "criado": "20:10",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
