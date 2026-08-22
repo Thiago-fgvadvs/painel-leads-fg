@@ -1,28 +1,28 @@
 {
- "gerado_em": "22/08/2026, 18:35",
+ "gerado_em": "22/08/2026, 18:51",
  "data_ref": "22/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
+  "total": 14,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 13,
+  "fora_horario": 14,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 326,
-  "tickets_abertos": 469,
+  "leads_7d": 327,
+  "tickets_abertos": 470,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 13,
+   "leads": 14,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 14,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -33,6 +33,10 @@
   {
    "url": "fb.me/41inlpyts",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcWtaQdsNaV/",
+   "leads": 1
   },
   {
    "url": "fb.me/6bZ2VUBug",
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/9reIpIGlx",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Db3h-Ghspuz/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 11,
+  "Trabalhista": 12,
   "Nao identificada": 1,
   "Previdenciario": 1
  },
@@ -219,6 +219,13 @@
     "dia": "21/08",
     "desde": "20:57",
     "ts": 1787356662789
+   },
+   {
+    "nome": "605440",
+    "tel": "5588*****483",
+    "dia": "21/08",
+    "desde": "21:03",
+    "ts": 1787357032056
    }
   ],
   "grupos": [
@@ -329,19 +336,30 @@
   ]
  },
  "agora": {
-  "fila": 354,
-  "abertos": 469,
+  "fila": 355,
+  "abertos": 470,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 675
+  "espera_media_s": 673
  },
  "captacao": {
-  "ultimo_lead_at": "2025-12-06T06:06:43.024Z",
-  "min_sem_lead": 373889
+  "ultimo_lead_at": "2026-08-22T21:46:46.957Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "5511978529376",
+   "tel": "5511*****376",
+   "criado": "18:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWtaQdsNaV/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "553192643642",
    "tel": "5531*****642",
