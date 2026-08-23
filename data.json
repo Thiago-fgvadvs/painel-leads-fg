@@ -1,31 +1,35 @@
 {
- "gerado_em": "23/08/2026, 13:51",
+ "gerado_em": "23/08/2026, 14:06",
  "data_ref": "23/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
+  "total": 18,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 2,
-  "fora_horario": 15,
+  "fora_horario": 16,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 350,
-  "tickets_abertos": 494,
+  "leads_7d": 351,
+  "tickets_abertos": 495,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 15,
+   "leads": 16,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 17,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcWwGJoss64/",
+   "leads": 2
+  },
   {
    "url": "fb.me/85SmksXTt",
    "leads": 2
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/7VpAO4sFl",
    "leads": 1
-  },
-  {
-   "url": "fb.me/azDFvVG9f",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
+  "Trabalhista": 16,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [
@@ -205,6 +205,20 @@
     "ts": 1787353825328
    },
    {
+    "nome": "Gisele Lopes",
+    "tel": "5521*****288",
+    "dia": "22/08",
+    "desde": "03:40",
+    "ts": 1787380833275
+   },
+   {
+    "nome": "Loira",
+    "tel": "5554*****403",
+    "dia": "22/08",
+    "desde": "05:42",
+    "ts": 1787388149971
+   },
+   {
     "nome": "5522999943254",
     "tel": "5522*****254",
     "dia": "23/08",
@@ -327,19 +341,30 @@
   ]
  },
  "agora": {
-  "fila": 379,
-  "abertos": 494,
+  "fila": 380,
+  "abertos": 495,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 638
+  "espera_media_s": 637
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-23T16:40:18.893Z",
-  "min_sem_lead": 11
+  "ultimo_lead_at": "2026-08-22T23:02:36.572Z",
+  "min_sem_lead": 1084
  },
  "leads": [
+  {
+   "nome": "559984779186",
+   "tel": "5599*****186",
+   "criado": "14:01",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGJoss64/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "557598733806",
    "tel": "5575*****806",
