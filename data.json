@@ -1,17 +1,17 @@
 {
- "gerado_em": "23/08/2026, 18:46",
+ "gerado_em": "23/08/2026, 19:01",
  "data_ref": "23/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 31,
+  "total": 32,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 2,
+  "sem_resposta": 3,
   "fora_horario": 29,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 364,
-  "tickets_abertos": 510,
+  "leads_7d": 365,
+  "tickets_abertos": 512,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,7 +22,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 29,
+  "Anuncio": 30,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -55,15 +55,21 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4mTU3s0jH",
+   "url": "www.instagram.com/p/DcWo0JnsdLz/",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 29,
+  "Trabalhista": 30,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [
+  {
+   "nome": "553191328258",
+   "tel": "5531*****258",
+   "criado": "19:00",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Alex",
    "tel": "5511*****832",
@@ -177,13 +183,6 @@
     "ts": 1787146046163
    },
    {
-    "nome": "553597493535",
-    "tel": "5535*****535",
-    "dia": "21/08",
-    "desde": "05:38",
-    "ts": 1787301481397
-   },
-   {
     "nome": "558491134437",
     "tel": "5584*****437",
     "dia": "21/08",
@@ -212,25 +211,18 @@
     "ts": 1787353825328
    },
    {
-    "nome": "Altemiro",
-    "tel": "5521*****279",
-    "dia": "21/08",
-    "desde": "20:35",
-    "ts": 1787355312518
-   },
-   {
-    "nome": "Loja quero quero",
-    "tel": "5554*****631",
-    "dia": "21/08",
-    "desde": "20:57",
-    "ts": 1787356662789
-   },
-   {
     "nome": "605440",
     "tel": "5588*****483",
     "dia": "21/08",
     "desde": "21:03",
     "ts": 1787357032056
+   },
+   {
+    "nome": "Adriana Maria",
+    "tel": "5551*****444",
+    "dia": "21/08",
+    "desde": "22:10",
+    "ts": 1787361018676
    },
    {
     "nome": "5522999943254",
@@ -245,6 +237,13 @@
     "dia": "23/08",
     "desde": "07:41",
     "ts": 1787481689154
+   },
+   {
+    "nome": "553191328258",
+    "tel": "5531*****258",
+    "dia": "23/08",
+    "desde": "19:00",
+    "ts": 1787522439794
    }
   ],
   "grupos": [
@@ -355,19 +354,30 @@
   ]
  },
  "agora": {
-  "fila": 395,
-  "abertos": 510,
+  "fila": 397,
+  "abertos": 512,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 616
+  "espera_media_s": 615
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T11:31:15.989Z",
-  "min_sem_lead": 20775
+  "ultimo_lead_at": "2026-08-23T22:00:39.794Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "553191328258",
+   "tel": "5531*****258",
+   "criado": "19:00",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWo0JnsdLz/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "553192346042",
    "tel": "5531*****042",
