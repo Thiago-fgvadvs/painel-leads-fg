@@ -1,38 +1,38 @@
 {
- "gerado_em": "23/08/2026, 11:17",
+ "gerado_em": "23/08/2026, 11:32",
  "data_ref": "23/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
+  "total": 12,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 9,
+  "fora_horario": 10,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 344,
-  "tickets_abertos": 485,
+  "leads_7d": 345,
+  "tickets_abertos": 486,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
-   "url": "fb.me/8yXKrLZJO",
+   "url": "fb.me/85SmksXTt",
    "leads": 2
   },
   {
-   "url": "fb.me/85SmksXTt",
-   "leads": 1
+   "url": "fb.me/8yXKrLZJO",
+   "leads": 2
   },
   {
    "url": "fb.me/8dFBqq9oB",
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 10,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [
@@ -220,6 +220,13 @@
     "ts": 1787356662789
    },
    {
+    "nome": "605440",
+    "tel": "5588*****483",
+    "dia": "21/08",
+    "desde": "21:03",
+    "ts": 1787357032056
+   },
+   {
     "nome": "5511988075832",
     "tel": "5511*****832",
     "dia": "23/08",
@@ -335,19 +342,30 @@
   ]
  },
  "agora": {
-  "fila": 370,
-  "abertos": 485,
+  "fila": 371,
+  "abertos": 486,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 650
+  "espera_media_s": 649
  },
  "captacao": {
-  "ultimo_lead_at": "2025-12-06T06:06:43.024Z",
-  "min_sem_lead": 374890
+  "ultimo_lead_at": "2026-08-23T14:28:31.836Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "554499201462",
+   "tel": "5544*****462",
+   "criado": "11:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/85SmksXTt",
+   "area": "Trabalhista"
+  },
   {
    "nome": "555384222887",
    "tel": "5553*****887",
