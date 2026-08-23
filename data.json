@@ -1,28 +1,28 @@
 {
- "gerado_em": "23/08/2026, 20:03",
+ "gerado_em": "23/08/2026, 20:19",
  "data_ref": "23/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 35,
+  "total": 36,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 2,
-  "fora_horario": 33,
+  "fora_horario": 34,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 368,
-  "tickets_abertos": 516,
+  "leads_7d": 369,
+  "tickets_abertos": 517,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 33,
+   "leads": 34,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 33,
+  "Anuncio": 34,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 32,
-  "Nao identificada": 3
+  "Nao identificada": 4,
+  "Trabalhista": 32
  },
  "sem_resposta_lista": [
   {
@@ -205,48 +205,6 @@
     "ts": 1787353825328
    },
    {
-    "nome": "Altemiro",
-    "tel": "5521*****279",
-    "dia": "21/08",
-    "desde": "20:35",
-    "ts": 1787355312518
-   },
-   {
-    "nome": "Loja quero quero",
-    "tel": "5554*****631",
-    "dia": "21/08",
-    "desde": "20:57",
-    "ts": 1787356662789
-   },
-   {
-    "nome": "605440",
-    "tel": "5588*****483",
-    "dia": "21/08",
-    "desde": "21:03",
-    "ts": 1787357032056
-   },
-   {
-    "nome": "Adriana Maria",
-    "tel": "5551*****444",
-    "dia": "21/08",
-    "desde": "22:10",
-    "ts": 1787361018676
-   },
-   {
-    "nome": "😇",
-    "tel": "5591*****367",
-    "dia": "21/08",
-    "desde": "22:52",
-    "ts": 1787363551445
-   },
-   {
-    "nome": "Gisele Lopes",
-    "tel": "5521*****288",
-    "dia": "22/08",
-    "desde": "03:40",
-    "ts": 1787380833275
-   },
-   {
     "nome": "5522999943254",
     "tel": "5522*****254",
     "dia": "23/08",
@@ -369,19 +327,30 @@
   ]
  },
  "agora": {
-  "fila": 401,
-  "abertos": 516,
+  "fila": 402,
+  "abertos": 517,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 608
+  "espera_media_s": 607
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-23T22:25:46.329Z",
-  "min_sem_lead": 38
+  "ultimo_lead_at": "2026-08-23T23:07:56.863Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "553298385483",
+   "tel": "5532*****483",
+   "criado": "20:07",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/44ChDfwSg",
+   "area": "Nao identificada"
+  },
   {
    "nome": "5511984589873",
    "tel": "5511*****873",
