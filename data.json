@@ -1,17 +1,17 @@
 {
- "gerado_em": "23/08/2026, 12:49",
+ "gerado_em": "23/08/2026, 13:04",
  "data_ref": "23/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 15,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 2,
   "fora_horario": 13,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 348,
-  "tickets_abertos": 490,
+  "tickets_abertos": 491,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,25 +65,31 @@
  },
  "sem_resposta_lista": [
   {
-   "nome": "5511988075832",
+   "nome": "Alex",
    "tel": "5511*****832",
    "criado": "07:41",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5522999943254",
+   "tel": "5522*****254",
+   "criado": "02:48",
+   "area": "Nao identificada"
   }
  ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 234,
-  "turnos": 992,
-  "respondidos": 987,
+  "turnos": 993,
+  "respondidos": 988,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 791,
+    "respostas": 792,
     "mediana_min": 2.2
    },
    {
@@ -171,6 +177,13 @@
     "ts": 1787146046163
    },
    {
+    "nome": "553597493535",
+    "tel": "5535*****535",
+    "dia": "21/08",
+    "desde": "05:38",
+    "ts": 1787301481397
+   },
+   {
     "nome": "558491134437",
     "tel": "5584*****437",
     "dia": "21/08",
@@ -234,7 +247,14 @@
     "ts": 1787363551445
    },
    {
-    "nome": "5511988075832",
+    "nome": "5522999943254",
+    "tel": "5522*****254",
+    "dia": "23/08",
+    "desde": "02:48",
+    "ts": 1787464130885
+   },
+   {
+    "nome": "Alex",
     "tel": "5511*****832",
     "dia": "23/08",
     "desde": "07:41",
@@ -349,8 +369,8 @@
   ]
  },
  "agora": {
-  "fila": 375,
-  "abertos": 490,
+  "fila": 376,
+  "abertos": 491,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
@@ -359,11 +379,11 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-09T18:23:45.127Z",
-  "min_sem_lead": 20005
+  "min_sem_lead": 20021
  },
  "leads": [
   {
-   "nome": "555384222887",
+   "nome": "Cláudiomiro Lacerda",
    "tel": "5553*****887",
    "criado": "10:50",
    "atendente": "FG Advogados - Isadora ",
@@ -374,7 +394,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "558899428400",
+   "nome": "Roberto Muniz",
    "tel": "5588*****400",
    "criado": "12:10",
    "atendente": "FG Advogados - Isadora ",
@@ -385,7 +405,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511940564120",
+   "nome": "Mary Santos",
    "tel": "5511*****120",
    "criado": "12:18",
    "atendente": "FG Advogados - Isadora ",
@@ -396,7 +416,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511918726400",
+   "nome": "dariosilviooliveira1968",
    "tel": "5511*****400",
    "criado": "11:46",
    "atendente": "FG Advogados - Isadora ",
@@ -407,7 +427,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554499201462",
+   "nome": "Ronaldo Adriano Souza",
    "tel": "5544*****462",
    "criado": "11:28",
    "atendente": "FG Advogados - Isadora ",
@@ -418,7 +438,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554188273622",
+   "nome": "josediniz91919191",
    "tel": "5541*****622",
    "criado": "09:56",
    "atendente": "FG Advogados - Isadora ",
@@ -429,7 +449,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556194309875",
+   "nome": "j72492359",
    "tel": "5561*****875",
    "criado": "09:21",
    "atendente": "FG Advogados - Isadora ",
@@ -440,7 +460,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5522996243967",
+   "nome": "mariaventuranevesoficial",
    "tel": "5522*****967",
    "criado": "10:03",
    "atendente": "FG Advogados - Isadora ",
@@ -451,7 +471,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "557788767220",
+   "nome": ".",
    "tel": "5577*****220",
    "criado": "08:17",
    "atendente": "FG Advogados - Isadora ",
@@ -462,7 +482,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556492804124",
+   "nome": "Weber",
    "tel": "5564*****124",
    "criado": "08:33",
    "atendente": "FG Advogados - Isadora ",
@@ -473,7 +493,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511988075832",
+   "nome": "Alex",
    "tel": "5511*****832",
    "criado": "07:41",
    "atendente": "—",
@@ -482,6 +502,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/8yXKrLZJO",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5522999943254",
+   "tel": "5522*****254",
+   "criado": "02:48",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "luizrosar53",
@@ -495,7 +526,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "555493166171",
+   "nome": "Tamara Silva",
    "tel": "5554*****171",
    "criado": "00:11",
    "atendente": "FG Advogados - Isadora ",
@@ -506,7 +537,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5517991336278",
+   "nome": "Sonia Maria Barrot",
    "tel": "5517*****278",
    "criado": "00:09",
    "atendente": "FG Advogados - Isadora ",
@@ -514,17 +545,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4GjAyWZsF",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5522999943254",
-   "tel": "5522*****254",
-   "criado": "02:48",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Nao identificada"
   }
  ]
