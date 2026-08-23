@@ -1,28 +1,28 @@
 {
- "gerado_em": "23/08/2026, 15:24",
+ "gerado_em": "23/08/2026, 15:39",
  "data_ref": "23/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
+  "total": 23,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 2,
-  "fora_horario": 20,
+  "fora_horario": 21,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 355,
-  "tickets_abertos": 500,
+  "leads_7d": 356,
+  "tickets_abertos": 501,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 22,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcWwGKMsEU4/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcWo0RAMZJ8/",
    "leads": 1
   },
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/4GjAyWZsF",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4HtOzRaco",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 20,
+  "Trabalhista": 21,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [
@@ -81,15 +81,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 234,
-  "turnos": 995,
-  "respondidos": 990,
+  "turnos": 996,
+  "respondidos": 991,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 794,
+    "respostas": 795,
     "mediana_min": 2.2
    },
    {
@@ -334,19 +334,30 @@
   ]
  },
  "agora": {
-  "fila": 385,
-  "abertos": 500,
+  "fila": 386,
+  "abertos": 501,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 631
+  "espera_media_s": 628
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-09T19:57:58.484Z",
-  "min_sem_lead": 20066
+  "min_sem_lead": 20082
  },
  "leads": [
+  {
+   "nome": "5521969451744",
+   "tel": "5521*****744",
+   "criado": "15:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511971067400",
    "tel": "5511*****400",
