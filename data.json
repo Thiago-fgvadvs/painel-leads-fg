@@ -1,17 +1,17 @@
 {
- "gerado_em": "23/08/2026, 07:26",
+ "gerado_em": "23/08/2026, 07:41",
  "data_ref": "23/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
+  "total": 5,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 3,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 337,
-  "tickets_abertos": 478,
+  "leads_7d": 338,
+  "tickets_abertos": 479,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,10 +22,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/8yXKrLZJO",
+   "leads": 1
+  },
   {
    "url": "fb.me/7aaX842MX",
    "leads": 1
@@ -40,10 +44,17 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2,
+  "Trabalhista": 3,
   "Nao identificada": 2
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5511988075832",
+   "tel": "5511*****832",
+   "criado": "07:41",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -144,6 +155,13 @@
     "ts": 1787146046163
    },
    {
+    "nome": "553597493535",
+    "tel": "5535*****535",
+    "dia": "21/08",
+    "desde": "05:38",
+    "ts": 1787301481397
+   },
+   {
     "nome": "558491134437",
     "tel": "5584*****437",
     "dia": "21/08",
@@ -177,6 +195,13 @@
     "dia": "21/08",
     "desde": "20:10",
     "ts": 1787353825328
+   },
+   {
+    "nome": "5511988075832",
+    "tel": "5511*****832",
+    "dia": "23/08",
+    "desde": "07:41",
+    "ts": 1787481689154
    }
   ],
   "grupos": [
@@ -287,8 +312,8 @@
   ]
  },
  "agora": {
-  "fila": 363,
-  "abertos": 478,
+  "fila": 364,
+  "abertos": 479,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
@@ -296,10 +321,21 @@
   "espera_media_s": 659
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 699546
+  "ultimo_lead_at": "2026-08-23T10:41:29.154Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "5511988075832",
+   "tel": "5511*****832",
+   "criado": "07:41",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8yXKrLZJO",
+   "area": "Trabalhista"
+  },
   {
    "nome": "luizrosar53",
    "tel": "5515*****211",
