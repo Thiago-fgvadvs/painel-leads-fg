@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/08/2026, 12:23",
+ "gerado_em": "24/08/2026, 12:39",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -94,15 +94,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 210,
-  "turnos": 869,
-  "respondidos": 862,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 872,
+  "respondidos": 864,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 689,
+    "respostas": 691,
     "mediana_min": 2.2
    },
    {
@@ -148,16 +148,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.J.D.S x EXPRESSO NEPOMUCENO SA",
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "24/08",
-    "desde": "12:00",
-    "ts": 1787583655787
+    "desde": "12:36",
+    "ts": 1787585808992
    },
    {
     "grupo": "A.C.M x LOJAS AVANCE MOVEIS E ELETRO LTDA",
     "dia": "24/08",
     "desde": "11:55",
     "ts": 1787583324968
+   },
+   {
+    "grupo": "A.J.D.S x EXPRESSO NEPOMUCENO SA",
+    "dia": "24/08",
+    "desde": "12:00",
+    "ts": 1787583655787
    },
    {
     "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
@@ -300,6 +306,12 @@
     "dia": "24/08",
     "desde": "12:00",
     "ts": 1787583655787
+   },
+   {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "24/08",
+    "desde": "12:36",
+    "ts": 1787585808992
    }
   ]
  },
@@ -363,26 +375,15 @@
   "abertos": 534,
   "com_atendimento": 6,
   "online": 4,
-  "offline": 3,
-  "ausentes": 1,
+  "offline": 4,
+  "ausentes": 0,
   "espera_media_s": 576
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T14:03:25.416Z",
-  "min_sem_lead": 80
+  "ultimo_lead_at": "2025-12-06T06:06:43.024Z",
+  "min_sem_lead": 376412
  },
  "leads": [
-  {
-   "nome": "Leo Lopes (Bahia)",
-   "tel": "5547*****968",
-   "criado": "11:03",
-   "atendente": "Roseli",
-   "espera_min": 1.1,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
   {
    "nome": "557592475787",
    "tel": "5575*****787",
@@ -392,6 +393,17 @@
    "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWp3CjscD1/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Leo Lopes (Bahia)",
+   "tel": "5547*****968",
+   "criado": "11:03",
+   "atendente": "Roseli",
+   "espera_min": 1.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   },
   {
