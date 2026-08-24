@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/08/2026, 18:09",
+ "gerado_em": "24/08/2026, 18:25",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 95,
   "mediana_geral": 0.4,
   "leads_7d": 306,
-  "tickets_abertos": 536,
+  "tickets_abertos": 537,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -99,16 +99,16 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 221,
-  "turnos": 944,
-  "respondidos": 939,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "grupos_ativos": 222,
+  "turnos": 948,
+  "respondidos": 942,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 738,
+    "respostas": 741,
     "mediana_min": 2.2
    },
    {
@@ -153,6 +153,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
+    "dia": "24/08",
+    "desde": "18:09",
+    "ts": 1787605795931
+   },
    {
     "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
     "dia": "24/08",
@@ -331,6 +337,12 @@
     "dia": "24/08",
     "desde": "15:32",
     "ts": 1787596340142
+   },
+   {
+    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
+    "dia": "24/08",
+    "desde": "18:09",
+    "ts": 1787605795931
    }
   ]
  },
@@ -409,16 +421,16 @@
  },
  "agora": {
   "fila": 438,
-  "abertos": 536,
+  "abertos": 537,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 3,
   "offline": 3,
-  "ausentes": 3,
+  "ausentes": 2,
   "espera_media_s": 561
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T19:57:58.484Z",
-  "min_sem_lead": 21672
+  "ultimo_lead_at": "2026-08-12T15:59:06.986Z",
+  "min_sem_lead": 17606
  },
  "leads": [
   {
