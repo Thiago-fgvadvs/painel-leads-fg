@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/08/2026, 17:23",
+ "gerado_em": "24/08/2026, 17:39",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -100,15 +100,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 221,
-  "turnos": 931,
-  "respondidos": 923,
+  "turnos": 935,
+  "respondidos": 927,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 732,
+    "respostas": 735,
     "mediana_min": 2.2
    },
    {
@@ -122,14 +122,14 @@
     "mediana_min": 1.1
    },
    {
+    "nome": "Roseli",
+    "respostas": 32,
+    "mediana_min": 3.4
+   },
+   {
     "nome": "Gabrielle",
     "respostas": 32,
     "mediana_min": 3.3
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 31,
-    "mediana_min": 3.1
    },
    {
     "nome": "Eduardo",
@@ -282,27 +282,6 @@
     "dia": "24/08",
     "desde": "10:44",
     "ts": 1787579050750
-   },
-   {
-    "nome": "Claudia",
-    "tel": "5516*****531",
-    "dia": "24/08",
-    "desde": "16:02",
-    "ts": 1787598163545
-   },
-   {
-    "nome": ".",
-    "tel": "5593*****852",
-    "dia": "24/08",
-    "desde": "16:32",
-    "ts": 1787599964919
-   },
-   {
-    "nome": "553197142759",
-    "tel": "5531*****759",
-    "dia": "24/08",
-    "desde": "16:39",
-    "ts": 1787600393595
    }
   ],
   "grupos": [
@@ -430,19 +409,30 @@
   ]
  },
  "agora": {
-  "fila": 437,
+  "fila": 436,
   "abertos": 540,
   "com_atendimento": 6,
   "online": 4,
   "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 568
+  "espera_media_s": 1321
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-19T16:20:27.101Z",
-  "min_sem_lead": 227763
+  "ultimo_lead_at": "2026-07-31T16:53:50.644Z",
+  "min_sem_lead": 34785
  },
  "leads": [
+  {
+   "nome": "Cláudia GPS",
+   "tel": "5533*****298",
+   "criado": "10:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8klt3OBuk",
+   "area": "Trabalhista"
+  },
   {
    "nome": "553197142759",
    "tel": "5531*****759",
@@ -530,17 +520,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Cláudia GPS",
-   "tel": "5533*****298",
-   "criado": "10:28",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/8klt3OBuk",
-   "area": "Trabalhista"
   },
   {
    "nome": "Itamar Bernardo de Oliveira",
