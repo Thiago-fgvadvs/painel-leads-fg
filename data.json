@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/08/2026, 16:38",
+ "gerado_em": "24/08/2026, 16:53",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 31,
-  "no_sla": 17,
+  "total": 32,
+  "no_sla": 18,
   "fora_sla": 1,
   "sem_resposta": 3,
   "fora_horario": 10,
-  "pct_sla": 94,
+  "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 305,
-  "tickets_abertos": 538,
+  "leads_7d": 306,
+  "tickets_abertos": 540,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 26,
+   "leads": 27,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 26,
+  "Anuncio": 27,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -56,16 +56,16 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4HtOzRaco",
+   "url": "fb.me/4NOAixGut",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcYd5AysUGr/",
+   "url": "fb.me/4HtOzRaco",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 22,
+  "Trabalhista": 23,
   "Nao identificada": 9
  },
  "sem_resposta_lista": [
@@ -99,16 +99,16 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 218,
-  "turnos": 924,
-  "respondidos": 915,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "grupos_ativos": 220,
+  "turnos": 926,
+  "respondidos": 918,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 725,
+    "respostas": 727,
     "mediana_min": 2.2
    },
    {
@@ -122,12 +122,12 @@
     "mediana_min": 1.1
    },
    {
-    "nome": "Roseli",
-    "respostas": 31,
-    "mediana_min": 3.1
+    "nome": "Gabrielle",
+    "respostas": 32,
+    "mediana_min": 3.3
    },
    {
-    "nome": "Gabrielle",
+    "nome": "Roseli",
     "respostas": 31,
     "mediana_min": 3.1
    },
@@ -153,12 +153,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "J.S.B x ULTRAOBRA LTDA",
-    "dia": "24/08",
-    "desde": "16:34",
-    "ts": 1787600089081
-   },
    {
     "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
     "dia": "24/08",
@@ -288,6 +282,27 @@
     "dia": "24/08",
     "desde": "10:44",
     "ts": 1787579050750
+   },
+   {
+    "nome": "Claudia",
+    "tel": "5516*****531",
+    "dia": "24/08",
+    "desde": "16:02",
+    "ts": 1787598163545
+   },
+   {
+    "nome": ".",
+    "tel": "5593*****852",
+    "dia": "24/08",
+    "desde": "16:32",
+    "ts": 1787599964919
+   },
+   {
+    "nome": "553197142759",
+    "tel": "5531*****759",
+    "dia": "24/08",
+    "desde": "16:39",
+    "ts": 1787600393595
    }
   ],
   "grupos": [
@@ -338,12 +353,6 @@
     "dia": "24/08",
     "desde": "15:57",
     "ts": 1787597874164
-   },
-   {
-    "grupo": "J.S.B x ULTRAOBRA LTDA",
-    "dia": "24/08",
-    "desde": "16:34",
-    "ts": 1787600089081
    }
   ]
  },
@@ -421,19 +430,30 @@
   ]
  },
  "agora": {
-  "fila": 435,
-  "abertos": 538,
+  "fila": 437,
+  "abertos": 540,
   "com_atendimento": 6,
   "online": 5,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 569
+  "espera_media_s": 568
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T14:41:37.979Z",
-  "min_sem_lead": 17576
+  "ultimo_lead_at": "2026-05-26T16:30:21.556Z",
+  "min_sem_lead": 129803
  },
  "leads": [
+  {
+   "nome": "553197142759",
+   "tel": "5531*****759",
+   "criado": "16:39",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4NOAixGut",
+   "area": "Trabalhista"
+  },
   {
    "nome": ".",
    "tel": "5593*****852",
