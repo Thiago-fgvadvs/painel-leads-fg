@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/08/2026, 17:39",
+ "gerado_em": "24/08/2026, 17:54",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 95,
   "mediana_geral": 0.4,
   "leads_7d": 306,
-  "tickets_abertos": 540,
+  "tickets_abertos": 541,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -100,10 +100,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 221,
-  "turnos": 935,
-  "respondidos": 927,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "turnos": 938,
+  "respondidos": 931,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -117,14 +117,14 @@
     "mediana_min": 9.8
    },
    {
+    "nome": "Roseli",
+    "respostas": 36,
+    "mediana_min": 3.4
+   },
+   {
     "nome": "Luisa",
     "respostas": 34,
     "mediana_min": 1.1
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 32,
-    "mediana_min": 3.4
    },
    {
     "nome": "Gabrielle",
@@ -158,12 +158,6 @@
     "dia": "24/08",
     "desde": "16:56",
     "ts": 1787601385184
-   },
-   {
-    "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
-    "dia": "24/08",
-    "desde": "15:37",
-    "ts": 1787596672144
    },
    {
     "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
@@ -282,6 +276,27 @@
     "dia": "24/08",
     "desde": "10:44",
     "ts": 1787579050750
+   },
+   {
+    "nome": "Claudia",
+    "tel": "5516*****531",
+    "dia": "24/08",
+    "desde": "16:02",
+    "ts": 1787598163545
+   },
+   {
+    "nome": ".",
+    "tel": "5593*****852",
+    "dia": "24/08",
+    "desde": "16:32",
+    "ts": 1787599964919
+   },
+   {
+    "nome": "553197142759",
+    "tel": "5531*****759",
+    "dia": "24/08",
+    "desde": "16:39",
+    "ts": 1787600393595
    }
   ],
   "grupos": [
@@ -320,12 +335,6 @@
     "dia": "24/08",
     "desde": "15:32",
     "ts": 1787596340142
-   },
-   {
-    "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
-    "dia": "24/08",
-    "desde": "15:37",
-    "ts": 1787596672144
    },
    {
     "grupo": "J.S.B x ULTRAOBRA LTDA",
@@ -409,17 +418,17 @@
   ]
  },
  "agora": {
-  "fila": 436,
-  "abertos": 540,
+  "fila": 437,
+  "abertos": 541,
   "com_atendimento": 6,
-  "online": 4,
-  "offline": 2,
+  "online": 3,
+  "offline": 3,
   "ausentes": 2,
   "espera_media_s": 1321
  },
  "captacao": {
   "ultimo_lead_at": "2026-07-31T16:53:50.644Z",
-  "min_sem_lead": 34785
+  "min_sem_lead": 34801
  },
  "leads": [
   {
