@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/08/2026, 16:22",
+ "gerado_em": "24/08/2026, 16:38",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
-  "no_sla": 16,
+  "total": 31,
+  "no_sla": 17,
   "fora_sla": 1,
   "sem_resposta": 3,
   "fora_horario": 10,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 304,
-  "tickets_abertos": 537,
+  "leads_7d": 305,
+  "tickets_abertos": 538,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 25,
+  "Anuncio": 26,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -56,16 +56,16 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcYd5AysUGr/",
+   "url": "fb.me/4HtOzRaco",
    "leads": 1
   },
   {
-   "url": "fb.me/51RP8rs83",
+   "url": "www.instagram.com/p/DcYd5AysUGr/",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 21,
+  "Trabalhista": 22,
   "Nao identificada": 9
  },
  "sem_resposta_lista": [
@@ -99,16 +99,16 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 217,
-  "turnos": 920,
-  "respondidos": 912,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "grupos_ativos": 218,
+  "turnos": 924,
+  "respondidos": 915,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 722,
+    "respostas": 725,
     "mediana_min": 2.2
    },
    {
@@ -153,6 +153,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.S.B x ULTRAOBRA LTDA",
+    "dia": "24/08",
+    "desde": "16:34",
+    "ts": 1787600089081
+   },
    {
     "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
     "dia": "24/08",
@@ -332,17 +338,41 @@
     "dia": "24/08",
     "desde": "15:57",
     "ts": 1787597874164
+   },
+   {
+    "grupo": "J.S.B x ULTRAOBRA LTDA",
+    "dia": "24/08",
+    "desde": "16:34",
+    "ts": 1787600089081
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 5,
+  "total": 7,
   "por_vendedor": {
-   "Tiago Bernardo": 4,
-   "Roseli": 1
+   "Roseli": 2,
+   "Tiago Bernardo": 5
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "N",
+    "dia": "24/08",
+    "hora": "16:31",
+    "ts": 1787599913140,
+    "origem": "Anúncio: instagram.com/p/Db0bjh_M6vL/",
+    "de_anuncio": true
+   },
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "P",
+    "dia": "24/08",
+    "hora": "16:30",
+    "ts": 1787599837256,
+    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "T.H.A.E.O.J",
@@ -392,18 +422,29 @@
  },
  "agora": {
   "fila": 435,
-  "abertos": 537,
+  "abertos": 538,
   "com_atendimento": 6,
-  "online": 4,
-  "offline": 3,
+  "online": 5,
+  "offline": 2,
   "ausentes": 1,
   "espera_media_s": 569
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-26T16:30:21.556Z",
-  "min_sem_lead": 129772
+  "ultimo_lead_at": "2026-08-12T14:41:37.979Z",
+  "min_sem_lead": 17576
  },
  "leads": [
+  {
+   "nome": ".",
+   "tel": "5593*****852",
+   "criado": "16:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4HtOzRaco",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Claudia",
    "tel": "5516*****531",
