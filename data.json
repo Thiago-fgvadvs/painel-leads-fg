@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/08/2026, 14:55",
+ "gerado_em": "24/08/2026, 15:11",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -99,9 +99,9 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 216,
-  "turnos": 900,
-  "respondidos": 893,
+  "grupos_ativos": 217,
+  "turnos": 902,
+  "respondidos": 895,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
@@ -133,8 +133,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 22,
-    "mediana_min": 3.4
+    "respostas": 24,
+    "mediana_min": 4.1
    },
    {
     "nome": "Tiago Bernardo",
@@ -154,6 +154,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.J.P.B",
+    "dia": "24/08",
+    "desde": "14:58",
+    "ts": 1787594280178
+   },
+   {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "24/08",
     "desde": "12:36",
@@ -164,12 +170,6 @@
     "dia": "24/08",
     "desde": "12:00",
     "ts": 1787583655787
-   },
-   {
-    "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
-    "dia": "24/08",
-    "desde": "10:17",
-    "ts": 1787577474037
    },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
@@ -304,12 +304,6 @@
     "ts": 1787254704938
    },
    {
-    "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
-    "dia": "24/08",
-    "desde": "10:17",
-    "ts": 1787577474037
-   },
-   {
     "grupo": "A.J.D.S x EXPRESSO NEPOMUCENO SA",
     "dia": "24/08",
     "desde": "12:00",
@@ -320,6 +314,12 @@
     "dia": "24/08",
     "desde": "12:36",
     "ts": 1787585808992
+   },
+   {
+    "grupo": "A.J.P.B",
+    "dia": "24/08",
+    "desde": "14:58",
+    "ts": 1787594280178
    }
   ]
  },
@@ -382,14 +382,14 @@
   "fila": 431,
   "abertos": 533,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 4,
   "offline": 4,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 574
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-17T14:32:49.408Z",
-  "min_sem_lead": 98123
+  "ultimo_lead_at": "2026-01-29T20:29:06.852Z",
+  "min_sem_lead": 297942
  },
  "leads": [
   {
