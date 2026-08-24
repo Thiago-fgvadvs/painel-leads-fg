@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/08/2026, 17:54",
+ "gerado_em": "24/08/2026, 18:09",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 95,
   "mediana_geral": 0.4,
   "leads_7d": 306,
-  "tickets_abertos": 541,
+  "tickets_abertos": 536,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -100,15 +100,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 221,
-  "turnos": 938,
-  "respondidos": 931,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 944,
+  "respondidos": 939,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 735,
+    "respostas": 738,
     "mediana_min": 2.2
    },
    {
@@ -118,8 +118,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 36,
-    "mediana_min": 3.4
+    "respostas": 41,
+    "mediana_min": 3.1
    },
    {
     "nome": "Luisa",
@@ -154,12 +154,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "J.S.B x ULTRAOBRA LTDA",
-    "dia": "24/08",
-    "desde": "16:56",
-    "ts": 1787601385184
-   },
-   {
     "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
     "dia": "24/08",
     "desde": "15:32",
@@ -170,12 +164,6 @@
     "dia": "24/08",
     "desde": "14:58",
     "ts": 1787594280178
-   },
-   {
-    "grupo": "A.J.D.S x EXPRESSO NEPOMUCENO SA",
-    "dia": "24/08",
-    "desde": "12:00",
-    "ts": 1787583655787
    },
    {
     "grupo": "A.J.C",
@@ -278,6 +266,20 @@
     "ts": 1787579050750
    },
    {
+    "nome": "556892063939",
+    "tel": "5568*****939",
+    "dia": "24/08",
+    "desde": "15:13",
+    "ts": 1787595211666
+   },
+   {
+    "nome": "Estelita",
+    "tel": "5564*****370",
+    "dia": "24/08",
+    "desde": "16:00",
+    "ts": 1787598047469
+   },
+   {
     "nome": "Claudia",
     "tel": "5516*****531",
     "dia": "24/08",
@@ -319,12 +321,6 @@
     "ts": 1787168475452
    },
    {
-    "grupo": "A.J.D.S x EXPRESSO NEPOMUCENO SA",
-    "dia": "24/08",
-    "desde": "12:00",
-    "ts": 1787583655787
-   },
-   {
     "grupo": "A.J.P.B",
     "dia": "24/08",
     "desde": "14:58",
@@ -335,12 +331,6 @@
     "dia": "24/08",
     "desde": "15:32",
     "ts": 1787596340142
-   },
-   {
-    "grupo": "J.S.B x ULTRAOBRA LTDA",
-    "dia": "24/08",
-    "desde": "16:56",
-    "ts": 1787601385184
    }
   ]
  },
@@ -418,17 +408,17 @@
   ]
  },
  "agora": {
-  "fila": 437,
-  "abertos": 541,
+  "fila": 438,
+  "abertos": 536,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 2,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 1321
+  "ausentes": 3,
+  "espera_media_s": 561
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-31T16:53:50.644Z",
-  "min_sem_lead": 34801
+  "ultimo_lead_at": "2026-08-09T19:57:58.484Z",
+  "min_sem_lead": 21672
  },
  "leads": [
   {
