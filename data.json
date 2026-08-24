@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/08/2026, 15:30",
+ "gerado_em": "24/08/2026, 15:45",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -100,10 +100,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 906,
-  "respondidos": 899,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 910,
+  "respondidos": 902,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -128,13 +128,13 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 26,
+    "respostas": 28,
     "mediana_min": 3.9
    },
    {
     "nome": "Eduardo",
-    "respostas": 25,
-    "mediana_min": 8.3
+    "respostas": 26,
+    "mediana_min": 12.5
    },
    {
     "nome": "Tiago Bernardo",
@@ -154,28 +154,34 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
+    "dia": "24/08",
+    "desde": "15:41",
+    "ts": 1787596903148
+   },
+   {
+    "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
+    "dia": "24/08",
+    "desde": "15:37",
+    "ts": 1787596672144
+   },
+   {
+    "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
+    "dia": "24/08",
+    "desde": "15:32",
+    "ts": 1787596340142
+   },
+   {
     "grupo": "A.J.P.B",
     "dia": "24/08",
     "desde": "14:58",
     "ts": 1787594280178
    },
    {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "24/08",
-    "desde": "12:36",
-    "ts": 1787585808992
-   },
-   {
     "grupo": "A.J.D.S x EXPRESSO NEPOMUCENO SA",
     "dia": "24/08",
     "desde": "12:00",
     "ts": 1787583655787
-   },
-   {
-    "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
-    "dia": "20/08",
-    "desde": "16:38",
-    "ts": 1787254704938
    },
    {
     "grupo": "A.J.C",
@@ -298,28 +304,34 @@
     "ts": 1787168475452
    },
    {
-    "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
-    "dia": "20/08",
-    "desde": "16:38",
-    "ts": 1787254704938
-   },
-   {
     "grupo": "A.J.D.S x EXPRESSO NEPOMUCENO SA",
     "dia": "24/08",
     "desde": "12:00",
     "ts": 1787583655787
    },
    {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "24/08",
-    "desde": "12:36",
-    "ts": 1787585808992
-   },
-   {
     "grupo": "A.J.P.B",
     "dia": "24/08",
     "desde": "14:58",
     "ts": 1787594280178
+   },
+   {
+    "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
+    "dia": "24/08",
+    "desde": "15:32",
+    "ts": 1787596340142
+   },
+   {
+    "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
+    "dia": "24/08",
+    "desde": "15:37",
+    "ts": 1787596672144
+   },
+   {
+    "grupo": "T.S.D.D.S x ICTS GLOBAL DO BRASIL LTDA.",
+    "dia": "24/08",
+    "desde": "15:41",
+    "ts": 1787596903148
    }
   ]
  },
@@ -388,8 +400,8 @@
   "espera_media_s": 573
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T14:39:54.352Z",
-  "min_sem_lead": 40550
+  "ultimo_lead_at": "2026-08-21T17:25:05.431Z",
+  "min_sem_lead": 4400
  },
  "leads": [
   {
