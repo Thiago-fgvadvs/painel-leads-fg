@@ -1,31 +1,40 @@
 {
- "gerado_em": "24/08/2026, 11:01",
+ "gerado_em": "24/08/2026, 11:16",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 8,
+  "total": 24,
+  "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 2,
   "fora_horario": 10,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 295,
-  "tickets_abertos": 528,
+  "leads_7d": 298,
+  "tickets_abertos": 530,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 18,
+   "leads": 20,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Roseli",
+   "leads": 1,
+   "mediana_min": 1.1
   }
  ],
  "origem": {
-  "Anuncio": 19,
-  "Direto/Indicacao": 2
+  "Anuncio": 20,
+  "Direto/Indicacao": 4
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcWwCdqsC0r/",
+   "leads": 2
+  },
   {
    "url": "fb.me/8klt3OBuk",
    "leads": 2
@@ -43,25 +52,21 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcWwGJoss64/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcWteCZMgFJ/",
    "leads": 1
   },
   {
    "url": "fb.me/7VpAO4sFl",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcYcthjsBkJ/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/4CgROu63S",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
-  "Nao identificada": 6
+  "Trabalhista": 17,
+  "Nao identificada": 7
  },
  "sem_resposta_lista": [
   {
@@ -81,21 +86,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 210,
-  "turnos": 840,
-  "respondidos": 833,
+  "turnos": 845,
+  "respondidos": 838,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 666,
+    "respostas": 670,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 43,
-    "mediana_min": 9.8
+    "respostas": 44,
+    "mediana_min": 9.6
    },
    {
     "nome": "Luisa",
@@ -346,19 +351,63 @@
   ]
  },
  "agora": {
-  "fila": 433,
-  "abertos": 528,
+  "fila": 430,
+  "abertos": 530,
   "com_atendimento": 6,
   "online": 5,
-  "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 579
+  "offline": 3,
+  "ausentes": 0,
+  "espera_media_s": 576
  },
  "captacao": {
-  "ultimo_lead_at": "2025-11-03T12:28:59.280Z",
-  "min_sem_lead": 423452
+  "ultimo_lead_at": "2026-08-09T19:57:58.484Z",
+  "min_sem_lead": 21259
  },
  "leads": [
+  {
+   "nome": "556499975247",
+   "tel": "5564*****247",
+   "criado": "11:14",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwCdqsC0r/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Gaby😌",
+   "tel": "5585*****947",
+   "criado": "11:09",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Fabio",
+   "tel": "5521*****277",
+   "criado": "06:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGJoss64/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Leo Lopes (Bahia)",
+   "tel": "5547*****968",
+   "criado": "11:03",
+   "atendente": "Roseli",
+   "espera_min": 1.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "554784235074",
    "tel": "5547*****074",
@@ -479,17 +528,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4CgROu63S",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Fabio",
-   "tel": "5521*****277",
-   "criado": "06:36",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGJoss64/",
-   "area": "Trabalhista"
   },
   {
    "nome": "ivairpardial811",
