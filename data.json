@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/08/2026, 15:11",
+ "gerado_em": "24/08/2026, 15:26",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
-  "no_sla": 13,
+  "total": 28,
+  "no_sla": 14,
   "fora_sla": 1,
   "sem_resposta": 3,
   "fora_horario": 10,
   "pct_sla": 93,
   "mediana_geral": 0.4,
-  "leads_7d": 301,
-  "tickets_abertos": 533,
+  "leads_7d": 302,
+  "tickets_abertos": 534,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 22,
+   "leads": 23,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 23,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -60,12 +60,12 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcWteCZMgFJ/",
+   "url": "fb.me/4Q2iDxnnc",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 19,
+  "Trabalhista": 20,
   "Nao identificada": 8
  },
  "sem_resposta_lista": [
@@ -100,15 +100,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 902,
-  "respondidos": 895,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 906,
+  "respondidos": 898,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 716,
+    "respostas": 717,
     "mediana_min": 2.2
    },
    {
@@ -127,14 +127,14 @@
     "mediana_min": 3.1
    },
    {
+    "nome": "Roseli",
+    "respostas": 26,
+    "mediana_min": 3.9
+   },
+   {
     "nome": "Eduardo",
     "respostas": 25,
     "mediana_min": 8.3
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 24,
-    "mediana_min": 4.1
    },
    {
     "nome": "Tiago Bernardo",
@@ -153,6 +153,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.V.T x NASCIMENTO SERVICOS DE LIMPEZA LTDA",
+    "dia": "24/08",
+    "desde": "15:25",
+    "ts": 1787595914191
+   },
    {
     "grupo": "A.J.P.B",
     "dia": "24/08",
@@ -320,6 +326,12 @@
     "dia": "24/08",
     "desde": "14:58",
     "ts": 1787594280178
+   },
+   {
+    "grupo": "M.V.T x NASCIMENTO SERVICOS DE LIMPEZA LTDA",
+    "dia": "24/08",
+    "desde": "15:25",
+    "ts": 1787595914191
    }
   ]
  },
@@ -379,17 +391,17 @@
   ]
  },
  "agora": {
-  "fila": 431,
-  "abertos": 533,
+  "fila": 432,
+  "abertos": 534,
   "com_atendimento": 6,
-  "online": 4,
-  "offline": 4,
+  "online": 5,
+  "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 574
+  "espera_media_s": 573
  },
  "captacao": {
-  "ultimo_lead_at": "2026-01-29T20:29:06.852Z",
-  "min_sem_lead": 297942
+  "ultimo_lead_at": "2026-08-24T09:36:19.326Z",
+  "min_sem_lead": 530
  },
  "leads": [
   {
@@ -401,6 +413,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGJoss64/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "556892063939",
+   "tel": "5568*****939",
+   "criado": "15:13",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4Q2iDxnnc",
    "area": "Trabalhista"
   },
   {
