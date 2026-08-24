@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/08/2026, 19:26",
+ "gerado_em": "24/08/2026, 19:41",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 34,
+  "total": 35,
   "no_sla": 20,
   "fora_sla": 1,
   "sem_resposta": 3,
-  "fora_horario": 10,
+  "fora_horario": 11,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 308,
-  "tickets_abertos": 538,
+  "leads_7d": 309,
+  "tickets_abertos": 539,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 29,
+   "leads": 30,
    "mediana_min": 0.4
   },
   {
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 29,
+  "Anuncio": 30,
   "Direto/Indicacao": 5
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcWwGKMsEU4/",
+   "leads": 2
+  },
   {
    "url": "fb.me/4Q2iDxnnc",
    "leads": 2
@@ -58,15 +62,11 @@
   {
    "url": "www.instagram.com/p/DcWtSLhMddD/",
    "leads": 2
-  },
-  {
-   "url": "fb.me/7TDTlEldJ",
-   "leads": 2
   }
  ],
  "areas": {
+  "Trabalhista": 25,
   "Previdenciario": 1,
-  "Trabalhista": 24,
   "Nao identificada": 9
  },
  "sem_resposta_lista": [
@@ -101,10 +101,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 222,
-  "turnos": 949,
+  "turnos": 950,
   "respondidos": 943,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -154,6 +154,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "dia": "24/08",
+    "desde": "19:36",
+    "ts": 1787610998236
+   },
    {
     "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
     "dia": "24/08",
@@ -271,13 +277,6 @@
     "dia": "24/08",
     "desde": "10:44",
     "ts": 1787579050750
-   },
-   {
-    "nome": "5515991519499",
-    "tel": "5515*****499",
-    "dia": "24/08",
-    "desde": "18:54",
-    "ts": 1787608451027
    }
   ],
   "grupos": [
@@ -316,6 +315,12 @@
     "dia": "24/08",
     "desde": "18:09",
     "ts": 1787605795931
+   },
+   {
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "dia": "24/08",
+    "desde": "19:36",
+    "ts": 1787610998236
    }
   ]
  },
@@ -393,19 +398,30 @@
   ]
  },
  "agora": {
-  "fila": 442,
-  "abertos": 538,
+  "fila": 443,
+  "abertos": 539,
   "com_atendimento": 6,
   "online": 0,
   "offline": 6,
   "ausentes": 2,
-  "espera_media_s": 561
+  "espera_media_s": 560
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T18:56:06.599Z",
-  "min_sem_lead": 20370
+  "ultimo_lead_at": "2026-08-24T22:26:41.489Z",
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "558194810269",
+   "tel": "5581*****269",
+   "criado": "19:26",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.1,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5515991519499",
    "tel": "5515*****499",
