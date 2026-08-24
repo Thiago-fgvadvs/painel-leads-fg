@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/08/2026, 20:27",
+ "gerado_em": "24/08/2026, 20:42",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 95,
   "mediana_geral": 0.4,
   "leads_7d": 312,
-  "tickets_abertos": 542,
+  "tickets_abertos": 543,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -32,6 +32,10 @@
  },
  "criativos": [
   {
+   "url": "www.instagram.com/p/DcWwGJoss64/",
+   "leads": 2
+  },
+  {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
    "leads": 2
   },
@@ -41,10 +45,6 @@
   },
   {
    "url": "fb.me/4Q2iDxnnc",
-   "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DcWwGJoss64/",
    "leads": 2
   },
   {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 10,
   "Trabalhista": 27,
+  "Nao identificada": 10,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
@@ -101,15 +101,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 222,
-  "turnos": 952,
-  "respondidos": 945,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 954,
+  "respondidos": 946,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 744,
+    "respostas": 745,
     "mediana_min": 2.2
    },
    {
@@ -154,6 +154,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "24/08",
+    "desde": "20:38",
+    "ts": 1787614685003
+   },
    {
     "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
     "dia": "24/08",
@@ -321,6 +327,12 @@
     "dia": "24/08",
     "desde": "19:36",
     "ts": 1787610998236
+   },
+   {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "24/08",
+    "desde": "20:38",
+    "ts": 1787614685003
    }
   ]
  },
@@ -399,19 +411,30 @@
   ]
  },
  "agora": {
-  "fila": 446,
-  "abertos": 542,
+  "fila": 447,
+  "abertos": 543,
   "com_atendimento": 6,
-  "online": 0,
+  "online": 1,
   "offline": 7,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 557
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-12T14:41:37.979Z",
-  "min_sem_lead": 17805
+  "min_sem_lead": 17821
  },
  "leads": [
+  {
+   "nome": "Ana Cláudia",
+   "tel": "5531*****715",
+   "criado": "18:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGJoss64/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Marlene",
    "tel": "5522*****091",
@@ -424,7 +447,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "558194810269",
+   "nome": "Elidiane",
    "tel": "5581*****269",
    "criado": "19:26",
    "atendente": "FG Advogados - Isadora ",
@@ -446,7 +469,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5546933004787",
+   "nome": "Jandir Iappe",
    "tel": "5546*****787",
    "criado": "19:47",
    "atendente": "FG Advogados - Isadora ",
@@ -457,7 +480,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5515991519499",
+   "nome": "dezevieira713",
    "tel": "5515*****499",
    "criado": "18:54",
    "atendente": "FG Advogados - Isadora ",
@@ -466,17 +489,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4Q2iDxnnc",
    "area": "Previdenciario"
-  },
-  {
-   "nome": "553183654715",
-   "tel": "5531*****715",
-   "criado": "18:25",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGJoss64/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Cláudia GPS",
@@ -490,7 +502,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "553197142759",
+   "nome": "Eug",
    "tel": "5531*****759",
    "criado": "16:39",
    "atendente": "FG Advogados - Isadora ",
@@ -545,7 +557,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556892063939",
+   "nome": "Ana Helena",
    "tel": "5568*****939",
    "criado": "15:13",
    "atendente": "FG Advogados - Isadora ",
