@@ -1,17 +1,17 @@
 {
- "gerado_em": "24/08/2026, 12:54",
+ "gerado_em": "24/08/2026, 13:10",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 27,
   "no_sla": 13,
   "fora_sla": 1,
-  "sem_resposta": 2,
+  "sem_resposta": 3,
   "fora_horario": 10,
   "pct_sla": 93,
   "mediana_geral": 0.4,
   "leads_7d": 301,
-  "tickets_abertos": 537,
+  "tickets_abertos": 538,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 8,
-  "Trabalhista": 19
+  "Trabalhista": 19,
+  "Nao identificada": 8
  },
  "sem_resposta_lista": [
   {
@@ -79,6 +79,12 @@
    "nome": "masochist",
    "tel": "5573*****654",
    "criado": "00:46",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5515996820144",
+   "tel": "5515*****144",
+   "criado": "00:27",
    "area": "Nao identificada"
   }
  ],
@@ -94,20 +100,20 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 210,
-  "turnos": 876,
-  "respondidos": 868,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "turnos": 881,
+  "respondidos": 874,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 694,
+    "respostas": 698,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 50,
+    "respostas": 52,
     "mediana_min": 9.6
    },
    {
@@ -147,12 +153,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "A.C.M x LOJAS AVANCE MOVEIS E ELETRO LTDA",
-    "dia": "24/08",
-    "desde": "12:45",
-    "ts": 1787586349135
-   },
    {
     "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
     "dia": "24/08",
@@ -320,12 +320,6 @@
     "dia": "24/08",
     "desde": "12:36",
     "ts": 1787585808992
-   },
-   {
-    "grupo": "A.C.M x LOJAS AVANCE MOVEIS E ELETRO LTDA",
-    "dia": "24/08",
-    "desde": "12:45",
-    "ts": 1787586349135
    }
   ]
  },
@@ -385,30 +379,19 @@
   ]
  },
  "agora": {
-  "fila": 431,
-  "abertos": 537,
+  "fila": 432,
+  "abertos": 538,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 3,
   "offline": 4,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 576
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T14:03:25.416Z",
-  "min_sem_lead": 111
+  "ultimo_lead_at": "2026-08-24T13:28:50.094Z",
+  "min_sem_lead": 161
  },
  "leads": [
-  {
-   "nome": "Leo Lopes",
-   "tel": "5547*****968",
-   "criado": "11:03",
-   "atendente": "Roseli",
-   "espera_min": 1.1,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
   {
    "nome": "Cláudia GPS",
    "tel": "5533*****298",
@@ -419,6 +402,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/8klt3OBuk",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Itamar Bernardo de Oliveira",
+   "tel": "5521*****931",
+   "criado": "09:52",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9xkDO4bMv",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Leo Lopes",
+   "tel": "5547*****968",
+   "criado": "11:03",
+   "atendente": "Roseli",
+   "espera_min": 1.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Renata",
@@ -473,17 +478,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7VpAO4sFl",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Itamar Bernardo de Oliveira",
-   "tel": "5521*****931",
-   "criado": "09:52",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/9xkDO4bMv",
    "area": "Trabalhista"
   },
   {
@@ -663,6 +657,17 @@
    "area": "Nao identificada"
   },
   {
+   "nome": "5515996820144",
+   "tel": "5515*****144",
+   "criado": "00:27",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
    "nome": "Matilde Souza",
    "tel": "5541*****705",
    "criado": "00:19",
@@ -682,17 +687,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/44ChDfwSg",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5515996820144",
-   "tel": "5515*****144",
-   "criado": "00:27",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Nao identificada"
   }
  ]
