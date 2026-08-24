@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/08/2026, 10:45",
+ "gerado_em": "24/08/2026, 11:01",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 21,
-  "no_sla": 7,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 2,
   "fora_horario": 10,
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 295,
-  "tickets_abertos": 525,
+  "tickets_abertos": 528,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 17,
+   "leads": 18,
    "mediana_min": 0.4
   }
  ],
@@ -60,13 +60,13 @@
   }
  ],
  "areas": {
-  "Nao identificada": 7,
-  "Trabalhista": 14
+  "Trabalhista": 15,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [
   {
-   "nome": "554784235074",
-   "tel": "5547*****074",
+   "nome": "5521969749516",
+   "tel": "5521*****516",
    "criado": "10:44",
    "area": "Nao identificada"
   },
@@ -80,22 +80,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 208,
-  "turnos": 835,
-  "respondidos": 829,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "grupos_ativos": 210,
+  "turnos": 840,
+  "respondidos": 833,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 664,
+    "respostas": 666,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 41,
-    "mediana_min": 12.4
+    "respostas": 43,
+    "mediana_min": 9.8
    },
    {
     "nome": "Luisa",
@@ -137,8 +137,14 @@
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "24/08",
-    "desde": "10:39",
-    "ts": 1787578771989
+    "desde": "10:57",
+    "ts": 1787579860002
+   },
+   {
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "dia": "24/08",
+    "desde": "10:48",
+    "ts": 1787579314907
    },
    {
     "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
@@ -230,6 +236,13 @@
     "dia": "24/08",
     "desde": "00:46",
     "ts": 1787543215812
+   },
+   {
+    "nome": "5521969749516",
+    "tel": "5521*****516",
+    "dia": "24/08",
+    "desde": "10:44",
+    "ts": 1787579050750
    }
   ],
   "grupos": [
@@ -264,10 +277,16 @@
     "ts": 1787577474037
    },
    {
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "dia": "24/08",
+    "desde": "10:48",
+    "ts": 1787579314907
+   },
+   {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "24/08",
-    "desde": "10:39",
-    "ts": 1787578771989
+    "desde": "10:57",
+    "ts": 1787579860002
    }
   ]
  },
@@ -328,27 +347,38 @@
  },
  "agora": {
   "fila": 433,
-  "abertos": 525,
+  "abertos": 528,
   "com_atendimento": 6,
-  "online": 6,
+  "online": 5,
   "offline": 2,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 579
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T13:44:51.167Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2025-11-03T12:28:59.280Z",
+  "min_sem_lead": 423452
  },
  "leads": [
   {
    "nome": "554784235074",
    "tel": "5547*****074",
    "criado": "10:44",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8klt3OBuk",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5521969749516",
+   "tel": "5521*****516",
+   "criado": "10:44",
    "atendente": "—",
    "espera_min": null,
    "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/8klt3OBuk",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   },
   {
@@ -553,17 +583,6 @@
    "nome": "5515996820144",
    "tel": "5515*****144",
    "criado": "00:27",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5521969749516",
-   "tel": "5521*****516",
-   "criado": "10:44",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
