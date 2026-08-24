@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/08/2026, 13:26",
+ "gerado_em": "24/08/2026, 13:41",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -99,22 +99,22 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 211,
-  "turnos": 882,
-  "respondidos": 875,
+  "grupos_ativos": 214,
+  "turnos": 887,
+  "respondidos": 880,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 699,
+    "respostas": 703,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 52,
-    "mediana_min": 9.6
+    "respostas": 53,
+    "mediana_min": 9.8
    },
    {
     "nome": "Luisa",
@@ -382,14 +382,14 @@
   "fila": 432,
   "abertos": 538,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 4,
   "offline": 3,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 576
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T12:52:15.338Z",
-  "min_sem_lead": 213
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 701361
  },
  "leads": [
   {
@@ -402,6 +402,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/9xkDO4bMv",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Leo Lopes",
+   "tel": "5547*****968",
+   "criado": "11:03",
+   "atendente": "Roseli",
+   "espera_min": 1.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Cláudia GPS",
@@ -424,17 +435,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/9xkDO4bMv",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Leo Lopes",
-   "tel": "5547*****968",
-   "criado": "11:03",
-   "atendente": "Roseli",
-   "espera_min": 1.1,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Renata",
