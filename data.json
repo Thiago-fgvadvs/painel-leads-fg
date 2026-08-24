@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/08/2026, 19:56",
+ "gerado_em": "24/08/2026, 20:11",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 37,
+  "total": 38,
   "no_sla": 20,
   "fora_sla": 1,
   "sem_resposta": 3,
-  "fora_horario": 13,
+  "fora_horario": 14,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 311,
-  "tickets_abertos": 541,
+  "leads_7d": 312,
+  "tickets_abertos": 542,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 32,
+   "leads": 33,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 31,
+  "Anuncio": 32,
   "Direto/Indicacao": 6
  },
  "criativos": [
@@ -65,9 +65,9 @@
   }
  ],
  "areas": {
+  "Nao identificada": 10,
   "Trabalhista": 27,
-  "Previdenciario": 1,
-  "Nao identificada": 9
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [
   {
@@ -101,15 +101,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 222,
-  "turnos": 950,
-  "respondidos": 943,
+  "turnos": 951,
+  "respondidos": 944,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 742,
+    "respostas": 743,
     "mediana_min": 2.2
    },
    {
@@ -329,8 +329,8 @@
   "total": 7,
   "por_vendedor": {
    "Roseli": 2,
-   "Tiago Bernardo": 4,
-   "FG Advogados - Isadora ": 1
+   "FG Advogados - Isadora ": 4,
+   "Tiago Bernardo": 1
   },
   "lista": [
    {
@@ -343,7 +343,7 @@
     "de_anuncio": true
    },
    {
-    "vendedor": "Tiago Bernardo",
+    "vendedor": "FG Advogados - Isadora ",
     "cliente": "P",
     "dia": "24/08",
     "hora": "16:30",
@@ -352,7 +352,7 @@
     "de_anuncio": true
    },
    {
-    "vendedor": "Tiago Bernardo",
+    "vendedor": "FG Advogados - Isadora ",
     "cliente": "T.H.A.E.O.J",
     "dia": "21/08",
     "hora": "22:22",
@@ -388,7 +388,7 @@
     "de_anuncio": true
    },
    {
-    "vendedor": "Tiago Bernardo",
+    "vendedor": "FG Advogados - Isadora ",
     "cliente": "M",
     "dia": "19/08",
     "hora": "10:08",
@@ -399,19 +399,30 @@
   ]
  },
  "agora": {
-  "fila": 445,
-  "abertos": 541,
+  "fila": 446,
+  "abertos": 542,
   "com_atendimento": 6,
-  "online": 1,
-  "offline": 6,
+  "online": 0,
+  "offline": 7,
   "ausentes": 1,
-  "espera_media_s": 558
+  "espera_media_s": 557
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T22:26:41.489Z",
-  "min_sem_lead": 30
+  "ultimo_lead_at": "2026-08-12T14:41:37.979Z",
+  "min_sem_lead": 17790
  },
  "leads": [
+  {
+   "nome": "Marlene",
+   "tel": "5522*****091",
+   "criado": "20:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4GjAyWZsF",
+   "area": "Nao identificada"
+  },
   {
    "nome": "558194810269",
    "tel": "5581*****269",
