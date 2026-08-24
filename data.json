@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/08/2026, 11:16",
+ "gerado_em": "24/08/2026, 11:21",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 298,
-  "tickets_abertos": 530,
+  "tickets_abertos": 531,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 17,
-  "Nao identificada": 7
+  "Nao identificada": 7,
+  "Trabalhista": 17
  },
  "sem_resposta_lista": [
   {
@@ -86,10 +86,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 210,
-  "turnos": 845,
-  "respondidos": 838,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 847,
+  "respondidos": 839,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -99,8 +99,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 44,
-    "mediana_min": 9.6
+    "respostas": 45,
+    "mediana_min": 9.3
    },
    {
     "nome": "Luisa",
@@ -139,6 +139,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.C.M x LOJAS AVANCE MOVEIS E ELETRO LTDA",
+    "dia": "24/08",
+    "desde": "11:20",
+    "ts": 1787581202023
+   },
    {
     "grupo": "J.C.R x SUPERMERCADO PADRAO DO FONSECA LTDA",
     "dia": "24/08",
@@ -292,6 +298,12 @@
     "dia": "24/08",
     "desde": "10:57",
     "ts": 1787579860002
+   },
+   {
+    "grupo": "A.C.M x LOJAS AVANCE MOVEIS E ELETRO LTDA",
+    "dia": "24/08",
+    "desde": "11:20",
+    "ts": 1787581202023
    }
   ]
  },
@@ -351,8 +363,8 @@
   ]
  },
  "agora": {
-  "fila": 430,
-  "abertos": 530,
+  "fila": 429,
+  "abertos": 531,
   "com_atendimento": 6,
   "online": 5,
   "offline": 3,
@@ -360,20 +372,20 @@
   "espera_media_s": 576
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T19:57:58.484Z",
-  "min_sem_lead": 21259
+  "ultimo_lead_at": "2026-08-24T14:14:52.305Z",
+  "min_sem_lead": 6
  },
  "leads": [
   {
-   "nome": "556499975247",
-   "tel": "5564*****247",
-   "criado": "11:14",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
+   "nome": "Leo Lopes (Bahia)",
+   "tel": "5547*****968",
+   "criado": "11:03",
+   "atendente": "Roseli",
+   "espera_min": 1.1,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwCdqsC0r/",
-   "area": "Trabalhista"
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Gaby😌",
@@ -387,6 +399,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "556499975247",
+   "tel": "5564*****247",
+   "criado": "11:14",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwCdqsC0r/",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "Fabio",
    "tel": "5521*****277",
    "criado": "06:36",
@@ -396,17 +419,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGJoss64/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Leo Lopes (Bahia)",
-   "tel": "5547*****968",
-   "criado": "11:03",
-   "atendente": "Roseli",
-   "espera_min": 1.1,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "554784235074",
