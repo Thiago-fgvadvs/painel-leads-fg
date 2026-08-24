@@ -1,28 +1,28 @@
 {
- "gerado_em": "24/08/2026, 10:14",
+ "gerado_em": "24/08/2026, 10:30",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
-  "no_sla": 3,
+  "total": 18,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 10,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 289,
-  "tickets_abertos": 521,
+  "leads_7d": 292,
+  "tickets_abertos": 525,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 13,
+   "leads": 16,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 17,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -39,29 +39,29 @@
    "leads": 2
   },
   {
+   "url": "fb.me/8klt3OBuk",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/7VpAO4sFl",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DcYcthjsBkJ/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/4CgROu63S",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcWwGJoss64/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/8dFBqq9oB",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/7ZAdj3JKf",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/4mTU3s0jH",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 11,
-  "Nao identificada": 4
+  "Trabalhista": 13,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [
   {
@@ -75,15 +75,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 208,
-  "turnos": 824,
-  "respondidos": 819,
+  "turnos": 831,
+  "respondidos": 826,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 658,
+    "respostas": 662,
     "mediana_min": 2.2
    },
    {
@@ -98,8 +98,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 27,
-    "mediana_min": 3.7
+    "respostas": 30,
+    "mediana_min": 2.8
    },
    {
     "nome": "Eduardo",
@@ -129,10 +129,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
     "dia": "24/08",
-    "desde": "10:12",
-    "ts": 1787577152967
+    "desde": "10:17",
+    "ts": 1787577474037
    },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
@@ -246,10 +246,10 @@
     "ts": 1787254704938
    },
    {
-    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "grupo": "M.F.F x PROINVICTA SEGURANCA PRIVADA LTDA",
     "dia": "24/08",
-    "desde": "10:12",
-    "ts": 1787577152967
+    "desde": "10:17",
+    "ts": 1787577474037
    }
   ]
  },
@@ -309,19 +309,52 @@
   ]
  },
  "agora": {
-  "fila": 430,
-  "abertos": 521,
+  "fila": 433,
+  "abertos": 525,
   "com_atendimento": 6,
-  "online": 3,
-  "offline": 4,
-  "ausentes": 1,
-  "espera_media_s": 587
+  "online": 4,
+  "offline": 2,
+  "ausentes": 2,
+  "espera_media_s": 582
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T12:52:15.338Z",
-  "min_sem_lead": 22
+  "ultimo_lead_at": "2026-05-20T13:42:51.111Z",
+  "min_sem_lead": 138227
  },
  "leads": [
+  {
+   "nome": "553399286298",
+   "tel": "5533*****298",
+   "criado": "10:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8klt3OBuk",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Jocelaine Fariasde Andrad",
+   "tel": "5551*****601",
+   "criado": "10:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7VpAO4sFl",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "556781618386",
+   "tel": "5567*****386",
+   "criado": "10:26",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcYcthjsBkJ/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Itamar Bernardo de Oliveira",
    "tel": "5521*****931",
