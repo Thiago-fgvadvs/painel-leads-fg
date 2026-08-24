@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/08/2026, 19:41",
+ "gerado_em": "24/08/2026, 19:56",
  "data_ref": "24/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 35,
+  "total": 37,
   "no_sla": 20,
   "fora_sla": 1,
   "sem_resposta": 3,
-  "fora_horario": 11,
+  "fora_horario": 13,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 309,
-  "tickets_abertos": 539,
+  "leads_7d": 311,
+  "tickets_abertos": 541,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 30,
+   "leads": 32,
    "mediana_min": 0.4
   },
   {
@@ -27,12 +27,16 @@
   }
  ],
  "origem": {
-  "Anuncio": 30,
-  "Direto/Indicacao": 5
+  "Anuncio": 31,
+  "Direto/Indicacao": 6
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/8dFBqq9oB",
    "leads": 2
   },
   {
@@ -58,14 +62,10 @@
   {
    "url": "www.instagram.com/p/DcWwCdqsC0r/",
    "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DcWtSLhMddD/",
-   "leads": 2
   }
  ],
  "areas": {
-  "Trabalhista": 25,
+  "Trabalhista": 27,
   "Previdenciario": 1,
   "Nao identificada": 9
  },
@@ -329,7 +329,8 @@
   "total": 7,
   "por_vendedor": {
    "Roseli": 2,
-   "Tiago Bernardo": 5
+   "Tiago Bernardo": 4,
+   "FG Advogados - Isadora ": 1
   },
   "lista": [
    {
@@ -360,7 +361,7 @@
     "de_anuncio": true
    },
    {
-    "vendedor": "Tiago Bernardo",
+    "vendedor": "FG Advogados - Isadora ",
     "cliente": "M.H",
     "dia": "21/08",
     "hora": "15:03",
@@ -398,17 +399,17 @@
   ]
  },
  "agora": {
-  "fila": 443,
-  "abertos": 539,
+  "fila": 445,
+  "abertos": 541,
   "com_atendimento": 6,
-  "online": 0,
+  "online": 1,
   "offline": 6,
-  "ausentes": 2,
-  "espera_media_s": 560
+  "ausentes": 1,
+  "espera_media_s": 558
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-24T22:26:41.489Z",
-  "min_sem_lead": 15
+  "min_sem_lead": 30
  },
  "leads": [
   {
@@ -420,6 +421,28 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Kay",
+   "tel": "5531*****993",
+   "criado": "19:49",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5546933004787",
+   "tel": "5546*****787",
+   "criado": "19:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8dFBqq9oB",
    "area": "Trabalhista"
   },
   {
