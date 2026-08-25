@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/08/2026, 09:31",
+ "gerado_em": "25/08/2026, 09:46",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 267,
-  "tickets_abertos": 561,
+  "tickets_abertos": 559,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,23 +60,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
-  "Nao identificada": 6
+  "Nao identificada": 6,
+  "Trabalhista": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 198,
-  "turnos": 755,
-  "respondidos": 748,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 760,
+  "respondidos": 752,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 620,
+    "respostas": 624,
     "mediana_min": 2.2
    },
    {
@@ -116,6 +116,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.B.D.M x CONDOMINIO COMPLEXO IGUATEMI RIBEIRAO PRETO",
+    "dia": "25/08",
+    "desde": "09:02",
+    "ts": 1787659349063
+   },
    {
     "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
     "dia": "24/08",
@@ -283,16 +289,21 @@
     "dia": "24/08",
     "desde": "19:36",
     "ts": 1787610998236
+   },
+   {
+    "grupo": "A.B.D.M x CONDOMINIO COMPLEXO IGUATEMI RIBEIRAO PRETO",
+    "dia": "25/08",
+    "desde": "09:02",
+    "ts": 1787659349063
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 7,
+  "total": 6,
   "por_vendedor": {
    "Roseli": 2,
-   "FG Advogados - Isadora ": 4,
-   "Tiago Bernardo": 1
+   "FG Advogados - Isadora ": 4
   },
   "lista": [
    {
@@ -310,7 +321,7 @@
     "dia": "24/08",
     "hora": "16:30",
     "ts": 1787599837256,
-    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
+    "origem": "Anúncio: fb.me/43tXytZoW",
     "de_anuncio": true
    },
    {
@@ -341,15 +352,6 @@
     "de_anuncio": false
    },
    {
-    "vendedor": "Tiago Bernardo",
-    "cliente": "J",
-    "dia": "19/08",
-    "hora": "14:45",
-    "ts": 1787161554144,
-    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
-    "de_anuncio": true
-   },
-   {
     "vendedor": "FG Advogados - Isadora ",
     "cliente": "M",
     "dia": "19/08",
@@ -361,30 +363,19 @@
   ]
  },
  "agora": {
-  "fila": 465,
-  "abertos": 561,
-  "com_atendimento": 6,
-  "online": 3,
-  "offline": 5,
+  "fila": 462,
+  "abertos": 559,
+  "com_atendimento": 7,
+  "online": 5,
+  "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 879
+  "espera_media_s": 661
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T17:41:48.524Z",
-  "min_sem_lead": 8329
+  "ultimo_lead_at": "2026-08-24T09:17:15.577Z",
+  "min_sem_lead": 1649
  },
  "leads": [
-  {
-   "nome": "Andeza",
-   "tel": "5551*****050",
-   "criado": "08:25",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Paulo Raia Ferreira",
    "tel": "5513*****123",
@@ -395,6 +386,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7X8GIt8so",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Andeza",
+   "tel": "5551*****050",
+   "criado": "08:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Fran",
