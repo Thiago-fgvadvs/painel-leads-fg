@@ -1,23 +1,23 @@
 {
- "gerado_em": "25/08/2026, 13:04",
+ "gerado_em": "25/08/2026, 13:45",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
-  "no_sla": 16,
+  "total": 24,
+  "no_sla": 18,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 279,
-  "tickets_abertos": 555,
+  "leads_7d": 281,
+  "tickets_abertos": 548,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 22,
    "mediana_min": 0.4
   },
   {
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
-  "Direto/Indicacao": 4
+  "Anuncio": 19,
+  "Direto/Indicacao": 5
  },
  "criativos": [
+  {
+   "url": "fb.me/44ChDfwSg",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
    "leads": 2
@@ -44,11 +48,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4JKqOuSgo",
+   "url": "fb.me/8dFBqq9oB",
    "leads": 1
   },
   {
-   "url": "fb.me/8dFBqq9oB",
+   "url": "fb.me/4JKqOuSgo",
    "leads": 1
   },
   {
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/7VpAO4sFl",
    "leads": 1
-  },
-  {
-   "url": "fb.me/8klt3OBuk",
-   "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 14,
-  "Nao identificada": 8
+  "Nao identificada": 10
  },
  "sem_resposta_lista": [
   {
@@ -79,22 +79,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 208,
-  "turnos": 832,
-  "respondidos": 824,
+  "grupos_ativos": 209,
+  "turnos": 844,
+  "respondidos": 836,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 676,
+    "respostas": 687,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 54,
-    "mediana_min": 8.8
+    "respostas": 55,
+    "mediana_min": 9.3
    },
    {
     "nome": "Roseli",
@@ -131,8 +131,8 @@
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "25/08",
-    "desde": "13:02",
-    "ts": 1787673762183
+    "desde": "13:16",
+    "ts": 1787674586233
    },
    {
     "grupo": "B.B.A.L x UNIMED",
@@ -298,8 +298,8 @@
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "25/08",
-    "desde": "13:02",
-    "ts": 1787673762183
+    "desde": "13:16",
+    "ts": 1787674586233
    }
   ]
  },
@@ -378,30 +378,19 @@
   ]
  },
  "agora": {
-  "fila": 460,
-  "abertos": 555,
+  "fila": 457,
+  "abertos": 548,
   "com_atendimento": 7,
-  "online": 3,
+  "online": 2,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 782
+  "ausentes": 3,
+  "espera_media_s": 665
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T19:01:21.776Z",
-  "min_sem_lead": 30064
+  "ultimo_lead_at": "2026-05-13T19:26:58.126Z",
+  "min_sem_lead": 149598
  },
  "leads": [
-  {
-   "nome": "viviane",
-   "tel": "5575*****418",
-   "criado": "00:08",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4JKqOuSgo",
-   "area": "Trabalhista"
-  },
   {
    "nome": "joseclaudionogueira651",
    "tel": "5533*****892",
@@ -411,6 +400,39 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/8dFBqq9oB",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Técnico De Telefone",
+   "tel": "5531*****309",
+   "criado": "13:09",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Mundica Souza",
+   "tel": "5588*****213",
+   "criado": "13:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/44ChDfwSg",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "viviane",
+   "tel": "5575*****418",
+   "criado": "00:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4JKqOuSgo",
    "area": "Trabalhista"
   },
   {
