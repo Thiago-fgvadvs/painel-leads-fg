@@ -1,16 +1,16 @@
 {
- "gerado_em": "25/08/2026, 10:47",
+ "gerado_em": "25/08/2026, 11:02",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 6,
+  "total": 13,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 269,
+  "leads_7d": 270,
   "tickets_abertos": 561,
   "periodo_dias": 7
  },
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 11,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 1.3
   }
  ],
  "origem": {
   "Anuncio": 11,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -61,28 +66,28 @@
  ],
  "areas": {
   "Trabalhista": 6,
-  "Nao identificada": 6
+  "Nao identificada": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 201,
-  "turnos": 784,
-  "respondidos": 773,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "turnos": 788,
+  "respondidos": 780,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 641,
+    "respostas": 646,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 45,
-    "mediana_min": 8.3
+    "respostas": 46,
+    "mediana_min": 8.1
    },
    {
     "nome": "Roseli",
@@ -91,8 +96,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 17,
-    "mediana_min": 19.2
+    "respostas": 18,
+    "mediana_min": 19.4
    },
    {
     "nome": "Gabrielle",
@@ -123,28 +128,10 @@
     "ts": 1787594280178
    },
    {
-    "grupo": "R.G.P x JBS SA",
-    "dia": "25/08",
-    "desde": "10:46",
-    "ts": 1787665570112
-   },
-   {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "25/08",
-    "desde": "10:42",
-    "ts": 1787665368145
-   },
-   {
     "grupo": "T.M.M x BANCO BRADESCO S.A",
     "dia": "25/08",
     "desde": "10:35",
     "ts": 1787664919135
-   },
-   {
-    "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
-    "dia": "25/08",
-    "desde": "10:32",
-    "ts": 1787664731098
    },
    {
     "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
@@ -309,39 +296,31 @@
     "ts": 1787610998236
    },
    {
-    "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
-    "dia": "25/08",
-    "desde": "10:32",
-    "ts": 1787664731098
-   },
-   {
     "grupo": "T.M.M x BANCO BRADESCO S.A",
     "dia": "25/08",
     "desde": "10:35",
     "ts": 1787664919135
-   },
-   {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "25/08",
-    "desde": "10:42",
-    "ts": 1787665368145
-   },
-   {
-    "grupo": "R.G.P x JBS SA",
-    "dia": "25/08",
-    "desde": "10:46",
-    "ts": 1787665570112
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 6,
+  "total": 7,
   "por_vendedor": {
+   "Tiago Bernardo": 1,
    "Roseli": 2,
    "FG Advogados - Isadora ": 4
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "A.M",
+    "dia": "25/08",
+    "hora": "10:53",
+    "ts": 1787665998442,
+    "origem": "Anúncio: Trabalhista - assédio  no trabalho",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "N",
@@ -399,17 +378,17 @@
   ]
  },
  "agora": {
-  "fila": 462,
+  "fila": 463,
   "abertos": 561,
-  "com_atendimento": 7,
-  "online": 4,
+  "com_atendimento": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 661
+  "ausentes": 0,
+  "espera_media_s": 660
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T00:05:48.489Z",
-  "min_sem_lead": 2262
+  "ultimo_lead_at": "2026-08-24T09:36:19.326Z",
+  "min_sem_lead": 1706
  },
  "leads": [
   {
@@ -422,6 +401,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Medlyn",
+   "tel": "5542*****469",
+   "criado": "10:51",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 1.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Andeza",
