@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/08/2026, 11:17",
+ "gerado_em": "25/08/2026, 11:33",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 271,
-  "tickets_abertos": 563,
+  "tickets_abertos": 558,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -72,32 +72,32 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 202,
-  "turnos": 792,
-  "respondidos": 784,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "grupos_ativos": 204,
+  "turnos": 799,
+  "respondidos": 793,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 649,
+    "respostas": 653,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 47,
-    "mediana_min": 8.3
+    "respostas": 50,
+    "mediana_min": 8.1
    },
    {
     "nome": "Roseli",
-    "respostas": 42,
-    "mediana_min": 3.3
+    "respostas": 43,
+    "mediana_min": 3.4
    },
    {
     "nome": "Eduardo",
-    "respostas": 18,
-    "mediana_min": 19.4
+    "respostas": 19,
+    "mediana_min": 19.2
    },
    {
     "nome": "Gabrielle",
@@ -122,10 +122,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "T.M.M x BANCO BRADESCO S.A",
+    "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
     "dia": "25/08",
-    "desde": "11:15",
-    "ts": 1787667343139
+    "desde": "11:27",
+    "ts": 1787668020151
    },
    {
     "grupo": "A.J.P.B",
@@ -138,18 +138,6 @@
     "dia": "24/08",
     "desde": "19:36",
     "ts": 1787610998236
-   },
-   {
-    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
-    "dia": "24/08",
-    "desde": "18:09",
-    "ts": 1787605795931
-   },
-   {
-    "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
-    "dia": "24/08",
-    "desde": "15:32",
-    "ts": 1787596340142
    },
    {
     "grupo": "A.J.C",
@@ -278,28 +266,16 @@
     "ts": 1787594280178
    },
    {
-    "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
-    "dia": "24/08",
-    "desde": "15:32",
-    "ts": 1787596340142
-   },
-   {
-    "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
-    "dia": "24/08",
-    "desde": "18:09",
-    "ts": 1787605795931
-   },
-   {
     "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
     "dia": "24/08",
     "desde": "19:36",
     "ts": 1787610998236
    },
    {
-    "grupo": "T.M.M x BANCO BRADESCO S.A",
+    "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
     "dia": "25/08",
-    "desde": "11:15",
-    "ts": 1787667343139
+    "desde": "11:27",
+    "ts": 1787668020151
    }
   ]
  },
@@ -378,17 +354,17 @@
   ]
  },
  "agora": {
-  "fila": 462,
-  "abertos": 563,
+  "fila": 461,
+  "abertos": 558,
   "com_atendimento": 7,
   "online": 4,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 664
+  "espera_media_s": 667
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-25T13:36:43.912Z",
-  "min_sem_lead": 41
+  "min_sem_lead": 56
  },
  "leads": [
   {
@@ -401,6 +377,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Medlyn",
+   "tel": "5542*****469",
+   "criado": "10:51",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 1.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Andeza",
@@ -423,17 +410,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7VvbFaWie",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Medlyn",
-   "tel": "5542*****469",
-   "criado": "10:51",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 1.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Paulo Raia Ferreira",
