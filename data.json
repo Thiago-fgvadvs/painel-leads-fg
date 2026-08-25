@@ -1,23 +1,23 @@
 {
- "gerado_em": "25/08/2026, 15:16",
+ "gerado_em": "25/08/2026, 15:32",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
-  "no_sla": 18,
+  "total": 25,
+  "no_sla": 19,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 281,
+  "leads_7d": 282,
   "tickets_abertos": 540,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 22,
+   "leads": 23,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -48,6 +48,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcWq6e0MnN3/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/4JKqOuSgo",
    "leads": 1
   },
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/8dFBqq9oB",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4mTU3s0jH",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 10,
-  "Trabalhista": 14
+  "Trabalhista": 15,
+  "Nao identificada": 10
  },
  "sem_resposta_lista": [
   {
@@ -79,16 +79,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 211,
-  "turnos": 858,
-  "respondidos": 852,
+  "grupos_ativos": 214,
+  "turnos": 860,
+  "respondidos": 854,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 702,
+    "respostas": 704,
     "mediana_min": 2.2
    },
    {
@@ -354,19 +354,30 @@
   ]
  },
  "agora": {
-  "fila": 457,
+  "fila": 458,
   "abertos": 540,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 2,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 672
+  "ausentes": 4,
+  "espera_media_s": 670
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T16:40:28.594Z",
-  "min_sem_lead": 18816
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 702912
  },
  "leads": [
+  {
+   "nome": "Felix de valois",
+   "tel": "5599*****438",
+   "criado": "15:26",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWq6e0MnN3/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Técnico De Telefone",
    "tel": "5531*****309",
