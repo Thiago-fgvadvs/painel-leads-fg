@@ -1,23 +1,23 @@
 {
- "gerado_em": "25/08/2026, 12:19",
+ "gerado_em": "25/08/2026, 12:34",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
-  "no_sla": 11,
+  "total": 20,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 274,
-  "tickets_abertos": 558,
+  "leads_7d": 277,
+  "tickets_abertos": 554,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 15,
+   "leads": 18,
    "mediana_min": 0.4
   },
   {
@@ -27,8 +27,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 15,
-  "Direto/Indicacao": 2
+  "Anuncio": 17,
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -44,11 +44,7 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcWtaQdsNaV/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/4JKqOuSgo",
+   "url": "fb.me/8klt3OBuk",
    "leads": 1
   },
   {
@@ -56,32 +52,36 @@
    "leads": 1
   },
   {
-   "url": "fb.me/bt9qnH8Gy",
+   "url": "fb.me/7VpAO4sFl",
    "leads": 1
   },
   {
-   "url": "fb.me/7VvbFaWie",
+   "url": "fb.me/8dFBqq9oB",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DcWtaQdsNaV/",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
-  "Nao identificada": 7
+  "Trabalhista": 12,
+  "Nao identificada": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 206,
-  "turnos": 815,
-  "respondidos": 809,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "turnos": 824,
+  "respondidos": 817,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 668,
+    "respostas": 676,
     "mediana_min": 2.2
    },
    {
@@ -121,6 +121,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "25/08",
+    "desde": "12:21",
+    "ts": 1787671305223
+   },
    {
     "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
     "dia": "25/08",
@@ -212,20 +218,6 @@
     "ts": 1787481689154
    },
    {
-    "nome": "557988077773",
-    "tel": "5579*****773",
-    "dia": "23/08",
-    "desde": "23:07",
-    "ts": 1787537241585
-   },
-   {
-    "nome": "5515996820144",
-    "tel": "5515*****144",
-    "dia": "24/08",
-    "desde": "00:27",
-    "ts": 1787542058140
-   },
-   {
     "nome": "masochist",
     "tel": "5573*****654",
     "dia": "24/08",
@@ -276,6 +268,12 @@
     "dia": "25/08",
     "desde": "11:27",
     "ts": 1787668020151
+   },
+   {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "25/08",
+    "desde": "12:21",
+    "ts": 1787671305223
    }
   ]
  },
@@ -354,21 +352,76 @@
   ]
  },
  "agora": {
-  "fila": 460,
-  "abertos": 558,
+  "fila": 457,
+  "abertos": 554,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 4,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 668
+  "ausentes": 2,
+  "espera_media_s": 784
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-25T15:15:40.385Z",
-  "min_sem_lead": 3
+  "ultimo_lead_at": "2026-08-19T10:29:32.168Z",
+  "min_sem_lead": 8945
  },
  "leads": [
   {
-   "nome": "557996315395",
+   "nome": "Gisele Deus E Fiel Maravi",
+   "tel": "5511*****683",
+   "criado": "12:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8klt3OBuk",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ramon Conrado🥋",
+   "tel": "5531*****537",
+   "criado": "12:10",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWu-o4sKN-/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Renatinho 57",
+   "tel": "5521*****868",
+   "criado": "01:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7VpAO4sFl",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511910602461",
+   "tel": "5511*****461",
+   "criado": "12:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553384320892",
+   "tel": "5533*****892",
+   "criado": "12:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8dFBqq9oB",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Deus Acima De Tudo👈",
    "tel": "5579*****395",
    "criado": "12:15",
    "atendente": "FG Advogados - Isadora ",
@@ -399,17 +452,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Ramon Conrado🥋",
-   "tel": "5531*****537",
-   "criado": "12:10",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWu-o4sKN-/",
-   "area": "Trabalhista"
   },
   {
    "nome": "😈👹👹😈",
@@ -520,17 +562,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/44ChDfwSg",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Renatinho 57",
-   "tel": "5521*****868",
-   "criado": "01:08",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7VpAO4sFl",
-   "area": "Trabalhista"
   },
   {
    "nome": "Gil  💪🏻",
