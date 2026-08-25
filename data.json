@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/08/2026, 17:49",
+ "gerado_em": "25/08/2026, 18:05",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 285,
-  "tickets_abertos": 538,
+  "tickets_abertos": 532,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -80,16 +80,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 232,
-  "turnos": 890,
-  "respondidos": 884,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "grupos_ativos": 233,
+  "turnos": 898,
+  "respondidos": 891,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 726,
+    "respostas": 733,
     "mediana_min": 2.2
    },
    {
@@ -129,6 +129,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "25/08",
+    "desde": "17:56",
+    "ts": 1787691393377
+   },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "25/08",
@@ -277,6 +283,12 @@
     "dia": "25/08",
     "desde": "13:16",
     "ts": 1787674586233
+   },
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "25/08",
+    "desde": "17:56",
+    "ts": 1787691393377
    }
   ]
  },
@@ -355,17 +367,17 @@
   ]
  },
  "agora": {
-  "fila": 455,
-  "abertos": 538,
+  "fila": 448,
+  "abertos": 532,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 3,
+  "online": 2,
+  "offline": 5,
   "ausentes": 1,
-  "espera_media_s": 551
+  "espera_media_s": 560
  },
  "captacao": {
-  "ultimo_lead_at": "2026-04-30T13:04:32.643Z",
-  "min_sem_lead": 168945
+  "ultimo_lead_at": "2026-08-13T23:47:25.684Z",
+  "min_sem_lead": 17118
  },
  "leads": [
   {
