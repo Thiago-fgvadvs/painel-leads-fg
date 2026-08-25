@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/08/2026, 10:01",
+ "gerado_em": "25/08/2026, 10:16",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -60,29 +60,29 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
-  "Trabalhista": 5
+  "Trabalhista": 5,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 199,
-  "turnos": 766,
-  "respondidos": 759,
+  "grupos_ativos": 200,
+  "turnos": 770,
+  "respondidos": 763,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 631,
+    "respostas": 634,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 44,
-    "mediana_min": 8.8
+    "respostas": 45,
+    "mediana_min": 8.3
    },
    {
     "nome": "Roseli",
@@ -351,19 +351,30 @@
   ]
  },
  "agora": {
-  "fila": 462,
+  "fila": 464,
   "abertos": 560,
-  "com_atendimento": 7,
+  "com_atendimento": 6,
   "online": 3,
   "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 660
+  "espera_media_s": 661
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T09:17:15.577Z",
-  "min_sem_lead": 1664
+  "ultimo_lead_at": "2026-08-25T11:25:02.252Z",
+  "min_sem_lead": 112
  },
  "leads": [
+  {
+   "nome": "Andeza",
+   "tel": "5551*****050",
+   "criado": "08:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Paulo Raia Ferreira",
    "tel": "5513*****123",
@@ -384,17 +395,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4Q2iDxnnc",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Andeza",
-   "tel": "5551*****050",
-   "criado": "08:25",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
    "area": "Trabalhista"
   },
   {
