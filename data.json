@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/08/2026, 16:33",
+ "gerado_em": "25/08/2026, 16:48",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 283,
-  "tickets_abertos": 542,
+  "tickets_abertos": 544,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -81,20 +81,20 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 870,
-  "respondidos": 862,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "turnos": 878,
+  "respondidos": 869,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 709,
+    "respostas": 714,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 57,
+    "respostas": 59,
     "mediana_min": 9.3
    },
    {
@@ -130,10 +130,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "Y.G.D.S.C x IRMAOS MUFFATO & CIA LTDA",
+    "grupo": "G.D.S.H x MARIO CELSO SCHMITT",
     "dia": "25/08",
-    "desde": "16:25",
-    "ts": 1787685921337
+    "desde": "16:48",
+    "ts": 1787687285318
+   },
+   {
+    "grupo": "E.D.B.P.D.F x AMC TEXTIL LTDA",
+    "dia": "25/08",
+    "desde": "15:23",
+    "ts": 1787682197245
    },
    {
     "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
@@ -291,16 +297,22 @@
     "ts": 1787674586233
    },
    {
+    "grupo": "E.D.B.P.D.F x AMC TEXTIL LTDA",
+    "dia": "25/08",
+    "desde": "15:23",
+    "ts": 1787682197245
+   },
+   {
     "grupo": "M.R.D.S.A x VSTP EDUCACAO S.A.",
     "dia": "25/08",
     "desde": "15:48",
     "ts": 1787683710295
    },
    {
-    "grupo": "Y.G.D.S.C x IRMAOS MUFFATO & CIA LTDA",
+    "grupo": "G.D.S.H x MARIO CELSO SCHMITT",
     "dia": "25/08",
-    "desde": "16:25",
-    "ts": 1787685921337
+    "desde": "16:48",
+    "ts": 1787687285318
    }
   ]
  },
@@ -379,17 +391,17 @@
   ]
  },
  "agora": {
-  "fila": 458,
-  "abertos": 542,
+  "fila": 459,
+  "abertos": 544,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 3,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 551
+  "ausentes": 3,
+  "espera_media_s": 550
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T16:40:28.594Z",
-  "min_sem_lead": 18893
+  "ultimo_lead_at": "2026-08-12T14:41:37.979Z",
+  "min_sem_lead": 19027
  },
  "leads": [
   {
