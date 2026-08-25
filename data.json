@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/08/2026, 18:05",
+ "gerado_em": "25/08/2026, 18:20",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 285,
-  "tickets_abertos": 532,
+  "tickets_abertos": 525,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,9 +65,9 @@
   }
  ],
  "areas": {
+  "Nao identificada": 11,
   "Trabalhista": 16,
-  "Previdenciario": 1,
-  "Nao identificada": 11
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [
   {
@@ -81,15 +81,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 233,
-  "turnos": 898,
-  "respondidos": 891,
+  "turnos": 903,
+  "respondidos": 896,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 733,
+    "respostas": 738,
     "mediana_min": 2.2
    },
    {
@@ -367,19 +367,30 @@
   ]
  },
  "agora": {
-  "fila": 448,
-  "abertos": 532,
+  "fila": 444,
+  "abertos": 525,
   "com_atendimento": 7,
   "online": 2,
   "offline": 5,
   "ausentes": 1,
-  "espera_media_s": 560
+  "espera_media_s": 569
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T23:47:25.684Z",
-  "min_sem_lead": 17118
+  "ultimo_lead_at": "2026-08-14T11:33:39.332Z",
+  "min_sem_lead": 16427
  },
  "leads": [
+  {
+   "nome": "medlyn",
+   "tel": "5542*****469",
+   "criado": "10:51",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 1.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Laritza",
    "tel": "5547*****321",
@@ -401,17 +412,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Previdenciario"
-  },
-  {
-   "nome": "medlyn",
-   "tel": "5542*****469",
-   "criado": "10:51",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 1.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Renatinho 57",
