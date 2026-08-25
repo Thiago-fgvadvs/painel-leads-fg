@@ -1,31 +1,35 @@
 {
- "gerado_em": "25/08/2026, 10:32",
+ "gerado_em": "25/08/2026, 10:47",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 5,
+  "total": 12,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 268,
-  "tickets_abertos": 560,
+  "leads_7d": 269,
+  "tickets_abertos": 561,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcWwGKMsEU4/",
+   "leads": 2
+  },
   {
    "url": "fb.me/7X8GIt8so",
    "leads": 2
@@ -33,10 +37,6 @@
   {
    "url": "fb.me/4Q2iDxnnc",
    "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DcWwGKMsEU4/",
-   "leads": 1
   },
   {
    "url": "fb.me/7jvWrGP6V",
@@ -60,23 +60,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
+  "Trabalhista": 6,
   "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 200,
-  "turnos": 772,
-  "respondidos": 765,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "grupos_ativos": 201,
+  "turnos": 784,
+  "respondidos": 773,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 634,
+    "respostas": 641,
     "mediana_min": 2.2
    },
    {
@@ -86,8 +86,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 41,
-    "mediana_min": 3.4
+    "respostas": 42,
+    "mediana_min": 3.3
    },
    {
     "nome": "Eduardo",
@@ -117,6 +117,36 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.J.P.B",
+    "dia": "24/08",
+    "desde": "14:58",
+    "ts": 1787594280178
+   },
+   {
+    "grupo": "R.G.P x JBS SA",
+    "dia": "25/08",
+    "desde": "10:46",
+    "ts": 1787665570112
+   },
+   {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "25/08",
+    "desde": "10:42",
+    "ts": 1787665368145
+   },
+   {
+    "grupo": "T.M.M x BANCO BRADESCO S.A",
+    "dia": "25/08",
+    "desde": "10:35",
+    "ts": 1787664919135
+   },
+   {
+    "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
+    "dia": "25/08",
+    "desde": "10:32",
+    "ts": 1787664731098
+   },
+   {
     "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
     "dia": "24/08",
     "desde": "19:36",
@@ -133,12 +163,6 @@
     "dia": "24/08",
     "desde": "15:32",
     "ts": 1787596340142
-   },
-   {
-    "grupo": "A.J.P.B",
-    "dia": "24/08",
-    "desde": "14:58",
-    "ts": 1787594280178
    },
    {
     "grupo": "A.J.C",
@@ -283,6 +307,30 @@
     "dia": "24/08",
     "desde": "19:36",
     "ts": 1787610998236
+   },
+   {
+    "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
+    "dia": "25/08",
+    "desde": "10:32",
+    "ts": 1787664731098
+   },
+   {
+    "grupo": "T.M.M x BANCO BRADESCO S.A",
+    "dia": "25/08",
+    "desde": "10:35",
+    "ts": 1787664919135
+   },
+   {
+    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
+    "dia": "25/08",
+    "desde": "10:42",
+    "ts": 1787665368145
+   },
+   {
+    "grupo": "R.G.P x JBS SA",
+    "dia": "25/08",
+    "desde": "10:46",
+    "ts": 1787665570112
    }
   ]
  },
@@ -351,19 +399,30 @@
   ]
  },
  "agora": {
-  "fila": 461,
-  "abertos": 560,
-  "com_atendimento": 6,
-  "online": 3,
+  "fila": 462,
+  "abertos": 561,
+  "com_atendimento": 7,
+  "online": 4,
   "offline": 3,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 661
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-07T21:03:03.004Z",
-  "min_sem_lead": 25469
+  "ultimo_lead_at": "2026-08-24T00:05:48.489Z",
+  "min_sem_lead": 2262
  },
  "leads": [
+  {
+   "nome": "Eviih 💖",
+   "tel": "5511*****211",
+   "criado": "10:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Andeza",
    "tel": "5551*****050",
