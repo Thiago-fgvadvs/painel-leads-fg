@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/08/2026, 12:34",
+ "gerado_em": "25/08/2026, 12:49",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 277,
-  "tickets_abertos": 554,
+  "tickets_abertos": 552,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -44,15 +44,15 @@
    "leads": 2
   },
   {
+   "url": "fb.me/7VpAO4sFl",
+   "leads": 1
+  },
+  {
    "url": "fb.me/8klt3OBuk",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcWu-o4sKN-/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/7VpAO4sFl",
    "leads": 1
   },
   {
@@ -72,11 +72,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 206,
-  "turnos": 824,
-  "respondidos": 817,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "grupos_ativos": 208,
+  "turnos": 829,
+  "respondidos": 823,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -86,8 +86,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 51,
-    "mediana_min": 8.3
+    "respostas": 53,
+    "mediana_min": 9.3
    },
    {
     "nome": "Roseli",
@@ -95,14 +95,14 @@
     "mediana_min": 3.4
    },
    {
+    "nome": "Gabrielle",
+    "respostas": 19,
+    "mediana_min": 1.5
+   },
+   {
     "nome": "Eduardo",
     "respostas": 19,
     "mediana_min": 19.2
-   },
-   {
-    "nome": "Gabrielle",
-    "respostas": 15,
-    "mediana_min": 3.1
    },
    {
     "nome": "Tiago Bernardo",
@@ -121,12 +121,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "25/08",
-    "desde": "12:21",
-    "ts": 1787671305223
-   },
    {
     "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
     "dia": "25/08",
@@ -268,12 +262,6 @@
     "dia": "25/08",
     "desde": "11:27",
     "ts": 1787668020151
-   },
-   {
-    "grupo": "D.C.D.J.A x UNIQUE GARDEN EMPR. HOTELEIROS IND. E PART. LTDA.",
-    "dia": "25/08",
-    "desde": "12:21",
-    "ts": 1787671305223
    }
   ]
  },
@@ -353,18 +341,40 @@
  },
  "agora": {
   "fila": 457,
-  "abertos": 554,
+  "abertos": 552,
   "com_atendimento": 7,
   "online": 4,
-  "offline": 2,
-  "ausentes": 2,
+  "offline": 3,
+  "ausentes": 1,
   "espera_media_s": 784
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T10:29:32.168Z",
-  "min_sem_lead": 8945
+  "ultimo_lead_at": "2026-08-25T04:08:20.654Z",
+  "min_sem_lead": 701
  },
  "leads": [
+  {
+   "nome": "Renatinho 57",
+   "tel": "5521*****868",
+   "criado": "01:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7VpAO4sFl",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Eviih 💖",
+   "tel": "5511*****211",
+   "criado": "10:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Gisele Deus E Fiel Maravi",
    "tel": "5511*****683",
@@ -385,17 +395,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWu-o4sKN-/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Renatinho 57",
-   "tel": "5521*****868",
-   "criado": "01:08",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7VpAO4sFl",
    "area": "Trabalhista"
   },
   {
@@ -462,17 +461,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/bt9qnH8Gy",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Eviih 💖",
-   "tel": "5511*****211",
-   "criado": "10:36",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
    "area": "Trabalhista"
   },
   {
