@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/08/2026, 09:00",
+ "gerado_em": "25/08/2026, 09:15",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -60,23 +60,23 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
-  "Trabalhista": 4
+  "Trabalhista": 4,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 196,
-  "turnos": 751,
-  "respondidos": 744,
+  "grupos_ativos": 198,
+  "turnos": 753,
+  "respondidos": 746,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 616,
+    "respostas": 618,
     "mediana_min": 2.2
    },
    {
@@ -370,21 +370,10 @@
   "espera_media_s": 658
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-25T21:46:42.681Z",
-  "min_sem_lead": 131894
+  "ultimo_lead_at": "2026-08-25T11:25:02.252Z",
+  "min_sem_lead": 51
  },
  "leads": [
-  {
-   "nome": "Paulo Raia Ferreira",
-   "tel": "5513*****123",
-   "criado": "08:50",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7X8GIt8so",
-   "area": "Nao identificada"
-  },
   {
    "nome": "Andeza",
    "tel": "5551*****050",
@@ -395,6 +384,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Paulo Raia Ferreira",
+   "tel": "5513*****123",
+   "criado": "08:50",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7X8GIt8so",
+   "area": "Nao identificada"
   },
   {
    "nome": "Fran",
