@@ -1,23 +1,23 @@
 {
- "gerado_em": "25/08/2026, 20:37",
+ "gerado_em": "25/08/2026, 20:52",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 28,
+  "total": 29,
   "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 5,
+  "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 285,
-  "tickets_abertos": 530,
+  "leads_7d": 286,
+  "tickets_abertos": 531,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 22,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -48,6 +48,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcWwGJoss64/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/7VpAO4sFl",
    "leads": 1
   },
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/4JKqOuSgo",
    "leads": 1
-  },
-  {
-   "url": "fb.me/8dFBqq9oB",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 17,
   "Nao identificada": 11,
-  "Trabalhista": 16,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
@@ -81,15 +81,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 235,
-  "turnos": 943,
-  "respondidos": 936,
+  "turnos": 945,
+  "respondidos": 938,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 775,
+    "respostas": 777,
     "mediana_min": 2.2
    },
    {
@@ -367,19 +367,30 @@
   ]
  },
  "agora": {
-  "fila": 448,
-  "abertos": 530,
+  "fila": 449,
+  "abertos": 531,
   "com_atendimento": 7,
-  "online": 0,
+  "online": 2,
   "offline": 6,
-  "ausentes": 2,
-  "espera_media_s": 573
+  "ausentes": 0,
+  "espera_media_s": 572
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-19T21:18:44.134Z",
-  "min_sem_lead": 8779
+  "min_sem_lead": 8794
  },
  "leads": [
+  {
+   "nome": "Valquíria Domingos",
+   "tel": "5535*****113",
+   "criado": "20:39",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGJoss64/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "medlyn",
    "tel": "5542*****469",
