@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/08/2026, 10:42",
+ "gerado_em": "26/08/2026, 10:57",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 5,
+  "total": 15,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 100,
-  "mediana_geral": 0.4,
-  "leads_7d": 252,
-  "tickets_abertos": 563,
+  "mediana_geral": 0.5,
+  "leads_7d": 255,
+  "tickets_abertos": 567,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 13,
    "mediana_min": 0.4
   },
   {
@@ -27,16 +27,28 @@
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 11,
   "Direto/Indicacao": 4
  },
  "criativos": [
+  {
+   "url": "fb.me/6qB9qqP45",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DcWwGJoss64/",
    "leads": 2
   },
   {
    "url": "fb.me/d2ohiLBrn",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4Q2iDxnnc",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/77HNjTWhx",
    "leads": 1
   },
   {
@@ -48,21 +60,13 @@
    "leads": 1
   },
   {
-   "url": "fb.me/6qB9qqP45",
-   "leads": 1
-  },
-  {
    "url": "fb.me/6bZ2VUBug",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/8klt3OBuk",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 5,
-  "Trabalhista": 5,
+  "Trabalhista": 7,
+  "Nao identificada": 6,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -70,15 +74,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 826,
-  "respondidos": 815,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "turnos": 829,
+  "respondidos": 820,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 678,
+    "respostas": 683,
     "mediana_min": 2.2
    },
    {
@@ -114,10 +118,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "J.F.D.S.F x CARDAN ENGENHARIA E CONSTRUCOES S.A.",
+    "grupo": "Y.G.D.S.C x IRMAOS MUFFATO & CIA LTDA",
     "dia": "26/08",
-    "desde": "10:41",
-    "ts": 1787751701100
+    "desde": "10:57",
+    "ts": 1787752633163
+   },
+   {
+    "grupo": "R.G.P x JBS SA",
+    "dia": "26/08",
+    "desde": "10:57",
+    "ts": 1787752625162
    },
    {
     "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
@@ -130,24 +140,6 @@
     "dia": "26/08",
     "desde": "10:32",
     "ts": 1787751143092
-   },
-   {
-    "grupo": "R.G.P x JBS SA",
-    "dia": "26/08",
-    "desde": "10:24",
-    "ts": 1787750661086
-   },
-   {
-    "grupo": "W.P.B x INSS",
-    "dia": "26/08",
-    "desde": "09:52",
-    "ts": 1787748724122
-   },
-   {
-    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
-    "dia": "26/08",
-    "desde": "09:50",
-    "ts": 1787748649085
    },
    {
     "grupo": "M.R.D.S.A x INSS",
@@ -287,24 +279,6 @@
     "ts": 1787693755395
    },
    {
-    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
-    "dia": "26/08",
-    "desde": "09:50",
-    "ts": 1787748649085
-   },
-   {
-    "grupo": "W.P.B x INSS",
-    "dia": "26/08",
-    "desde": "09:52",
-    "ts": 1787748724122
-   },
-   {
-    "grupo": "R.G.P x JBS SA",
-    "dia": "26/08",
-    "desde": "10:24",
-    "ts": 1787750661086
-   },
-   {
     "grupo": "A.M x CONDOMINIO RESIDENCIAL BEVERLY HILLS",
     "dia": "26/08",
     "desde": "10:32",
@@ -317,10 +291,16 @@
     "ts": 1787751467149
    },
    {
-    "grupo": "J.F.D.S.F x CARDAN ENGENHARIA E CONSTRUCOES S.A.",
+    "grupo": "R.G.P x JBS SA",
     "dia": "26/08",
-    "desde": "10:41",
-    "ts": 1787751701100
+    "desde": "10:57",
+    "ts": 1787752625162
+   },
+   {
+    "grupo": "Y.G.D.S.C x IRMAOS MUFFATO & CIA LTDA",
+    "dia": "26/08",
+    "desde": "10:57",
+    "ts": 1787752633163
    }
   ]
  },
@@ -381,19 +361,52 @@
   ]
  },
  "agora": {
-  "fila": 469,
-  "abertos": 563,
+  "fila": 472,
+  "abertos": 567,
   "com_atendimento": 7,
   "online": 5,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 543
+  "espera_media_s": 540
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T21:28:41.276Z",
-  "min_sem_lead": 34093
+  "ultimo_lead_at": "2026-08-26T12:04:32.746Z",
+  "min_sem_lead": 113
  },
  "leads": [
+  {
+   "nome": "aeduklein",
+   "tel": "5543*****265",
+   "criado": "09:04",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/d2ohiLBrn",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5527999979075",
+   "tel": "5527*****075",
+   "criado": "10:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6qB9qqP45",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Deize",
+   "tel": "5546*****470",
+   "criado": "10:49",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4Q2iDxnnc",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Aderson",
    "tel": "5599*****679",
@@ -406,14 +419,14 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "aeduklein",
-   "tel": "5543*****265",
-   "criado": "09:04",
+   "nome": "Rosangela Miranda",
+   "tel": "5511*****704",
+   "criado": "10:52",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/d2ohiLBrn",
+   "criativo": "fb.me/77HNjTWhx",
    "area": "Trabalhista"
   },
   {
