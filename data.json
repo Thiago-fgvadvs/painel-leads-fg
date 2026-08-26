@@ -1,33 +1,37 @@
 {
- "gerado_em": "26/08/2026, 07:24",
+ "gerado_em": "26/08/2026, 07:39",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
+  "total": 6,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 4,
+  "fora_horario": 6,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 244,
-  "tickets_abertos": 547,
+  "leads_7d": 246,
+  "tickets_abertos": 549,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
+   "leads": 6,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 6,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcWwGJoss64/",
+   "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcWwGKMsEU4/",
    "leads": 1
   },
   {
@@ -44,9 +48,9 @@
   }
  ],
  "areas": {
+  "Trabalhista": 3,
   "Previdenciario": 1,
-  "Nao identificada": 2,
-  "Trabalhista": 1
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -292,19 +296,41 @@
   ]
  },
  "agora": {
-  "fila": 465,
-  "abertos": 547,
+  "fila": 467,
+  "abertos": 549,
   "com_atendimento": 7,
-  "online": 1,
-  "offline": 7,
+  "online": 2,
+  "offline": 6,
   "ausentes": 0,
-  "espera_media_s": 556
+  "espera_media_s": 554
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T19:57:58.484Z",
-  "min_sem_lead": 23906
+  "ultimo_lead_at": "2026-08-26T10:27:04.216Z",
+  "min_sem_lead": 12
  },
  "leads": [
+  {
+   "nome": "Alberes",
+   "tel": "5581*****141",
+   "criado": "07:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGJoss64/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Betty Faria",
+   "tel": "5514*****362",
+   "criado": "07:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558293691188",
    "tel": "5582*****188",
