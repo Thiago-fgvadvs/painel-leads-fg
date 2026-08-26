@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/08/2026, 11:58",
+ "gerado_em": "26/08/2026, 12:13",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 259,
-  "tickets_abertos": 561,
+  "tickets_abertos": 550,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -32,11 +32,11 @@
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DcWwGKMsEU4/",
+   "url": "fb.me/4Q2iDxnnc",
    "leads": 2
   },
   {
-   "url": "fb.me/4Q2iDxnnc",
+   "url": "www.instagram.com/p/DcWwGKMsEU4/",
    "leads": 2
   },
   {
@@ -73,16 +73,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 221,
-  "turnos": 860,
-  "respondidos": 852,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "grupos_ativos": 224,
+  "turnos": 872,
+  "respondidos": 862,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 703,
+    "respostas": 712,
     "mediana_min": 2.2
    },
    {
@@ -102,8 +102,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 11,
-    "mediana_min": 5.4
+    "respostas": 12,
+    "mediana_min": 5
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -118,10 +118,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.B.D.A.L x REALMA MANUTENCAO E SERVICOS LTDA",
+    "grupo": "G.S.L x SABER DECOR PRESENTES E DECORACOES LIMITADA",
     "dia": "26/08",
-    "desde": "11:02",
-    "ts": 1787752929128
+    "desde": "12:12",
+    "ts": 1787757176277
+   },
+   {
+    "grupo": "R.R.S x COBE SERVICOS DE COBRANCAS LTDA",
+    "dia": "26/08",
+    "desde": "12:12",
+    "ts": 1787757131247
+   },
+   {
+    "grupo": "A.J.C",
+    "dia": "26/08",
+    "desde": "12:09",
+    "ts": 1787756947233
    },
    {
     "grupo": "R.G.P x JBS SA",
@@ -259,12 +271,6 @@
     "ts": 1787693755395
    },
    {
-    "grupo": "M.B.D.A.L x REALMA MANUTENCAO E SERVICOS LTDA",
-    "dia": "26/08",
-    "desde": "11:02",
-    "ts": 1787752929128
-   },
-   {
     "grupo": "J.F.D.S.F x CARDAN ENGENHARIA E CONSTRUCOES S.A.",
     "dia": "26/08",
     "desde": "11:37",
@@ -275,6 +281,24 @@
     "dia": "26/08",
     "desde": "11:41",
     "ts": 1787755266222
+   },
+   {
+    "grupo": "A.J.C",
+    "dia": "26/08",
+    "desde": "12:09",
+    "ts": 1787756947233
+   },
+   {
+    "grupo": "R.R.S x COBE SERVICOS DE COBRANCAS LTDA",
+    "dia": "26/08",
+    "desde": "12:12",
+    "ts": 1787757131247
+   },
+   {
+    "grupo": "G.S.L x SABER DECOR PRESENTES E DECORACOES LIMITADA",
+    "dia": "26/08",
+    "desde": "12:12",
+    "ts": 1787757176277
    }
   ]
  },
@@ -335,19 +359,41 @@
   ]
  },
  "agora": {
-  "fila": 452,
-  "abertos": 561,
+  "fila": 440,
+  "abertos": 550,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 5,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 772
+  "ausentes": 1,
+  "espera_media_s": 786
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T14:03:25.416Z",
-  "min_sem_lead": 2935
+  "ultimo_lead_at": "2026-08-09T19:57:58.484Z",
+  "min_sem_lead": 24196
  },
  "leads": [
+  {
+   "nome": "554298706991",
+   "tel": "5542*****991",
+   "criado": "11:01",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4Q2iDxnnc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Deize",
+   "tel": "5546*****470",
+   "criado": "10:49",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4Q2iDxnnc",
+   "area": "Trabalhista"
+  },
   {
    "nome": "554797509078",
    "tel": "5547*****078",
@@ -393,17 +439,6 @@
    "area": "Previdenciario"
   },
   {
-   "nome": "554298706991",
-   "tel": "5542*****991",
-   "criado": "11:01",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4Q2iDxnnc",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Betty Faria",
    "tel": "5514*****362",
    "criado": "07:25",
@@ -423,17 +458,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWtSU0sclz/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Deize",
-   "tel": "5546*****470",
-   "criado": "10:49",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1.1,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4Q2iDxnnc",
    "area": "Trabalhista"
   },
   {
