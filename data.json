@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/08/2026, 12:44",
+ "gerado_em": "26/08/2026, 12:59",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
-  "no_sla": 14,
+  "total": 23,
+  "no_sla": 15,
   "fora_sla": 1,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 6,
-  "pct_sla": 93,
+  "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 262,
-  "tickets_abertos": 537,
+  "leads_7d": 263,
+  "tickets_abertos": 539,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/85SmksXTt",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DcWwGJoss64/",
@@ -58,18 +62,21 @@
   {
    "url": "fb.me/6bZ2VUBug",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7feT1U32o",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 12,
+  "Trabalhista": 13,
   "Nao identificada": 8,
   "Previdenciario": 2
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5517996195978",
+   "tel": "5517*****978",
+   "criado": "10:09",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [
   {
    "nome": "ORLANDO SALAZAR",
@@ -82,15 +89,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 896,
-  "respondidos": 887,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "turnos": 919,
+  "respondidos": 911,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 735,
+    "respostas": 744,
     "mediana_min": 2.2
    },
    {
@@ -99,19 +106,19 @@
     "mediana_min": 7.9
    },
    {
+    "nome": "Gabrielle",
+    "respostas": 47,
+    "mediana_min": 0.9
+   },
+   {
     "nome": "Roseli",
     "respostas": 43,
     "mediana_min": 3.1
    },
    {
-    "nome": "Gabrielle",
-    "respostas": 33,
-    "mediana_min": 1.5
-   },
-   {
     "nome": "Eduardo",
-    "respostas": 12,
-    "mediana_min": 5
+    "respostas": 13,
+    "mediana_min": 5.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -126,28 +133,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.G.P x JBS SA",
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "26/08",
-    "desde": "12:43",
-    "ts": 1787759035299
+    "desde": "12:58",
+    "ts": 1787759924324
    },
    {
-    "grupo": "P.L.M.E x FMO TELECOMUNICACOES LTDA",
+    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
     "dia": "26/08",
-    "desde": "12:43",
-    "ts": 1787759013318
+    "desde": "12:50",
+    "ts": 1787759440336
    },
    {
     "grupo": "I.N x FACILITY SERVICE CONSULT. E INTERMEDIACAO DE SERVICOS LTDA",
     "dia": "26/08",
     "desde": "12:34",
     "ts": 1787758447302
-   },
-   {
-    "grupo": "G.S.L x SABER DECOR PRESENTES E DECORACOES LIMITADA",
-    "dia": "26/08",
-    "desde": "12:12",
-    "ts": 1787757176277
    },
    {
     "grupo": "A.J.C",
@@ -239,6 +240,13 @@
     "dia": "24/08",
     "desde": "10:44",
     "ts": 1787579050750
+   },
+   {
+    "nome": "5517996195978",
+    "tel": "5517*****978",
+    "dia": "26/08",
+    "desde": "10:09",
+    "ts": 1787749795493
    }
   ],
   "grupos": [
@@ -273,28 +281,22 @@
     "ts": 1787756947233
    },
    {
-    "grupo": "G.S.L x SABER DECOR PRESENTES E DECORACOES LIMITADA",
-    "dia": "26/08",
-    "desde": "12:12",
-    "ts": 1787757176277
-   },
-   {
     "grupo": "I.N x FACILITY SERVICE CONSULT. E INTERMEDIACAO DE SERVICOS LTDA",
     "dia": "26/08",
     "desde": "12:34",
     "ts": 1787758447302
    },
    {
-    "grupo": "P.L.M.E x FMO TELECOMUNICACOES LTDA",
+    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
     "dia": "26/08",
-    "desde": "12:43",
-    "ts": 1787759013318
+    "desde": "12:50",
+    "ts": 1787759440336
    },
    {
-    "grupo": "R.G.P x JBS SA",
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "26/08",
-    "desde": "12:43",
-    "ts": 1787759035299
+    "desde": "12:58",
+    "ts": 1787759924324
    }
   ]
  },
@@ -355,19 +357,30 @@
   ]
  },
  "agora": {
-  "fila": 427,
-  "abertos": 537,
+  "fila": 429,
+  "abertos": 539,
   "com_atendimento": 7,
-  "online": 3,
+  "online": 6,
   "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 807
+  "ausentes": 0,
+  "espera_media_s": 806
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T14:24:02.379Z",
-  "min_sem_lead": 80
+  "ultimo_lead_at": "2026-08-24T09:36:19.326Z",
+  "min_sem_lead": 3263
  },
  "leads": [
+  {
+   "nome": "Meu Amor Da Vida Me Deixo",
+   "tel": "5511*****342",
+   "criado": "12:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/85SmksXTt",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Bruno",
    "tel": "5568*****843",
@@ -446,7 +459,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "555189053207",
+   "nome": ".agathacampos",
    "tel": "5551*****207",
    "criado": "12:28",
    "atendente": "FG Advogados - Isadora ",
@@ -457,7 +470,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5519997403266",
+   "nome": "Mila",
    "tel": "5519*****266",
    "criado": "12:18",
    "atendente": "FG Advogados - Isadora ",
@@ -567,7 +580,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Advogado Daniel Abrantes Cavalcante ",
+   "nome": "Daniel Cavalcante",
    "tel": "5583*****370",
    "criado": "09:46",
    "atendente": "Nicolas",
@@ -605,7 +618,7 @@
    "criado": "10:09",
    "atendente": "—",
    "espera_min": null,
-   "status": "RESOLVIDO",
+   "status": "SEM_RESPOSTA",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
