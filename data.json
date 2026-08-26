@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/08/2026, 16:33",
+ "gerado_em": "26/08/2026, 16:48",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
-  "no_sla": 24,
+  "total": 34,
+  "no_sla": 25,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 6,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 273,
+  "leads_7d": 274,
   "tickets_abertos": 543,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 30,
+   "leads": 31,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 25,
+  "Anuncio": 26,
   "Direto/Indicacao": 8
  },
  "criativos": [
@@ -56,18 +56,18 @@
    "leads": 2
   },
   {
-   "url": "fb.me/7feT1U32o",
+   "url": "fb.me/51RP8rs83",
    "leads": 1
   },
   {
-   "url": "fb.me/4mTU3s0jH",
+   "url": "fb.me/7feT1U32o",
    "leads": 1
   }
  ],
  "areas": {
-  "Previdenciario": 3,
+  "Nao identificada": 11,
   "Trabalhista": 20,
-  "Nao identificada": 10
+  "Previdenciario": 3
  },
  "sem_resposta_lista": [
   {
@@ -89,15 +89,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 231,
-  "turnos": 978,
-  "respondidos": 972,
+  "turnos": 979,
+  "respondidos": 973,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 789,
+    "respostas": 790,
     "mediana_min": 2.2
    },
    {
@@ -333,40 +333,29 @@
   ]
  },
  "agora": {
-  "fila": 432,
+  "fila": 431,
   "abertos": 543,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 5,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 794
+  "ausentes": 2,
+  "espera_media_s": 792
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-18T21:01:07.797Z",
-  "min_sem_lead": 11432
+  "ultimo_lead_at": "2026-08-26T19:44:36.103Z",
+  "min_sem_lead": 4
  },
  "leads": [
   {
-   "nome": "Mairys",
-   "tel": "5511*****333",
-   "criado": "15:47",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Previdenciario"
-  },
-  {
-   "nome": "Rondineli de Oliveira 😁😁😁",
-   "tel": "5535*****762",
-   "criado": "13:27",
+   "nome": "RaimundoNonatogois",
+   "tel": "5598*****924",
+   "criado": "16:44",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.5,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
-   "area": "Trabalhista"
+   "criativo": "fb.me/51RP8rs83",
+   "area": "Nao identificada"
   },
   {
    "nome": "giza",
@@ -388,6 +377,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4mTU3s0jH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Mairys",
+   "tel": "5511*****333",
+   "criado": "15:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Rondineli de Oliveira 😁😁😁",
+   "tel": "5535*****762",
+   "criado": "13:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
    "area": "Trabalhista"
   },
   {
