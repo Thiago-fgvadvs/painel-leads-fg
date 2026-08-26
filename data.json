@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/08/2026, 13:45",
+ "gerado_em": "26/08/2026, 14:00",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 94,
   "mediana_geral": 0.4,
   "leads_7d": 266,
-  "tickets_abertos": 541,
+  "tickets_abertos": 539,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -89,26 +89,26 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 228,
-  "turnos": 948,
-  "respondidos": 939,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "turnos": 954,
+  "respondidos": 946,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 768,
+    "respostas": 773,
     "mediana_min": 2.2
+   },
+   {
+    "nome": "Gabrielle",
+    "respostas": 51,
+    "mediana_min": 0.9
    },
    {
     "nome": "Nicolas",
     "respostas": 51,
     "mediana_min": 7.9
-   },
-   {
-    "nome": "Gabrielle",
-    "respostas": 50,
-    "mediana_min": 0.9
    },
    {
     "nome": "Roseli",
@@ -117,8 +117,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 14,
-    "mediana_min": 5.7
+    "respostas": 15,
+    "mediana_min": 6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -132,12 +132,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "G.N.D.S x EBAZAR.COM.BR. LTDA",
-    "dia": "26/08",
-    "desde": "13:43",
-    "ts": 1787762632388
-   },
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "26/08",
@@ -303,12 +297,6 @@
     "dia": "26/08",
     "desde": "13:07",
     "ts": 1787760432355
-   },
-   {
-    "grupo": "G.N.D.S x EBAZAR.COM.BR. LTDA",
-    "dia": "26/08",
-    "desde": "13:43",
-    "ts": 1787762632388
    }
   ]
  },
@@ -370,16 +358,16 @@
  },
  "agora": {
   "fila": 430,
-  "abertos": 541,
-  "com_atendimento": 7,
-  "online": 3,
+  "abertos": 539,
+  "com_atendimento": 6,
+  "online": 4,
   "offline": 0,
-  "ausentes": 5,
+  "ausentes": 4,
   "espera_media_s": 802
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T01:58:19.540Z",
-  "min_sem_lead": 39767
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 704261
  },
  "leads": [
   {
