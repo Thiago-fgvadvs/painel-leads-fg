@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/08/2026, 16:18",
+ "gerado_em": "26/08/2026, 16:33",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 20,
   "Previdenciario": 3,
+  "Trabalhista": 20,
   "Nao identificada": 10
  },
  "sem_resposta_lista": [
@@ -89,15 +89,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 231,
-  "turnos": 975,
-  "respondidos": 969,
+  "turnos": 978,
+  "respondidos": 972,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 788,
+    "respostas": 789,
     "mediana_min": 2.2
    },
    {
@@ -107,13 +107,13 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 51,
-    "mediana_min": 7.9
+    "respostas": 52,
+    "mediana_min": 7.8
    },
    {
     "nome": "Roseli",
-    "respostas": 43,
-    "mediana_min": 3.1
+    "respostas": 44,
+    "mediana_min": 3.3
    },
    {
     "nome": "Eduardo",
@@ -133,10 +133,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "I.N x FACILITY SERVICE CONSULT. E INTERMEDIACAO DE SERVICOS LTDA",
+    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
     "dia": "26/08",
-    "desde": "12:34",
-    "ts": 1787758447302
+    "desde": "16:24",
+    "ts": 1787772298485
    },
    {
     "grupo": "A.J.C",
@@ -269,10 +269,10 @@
     "ts": 1787756947233
    },
    {
-    "grupo": "I.N x FACILITY SERVICE CONSULT. E INTERMEDIACAO DE SERVICOS LTDA",
+    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
     "dia": "26/08",
-    "desde": "12:34",
-    "ts": 1787758447302
+    "desde": "16:24",
+    "ts": 1787772298485
    }
   ]
  },
@@ -333,19 +333,30 @@
   ]
  },
  "agora": {
-  "fila": 434,
+  "fila": 432,
   "abertos": 543,
   "com_atendimento": 6,
   "online": 4,
-  "offline": 2,
-  "ausentes": 2,
+  "offline": 1,
+  "ausentes": 3,
   "espera_media_s": 794
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T16:27:44.566Z",
-  "min_sem_lead": 170
+  "ultimo_lead_at": "2026-08-18T21:01:07.797Z",
+  "min_sem_lead": 11432
  },
  "leads": [
+  {
+   "nome": "Mairys",
+   "tel": "5511*****333",
+   "criado": "15:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Previdenciario"
+  },
   {
    "nome": "Rondineli de Oliveira 😁😁😁",
    "tel": "5535*****762",
@@ -378,17 +389,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4mTU3s0jH",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "5511982793333",
-   "tel": "5511*****333",
-   "criado": "15:47",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Previdenciario"
   },
   {
    "nome": "👫👩‍❤️‍👨",
