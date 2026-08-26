@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/08/2026, 14:31",
+ "gerado_em": "26/08/2026, 14:46",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
-  "no_sla": 18,
+  "total": 31,
+  "no_sla": 22,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 6,
-  "pct_sla": 95,
+  "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 267,
-  "tickets_abertos": 540,
+  "leads_7d": 271,
+  "tickets_abertos": 544,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 24,
+   "leads": 28,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 24,
   "Direto/Indicacao": 7
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
-   "leads": 4
+   "leads": 5
   },
   {
    "url": "fb.me/4Q2iDxnnc",
@@ -52,20 +52,20 @@
    "leads": 2
   },
   {
+   "url": "fb.me/4mTU3s0jH",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DcWwCdqsC0r/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/bt9qnH8Gy",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWtSU0sclz/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/8klt3OBuk",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
+  "Trabalhista": 19,
   "Nao identificada": 10,
   "Previdenciario": 2
  },
@@ -89,10 +89,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 229,
-  "turnos": 962,
-  "respondidos": 955,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 964,
+  "respondidos": 956,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -122,8 +122,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 7,
-    "mediana_min": 36.6
+    "respostas": 8,
+    "mediana_min": 39.6
    },
    {
     "nome": "Tiago Bernardo",
@@ -132,6 +132,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
+    "dia": "26/08",
+    "desde": "14:45",
+    "ts": 1787766306439
+   },
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "26/08",
@@ -285,6 +291,12 @@
     "dia": "26/08",
     "desde": "14:28",
     "ts": 1787765316450
+   },
+   {
+    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
+    "dia": "26/08",
+    "desde": "14:45",
+    "ts": 1787766306439
    }
   ]
  },
@@ -345,19 +357,52 @@
   ]
  },
  "agora": {
-  "fila": 428,
-  "abertos": 540,
+  "fila": 433,
+  "abertos": 544,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 3,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 957
+  "ausentes": 4,
+  "espera_media_s": 794
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-14T01:07:36.466Z",
-  "min_sem_lead": 18263
+  "ultimo_lead_at": "2026-08-26T17:33:18.809Z",
+  "min_sem_lead": 13
  },
  "leads": [
+  {
+   "nome": "554796413245",
+   "tel": "5547*****245",
+   "criado": "14:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4mTU3s0jH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Josuel",
+   "tel": "5581*****097",
+   "criado": "14:44",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwCdqsC0r/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ralf Magalhães",
+   "tel": "5515*****018",
+   "criado": "14:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Deize",
    "tel": "5546*****470",
@@ -367,6 +412,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4Q2iDxnnc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "👫👩‍❤️‍👨",
+   "tel": "5591*****574",
+   "criado": "14:18",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/bt9qnH8Gy",
    "area": "Trabalhista"
   },
   {
@@ -381,14 +437,14 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "👫👩‍❤️‍👨",
-   "tel": "5591*****574",
-   "criado": "14:18",
+   "nome": "553299862502",
+   "tel": "5532*****502",
+   "criado": "14:32",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
+   "espera_min": 0.8,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/bt9qnH8Gy",
+   "criativo": "fb.me/4SakjEeOx",
    "area": "Trabalhista"
   },
   {
