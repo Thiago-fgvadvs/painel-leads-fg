@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/08/2026, 12:59",
+ "gerado_em": "26/08/2026, 13:14",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 94,
   "mediana_geral": 0.4,
   "leads_7d": 263,
-  "tickets_abertos": 539,
+  "tickets_abertos": 540,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -88,16 +88,16 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 226,
-  "turnos": 919,
-  "respondidos": 911,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "grupos_ativos": 228,
+  "turnos": 933,
+  "respondidos": 924,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 744,
+    "respostas": 754,
     "mediana_min": 2.2
    },
    {
@@ -107,7 +107,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 47,
+    "respostas": 49,
     "mediana_min": 0.9
    },
    {
@@ -117,8 +117,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 13,
-    "mediana_min": 5.4
+    "respostas": 14,
+    "mediana_min": 5.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -133,16 +133,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
     "dia": "26/08",
-    "desde": "12:58",
-    "ts": 1787759924324
+    "desde": "13:07",
+    "ts": 1787760467346
    },
    {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "26/08",
-    "desde": "12:50",
-    "ts": 1787759440336
+    "desde": "13:07",
+    "ts": 1787760432355
+   },
+   {
+    "grupo": "R.G.P x JBS SA",
+    "dia": "26/08",
+    "desde": "13:01",
+    "ts": 1787760069334
    },
    {
     "grupo": "I.N x FACILITY SERVICE CONSULT. E INTERMEDIACAO DE SERVICOS LTDA",
@@ -287,16 +293,22 @@
     "ts": 1787758447302
    },
    {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
+    "grupo": "R.G.P x JBS SA",
     "dia": "26/08",
-    "desde": "12:50",
-    "ts": 1787759440336
+    "desde": "13:01",
+    "ts": 1787760069334
    },
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "26/08",
-    "desde": "12:58",
-    "ts": 1787759924324
+    "desde": "13:07",
+    "ts": 1787760432355
+   },
+   {
+    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
+    "dia": "26/08",
+    "desde": "13:07",
+    "ts": 1787760467346
    }
   ]
  },
@@ -357,17 +369,17 @@
   ]
  },
  "agora": {
-  "fila": 429,
-  "abertos": 539,
+  "fila": 428,
+  "abertos": 540,
   "com_atendimento": 7,
-  "online": 6,
-  "offline": 2,
-  "ausentes": 0,
+  "online": 5,
+  "offline": 1,
+  "ausentes": 2,
   "espera_media_s": 806
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T09:36:19.326Z",
-  "min_sem_lead": 3263
+  "ultimo_lead_at": "2026-08-24T02:07:21.585Z",
+  "min_sem_lead": 3727
  },
  "leads": [
   {
