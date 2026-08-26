@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/08/2026, 19:36",
+ "gerado_em": "26/08/2026, 19:51",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 41,
+  "total": 42,
   "no_sla": 29,
   "fora_sla": 2,
   "sem_resposta": 1,
-  "fora_horario": 7,
+  "fora_horario": 8,
   "pct_sla": 94,
   "mediana_geral": 0.5,
-  "leads_7d": 281,
-  "tickets_abertos": 527,
+  "leads_7d": 282,
+  "tickets_abertos": 529,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 35,
+   "leads": 36,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 31,
+  "Anuncio": 32,
   "Direto/Indicacao": 10
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
-   "leads": 7
+   "leads": 8
   },
   {
    "url": "www.instagram.com/p/DcYcthjsBkJ/",
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 23,
+  "Trabalhista": 24,
   "Nao identificada": 15,
   "Previdenciario": 3
  },
@@ -101,15 +101,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 249,
-  "turnos": 1006,
-  "respondidos": 1000,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "turnos": 1011,
+  "respondidos": 1006,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 813,
+    "respostas": 818,
     "mediana_min": 2.2
    },
    {
@@ -134,8 +134,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 11,
-    "mediana_min": 42.5
+    "respostas": 12,
+    "mediana_min": 50.9
    },
    {
     "nome": "Tiago Bernardo",
@@ -155,12 +155,6 @@
     "dia": "26/08",
     "desde": "12:09",
     "ts": 1787756947233
-   },
-   {
-    "grupo": "M.R.D.S.A x INSS",
-    "dia": "25/08",
-    "desde": "18:35",
-    "ts": 1787693755395
    },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
@@ -255,12 +249,6 @@
     "ts": 1787674586233
    },
    {
-    "grupo": "M.R.D.S.A x INSS",
-    "dia": "25/08",
-    "desde": "18:35",
-    "ts": 1787693755395
-   },
-   {
     "grupo": "A.J.C",
     "dia": "26/08",
     "desde": "12:09",
@@ -331,19 +319,30 @@
   ]
  },
  "agora": {
-  "fila": 402,
-  "abertos": 527,
+  "fila": 404,
+  "abertos": 529,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 3,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 888
+  "ausentes": 2,
+  "espera_media_s": 884
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T22:06:07.282Z",
-  "min_sem_lead": 30
+  "ultimo_lead_at": "2026-08-26T22:50:01.113Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "❤️‍🔥👻",
+   "tel": "5521*****440",
+   "criado": "19:50",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Nick Ferreira",
    "tel": "5524*****962",
