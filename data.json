@@ -1,16 +1,16 @@
 {
- "gerado_em": "26/08/2026, 16:48",
+ "gerado_em": "26/08/2026, 17:03",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 34,
+  "total": 35,
   "no_sla": 25,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 6,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 274,
+  "leads_7d": 275,
   "tickets_abertos": 543,
   "periodo_dias": 7
  },
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 26,
-  "Direto/Indicacao": 8
+  "Direto/Indicacao": 9
  },
  "criativos": [
   {
@@ -56,17 +56,17 @@
    "leads": 2
   },
   {
-   "url": "fb.me/51RP8rs83",
+   "url": "fb.me/4mTU3s0jH",
    "leads": 1
   },
   {
-   "url": "fb.me/7feT1U32o",
+   "url": "fb.me/51RP8rs83",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 11,
   "Trabalhista": 20,
+  "Nao identificada": 12,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [
@@ -89,15 +89,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 231,
-  "turnos": 979,
-  "respondidos": 973,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "turnos": 981,
+  "respondidos": 974,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 790,
+    "respostas": 791,
     "mediana_min": 2.2
    },
    {
@@ -132,6 +132,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "P.R.D.V.A x MURO ALTO BEACH RESORT",
+    "dia": "26/08",
+    "desde": "16:59",
+    "ts": 1787774394474
+   },
    {
     "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
     "dia": "26/08",
@@ -273,6 +279,12 @@
     "dia": "26/08",
     "desde": "16:24",
     "ts": 1787772298485
+   },
+   {
+    "grupo": "P.R.D.V.A x MURO ALTO BEACH RESORT",
+    "dia": "26/08",
+    "desde": "16:59",
+    "ts": 1787774394474
    }
   ]
  },
@@ -335,17 +347,28 @@
  "agora": {
   "fila": 431,
   "abertos": 543,
-  "com_atendimento": 6,
+  "com_atendimento": 7,
   "online": 5,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 792
+  "espera_media_s": 794
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T19:44:36.103Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2026-08-20T16:16:34.183Z",
+  "min_sem_lead": 8867
  },
  "leads": [
+  {
+   "nome": "✌️🙌🙏",
+   "tel": "5547*****245",
+   "criado": "14:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4mTU3s0jH",
+   "area": "Trabalhista"
+  },
   {
    "nome": "RaimundoNonatogois",
    "tel": "5598*****924",
@@ -366,17 +389,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7feT1U32o",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "✌️🙌🙏",
-   "tel": "5547*****245",
-   "criado": "14:33",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4mTU3s0jH",
    "area": "Trabalhista"
   },
   {
@@ -705,6 +717,17 @@
    "atendente": "—",
    "espera_min": null,
    "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511944937539",
+   "tel": "5511*****539",
+   "criado": "16:58",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
