@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/08/2026, 11:12",
+ "gerado_em": "26/08/2026, 11:27",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 9,
+  "total": 17,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 100,
-  "mediana_geral": 0.4,
-  "leads_7d": 256,
-  "tickets_abertos": 567,
+  "mediana_geral": 0.5,
+  "leads_7d": 257,
+  "tickets_abertos": 569,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 14,
+   "leads": 15,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -48,6 +48,10 @@
    "leads": 1
   },
   {
+   "url": "www.instagram.com/p/DcWtSU0sclz/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/77HNjTWhx",
    "leads": 1
   },
@@ -58,31 +62,27 @@
   {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/6bZ2VUBug",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 9,
   "Nao identificada": 6,
-  "Trabalhista": 8,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 218,
-  "turnos": 839,
-  "respondidos": 831,
+  "grupos_ativos": 219,
+  "turnos": 845,
+  "respondidos": 837,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 688,
+    "respostas": 693,
     "mediana_min": 2.2
    },
    {
@@ -97,8 +97,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 28,
-    "mediana_min": 1.9
+    "respostas": 29,
+    "mediana_min": 1.5
    },
    {
     "nome": "Eduardo",
@@ -118,6 +118,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.G.P x JBS SA",
+    "dia": "26/08",
+    "desde": "11:16",
+    "ts": 1787753763175
+   },
+   {
     "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
     "dia": "26/08",
     "desde": "10:37",
@@ -128,12 +134,6 @@
     "dia": "26/08",
     "desde": "11:02",
     "ts": 1787752929128
-   },
-   {
-    "grupo": "A.M x CONDOMINIO RESIDENCIAL BEVERLY HILLS",
-    "dia": "26/08",
-    "desde": "10:32",
-    "ts": 1787751143092
    },
    {
     "grupo": "M.R.D.S.A x INSS",
@@ -266,12 +266,6 @@
     "ts": 1787693755395
    },
    {
-    "grupo": "A.M x CONDOMINIO RESIDENCIAL BEVERLY HILLS",
-    "dia": "26/08",
-    "desde": "10:32",
-    "ts": 1787751143092
-   },
-   {
     "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
     "dia": "26/08",
     "desde": "10:37",
@@ -282,6 +276,12 @@
     "dia": "26/08",
     "desde": "11:02",
     "ts": 1787752929128
+   },
+   {
+    "grupo": "R.G.P x JBS SA",
+    "dia": "26/08",
+    "desde": "11:16",
+    "ts": 1787753763175
    }
   ]
  },
@@ -343,38 +343,27 @@
  },
  "agora": {
   "fila": 469,
-  "abertos": 567,
+  "abertos": 569,
   "com_atendimento": 7,
   "online": 5,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 700
+  "espera_media_s": 699
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T13:45:13.950Z",
-  "min_sem_lead": 27
+  "ultimo_lead_at": "2026-08-26T00:02:56.947Z",
+  "min_sem_lead": 865
  },
  "leads": [
   {
-   "nome": "5527999979075",
-   "tel": "5527*****075",
-   "criado": "10:45",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6qB9qqP45",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "554298706991",
-   "tel": "5542*****991",
-   "criado": "11:01",
+   "nome": "aeduklein",
+   "tel": "5543*****265",
+   "criado": "09:04",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/4Q2iDxnnc",
+   "criativo": "fb.me/d2ohiLBrn",
    "area": "Trabalhista"
   },
   {
@@ -389,26 +378,26 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Advogado Daniel Abrantes Cavalcante ",
-   "tel": "5583*****370",
-   "criado": "09:46",
-   "atendente": "Nicolas",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "aeduklein",
-   "tel": "5543*****265",
-   "criado": "09:04",
+   "nome": "Bruno",
+   "tel": "5568*****843",
+   "criado": "11:24",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
+   "espera_min": 0.5,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/d2ohiLBrn",
+   "criativo": "www.instagram.com/p/DcWtSU0sclz/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5527999979075",
+   "tel": "5527*****075",
+   "criado": "10:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6qB9qqP45",
+   "area": "Nao identificada"
   },
   {
    "nome": "Deize",
@@ -420,6 +409,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4Q2iDxnnc",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "554298706991",
+   "tel": "5542*****991",
+   "criado": "11:01",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4Q2iDxnnc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Advogado Daniel Abrantes Cavalcante ",
+   "tel": "5583*****370",
+   "criado": "09:46",
+   "atendente": "Nicolas",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Rosangela Miranda",
