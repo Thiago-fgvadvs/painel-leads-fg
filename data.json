@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/08/2026, 15:16",
+ "gerado_em": "26/08/2026, 15:32",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -89,15 +89,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 230,
-  "turnos": 968,
-  "respondidos": 960,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "turnos": 969,
+  "respondidos": 963,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 780,
+    "respostas": 782,
     "mediana_min": 2.2
    },
    {
@@ -117,8 +117,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 20,
-    "mediana_min": 5
+    "respostas": 21,
+    "mediana_min": 5.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -132,18 +132,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
-    "dia": "26/08",
-    "desde": "14:45",
-    "ts": 1787766306439
-   },
-   {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "26/08",
-    "desde": "14:28",
-    "ts": 1787765316450
-   },
    {
     "grupo": "I.N x FACILITY SERVICE CONSULT. E INTERMEDIACAO DE SERVICOS LTDA",
     "dia": "26/08",
@@ -285,18 +273,6 @@
     "dia": "26/08",
     "desde": "12:34",
     "ts": 1787758447302
-   },
-   {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "26/08",
-    "desde": "14:28",
-    "ts": 1787765316450
-   },
-   {
-    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
-    "dia": "26/08",
-    "desde": "14:45",
-    "ts": 1787766306439
    }
   ]
  },
@@ -361,15 +337,26 @@
   "abertos": 545,
   "com_atendimento": 6,
   "online": 2,
-  "offline": 1,
-  "ausentes": 5,
+  "offline": 2,
+  "ausentes": 4,
   "espera_media_s": 792
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T09:36:19.326Z",
-  "min_sem_lead": 3401
+  "ultimo_lead_at": "2026-08-26T16:27:44.566Z",
+  "min_sem_lead": 124
  },
  "leads": [
+  {
+   "nome": "Rondineli de Oliveira 😁😁😁",
+   "tel": "5535*****762",
+   "criado": "13:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "👫👩‍❤️‍👨",
    "tel": "5591*****574",
@@ -468,17 +455,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Rondineli de Oliveira 😁😁😁",
-   "tel": "5535*****762",
-   "criado": "13:27",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Meire Faria",
