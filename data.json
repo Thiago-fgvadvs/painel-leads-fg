@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/08/2026, 09:25",
+ "gerado_em": "26/08/2026, 09:41",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 250,
-  "tickets_abertos": 556,
+  "tickets_abertos": 558,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -64,16 +64,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 211,
-  "turnos": 773,
-  "respondidos": 767,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "grupos_ativos": 212,
+  "turnos": 782,
+  "respondidos": 775,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 636,
+    "respostas": 643,
     "mediana_min": 2.2
    },
    {
@@ -88,7 +88,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 20,
+    "respostas": 21,
     "mediana_min": 1.5
    },
    {
@@ -109,10 +109,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.F.G",
+    "dia": "26/08",
+    "desde": "09:38",
+    "ts": 1787747896113
+   },
+   {
     "grupo": "R.G.P x JBS SA",
     "dia": "26/08",
-    "desde": "09:11",
-    "ts": 1787746269085
+    "desde": "09:31",
+    "ts": 1787747499105
    },
    {
     "grupo": "M.R.D.S.A x INSS",
@@ -254,8 +260,14 @@
    {
     "grupo": "R.G.P x JBS SA",
     "dia": "26/08",
-    "desde": "09:11",
-    "ts": 1787746269085
+    "desde": "09:31",
+    "ts": 1787747499105
+   },
+   {
+    "grupo": "A.F.G",
+    "dia": "26/08",
+    "desde": "09:38",
+    "ts": 1787747896113
    }
   ]
  },
@@ -316,17 +328,17 @@
   ]
  },
  "agora": {
-  "fila": 472,
-  "abertos": 556,
+  "fila": 473,
+  "abertos": 558,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 5,
+  "online": 4,
+  "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 547
+  "espera_media_s": 548
  },
  "captacao": {
   "ultimo_lead_at": "2025-09-24T18:22:48.539Z",
-  "min_sem_lead": 483483
+  "min_sem_lead": 483498
  },
  "leads": [
   {
