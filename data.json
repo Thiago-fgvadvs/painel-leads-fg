@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/08/2026, 09:10",
+ "gerado_em": "26/08/2026, 09:25",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -65,15 +65,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 211,
-  "turnos": 766,
-  "respondidos": 761,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "turnos": 773,
+  "respondidos": 767,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 630,
+    "respostas": 636,
     "mediana_min": 2.2
    },
    {
@@ -108,6 +108,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.G.P x JBS SA",
+    "dia": "26/08",
+    "desde": "09:11",
+    "ts": 1787746269085
+   },
    {
     "grupo": "M.R.D.S.A x INSS",
     "dia": "25/08",
@@ -244,6 +250,12 @@
     "dia": "25/08",
     "desde": "18:35",
     "ts": 1787693755395
+   },
+   {
+    "grupo": "R.G.P x JBS SA",
+    "dia": "26/08",
+    "desde": "09:11",
+    "ts": 1787746269085
    }
   ]
  },
@@ -310,11 +322,11 @@
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 548
+  "espera_media_s": 547
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T12:04:32.746Z",
-  "min_sem_lead": 6
+  "ultimo_lead_at": "2025-09-24T18:22:48.539Z",
+  "min_sem_lead": 483483
  },
  "leads": [
   {
