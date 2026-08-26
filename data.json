@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/08/2026, 08:40",
+ "gerado_em": "26/08/2026, 08:55",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -53,23 +53,23 @@
  ],
  "areas": {
   "Trabalhista": 4,
-  "Nao identificada": 3,
-  "Previdenciario": 2
+  "Previdenciario": 2,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 210,
-  "turnos": 752,
-  "respondidos": 747,
+  "grupos_ativos": 211,
+  "turnos": 756,
+  "respondidos": 751,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 619,
+    "respostas": 623,
     "mediana_min": 2.2
    },
    {
@@ -304,13 +304,13 @@
   "abertos": 553,
   "com_atendimento": 7,
   "online": 1,
-  "offline": 6,
-  "ausentes": 1,
+  "offline": 5,
+  "ausentes": 2,
   "espera_media_s": 550
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-26T11:32:35.417Z",
-  "min_sem_lead": 8
+  "min_sem_lead": 23
  },
  "leads": [
   {
@@ -325,17 +325,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "559981649679",
-   "tel": "5599*****679",
-   "criado": "08:36",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "MAY😍",
    "tel": "5542*****507",
    "criado": "08:21",
@@ -345,6 +334,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Previdenciario"
+  },
+  {
+   "nome": "559981649679",
+   "tel": "5599*****679",
+   "criado": "08:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Betty Faria",
