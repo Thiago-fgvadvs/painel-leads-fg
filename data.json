@@ -1,23 +1,23 @@
 {
- "gerado_em": "25/08/2026, 21:23",
+ "gerado_em": "25/08/2026, 21:38",
  "data_ref": "25/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 31,
+  "total": 33,
   "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 8,
+  "fora_horario": 10,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 288,
-  "tickets_abertos": 533,
+  "leads_7d": 290,
+  "tickets_abertos": 535,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 28,
+   "leads": 30,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 24,
+  "Anuncio": 26,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -52,20 +52,20 @@
    "leads": 2
   },
   {
+   "url": "fb.me/6na7eLYPz",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4KeoB4NcY",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcYcthjsBkJ/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/7VpAO4sFl",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWq6e0MnN3/",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 19,
+  "Trabalhista": 21,
   "Previdenciario": 1,
   "Nao identificada": 11
  },
@@ -367,19 +367,41 @@
   ]
  },
  "agora": {
-  "fila": 451,
-  "abertos": 533,
+  "fila": 453,
+  "abertos": 535,
   "com_atendimento": 7,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 570
+  "espera_media_s": 567
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T00:22:36.723Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-08-09T19:57:58.484Z",
+  "min_sem_lead": 23320
  },
  "leads": [
+  {
+   "nome": "554891149796",
+   "tel": "5548*****796",
+   "criado": "21:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6na7eLYPz",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "557592317806",
+   "tel": "5575*****806",
+   "criado": "21:26",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4KeoB4NcY",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5521967118564",
    "tel": "5521*****564",
