@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/08/2026, 13:14",
+ "gerado_em": "26/08/2026, 13:30",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
-  "no_sla": 15,
+  "total": 24,
+  "no_sla": 16,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 6,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 263,
-  "tickets_abertos": 540,
+  "leads_7d": 264,
+  "tickets_abertos": 542,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
-   "leads": 3
+   "leads": 4
+  },
+  {
+   "url": "fb.me/4Q2iDxnnc",
+   "leads": 2
   },
   {
    "url": "fb.me/85SmksXTt",
@@ -45,10 +49,6 @@
   },
   {
    "url": "fb.me/6qB9qqP45",
-   "leads": 2
-  },
-  {
-   "url": "fb.me/4Q2iDxnnc",
    "leads": 2
   },
   {
@@ -65,9 +65,9 @@
   }
  ],
  "areas": {
-  "Trabalhista": 13,
-  "Nao identificada": 8,
-  "Previdenciario": 2
+  "Trabalhista": 14,
+  "Previdenciario": 2,
+  "Nao identificada": 8
  },
  "sem_resposta_lista": [
   {
@@ -89,15 +89,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 228,
-  "turnos": 933,
-  "respondidos": 924,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "turnos": 938,
+  "respondidos": 928,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 754,
+    "respostas": 758,
     "mediana_min": 2.2
    },
    {
@@ -143,6 +143,12 @@
     "dia": "26/08",
     "desde": "13:07",
     "ts": 1787760432355
+   },
+   {
+    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
+    "dia": "26/08",
+    "desde": "13:08",
+    "ts": 1787760532359
    },
    {
     "grupo": "R.G.P x JBS SA",
@@ -309,6 +315,12 @@
     "dia": "26/08",
     "desde": "13:07",
     "ts": 1787760467346
+   },
+   {
+    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
+    "dia": "26/08",
+    "desde": "13:08",
+    "ts": 1787760532359
    }
   ]
  },
@@ -369,28 +381,28 @@
   ]
  },
  "agora": {
-  "fila": 428,
-  "abertos": 540,
+  "fila": 429,
+  "abertos": 542,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 4,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 806
+  "ausentes": 3,
+  "espera_media_s": 804
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T02:07:21.585Z",
-  "min_sem_lead": 3727
+  "ultimo_lead_at": "2026-08-26T01:44:36.943Z",
+  "min_sem_lead": 885
  },
  "leads": [
   {
-   "nome": "Meu Amor Da Vida Me Deixo",
-   "tel": "5511*****342",
-   "criado": "12:55",
+   "nome": "553597670762",
+   "tel": "5535*****762",
+   "criado": "13:27",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
+   "espera_min": 0.5,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/85SmksXTt",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
    "area": "Trabalhista"
   },
   {
@@ -402,6 +414,50 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWtSU0sclz/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Deize",
+   "tel": "5546*****470",
+   "criado": "10:49",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4Q2iDxnnc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "MAY😍",
+   "tel": "5542*****507",
+   "criado": "08:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Betty Faria",
+   "tel": "5514*****362",
+   "criado": "07:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Meu Amor Da Vida Me Deixo",
+   "tel": "5511*****342",
+   "criado": "12:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/85SmksXTt",
    "area": "Trabalhista"
   },
   {
@@ -504,17 +560,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Deize",
-   "tel": "5546*****470",
-   "criado": "10:49",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1.1,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4Q2iDxnnc",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Ketlyn Hister",
    "tel": "5547*****078",
    "criado": "11:53",
@@ -534,28 +579,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/85SmksXTt",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "MAY😍",
-   "tel": "5542*****507",
-   "criado": "08:21",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Previdenciario"
-  },
-  {
-   "nome": "Betty Faria",
-   "tel": "5514*****362",
-   "criado": "07:25",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
    "area": "Trabalhista"
   },
   {
