@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/08/2026, 12:13",
+ "gerado_em": "26/08/2026, 12:29",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 12,
+  "total": 22,
+  "no_sla": 14,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 259,
-  "tickets_abertos": 550,
+  "leads_7d": 262,
+  "tickets_abertos": 546,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 17,
+   "leads": 19,
    "mediana_min": 0.4
   },
   {
@@ -27,16 +27,16 @@
   }
  ],
  "origem": {
-  "Anuncio": 15,
-  "Direto/Indicacao": 4
+  "Anuncio": 17,
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
-   "url": "fb.me/4Q2iDxnnc",
-   "leads": 2
+   "url": "www.instagram.com/p/DcWwGKMsEU4/",
+   "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DcWwGKMsEU4/",
+   "url": "fb.me/4Q2iDxnnc",
    "leads": 2
   },
   {
@@ -46,6 +46,10 @@
   {
    "url": "www.instagram.com/p/DcWwGJoss64/",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcYcthjsBkJ/",
+   "leads": 1
   },
   {
    "url": "fb.me/7feT1U32o",
@@ -58,37 +62,40 @@
   {
    "url": "www.instagram.com/p/DcWtSU0sclz/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/d2ohiLBrn",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 11,
-  "Previdenciario": 2,
-  "Nao identificada": 6
+  "Trabalhista": 12,
+  "Nao identificada": 8,
+  "Previdenciario": 2
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "ORLANDO SALAZAR",
+   "tel": "5547*****059",
+   "criado": "12:15",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 224,
-  "turnos": 872,
-  "respondidos": 862,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "grupos_ativos": 225,
+  "turnos": 885,
+  "respondidos": 877,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 712,
+    "respostas": 726,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 50,
-    "mediana_min": 7.8
+    "respostas": 51,
+    "mediana_min": 7.9
    },
    {
     "nome": "Roseli",
@@ -118,16 +125,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
+    "dia": "24/08",
+    "desde": "19:36",
+    "ts": 1787610998236
+   },
+   {
     "grupo": "G.S.L x SABER DECOR PRESENTES E DECORACOES LIMITADA",
     "dia": "26/08",
     "desde": "12:12",
     "ts": 1787757176277
-   },
-   {
-    "grupo": "R.R.S x COBE SERVICOS DE COBRANCAS LTDA",
-    "dia": "26/08",
-    "desde": "12:12",
-    "ts": 1787757131247
    },
    {
     "grupo": "A.J.C",
@@ -140,12 +147,6 @@
     "dia": "26/08",
     "desde": "11:41",
     "ts": 1787755266222
-   },
-   {
-    "grupo": "J.F.D.S.F x CARDAN ENGENHARIA E CONSTRUCOES S.A.",
-    "dia": "26/08",
-    "desde": "11:37",
-    "ts": 1787755061170
    },
    {
     "grupo": "M.R.D.S.A x INSS",
@@ -170,12 +171,6 @@
     "dia": "24/08",
     "desde": "14:58",
     "ts": 1787594280178
-   },
-   {
-    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
-    "dia": "24/08",
-    "desde": "19:36",
-    "ts": 1787610998236
    }
   ]
  },
@@ -237,6 +232,13 @@
     "dia": "24/08",
     "desde": "10:44",
     "ts": 1787579050750
+   },
+   {
+    "nome": "ORLANDO SALAZAR",
+    "tel": "5547*****059",
+    "dia": "26/08",
+    "desde": "12:15",
+    "ts": 1787757329939
    }
   ],
   "grupos": [
@@ -271,12 +273,6 @@
     "ts": 1787693755395
    },
    {
-    "grupo": "J.F.D.S.F x CARDAN ENGENHARIA E CONSTRUCOES S.A.",
-    "dia": "26/08",
-    "desde": "11:37",
-    "ts": 1787755061170
-   },
-   {
     "grupo": "R.G.P x JBS SA",
     "dia": "26/08",
     "desde": "11:41",
@@ -287,12 +283,6 @@
     "dia": "26/08",
     "desde": "12:09",
     "ts": 1787756947233
-   },
-   {
-    "grupo": "R.R.S x COBE SERVICOS DE COBRANCAS LTDA",
-    "dia": "26/08",
-    "desde": "12:12",
-    "ts": 1787757131247
    },
    {
     "grupo": "G.S.L x SABER DECOR PRESENTES E DECORACOES LIMITADA",
@@ -359,19 +349,41 @@
   ]
  },
  "agora": {
-  "fila": 440,
-  "abertos": 550,
+  "fila": 438,
+  "abertos": 546,
   "com_atendimento": 7,
   "online": 5,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 786
+  "espera_media_s": 795
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T19:57:58.484Z",
-  "min_sem_lead": 24196
+  "ultimo_lead_at": "2026-08-26T15:28:11.917Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "555189053207",
+   "tel": "5551*****207",
+   "criado": "12:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5519997403266",
+   "tel": "5519*****266",
+   "criado": "12:18",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcYcthjsBkJ/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "554298706991",
    "tel": "5542*****991",
@@ -382,6 +394,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4Q2iDxnnc",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "ORLANDO SALAZAR",
+   "tel": "5547*****059",
+   "criado": "12:15",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Deize",
