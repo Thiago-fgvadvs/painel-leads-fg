@@ -1,34 +1,38 @@
 {
- "gerado_em": "26/08/2026, 08:25",
+ "gerado_em": "26/08/2026, 08:40",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 1,
+  "total": 9,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 247,
-  "tickets_abertos": 551,
+  "leads_7d": 249,
+  "tickets_abertos": 553,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
+   "leads": 9,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 6,
-  "Direto/Indicacao": 1
+  "Anuncio": 7,
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcWwGJoss64/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/7feT1U32o",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
@@ -48,24 +52,24 @@
   }
  ],
  "areas": {
-  "Previdenciario": 2,
-  "Trabalhista": 3,
-  "Nao identificada": 2
+  "Trabalhista": 4,
+  "Nao identificada": 3,
+  "Previdenciario": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 210,
-  "turnos": 747,
-  "respondidos": 742,
+  "turnos": 752,
+  "respondidos": 747,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 614,
+    "respostas": 619,
     "mediana_min": 2.2
    },
    {
@@ -296,19 +300,41 @@
   ]
  },
  "agora": {
-  "fila": 469,
-  "abertos": 551,
+  "fila": 471,
+  "abertos": 553,
   "com_atendimento": 7,
   "online": 1,
   "offline": 6,
   "ausentes": 1,
-  "espera_media_s": 552
+  "espera_media_s": 550
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T11:21:14.644Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2026-08-26T11:32:35.417Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "giza",
+   "tel": "5543*****385",
+   "criado": "08:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7feT1U32o",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "559981649679",
+   "tel": "5599*****679",
+   "criado": "08:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "MAY😍",
    "tel": "5542*****507",
