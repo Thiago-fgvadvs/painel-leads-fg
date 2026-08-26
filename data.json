@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/08/2026, 12:29",
+ "gerado_em": "26/08/2026, 12:44",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 22,
   "no_sla": 14,
-  "fora_sla": 0,
-  "sem_resposta": 1,
+  "fora_sla": 1,
+  "sem_resposta": 0,
   "fora_horario": 6,
-  "pct_sla": 100,
+  "pct_sla": 93,
   "mediana_geral": 0.4,
   "leads_7d": 262,
-  "tickets_abertos": 546,
+  "tickets_abertos": 537,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   },
   {
@@ -36,7 +36,7 @@
    "leads": 3
   },
   {
-   "url": "fb.me/4Q2iDxnnc",
+   "url": "www.instagram.com/p/DcWwGJoss64/",
    "leads": 2
   },
   {
@@ -44,23 +44,23 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcWwGJoss64/",
+   "url": "fb.me/4Q2iDxnnc",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcYcthjsBkJ/",
+   "url": "www.instagram.com/p/DcWtSU0sclz/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/8klt3OBuk",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/6bZ2VUBug",
    "leads": 1
   },
   {
    "url": "fb.me/7feT1U32o",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/85SmksXTt",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWtSU0sclz/",
    "leads": 1
   }
  ],
@@ -69,27 +69,28 @@
   "Nao identificada": 8,
   "Previdenciario": 2
  },
- "sem_resposta_lista": [
+ "sem_resposta_lista": [],
+ "fora_sla_lista": [
   {
    "nome": "ORLANDO SALAZAR",
    "tel": "5547*****059",
    "criado": "12:15",
-   "area": "Nao identificada"
+   "espera_min": 19.4,
+   "atendente": "FG Advogados - Isadora "
   }
  ],
- "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 225,
-  "turnos": 885,
-  "respondidos": 877,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "grupos_ativos": 226,
+  "turnos": 896,
+  "respondidos": 887,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 726,
+    "respostas": 735,
     "mediana_min": 2.2
    },
    {
@@ -104,7 +105,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 32,
+    "respostas": 33,
     "mediana_min": 1.5
    },
    {
@@ -125,10 +126,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
-    "dia": "24/08",
-    "desde": "19:36",
-    "ts": 1787610998236
+    "grupo": "R.G.P x JBS SA",
+    "dia": "26/08",
+    "desde": "12:43",
+    "ts": 1787759035299
+   },
+   {
+    "grupo": "P.L.M.E x FMO TELECOMUNICACOES LTDA",
+    "dia": "26/08",
+    "desde": "12:43",
+    "ts": 1787759013318
+   },
+   {
+    "grupo": "I.N x FACILITY SERVICE CONSULT. E INTERMEDIACAO DE SERVICOS LTDA",
+    "dia": "26/08",
+    "desde": "12:34",
+    "ts": 1787758447302
    },
    {
     "grupo": "G.S.L x SABER DECOR PRESENTES E DECORACOES LIMITADA",
@@ -141,12 +154,6 @@
     "dia": "26/08",
     "desde": "12:09",
     "ts": 1787756947233
-   },
-   {
-    "grupo": "R.G.P x JBS SA",
-    "dia": "26/08",
-    "desde": "11:41",
-    "ts": 1787755266222
    },
    {
     "grupo": "M.R.D.S.A x INSS",
@@ -232,13 +239,6 @@
     "dia": "24/08",
     "desde": "10:44",
     "ts": 1787579050750
-   },
-   {
-    "nome": "ORLANDO SALAZAR",
-    "tel": "5547*****059",
-    "dia": "26/08",
-    "desde": "12:15",
-    "ts": 1787757329939
    }
   ],
   "grupos": [
@@ -247,12 +247,6 @@
     "dia": "24/08",
     "desde": "14:58",
     "ts": 1787594280178
-   },
-   {
-    "grupo": "T.M.P.S x SOCIEDADE CAMPINEIRA DE EDUCACAO E INSTRUCAO",
-    "dia": "24/08",
-    "desde": "19:36",
-    "ts": 1787610998236
    },
    {
     "grupo": "K.A.R.C x ADISER COMERCIO DE ALIMENTOS LTDA",
@@ -273,12 +267,6 @@
     "ts": 1787693755395
    },
    {
-    "grupo": "R.G.P x JBS SA",
-    "dia": "26/08",
-    "desde": "11:41",
-    "ts": 1787755266222
-   },
-   {
     "grupo": "A.J.C",
     "dia": "26/08",
     "desde": "12:09",
@@ -289,6 +277,24 @@
     "dia": "26/08",
     "desde": "12:12",
     "ts": 1787757176277
+   },
+   {
+    "grupo": "I.N x FACILITY SERVICE CONSULT. E INTERMEDIACAO DE SERVICOS LTDA",
+    "dia": "26/08",
+    "desde": "12:34",
+    "ts": 1787758447302
+   },
+   {
+    "grupo": "P.L.M.E x FMO TELECOMUNICACOES LTDA",
+    "dia": "26/08",
+    "desde": "12:43",
+    "ts": 1787759013318
+   },
+   {
+    "grupo": "R.G.P x JBS SA",
+    "dia": "26/08",
+    "desde": "12:43",
+    "ts": 1787759035299
    }
   ]
  },
@@ -349,19 +355,96 @@
   ]
  },
  "agora": {
-  "fila": 438,
-  "abertos": 546,
+  "fila": 427,
+  "abertos": 537,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 3,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 795
+  "ausentes": 3,
+  "espera_media_s": 807
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T15:28:11.917Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-08-26T14:24:02.379Z",
+  "min_sem_lead": 80
  },
  "leads": [
+  {
+   "nome": "Bruno",
+   "tel": "5568*****843",
+   "criado": "11:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWtSU0sclz/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "ORLANDO SALAZAR",
+   "tel": "5547*****059",
+   "criado": "12:15",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 19.4,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Alberes",
+   "tel": "5581*****141",
+   "criado": "07:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGJoss64/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": ".",
+   "tel": "5515*****923",
+   "criado": "00:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8klt3OBuk",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "cicinhoalves065@gmail.com",
+   "tel": "5511*****520",
+   "criado": "04:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6qB9qqP45",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "João Pedro",
+   "tel": "5587*****748",
+   "criado": "02:54",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6bZ2VUBug",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "giza",
+   "tel": "5543*****385",
+   "criado": "08:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7feT1U32o",
+   "area": "Trabalhista"
+  },
   {
    "nome": "555189053207",
    "tel": "5551*****207",
@@ -385,7 +468,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "554298706991",
+   "nome": "Criss Damasceno 😘",
    "tel": "5542*****991",
    "criado": "11:01",
    "atendente": "FG Advogados - Isadora ",
@@ -394,17 +477,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4Q2iDxnnc",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "ORLANDO SALAZAR",
-   "tel": "5547*****059",
-   "criado": "12:15",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Deize",
@@ -418,7 +490,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554797509078",
+   "nome": "Ketlyn Hister",
    "tel": "5547*****078",
    "criado": "11:53",
    "atendente": "FG Advogados - Isadora ",
@@ -426,17 +498,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "giza",
-   "tel": "5543*****385",
-   "criado": "08:32",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7feT1U32o",
    "area": "Trabalhista"
   },
   {
@@ -470,17 +531,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Bruno",
-   "tel": "5568*****843",
-   "criado": "11:24",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWtSU0sclz/",
    "area": "Trabalhista"
   },
   {
@@ -548,50 +598,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGJoss64/",
    "area": "Previdenciario"
-  },
-  {
-   "nome": "Alberes",
-   "tel": "5581*****141",
-   "criado": "07:27",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGJoss64/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "cicinhoalves065@gmail.com",
-   "tel": "5511*****520",
-   "criado": "04:31",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6qB9qqP45",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "João Pedro",
-   "tel": "5587*****748",
-   "criado": "02:54",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6bZ2VUBug",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": ".",
-   "tel": "5515*****923",
-   "criado": "00:47",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/8klt3OBuk",
-   "area": "Trabalhista"
   },
   {
    "nome": "5517996195978",
