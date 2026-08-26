@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/08/2026, 10:11",
+ "gerado_em": "26/08/2026, 10:26",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 252,
-  "tickets_abertos": 561,
+  "tickets_abertos": 562,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -69,22 +69,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 213,
-  "turnos": 801,
-  "respondidos": 793,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "grupos_ativos": 216,
+  "turnos": 817,
+  "respondidos": 807,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 657,
+    "respostas": 670,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 46,
-    "mediana_min": 8.1
+    "respostas": 47,
+    "mediana_min": 7.9
    },
    {
     "nome": "Roseli",
@@ -113,6 +113,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "G.F.N x FARMACIA E DROGARIA NISSEI SA",
+    "dia": "26/08",
+    "desde": "10:25",
+    "ts": 1787750730118
+   },
+   {
+    "grupo": "R.G.P x JBS SA",
+    "dia": "26/08",
+    "desde": "10:24",
+    "ts": 1787750661086
+   },
    {
     "grupo": "W.P.B x INSS",
     "dia": "26/08",
@@ -285,6 +297,18 @@
     "dia": "26/08",
     "desde": "09:52",
     "ts": 1787748724122
+   },
+   {
+    "grupo": "R.G.P x JBS SA",
+    "dia": "26/08",
+    "desde": "10:24",
+    "ts": 1787750661086
+   },
+   {
+    "grupo": "G.F.N x FARMACIA E DROGARIA NISSEI SA",
+    "dia": "26/08",
+    "desde": "10:25",
+    "ts": 1787750730118
    }
   ]
  },
@@ -345,17 +369,17 @@
   ]
  },
  "agora": {
-  "fila": 474,
-  "abertos": 561,
+  "fila": 473,
+  "abertos": 562,
   "com_atendimento": 6,
-  "online": 1,
-  "offline": 5,
-  "ausentes": 2,
-  "espera_media_s": 549
+  "online": 5,
+  "offline": 2,
+  "ausentes": 1,
+  "espera_media_s": 550
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T12:04:32.746Z",
-  "min_sem_lead": 67
+  "ultimo_lead_at": "2026-08-24T09:36:19.326Z",
+  "min_sem_lead": 3111
  },
  "leads": [
   {
@@ -403,7 +427,7 @@
    "area": "Previdenciario"
   },
   {
-   "nome": "559981649679",
+   "nome": "Aderson",
    "tel": "5599*****679",
    "criado": "08:36",
    "atendente": "FG Advogados - Isadora ",
