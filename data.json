@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/08/2026, 11:27",
+ "gerado_em": "26/08/2026, 11:43",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -32,16 +32,20 @@
  },
  "criativos": [
   {
-   "url": "fb.me/6qB9qqP45",
+   "url": "fb.me/4Q2iDxnnc",
    "leads": 2
   },
   {
-   "url": "fb.me/4Q2iDxnnc",
+   "url": "fb.me/6qB9qqP45",
    "leads": 2
   },
   {
    "url": "www.instagram.com/p/DcWwGJoss64/",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcWwGKMsEU4/",
+   "leads": 1
   },
   {
    "url": "fb.me/d2ohiLBrn",
@@ -58,10 +62,6 @@
   {
    "url": "fb.me/7feT1U32o",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWwGKMsEU4/",
-   "leads": 1
   }
  ],
  "areas": {
@@ -73,16 +73,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 219,
-  "turnos": 845,
-  "respondidos": 837,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "grupos_ativos": 220,
+  "turnos": 854,
+  "respondidos": 845,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 693,
+    "respostas": 698,
     "mediana_min": 2.2
    },
    {
@@ -97,7 +97,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 29,
+    "respostas": 32,
     "mediana_min": 1.5
    },
    {
@@ -118,22 +118,28 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.G.P x JBS SA",
-    "dia": "26/08",
-    "desde": "11:16",
-    "ts": 1787753763175
-   },
-   {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
-    "dia": "26/08",
-    "desde": "10:37",
-    "ts": 1787751467149
-   },
-   {
     "grupo": "M.B.D.A.L x REALMA MANUTENCAO E SERVICOS LTDA",
     "dia": "26/08",
     "desde": "11:02",
     "ts": 1787752929128
+   },
+   {
+    "grupo": "R.G.P x JBS SA",
+    "dia": "26/08",
+    "desde": "11:41",
+    "ts": 1787755266222
+   },
+   {
+    "grupo": "J.F.D.S.F x CARDAN ENGENHARIA E CONSTRUCOES S.A.",
+    "dia": "26/08",
+    "desde": "11:37",
+    "ts": 1787755061170
+   },
+   {
+    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
+    "dia": "26/08",
+    "desde": "11:36",
+    "ts": 1787754987160
    },
    {
     "grupo": "M.R.D.S.A x INSS",
@@ -266,22 +272,28 @@
     "ts": 1787693755395
    },
    {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
-    "dia": "26/08",
-    "desde": "10:37",
-    "ts": 1787751467149
-   },
-   {
     "grupo": "M.B.D.A.L x REALMA MANUTENCAO E SERVICOS LTDA",
     "dia": "26/08",
     "desde": "11:02",
     "ts": 1787752929128
    },
    {
+    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
+    "dia": "26/08",
+    "desde": "11:36",
+    "ts": 1787754987160
+   },
+   {
+    "grupo": "J.F.D.S.F x CARDAN ENGENHARIA E CONSTRUCOES S.A.",
+    "dia": "26/08",
+    "desde": "11:37",
+    "ts": 1787755061170
+   },
+   {
     "grupo": "R.G.P x JBS SA",
     "dia": "26/08",
-    "desde": "11:16",
-    "ts": 1787753763175
+    "desde": "11:41",
+    "ts": 1787755266222
    }
   ]
  },
@@ -351,10 +363,21 @@
   "espera_media_s": 699
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T00:02:56.947Z",
-  "min_sem_lead": 865
+  "ultimo_lead_at": "2026-08-26T10:25:48.893Z",
+  "min_sem_lead": 257
  },
  "leads": [
+  {
+   "nome": "Betty Faria",
+   "tel": "5514*****362",
+   "criado": "07:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "aeduklein",
    "tel": "5543*****265",
@@ -365,17 +388,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/d2ohiLBrn",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Aderson",
-   "tel": "5599*****679",
-   "criado": "08:36",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Bruno",
@@ -389,7 +401,18 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5527999979075",
+   "nome": "Deize",
+   "tel": "5546*****470",
+   "criado": "10:49",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4Q2iDxnnc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Yuyyyu",
    "tel": "5527*****075",
    "criado": "10:45",
    "atendente": "FG Advogados - Isadora ",
@@ -400,15 +423,15 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Deize",
-   "tel": "5546*****470",
-   "criado": "10:49",
+   "nome": "Aderson",
+   "tel": "5599*****679",
+   "criado": "08:36",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1.1,
+   "espera_min": 0.7,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4Q2iDxnnc",
-   "area": "Trabalhista"
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "554298706991",
@@ -475,17 +498,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Previdenciario"
-  },
-  {
-   "nome": "Betty Faria",
-   "tel": "5514*****362",
-   "criado": "07:25",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Alberes",
