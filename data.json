@@ -1,17 +1,17 @@
 {
- "gerado_em": "26/08/2026, 09:41",
+ "gerado_em": "26/08/2026, 09:56",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 4,
+  "total": 11,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 250,
-  "tickets_abertos": 558,
+  "leads_7d": 251,
+  "tickets_abertos": 560,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 10,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Nicolas",
+   "leads": 1,
+   "mediana_min": 0.6
   }
  ],
  "origem": {
   "Anuncio": 8,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -56,30 +61,30 @@
   }
  ],
  "areas": {
+  "Nao identificada": 4,
   "Trabalhista": 5,
-  "Previdenciario": 2,
-  "Nao identificada": 3
+  "Previdenciario": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 212,
-  "turnos": 782,
-  "respondidos": 775,
+  "grupos_ativos": 213,
+  "turnos": 790,
+  "respondidos": 783,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 643,
+    "respostas": 647,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 45,
-    "mediana_min": 7.9
+    "respostas": 46,
+    "mediana_min": 8.1
    },
    {
     "nome": "Roseli",
@@ -88,8 +93,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 21,
-    "mediana_min": 1.5
+    "respostas": 24,
+    "mediana_min": 2.6
    },
    {
     "nome": "Eduardo",
@@ -109,16 +114,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.F.G",
+    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
     "dia": "26/08",
-    "desde": "09:38",
-    "ts": 1787747896113
+    "desde": "09:50",
+    "ts": 1787748649085
    },
    {
-    "grupo": "R.G.P x JBS SA",
+    "grupo": "A.F.G",
     "dia": "26/08",
-    "desde": "09:31",
-    "ts": 1787747499105
+    "desde": "09:43",
+    "ts": 1787748215082
    },
    {
     "grupo": "M.R.D.S.A x INSS",
@@ -258,16 +263,16 @@
     "ts": 1787693755395
    },
    {
-    "grupo": "R.G.P x JBS SA",
-    "dia": "26/08",
-    "desde": "09:31",
-    "ts": 1787747499105
-   },
-   {
     "grupo": "A.F.G",
     "dia": "26/08",
-    "desde": "09:38",
-    "ts": 1787747896113
+    "desde": "09:43",
+    "ts": 1787748215082
+   },
+   {
+    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
+    "dia": "26/08",
+    "desde": "09:50",
+    "ts": 1787748649085
    }
   ]
  },
@@ -328,19 +333,30 @@
   ]
  },
  "agora": {
-  "fila": 473,
-  "abertos": 558,
+  "fila": 474,
+  "abertos": 560,
   "com_atendimento": 7,
   "online": 4,
   "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 548
+  "espera_media_s": 549
  },
  "captacao": {
   "ultimo_lead_at": "2025-09-24T18:22:48.539Z",
-  "min_sem_lead": 483498
+  "min_sem_lead": 483514
  },
  "leads": [
+  {
+   "nome": "Advogado Daniel Abrantes Cavalcante ",
+   "tel": "5583*****370",
+   "criado": "09:46",
+   "atendente": "Nicolas",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "aeduklein",
    "tel": "5543*****265",
