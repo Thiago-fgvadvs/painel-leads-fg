@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/08/2026, 18:35",
+ "gerado_em": "26/08/2026, 18:50",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 39,
-  "no_sla": 28,
+  "total": 40,
+  "no_sla": 29,
   "fora_sla": 2,
   "sem_resposta": 1,
   "fora_horario": 6,
-  "pct_sla": 93,
+  "pct_sla": 94,
   "mediana_geral": 0.5,
-  "leads_7d": 279,
-  "tickets_abertos": 523,
+  "leads_7d": 280,
+  "tickets_abertos": 524,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 33,
+   "leads": 34,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 29,
+  "Anuncio": 30,
   "Direto/Indicacao": 10
  },
  "criativos": [
@@ -71,7 +71,7 @@
  ],
  "areas": {
   "Trabalhista": 22,
-  "Nao identificada": 14,
+  "Nao identificada": 15,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [
@@ -101,10 +101,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 238,
-  "turnos": 993,
+  "turnos": 994,
   "respondidos": 986,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -144,6 +144,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.H.L.A x INSS",
+    "dia": "26/08",
+    "desde": "18:48",
+    "ts": 1787780881553
+   },
    {
     "grupo": "G.N.D.S x EBAZAR.COM.BR. LTDA",
     "dia": "26/08",
@@ -283,6 +289,12 @@
     "dia": "26/08",
     "desde": "18:06",
     "ts": 1787778400526
+   },
+   {
+    "grupo": "J.H.L.A x INSS",
+    "dia": "26/08",
+    "desde": "18:48",
+    "ts": 1787780881553
    }
   ]
  },
@@ -343,17 +355,17 @@
   ]
  },
  "agora": {
-  "fila": 399,
-  "abertos": 523,
+  "fila": 400,
+  "abertos": 524,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 5,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 892
+  "ausentes": 1,
+  "espera_media_s": 890
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-26T21:26:23.668Z",
-  "min_sem_lead": 9
+  "min_sem_lead": 24
  },
  "leads": [
   {
@@ -366,6 +378,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/6na7eLYPz",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Aristides Vicentim",
+   "tel": "5541*****912",
+   "criado": "18:43",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7X8GIt8so",
+   "area": "Nao identificada"
   },
   {
    "nome": "ORLANDO SALAZAR",
