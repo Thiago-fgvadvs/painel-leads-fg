@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/08/2026, 17:03",
+ "gerado_em": "26/08/2026, 17:19",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -89,26 +89,26 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 231,
-  "turnos": 981,
-  "respondidos": 974,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 982,
+  "respondidos": 976,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 791,
+    "respostas": 793,
     "mediana_min": 2.2
-   },
-   {
-    "nome": "Gabrielle",
-    "respostas": 52,
-    "mediana_min": 1
    },
    {
     "nome": "Nicolas",
     "respostas": 52,
     "mediana_min": 7.8
+   },
+   {
+    "nome": "Gabrielle",
+    "respostas": 52,
+    "mediana_min": 1
    },
    {
     "nome": "Roseli",
@@ -132,12 +132,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "P.R.D.V.A x MURO ALTO BEACH RESORT",
-    "dia": "26/08",
-    "desde": "16:59",
-    "ts": 1787774394474
-   },
    {
     "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
     "dia": "26/08",
@@ -279,12 +273,6 @@
     "dia": "26/08",
     "desde": "16:24",
     "ts": 1787772298485
-   },
-   {
-    "grupo": "P.R.D.V.A x MURO ALTO BEACH RESORT",
-    "dia": "26/08",
-    "desde": "16:59",
-    "ts": 1787774394474
    }
   ]
  },
@@ -347,17 +335,28 @@
  "agora": {
   "fila": 431,
   "abertos": 543,
-  "com_atendimento": 7,
+  "com_atendimento": 6,
   "online": 5,
   "offline": 1,
   "ausentes": 2,
   "espera_media_s": 794
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-20T16:16:34.183Z",
-  "min_sem_lead": 8867
+  "ultimo_lead_at": "2026-08-26T14:44:11.260Z",
+  "min_sem_lead": 335
  },
  "leads": [
+  {
+   "nome": "Paulo Rogério",
+   "tel": "5511*****008",
+   "criado": "11:44",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/85SmksXTt",
+   "area": "Trabalhista"
+  },
   {
    "nome": "✌️🙌🙏",
    "tel": "5547*****245",
@@ -631,17 +630,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Paulo Rogério",
-   "tel": "5511*****008",
-   "criado": "11:44",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/85SmksXTt",
    "area": "Trabalhista"
   },
   {
