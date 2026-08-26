@@ -1,17 +1,17 @@
 {
- "gerado_em": "26/08/2026, 18:04",
+ "gerado_em": "26/08/2026, 18:20",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 37,
+  "total": 38,
   "no_sla": 27,
   "fora_sla": 2,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 6,
   "pct_sla": 93,
   "mediana_geral": 0.4,
-  "leads_7d": 277,
-  "tickets_abertos": 521,
+  "leads_7d": 278,
+  "tickets_abertos": 522,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -32,13 +32,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 27,
+  "Anuncio": 28,
   "Direto/Indicacao": 10
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
    "leads": 6
+  },
+  {
+   "url": "www.instagram.com/p/DcYcthjsBkJ/",
+   "leads": 2
   },
   {
    "url": "fb.me/85SmksXTt",
@@ -63,46 +67,49 @@
   {
    "url": "www.instagram.com/p/DcWwCdqsC0r/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4SakjEeOx",
-   "leads": 1
   }
  ],
  "areas": {
+  "Nao identificada": 14,
   "Trabalhista": 21,
-  "Nao identificada": 13,
   "Previdenciario": 3
  },
- "sem_resposta_lista": [],
- "fora_sla_lista": [
+ "sem_resposta_lista": [
   {
-   "nome": "5517996195978",
-   "tel": "5517*****978",
-   "criado": "10:09",
-   "espera_min": 432.6,
-   "atendente": "Tiago Bernardo"
-  },
+   "nome": "556593602770",
+   "tel": "5565*****770",
+   "criado": "18:17",
+   "area": "Nao identificada"
+  }
+ ],
+ "fora_sla_lista": [
   {
    "nome": "ORLANDO SALAZAR",
    "tel": "5547*****059",
    "criado": "12:15",
    "espera_min": 19.4,
    "atendente": "FG Advogados - Isadora "
+  },
+  {
+   "nome": "5517996195978",
+   "tel": "5517*****978",
+   "criado": "10:09",
+   "espera_min": 432.6,
+   "atendente": "Tiago Bernardo"
   }
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 235,
-  "turnos": 989,
-  "respondidos": 981,
+  "grupos_ativos": 237,
+  "turnos": 991,
+  "respondidos": 983,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 798,
+    "respostas": 799,
     "mediana_min": 2.2
    },
    {
@@ -122,8 +129,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 21,
-    "mediana_min": 5.4
+    "respostas": 22,
+    "mediana_min": 5
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -140,8 +147,8 @@
    {
     "grupo": "A.M.B x AÇÃO CÍVEL REPARAÇÃO DE DANOS",
     "dia": "26/08",
-    "desde": "18:04",
-    "ts": 1787778267516
+    "desde": "18:06",
+    "ts": 1787778400526
    },
    {
     "grupo": "G.N.D.S x EBAZAR.COM.BR. LTDA",
@@ -231,6 +238,13 @@
     "dia": "23/08",
     "desde": "07:41",
     "ts": 1787481689154
+   },
+   {
+    "nome": "556593602770",
+    "tel": "5565*****770",
+    "dia": "26/08",
+    "desde": "18:17",
+    "ts": 1787779043462
    }
   ],
   "grupos": [
@@ -279,8 +293,8 @@
    {
     "grupo": "A.M.B x AÇÃO CÍVEL REPARAÇÃO DE DANOS",
     "dia": "26/08",
-    "desde": "18:04",
-    "ts": 1787778267516
+    "desde": "18:06",
+    "ts": 1787778400526
    }
   ]
  },
@@ -342,18 +356,40 @@
  },
  "agora": {
   "fila": 398,
-  "abertos": 521,
+  "abertos": 522,
   "com_atendimento": 6,
-  "online": 6,
-  "offline": 1,
-  "ausentes": 1,
+  "online": 4,
+  "offline": 2,
+  "ausentes": 2,
   "espera_media_s": 894
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 704505
+  "min_sem_lead": 704520
  },
  "leads": [
+  {
+   "nome": "ORLANDO SALAZAR",
+   "tel": "5547*****059",
+   "criado": "12:15",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 19.4,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "556593602770",
+   "tel": "5565*****770",
+   "criado": "18:17",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcYcthjsBkJ/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "🤗",
    "tel": "5541*****730",
@@ -584,17 +620,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4Q2iDxnnc",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "ORLANDO SALAZAR",
-   "tel": "5547*****059",
-   "criado": "12:15",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 19.4,
-   "status": "FORA_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Meire Faria",
