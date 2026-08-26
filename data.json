@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/08/2026, 17:49",
+ "gerado_em": "26/08/2026, 18:04",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 36,
-  "no_sla": 26,
+  "total": 37,
+  "no_sla": 27,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 93,
-  "mediana_geral": 0.5,
-  "leads_7d": 276,
-  "tickets_abertos": 518,
+  "mediana_geral": 0.4,
+  "leads_7d": 277,
+  "tickets_abertos": 521,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 31,
+   "leads": 32,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 26,
+  "Anuncio": 27,
   "Direto/Indicacao": 10
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "fb.me/85SmksXTt",
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
+  "Trabalhista": 21,
   "Nao identificada": 13,
-  "Trabalhista": 20,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [],
@@ -93,11 +93,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 233,
-  "turnos": 987,
+  "grupos_ativos": 235,
+  "turnos": 989,
   "respondidos": 981,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -137,6 +137,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.M.B x AÇÃO CÍVEL REPARAÇÃO DE DANOS",
+    "dia": "26/08",
+    "desde": "18:04",
+    "ts": 1787778267516
+   },
+   {
+    "grupo": "G.N.D.S x EBAZAR.COM.BR. LTDA",
+    "dia": "26/08",
+    "desde": "17:55",
+    "ts": 1787777744513
+   },
    {
     "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
     "dia": "26/08",
@@ -257,6 +269,18 @@
     "dia": "26/08",
     "desde": "16:24",
     "ts": 1787772298485
+   },
+   {
+    "grupo": "G.N.D.S x EBAZAR.COM.BR. LTDA",
+    "dia": "26/08",
+    "desde": "17:55",
+    "ts": 1787777744513
+   },
+   {
+    "grupo": "A.M.B x AÇÃO CÍVEL REPARAÇÃO DE DANOS",
+    "dia": "26/08",
+    "desde": "18:04",
+    "ts": 1787778267516
    }
   ]
  },
@@ -318,18 +342,29 @@
  },
  "agora": {
   "fila": 398,
-  "abertos": 518,
-  "com_atendimento": 7,
-  "online": 5,
+  "abertos": 521,
+  "com_atendimento": 6,
+  "online": 6,
   "offline": 1,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 894
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-18T15:00:25.770Z",
-  "min_sem_lead": 11869
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 704505
  },
  "leads": [
+  {
+   "nome": "🤗",
+   "tel": "5541*****730",
+   "criado": "17:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Advogada Karina da Silva Farias Marques ",
    "tel": "5581*****545",
