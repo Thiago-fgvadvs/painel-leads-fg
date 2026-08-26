@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/08/2026, 14:00",
+ "gerado_em": "26/08/2026, 14:15",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 94,
   "mediana_geral": 0.4,
   "leads_7d": 266,
-  "tickets_abertos": 539,
+  "tickets_abertos": 540,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -36,11 +36,11 @@
    "leads": 4
   },
   {
-   "url": "fb.me/4Q2iDxnnc",
+   "url": "fb.me/85SmksXTt",
    "leads": 2
   },
   {
-   "url": "fb.me/85SmksXTt",
+   "url": "fb.me/4Q2iDxnnc",
    "leads": 2
   },
   {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 14,
   "Nao identificada": 10,
+  "Trabalhista": 14,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [
@@ -88,16 +88,16 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 228,
-  "turnos": 954,
-  "respondidos": 946,
+  "grupos_ativos": 229,
+  "turnos": 957,
+  "respondidos": 949,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 773,
+    "respostas": 775,
     "mediana_min": 2.2
    },
    {
@@ -117,8 +117,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 15,
-    "mediana_min": 6
+    "respostas": 16,
+    "mediana_min": 6.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -133,16 +133,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
     "dia": "26/08",
-    "desde": "13:07",
-    "ts": 1787760432355
+    "desde": "14:14",
+    "ts": 1787764457434
    },
    {
-    "grupo": "R.G.P x JBS SA",
+    "grupo": "D.D.S.A x UNIMED DE GUARULHOS COOPERATIVA DE TRABALHO MEDICO",
     "dia": "26/08",
-    "desde": "13:01",
-    "ts": 1787760069334
+    "desde": "14:14",
+    "ts": 1787764443407
    },
    {
     "grupo": "I.N x FACILITY SERVICE CONSULT. E INTERMEDIACAO DE SERVICOS LTDA",
@@ -287,16 +287,16 @@
     "ts": 1787758447302
    },
    {
-    "grupo": "R.G.P x JBS SA",
+    "grupo": "D.D.S.A x UNIMED DE GUARULHOS COOPERATIVA DE TRABALHO MEDICO",
     "dia": "26/08",
-    "desde": "13:01",
-    "ts": 1787760069334
+    "desde": "14:14",
+    "ts": 1787764443407
    },
    {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
     "dia": "26/08",
-    "desde": "13:07",
-    "ts": 1787760432355
+    "desde": "14:14",
+    "ts": 1787764457434
    }
   ]
  },
@@ -357,19 +357,30 @@
   ]
  },
  "agora": {
-  "fila": 430,
-  "abertos": 539,
-  "com_atendimento": 6,
+  "fila": 427,
+  "abertos": 540,
+  "com_atendimento": 7,
   "online": 4,
   "offline": 0,
   "ausentes": 4,
   "espera_media_s": 802
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 704261
+  "ultimo_lead_at": "2026-08-26T15:15:29.939Z",
+  "min_sem_lead": 120
  },
  "leads": [
+  {
+   "nome": "ORLANDO SALAZAR",
+   "tel": "5547*****059",
+   "criado": "12:15",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 19.4,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Rondineli de Oliveira 😁😁😁",
    "tel": "5535*****762",
@@ -379,6 +390,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Meu Amor Da Vida Me Deixo",
+   "tel": "5511*****342",
+   "criado": "12:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/85SmksXTt",
    "area": "Trabalhista"
   },
   {
@@ -435,28 +457,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Meu Amor Da Vida Me Deixo",
-   "tel": "5511*****342",
-   "criado": "12:55",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/85SmksXTt",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "ORLANDO SALAZAR",
-   "tel": "5547*****059",
-   "criado": "12:15",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 19.4,
-   "status": "FORA_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Alberes",
