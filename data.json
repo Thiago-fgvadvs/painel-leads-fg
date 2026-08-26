@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/08/2026, 18:20",
+ "gerado_em": "26/08/2026, 18:35",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 38,
-  "no_sla": 27,
+  "total": 39,
+  "no_sla": 28,
   "fora_sla": 2,
   "sem_resposta": 1,
   "fora_horario": 6,
   "pct_sla": 93,
-  "mediana_geral": 0.4,
-  "leads_7d": 278,
-  "tickets_abertos": 522,
+  "mediana_geral": 0.5,
+  "leads_7d": 279,
+  "tickets_abertos": 523,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 32,
+   "leads": 33,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 28,
+  "Anuncio": 29,
   "Direto/Indicacao": 10
  },
  "criativos": [
@@ -65,13 +65,13 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcWwCdqsC0r/",
+   "url": "fb.me/6na7eLYPz",
    "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 22,
   "Nao identificada": 14,
-  "Trabalhista": 21,
   "Previdenciario": 3
  },
  "sem_resposta_lista": [
@@ -100,16 +100,16 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 237,
-  "turnos": 991,
-  "respondidos": 983,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "grupos_ativos": 238,
+  "turnos": 993,
+  "respondidos": 986,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 799,
+    "respostas": 802,
     "mediana_min": 2.2
    },
    {
@@ -145,22 +145,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.M.B x AÇÃO CÍVEL REPARAÇÃO DE DANOS",
-    "dia": "26/08",
-    "desde": "18:06",
-    "ts": 1787778400526
-   },
-   {
     "grupo": "G.N.D.S x EBAZAR.COM.BR. LTDA",
     "dia": "26/08",
     "desde": "17:55",
     "ts": 1787777744513
    },
    {
-    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
+    "grupo": "A.M.B x AÇÃO CÍVEL REPARAÇÃO DE DANOS",
     "dia": "26/08",
-    "desde": "16:24",
-    "ts": 1787772298485
+    "desde": "18:06",
+    "ts": 1787778400526
    },
    {
     "grupo": "A.J.C",
@@ -279,12 +273,6 @@
     "ts": 1787756947233
    },
    {
-    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
-    "dia": "26/08",
-    "desde": "16:24",
-    "ts": 1787772298485
-   },
-   {
     "grupo": "G.N.D.S x EBAZAR.COM.BR. LTDA",
     "dia": "26/08",
     "desde": "17:55",
@@ -355,19 +343,30 @@
   ]
  },
  "agora": {
-  "fila": 398,
-  "abertos": 522,
+  "fila": 399,
+  "abertos": 523,
   "com_atendimento": 6,
   "online": 4,
   "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 894
+  "espera_media_s": 892
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 704520
+  "ultimo_lead_at": "2026-08-26T21:26:23.668Z",
+  "min_sem_lead": 9
  },
  "leads": [
+  {
+   "nome": "5527992454633",
+   "tel": "5527*****633",
+   "criado": "18:26",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6na7eLYPz",
+   "area": "Trabalhista"
+  },
   {
    "nome": "ORLANDO SALAZAR",
    "tel": "5547*****059",
@@ -765,9 +764,9 @@
    "area": "Previdenciario"
   },
   {
-   "nome": "5511944937539",
-   "tel": "5511*****539",
-   "criado": "16:58",
+   "nome": "558994425179",
+   "tel": "5589*****179",
+   "criado": "13:35",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -776,9 +775,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "558994425179",
-   "tel": "5589*****179",
-   "criado": "13:35",
+   "nome": "5511944937539",
+   "tel": "5511*****539",
+   "criado": "16:58",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
