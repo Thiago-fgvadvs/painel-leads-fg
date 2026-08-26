@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/08/2026, 10:26",
+ "gerado_em": "26/08/2026, 10:42",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 252,
-  "tickets_abertos": 562,
+  "tickets_abertos": 563,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -61,24 +61,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
   "Nao identificada": 5,
+  "Trabalhista": 5,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 216,
-  "turnos": 817,
-  "respondidos": 807,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "grupos_ativos": 217,
+  "turnos": 826,
+  "respondidos": 815,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 670,
+    "respostas": 678,
     "mediana_min": 2.2
    },
    {
@@ -114,10 +114,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "G.F.N x FARMACIA E DROGARIA NISSEI SA",
+    "grupo": "J.F.D.S.F x CARDAN ENGENHARIA E CONSTRUCOES S.A.",
     "dia": "26/08",
-    "desde": "10:25",
-    "ts": 1787750730118
+    "desde": "10:41",
+    "ts": 1787751701100
+   },
+   {
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "dia": "26/08",
+    "desde": "10:37",
+    "ts": 1787751467149
+   },
+   {
+    "grupo": "A.M x CONDOMINIO RESIDENCIAL BEVERLY HILLS",
+    "dia": "26/08",
+    "desde": "10:32",
+    "ts": 1787751143092
    },
    {
     "grupo": "R.G.P x JBS SA",
@@ -136,12 +148,6 @@
     "dia": "26/08",
     "desde": "09:50",
     "ts": 1787748649085
-   },
-   {
-    "grupo": "A.F.G",
-    "dia": "26/08",
-    "desde": "09:43",
-    "ts": 1787748215082
    },
    {
     "grupo": "M.R.D.S.A x INSS",
@@ -281,12 +287,6 @@
     "ts": 1787693755395
    },
    {
-    "grupo": "A.F.G",
-    "dia": "26/08",
-    "desde": "09:43",
-    "ts": 1787748215082
-   },
-   {
     "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
     "dia": "26/08",
     "desde": "09:50",
@@ -305,10 +305,22 @@
     "ts": 1787750661086
    },
    {
-    "grupo": "G.F.N x FARMACIA E DROGARIA NISSEI SA",
+    "grupo": "A.M x CONDOMINIO RESIDENCIAL BEVERLY HILLS",
     "dia": "26/08",
-    "desde": "10:25",
-    "ts": 1787750730118
+    "desde": "10:32",
+    "ts": 1787751143092
+   },
+   {
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "dia": "26/08",
+    "desde": "10:37",
+    "ts": 1787751467149
+   },
+   {
+    "grupo": "J.F.D.S.F x CARDAN ENGENHARIA E CONSTRUCOES S.A.",
+    "dia": "26/08",
+    "desde": "10:41",
+    "ts": 1787751701100
    }
   ]
  },
@@ -369,19 +381,30 @@
   ]
  },
  "agora": {
-  "fila": 473,
-  "abertos": 562,
-  "com_atendimento": 6,
+  "fila": 469,
+  "abertos": 563,
+  "com_atendimento": 7,
   "online": 5,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 550
+  "espera_media_s": 543
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T09:36:19.326Z",
-  "min_sem_lead": 3111
+  "ultimo_lead_at": "2026-08-02T21:28:41.276Z",
+  "min_sem_lead": 34093
  },
  "leads": [
+  {
+   "nome": "Aderson",
+   "tel": "5599*****679",
+   "criado": "08:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "aeduklein",
    "tel": "5543*****265",
@@ -392,6 +415,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/d2ohiLBrn",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "O Céu É O Limite",
+   "tel": "5582*****188",
+   "criado": "03:52",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGJoss64/",
+   "area": "Previdenciario"
   },
   {
    "nome": "Advogado Daniel Abrantes Cavalcante ",
@@ -427,17 +461,6 @@
    "area": "Previdenciario"
   },
   {
-   "nome": "Aderson",
-   "tel": "5599*****679",
-   "criado": "08:36",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Betty Faria",
    "tel": "5514*****362",
    "criado": "07:25",
@@ -458,17 +481,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGJoss64/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "558293691188",
-   "tel": "5582*****188",
-   "criado": "03:52",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGJoss64/",
-   "area": "Previdenciario"
   },
   {
    "nome": "5511974027520",
