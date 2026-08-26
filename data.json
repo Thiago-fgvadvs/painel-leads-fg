@@ -1,17 +1,17 @@
 {
- "gerado_em": "26/08/2026, 09:56",
+ "gerado_em": "26/08/2026, 10:11",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
+  "total": 12,
   "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 251,
-  "tickets_abertos": 560,
+  "leads_7d": 252,
+  "tickets_abertos": 561,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 8,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -61,8 +61,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
   "Trabalhista": 5,
+  "Nao identificada": 5,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [],
@@ -70,15 +70,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 213,
-  "turnos": 790,
-  "respondidos": 783,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 801,
+  "respondidos": 793,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 647,
+    "respostas": 657,
     "mediana_min": 2.2
    },
    {
@@ -113,6 +113,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "W.P.B x INSS",
+    "dia": "26/08",
+    "desde": "09:52",
+    "ts": 1787748724122
+   },
    {
     "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
     "dia": "26/08",
@@ -273,6 +279,12 @@
     "dia": "26/08",
     "desde": "09:50",
     "ts": 1787748649085
+   },
+   {
+    "grupo": "W.P.B x INSS",
+    "dia": "26/08",
+    "desde": "09:52",
+    "ts": 1787748724122
    }
   ]
  },
@@ -334,29 +346,18 @@
  },
  "agora": {
   "fila": 474,
-  "abertos": 560,
-  "com_atendimento": 7,
-  "online": 4,
-  "offline": 4,
-  "ausentes": 0,
+  "abertos": 561,
+  "com_atendimento": 6,
+  "online": 1,
+  "offline": 5,
+  "ausentes": 2,
   "espera_media_s": 549
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:48.539Z",
-  "min_sem_lead": 483514
+  "ultimo_lead_at": "2026-08-26T12:04:32.746Z",
+  "min_sem_lead": 67
  },
  "leads": [
-  {
-   "nome": "Advogado Daniel Abrantes Cavalcante ",
-   "tel": "5583*****370",
-   "criado": "09:46",
-   "atendente": "Nicolas",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
   {
    "nome": "aeduklein",
    "tel": "5543*****265",
@@ -367,6 +368,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/d2ohiLBrn",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Advogado Daniel Abrantes Cavalcante ",
+   "tel": "5583*****370",
+   "criado": "09:46",
+   "atendente": "Nicolas",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "giza",
@@ -466,6 +478,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/8klt3OBuk",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5517996195978",
+   "tel": "5517*****978",
+   "criado": "10:09",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
