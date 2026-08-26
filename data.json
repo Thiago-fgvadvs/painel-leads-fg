@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/08/2026, 13:30",
+ "gerado_em": "26/08/2026, 13:45",
  "data_ref": "26/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
-  "no_sla": 16,
+  "total": 26,
+  "no_sla": 17,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 6,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 264,
-  "tickets_abertos": 542,
+  "leads_7d": 266,
+  "tickets_abertos": 541,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 22,
+   "leads": 23,
    "mediana_min": 0.4
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 19,
-  "Direto/Indicacao": 5
+  "Direto/Indicacao": 7
  },
  "criativos": [
   {
@@ -66,8 +66,8 @@
  ],
  "areas": {
   "Trabalhista": 14,
-  "Previdenciario": 2,
-  "Nao identificada": 8
+  "Nao identificada": 10,
+  "Previdenciario": 2
  },
  "sem_resposta_lista": [
   {
@@ -89,15 +89,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 228,
-  "turnos": 938,
-  "respondidos": 928,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "turnos": 948,
+  "respondidos": 939,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 758,
+    "respostas": 768,
     "mediana_min": 2.2
    },
    {
@@ -107,7 +107,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 49,
+    "respostas": 50,
     "mediana_min": 0.9
    },
    {
@@ -133,22 +133,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
+    "grupo": "G.N.D.S x EBAZAR.COM.BR. LTDA",
     "dia": "26/08",
-    "desde": "13:07",
-    "ts": 1787760467346
+    "desde": "13:43",
+    "ts": 1787762632388
    },
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "26/08",
     "desde": "13:07",
     "ts": 1787760432355
-   },
-   {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
-    "dia": "26/08",
-    "desde": "13:08",
-    "ts": 1787760532359
    },
    {
     "grupo": "R.G.P x JBS SA",
@@ -311,16 +305,10 @@
     "ts": 1787760432355
    },
    {
-    "grupo": "R.G.M x ASSOCIACAO SAUDE DA FAMILIA",
+    "grupo": "G.N.D.S x EBAZAR.COM.BR. LTDA",
     "dia": "26/08",
-    "desde": "13:07",
-    "ts": 1787760467346
-   },
-   {
-    "grupo": "R.S.A x REDE D OR SAO LUIZ S A",
-    "dia": "26/08",
-    "desde": "13:08",
-    "ts": 1787760532359
+    "desde": "13:43",
+    "ts": 1787762632388
    }
   ]
  },
@@ -381,21 +369,21 @@
   ]
  },
  "agora": {
-  "fila": 429,
-  "abertos": 542,
+  "fila": 430,
+  "abertos": 541,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 804
+  "online": 3,
+  "offline": 0,
+  "ausentes": 5,
+  "espera_media_s": 802
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T01:44:36.943Z",
-  "min_sem_lead": 885
+  "ultimo_lead_at": "2026-07-30T01:58:19.540Z",
+  "min_sem_lead": 39767
  },
  "leads": [
   {
-   "nome": "553597670762",
+   "nome": "Rondineli de Oliveira 😁😁😁",
    "tel": "5535*****762",
    "criado": "13:27",
    "atendente": "FG Advogados - Isadora ",
@@ -404,6 +392,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Meire Faria",
+   "tel": "5511*****458",
+   "criado": "13:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Bruno",
@@ -654,6 +653,17 @@
    "atendente": "—",
    "espera_min": null,
    "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "558994425179",
+   "tel": "5589*****179",
+   "criado": "13:35",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
