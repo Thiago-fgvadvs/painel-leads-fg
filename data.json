@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/08/2026, 15:22",
+ "gerado_em": "27/08/2026, 15:38",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 90,
   "mediana_geral": 0.5,
   "leads_7d": 267,
-  "tickets_abertos": 275,
+  "tickets_abertos": 276,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -89,8 +89,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 243,
-  "turnos": 947,
-  "respondidos": 938,
+  "turnos": 953,
+  "respondidos": 944,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 2.2,
@@ -102,8 +102,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 59,
-    "mediana_min": 8.3
+    "respostas": 63,
+    "mediana_min": 9.1
    },
    {
     "nome": "Gabrielle",
@@ -112,8 +112,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 30,
-    "mediana_min": 2.8
+    "respostas": 32,
+    "mediana_min": 3.2
    },
    {
     "nome": "Eduardo",
@@ -138,16 +138,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "D.M.S.D.A",
+    "dia": "27/08",
+    "desde": "15:31",
+    "ts": 1787855472061
+   },
+   {
     "grupo": "I.R.D.S x E. B. SANTANA PANIFICADORA",
     "dia": "27/08",
     "desde": "15:18",
     "ts": 1787854739939
-   },
-   {
-    "grupo": "D.M.S.D.A",
-    "dia": "27/08",
-    "desde": "15:16",
-    "ts": 1787854563047
    },
    {
     "grupo": "A.F.G",
@@ -240,16 +240,16 @@
     "ts": 1787853699043
    },
    {
-    "grupo": "D.M.S.D.A",
-    "dia": "27/08",
-    "desde": "15:16",
-    "ts": 1787854563047
-   },
-   {
     "grupo": "I.R.D.S x E. B. SANTANA PANIFICADORA",
     "dia": "27/08",
     "desde": "15:18",
     "ts": 1787854739939
+   },
+   {
+    "grupo": "D.M.S.D.A",
+    "dia": "27/08",
+    "desde": "15:31",
+    "ts": 1787855472061
    }
   ]
  },
@@ -346,17 +346,17 @@
   ]
  },
  "agora": {
-  "fila": 132,
-  "abertos": 275,
+  "fila": 131,
+  "abertos": 276,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 4,
   "offline": 2,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 12261
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-27T14:28:57.941Z",
-  "min_sem_lead": 234
+  "min_sem_lead": 249
  },
  "leads": [
   {
