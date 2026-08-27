@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/08/2026, 13:36",
+ "gerado_em": "27/08/2026, 13:51",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 88,
   "mediana_geral": 0.5,
   "leads_7d": 263,
-  "tickets_abertos": 389,
+  "tickets_abertos": 383,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -40,6 +40,14 @@
    "leads": 2
   },
   {
+   "url": "fb.me/4SakjEeOx",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/7VpAO4sFl",
+   "leads": 1
+  },
+  {
    "url": "fb.me/8klt3OBuk",
    "leads": 1
   },
@@ -48,19 +56,11 @@
    "leads": 1
   },
   {
-   "url": "fb.me/7VpAO4sFl",
-   "leads": 1
-  },
-  {
    "url": "fb.me/51RP8rs83",
    "leads": 1
   },
   {
    "url": "fb.me/8dFBqq9oB",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/7X8GIt8so",
    "leads": 1
   }
  ],
@@ -89,10 +89,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 241,
-  "turnos": 935,
-  "respondidos": 928,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 936,
+  "respondidos": 930,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -102,7 +102,7 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 51,
+    "respostas": 53,
     "mediana_min": 7.6
    },
    {
@@ -142,12 +142,6 @@
     "dia": "27/08",
     "desde": "13:35",
     "ts": 1787848517941
-   },
-   {
-    "grupo": "P.R.D.V.A x MURO ALTO BEACH RESORT",
-    "dia": "27/08",
-    "desde": "12:10",
-    "ts": 1787843410870
    },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
@@ -222,12 +216,6 @@
     "dia": "27/08",
     "desde": "09:29",
     "ts": 1787833778733
-   },
-   {
-    "grupo": "P.R.D.V.A x MURO ALTO BEACH RESORT",
-    "dia": "27/08",
-    "desde": "12:10",
-    "ts": 1787843410870
    },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
@@ -312,17 +300,17 @@
   ]
  },
  "agora": {
-  "fila": 252,
-  "abertos": 389,
+  "fila": 246,
+  "abertos": 383,
   "com_atendimento": 6,
   "online": 4,
   "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 7339
+  "espera_media_s": 7470
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-27T14:19:55.740Z",
-  "min_sem_lead": 136
+  "min_sem_lead": 151
  },
  "leads": [
   {
@@ -335,6 +323,28 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Lindalva Silva Braga",
+   "tel": "5534*****055",
+   "criado": "09:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4SakjEeOx",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Gildo Martins",
+   "tel": "5533*****524",
+   "criado": "12:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7VpAO4sFl",
+   "area": "Trabalhista"
   },
   {
    "nome": "agripinolima929",
@@ -356,17 +366,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4mTU3s0jH",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Gildo Martins",
-   "tel": "5533*****524",
-   "criado": "12:21",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7VpAO4sFl",
    "area": "Trabalhista"
   },
   {
@@ -455,17 +454,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/h3GUQ2tKY",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Lindalva Silva Braga",
-   "tel": "5534*****055",
-   "criado": "09:55",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4SakjEeOx",
    "area": "Trabalhista"
   },
   {
