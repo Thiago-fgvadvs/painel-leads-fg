@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/08/2026, 13:15",
+ "gerado_em": "27/08/2026, 13:36",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 88,
   "mediana_geral": 0.5,
   "leads_7d": 263,
-  "tickets_abertos": 387,
+  "tickets_abertos": 389,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -40,6 +40,14 @@
    "leads": 2
   },
   {
+   "url": "fb.me/8klt3OBuk",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4mTU3s0jH",
+   "leads": 1
+  },
+  {
    "url": "fb.me/7VpAO4sFl",
    "leads": 1
   },
@@ -48,19 +56,11 @@
    "leads": 1
   },
   {
-   "url": "fb.me/4mTU3s0jH",
-   "leads": 1
-  },
-  {
    "url": "fb.me/8dFBqq9oB",
    "leads": 1
   },
   {
    "url": "fb.me/7X8GIt8so",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/8klt3OBuk",
    "leads": 1
   }
  ],
@@ -89,8 +89,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 241,
-  "turnos": 931,
-  "respondidos": 924,
+  "turnos": 935,
+  "respondidos": 928,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
@@ -101,14 +101,14 @@
     "mediana_min": 2.2
    },
    {
+    "nome": "Nicolas",
+    "respostas": 51,
+    "mediana_min": 7.6
+   },
+   {
     "nome": "Gabrielle",
     "respostas": 49,
     "mediana_min": 0.9
-   },
-   {
-    "nome": "Nicolas",
-    "respostas": 48,
-    "mediana_min": 7.6
    },
    {
     "nome": "Roseli",
@@ -132,22 +132,22 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 4,
-    "mediana_min": 4.8
+    "respostas": 5,
+    "mediana_min": 5.5
    }
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
     "dia": "27/08",
-    "desde": "13:13",
-    "ts": 1787847196919
+    "desde": "13:35",
+    "ts": 1787848517941
    },
    {
-    "grupo": "C.A.G x R&D MINERACAO E CONSTRUCAO LTDA",
+    "grupo": "P.R.D.V.A x MURO ALTO BEACH RESORT",
     "dia": "27/08",
-    "desde": "13:05",
-    "ts": 1787846741908
+    "desde": "12:10",
+    "ts": 1787843410870
    },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
@@ -224,16 +224,16 @@
     "ts": 1787833778733
    },
    {
-    "grupo": "C.A.G x R&D MINERACAO E CONSTRUCAO LTDA",
+    "grupo": "P.R.D.V.A x MURO ALTO BEACH RESORT",
     "dia": "27/08",
-    "desde": "13:05",
-    "ts": 1787846741908
+    "desde": "12:10",
+    "ts": 1787843410870
    },
    {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
     "dia": "27/08",
-    "desde": "13:13",
-    "ts": 1787847196919
+    "desde": "13:35",
+    "ts": 1787848517941
    }
   ]
  },
@@ -312,17 +312,17 @@
   ]
  },
  "agora": {
-  "fila": 251,
-  "abertos": 387,
+  "fila": 252,
+  "abertos": 389,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 4,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 7318
+  "ausentes": 2,
+  "espera_media_s": 7339
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-27T14:19:55.740Z",
-  "min_sem_lead": 115
+  "min_sem_lead": 136
  },
  "leads": [
   {
@@ -335,6 +335,28 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "agripinolima929",
+   "tel": "5561*****699",
+   "criado": "12:09",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8klt3OBuk",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "joseangelchavezgallardo12",
+   "tel": "5521*****577",
+   "criado": "06:44",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4mTU3s0jH",
+   "area": "Trabalhista"
   },
   {
    "nome": "Gildo Martins",
@@ -357,17 +379,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/51RP8rs83",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "joseangelchavezgallardo12",
-   "tel": "5521*****577",
-   "criado": "06:44",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4mTU3s0jH",
-   "area": "Trabalhista"
   },
   {
    "nome": "553193694244",
@@ -422,17 +433,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "agripinolima929",
-   "tel": "5561*****699",
-   "criado": "12:09",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/8klt3OBuk",
    "area": "Trabalhista"
   },
   {
