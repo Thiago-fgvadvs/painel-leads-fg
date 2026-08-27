@@ -1,33 +1,33 @@
 {
- "gerado_em": "27/08/2026, 12:59",
+ "gerado_em": "27/08/2026, 13:15",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 14,
-  "fora_sla": 0,
-  "sem_resposta": 2,
+  "total": 22,
+  "no_sla": 15,
+  "fora_sla": 2,
+  "sem_resposta": 0,
   "fora_horario": 5,
-  "pct_sla": 100,
+  "pct_sla": 88,
   "mediana_geral": 0.5,
-  "leads_7d": 262,
-  "tickets_abertos": 402,
+  "leads_7d": 263,
+  "tickets_abertos": 387,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 17,
+   "leads": 18,
    "mediana_min": 0.5
   },
   {
    "nome": "Tiago Bernardo",
-   "leads": 1,
-   "mediana_min": 1.8
+   "leads": 3,
+   "mediana_min": 51.3
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -38,6 +38,14 @@
   {
    "url": "fb.me/4Q2iDxnnc",
    "leads": 2
+  },
+  {
+   "url": "fb.me/7VpAO4sFl",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/51RP8rs83",
+   "leads": 1
   },
   {
    "url": "fb.me/4mTU3s0jH",
@@ -52,45 +60,39 @@
    "leads": 1
   },
   {
-   "url": "fb.me/7VpAO4sFl",
-   "leads": 1
-  },
-  {
    "url": "fb.me/8klt3OBuk",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWwCdqsC0r/",
    "leads": 1
   }
  ],
  "areas": {
+  "Nao identificada": 5,
   "Trabalhista": 16,
-  "Nao identificada": 4,
   "Previdenciario": 1
  },
- "sem_resposta_lista": [
-  {
-   "nome": "5514996691715",
-   "tel": "5514*****715",
-   "criado": "12:14",
-   "area": "Nao identificada"
-  },
+ "sem_resposta_lista": [],
+ "fora_sla_lista": [
   {
    "nome": "553193694244",
    "tel": "5531*****244",
    "criado": "10:27",
-   "area": "Nao identificada"
+   "espera_min": 158.5,
+   "atendente": "Tiago Bernardo"
+  },
+  {
+   "nome": "5514996691715",
+   "tel": "5514*****715",
+   "criado": "12:14",
+   "espera_min": 51.3,
+   "atendente": "Tiago Bernardo"
   }
  ],
- "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 241,
-  "turnos": 924,
-  "respondidos": 919,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "turnos": 931,
+  "respondidos": 924,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -105,7 +107,7 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 43,
+    "respostas": 48,
     "mediana_min": 7.6
    },
    {
@@ -135,6 +137,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "dia": "27/08",
+    "desde": "13:13",
+    "ts": 1787847196919
+   },
+   {
+    "grupo": "C.A.G x R&D MINERACAO E CONSTRUCAO LTDA",
+    "dia": "27/08",
+    "desde": "13:05",
+    "ts": 1787846741908
+   },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
     "dia": "27/08",
@@ -176,20 +190,6 @@
     "dia": "23/08",
     "desde": "02:48",
     "ts": 1787464130885
-   },
-   {
-    "nome": "553193694244",
-    "tel": "5531*****244",
-    "dia": "27/08",
-    "desde": "10:27",
-    "ts": 1787837258125
-   },
-   {
-    "nome": "5514996691715",
-    "tel": "5514*****715",
-    "dia": "27/08",
-    "desde": "12:14",
-    "ts": 1787843662430
    }
   ],
   "grupos": [
@@ -222,6 +222,18 @@
     "dia": "27/08",
     "desde": "09:29",
     "ts": 1787833778733
+   },
+   {
+    "grupo": "C.A.G x R&D MINERACAO E CONSTRUCAO LTDA",
+    "dia": "27/08",
+    "desde": "13:05",
+    "ts": 1787846741908
+   },
+   {
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "dia": "27/08",
+    "desde": "13:13",
+    "ts": 1787847196919
    }
   ]
  },
@@ -300,19 +312,52 @@
   ]
  },
  "agora": {
-  "fila": 267,
-  "abertos": 402,
+  "fila": 251,
+  "abertos": 387,
   "com_atendimento": 6,
   "online": 5,
-  "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 10293
+  "offline": 2,
+  "ausentes": 1,
+  "espera_media_s": 7318
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-23T23:32:18.711Z",
-  "min_sem_lead": 5307
+  "ultimo_lead_at": "2026-08-27T14:19:55.740Z",
+  "min_sem_lead": 115
  },
  "leads": [
+  {
+   "nome": "Samuel",
+   "tel": "5515*****068",
+   "criado": "11:19",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 1.8,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Gildo Martins",
+   "tel": "5533*****524",
+   "criado": "12:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7VpAO4sFl",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Antonia",
+   "tel": "5561*****900",
+   "criado": "13:13",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/51RP8rs83",
+   "area": "Nao identificada"
+  },
   {
    "nome": "joseangelchavezgallardo12",
    "tel": "5521*****577",
@@ -323,6 +368,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4mTU3s0jH",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "553193694244",
+   "tel": "5531*****244",
+   "criado": "10:27",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 158.5,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5514996691715",
+   "tel": "5514*****715",
+   "criado": "12:14",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 51.3,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "osvaldojosedelima8",
@@ -358,17 +425,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Gildo Martins",
-   "tel": "5533*****524",
-   "criado": "12:21",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7VpAO4sFl",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "agripinolima929",
    "tel": "5561*****699",
    "criado": "12:09",
@@ -389,17 +445,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwCdqsC0r/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "5514996691715",
-   "tel": "5514*****715",
-   "criado": "12:14",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Eleon Campos da Costa",
@@ -446,17 +491,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Samuel",
-   "tel": "5515*****068",
-   "criado": "11:19",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 1.8,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "jesus tem poder",
    "tel": "5521*****389",
    "criado": "04:51",
@@ -477,17 +511,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWu6YsMt5O/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "553193694244",
-   "tel": "5531*****244",
-   "criado": "10:27",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Ilma Soares",
