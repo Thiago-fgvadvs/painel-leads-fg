@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/08/2026, 14:52",
+ "gerado_em": "27/08/2026, 15:07",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
-  "no_sla": 17,
+  "total": 25,
+  "no_sla": 18,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 5,
-  "pct_sla": 89,
+  "pct_sla": 90,
   "mediana_geral": 0.5,
-  "leads_7d": 265,
-  "tickets_abertos": 268,
+  "leads_7d": 266,
+  "tickets_abertos": 272,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.5
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -38,6 +38,14 @@
   {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcWwGJoss64/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4GjAyWZsF",
+   "leads": 1
   },
   {
    "url": "fb.me/8klt3OBuk",
@@ -54,19 +62,11 @@
   {
    "url": "fb.me/4mTU3s0jH",
    "leads": 1
-  },
-  {
-   "url": "fb.me/51RP8rs83",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/8dFBqq9oB",
-   "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 18,
-  "Nao identificada": 5,
+  "Nao identificada": 6,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -88,11 +88,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 242,
-  "turnos": 936,
-  "respondidos": 930,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "grupos_ativos": 243,
+  "turnos": 943,
+  "respondidos": 936,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -102,8 +102,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 53,
-    "mediana_min": 7.6
+    "respostas": 58,
+    "mediana_min": 8.2
    },
    {
     "nome": "Gabrielle",
@@ -112,8 +112,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 28,
-    "mediana_min": 3.2
+    "respostas": 29,
+    "mediana_min": 3.1
    },
    {
     "nome": "Eduardo",
@@ -137,6 +137,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.F.G",
+    "dia": "27/08",
+    "desde": "15:01",
+    "ts": 1787853699043
+   },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
     "dia": "27/08",
@@ -214,6 +220,12 @@
     "dia": "27/08",
     "desde": "13:35",
     "ts": 1787848517941
+   },
+   {
+    "grupo": "A.F.G",
+    "dia": "27/08",
+    "desde": "15:01",
+    "ts": 1787853699043
    }
   ]
  },
@@ -302,28 +314,39 @@
  },
  "agora": {
   "fila": 130,
-  "abertos": 268,
+  "abertos": 272,
   "com_atendimento": 7,
-  "online": 6,
-  "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 12420
+  "online": 4,
+  "offline": 2,
+  "ausentes": 2,
+  "espera_media_s": 12313
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-27T17:27:15.557Z",
-  "min_sem_lead": 25
+  "ultimo_lead_at": "2026-08-27T14:28:57.941Z",
+  "min_sem_lead": 219
  },
  "leads": [
   {
-   "nome": "Elber",
-   "tel": "5585*****263",
-   "criado": "14:27",
+   "nome": "Rodrigo Alves",
+   "tel": "5548*****332",
+   "criado": "11:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 2.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGJoss64/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553399657530",
+   "tel": "5533*****530",
+   "criado": "15:05",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.5,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
+   "origem": "Anuncio",
+   "criativo": "fb.me/4GjAyWZsF",
+   "area": "Nao identificada"
   },
   {
    "nome": "Samuel",
@@ -335,6 +358,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Elber",
+   "tel": "5585*****263",
+   "criado": "14:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
   },
   {
    "nome": "geraldogomesgermando123",
@@ -488,17 +522,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWteCZMgFJ/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Rodrigo Alves",
-   "tel": "5548*****332",
-   "criado": "11:28",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 2.7,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGJoss64/",
    "area": "Trabalhista"
   },
   {
