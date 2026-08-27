@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/08/2026, 18:40",
+ "gerado_em": "27/08/2026, 18:56",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
-  "no_sla": 20,
+  "total": 29,
+  "no_sla": 22,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 5,
-  "pct_sla": 91,
+  "pct_sla": 92,
   "mediana_geral": 0.5,
-  "leads_7d": 268,
-  "tickets_abertos": 276,
+  "leads_7d": 270,
+  "tickets_abertos": 279,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 23,
+   "leads": 25,
    "mediana_min": 0.5
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 24,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -38,6 +38,14 @@
   {
    "url": "fb.me/4Q2iDxnnc",
    "leads": 3
+  },
+  {
+   "url": "fb.me/7X8GIt8so",
+   "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcWp25JsFID/",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcWwGJoss64/",
@@ -54,19 +62,11 @@
   {
    "url": "fb.me/4GjAyWZsF",
    "leads": 1
-  },
-  {
-   "url": "fb.me/8klt3OBuk",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/4SakjEeOx",
-   "leads": 1
   }
  ],
  "areas": {
+  "Nao identificada": 8,
   "Trabalhista": 20,
-  "Nao identificada": 6,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -88,11 +88,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 248,
-  "turnos": 963,
-  "respondidos": 956,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "grupos_ativos": 249,
+  "turnos": 965,
+  "respondidos": 957,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -112,8 +112,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 33,
-    "mediana_min": 3.1
+    "respostas": 34,
+    "mediana_min": 2.8
    },
    {
     "nome": "Eduardo",
@@ -137,6 +137,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
+    "dia": "27/08",
+    "desde": "18:53",
+    "ts": 1787867597124
+   },
    {
     "grupo": "D.M.S.D.A",
     "dia": "27/08",
@@ -183,15 +189,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "553498086129",
-    "tel": "5534*****129",
-    "dia": "27/08",
-    "desde": "18:12",
-    "ts": 1787865174645
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "A.J.P.B",
@@ -234,18 +232,33 @@
     "dia": "27/08",
     "desde": "15:31",
     "ts": 1787855472061
+   },
+   {
+    "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
+    "dia": "27/08",
+    "desde": "18:53",
+    "ts": 1787867597124
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 9,
+  "total": 10,
   "por_vendedor": {
-   "Roseli": 5,
+   "Roseli": 6,
    "Tiago Bernardo": 1,
    "FG Advogados - Isadora ": 3
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "N.F",
+    "dia": "27/08",
+    "hora": "18:50",
+    "ts": 1787867444645,
+    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "D",
@@ -330,19 +343,41 @@
   ]
  },
  "agora": {
-  "fila": 135,
-  "abertos": 276,
+  "fila": 137,
+  "abertos": 279,
   "com_atendimento": 6,
   "online": 3,
-  "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 12054
+  "offline": 4,
+  "ausentes": 1,
+  "espera_media_s": 11954
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T22:06:07.282Z",
-  "min_sem_lead": 1415
+  "ultimo_lead_at": "2026-08-27T21:46:15.762Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "558293702325",
+   "tel": "5582*****325",
+   "criado": "18:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWp25JsFID/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "🥰",
+   "tel": "5569*****810",
+   "criado": "18:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7X8GIt8so",
+   "area": "Nao identificada"
+  },
   {
    "nome": "553498086129",
    "tel": "5534*****129",
