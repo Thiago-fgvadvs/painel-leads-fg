@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/08/2026, 11:43",
+ "gerado_em": "27/08/2026, 11:58",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 256,
-  "tickets_abertos": 519,
+  "tickets_abertos": 486,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -73,16 +73,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 237,
-  "turnos": 914,
-  "respondidos": 907,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "grupos_ativos": 239,
+  "turnos": 917,
+  "respondidos": 911,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 748,
+    "respostas": 752,
     "mediana_min": 2.2
    },
    {
@@ -122,12 +122,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "A.F.G",
-    "dia": "27/08",
-    "desde": "10:55",
-    "ts": 1787838933747
-   },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
     "dia": "27/08",
@@ -213,12 +207,6 @@
     "dia": "27/08",
     "desde": "09:29",
     "ts": 1787833778733
-   },
-   {
-    "grupo": "A.F.G",
-    "dia": "27/08",
-    "desde": "10:55",
-    "ts": 1787838933747
    }
   ]
  },
@@ -297,17 +285,17 @@
   ]
  },
  "agora": {
-  "fila": 380,
-  "abertos": 519,
-  "com_atendimento": 7,
-  "online": 5,
+  "fila": 357,
+  "abertos": 486,
+  "com_atendimento": 6,
+  "online": 7,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 7909
+  "ausentes": 0,
+  "espera_media_s": 8339
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T11:51:49.467Z",
-  "min_sem_lead": 14572
+  "ultimo_lead_at": "2026-08-17T11:51:50.310Z",
+  "min_sem_lead": 14587
  },
  "leads": [
   {
