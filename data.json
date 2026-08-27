@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/08/2026, 12:29",
+ "gerado_em": "27/08/2026, 12:44",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 260,
-  "tickets_abertos": 434,
+  "tickets_abertos": 428,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -40,7 +40,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcWwCdqsC0r/",
+   "url": "fb.me/7X8GIt8so",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/7VpAO4sFl",
    "leads": 1
   },
   {
@@ -48,7 +52,7 @@
    "leads": 1
   },
   {
-   "url": "fb.me/7VpAO4sFl",
+   "url": "www.instagram.com/p/DcWwCdqsC0r/",
    "leads": 1
   },
   {
@@ -57,10 +61,6 @@
   },
   {
    "url": "fb.me/4SakjEeOx",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWteCZMgFJ/",
    "leads": 1
   }
  ],
@@ -73,11 +73,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 240,
-  "turnos": 922,
-  "respondidos": 917,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "grupos_ativos": 241,
+  "turnos": 924,
+  "respondidos": 918,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -92,7 +92,7 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 41,
+    "respostas": 42,
     "mediana_min": 7.6
    },
    {
@@ -122,6 +122,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "F.M.D.M.S x FEINKOST INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
+    "dia": "27/08",
+    "desde": "12:37",
+    "ts": 1787845065892
+   },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
     "dia": "27/08",
@@ -195,6 +201,12 @@
     "dia": "27/08",
     "desde": "09:29",
     "ts": 1787833778733
+   },
+   {
+    "grupo": "F.M.D.M.S x FEINKOST INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
+    "dia": "27/08",
+    "desde": "12:37",
+    "ts": 1787845065892
    }
   ]
  },
@@ -273,28 +285,50 @@
   ]
  },
  "agora": {
-  "fila": 305,
-  "abertos": 434,
+  "fila": 296,
+  "abertos": 428,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 3,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 9314
+  "ausentes": 4,
+  "espera_media_s": 9510
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T22:06:07.282Z",
-  "min_sem_lead": 1043
+  "ultimo_lead_at": "2026-08-19T02:19:52.737Z",
+  "min_sem_lead": 12325
  },
  "leads": [
   {
-   "nome": "Igor ",
-   "tel": "5561*****200",
-   "criado": "12:25",
+   "nome": "Anderson Castro",
+   "tel": "5511*****742",
+   "criado": "01:11",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7X8GIt8so",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Dulcy Maria Contes ❤️‍🔥",
+   "tel": "5527*****570",
+   "criado": "00:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Gildo Martins",
+   "tel": "5533*****524",
+   "criado": "12:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwCdqsC0r/",
+   "criativo": "fb.me/7VpAO4sFl",
    "area": "Trabalhista"
   },
   {
@@ -309,14 +343,14 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Gildo Martins",
-   "tel": "5533*****524",
-   "criado": "12:21",
+   "nome": "Igor ",
+   "tel": "5561*****200",
+   "criado": "12:25",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
+   "espera_min": 0.5,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/7VpAO4sFl",
+   "criativo": "www.instagram.com/p/DcWwCdqsC0r/",
    "area": "Trabalhista"
   },
   {
@@ -452,31 +486,9 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511945982742",
-   "tel": "5511*****742",
-   "criado": "01:11",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7X8GIt8so",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5527996593570",
-   "tel": "5527*****570",
-   "criado": "00:21",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5514996691715",
-   "tel": "5514*****715",
-   "criado": "12:14",
+   "nome": "553193694244",
+   "tel": "5531*****244",
+   "criado": "10:27",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -485,9 +497,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553193694244",
-   "tel": "5531*****244",
-   "criado": "10:27",
+   "nome": "5514996691715",
+   "tel": "5514*****715",
+   "criado": "12:14",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
