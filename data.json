@@ -1,34 +1,42 @@
 {
- "gerado_em": "27/08/2026, 09:26",
+ "gerado_em": "27/08/2026, 09:41",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 3,
+  "total": 11,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 249,
+  "leads_7d": 251,
   "tickets_abertos": 551,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 8,
+   "leads": 10,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 10,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "fb.me/4Q2iDxnnc",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcWu6YsMt5O/",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DcWteCZMgFJ/",
+   "leads": 1
   },
   {
    "url": "fb.me/85SmksXTt",
@@ -49,14 +57,10 @@
   {
    "url": "fb.me/7X8GIt8so",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWwGKMsEU4/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 9,
   "Previdenciario": 1,
   "Nao identificada": 1
  },
@@ -64,16 +68,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 235,
-  "turnos": 879,
-  "respondidos": 873,
+  "grupos_ativos": 236,
+  "turnos": 883,
+  "respondidos": 877,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 720,
+    "respostas": 721,
     "mediana_min": 2.2
    },
    {
@@ -102,22 +106,22 @@
     "mediana_min": 59.2
    },
    {
+    "nome": "Tiago Bernardo",
+    "respostas": 4,
+    "mediana_min": 4.8
+   },
+   {
     "nome": "Luisa",
     "respostas": 4,
     "mediana_min": 0.8
-   },
-   {
-    "nome": "Tiago Bernardo",
-    "respostas": 1,
-    "mediana_min": 7.5
    }
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.H.V.D.S x ROAD - SERVICOS TEMPORARIOS E TERCEIRIZADOS LTDA",
+    "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
     "dia": "27/08",
-    "desde": "09:20",
-    "ts": 1787833254732
+    "desde": "09:29",
+    "ts": 1787833778733
    },
    {
     "grupo": "I.N x FACILITY SERVICE CONSULT. E INTERMEDIACAO DE SERVICOS LTDA",
@@ -236,10 +240,10 @@
     "ts": 1787797109637
    },
    {
-    "grupo": "M.H.V.D.S x ROAD - SERVICOS TEMPORARIOS E TERCEIRIZADOS LTDA",
+    "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
     "dia": "27/08",
-    "desde": "09:20",
-    "ts": 1787833254732
+    "desde": "09:29",
+    "ts": 1787833778733
    }
   ]
  },
@@ -300,19 +304,41 @@
   ]
  },
  "agora": {
-  "fila": 425,
+  "fila": 426,
   "abertos": 551,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 4,
-  "ausentes": 1,
-  "espera_media_s": 846
+  "online": 5,
+  "offline": 1,
+  "ausentes": 2,
+  "espera_media_s": 845
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-27T12:21:51.236Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2026-08-27T12:31:45.499Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "Clovis Ferreira",
+   "tel": "5564*****807",
+   "criado": "09:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWu6YsMt5O/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Angel",
+   "tel": "5591*****696",
+   "criado": "09:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWteCZMgFJ/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "DNd",
    "tel": "5596*****629",
