@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/08/2026, 15:38",
+ "gerado_em": "27/08/2026, 15:53",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 90,
   "mediana_geral": 0.5,
   "leads_7d": 267,
-  "tickets_abertos": 276,
+  "tickets_abertos": 278,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -89,8 +89,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 243,
-  "turnos": 953,
-  "respondidos": 944,
+  "turnos": 957,
+  "respondidos": 948,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 2.2,
@@ -102,8 +102,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 63,
-    "mediana_min": 9.1
+    "respostas": 67,
+    "mediana_min": 9.3
    },
    {
     "nome": "Gabrielle",
@@ -138,22 +138,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
+    "dia": "27/08",
+    "desde": "15:52",
+    "ts": 1787856763048
+   },
+   {
+    "grupo": "L.O.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "27/08",
+    "desde": "15:51",
+    "ts": 1787856711086
+   },
+   {
     "grupo": "D.M.S.D.A",
     "dia": "27/08",
     "desde": "15:31",
     "ts": 1787855472061
-   },
-   {
-    "grupo": "I.R.D.S x E. B. SANTANA PANIFICADORA",
-    "dia": "27/08",
-    "desde": "15:18",
-    "ts": 1787854739939
-   },
-   {
-    "grupo": "A.F.G",
-    "dia": "27/08",
-    "desde": "15:01",
-    "ts": 1787853699043
    },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
@@ -234,22 +234,22 @@
     "ts": 1787848517941
    },
    {
-    "grupo": "A.F.G",
-    "dia": "27/08",
-    "desde": "15:01",
-    "ts": 1787853699043
-   },
-   {
-    "grupo": "I.R.D.S x E. B. SANTANA PANIFICADORA",
-    "dia": "27/08",
-    "desde": "15:18",
-    "ts": 1787854739939
-   },
-   {
     "grupo": "D.M.S.D.A",
     "dia": "27/08",
     "desde": "15:31",
     "ts": 1787855472061
+   },
+   {
+    "grupo": "L.O.S x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "27/08",
+    "desde": "15:51",
+    "ts": 1787856711086
+   },
+   {
+    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
+    "dia": "27/08",
+    "desde": "15:52",
+    "ts": 1787856763048
    }
   ]
  },
@@ -346,17 +346,17 @@
   ]
  },
  "agora": {
-  "fila": 131,
-  "abertos": 276,
+  "fila": 133,
+  "abertos": 278,
   "com_atendimento": 7,
   "online": 4,
   "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 12261
+  "espera_media_s": 12208
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-27T14:28:57.941Z",
-  "min_sem_lead": 249
+  "ultimo_lead_at": "2026-08-20T17:35:37.568Z",
+  "min_sem_lead": 10158
  },
  "leads": [
   {
