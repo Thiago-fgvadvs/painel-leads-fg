@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/08/2026, 17:40",
+ "gerado_em": "27/08/2026, 17:55",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 90,
   "mediana_geral": 0.5,
   "leads_7d": 267,
-  "tickets_abertos": 273,
+  "tickets_abertos": 274,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -88,11 +88,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 243,
-  "turnos": 962,
+  "grupos_ativos": 246,
+  "turnos": 963,
   "respondidos": 955,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -137,6 +137,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
+    "dia": "27/08",
+    "desde": "17:49",
+    "ts": 1787863790110
+   },
    {
     "grupo": "D.M.S.D.A",
     "dia": "27/08",
@@ -226,6 +232,12 @@
     "dia": "27/08",
     "desde": "15:31",
     "ts": 1787855472061
+   },
+   {
+    "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
+    "dia": "27/08",
+    "desde": "17:49",
+    "ts": 1787863790110
    }
   ]
  },
@@ -323,16 +335,16 @@
  },
  "agora": {
   "fila": 133,
-  "abertos": 273,
+  "abertos": 274,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 3,
   "offline": 2,
-  "ausentes": 4,
+  "ausentes": 3,
   "espera_media_s": 12105
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-26T22:06:07.282Z",
-  "min_sem_lead": 1354
+  "min_sem_lead": 1369
  },
  "leads": [
   {
