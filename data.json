@@ -1,41 +1,41 @@
 {
- "gerado_em": "27/08/2026, 09:10",
+ "gerado_em": "27/08/2026, 09:26",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 2,
+  "total": 9,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 247,
-  "tickets_abertos": 550,
+  "mediana_geral": 0.4,
+  "leads_7d": 249,
+  "tickets_abertos": 551,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
-   "mediana_min": 0.5
+   "leads": 8,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 7,
-  "Direto/Indicacao": 0
+  "Anuncio": 8,
+  "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/4Q2iDxnnc",
+   "leads": 2
+  },
   {
    "url": "fb.me/85SmksXTt",
    "leads": 1
   },
   {
    "url": "fb.me/h3GUQ2tKY",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/4Q2iDxnnc",
    "leads": 1
   },
   {
@@ -56,23 +56,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
-  "Previdenciario": 1
+  "Trabalhista": 7,
+  "Previdenciario": 1,
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 235,
-  "turnos": 876,
-  "respondidos": 871,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "turnos": 879,
+  "respondidos": 873,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 719,
+    "respostas": 720,
     "mediana_min": 2.2
    },
    {
@@ -104,9 +105,20 @@
     "nome": "Luisa",
     "respostas": 4,
     "mediana_min": 0.8
+   },
+   {
+    "nome": "Tiago Bernardo",
+    "respostas": 1,
+    "mediana_min": 7.5
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.H.V.D.S x ROAD - SERVICOS TEMPORARIOS E TERCEIRIZADOS LTDA",
+    "dia": "27/08",
+    "desde": "09:20",
+    "ts": 1787833254732
+   },
    {
     "grupo": "I.N x FACILITY SERVICE CONSULT. E INTERMEDIACAO DE SERVICOS LTDA",
     "dia": "26/08",
@@ -222,6 +234,12 @@
     "dia": "26/08",
     "desde": "23:18",
     "ts": 1787797109637
+   },
+   {
+    "grupo": "M.H.V.D.S x ROAD - SERVICOS TEMPORARIOS E TERCEIRIZADOS LTDA",
+    "dia": "27/08",
+    "desde": "09:20",
+    "ts": 1787833254732
    }
   ]
  },
@@ -282,19 +300,30 @@
   ]
  },
  "agora": {
-  "fila": 424,
-  "abertos": 550,
+  "fila": 425,
+  "abertos": 551,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 3,
   "offline": 4,
-  "ausentes": 0,
-  "espera_media_s": 848
+  "ausentes": 1,
+  "espera_media_s": 846
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-27T10:03:07.503Z",
-  "min_sem_lead": 128
+  "ultimo_lead_at": "2026-08-27T12:21:51.236Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "DNd",
+   "tel": "5596*****629",
+   "criado": "09:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4Q2iDxnnc",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Ilma Soares",
    "tel": "5531*****135",
@@ -371,6 +400,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5516994320896",
+   "tel": "5516*****896",
+   "criado": "09:18",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
