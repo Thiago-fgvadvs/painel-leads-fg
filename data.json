@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/08/2026, 11:58",
+ "gerado_em": "27/08/2026, 12:14",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 9,
+  "total": 17,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 256,
-  "tickets_abertos": 486,
+  "leads_7d": 257,
+  "tickets_abertos": 458,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 13,
+   "leads": 14,
    "mediana_min": 0.5
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 14,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "fb.me/4Q2iDxnnc",
    "leads": 2
+  },
+  {
+   "url": "fb.me/8klt3OBuk",
+   "leads": 1
   },
   {
    "url": "fb.me/h3GUQ2tKY",
@@ -58,14 +62,10 @@
   {
    "url": "fb.me/4HtOzRaco",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWu6YsMt5O/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 12,
+  "Trabalhista": 13,
   "Nao identificada": 3,
   "Previdenciario": 1
  },
@@ -73,16 +73,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 239,
-  "turnos": 917,
-  "respondidos": 911,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "grupos_ativos": 240,
+  "turnos": 921,
+  "respondidos": 916,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 752,
+    "respostas": 757,
     "mediana_min": 2.2
    },
    {
@@ -135,12 +135,6 @@
     "ts": 1787797109637
    },
    {
-    "grupo": "A.J.C",
-    "dia": "26/08",
-    "desde": "12:09",
-    "ts": 1787756947233
-   },
-   {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "25/08",
     "desde": "13:16",
@@ -189,12 +183,6 @@
     "dia": "25/08",
     "desde": "13:16",
     "ts": 1787674586233
-   },
-   {
-    "grupo": "A.J.C",
-    "dia": "26/08",
-    "desde": "12:09",
-    "ts": 1787756947233
    },
    {
     "grupo": "I.N x FACILITY SERVICE CONSULT. E INTERMEDIACAO DE SERVICOS LTDA",
@@ -285,19 +273,30 @@
   ]
  },
  "agora": {
-  "fila": 357,
-  "abertos": 486,
+  "fila": 330,
+  "abertos": 458,
   "com_atendimento": 6,
-  "online": 7,
+  "online": 5,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 8339
+  "ausentes": 2,
+  "espera_media_s": 8882
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T11:51:50.310Z",
-  "min_sem_lead": 14587
+  "ultimo_lead_at": "2026-08-12T01:44:21.466Z",
+  "min_sem_lead": 22410
  },
  "leads": [
+  {
+   "nome": "556182340699",
+   "tel": "5561*****699",
+   "criado": "12:09",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8klt3OBuk",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Eleon Campos da Costa",
    "tel": "5569*****443",
@@ -453,9 +452,9 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "553193694244",
-   "tel": "5531*****244",
-   "criado": "10:27",
+   "nome": "5516994320896",
+   "tel": "5516*****896",
+   "criado": "09:18",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -464,9 +463,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5516994320896",
-   "tel": "5516*****896",
-   "criado": "09:18",
+   "nome": "553193694244",
+   "tel": "5531*****244",
+   "criado": "10:27",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
