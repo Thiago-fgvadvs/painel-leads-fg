@@ -1,31 +1,39 @@
 {
- "gerado_em": "27/08/2026, 08:25",
+ "gerado_em": "27/08/2026, 08:40",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 0,
+  "total": 7,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 245,
-  "tickets_abertos": 547,
+  "pct_sla": 100,
+  "mediana_geral": 0.5,
+  "leads_7d": 247,
+  "tickets_abertos": 549,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
-   "mediana_min": null
+   "leads": 7,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 7,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/h3GUQ2tKY",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4Q2iDxnnc",
+   "leads": 1
+  },
   {
    "url": "fb.me/85SmksXTt",
    "leads": 1
@@ -48,7 +56,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
+  "Trabalhista": 6,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -269,19 +277,41 @@
   ]
  },
  "agora": {
-  "fila": 422,
-  "abertos": 547,
+  "fila": 424,
+  "abertos": 549,
   "com_atendimento": 6,
   "online": 4,
   "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 851
+  "espera_media_s": 848
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-09T01:26:26.385Z",
-  "min_sem_lead": 26519
+  "ultimo_lead_at": "2026-08-27T11:34:28.722Z",
+  "min_sem_lead": 6
  },
  "leads": [
+  {
+   "nome": "556981263443",
+   "tel": "5569*****443",
+   "criado": "08:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/h3GUQ2tKY",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Elizete",
+   "tel": "5533*****227",
+   "criado": "08:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4Q2iDxnnc",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Ilma Soares",
    "tel": "5531*****135",
