@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/08/2026, 15:07",
+ "gerado_em": "27/08/2026, 15:22",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
-  "no_sla": 18,
+  "total": 26,
+  "no_sla": 19,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 90,
   "mediana_geral": 0.5,
-  "leads_7d": 266,
-  "tickets_abertos": 272,
+  "leads_7d": 267,
+  "tickets_abertos": 275,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": 0.5
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -41,6 +41,10 @@
   },
   {
    "url": "www.instagram.com/p/DcWwGJoss64/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4KeoB4NcY",
    "leads": 1
   },
   {
@@ -58,14 +62,10 @@
   {
    "url": "fb.me/7VpAO4sFl",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4mTU3s0jH",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 18,
+  "Trabalhista": 19,
   "Nao identificada": 6,
   "Previdenciario": 1
  },
@@ -89,10 +89,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 243,
-  "turnos": 943,
-  "respondidos": 936,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 947,
+  "respondidos": 938,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -102,8 +102,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 58,
-    "mediana_min": 8.2
+    "respostas": 59,
+    "mediana_min": 8.3
    },
    {
     "nome": "Gabrielle",
@@ -112,8 +112,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 29,
-    "mediana_min": 3.1
+    "respostas": 30,
+    "mediana_min": 2.8
    },
    {
     "nome": "Eduardo",
@@ -137,6 +137,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "I.R.D.S x E. B. SANTANA PANIFICADORA",
+    "dia": "27/08",
+    "desde": "15:18",
+    "ts": 1787854739939
+   },
+   {
+    "grupo": "D.M.S.D.A",
+    "dia": "27/08",
+    "desde": "15:16",
+    "ts": 1787854563047
+   },
    {
     "grupo": "A.F.G",
     "dia": "27/08",
@@ -226,25 +238,46 @@
     "dia": "27/08",
     "desde": "15:01",
     "ts": 1787853699043
+   },
+   {
+    "grupo": "D.M.S.D.A",
+    "dia": "27/08",
+    "desde": "15:16",
+    "ts": 1787854563047
+   },
+   {
+    "grupo": "I.R.D.S x E. B. SANTANA PANIFICADORA",
+    "dia": "27/08",
+    "desde": "15:18",
+    "ts": 1787854739939
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 8,
+  "total": 9,
   "por_vendedor": {
-   "Roseli": 4,
+   "Roseli": 5,
    "Tiago Bernardo": 1,
    "FG Advogados - Isadora ": 3
   },
   "lista": [
    {
     "vendedor": "Roseli",
+    "cliente": "D",
+    "dia": "27/08",
+    "hora": "15:11",
+    "ts": 1787854285438,
+    "origem": "Anúncio: instagram.com/p/DbZBMoPsjD0/",
+    "de_anuncio": true
+   },
+   {
+    "vendedor": "Roseli",
     "cliente": "E",
     "dia": "27/08",
     "hora": "14:51",
     "ts": 1787853105374,
-    "origem": "Anúncio: fb.me/4KeoB4NcY",
+    "origem": "Anúncio: Trabalhista - acidente de trabalho",
     "de_anuncio": true
    },
    {
@@ -313,17 +346,17 @@
   ]
  },
  "agora": {
-  "fila": 130,
-  "abertos": 272,
+  "fila": 132,
+  "abertos": 275,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 5,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 12313
+  "ausentes": 1,
+  "espera_media_s": 12261
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-27T14:28:57.941Z",
-  "min_sem_lead": 219
+  "min_sem_lead": 234
  },
  "leads": [
   {
@@ -335,6 +368,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGJoss64/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ceci Cândida",
+   "tel": "5537*****154",
+   "criado": "15:22",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4KeoB4NcY",
    "area": "Trabalhista"
   },
   {
