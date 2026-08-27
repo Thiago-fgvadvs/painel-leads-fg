@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/08/2026, 12:44",
+ "gerado_em": "27/08/2026, 12:59",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
-  "no_sla": 12,
+  "total": 21,
+  "no_sla": 14,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 2,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 260,
-  "tickets_abertos": 428,
+  "leads_7d": 262,
+  "tickets_abertos": 402,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.5
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 17,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -38,6 +38,14 @@
   {
    "url": "fb.me/4Q2iDxnnc",
    "leads": 2
+  },
+  {
+   "url": "fb.me/4mTU3s0jH",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/8dFBqq9oB",
+   "leads": 1
   },
   {
    "url": "fb.me/7X8GIt8so",
@@ -54,30 +62,35 @@
   {
    "url": "www.instagram.com/p/DcWwCdqsC0r/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/h3GUQ2tKY",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/4SakjEeOx",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
+  "Trabalhista": 16,
   "Nao identificada": 4,
   "Previdenciario": 1
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5514996691715",
+   "tel": "5514*****715",
+   "criado": "12:14",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553193694244",
+   "tel": "5531*****244",
+   "criado": "10:27",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 241,
   "turnos": 924,
-  "respondidos": 918,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "respondidos": 919,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -92,7 +105,7 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 42,
+    "respostas": 43,
     "mediana_min": 7.6
    },
    {
@@ -122,12 +135,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "F.M.D.M.S x FEINKOST INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
-    "dia": "27/08",
-    "desde": "12:37",
-    "ts": 1787845065892
-   },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
     "dia": "27/08",
@@ -169,6 +176,20 @@
     "dia": "23/08",
     "desde": "02:48",
     "ts": 1787464130885
+   },
+   {
+    "nome": "553193694244",
+    "tel": "5531*****244",
+    "dia": "27/08",
+    "desde": "10:27",
+    "ts": 1787837258125
+   },
+   {
+    "nome": "5514996691715",
+    "tel": "5514*****715",
+    "dia": "27/08",
+    "desde": "12:14",
+    "ts": 1787843662430
    }
   ],
   "grupos": [
@@ -201,12 +222,6 @@
     "dia": "27/08",
     "desde": "09:29",
     "ts": 1787833778733
-   },
-   {
-    "grupo": "F.M.D.M.S x FEINKOST INDUSTRIA E COMERCIO DE ALIMENTOS LTDA",
-    "dia": "27/08",
-    "desde": "12:37",
-    "ts": 1787845065892
    }
   ]
  },
@@ -285,19 +300,41 @@
   ]
  },
  "agora": {
-  "fila": 296,
-  "abertos": 428,
+  "fila": 267,
+  "abertos": 402,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 5,
   "offline": 1,
-  "ausentes": 4,
-  "espera_media_s": 9510
+  "ausentes": 2,
+  "espera_media_s": 10293
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T02:19:52.737Z",
-  "min_sem_lead": 12325
+  "ultimo_lead_at": "2026-08-23T23:32:18.711Z",
+  "min_sem_lead": 5307
  },
  "leads": [
+  {
+   "nome": "joseangelchavezgallardo12",
+   "tel": "5521*****577",
+   "criado": "06:44",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4mTU3s0jH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "osvaldojosedelima8",
+   "tel": "5516*****313",
+   "criado": "12:48",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8dFBqq9oB",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Anderson Castro",
    "tel": "5511*****742",
@@ -352,6 +389,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwCdqsC0r/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5514996691715",
+   "tel": "5514*****715",
+   "criado": "12:14",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Eleon Campos da Costa",
@@ -431,6 +479,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "553193694244",
+   "tel": "5531*****244",
+   "criado": "10:27",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
    "nome": "Ilma Soares",
    "tel": "5531*****135",
    "criado": "07:03",
@@ -464,6 +523,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "5516994320896",
+   "tel": "5516*****896",
+   "criado": "09:18",
+   "atendente": "—",
+   "espera_min": -2.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
    "nome": "Elizete",
    "tel": "5533*****227",
    "criado": "08:30",
@@ -473,50 +543,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4Q2iDxnnc",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "5521975247577",
-   "tel": "5521*****577",
-   "criado": "06:44",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4mTU3s0jH",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "553193694244",
-   "tel": "5531*****244",
-   "criado": "10:27",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5514996691715",
-   "tel": "5514*****715",
-   "criado": "12:14",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5516994320896",
-   "tel": "5516*****896",
-   "criado": "09:18",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   }
  ]
 }
