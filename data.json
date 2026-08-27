@@ -1,34 +1,42 @@
 {
- "gerado_em": "27/08/2026, 09:41",
+ "gerado_em": "27/08/2026, 09:56",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 5,
+  "total": 13,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 251,
-  "tickets_abertos": 551,
+  "leads_7d": 253,
+  "tickets_abertos": 552,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 12,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 12,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
+   "url": "www.instagram.com/p/DcWwGKMsEU4/",
+   "leads": 2
+  },
+  {
    "url": "fb.me/4Q2iDxnnc",
    "leads": 2
+  },
+  {
+   "url": "fb.me/4SakjEeOx",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcWu6YsMt5O/",
@@ -49,18 +57,10 @@
   {
    "url": "fb.me/4HtOzRaco",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4mTU3s0jH",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/7X8GIt8so",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 11,
   "Previdenciario": 1,
   "Nao identificada": 1
  },
@@ -69,8 +69,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 236,
-  "turnos": 883,
-  "respondidos": 877,
+  "turnos": 885,
+  "respondidos": 879,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 2.2,
@@ -106,14 +106,14 @@
     "mediana_min": 59.2
    },
    {
+    "nome": "Luisa",
+    "respostas": 6,
+    "mediana_min": 1
+   },
+   {
     "nome": "Tiago Bernardo",
     "respostas": 4,
     "mediana_min": 4.8
-   },
-   {
-    "nome": "Luisa",
-    "respostas": 4,
-    "mediana_min": 0.8
    }
   ],
   "sem_resposta_lista": [
@@ -305,18 +305,40 @@
  },
  "agora": {
   "fila": 426,
-  "abertos": 551,
+  "abertos": 552,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 6,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 845
+  "ausentes": 1,
+  "espera_media_s": 843
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-27T12:31:45.499Z",
-  "min_sem_lead": 10
+  "ultimo_lead_at": "2026-08-27T12:55:38.626Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "Lindalva Silva Braga",
+   "tel": "5534*****055",
+   "criado": "09:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4SakjEeOx",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554299545858",
+   "tel": "5542*****858",
+   "criado": "09:53",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Clovis Ferreira",
    "tel": "5564*****807",
@@ -384,7 +406,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5521989997389",
+   "nome": "jesus tem poder",
    "tel": "5521*****389",
    "criado": "04:51",
    "atendente": "FG Advogados - Isadora ",
