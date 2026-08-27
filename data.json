@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/08/2026, 10:11",
+ "gerado_em": "27/08/2026, 10:27",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 253,
-  "tickets_abertos": 551,
+  "tickets_abertos": 550,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -35,11 +35,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/h3GUQ2tKY",
+   "url": "www.instagram.com/p/DcWu6YsMt5O/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcWu6YsMt5O/",
+   "url": "fb.me/h3GUQ2tKY",
    "leads": 1
   },
   {
@@ -69,15 +69,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 236,
-  "turnos": 895,
-  "respondidos": 889,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "turnos": 901,
+  "respondidos": 894,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 731,
+    "respostas": 736,
     "mediana_min": 2.2
    },
    {
@@ -117,6 +117,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
+    "dia": "27/08",
+    "desde": "10:19",
+    "ts": 1787836746761
+   },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
     "dia": "27/08",
@@ -244,18 +250,33 @@
     "dia": "27/08",
     "desde": "09:29",
     "ts": 1787833778733
+   },
+   {
+    "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
+    "dia": "27/08",
+    "desde": "10:19",
+    "ts": 1787836746761
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 5,
+  "total": 6,
   "por_vendedor": {
+   "Roseli": 2,
    "Tiago Bernardo": 1,
-   "Roseli": 1,
    "FG Advogados - Isadora ": 3
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "D.L",
+    "dia": "27/08",
+    "hora": "10:24",
+    "ts": 1787837043345,
+    "origem": "Anúncio: Trabalhista - justa causa",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "A.M",
@@ -305,29 +326,18 @@
  },
  "agora": {
   "fila": 423,
-  "abertos": 551,
+  "abertos": 550,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 1,
-  "ausentes": 3,
+  "online": 5,
+  "offline": 2,
+  "ausentes": 1,
   "espera_media_s": 844
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T01:44:36.943Z",
-  "min_sem_lead": 2127
+  "ultimo_lead_at": "2026-08-27T02:17:42.100Z",
+  "min_sem_lead": 669
  },
  "leads": [
-  {
-   "nome": "Eleon Campos da Costa",
-   "tel": "5569*****443",
-   "criado": "08:34",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/h3GUQ2tKY",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Clovis Ferreira",
    "tel": "5564*****807",
@@ -337,6 +347,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWu6YsMt5O/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Eleon Campos da Costa",
+   "tel": "5569*****443",
+   "criado": "08:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/h3GUQ2tKY",
    "area": "Trabalhista"
   },
   {
