@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/08/2026, 14:21",
+ "gerado_em": "27/08/2026, 14:37",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
-  "no_sla": 15,
+  "total": 23,
+  "no_sla": 16,
   "fora_sla": 2,
   "sem_resposta": 0,
   "fora_horario": 5,
-  "pct_sla": 88,
+  "pct_sla": 89,
   "mediana_geral": 0.5,
-  "leads_7d": 263,
-  "tickets_abertos": 324,
+  "leads_7d": 264,
+  "tickets_abertos": 283,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 18,
+   "leads": 19,
    "mediana_min": 0.5
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 18,
-  "Direto/Indicacao": 4
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
+  "Trabalhista": 17,
   "Nao identificada": 5,
-  "Trabalhista": 16,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -292,19 +292,30 @@
   ]
  },
  "agora": {
-  "fila": 187,
-  "abertos": 324,
-  "com_atendimento": 6,
-  "online": 4,
+  "fila": 143,
+  "abertos": 283,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 10208
+  "ausentes": 2,
+  "espera_media_s": 12004
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-21T13:38:59.829Z",
-  "min_sem_lead": 8863
+  "ultimo_lead_at": "2026-08-27T17:27:15.557Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "Elber",
+   "tel": "5585*****263",
+   "criado": "14:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "Samuel",
    "tel": "5515*****068",
