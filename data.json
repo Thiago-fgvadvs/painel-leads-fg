@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/08/2026, 10:42",
+ "gerado_em": "27/08/2026, 10:57",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 254,
-  "tickets_abertos": 546,
+  "tickets_abertos": 544,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -35,11 +35,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4HtOzRaco",
+   "url": "fb.me/4SakjEeOx",
    "leads": 1
   },
   {
-   "url": "fb.me/4SakjEeOx",
+   "url": "fb.me/4HtOzRaco",
    "leads": 1
   },
   {
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Previdenciario": 1,
   "Trabalhista": 11,
+  "Previdenciario": 1,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -69,15 +69,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 236,
-  "turnos": 901,
-  "respondidos": 894,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "turnos": 904,
+  "respondidos": 896,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 736,
+    "respostas": 737,
     "mediana_min": 2.2
    },
    {
@@ -97,8 +97,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 22,
-    "mediana_min": 5
+    "respostas": 23,
+    "mediana_min": 5.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -117,6 +117,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.F.G",
+    "dia": "27/08",
+    "desde": "10:55",
+    "ts": 1787838933747
+   },
    {
     "grupo": "E.A.S.F x ACUCAR E ETANOL OSWALDO RIBEIRO DE MENDONCA S.A.",
     "dia": "27/08",
@@ -172,13 +178,6 @@
     "ts": 1787341386862
    },
    {
-    "nome": "5511966709276",
-    "tel": "5511*****276",
-    "dia": "21/08",
-    "desde": "18:25",
-    "ts": 1787347554849
-   },
-   {
     "nome": "556784737130",
     "tel": "5567*****130",
     "dia": "21/08",
@@ -198,20 +197,6 @@
     "dia": "23/08",
     "desde": "02:48",
     "ts": 1787464130885
-   },
-   {
-    "nome": "Alex",
-    "tel": "5511*****832",
-    "dia": "23/08",
-    "desde": "07:41",
-    "ts": 1787481689154
-   },
-   {
-    "nome": "556593602770",
-    "tel": "5565*****770",
-    "dia": "26/08",
-    "desde": "18:17",
-    "ts": 1787779043462
    }
   ],
   "grupos": [
@@ -256,6 +241,12 @@
     "dia": "27/08",
     "desde": "10:19",
     "ts": 1787836746761
+   },
+   {
+    "grupo": "A.F.G",
+    "dia": "27/08",
+    "desde": "10:55",
+    "ts": 1787838933747
    }
   ]
  },
@@ -325,30 +316,19 @@
   ]
  },
  "agora": {
-  "fila": 420,
-  "abertos": 546,
-  "com_atendimento": 8,
-  "online": 7,
+  "fila": 416,
+  "abertos": 544,
+  "com_atendimento": 7,
+  "online": 6,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 846
+  "ausentes": 1,
+  "espera_media_s": 2614
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-27T07:51:01.498Z",
-  "min_sem_lead": 351
+  "ultimo_lead_at": "2026-08-21T21:25:54.849Z",
+  "min_sem_lead": 8192
  },
  "leads": [
-  {
-   "nome": "jesus tem poder",
-   "tel": "5521*****389",
-   "criado": "04:51",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.7,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4HtOzRaco",
-   "area": "Previdenciario"
-  },
   {
    "nome": "Lindalva Silva Braga",
    "tel": "5534*****055",
@@ -359,6 +339,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4SakjEeOx",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "jesus tem poder",
+   "tel": "5521*****389",
+   "criado": "04:51",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4HtOzRaco",
+   "area": "Previdenciario"
   },
   {
    "nome": "Clovis Ferreira",
@@ -405,7 +396,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554299545858",
+   "nome": "Ray",
    "tel": "5542*****858",
    "criado": "09:53",
    "atendente": "FG Advogados - Isadora ",
@@ -471,9 +462,9 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5516994320896",
-   "tel": "5516*****896",
-   "criado": "09:18",
+   "nome": "553193694244",
+   "tel": "5531*****244",
+   "criado": "10:27",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -482,9 +473,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553193694244",
-   "tel": "5531*****244",
-   "criado": "10:27",
+   "nome": "5516994320896",
+   "tel": "5516*****896",
+   "criado": "09:18",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
