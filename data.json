@@ -1,28 +1,28 @@
 {
- "gerado_em": "28/08/2026, 16:03",
+ "gerado_em": "28/08/2026, 16:18",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
-  "no_sla": 12,
+  "total": 16,
+  "no_sla": 13,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 258,
-  "tickets_abertos": 313,
+  "leads_7d": 259,
+  "tickets_abertos": 311,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 14,
+   "leads": 15,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 15,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -32,6 +32,10 @@
   },
   {
    "url": "www.instagram.com/p/DcYdOxhMgB0/",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DcWteCZMgFJ/",
    "leads": 1
   },
   {
@@ -53,14 +57,10 @@
   {
    "url": "www.instagram.com/p/DcWwGJoss64/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWwGKMsEU4/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 10,
   "Previdenciario": 3,
   "Nao identificada": 3
  },
@@ -77,9 +77,9 @@
   "dias": 7,
   "grupos_ativos": 246,
   "turnos": 920,
-  "respondidos": 911,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "respondidos": 912,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 2.3,
   "atendentes": [
    {
@@ -89,8 +89,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 77,
-    "mediana_min": 9.9
+    "respostas": 78,
+    "mediana_min": 11
    },
    {
     "nome": "Gabrielle",
@@ -135,12 +135,6 @@
     "dia": "28/08",
     "desde": "15:23",
     "ts": 1787941396342
-   },
-   {
-    "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
-    "dia": "28/08",
-    "desde": "09:50",
-    "ts": 1787921405197
    },
    {
     "grupo": "D.M.S.D.A",
@@ -227,12 +221,6 @@
     "dia": "27/08",
     "desde": "15:31",
     "ts": 1787855472061
-   },
-   {
-    "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
-    "dia": "28/08",
-    "desde": "09:50",
-    "ts": 1787921405197
    },
    {
     "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
@@ -332,17 +320,17 @@
   ]
  },
  "agora": {
-  "fila": 163,
-  "abertos": 313,
-  "com_atendimento": 7,
+  "fila": 162,
+  "abertos": 311,
+  "com_atendimento": 6,
   "online": 4,
   "offline": 1,
   "ausentes": 3,
-  "espera_media_s": 11111
+  "espera_media_s": 11069
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-28T19:02:13.276Z",
-  "min_sem_lead": 1
+  "min_sem_lead": 17
  },
  "leads": [
   {
@@ -355,6 +343,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcYdOxhMgB0/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Erivando",
+   "tel": "5511*****145",
+   "criado": "16:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWteCZMgFJ/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Anderson Nobre",
+   "tel": "5522*****253",
+   "criado": "14:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/85SmksXTt",
+   "area": "Previdenciario"
   },
   {
    "nome": "5519999488133",
@@ -376,17 +386,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/8yXKrLZJO",
-   "area": "Previdenciario"
-  },
-  {
-   "nome": "5522992225253",
-   "tel": "5522*****253",
-   "criado": "14:31",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/85SmksXTt",
    "area": "Previdenciario"
   },
   {
