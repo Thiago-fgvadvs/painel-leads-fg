@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/08/2026, 15:17",
+ "gerado_em": "28/08/2026, 15:33",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -76,15 +76,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 246,
-  "turnos": 907,
-  "respondidos": 894,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
+  "turnos": 918,
+  "respondidos": 904,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
   "mediana_min": 2.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 689,
+    "respostas": 696,
     "mediana_min": 2.2
    },
    {
@@ -94,8 +94,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 52,
-    "mediana_min": 1.3
+    "respostas": 55,
+    "mediana_min": 1
    },
    {
     "nome": "Roseli",
@@ -127,14 +127,20 @@
    {
     "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
     "dia": "28/08",
-    "desde": "15:17",
-    "ts": 1787941056402
+    "desde": "15:31",
+    "ts": 1787941879351
    },
    {
-    "grupo": "V.B.D.S x E.T. PIRES, SOLUÇÕES EM CONTROLE DE ACESSO, LIMPEZA E APOIO ADM LTDA",
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
     "dia": "28/08",
-    "desde": "15:02",
-    "ts": 1787940178305
+    "desde": "15:22",
+    "ts": 1787941378412
+   },
+   {
+    "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
+    "dia": "28/08",
+    "desde": "15:23",
+    "ts": 1787941396342
    },
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
@@ -213,6 +219,20 @@
     "dia": "28/08",
     "desde": "11:39",
     "ts": 1787927943250
+   },
+   {
+    "nome": "5522992225253",
+    "tel": "5522*****253",
+    "dia": "28/08",
+    "desde": "14:31",
+    "ts": 1787938310328
+   },
+   {
+    "nome": "ElizangelaaparcidaReis",
+    "tel": "5532*****951",
+    "dia": "28/08",
+    "desde": "14:57",
+    "ts": 1787939822765
    }
   ],
   "grupos": [
@@ -283,16 +303,22 @@
     "ts": 1787940162390
    },
    {
-    "grupo": "V.B.D.S x E.T. PIRES, SOLUÇÕES EM CONTROLE DE ACESSO, LIMPEZA E APOIO ADM LTDA",
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
     "dia": "28/08",
-    "desde": "15:02",
-    "ts": 1787940178305
+    "desde": "15:22",
+    "ts": 1787941378412
+   },
+   {
+    "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
+    "dia": "28/08",
+    "desde": "15:23",
+    "ts": 1787941396342
    },
    {
     "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
     "dia": "28/08",
-    "desde": "15:17",
-    "ts": 1787941056402
+    "desde": "15:31",
+    "ts": 1787941879351
    }
   ]
  },
@@ -383,14 +409,14 @@
   "fila": 161,
   "abertos": 314,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 6,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 10865
+  "ausentes": 1,
+  "espera_media_s": 11153
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:44.604Z",
-  "min_sem_lead": 486715
+  "ultimo_lead_at": "2025-04-24T16:09:33.830Z",
+  "min_sem_lead": 707184
  },
  "leads": [
   {
