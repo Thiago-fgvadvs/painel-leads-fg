@@ -1,28 +1,28 @@
 {
- "gerado_em": "28/08/2026, 20:38",
+ "gerado_em": "28/08/2026, 20:53",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
+  "total": 24,
   "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 7,
+  "fora_horario": 8,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 266,
-  "tickets_abertos": 319,
+  "leads_7d": 267,
+  "tickets_abertos": 320,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 22,
+   "leads": 23,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 22,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -43,26 +43,26 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmW-7yMLEt/",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWteCZMgFJ/",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DcYdOxhMgB0/",
    "leads": 1
   },
   {
-   "url": "fb.me/4JKqOuSgo",
+   "url": "www.instagram.com/p/DcmW-7yMLEt/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4SpjajyWg",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DcWteCZMgFJ/",
    "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 13,
   "Previdenciario": 5,
-  "Nao identificada": 5
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [
   {
@@ -344,28 +344,28 @@
   ]
  },
  "agora": {
-  "fila": 167,
-  "abertos": 319,
+  "fila": 168,
+  "abertos": 320,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 10786
+  "espera_media_s": 10747
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-28T23:37:04.625Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-08-28T19:02:13.276Z",
+  "min_sem_lead": 291
  },
  "leads": [
   {
-   "nome": "558594038834",
-   "tel": "5585*****834",
-   "criado": "20:37",
+   "nome": "Carol Sares",
+   "tel": "5511*****751",
+   "criado": "16:02",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcYdOxhMgB0/",
    "area": "Trabalhista"
   },
   {
@@ -378,6 +378,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW-7yMLEt/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "558594038834",
+   "tel": "5585*****834",
+   "criado": "20:37",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Cláudio Corrêa Monteiro I",
+   "tel": "5531*****991",
+   "criado": "20:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4SpjajyWg",
+   "area": "Nao identificada"
   },
   {
    "nome": "557499783201",
@@ -411,17 +433,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Carol Sares",
-   "tel": "5511*****751",
-   "criado": "16:02",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcYdOxhMgB0/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Edsonir Soares",
