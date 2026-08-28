@@ -1,31 +1,35 @@
 {
- "gerado_em": "28/08/2026, 11:59",
+ "gerado_em": "28/08/2026, 12:15",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 4,
+  "total": 8,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 250,
-  "tickets_abertos": 304,
+  "leads_7d": 251,
+  "tickets_abertos": 302,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcWtSU0sclz/",
+   "leads": 1
+  },
   {
    "url": "fb.me/85SmksXTt",
    "leads": 1
@@ -52,8 +56,8 @@
   }
  ],
  "areas": {
+  "Trabalhista": 4,
   "Nao identificada": 3,
-  "Trabalhista": 3,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
@@ -68,8 +72,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 240,
-  "turnos": 855,
-  "respondidos": 846,
+  "turnos": 856,
+  "respondidos": 847,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 2.2,
@@ -96,8 +100,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 20,
-    "mediana_min": 5
+    "respostas": 21,
+    "mediana_min": 4.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -324,19 +328,30 @@
   ]
  },
  "agora": {
-  "fila": 153,
-  "abertos": 304,
+  "fila": 156,
+  "abertos": 302,
   "com_atendimento": 5,
-  "online": 5,
+  "online": 6,
   "offline": 0,
-  "ausentes": 3,
+  "ausentes": 2,
   "espera_media_s": 11162
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-27T22:24:07.418Z",
-  "min_sem_lead": 996
+  "ultimo_lead_at": "2026-08-24T00:05:48.489Z",
+  "min_sem_lead": 6669
  },
  "leads": [
+  {
+   "nome": "🙌🏾Wlisses",
+   "tel": "5531*****860",
+   "criado": "12:11",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWtSU0sclz/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558179009833",
    "tel": "5581*****833",
