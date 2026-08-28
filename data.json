@@ -1,17 +1,17 @@
 {
- "gerado_em": "28/08/2026, 19:52",
+ "gerado_em": "28/08/2026, 20:07",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
+  "total": 22,
   "no_sla": 15,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 2,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 264,
-  "tickets_abertos": 317,
+  "leads_7d": 265,
+  "tickets_abertos": 318,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,10 +22,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/4KeoB4NcY",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 2
@@ -39,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcWteCZMgFJ/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmW-7yMLEt/",
    "leads": 1
   },
@@ -49,22 +57,20 @@
   {
    "url": "fb.me/4JKqOuSgo",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWteCZMgFJ/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/k6Jggeay8",
-   "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 12,
-  "Nao identificada": 5,
-  "Previdenciario": 4
+  "Previdenciario": 5,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [
+  {
+   "nome": "557499783201",
+   "tel": "5574*****201",
+   "criado": "20:07",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558179009833",
    "tel": "5581*****833",
@@ -195,6 +201,13 @@
     "dia": "28/08",
     "desde": "11:39",
     "ts": 1787927943250
+   },
+   {
+    "nome": "557499783201",
+    "tel": "5574*****201",
+    "dia": "28/08",
+    "desde": "20:07",
+    "ts": 1787958442467
    }
   ],
   "grupos": [
@@ -344,8 +357,8 @@
   ]
  },
  "agora": {
-  "fila": 165,
-  "abertos": 317,
+  "fila": 166,
+  "abertos": 318,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
@@ -353,10 +366,32 @@
   "espera_media_s": 10866
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-28T22:51:27.406Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-08-28T23:07:22.467Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "557499783201",
+   "tel": "5574*****201",
+   "criado": "20:07",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4KeoB4NcY",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Erivando",
+   "tel": "5511*****145",
+   "criado": "16:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWteCZMgFJ/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Maria Helena Zutin",
    "tel": "5519*****305",
@@ -366,7 +401,7 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW-7yMLEt/",
-   "area": "Trabalhista"
+   "area": "Previdenciario"
   },
   {
    "nome": "Maria Neusa🙏🏼❤️",
@@ -421,17 +456,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4JKqOuSgo",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Erivando",
-   "tel": "5511*****145",
-   "criado": "16:16",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWteCZMgFJ/",
    "area": "Trabalhista"
   },
   {
