@@ -1,17 +1,17 @@
 {
- "gerado_em": "28/08/2026, 11:29",
+ "gerado_em": "28/08/2026, 11:44",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
+  "total": 7,
   "no_sla": 4,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 249,
-  "tickets_abertos": 302,
+  "leads_7d": 250,
+  "tickets_abertos": 306,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 6,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -52,19 +52,26 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
+  "Nao identificada": 3,
   "Trabalhista": 3,
   "Previdenciario": 1
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "558179009833",
+   "tel": "5581*****833",
+   "criado": "11:39",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 239,
-  "turnos": 854,
+  "turnos": 855,
   "respondidos": 846,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -109,6 +116,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
+    "dia": "28/08",
+    "desde": "11:33",
+    "ts": 1787927609127
+   },
    {
     "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
     "dia": "27/08",
@@ -161,7 +174,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "558179009833",
+    "tel": "5581*****833",
+    "dia": "28/08",
+    "desde": "11:39",
+    "ts": 1787927943250
+   }
+  ],
   "grupos": [
    {
     "grupo": "A.J.P.B",
@@ -210,6 +231,12 @@
     "dia": "27/08",
     "desde": "18:53",
     "ts": 1787867597124
+   },
+   {
+    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
+    "dia": "28/08",
+    "desde": "11:33",
+    "ts": 1787927609127
    }
   ]
  },
@@ -297,19 +324,30 @@
   ]
  },
  "agora": {
-  "fila": 154,
-  "abertos": 302,
+  "fila": 156,
+  "abertos": 306,
   "com_atendimento": 5,
-  "online": 2,
-  "offline": 1,
-  "ausentes": 5,
+  "online": 6,
+  "offline": 0,
+  "ausentes": 2,
   "espera_media_s": 11075
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-27T02:17:42.100Z",
-  "min_sem_lead": 2172
+  "min_sem_lead": 2187
  },
  "leads": [
+  {
+   "nome": "558179009833",
+   "tel": "5581*****833",
+   "criado": "11:39",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Inimar Miranda",
    "tel": "5562*****149",
