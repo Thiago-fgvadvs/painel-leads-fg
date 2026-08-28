@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/08/2026, 21:28",
+ "gerado_em": "27/08/2026, 21:43",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 35,
+  "total": 36,
   "no_sla": 22,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 11,
+  "fora_horario": 12,
   "pct_sla": 92,
   "mediana_geral": 0.5,
-  "leads_7d": 276,
-  "tickets_abertos": 286,
+  "leads_7d": 277,
+  "tickets_abertos": 287,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 31,
+   "leads": 32,
    "mediana_min": 0.5
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 30,
+  "Anuncio": 31,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -41,7 +41,7 @@
   },
   {
    "url": "fb.me/4mTU3s0jH",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "www.instagram.com/p/DcWwGJoss64/",
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 26,
+  "Trabalhista": 27,
   "Nao identificada": 8,
   "Previdenciario": 1
  },
@@ -343,19 +343,30 @@
   ]
  },
  "agora": {
-  "fila": 144,
-  "abertos": 286,
+  "fila": 145,
+  "abertos": 287,
   "com_atendimento": 6,
   "online": 2,
   "offline": 5,
   "ausentes": 1,
-  "espera_media_s": 11614
+  "espera_media_s": 11567
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-27T23:58:35.949Z",
-  "min_sem_lead": 30
+  "ultimo_lead_at": "2026-08-28T00:41:41.530Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "556992835828",
+   "tel": "5569*****828",
+   "criado": "21:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4mTU3s0jH",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Natalino",
    "tel": "5591*****317",
