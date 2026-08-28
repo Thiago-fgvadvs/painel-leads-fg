@@ -1,34 +1,42 @@
 {
- "gerado_em": "28/08/2026, 16:34",
+ "gerado_em": "28/08/2026, 16:49",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 13,
+  "total": 18,
+  "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 259,
-  "tickets_abertos": 311,
+  "leads_7d": 261,
+  "tickets_abertos": 313,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 15,
+   "leads": 17,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 15,
+  "Anuncio": 17,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
+   "url": "www.instagram.com/p/DcWwGJoss64/",
+   "leads": 2
+  },
+  {
    "url": "fb.me/85SmksXTt",
    "leads": 2
+  },
+  {
+   "url": "fb.me/k6Jggeay8",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcWteCZMgFJ/",
@@ -49,20 +57,12 @@
   {
    "url": "fb.me/8klt3OBuk",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4KeoB4NcY",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWwGJoss64/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
-  "Previdenciario": 3,
-  "Nao identificada": 3
+  "Previdenciario": 4,
+  "Nao identificada": 4,
+  "Trabalhista": 10
  },
  "sem_resposta_lista": [
   {
@@ -75,7 +75,7 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 246,
+  "grupos_ativos": 247,
   "turnos": 921,
   "respondidos": 913,
   "sem_resposta": 8,
@@ -320,19 +320,41 @@
   ]
  },
  "agora": {
-  "fila": 161,
-  "abertos": 311,
+  "fila": 163,
+  "abertos": 313,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 0,
+  "online": 3,
+  "offline": 1,
   "ausentes": 4,
-  "espera_media_s": 11069
+  "espera_media_s": 10987
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-28T19:16:39.060Z",
-  "min_sem_lead": 17
+  "ultimo_lead_at": "2026-08-28T19:38:35.770Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "Vania Paula",
+   "tel": "5531*****062",
+   "criado": "16:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGJoss64/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Arcalef",
+   "tel": "5519*****044",
+   "criado": "16:37",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/k6Jggeay8",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Erivando",
    "tel": "5511*****145",
