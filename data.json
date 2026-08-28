@@ -1,33 +1,37 @@
 {
- "gerado_em": "28/08/2026, 12:45",
+ "gerado_em": "28/08/2026, 13:00",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 6,
+  "total": 10,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 252,
-  "tickets_abertos": 304,
+  "leads_7d": 253,
+  "tickets_abertos": 309,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 8,
+   "leads": 9,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 9,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/8yXKrLZJO",
    "leads": 1
   },
   {
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/4NOAixGut",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7X8GIt8so",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 5,
+  "Trabalhista": 6,
   "Nao identificada": 3,
   "Previdenciario": 1
  },
@@ -76,15 +76,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 241,
-  "turnos": 860,
-  "respondidos": 851,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "turnos": 865,
+  "respondidos": 853,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 659,
+    "respostas": 660,
     "mediana_min": 2.2
    },
    {
@@ -113,28 +113,46 @@
     "mediana_min": 59.2
    },
    {
+    "nome": "Tiago Bernardo",
+    "respostas": 6,
+    "mediana_min": 6.5
+   },
+   {
     "nome": "Luisa",
     "respostas": 6,
     "mediana_min": 1
-   },
-   {
-    "nome": "Tiago Bernardo",
-    "respostas": 5,
-    "mediana_min": 5.5
    }
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
-    "dia": "27/08",
-    "desde": "13:35",
-    "ts": 1787848517941
+    "grupo": "A.D.S.S x INVICTA SOLUCOES EM SEGURANCA E SERVICOS LTDA",
+    "dia": "28/08",
+    "desde": "12:56",
+    "ts": 1787932614303
+   },
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "28/08",
+    "desde": "12:54",
+    "ts": 1787932471255
+   },
+   {
+    "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
+    "dia": "28/08",
+    "desde": "12:45",
+    "ts": 1787931948297
    },
    {
     "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
     "dia": "28/08",
     "desde": "11:33",
     "ts": 1787927609127
+   },
+   {
+    "grupo": "C.D.A.C x Aymore Credito x Santander",
+    "dia": "28/08",
+    "desde": "11:11",
+    "ts": 1787926309240
    },
    {
     "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
@@ -223,12 +241,6 @@
     "ts": 1787833778733
    },
    {
-    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
-    "dia": "27/08",
-    "desde": "13:35",
-    "ts": 1787848517941
-   },
-   {
     "grupo": "D.M.S.D.A",
     "dia": "27/08",
     "desde": "15:31",
@@ -241,10 +253,34 @@
     "ts": 1787867597124
    },
    {
+    "grupo": "C.D.A.C x Aymore Credito x Santander",
+    "dia": "28/08",
+    "desde": "11:11",
+    "ts": 1787926309240
+   },
+   {
     "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
     "dia": "28/08",
     "desde": "11:33",
     "ts": 1787927609127
+   },
+   {
+    "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
+    "dia": "28/08",
+    "desde": "12:45",
+    "ts": 1787931948297
+   },
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "28/08",
+    "desde": "12:54",
+    "ts": 1787932471255
+   },
+   {
+    "grupo": "A.D.S.S x INVICTA SOLUCOES EM SEGURANCA E SERVICOS LTDA",
+    "dia": "28/08",
+    "desde": "12:56",
+    "ts": 1787932614303
    }
   ]
  },
@@ -332,17 +368,17 @@
   ]
  },
  "agora": {
-  "fila": 157,
-  "abertos": 304,
-  "com_atendimento": 5,
-  "online": 6,
+  "fila": 162,
+  "abertos": 309,
+  "com_atendimento": 6,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 11118
+  "ausentes": 4,
+  "espera_media_s": 11075
  },
  "captacao": {
-  "ultimo_lead_at": "2026-02-26T20:45:32.743Z",
-  "min_sem_lead": 263220
+  "ultimo_lead_at": "2026-08-28T15:43:11.643Z",
+  "min_sem_lead": 17
  },
  "leads": [
   {
@@ -354,6 +390,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "roberto",
+   "tel": "5512*****626",
+   "criado": "12:50",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8yXKrLZJO",
    "area": "Trabalhista"
   },
   {
@@ -412,7 +459,7 @@
    "area": "Previdenciario"
   },
   {
-   "nome": "554888802094",
+   "nome": "Rodrigo",
    "tel": "5548*****094",
    "criado": "08:23",
    "atendente": "FG Advogados - Isadora ",
@@ -423,7 +470,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "553388902584",
+   "nome": "Luis Carlos",
    "tel": "5533*****584",
    "criado": "07:20",
    "atendente": "FG Advogados - Isadora ",
@@ -434,7 +481,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556993602509",
+   "nome": "V....p",
    "tel": "5569*****509",
    "criado": "04:44",
    "atendente": "FG Advogados - Isadora ",
