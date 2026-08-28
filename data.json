@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/08/2026, 17:20",
+ "gerado_em": "28/08/2026, 17:35",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 261,
-  "tickets_abertos": 314,
+  "tickets_abertos": 315,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -75,21 +75,21 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 247,
-  "turnos": 927,
-  "respondidos": 918,
+  "grupos_ativos": 248,
+  "turnos": 931,
+  "respondidos": 922,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 2.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 700,
+    "respostas": 702,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 81,
+    "respostas": 83,
     "mediana_min": 9.9
    },
    {
@@ -125,10 +125,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
     "dia": "28/08",
-    "desde": "16:23",
-    "ts": 1787945014345
+    "desde": "17:23",
+    "ts": 1787948589358
    },
    {
     "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
@@ -241,10 +241,10 @@
     "ts": 1787942947361
    },
    {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
     "dia": "28/08",
-    "desde": "16:23",
-    "ts": 1787945014345
+    "desde": "17:23",
+    "ts": 1787948589358
    }
   ]
  },
@@ -333,16 +333,16 @@
  },
  "agora": {
   "fila": 163,
-  "abertos": 314,
-  "com_atendimento": 6,
-  "online": 5,
-  "offline": 1,
-  "ausentes": 2,
+  "abertos": 315,
+  "com_atendimento": 7,
+  "online": 6,
+  "offline": 2,
+  "ausentes": 0,
   "espera_media_s": 10987
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T23:56:26.900Z",
-  "min_sem_lead": 2663
+  "ultimo_lead_at": "2026-08-27T00:01:47.937Z",
+  "min_sem_lead": 2673
  },
  "leads": [
   {
