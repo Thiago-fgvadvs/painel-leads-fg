@@ -1,12 +1,12 @@
 {
- "gerado_em": "28/08/2026, 14:32",
+ "gerado_em": "28/08/2026, 14:47",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 12,
-  "no_sla": 8,
+  "no_sla": 9,
   "fora_sla": 0,
-  "sem_resposta": 2,
+  "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.4
   }
  ],
@@ -35,6 +35,10 @@
    "leads": 1
   },
   {
+   "url": "www.instagram.com/p/DcWwGJoss64/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/8yXKrLZJO",
    "leads": 1
   },
@@ -44,10 +48,6 @@
   },
   {
    "url": "www.instagram.com/p/DcWtSU0sclz/",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWwGJoss64/",
    "leads": 1
   },
   {
@@ -66,12 +66,6 @@
  },
  "sem_resposta_lista": [
   {
-   "nome": "5522992225253",
-   "tel": "5522*****253",
-   "criado": "14:31",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "558179009833",
    "tel": "5581*****833",
    "criado": "11:39",
@@ -82,15 +76,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 244,
-  "turnos": 888,
-  "respondidos": 876,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
+  "turnos": 893,
+  "respondidos": 882,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 2.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 676,
+    "respostas": 681,
     "mediana_min": 2.2
    },
    {
@@ -105,8 +99,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 31,
-    "mediana_min": 2.4
+    "respostas": 32,
+    "mediana_min": 2.9
    },
    {
     "nome": "Eduardo",
@@ -131,10 +125,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.V.T x NASCIMENTO SERVICOS DE LIMPEZA LTDA",
+    "grupo": "K.D.R.O x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
     "dia": "28/08",
-    "desde": "14:11",
-    "ts": 1787937064295
+    "desde": "14:19",
+    "ts": 1787937578303
    },
    {
     "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
@@ -159,12 +153,6 @@
     "dia": "28/08",
     "desde": "09:50",
     "ts": 1787921405197
-   },
-   {
-    "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
-    "dia": "27/08",
-    "desde": "18:53",
-    "ts": 1787867597124
    },
    {
     "grupo": "D.M.S.D.A",
@@ -260,12 +248,6 @@
     "ts": 1787855472061
    },
    {
-    "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
-    "dia": "27/08",
-    "desde": "18:53",
-    "ts": 1787867597124
-   },
-   {
     "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
     "dia": "28/08",
     "desde": "09:50",
@@ -290,10 +272,10 @@
     "ts": 1787936824345
    },
    {
-    "grupo": "M.V.T x NASCIMENTO SERVICOS DE LIMPEZA LTDA",
+    "grupo": "K.D.R.O x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
     "dia": "28/08",
-    "desde": "14:11",
-    "ts": 1787937064295
+    "desde": "14:19",
+    "ts": 1787937578303
    }
   ]
  },
@@ -384,27 +366,16 @@
   "fila": 159,
   "abertos": 312,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 5,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 10990
+  "ausentes": 2,
+  "espera_media_s": 10948
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-28T12:00:57.812Z",
-  "min_sem_lead": 331
+  "ultimo_lead_at": "2026-07-17T22:30:39.514Z",
+  "min_sem_lead": 60197
  },
  "leads": [
-  {
-   "nome": "5522992225253",
-   "tel": "5522*****253",
-   "criado": "14:31",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/85SmksXTt",
-   "area": "Trabalhista"
-  },
   {
    "nome": "minha casa",
    "tel": "5532*****711",
@@ -414,6 +385,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4KeoB4NcY",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5522992225253",
+   "tel": "5522*****253",
+   "criado": "14:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/85SmksXTt",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Francisco Pretinho",
+   "tel": "5579*****479",
+   "criado": "09:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGJoss64/",
    "area": "Trabalhista"
   },
   {
@@ -470,17 +463,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/85SmksXTt",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Francisco Pretinho",
-   "tel": "5579*****479",
-   "criado": "09:00",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGJoss64/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Marinalva Nalva",
