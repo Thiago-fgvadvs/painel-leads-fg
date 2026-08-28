@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/08/2026, 17:35",
+ "gerado_em": "28/08/2026, 17:50",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 261,
-  "tickets_abertos": 315,
+  "tickets_abertos": 313,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,11 +27,11 @@
  },
  "criativos": [
   {
-   "url": "fb.me/85SmksXTt",
+   "url": "www.instagram.com/p/DcWwGJoss64/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcWwGJoss64/",
+   "url": "fb.me/85SmksXTt",
    "leads": 2
   },
   {
@@ -60,9 +60,9 @@
   }
  ],
  "areas": {
+  "Trabalhista": 10,
   "Previdenciario": 4,
-  "Nao identificada": 4,
-  "Trabalhista": 10
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [
   {
@@ -76,21 +76,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 248,
-  "turnos": 931,
-  "respondidos": 922,
+  "turnos": 935,
+  "respondidos": 926,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 2.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 702,
+    "respostas": 703,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 83,
-    "mediana_min": 9.9
+    "respostas": 86,
+    "mediana_min": 9.4
    },
    {
     "nome": "Gabrielle",
@@ -125,10 +125,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
+    "grupo": "S.R.L x SEARA COMERCIO DE ALIMENTOS LTDA",
     "dia": "28/08",
-    "desde": "17:23",
-    "ts": 1787948589358
+    "desde": "17:41",
+    "ts": 1787949692323
    },
    {
     "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
@@ -241,10 +241,10 @@
     "ts": 1787942947361
    },
    {
-    "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
+    "grupo": "S.R.L x SEARA COMERCIO DE ALIMENTOS LTDA",
     "dia": "28/08",
-    "desde": "17:23",
-    "ts": 1787948589358
+    "desde": "17:41",
+    "ts": 1787949692323
    }
   ]
  },
@@ -332,19 +332,30 @@
   ]
  },
  "agora": {
-  "fila": 163,
-  "abertos": 315,
+  "fila": 162,
+  "abertos": 313,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 5,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 10987
+  "ausentes": 1,
+  "espera_media_s": 11028
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-27T00:01:47.937Z",
-  "min_sem_lead": 2673
+  "ultimo_lead_at": "2026-08-24T00:05:48.489Z",
+  "min_sem_lead": 7005
  },
  "leads": [
+  {
+   "nome": "Francisco Pretinho",
+   "tel": "5579*****479",
+   "criado": "09:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGJoss64/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Anderson Nobre",
    "tel": "5522*****253",
@@ -442,17 +453,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4KeoB4NcY",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Francisco Pretinho",
-   "tel": "5579*****479",
-   "criado": "09:00",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcWwGJoss64/",
    "area": "Trabalhista"
   },
   {
