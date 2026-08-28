@@ -1,31 +1,35 @@
 {
- "gerado_em": "28/08/2026, 12:30",
+ "gerado_em": "28/08/2026, 12:45",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 5,
+  "total": 9,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 251,
-  "tickets_abertos": 302,
+  "leads_7d": 252,
+  "tickets_abertos": 304,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
+   "leads": 8,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 7,
+  "Anuncio": 8,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcWwGKMsEU4/",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DcWtSU0sclz/",
    "leads": 1
@@ -56,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
+  "Trabalhista": 5,
   "Nao identificada": 3,
   "Previdenciario": 1
  },
@@ -71,22 +75,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 240,
-  "turnos": 857,
-  "respondidos": 847,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "grupos_ativos": 241,
+  "turnos": 860,
+  "respondidos": 851,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 2.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 658,
+    "respostas": 659,
     "mediana_min": 2.2
    },
    {
     "nome": "Nicolas",
-    "respostas": 73,
-    "mediana_min": 9.3
+    "respostas": 74,
+    "mediana_min": 9.4
    },
    {
     "nome": "Gabrielle",
@@ -100,13 +104,13 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 21,
-    "mediana_min": 4.6
+    "respostas": 22,
+    "mediana_min": 5
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 8,
-    "mediana_min": 50.9
+    "respostas": 9,
+    "mediana_min": 59.2
    },
    {
     "nome": "Luisa",
@@ -121,22 +125,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "28/08",
-    "desde": "12:20",
-    "ts": 1787930450256
+    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
+    "dia": "27/08",
+    "desde": "13:35",
+    "ts": 1787848517941
    },
    {
     "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
     "dia": "28/08",
     "desde": "11:33",
     "ts": 1787927609127
-   },
-   {
-    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
-    "dia": "27/08",
-    "desde": "13:35",
-    "ts": 1787848517941
    },
    {
     "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
@@ -247,12 +245,6 @@
     "dia": "28/08",
     "desde": "11:33",
     "ts": 1787927609127
-   },
-   {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "28/08",
-    "desde": "12:20",
-    "ts": 1787930450256
    }
   ]
  },
@@ -340,19 +332,30 @@
   ]
  },
  "agora": {
-  "fila": 156,
-  "abertos": 302,
+  "fila": 157,
+  "abertos": 304,
   "com_atendimento": 5,
   "online": 6,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 11162
+  "espera_media_s": 11118
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-27T07:51:01.498Z",
-  "min_sem_lead": 1899
+  "ultimo_lead_at": "2026-02-26T20:45:32.743Z",
+  "min_sem_lead": 263220
  },
  "leads": [
+  {
+   "nome": "🦋✨",
+   "tel": "5583*****953",
+   "criado": "12:43",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGKMsEU4/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "🙌🏾Wlisses",
    "tel": "5531*****860",
