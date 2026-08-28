@@ -1,34 +1,38 @@
 {
- "gerado_em": "28/08/2026, 15:48",
+ "gerado_em": "28/08/2026, 16:03",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 11,
+  "total": 15,
+  "no_sla": 12,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 257,
+  "leads_7d": 258,
   "tickets_abertos": 313,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 13,
+   "leads": 14,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 14,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "fb.me/85SmksXTt",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcYdOxhMgB0/",
+   "leads": 1
   },
   {
    "url": "fb.me/4JKqOuSgo",
@@ -53,14 +57,10 @@
   {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWtSU0sclz/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 8,
+  "Trabalhista": 9,
   "Previdenciario": 3,
   "Nao identificada": 3
  },
@@ -76,8 +76,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 246,
-  "turnos": 919,
-  "respondidos": 910,
+  "turnos": 920,
+  "respondidos": 911,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 2.3,
@@ -89,8 +89,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 76,
-    "mediana_min": 9.7
+    "respostas": 77,
+    "mediana_min": 9.9
    },
    {
     "nome": "Gabrielle",
@@ -125,16 +125,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
+    "dia": "28/08",
+    "desde": "15:49",
+    "ts": 1787942947361
+   },
+   {
     "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
     "dia": "28/08",
     "desde": "15:23",
     "ts": 1787941396342
-   },
-   {
-    "grupo": "C.D.A.C x Aymore Credito x Santander",
-    "dia": "28/08",
-    "desde": "11:11",
-    "ts": 1787926309240
    },
    {
     "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
@@ -189,20 +189,6 @@
     "dia": "28/08",
     "desde": "11:39",
     "ts": 1787927943250
-   },
-   {
-    "nome": "ElizangelaaparcidaReis",
-    "tel": "5532*****951",
-    "dia": "28/08",
-    "desde": "14:57",
-    "ts": 1787939822765
-   },
-   {
-    "nome": "5519999488133",
-    "tel": "5519*****133",
-    "dia": "28/08",
-    "desde": "15:45",
-    "ts": 1787942727386
    }
   ],
   "grupos": [
@@ -249,16 +235,16 @@
     "ts": 1787921405197
    },
    {
-    "grupo": "C.D.A.C x Aymore Credito x Santander",
-    "dia": "28/08",
-    "desde": "11:11",
-    "ts": 1787926309240
-   },
-   {
     "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
     "dia": "28/08",
     "desde": "15:23",
     "ts": 1787941396342
+   },
+   {
+    "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
+    "dia": "28/08",
+    "desde": "15:49",
+    "ts": 1787942947361
    }
   ]
  },
@@ -346,19 +332,30 @@
   ]
  },
  "agora": {
-  "fila": 162,
+  "fila": 163,
   "abertos": 313,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 4,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 11153
+  "ausentes": 3,
+  "espera_media_s": 11111
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T15:55:32.702Z",
-  "min_sem_lead": 3053
+  "ultimo_lead_at": "2026-08-28T19:02:13.276Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "Carol Sares",
+   "tel": "5511*****751",
+   "criado": "16:02",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcYdOxhMgB0/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5519999488133",
    "tel": "5519*****133",
