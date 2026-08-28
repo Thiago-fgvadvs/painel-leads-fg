@@ -1,23 +1,23 @@
 {
- "gerado_em": "27/08/2026, 21:13",
+ "gerado_em": "27/08/2026, 21:28",
  "data_ref": "27/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
+  "total": 35,
   "no_sla": 22,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 9,
+  "fora_horario": 11,
   "pct_sla": 92,
   "mediana_geral": 0.5,
-  "leads_7d": 274,
-  "tickets_abertos": 284,
+  "leads_7d": 276,
+  "tickets_abertos": 286,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 29,
+   "leads": 31,
    "mediana_min": 0.5
   },
   {
@@ -27,20 +27,24 @@
   }
  ],
  "origem": {
-  "Anuncio": 28,
+  "Anuncio": 30,
   "Direto/Indicacao": 5
  },
  "criativos": [
+  {
+   "url": "fb.me/4Q2iDxnnc",
+   "leads": 4
+  },
   {
    "url": "www.instagram.com/p/DcWwGKMsEU4/",
    "leads": 4
   },
   {
-   "url": "fb.me/4Q2iDxnnc",
-   "leads": 3
+   "url": "fb.me/4mTU3s0jH",
+   "leads": 2
   },
   {
-   "url": "fb.me/4mTU3s0jH",
+   "url": "www.instagram.com/p/DcWwGJoss64/",
    "leads": 2
   },
   {
@@ -56,16 +60,12 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcWwGJoss64/",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DcWp25JsFID/",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 24,
+  "Trabalhista": 26,
   "Nao identificada": 8,
   "Previdenciario": 1
  },
@@ -343,17 +343,17 @@
   ]
  },
  "agora": {
-  "fila": 142,
-  "abertos": 284,
+  "fila": 144,
+  "abertos": 286,
   "com_atendimento": 6,
   "online": 2,
   "offline": 5,
   "ausentes": 1,
-  "espera_media_s": 11709
+  "espera_media_s": 11614
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-27T23:58:35.949Z",
-  "min_sem_lead": 15
+  "min_sem_lead": 30
  },
  "leads": [
   {
@@ -365,6 +365,28 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4mTU3s0jH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Anah",
+   "tel": "5511*****222",
+   "criado": "21:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGJoss64/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Reinaldo Nepomuceno",
+   "tel": "5571*****327",
+   "criado": "21:22",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4Q2iDxnnc",
    "area": "Trabalhista"
   },
   {
