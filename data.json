@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/08/2026, 13:31",
+ "gerado_em": "28/08/2026, 13:46",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 253,
-  "tickets_abertos": 308,
+  "tickets_abertos": 309,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -76,15 +76,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 241,
-  "turnos": 871,
-  "respondidos": 859,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
+  "turnos": 876,
+  "respondidos": 863,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
   "mediana_min": 2.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 662,
+    "respostas": 666,
     "mediana_min": 2.2
    },
    {
@@ -131,12 +131,6 @@
     "ts": 1787931948297
    },
    {
-    "grupo": "G.D.S.B x VIVA SERVICOS LTDA",
-    "dia": "28/08",
-    "desde": "13:20",
-    "ts": 1787934054184
-   },
-   {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "28/08",
     "desde": "12:54",
@@ -153,6 +147,18 @@
     "dia": "28/08",
     "desde": "11:11",
     "ts": 1787926309240
+   },
+   {
+    "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
+    "dia": "28/08",
+    "desde": "09:50",
+    "ts": 1787921405197
+   },
+   {
+    "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
+    "dia": "28/08",
+    "desde": "09:17",
+    "ts": 1787919461094
    },
    {
     "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
@@ -253,6 +259,18 @@
     "ts": 1787867597124
    },
    {
+    "grupo": "K.B.V x ICOMON TECNOLOGIA LTDA",
+    "dia": "28/08",
+    "desde": "09:17",
+    "ts": 1787919461094
+   },
+   {
+    "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
+    "dia": "28/08",
+    "desde": "09:50",
+    "ts": 1787921405197
+   },
+   {
     "grupo": "C.D.A.C x Aymore Credito x Santander",
     "dia": "28/08",
     "desde": "11:11",
@@ -275,12 +293,6 @@
     "dia": "28/08",
     "desde": "12:54",
     "ts": 1787932471255
-   },
-   {
-    "grupo": "G.D.S.B x VIVA SERVICOS LTDA",
-    "dia": "28/08",
-    "desde": "13:20",
-    "ts": 1787934054184
    }
   ]
  },
@@ -369,16 +381,16 @@
  },
  "agora": {
   "fila": 158,
-  "abertos": 308,
+  "abertos": 309,
   "com_atendimento": 7,
   "online": 6,
   "offline": 0,
   "ausentes": 2,
-  "espera_media_s": 11049
+  "espera_media_s": 11031
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-27T07:51:01.498Z",
-  "min_sem_lead": 1960
+  "ultimo_lead_at": "2026-08-08T14:15:08.460Z",
+  "min_sem_lead": 28951
  },
  "leads": [
   {
