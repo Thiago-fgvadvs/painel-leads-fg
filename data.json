@@ -1,31 +1,35 @@
 {
- "gerado_em": "28/08/2026, 10:01",
+ "gerado_em": "28/08/2026, 10:16",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 2,
+  "total": 5,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 247,
-  "tickets_abertos": 296,
+  "leads_7d": 248,
+  "tickets_abertos": 297,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/4HtOzRaco",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DcWwGJoss64/",
    "leads": 1
@@ -44,6 +48,7 @@
   }
  ],
  "areas": {
+  "Previdenciario": 1,
   "Trabalhista": 3,
   "Nao identificada": 1
  },
@@ -288,19 +293,30 @@
   ]
  },
  "agora": {
-  "fila": 154,
-  "abertos": 296,
-  "com_atendimento": 6,
+  "fila": 155,
+  "abertos": 297,
+  "com_atendimento": 5,
   "online": 4,
-  "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 11162
+  "offline": 1,
+  "ausentes": 3,
+  "espera_media_s": 11118
  },
  "captacao": {
   "ultimo_lead_at": "2025-11-03T12:28:59.280Z",
-  "min_sem_lead": 429152
+  "min_sem_lead": 429168
  },
  "leads": [
+  {
+   "nome": "Marinalva Nalva",
+   "tel": "5512*****565",
+   "criado": "10:05",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4HtOzRaco",
+   "area": "Previdenciario"
+  },
   {
    "nome": "Francisco Pretinho",
    "tel": "5579*****479",
