@@ -1,34 +1,38 @@
 {
- "gerado_em": "28/08/2026, 14:47",
+ "gerado_em": "28/08/2026, 15:02",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 9,
+  "total": 13,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 255,
-  "tickets_abertos": 312,
+  "leads_7d": 256,
+  "tickets_abertos": 314,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
+   "leads": 12,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 11,
+  "Anuncio": 12,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "fb.me/85SmksXTt",
    "leads": 2
+  },
+  {
+   "url": "fb.me/8klt3OBuk",
+   "leads": 1
   },
   {
    "url": "fb.me/4KeoB4NcY",
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/4HtOzRaco",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7VpAO4sFl",
-   "leads": 1
   }
  ],
  "areas": {
+  "Previdenciario": 3,
   "Trabalhista": 7,
-  "Previdenciario": 2,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [
@@ -75,16 +75,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 244,
-  "turnos": 893,
-  "respondidos": 882,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "grupos_ativos": 245,
+  "turnos": 901,
+  "respondidos": 889,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
   "mediana_min": 2.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 681,
+    "respostas": 687,
     "mediana_min": 2.2
    },
    {
@@ -94,7 +94,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 48,
+    "respostas": 49,
     "mediana_min": 1
    },
    {
@@ -125,10 +125,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "K.D.R.O x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
+    "grupo": "J.C.C.(",
     "dia": "28/08",
-    "desde": "14:19",
-    "ts": 1787937578303
+    "desde": "14:55",
+    "ts": 1787939734303
+   },
+   {
+    "grupo": "S.R.L x SEARA COMERCIO DE ALIMENTOS LTDA",
+    "dia": "28/08",
+    "desde": "14:52",
+    "ts": 1787939533384
    },
    {
     "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
@@ -201,13 +207,6 @@
     "dia": "28/08",
     "desde": "11:39",
     "ts": 1787927943250
-   },
-   {
-    "nome": "5522992225253",
-    "tel": "5522*****253",
-    "dia": "28/08",
-    "desde": "14:31",
-    "ts": 1787938310328
    }
   ],
   "grupos": [
@@ -272,10 +271,16 @@
     "ts": 1787936824345
    },
    {
-    "grupo": "K.D.R.O x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
+    "grupo": "S.R.L x SEARA COMERCIO DE ALIMENTOS LTDA",
     "dia": "28/08",
-    "desde": "14:19",
-    "ts": 1787937578303
+    "desde": "14:52",
+    "ts": 1787939533384
+   },
+   {
+    "grupo": "J.C.C.(",
+    "dia": "28/08",
+    "desde": "14:55",
+    "ts": 1787939734303
    }
   ]
  },
@@ -363,30 +368,19 @@
   ]
  },
  "agora": {
-  "fila": 159,
-  "abertos": 312,
+  "fila": 160,
+  "abertos": 314,
   "com_atendimento": 7,
   "online": 5,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 10948
+  "espera_media_s": 10907
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-17T22:30:39.514Z",
-  "min_sem_lead": 60197
+  "ultimo_lead_at": "2026-08-28T17:31:50.328Z",
+  "min_sem_lead": 31
  },
  "leads": [
-  {
-   "nome": "minha casa",
-   "tel": "5532*****711",
-   "criado": "14:03",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4KeoB4NcY",
-   "area": "Trabalhista"
-  },
   {
    "nome": "5522992225253",
    "tel": "5522*****253",
@@ -396,6 +390,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/85SmksXTt",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "ElizangelaaparcidaReis",
+   "tel": "5532*****951",
+   "criado": "14:57",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8klt3OBuk",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "minha casa",
+   "tel": "5532*****711",
+   "criado": "14:03",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4KeoB4NcY",
    "area": "Trabalhista"
   },
   {
