@@ -1,31 +1,35 @@
 {
- "gerado_em": "28/08/2026, 09:00",
+ "gerado_em": "28/08/2026, 09:15",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 1,
+  "total": 4,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 246,
-  "tickets_abertos": 295,
+  "leads_7d": 247,
+  "tickets_abertos": 296,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 3,
+   "leads": 4,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcWwGJoss64/",
+   "leads": 1
+  },
   {
    "url": "fb.me/7VpAO4sFl",
    "leads": 1
@@ -40,7 +44,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2,
+  "Trabalhista": 3,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
@@ -284,19 +288,30 @@
   ]
  },
  "agora": {
-  "fila": 153,
-  "abertos": 295,
+  "fila": 154,
+  "abertos": 296,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 11205
+  "espera_media_s": 11162
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 706841
+  "ultimo_lead_at": "2026-08-28T12:00:57.812Z",
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "Francisco Pretinho",
+   "tel": "5579*****479",
+   "criado": "09:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcWwGJoss64/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "554888802094",
    "tel": "5548*****094",
