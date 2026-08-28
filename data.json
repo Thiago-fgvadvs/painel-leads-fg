@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/08/2026, 13:00",
+ "gerado_em": "28/08/2026, 13:15",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 253,
-  "tickets_abertos": 309,
+  "tickets_abertos": 310,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,9 +60,9 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
-  "Nao identificada": 3,
-  "Previdenciario": 1
+  "Trabalhista": 5,
+  "Previdenciario": 2,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [
   {
@@ -76,10 +76,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 241,
-  "turnos": 865,
-  "respondidos": 853,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
+  "turnos": 869,
+  "respondidos": 855,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -94,7 +94,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 46,
+    "respostas": 47,
     "mediana_min": 1
    },
    {
@@ -114,8 +114,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 6,
-    "mediana_min": 6.5
+    "respostas": 7,
+    "mediana_min": 5.5
    },
    {
     "nome": "Luisa",
@@ -125,10 +125,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.D.S.S x INVICTA SOLUCOES EM SEGURANCA E SERVICOS LTDA",
+    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
     "dia": "28/08",
-    "desde": "12:56",
-    "ts": 1787932614303
+    "desde": "13:02",
+    "ts": 1787932950261
+   },
+   {
+    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
+    "dia": "28/08",
+    "desde": "13:06",
+    "ts": 1787933179246
    },
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
@@ -137,16 +143,22 @@
     "ts": 1787932471255
    },
    {
+    "grupo": "M.Y.N.M x AGRA AGROINDUSTRIAL DE ALIMENTOS SA",
+    "dia": "28/08",
+    "desde": "12:54",
+    "ts": 1787932451253
+   },
+   {
     "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
     "dia": "28/08",
     "desde": "12:45",
     "ts": 1787931948297
    },
    {
-    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
+    "grupo": "M.B.D.A.L x REALMA MANUTENCAO E SERVICOS LTDA",
     "dia": "28/08",
-    "desde": "11:33",
-    "ts": 1787927609127
+    "desde": "12:45",
+    "ts": 1787931945296
    },
    {
     "grupo": "C.D.A.C x Aymore Credito x Santander",
@@ -259,10 +271,10 @@
     "ts": 1787926309240
    },
    {
-    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
+    "grupo": "M.B.D.A.L x REALMA MANUTENCAO E SERVICOS LTDA",
     "dia": "28/08",
-    "desde": "11:33",
-    "ts": 1787927609127
+    "desde": "12:45",
+    "ts": 1787931945296
    },
    {
     "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
@@ -271,16 +283,28 @@
     "ts": 1787931948297
    },
    {
+    "grupo": "M.Y.N.M x AGRA AGROINDUSTRIAL DE ALIMENTOS SA",
+    "dia": "28/08",
+    "desde": "12:54",
+    "ts": 1787932451253
+   },
+   {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "28/08",
     "desde": "12:54",
     "ts": 1787932471255
    },
    {
-    "grupo": "A.D.S.S x INVICTA SOLUCOES EM SEGURANCA E SERVICOS LTDA",
+    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
     "dia": "28/08",
-    "desde": "12:56",
-    "ts": 1787932614303
+    "desde": "13:02",
+    "ts": 1787932950261
+   },
+   {
+    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
+    "dia": "28/08",
+    "desde": "13:06",
+    "ts": 1787933179246
    }
   ]
  },
@@ -368,17 +392,17 @@
   ]
  },
  "agora": {
-  "fila": 162,
-  "abertos": 309,
-  "com_atendimento": 6,
+  "fila": 160,
+  "abertos": 310,
+  "com_atendimento": 7,
   "online": 3,
-  "offline": 1,
-  "ausentes": 4,
-  "espera_media_s": 11075
+  "offline": 0,
+  "ausentes": 5,
+  "espera_media_s": 11049
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-28T15:43:11.643Z",
-  "min_sem_lead": 17
+  "ultimo_lead_at": "2026-08-27T22:24:07.418Z",
+  "min_sem_lead": 1072
  },
  "leads": [
   {
@@ -401,7 +425,7 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/8yXKrLZJO",
-   "area": "Trabalhista"
+   "area": "Previdenciario"
   },
   {
    "nome": "🙌🏾Wlisses",
