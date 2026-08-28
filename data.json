@@ -1,16 +1,16 @@
 {
- "gerado_em": "28/08/2026, 14:16",
+ "gerado_em": "28/08/2026, 14:32",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
+  "total": 12,
   "no_sla": 8,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 2,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 254,
+  "leads_7d": 255,
   "tickets_abertos": 312,
   "periodo_dias": 7
  },
@@ -22,10 +22,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/85SmksXTt",
+   "leads": 2
+  },
   {
    "url": "fb.me/4KeoB4NcY",
    "leads": 1
@@ -43,10 +47,6 @@
    "leads": 1
   },
   {
-   "url": "fb.me/85SmksXTt",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DcWwGJoss64/",
    "leads": 1
   },
@@ -60,11 +60,17 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
+  "Trabalhista": 7,
   "Previdenciario": 2,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [
+  {
+   "nome": "5522992225253",
+   "tel": "5522*****253",
+   "criado": "14:31",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558179009833",
    "tel": "5581*****833",
@@ -75,16 +81,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 243,
-  "turnos": 887,
-  "respondidos": 875,
+  "grupos_ativos": 244,
+  "turnos": 888,
+  "respondidos": 876,
   "sem_resposta": 12,
   "sem_resposta_grupos": 12,
   "mediana_min": 2.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 675,
+    "respostas": 676,
     "mediana_min": 2.2
    },
    {
@@ -125,16 +131,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "M.V.T x NASCIMENTO SERVICOS DE LIMPEZA LTDA",
+    "dia": "28/08",
+    "desde": "14:11",
+    "ts": 1787937064295
+   },
+   {
     "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
     "dia": "28/08",
     "desde": "14:07",
     "ts": 1787936824345
-   },
-   {
-    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
-    "dia": "28/08",
-    "desde": "08:51",
-    "ts": 1787917874088
    },
    {
     "grupo": "M.Y.N.M x AGRA AGROINDUSTRIAL DE ALIMENTOS SA",
@@ -207,6 +213,13 @@
     "dia": "28/08",
     "desde": "11:39",
     "ts": 1787927943250
+   },
+   {
+    "nome": "5522992225253",
+    "tel": "5522*****253",
+    "dia": "28/08",
+    "desde": "14:31",
+    "ts": 1787938310328
    }
   ],
   "grupos": [
@@ -253,12 +266,6 @@
     "ts": 1787867597124
    },
    {
-    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
-    "dia": "28/08",
-    "desde": "08:51",
-    "ts": 1787917874088
-   },
-   {
     "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
     "dia": "28/08",
     "desde": "09:50",
@@ -281,6 +288,12 @@
     "dia": "28/08",
     "desde": "14:07",
     "ts": 1787936824345
+   },
+   {
+    "grupo": "M.V.T x NASCIMENTO SERVICOS DE LIMPEZA LTDA",
+    "dia": "28/08",
+    "desde": "14:11",
+    "ts": 1787937064295
    }
   ]
  },
@@ -368,19 +381,30 @@
   ]
  },
  "agora": {
-  "fila": 157,
+  "fila": 159,
   "abertos": 312,
   "com_atendimento": 7,
   "online": 4,
   "offline": 1,
   "ausentes": 3,
-  "espera_media_s": 10988
+  "espera_media_s": 10990
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 707157
+  "ultimo_lead_at": "2026-08-28T12:00:57.812Z",
+  "min_sem_lead": 331
  },
  "leads": [
+  {
+   "nome": "5522992225253",
+   "tel": "5522*****253",
+   "criado": "14:31",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/85SmksXTt",
+   "area": "Trabalhista"
+  },
   {
    "nome": "minha casa",
    "tel": "5532*****711",
