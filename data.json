@@ -1,31 +1,35 @@
 {
- "gerado_em": "28/08/2026, 19:21",
+ "gerado_em": "28/08/2026, 19:37",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
+  "total": 20,
   "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 3,
+  "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 262,
-  "tickets_abertos": 314,
+  "leads_7d": 263,
+  "tickets_abertos": 316,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 18,
+   "leads": 19,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 2
+  },
   {
    "url": "fb.me/85SmksXTt",
    "leads": 2
@@ -33,10 +37,6 @@
   {
    "url": "www.instagram.com/p/DcWwGJoss64/",
    "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcYdOxhMgB0/",
@@ -60,9 +60,9 @@
   }
  ],
  "areas": {
-  "Previdenciario": 4,
   "Nao identificada": 5,
-  "Trabalhista": 10
+  "Trabalhista": 11,
+  "Previdenciario": 4
  },
  "sem_resposta_lista": [
   {
@@ -344,30 +344,19 @@
   ]
  },
  "agora": {
-  "fila": 162,
-  "abertos": 314,
+  "fila": 164,
+  "abertos": 316,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 10987
+  "espera_media_s": 10906
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-28T17:31:50.328Z",
-  "min_sem_lead": 290
+  "ultimo_lead_at": "2026-08-28T22:06:46.273Z",
+  "min_sem_lead": 30
  },
  "leads": [
-  {
-   "nome": "Anderson Nobre",
-   "tel": "5522*****253",
-   "criado": "14:31",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/85SmksXTt",
-   "area": "Previdenciario"
-  },
   {
    "nome": "Maria Neusa🙏🏼❤️",
    "tel": "5531*****758",
@@ -389,6 +378,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcYdOxhMgB0/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Edsonir Soares",
+   "tel": "5588*****869",
+   "criado": "19:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Anderson Nobre",
+   "tel": "5522*****253",
+   "criado": "14:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/85SmksXTt",
+   "area": "Previdenciario"
   },
   {
    "nome": "Eloiserogeriasantos Santo",
