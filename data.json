@@ -1,31 +1,35 @@
 {
- "gerado_em": "28/08/2026, 14:01",
+ "gerado_em": "28/08/2026, 14:16",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 7,
+  "total": 11,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 253,
-  "tickets_abertos": 308,
+  "leads_7d": 254,
+  "tickets_abertos": 312,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/4KeoB4NcY",
+   "leads": 1
+  },
   {
    "url": "fb.me/8yXKrLZJO",
    "leads": 1
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/7VpAO4sFl",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4NOAixGut",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 6,
   "Previdenciario": 2,
-  "Trabalhista": 5,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [
@@ -76,15 +76,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 243,
-  "turnos": 880,
-  "respondidos": 868,
+  "turnos": 887,
+  "respondidos": 875,
   "sem_resposta": 12,
   "sem_resposta_grupos": 12,
   "mediana_min": 2.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 670,
+    "respostas": 675,
     "mediana_min": 2.2
    },
    {
@@ -104,8 +104,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 22,
-    "mediana_min": 5
+    "respostas": 24,
+    "mediana_min": 5.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -127,14 +127,14 @@
    {
     "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
     "dia": "28/08",
-    "desde": "12:45",
-    "ts": 1787931948297
+    "desde": "14:07",
+    "ts": 1787936824345
    },
    {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
     "dia": "28/08",
-    "desde": "12:54",
-    "ts": 1787932471255
+    "desde": "08:51",
+    "ts": 1787917874088
    },
    {
     "grupo": "M.Y.N.M x AGRA AGROINDUSTRIAL DE ALIMENTOS SA",
@@ -253,6 +253,12 @@
     "ts": 1787867597124
    },
    {
+    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
+    "dia": "28/08",
+    "desde": "08:51",
+    "ts": 1787917874088
+   },
+   {
     "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
     "dia": "28/08",
     "desde": "09:50",
@@ -265,22 +271,16 @@
     "ts": 1787926309240
    },
    {
-    "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
-    "dia": "28/08",
-    "desde": "12:45",
-    "ts": 1787931948297
-   },
-   {
     "grupo": "M.Y.N.M x AGRA AGROINDUSTRIAL DE ALIMENTOS SA",
     "dia": "28/08",
     "desde": "12:54",
     "ts": 1787932451253
    },
    {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
     "dia": "28/08",
-    "desde": "12:54",
-    "ts": 1787932471255
+    "desde": "14:07",
+    "ts": 1787936824345
    }
   ]
  },
@@ -369,18 +369,29 @@
  },
  "agora": {
   "fila": 157,
-  "abertos": 308,
-  "com_atendimento": 6,
+  "abertos": 312,
+  "com_atendimento": 7,
   "online": 4,
   "offline": 1,
   "ausentes": 3,
-  "espera_media_s": 11031
+  "espera_media_s": 10988
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 707142
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 707157
  },
  "leads": [
+  {
+   "nome": "minha casa",
+   "tel": "5532*****711",
+   "criado": "14:03",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4KeoB4NcY",
+   "area": "Trabalhista"
+  },
   {
    "nome": "roberto",
    "tel": "5512*****626",
