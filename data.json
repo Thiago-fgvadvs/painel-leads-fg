@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/08/2026, 12:15",
+ "gerado_em": "28/08/2026, 12:30",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -72,10 +72,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 240,
-  "turnos": 856,
+  "turnos": 857,
   "respondidos": 847,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 2.2,
   "atendentes": [
    {
@@ -120,6 +120,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "28/08",
+    "desde": "12:20",
+    "ts": 1787930450256
+   },
    {
     "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
     "dia": "28/08",
@@ -241,6 +247,12 @@
     "dia": "28/08",
     "desde": "11:33",
     "ts": 1787927609127
+   },
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "28/08",
+    "desde": "12:20",
+    "ts": 1787930450256
    }
   ]
  },
@@ -332,13 +344,13 @@
   "abertos": 302,
   "com_atendimento": 5,
   "online": 6,
-  "offline": 0,
-  "ausentes": 2,
+  "offline": 1,
+  "ausentes": 1,
   "espera_media_s": 11162
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T00:05:48.489Z",
-  "min_sem_lead": 6669
+  "ultimo_lead_at": "2026-08-27T07:51:01.498Z",
+  "min_sem_lead": 1899
  },
  "leads": [
   {
