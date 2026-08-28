@@ -1,13 +1,13 @@
 {
- "gerado_em": "28/08/2026, 20:07",
+ "gerado_em": "28/08/2026, 20:22",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 22,
   "no_sla": 15,
   "fora_sla": 0,
-  "sem_resposta": 2,
-  "fora_horario": 5,
+  "sem_resposta": 1,
+  "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 265,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   }
  ],
@@ -65,12 +65,6 @@
   "Nao identificada": 5
  },
  "sem_resposta_lista": [
-  {
-   "nome": "557499783201",
-   "tel": "5574*****201",
-   "criado": "20:07",
-   "area": "Trabalhista"
-  },
   {
    "nome": "558179009833",
    "tel": "5581*****833",
@@ -201,13 +195,6 @@
     "dia": "28/08",
     "desde": "11:39",
     "ts": 1787927943250
-   },
-   {
-    "nome": "557499783201",
-    "tel": "5574*****201",
-    "dia": "28/08",
-    "desde": "20:07",
-    "ts": 1787958442467
    }
   ],
   "grupos": [
@@ -363,20 +350,20 @@
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 10866
+  "espera_media_s": 10826
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-28T23:07:22.467Z",
-  "min_sem_lead": 0
+  "min_sem_lead": 15
  },
  "leads": [
   {
    "nome": "557499783201",
    "tel": "5574*****201",
    "criado": "20:07",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4KeoB4NcY",
    "area": "Trabalhista"
