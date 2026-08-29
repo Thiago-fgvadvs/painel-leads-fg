@@ -1,34 +1,34 @@
 {
- "gerado_em": "29/08/2026, 20:21",
+ "gerado_em": "29/08/2026, 20:36",
  "data_ref": "29/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
+  "total": 29,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 26,
+  "fora_horario": 28,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 280,
-  "tickets_abertos": 358,
+  "leads_7d": 282,
+  "tickets_abertos": 360,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 26,
+   "leads": 28,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 25,
+  "Anuncio": 27,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "fb.me/87PZSDuwc",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
@@ -51,16 +51,17 @@
    "leads": 2
   },
   {
-   "url": "fb.me/6ncziRPOp",
+   "url": "fb.me/6c1YLBmKy",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmW5LEMrD9/",
+   "url": "fb.me/6ncziRPOp",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 20,
+  "Previdenciario": 1,
+  "Trabalhista": 21,
   "Nao identificada": 7
  },
  "sem_resposta_lista": [
@@ -345,19 +346,41 @@
   ]
  },
  "agora": {
-  "fila": 206,
-  "abertos": 358,
+  "fila": 208,
+  "abertos": 360,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 9472
+  "espera_media_s": 9411
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-29T23:17:11.105Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2026-08-29T23:30:38.688Z",
+  "min_sem_lead": 6
  },
  "leads": [
+  {
+   "nome": "558499423261",
+   "tel": "5584*****261",
+   "criado": "20:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Maria De Fátima Morais",
+   "tel": "5535*****589",
+   "criado": "20:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6c1YLBmKy",
+   "area": "Trabalhista"
+  },
   {
    "nome": "claudenir",
    "tel": "5511*****612",
