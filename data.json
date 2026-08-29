@@ -1,37 +1,37 @@
 {
- "gerado_em": "28/08/2026, 20:53",
+ "gerado_em": "28/08/2026, 21:08",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
+  "total": 25,
   "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 8,
+  "fora_horario": 9,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 267,
-  "tickets_abertos": 320,
+  "leads_7d": 268,
+  "tickets_abertos": 321,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 23,
+   "leads": 24,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 23,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
-   "url": "fb.me/4KeoB4NcY",
-   "leads": 2
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "url": "fb.me/4KeoB4NcY",
    "leads": 2
   },
   {
@@ -43,11 +43,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcYdOxhMgB0/",
+   "url": "www.instagram.com/p/DcmW-7yMLEt/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmW-7yMLEt/",
+   "url": "www.instagram.com/p/DcYdOxhMgB0/",
    "leads": 1
   },
   {
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 13,
   "Previdenciario": 5,
+  "Trabalhista": 14,
   "Nao identificada": 6
  },
  "sem_resposta_lista": [
@@ -344,30 +344,19 @@
   ]
  },
  "agora": {
-  "fila": 168,
-  "abertos": 320,
+  "fila": 169,
+  "abertos": 321,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 10747
+  "espera_media_s": 10708
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-28T19:02:13.276Z",
-  "min_sem_lead": 291
+  "ultimo_lead_at": "2026-08-28T22:51:27.406Z",
+  "min_sem_lead": 77
  },
  "leads": [
-  {
-   "nome": "Carol Sares",
-   "tel": "5511*****751",
-   "criado": "16:02",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcYdOxhMgB0/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Maria Helena Zutin",
    "tel": "5519*****305",
@@ -378,6 +367,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW-7yMLEt/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "5515991351831",
+   "tel": "5515*****831",
+   "criado": "20:53",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Carol Sares",
+   "tel": "5511*****751",
+   "criado": "16:02",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcYdOxhMgB0/",
+   "area": "Trabalhista"
   },
   {
    "nome": "558594038834",
