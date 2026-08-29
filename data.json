@@ -1,28 +1,28 @@
 {
- "gerado_em": "28/08/2026, 21:08",
+ "gerado_em": "28/08/2026, 21:23",
  "data_ref": "28/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
+  "total": 27,
   "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 9,
+  "fora_horario": 11,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 268,
-  "tickets_abertos": 321,
+  "leads_7d": 270,
+  "tickets_abertos": 323,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 24,
+   "leads": 26,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 25,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -43,26 +43,26 @@
    "leads": 2
   },
   {
+   "url": "fb.me/8amQmpHkj",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4YfB6dLQ7",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmW-7yMLEt/",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcYdOxhMgB0/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4SpjajyWg",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcWteCZMgFJ/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Previdenciario": 5,
-  "Trabalhista": 14,
-  "Nao identificada": 6
+  "Trabalhista": 15,
+  "Nao identificada": 7,
+  "Previdenciario": 5
  },
  "sem_resposta_lista": [
   {
@@ -344,19 +344,41 @@
   ]
  },
  "agora": {
-  "fila": 169,
-  "abertos": 321,
+  "fila": 171,
+  "abertos": 323,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 10708
+  "espera_media_s": 10631
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-28T22:51:27.406Z",
-  "min_sem_lead": 77
+  "ultimo_lead_at": "2026-08-29T00:11:58.401Z",
+  "min_sem_lead": 12
  },
  "leads": [
+  {
+   "nome": "Roberto",
+   "tel": "5543*****039",
+   "criado": "21:11",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8amQmpHkj",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Osvaldo",
+   "tel": "5573*****251",
+   "criado": "21:09",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4YfB6dLQ7",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Maria Helena Zutin",
    "tel": "5519*****305",
