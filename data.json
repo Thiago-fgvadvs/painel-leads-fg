@@ -1,33 +1,37 @@
 {
- "gerado_em": "29/08/2026, 07:55",
+ "gerado_em": "29/08/2026, 08:10",
  "data_ref": "29/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
+  "total": 13,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 10,
+  "fora_horario": 12,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 263,
-  "tickets_abertos": 335,
+  "leads_7d": 265,
+  "tickets_abertos": 337,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 12,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 9,
-  "Direto/Indicacao": 2
+  "Anuncio": 10,
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "fb.me/875plPmzH",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/6lIu0yPSl",
    "leads": 1
   },
   {
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4LXdMV2Fn",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 8,
-  "Nao identificada": 3
+  "Trabalhista": 9,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -336,17 +336,17 @@
   ]
  },
  "agora": {
-  "fila": 183,
-  "abertos": 335,
+  "fila": 185,
+  "abertos": 337,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 10191
+  "espera_media_s": 10121
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-29T10:47:47.401Z",
-  "min_sem_lead": 7
+  "min_sem_lead": 23
  },
  "leads": [
   {
@@ -359,6 +359,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5513978299292",
+   "tel": "5513*****292",
+   "criado": "08:05",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6lIu0yPSl",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Eduardo Zielinski Zielins",
+   "tel": "5598*****667",
+   "criado": "07:57",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "5544933002224",
