@@ -1,17 +1,17 @@
 {
- "gerado_em": "29/08/2026, 20:36",
+ "gerado_em": "29/08/2026, 20:52",
  "data_ref": "29/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
+  "total": 30,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 2,
   "fora_horario": 28,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 282,
-  "tickets_abertos": 360,
+  "leads_7d": 283,
+  "tickets_abertos": 361,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,7 +22,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 27,
+  "Anuncio": 28,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -33,6 +33,10 @@
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 2
   },
   {
    "url": "fb.me/6lIu0yPSl",
@@ -53,18 +57,20 @@
   {
    "url": "fb.me/6c1YLBmKy",
    "leads": 1
-  },
-  {
-   "url": "fb.me/6ncziRPOp",
-   "leads": 1
   }
  ],
  "areas": {
+  "Nao identificada": 8,
   "Previdenciario": 1,
-  "Trabalhista": 21,
-  "Nao identificada": 7
+  "Trabalhista": 21
  },
  "sem_resposta_lista": [
+  {
+   "nome": "5511999693329",
+   "tel": "5511*****329",
+   "criado": "20:51",
+   "area": "Nao identificada"
+  },
   {
    "nome": "556381084138",
    "tel": "5563*****138",
@@ -346,19 +352,30 @@
   ]
  },
  "agora": {
-  "fila": 208,
-  "abertos": 360,
+  "fila": 209,
+  "abertos": 361,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 9411
+  "espera_media_s": 9382
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-29T23:30:38.688Z",
-  "min_sem_lead": 6
+  "ultimo_lead_at": "2026-08-29T23:51:33.727Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "5511999693329",
+   "tel": "5511*****329",
+   "criado": "20:51",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "558499423261",
    "tel": "5584*****261",
