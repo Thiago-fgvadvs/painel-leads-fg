@@ -1,29 +1,29 @@
 {
- "gerado_em": "29/08/2026, 12:59",
+ "gerado_em": "29/08/2026, 13:14",
  "data_ref": "29/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
+  "total": 18,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 16,
+  "fora_horario": 17,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 270,
-  "tickets_abertos": 344,
+  "leads_7d": 271,
+  "tickets_abertos": 345,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 14,
-  "Direto/Indicacao": 3
+  "Anuncio": 16,
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -33,6 +33,14 @@
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/4MBhcZyUD",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4KeoB4NcY",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
@@ -49,19 +57,11 @@
   {
    "url": "fb.me/875plPmzH",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4GjAyWZsF",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/91elw2A2a",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 12,
-  "Nao identificada": 5
+  "Trabalhista": 14,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [
   {
@@ -345,19 +345,41 @@
   ]
  },
  "agora": {
-  "fila": 192,
-  "abertos": 344,
+  "fila": 193,
+  "abertos": 345,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 9917
+  "espera_media_s": 9884
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-29T14:47:30.713Z",
-  "min_sem_lead": 72
+  "ultimo_lead_at": "2026-08-29T16:01:46.905Z",
+  "min_sem_lead": 13
  },
  "leads": [
+  {
+   "nome": "5512992091296",
+   "tel": "5512*****296",
+   "criado": "13:01",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Eduardo Zielinski Zielins",
+   "tel": "5598*****667",
+   "criado": "07:57",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4KeoB4NcY",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Ana Carla",
    "tel": "5522*****249",
@@ -445,17 +467,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Eduardo Zielinski Zielins",
-   "tel": "5598*****667",
-   "criado": "07:57",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "556381084138",
