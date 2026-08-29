@@ -1,37 +1,41 @@
 {
- "gerado_em": "29/08/2026, 11:43",
+ "gerado_em": "29/08/2026, 11:58",
  "data_ref": "29/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
+  "total": 17,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 14,
+  "fora_horario": 16,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 267,
-  "tickets_abertos": 341,
+  "leads_7d": 269,
+  "tickets_abertos": 343,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 14,
+   "leads": 16,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 14,
   "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "fb.me/505ajP5YC",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 2
   },
   {
-   "url": "fb.me/505ajP5YC",
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 1
   },
   {
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/91elw2A2a",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmVrByMck7/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 11,
-  "Nao identificada": 4
+  "Trabalhista": 12,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -324,19 +324,41 @@
   ]
  },
  "agora": {
-  "fila": 189,
-  "abertos": 341,
+  "fila": 191,
+  "abertos": 343,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 9984
+  "espera_media_s": 9917
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-25T13:51:31.071Z",
-  "min_sem_lead": 5812
+  "ultimo_lead_at": "2026-08-29T14:47:30.713Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "Ana Carla",
+   "tel": "5522*****249",
+   "criado": "11:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554198847953",
+   "tel": "5541*****953",
+   "criado": "11:48",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "554992012639",
    "tel": "5549*****639",
