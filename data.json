@@ -1,34 +1,38 @@
 {
- "gerado_em": "29/08/2026, 16:48",
+ "gerado_em": "29/08/2026, 17:03",
  "data_ref": "29/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
+  "total": 24,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 22,
+  "fora_horario": 23,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 276,
-  "tickets_abertos": 354,
+  "leads_7d": 277,
+  "tickets_abertos": 355,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 22,
+   "leads": 23,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 22,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/6hFKXqtBv",
+   "leads": 2
   },
   {
    "url": "fb.me/87PZSDuwc",
@@ -41,10 +45,6 @@
   {
    "url": "fb.me/505ajP5YC",
    "leads": 2
-  },
-  {
-   "url": "fb.me/6hFKXqtBv",
-   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
+  "Nao identificada": 7,
   "Trabalhista": 17
  },
  "sem_resposta_lista": [
@@ -345,19 +345,30 @@
   ]
  },
  "agora": {
-  "fila": 202,
-  "abertos": 354,
+  "fila": 203,
+  "abertos": 355,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 9595
+  "espera_media_s": 9564
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-23T15:10:48.215Z",
-  "min_sem_lead": 8917
+  "ultimo_lead_at": "2026-08-29T19:56:47.401Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "Milton",
+   "tel": "5538*****769",
+   "criado": "16:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6hFKXqtBv",
+   "area": "Nao identificada"
+  },
   {
    "nome": "555192553758",
    "tel": "5551*****758",
