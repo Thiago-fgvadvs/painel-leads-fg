@@ -1,28 +1,28 @@
 {
- "gerado_em": "30/08/2026, 16:01",
+ "gerado_em": "30/08/2026, 16:16",
  "data_ref": "30/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
+  "total": 26,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 2,
-  "fora_horario": 23,
+  "fora_horario": 24,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 261,
-  "tickets_abertos": 396,
+  "leads_7d": 262,
+  "tickets_abertos": 397,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 23,
+   "leads": 24,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 23,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -31,11 +31,11 @@
    "leads": 3
   },
   {
-   "url": "www.instagram.com/p/DcmW5LEMrD9/",
-   "leads": 2
+   "url": "fb.me/5RfuAbn3k",
+   "leads": 3
   },
   {
-   "url": "fb.me/5RfuAbn3k",
+   "url": "www.instagram.com/p/DcmW5LEMrD9/",
    "leads": 2
   },
   {
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 18,
+  "Trabalhista": 19,
   "Nao identificada": 7
  },
  "sem_resposta_lista": [
@@ -396,17 +396,17 @@
   ]
  },
  "agora": {
-  "fila": 244,
-  "abertos": 396,
+  "fila": 245,
+  "abertos": 397,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 8541
+  "espera_media_s": 8516
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-30T18:58:04.525Z",
-  "min_sem_lead": 3
+  "min_sem_lead": 18
  },
  "leads": [
   {
@@ -418,6 +418,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "PEDRO DAS MENINAS",
+   "tel": "5594*****773",
+   "criado": "16:10",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/5RfuAbn3k",
    "area": "Trabalhista"
   },
   {
