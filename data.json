@@ -1,17 +1,17 @@
 {
- "gerado_em": "30/08/2026, 07:23",
+ "gerado_em": "30/08/2026, 07:38",
  "data_ref": "30/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
+  "total": 8,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 7,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 243,
-  "tickets_abertos": 373,
+  "leads_7d": 244,
+  "tickets_abertos": 375,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 7,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -56,10 +56,17 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
-  "Nao identificada": 3
+  "Nao identificada": 4,
+  "Trabalhista": 4
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5528999041823",
+   "tel": "5528*****823",
+   "criado": "07:34",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -191,6 +198,13 @@
     "dia": "29/08",
     "desde": "07:37",
     "ts": 1787999848049
+   },
+   {
+    "nome": "5528999041823",
+    "tel": "5528*****823",
+    "dia": "30/08",
+    "desde": "07:34",
+    "ts": 1788086053609
    }
   ],
   "grupos": [
@@ -334,19 +348,30 @@
   ]
  },
  "agora": {
-  "fila": 221,
-  "abertos": 373,
+  "fila": 223,
+  "abertos": 375,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 9065
+  "espera_media_s": 9037
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-30T10:18:09.931Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2026-08-08T11:18:03.882Z",
+  "min_sem_lead": 31641
  },
  "leads": [
+  {
+   "nome": "5528999041823",
+   "tel": "5528*****823",
+   "criado": "07:34",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "5514998200962",
    "tel": "5514*****962",
