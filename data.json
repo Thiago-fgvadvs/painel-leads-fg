@@ -1,13 +1,13 @@
 {
- "gerado_em": "30/08/2026, 09:55",
+ "gerado_em": "30/08/2026, 10:11",
  "data_ref": "30/08/2026",
  "sla_min": 15,
  "kpi": {
   "total": 11,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 2,
-  "fora_horario": 9,
+  "sem_resposta": 1,
+  "fora_horario": 10,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 247,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": null
   }
  ],
@@ -29,6 +29,10 @@
   {
    "url": "fb.me/4MBhcZyUD",
    "leads": 2
+  },
+  {
+   "url": "fb.me/4YfB6dLQ7",
+   "leads": 1
   },
   {
    "url": "fb.me/87PZSDuwc",
@@ -53,23 +57,13 @@
   {
    "url": "fb.me/7I61m723H",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4YfB6dLQ7",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 7,
-  "Nao identificada": 4
+  "Nao identificada": 4,
+  "Trabalhista": 7
  },
  "sem_resposta_lista": [
-  {
-   "nome": "554999602429",
-   "tel": "5549*****429",
-   "criado": "09:55",
-   "area": "Trabalhista"
-  },
   {
    "nome": "5528999041823",
    "tel": "5528*****823",
@@ -227,13 +221,6 @@
     "dia": "30/08",
     "desde": "07:34",
     "ts": 1788086053609
-   },
-   {
-    "nome": "554999602429",
-    "tel": "5549*****429",
-    "dia": "30/08",
-    "desde": "09:55",
-    "ts": 1788094526955
    }
   ],
   "grupos": [
@@ -395,20 +382,31 @@
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 8955
+  "espera_media_s": 8928
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-30T12:55:26.955Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-08-30T03:17:03.491Z",
+  "min_sem_lead": 594
  },
  "leads": [
+  {
+   "nome": "Neli",
+   "tel": "5567*****844",
+   "criado": "00:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4YfB6dLQ7",
+   "area": "Nao identificada"
+  },
   {
    "nome": "554999602429",
    "tel": "5549*****429",
    "criado": "09:55",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4MBhcZyUD",
    "area": "Trabalhista"
@@ -499,17 +497,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/7I61m723H",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Neli",
-   "tel": "5567*****844",
-   "criado": "00:17",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4YfB6dLQ7",
    "area": "Nao identificada"
   },
   {
