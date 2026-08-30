@@ -1,5 +1,5 @@
 {
- "gerado_em": "30/08/2026, 10:26",
+ "gerado_em": "30/08/2026, 10:41",
  "data_ref": "30/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 247,
-  "tickets_abertos": 379,
+  "tickets_abertos": 380,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 7
+  "Trabalhista": 7,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [
   {
@@ -376,30 +376,19 @@
   ]
  },
  "agora": {
-  "fila": 227,
-  "abertos": 379,
+  "fila": 228,
+  "abertos": 380,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 8928
+  "espera_media_s": 8901
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-29T11:05:29.257Z",
-  "min_sem_lead": 1581
+  "ultimo_lead_at": "2026-08-30T12:55:26.955Z",
+  "min_sem_lead": 46
  },
  "leads": [
-  {
-   "nome": "Neli",
-   "tel": "5567*****844",
-   "criado": "00:17",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4YfB6dLQ7",
-   "area": "Nao identificada"
-  },
   {
    "nome": "554999602429",
    "tel": "5549*****429",
@@ -410,6 +399,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4MBhcZyUD",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Neli",
+   "tel": "5567*****844",
+   "criado": "00:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4YfB6dLQ7",
+   "area": "Nao identificada"
   },
   {
    "nome": "554699838881",
