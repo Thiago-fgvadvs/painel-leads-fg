@@ -1,29 +1,29 @@
 {
- "gerado_em": "30/08/2026, 13:13",
+ "gerado_em": "30/08/2026, 13:28",
  "data_ref": "30/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
+  "total": 19,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 2,
-  "fora_horario": 16,
+  "fora_horario": 17,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 254,
-  "tickets_abertos": 389,
+  "leads_7d": 255,
+  "tickets_abertos": 390,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": null
   }
  ],
  "origem": {
   "Anuncio": 16,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 12,
+  "Trabalhista": 13,
   "Nao identificada": 6
  },
  "sem_resposta_lista": [
@@ -396,19 +396,30 @@
   ]
  },
  "agora": {
-  "fila": 237,
-  "abertos": 389,
+  "fila": 238,
+  "abertos": 390,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 8717
+  "espera_media_s": 8692
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-30T12:55:26.955Z",
-  "min_sem_lead": 198
+  "ultimo_lead_at": "2026-08-30T16:21:54.852Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "Maria Vitoria Tolfo",
+   "tel": "5555*****757",
+   "criado": "13:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "Edson Alves",
    "tel": "5549*****429",
