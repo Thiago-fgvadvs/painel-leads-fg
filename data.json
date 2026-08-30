@@ -1,28 +1,28 @@
 {
- "gerado_em": "29/08/2026, 20:52",
+ "gerado_em": "29/08/2026, 21:07",
  "data_ref": "29/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
+  "total": 31,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 2,
-  "fora_horario": 28,
+  "sem_resposta": 1,
+  "fora_horario": 30,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 283,
-  "tickets_abertos": 361,
+  "leads_7d": 284,
+  "tickets_abertos": 362,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 28,
+   "leads": 30,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 28,
+  "Anuncio": 29,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -55,22 +55,16 @@
    "leads": 2
   },
   {
-   "url": "fb.me/6c1YLBmKy",
+   "url": "fb.me/4HImRLynl",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 8,
+  "Trabalhista": 23,
   "Previdenciario": 1,
-  "Trabalhista": 21
+  "Nao identificada": 7
  },
  "sem_resposta_lista": [
-  {
-   "nome": "5511999693329",
-   "tel": "5511*****329",
-   "criado": "20:51",
-   "area": "Nao identificada"
-  },
   {
    "nome": "556381084138",
    "tel": "5563*****138",
@@ -352,29 +346,40 @@
   ]
  },
  "agora": {
-  "fila": 209,
-  "abertos": 361,
+  "fila": 210,
+  "abertos": 362,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 9382
+  "espera_media_s": 9352
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-29T23:51:33.727Z",
-  "min_sem_lead": 0
+  "min_sem_lead": 16
  },
  "leads": [
   {
    "nome": "5511999693329",
    "tel": "5511*****329",
    "criado": "20:51",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5518920007360",
+   "tel": "5518*****360",
+   "criado": "21:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4HImRLynl",
+   "area": "Trabalhista"
   },
   {
    "nome": "558499423261",
