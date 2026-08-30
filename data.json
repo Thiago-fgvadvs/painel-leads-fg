@@ -1,31 +1,39 @@
 {
- "gerado_em": "30/08/2026, 14:29",
+ "gerado_em": "30/08/2026, 14:45",
  "data_ref": "30/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
+  "total": 23,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 2,
-  "fora_horario": 19,
+  "fora_horario": 21,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 257,
-  "tickets_abertos": 392,
+  "leads_7d": 259,
+  "tickets_abertos": 394,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
+   "leads": 21,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 20,
   "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW5LEMrD9/",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/5RfuAbn3k",
+   "leads": 2
+  },
   {
    "url": "fb.me/4MBhcZyUD",
    "leads": 2
@@ -49,19 +57,11 @@
   {
    "url": "fb.me/26l4Kvdqo3",
    "leads": 1
-  },
-  {
-   "url": "fb.me/875plPmzH",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmW5LEMrD9/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
-  "Nao identificada": 6
+  "Trabalhista": 16,
+  "Nao identificada": 7
  },
  "sem_resposta_lista": [
   {
@@ -396,19 +396,52 @@
   ]
  },
  "agora": {
-  "fila": 240,
-  "abertos": 392,
+  "fila": 242,
+  "abertos": 394,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 8641
+  "espera_media_s": 8591
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-30T16:53:34.364Z",
-  "min_sem_lead": 36
+  "ultimo_lead_at": "2026-08-30T17:38:03.952Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "555599954446",
+   "tel": "5555*****446",
+   "criado": "14:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Maria Vitoria Tolfo",
+   "tel": "5555*****757",
+   "criado": "13:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553183708910",
+   "tel": "5531*****910",
+   "criado": "14:37",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/5RfuAbn3k",
+   "area": "Nao identificada"
+  },
   {
    "nome": "558688191070",
    "tel": "5586*****070",
@@ -429,17 +462,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/26l4Kvdqo3",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Maria Vitoria Tolfo",
-   "tel": "5555*****757",
-   "criado": "13:21",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Trabalhista"
   },
   {
