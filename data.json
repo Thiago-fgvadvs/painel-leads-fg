@@ -1,17 +1,17 @@
 {
- "gerado_em": "30/08/2026, 09:40",
+ "gerado_em": "30/08/2026, 09:55",
  "data_ref": "30/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
+  "total": 11,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 2,
   "fora_horario": 9,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 246,
-  "tickets_abertos": 378,
+  "leads_7d": 247,
+  "tickets_abertos": 379,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,10 +22,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/4MBhcZyUD",
+   "leads": 2
+  },
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 1
@@ -47,10 +51,6 @@
    "leads": 1
   },
   {
-   "url": "fb.me/4MBhcZyUD",
-   "leads": 1
-  },
-  {
    "url": "fb.me/7I61m723H",
    "leads": 1
   },
@@ -60,10 +60,16 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
+  "Trabalhista": 7,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [
+  {
+   "nome": "554999602429",
+   "tel": "5549*****429",
+   "criado": "09:55",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5528999041823",
    "tel": "5528*****823",
@@ -221,6 +227,13 @@
     "dia": "30/08",
     "desde": "07:34",
     "ts": 1788086053609
+   },
+   {
+    "nome": "554999602429",
+    "tel": "5549*****429",
+    "dia": "30/08",
+    "desde": "09:55",
+    "ts": 1788094526955
    }
   ],
   "grupos": [
@@ -376,8 +389,8 @@
   ]
  },
  "agora": {
-  "fila": 226,
-  "abertos": 378,
+  "fila": 227,
+  "abertos": 379,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
@@ -385,10 +398,21 @@
   "espera_media_s": 8955
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-30T11:01:25.279Z",
-  "min_sem_lead": 99
+  "ultimo_lead_at": "2026-08-30T12:55:26.955Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "554999602429",
+   "tel": "5549*****429",
+   "criado": "09:55",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
   {
    "nome": "554699838881",
    "tel": "5546*****881",
