@@ -1,28 +1,28 @@
 {
- "gerado_em": "30/08/2026, 15:00",
+ "gerado_em": "30/08/2026, 15:15",
  "data_ref": "30/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
+  "total": 24,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 2,
-  "fora_horario": 21,
+  "fora_horario": 22,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 259,
-  "tickets_abertos": 394,
+  "leads_7d": 260,
+  "tickets_abertos": 395,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -51,16 +51,16 @@
    "leads": 2
   },
   {
-   "url": "fb.me/7ZVZhwxMh",
+   "url": "fb.me/8hmN3IbSF",
    "leads": 1
   },
   {
-   "url": "fb.me/26l4Kvdqo3",
+   "url": "fb.me/7ZVZhwxMh",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 16,
+  "Trabalhista": 17,
   "Nao identificada": 7
  },
  "sem_resposta_lista": [
@@ -396,19 +396,30 @@
   ]
  },
  "agora": {
-  "fila": 242,
-  "abertos": 394,
+  "fila": 243,
+  "abertos": 395,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 8591
+  "espera_media_s": 8566
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-30T17:38:03.952Z",
-  "min_sem_lead": 22
+  "ultimo_lead_at": "2026-08-30T18:12:16.035Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "Adelino silveira",
+   "tel": "5566*****557",
+   "criado": "15:12",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8hmN3IbSF",
+   "area": "Trabalhista"
+  },
   {
    "nome": "555599954446",
    "tel": "5555*****446",
