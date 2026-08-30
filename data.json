@@ -1,5 +1,5 @@
 {
- "gerado_em": "30/08/2026, 08:54",
+ "gerado_em": "30/08/2026, 09:10",
  "data_ref": "30/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 246,
-  "tickets_abertos": 377,
+  "tickets_abertos": 378,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -74,11 +74,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 240,
-  "turnos": 882,
-  "respondidos": 873,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "grupos_ativos": 241,
+  "turnos": 887,
+  "respondidos": 876,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 2.4,
   "atendentes": [
    {
@@ -108,8 +108,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 17,
-    "mediana_min": 336
+    "respostas": 20,
+    "mediana_min": 609.1
    },
    {
     "nome": "Tiago Bernardo",
@@ -124,16 +124,28 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "D.L.D.A x PARK A WAY GESTAO E ADM DE ESTACIONAMENTOS UNIPESSOAL LT",
-    "dia": "28/08",
-    "desde": "17:50",
-    "ts": 1787950220369
+    "grupo": "N.P.D.M x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "30/08",
+    "desde": "09:08",
+    "ts": 1788091683693
+   },
+   {
+    "grupo": "L.T.A x POLI POSITIVO IND. COM. IMP. E EXP. LTDA EM RECUPERACAO JUDICIAL",
+    "dia": "30/08",
+    "desde": "09:05",
+    "ts": 1788091536692
    },
    {
     "grupo": "R.J.D.S.O x SUPERMERCADOS BH COMERCIO DE ALIMENTOS S A",
     "dia": "28/08",
     "desde": "15:49",
     "ts": 1787942947361
+   },
+   {
+    "grupo": "D.L.D.A x PARK A WAY GESTAO E ADM DE ESTACIONAMENTOS UNIPESSOAL LT",
+    "dia": "28/08",
+    "desde": "17:50",
+    "ts": 1787950220369
    },
    {
     "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
@@ -265,6 +277,18 @@
     "dia": "28/08",
     "desde": "17:50",
     "ts": 1787950220369
+   },
+   {
+    "grupo": "L.T.A x POLI POSITIVO IND. COM. IMP. E EXP. LTDA EM RECUPERACAO JUDICIAL",
+    "dia": "30/08",
+    "desde": "09:05",
+    "ts": 1788091536692
+   },
+   {
+    "grupo": "N.P.D.M x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "30/08",
+    "desde": "09:08",
+    "ts": 1788091683693
    }
   ]
  },
@@ -352,17 +376,17 @@
   ]
  },
  "agora": {
-  "fila": 225,
-  "abertos": 377,
+  "fila": 226,
+  "abertos": 378,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 8982
+  "espera_media_s": 8955
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-30T11:01:25.279Z",
-  "min_sem_lead": 53
+  "min_sem_lead": 69
  },
  "leads": [
   {
