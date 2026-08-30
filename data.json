@@ -1,28 +1,28 @@
 {
- "gerado_em": "30/08/2026, 20:20",
+ "gerado_em": "30/08/2026, 20:35",
  "data_ref": "30/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 37,
+  "total": 38,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 2,
-  "fora_horario": 35,
+  "fora_horario": 36,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 273,
-  "tickets_abertos": 408,
+  "leads_7d": 274,
+  "tickets_abertos": 409,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 35,
+   "leads": 36,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 34,
+  "Anuncio": 35,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -36,7 +36,7 @@
   },
   {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/5RfuAbn3k",
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 28,
+  "Trabalhista": 29,
   "Previdenciario": 1,
   "Nao identificada": 8
  },
@@ -397,17 +397,17 @@
   ]
  },
  "agora": {
-  "fila": 256,
-  "abertos": 408,
+  "fila": 257,
+  "abertos": 409,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 8255
+  "espera_media_s": 8232
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-30T23:03:16.281Z",
-  "min_sem_lead": 17
+  "min_sem_lead": 32
  },
  "leads": [
   {
@@ -419,6 +419,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Fagner Nunes",
+   "tel": "5511*****092",
+   "criado": "20:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
    "area": "Trabalhista"
   },
   {
