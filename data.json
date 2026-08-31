@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/08/2026, 18:31",
+ "gerado_em": "31/08/2026, 18:47",
  "data_ref": "31/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 43,
-  "no_sla": 32,
+  "total": 45,
+  "no_sla": 34,
   "fora_sla": 1,
   "sem_resposta": 2,
   "fora_horario": 7,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 280,
-  "tickets_abertos": 452,
+  "leads_7d": 282,
+  "tickets_abertos": 454,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 39,
+   "leads": 41,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 36,
+  "Anuncio": 38,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 29,
+  "Trabalhista": 31,
   "Previdenciario": 2,
   "Nao identificada": 12
  },
@@ -440,19 +440,41 @@
   ]
  },
  "agora": {
-  "fila": 286,
-  "abertos": 452,
+  "fila": 288,
+  "abertos": 454,
   "com_atendimento": 6,
   "online": 4,
   "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 7486
+  "espera_media_s": 7448
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 711732
+  "ultimo_lead_at": "2026-08-09T19:57:58.484Z",
+  "min_sem_lead": 31789
  },
  "leads": [
+  {
+   "nome": "553484099123",
+   "tel": "5534*****123",
+   "criado": "18:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8amQmpHkj",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511939274355",
+   "tel": "5511*****355",
+   "criado": "18:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4cT7G29HU",
+   "area": "Trabalhista"
+  },
   {
    "nome": "vó do  Pietro 🩵😍",
    "tel": "5527*****888",
