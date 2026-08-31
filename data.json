@@ -1,5 +1,5 @@
 {
- "gerado_em": "31/08/2026, 18:16",
+ "gerado_em": "31/08/2026, 18:31",
  "data_ref": "31/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 97,
   "mediana_geral": 0.4,
   "leads_7d": 280,
-  "tickets_abertos": 451,
+  "tickets_abertos": 452,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -95,10 +95,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 239,
-  "turnos": 836,
+  "turnos": 837,
   "respondidos": 825,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
   "mediana_min": 3,
   "atendentes": [
    {
@@ -148,6 +148,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "O.R.S.V x IVIX EMPREENDIMENTOS LTDA",
+    "dia": "31/08",
+    "desde": "18:29",
+    "ts": 1788211756314
+   },
    {
     "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
     "dia": "31/08",
@@ -342,6 +348,12 @@
     "dia": "31/08",
     "desde": "17:41",
     "ts": 1788208914162
+   },
+   {
+    "grupo": "O.R.S.V x IVIX EMPREENDIMENTOS LTDA",
+    "dia": "31/08",
+    "desde": "18:29",
+    "ts": 1788211756314
    }
   ]
  },
@@ -428,8 +440,8 @@
   ]
  },
  "agora": {
-  "fila": 285,
-  "abertos": 451,
+  "fila": 286,
+  "abertos": 452,
   "com_atendimento": 6,
   "online": 4,
   "offline": 4,
@@ -437,14 +449,14 @@
   "espera_media_s": 7486
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-31T02:35:10.367Z",
-  "min_sem_lead": 1121
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 711732
  },
  "leads": [
   {
-   "nome": "Victor Glaucio 😍🥰",
-   "tel": "5592*****232",
-   "criado": "17:08",
+   "nome": "vó do  Pietro 🩵😍",
+   "tel": "5527*****888",
+   "criado": "17:20",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
@@ -453,9 +465,9 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "vó do  Pietro 🩵😍",
-   "tel": "5527*****888",
-   "criado": "17:20",
+   "nome": "Victor Glaucio 😍🥰",
+   "tel": "5592*****232",
+   "criado": "17:08",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
