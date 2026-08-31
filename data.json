@@ -1,5 +1,5 @@
 {
- "gerado_em": "31/08/2026, 17:45",
+ "gerado_em": "31/08/2026, 18:01",
  "data_ref": "31/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 97,
   "mediana_geral": 0.4,
   "leads_7d": 280,
-  "tickets_abertos": 457,
+  "tickets_abertos": 453,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -95,21 +95,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 239,
-  "turnos": 834,
-  "respondidos": 821,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
+  "turnos": 836,
+  "respondidos": 824,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
   "mediana_min": 3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 549,
+    "respostas": 550,
     "mediana_min": 2.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 121,
-    "mediana_min": 13
+    "respostas": 123,
+    "mediana_min": 13.6
    },
    {
     "nome": "Gabrielle",
@@ -149,6 +149,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.J.S x EPR LITORAL PIONEIRO S.A",
+    "dia": "31/08",
+    "desde": "17:48",
+    "ts": 1788209317168
+   },
+   {
     "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
     "dia": "31/08",
     "desde": "17:41",
@@ -177,18 +183,6 @@
     "dia": "31/08",
     "desde": "13:23",
     "ts": 1788193438166
-   },
-   {
-    "grupo": "T.C.M x MUNICIPIO DE LUIZ ALVES",
-    "dia": "31/08",
-    "desde": "08:34",
-    "ts": 1788176063756
-   },
-   {
-    "grupo": "G.S.L x SABER DECOR PRESENTES E DECORACOES LIMITADA",
-    "dia": "28/08",
-    "desde": "17:38",
-    "ts": 1787949513399
    },
    {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
@@ -326,18 +320,6 @@
     "ts": 1787855472061
    },
    {
-    "grupo": "G.S.L x SABER DECOR PRESENTES E DECORACOES LIMITADA",
-    "dia": "28/08",
-    "desde": "17:38",
-    "ts": 1787949513399
-   },
-   {
-    "grupo": "T.C.M x MUNICIPIO DE LUIZ ALVES",
-    "dia": "31/08",
-    "desde": "08:34",
-    "ts": 1788176063756
-   },
-   {
     "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
     "dia": "31/08",
     "desde": "13:23",
@@ -366,6 +348,12 @@
     "dia": "31/08",
     "desde": "17:41",
     "ts": 1788208914162
+   },
+   {
+    "grupo": "A.J.S x EPR LITORAL PIONEIRO S.A",
+    "dia": "31/08",
+    "desde": "17:48",
+    "ts": 1788209317168
    }
   ]
  },
@@ -452,23 +440,34 @@
   ]
  },
  "agora": {
-  "fila": 284,
-  "abertos": 457,
+  "fila": 285,
+  "abertos": 453,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 6,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 7449
+  "ausentes": 0,
+  "espera_media_s": 7486
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-31T20:29:50.869Z",
-  "min_sem_lead": 16
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 711701
  },
  "leads": [
   {
    "nome": "vó do  Pietro 🩵😍",
    "tel": "5527*****888",
    "criado": "17:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Victor Glaucio 😍🥰",
+   "tel": "5592*****232",
+   "criado": "17:08",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
@@ -485,17 +484,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/87PZSDuwc",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Victor Glaucio 😍🥰",
-   "tel": "5592*****232",
-   "criado": "17:08",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
