@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/08/2026, 17:15",
+ "gerado_em": "31/08/2026, 17:30",
  "data_ref": "31/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 39,
-  "no_sla": 28,
+  "total": 42,
+  "no_sla": 31,
   "fora_sla": 1,
   "sem_resposta": 2,
   "fora_horario": 7,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 276,
-  "tickets_abertos": 455,
+  "leads_7d": 279,
+  "tickets_abertos": 459,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 35,
+   "leads": 38,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,21 @@
   }
  ],
  "origem": {
-  "Anuncio": 32,
+  "Anuncio": 35,
   "Direto/Indicacao": 7
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 4
+   "leads": 5
+  },
+  {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/4HImRLynl",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
@@ -54,18 +62,10 @@
   {
    "url": "www.instagram.com/p/DcmT_uEsqej/",
    "leads": 2
-  },
-  {
-   "url": "fb.me/87PZSDuwc",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmW5hLM3NO/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 25,
+  "Trabalhista": 28,
   "Previdenciario": 2,
   "Nao identificada": 12
  },
@@ -94,21 +94,21 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 237,
-  "turnos": 820,
-  "respondidos": 804,
-  "sem_resposta": 16,
-  "sem_resposta_grupos": 16,
+  "grupos_ativos": 239,
+  "turnos": 830,
+  "respondidos": 813,
+  "sem_resposta": 17,
+  "sem_resposta_grupos": 17,
   "mediana_min": 3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 541,
+    "respostas": 546,
     "mediana_min": 2.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 112,
+    "respostas": 116,
     "mediana_min": 12.4
    },
    {
@@ -149,22 +149,28 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "31/08",
+    "desde": "17:27",
+    "ts": 1788208033336
+   },
+   {
+    "grupo": "L.T.A x POLI POSITIVO IND. COM. IMP. E EXP. LTDA EM RECUPERACAO JUDICIAL",
+    "dia": "31/08",
+    "desde": "17:12",
+    "ts": 1788207144222
+   },
+   {
+    "grupo": "C.L.M.D.O x HABIBS",
+    "dia": "31/08",
+    "desde": "16:44",
+    "ts": 1788205488118
+   },
+   {
     "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
     "dia": "31/08",
     "desde": "16:36",
     "ts": 1788204967292
-   },
-   {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
-    "dia": "31/08",
-    "desde": "11:07",
-    "ts": 1788185273961
-   },
-   {
-    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
-    "dia": "31/08",
-    "desde": "13:03",
-    "ts": 1788192214157
    },
    {
     "grupo": "S.B.D.S.F x INVICTA SERVICOS ESPECIALIZADOS EM SAUDE LTDA",
@@ -362,22 +368,10 @@
     "ts": 1788178970927
    },
    {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
-    "dia": "31/08",
-    "desde": "11:07",
-    "ts": 1788185273961
-   },
-   {
     "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
     "dia": "31/08",
     "desde": "11:08",
     "ts": 1788185314062
-   },
-   {
-    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
-    "dia": "31/08",
-    "desde": "13:03",
-    "ts": 1788192214157
    },
    {
     "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
@@ -402,6 +396,24 @@
     "dia": "31/08",
     "desde": "16:36",
     "ts": 1788204967292
+   },
+   {
+    "grupo": "C.L.M.D.O x HABIBS",
+    "dia": "31/08",
+    "desde": "16:44",
+    "ts": 1788205488118
+   },
+   {
+    "grupo": "L.T.A x POLI POSITIVO IND. COM. IMP. E EXP. LTDA EM RECUPERACAO JUDICIAL",
+    "dia": "31/08",
+    "desde": "17:12",
+    "ts": 1788207144222
+   },
+   {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "31/08",
+    "desde": "17:27",
+    "ts": 1788208033336
    }
   ]
  },
@@ -488,19 +500,52 @@
   ]
  },
  "agora": {
-  "fila": 283,
-  "abertos": 455,
-  "com_atendimento": 6,
-  "online": 4,
+  "fila": 285,
+  "abertos": 459,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 7543
+  "ausentes": 1,
+  "espera_media_s": 7486
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-31T02:35:10.367Z",
-  "min_sem_lead": 1060
+  "ultimo_lead_at": "2026-08-31T20:29:50.869Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "553899354320",
+   "tel": "5538*****320",
+   "criado": "17:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "vó do  Pietro 🩵😍",
+   "tel": "5527*****888",
+   "criado": "17:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "557999912959",
+   "tel": "5579*****959",
+   "criado": "17:26",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4HImRLynl",
+   "area": "Trabalhista"
+  },
   {
    "nome": "559292234232",
    "tel": "5592*****232",
