@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/08/2026, 19:33",
+ "gerado_em": "31/08/2026, 19:48",
  "data_ref": "31/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 45,
+  "total": 46,
   "no_sla": 34,
   "fora_sla": 1,
   "sem_resposta": 2,
-  "fora_horario": 7,
+  "fora_horario": 8,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 282,
-  "tickets_abertos": 455,
+  "leads_7d": 283,
+  "tickets_abertos": 456,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 41,
+   "leads": 42,
    "mediana_min": 0.4
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 38,
-  "Direto/Indicacao": 7
+  "Direto/Indicacao": 8
  },
  "criativos": [
   {
@@ -65,9 +65,9 @@
   }
  ],
  "areas": {
+  "Nao identificada": 13,
   "Trabalhista": 31,
-  "Previdenciario": 2,
-  "Nao identificada": 12
+  "Previdenciario": 2
  },
  "sem_resposta_lista": [
   {
@@ -440,19 +440,30 @@
   ]
  },
  "agora": {
-  "fila": 289,
-  "abertos": 455,
+  "fila": 290,
+  "abertos": 456,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 7429
+  "espera_media_s": 7411
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-19T19:30:03.638Z",
-  "min_sem_lead": 149943
+  "ultimo_lead_at": "2026-08-25T13:51:31.071Z",
+  "min_sem_lead": 9177
  },
  "leads": [
+  {
+   "nome": "Marumbé",
+   "tel": "5524*****948",
+   "criado": "19:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "553484099123",
    "tel": "5534*****123",
