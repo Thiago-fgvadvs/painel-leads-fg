@@ -1,5 +1,5 @@
 {
- "gerado_em": "31/08/2026, 17:10",
+ "gerado_em": "31/08/2026, 17:15",
  "data_ref": "31/08/2026",
  "sla_min": 15,
  "kpi": {
@@ -95,15 +95,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 237,
-  "turnos": 819,
-  "respondidos": 802,
-  "sem_resposta": 17,
-  "sem_resposta_grupos": 17,
-  "mediana_min": 2.9,
+  "turnos": 820,
+  "respondidos": 804,
+  "sem_resposta": 16,
+  "sem_resposta_grupos": 16,
+  "mediana_min": 3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 540,
+    "respostas": 541,
     "mediana_min": 2.4
    },
    {
@@ -143,17 +143,11 @@
    },
    {
     "nome": "—",
-    "respostas": 1,
-    "mediana_min": 168.9
+    "respostas": 2,
+    "mediana_min": 188.4
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "J.M.D.S x CIRURGICA FERNANDES COM. DE MATERIAIS CIRURGICOS E HOSPITALARES - SOC. LTDA.",
-    "dia": "31/08",
-    "desde": "16:46",
-    "ts": 1788205596117
-   },
    {
     "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
     "dia": "31/08",
@@ -408,12 +402,6 @@
     "dia": "31/08",
     "desde": "16:36",
     "ts": 1788204967292
-   },
-   {
-    "grupo": "J.M.D.S x CIRURGICA FERNANDES COM. DE MATERIAIS CIRURGICOS E HOSPITALARES - SOC. LTDA.",
-    "dia": "31/08",
-    "desde": "16:46",
-    "ts": 1788205596117
    }
   ]
  },
@@ -500,17 +488,17 @@
   ]
  },
  "agora": {
-  "fila": 282,
+  "fila": 283,
   "abertos": 455,
-  "com_atendimento": 7,
+  "com_atendimento": 6,
   "online": 4,
   "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 7562
+  "espera_media_s": 7543
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-30T20:10:33.342Z",
-  "min_sem_lead": 1440
+  "ultimo_lead_at": "2026-08-31T02:35:10.367Z",
+  "min_sem_lead": 1060
  },
  "leads": [
   {
