@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/08/2026, 17:30",
+ "gerado_em": "31/08/2026, 17:45",
  "data_ref": "31/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 42,
-  "no_sla": 31,
+  "total": 43,
+  "no_sla": 32,
   "fora_sla": 1,
   "sem_resposta": 2,
   "fora_horario": 7,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 279,
-  "tickets_abertos": 459,
+  "leads_7d": 280,
+  "tickets_abertos": 457,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 38,
+   "leads": 39,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 35,
+  "Anuncio": 36,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 28,
+  "Trabalhista": 29,
   "Previdenciario": 2,
   "Nao identificada": 12
  },
@@ -95,21 +95,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 239,
-  "turnos": 830,
-  "respondidos": 813,
-  "sem_resposta": 17,
-  "sem_resposta_grupos": 17,
+  "turnos": 834,
+  "respondidos": 821,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
   "mediana_min": 3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 546,
+    "respostas": 549,
     "mediana_min": 2.4
    },
    {
     "nome": "Nicolas",
-    "respostas": 116,
-    "mediana_min": 12.4
+    "respostas": 121,
+    "mediana_min": 13
    },
    {
     "nome": "Gabrielle",
@@ -151,14 +151,8 @@
    {
     "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
     "dia": "31/08",
-    "desde": "17:27",
-    "ts": 1788208033336
-   },
-   {
-    "grupo": "L.T.A x POLI POSITIVO IND. COM. IMP. E EXP. LTDA EM RECUPERACAO JUDICIAL",
-    "dia": "31/08",
-    "desde": "17:12",
-    "ts": 1788207144222
+    "desde": "17:41",
+    "ts": 1788208914162
    },
    {
     "grupo": "C.L.M.D.O x HABIBS",
@@ -179,12 +173,6 @@
     "ts": 1788196274105
    },
    {
-    "grupo": "P.L",
-    "dia": "31/08",
-    "desde": "13:39",
-    "ts": 1788194392997
-   },
-   {
     "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
     "dia": "31/08",
     "desde": "13:23",
@@ -203,22 +191,10 @@
     "ts": 1787949513399
    },
    {
-    "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
-    "dia": "31/08",
-    "desde": "11:08",
-    "ts": 1788185314062
-   },
-   {
     "grupo": "A.B.D.O x AGIL PRESTADORA DE SERVICOS ADMINISTRATIVOS LTDA",
     "dia": "27/08",
     "desde": "09:29",
     "ts": 1787833778733
-   },
-   {
-    "grupo": "H.F.V x LOFTY STYLE COMERCIAL LTDA",
-    "dia": "31/08",
-    "desde": "09:22",
-    "ts": 1788178970927
    },
    {
     "grupo": "D.M.S.D.A",
@@ -362,28 +338,10 @@
     "ts": 1788176063756
    },
    {
-    "grupo": "H.F.V x LOFTY STYLE COMERCIAL LTDA",
-    "dia": "31/08",
-    "desde": "09:22",
-    "ts": 1788178970927
-   },
-   {
-    "grupo": "E.N.D.S x TRINO FRIO ARMAZENS GERAIS LTDA",
-    "dia": "31/08",
-    "desde": "11:08",
-    "ts": 1788185314062
-   },
-   {
     "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
     "dia": "31/08",
     "desde": "13:23",
     "ts": 1788193438166
-   },
-   {
-    "grupo": "P.L",
-    "dia": "31/08",
-    "desde": "13:39",
-    "ts": 1788194392997
    },
    {
     "grupo": "S.B.D.S.F x INVICTA SERVICOS ESPECIALIZADOS EM SAUDE LTDA",
@@ -404,16 +362,10 @@
     "ts": 1788205488118
    },
    {
-    "grupo": "L.T.A x POLI POSITIVO IND. COM. IMP. E EXP. LTDA EM RECUPERACAO JUDICIAL",
-    "dia": "31/08",
-    "desde": "17:12",
-    "ts": 1788207144222
-   },
-   {
     "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
     "dia": "31/08",
-    "desde": "17:27",
-    "ts": 1788208033336
+    "desde": "17:41",
+    "ts": 1788208914162
    }
   ]
  },
@@ -500,21 +452,32 @@
   ]
  },
  "agora": {
-  "fila": 285,
-  "abertos": 459,
+  "fila": 284,
+  "abertos": 457,
   "com_atendimento": 7,
   "online": 5,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 7486
+  "espera_media_s": 7449
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-31T20:29:50.869Z",
-  "min_sem_lead": 1
+  "min_sem_lead": 16
  },
  "leads": [
   {
-   "nome": "553899354320",
+   "nome": "vó do  Pietro 🩵😍",
+   "tel": "5527*****888",
+   "criado": "17:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Aldes",
    "tel": "5538*****320",
    "criado": "17:29",
    "atendente": "FG Advogados - Isadora ",
@@ -525,14 +488,36 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "vó do  Pietro 🩵😍",
-   "tel": "5527*****888",
-   "criado": "17:20",
+   "nome": "Victor Glaucio 😍🥰",
+   "tel": "5592*****232",
+   "criado": "17:08",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5521984177554",
+   "tel": "5521*****554",
+   "criado": "17:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "MESSIAS",
+   "tel": "5548*****634",
+   "criado": "10:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
    "area": "Trabalhista"
   },
   {
@@ -547,17 +532,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "559292234232",
-   "tel": "5592*****232",
-   "criado": "17:08",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Maria Eduarda",
    "tel": "5511*****788",
    "criado": "15:52",
@@ -566,17 +540,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "MESSIAS",
-   "tel": "5548*****634",
-   "criado": "10:41",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
    "area": "Trabalhista"
   },
   {
