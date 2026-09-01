@@ -1,5 +1,5 @@
 {
- "gerado_em": "01/09/2026, 09:49",
+ "gerado_em": "01/09/2026, 10:04",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -67,22 +67,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 208,
-  "turnos": 648,
-  "respondidos": 640,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "grupos_ativos": 210,
+  "turnos": 653,
+  "respondidos": 644,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 3.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 385,
+    "respostas": 388,
     "mediana_min": 2.7
    },
    {
     "nome": "Nicolas",
-    "respostas": 107,
-    "mediana_min": 19.3
+    "respostas": 108,
+    "mediana_min": 20.1
    },
    {
     "nome": "Gabrielle",
@@ -121,6 +121,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "dia": "01/09",
+    "desde": "09:30",
+    "ts": 1788265812827
+   },
    {
     "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
     "dia": "01/09",
@@ -279,6 +285,12 @@
     "dia": "01/09",
     "desde": "09:20",
     "ts": 1788265240808
+   },
+   {
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "dia": "01/09",
+    "desde": "09:30",
+    "ts": 1788265812827
    }
   ]
  },
@@ -356,17 +368,17 @@
   ]
  },
  "agora": {
-  "fila": 320,
+  "fila": 319,
   "abertos": 488,
-  "com_atendimento": 7,
+  "com_atendimento": 6,
   "online": 4,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 7137
+  "espera_media_s": 7025
  },
  "captacao": {
-  "ultimo_lead_at": "2025-11-03T12:28:59.280Z",
-  "min_sem_lead": 434900
+  "ultimo_lead_at": "2026-09-01T12:45:44.409Z",
+  "min_sem_lead": 19
  },
  "leads": [
   {
