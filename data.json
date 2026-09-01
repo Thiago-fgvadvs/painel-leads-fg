@@ -1,31 +1,35 @@
 {
- "gerado_em": "01/09/2026, 07:54",
+ "gerado_em": "01/09/2026, 08:11",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
+  "total": 7,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 5,
+  "fora_horario": 6,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 259,
-  "tickets_abertos": 473,
+  "leads_7d": 261,
+  "tickets_abertos": 475,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
+   "leads": 6,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/83JH6uera",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
    "leads": 1
@@ -48,7 +52,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
+  "Trabalhista": 5,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -223,6 +227,13 @@
     "dia": "31/08",
     "desde": "12:39",
     "ts": 1788190754908
+   },
+   {
+    "nome": "Edmilson e Lindalva",
+    "tel": "5581*****325",
+    "dia": "01/09",
+    "desde": "08:11",
+    "ts": 1788261091756
    }
   ],
   "grupos": [
@@ -356,19 +367,30 @@
   ]
  },
  "agora": {
-  "fila": 307,
-  "abertos": 473,
+  "fila": 309,
+  "abertos": 475,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 7192
+  "espera_media_s": 7175
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-01T00:23:37.831Z",
-  "min_sem_lead": 631
+  "ultimo_lead_at": "2026-09-01T11:11:31.756Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "Rafael",
+   "tel": "5516*****734",
+   "criado": "07:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/83JH6uera",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Paulo Alves",
    "tel": "5511*****315",
