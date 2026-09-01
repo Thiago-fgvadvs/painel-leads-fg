@@ -1,31 +1,35 @@
 {
- "gerado_em": "01/09/2026, 10:20",
+ "gerado_em": "01/09/2026, 10:35",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
-  "no_sla": 8,
+  "total": 17,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 268,
-  "tickets_abertos": 489,
+  "mediana_geral": 0.4,
+  "leads_7d": 270,
+  "tickets_abertos": 492,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 14,
-   "mediana_min": 0.5
+   "leads": 16,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 15,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW5LEMrD9/",
+   "leads": 2
+  },
   {
    "url": "fb.me/505ajP5YC",
    "leads": 2
@@ -35,8 +39,12 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmW5LEMrD9/",
-   "leads": 2
+   "url": "fb.me/9Kji7hTqb",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/6iqu6ElNG",
+   "leads": 1
   },
   {
    "url": "fb.me/8hmN3IbSF",
@@ -49,29 +57,21 @@
   {
    "url": "www.instagram.com/p/DcmSW3Ashly/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/83JH6uera",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/4HImRLynl",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 6,
-  "Trabalhista": 9
+  "Trabalhista": 10,
+  "Nao identificada": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 211,
-  "turnos": 654,
+  "grupos_ativos": 212,
+  "turnos": 655,
   "respondidos": 645,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 3.7,
   "atendentes": [
    {
@@ -121,6 +121,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.O.D.S x HOTEL TROPICAL LTDA",
+    "dia": "01/09",
+    "desde": "10:28",
+    "ts": 1788269324959
+   },
    {
     "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
     "dia": "01/09",
@@ -291,6 +297,12 @@
     "dia": "01/09",
     "desde": "09:30",
     "ts": 1788265812827
+   },
+   {
+    "grupo": "M.O.D.S x HOTEL TROPICAL LTDA",
+    "dia": "01/09",
+    "desde": "10:28",
+    "ts": 1788269324959
    }
   ]
  },
@@ -368,19 +380,52 @@
   ]
  },
  "agora": {
-  "fila": 319,
-  "abertos": 489,
+  "fila": 320,
+  "abertos": 492,
   "com_atendimento": 6,
-  "online": 1,
-  "offline": 2,
-  "ausentes": 5,
-  "espera_media_s": 7008
+  "online": 3,
+  "offline": 3,
+  "ausentes": 2,
+  "espera_media_s": 6881
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-01T12:45:55.826Z",
-  "min_sem_lead": 34
+  "ultimo_lead_at": "2025-11-03T12:28:59.280Z",
+  "min_sem_lead": 434946
  },
  "leads": [
+  {
+   "nome": "557591219437",
+   "tel": "5575*****437",
+   "criado": "09:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": ".",
+   "tel": "5519*****286",
+   "criado": "10:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Kji7hTqb",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5521995117367",
+   "tel": "5521*****367",
+   "criado": "10:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6iqu6ElNG",
+   "area": "Nao identificada"
+  },
   {
    "nome": "VAL",
    "tel": "5571*****762",
@@ -413,17 +458,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/6hFKXqtBv",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "557591219437",
-   "tel": "5575*****437",
-   "criado": "09:29",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Marta Silva",
