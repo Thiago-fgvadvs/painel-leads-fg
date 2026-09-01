@@ -1,5 +1,5 @@
 {
- "gerado_em": "01/09/2026, 11:21",
+ "gerado_em": "01/09/2026, 11:36",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 273,
-  "tickets_abertos": 492,
+  "tickets_abertos": 497,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -67,11 +67,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 213,
-  "turnos": 667,
-  "respondidos": 657,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "grupos_ativos": 215,
+  "turnos": 677,
+  "respondidos": 664,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
   "mediana_min": 3.9,
   "atendentes": [
    {
@@ -81,8 +81,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 112,
-    "mediana_min": 23.8
+    "respostas": 119,
+    "mediana_min": 20.8
    },
    {
     "nome": "Gabrielle",
@@ -121,6 +121,24 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "C.M.D.S.A.B x EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
+    "dia": "01/09",
+    "desde": "11:29",
+    "ts": 1788272989154
+   },
+   {
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "dia": "01/09",
+    "desde": "11:27",
+    "ts": 1788272832144
+   },
+   {
+    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
+    "dia": "01/09",
+    "desde": "11:24",
+    "ts": 1788272684133
+   },
    {
     "grupo": "M.V.R.D.S x SP1 COMERCIO DE ALIMENTOS LTDA",
     "dia": "31/08",
@@ -303,6 +321,24 @@
     "dia": "01/09",
     "desde": "10:28",
     "ts": 1788269324959
+   },
+   {
+    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
+    "dia": "01/09",
+    "desde": "11:24",
+    "ts": 1788272684133
+   },
+   {
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "dia": "01/09",
+    "desde": "11:27",
+    "ts": 1788272832144
+   },
+   {
+    "grupo": "C.M.D.S.A.B x EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
+    "dia": "01/09",
+    "desde": "11:29",
+    "ts": 1788272989154
    }
   ]
  },
@@ -380,17 +416,17 @@
   ]
  },
  "agora": {
-  "fila": 317,
-  "abertos": 492,
+  "fila": 318,
+  "abertos": 497,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 5,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 6784
+  "ausentes": 0,
+  "espera_media_s": 6768
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-04T17:11:20.220Z",
-  "min_sem_lead": 40150
+  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
+  "min_sem_lead": 51962
  },
  "leads": [
   {
@@ -460,7 +496,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5521995117367",
+   "nome": "HONDONDO NDO",
    "tel": "5521*****367",
    "criado": "10:21",
    "atendente": "FG Advogados - Isadora ",
