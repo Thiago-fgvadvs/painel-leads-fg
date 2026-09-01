@@ -1,5 +1,5 @@
 {
- "gerado_em": "01/09/2026, 18:14",
+ "gerado_em": "01/09/2026, 18:29",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 276,
-  "tickets_abertos": 500,
+  "tickets_abertos": 499,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,10 +68,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 692,
+  "turnos": 691,
   "respondidos": 679,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
   "mediana_min": 4.1,
   "atendentes": [
    {
@@ -121,12 +121,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
-    "dia": "01/09",
-    "desde": "12:55",
-    "ts": 1788278121359
-   },
    {
     "grupo": "N.T.D.S.L x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "01/09",
@@ -333,12 +327,6 @@
     "dia": "01/09",
     "desde": "12:21",
     "ts": 1788276114264
-   },
-   {
-    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
-    "dia": "01/09",
-    "desde": "12:55",
-    "ts": 1788278121359
    }
   ]
  },
@@ -417,16 +405,16 @@
  },
  "agora": {
   "fila": 322,
-  "abertos": 500,
+  "abertos": 499,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 3,
   "offline": 5,
-  "ausentes": 1,
-  "espera_media_s": 6706
+  "ausentes": 0,
+  "espera_media_s": 6721
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-01T15:53:35.490Z",
-  "min_sem_lead": 321
+  "min_sem_lead": 336
  },
  "leads": [
   {
