@@ -1,23 +1,23 @@
 {
- "gerado_em": "31/08/2026, 21:20",
+ "gerado_em": "31/08/2026, 21:35",
  "data_ref": "31/08/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 47,
+  "total": 49,
   "no_sla": 34,
   "fora_sla": 1,
   "sem_resposta": 2,
-  "fora_horario": 9,
+  "fora_horario": 11,
   "pct_sla": 97,
   "mediana_geral": 0.4,
-  "leads_7d": 284,
-  "tickets_abertos": 457,
+  "leads_7d": 286,
+  "tickets_abertos": 459,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 43,
+   "leads": 45,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 38,
+  "Anuncio": 40,
   "Direto/Indicacao": 9
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "fb.me/87PZSDuwc",
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 14,
-  "Trabalhista": 31,
+  "Trabalhista": 32,
+  "Nao identificada": 15,
   "Previdenciario": 2
  },
  "sem_resposta_lista": [
@@ -440,19 +440,41 @@
   ]
  },
  "agora": {
-  "fila": 291,
-  "abertos": 457,
+  "fila": 293,
+  "abertos": 459,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 7392
+  "espera_media_s": 7356
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-17T22:30:39.514Z",
-  "min_sem_lead": 64909
+  "ultimo_lead_at": "2026-09-01T00:23:37.831Z",
+  "min_sem_lead": 12
  },
  "leads": [
+  {
+   "nome": "554797864554",
+   "tel": "5547*****554",
+   "criado": "21:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558894126317",
+   "tel": "5588*****317",
+   "criado": "21:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7NcxNjdl9",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Mauricio.sousa.silva",
    "tel": "5589*****801",
