@@ -1,31 +1,35 @@
 {
- "gerado_em": "01/09/2026, 09:22",
+ "gerado_em": "01/09/2026, 09:34",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 4,
+  "total": 12,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 264,
-  "tickets_abertos": 483,
+  "leads_7d": 265,
+  "tickets_abertos": 484,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW5LEMrD9/",
+   "leads": 2
+  },
   {
    "url": "fb.me/8hmN3IbSF",
    "leads": 1
@@ -47,10 +51,6 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmW5LEMrD9/",
-   "leads": 1
-  },
-  {
    "url": "fb.me/505ajP5YC",
    "leads": 1
   },
@@ -60,23 +60,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 8,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 207,
-  "turnos": 641,
-  "respondidos": 632,
+  "grupos_ativos": 208,
+  "turnos": 644,
+  "respondidos": 635,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 3.5,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 380,
+    "respostas": 382,
     "mediana_min": 2.6
    },
    {
@@ -90,14 +90,14 @@
     "mediana_min": 1
    },
    {
+    "nome": "Luisa",
+    "respostas": 28,
+    "mediana_min": 0.8
+   },
+   {
     "nome": "FG Advogados - Isadora ",
     "respostas": 27,
     "mediana_min": 911.3
-   },
-   {
-    "nome": "Luisa",
-    "respostas": 27,
-    "mediana_min": 0.7
    },
    {
     "nome": "Eduardo",
@@ -122,16 +122,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
+    "dia": "01/09",
+    "desde": "09:22",
+    "ts": 1788265326809
+   },
+   {
     "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
     "dia": "01/09",
     "desde": "09:20",
     "ts": 1788265240808
-   },
-   {
-    "grupo": "V.H.D.J.C x PRESTAR SERVICE SERVICOS LTDA",
-    "dia": "01/09",
-    "desde": "09:11",
-    "ts": 1788264672800
    },
    {
     "grupo": "O.R.S.V x IVIX EMPREENDIMENTOS LTDA",
@@ -281,16 +281,16 @@
     "ts": 1788211756314
    },
    {
-    "grupo": "V.H.D.J.C x PRESTAR SERVICE SERVICOS LTDA",
-    "dia": "01/09",
-    "desde": "09:11",
-    "ts": 1788264672800
-   },
-   {
     "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
     "dia": "01/09",
     "desde": "09:20",
     "ts": 1788265240808
+   },
+   {
+    "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
+    "dia": "01/09",
+    "desde": "09:22",
+    "ts": 1788265326809
    }
   ]
  },
@@ -368,19 +368,30 @@
   ]
  },
  "agora": {
-  "fila": 316,
-  "abertos": 483,
+  "fila": 317,
+  "abertos": 484,
   "com_atendimento": 7,
-  "online": 1,
-  "offline": 5,
+  "online": 3,
+  "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 7091
+  "espera_media_s": 7074
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:46.792Z",
-  "min_sem_lead": 492119
+  "ultimo_lead_at": "2026-08-30T20:06:12.803Z",
+  "min_sem_lead": 2428
  },
  "leads": [
+  {
+   "nome": "557591219437",
+   "tel": "5575*****437",
+   "criado": "09:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Marta Silva",
    "tel": "5521*****598",
