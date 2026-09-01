@@ -1,28 +1,28 @@
 {
- "gerado_em": "01/09/2026, 12:53",
+ "gerado_em": "01/09/2026, 13:08",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
-  "no_sla": 14,
+  "total": 23,
+  "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 275,
-  "tickets_abertos": 499,
+  "leads_7d": 276,
+  "tickets_abertos": 500,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -47,20 +47,20 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcmXO3UsfDj/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/7hauv2e0K",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmU5iVsNpO/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9Kji7hTqb",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 13,
+  "Trabalhista": 14,
   "Nao identificada": 9
  },
  "sem_resposta_lista": [],
@@ -68,10 +68,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 691,
+  "turnos": 692,
   "respondidos": 679,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
   "mediana_min": 4.1,
   "atendentes": [
    {
@@ -121,6 +121,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
+    "dia": "01/09",
+    "desde": "12:55",
+    "ts": 1788278121359
+   },
    {
     "grupo": "N.T.D.S.L x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "01/09",
@@ -327,6 +333,12 @@
     "dia": "01/09",
     "desde": "12:21",
     "ts": 1788276114264
+   },
+   {
+    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
+    "dia": "01/09",
+    "desde": "12:55",
+    "ts": 1788278121359
    }
   ]
  },
@@ -404,19 +416,30 @@
   ]
  },
  "agora": {
-  "fila": 321,
-  "abertos": 499,
+  "fila": 322,
+  "abertos": 500,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 3,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 6721
+  "ausentes": 2,
+  "espera_media_s": 6706
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-29T23:17:11.105Z",
-  "min_sem_lead": 3876
+  "ultimo_lead_at": "2026-09-01T15:53:35.490Z",
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "556796132694",
+   "tel": "5567*****694",
+   "criado": "12:53",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmXO3UsfDj/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511989165817",
    "tel": "5511*****817",
