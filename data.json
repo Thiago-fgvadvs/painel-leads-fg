@@ -1,5 +1,5 @@
 {
- "gerado_em": "01/09/2026, 09:06",
+ "gerado_em": "01/09/2026, 09:22",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -68,10 +68,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 207,
-  "turnos": 639,
+  "turnos": 641,
   "respondidos": 632,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 3.5,
   "atendentes": [
    {
@@ -121,6 +121,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "01/09",
+    "desde": "09:20",
+    "ts": 1788265240808
+   },
+   {
+    "grupo": "V.H.D.J.C x PRESTAR SERVICE SERVICOS LTDA",
+    "dia": "01/09",
+    "desde": "09:11",
+    "ts": 1788264672800
+   },
    {
     "grupo": "O.R.S.V x IVIX EMPREENDIMENTOS LTDA",
     "dia": "31/08",
@@ -267,6 +279,18 @@
     "dia": "31/08",
     "desde": "18:29",
     "ts": 1788211756314
+   },
+   {
+    "grupo": "V.H.D.J.C x PRESTAR SERVICE SERVICOS LTDA",
+    "dia": "01/09",
+    "desde": "09:11",
+    "ts": 1788264672800
+   },
+   {
+    "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
+    "dia": "01/09",
+    "desde": "09:20",
+    "ts": 1788265240808
    }
   ]
  },
@@ -347,14 +371,14 @@
   "fila": 316,
   "abertos": 483,
   "com_atendimento": 7,
-  "online": 3,
+  "online": 1,
   "offline": 5,
-  "ausentes": 0,
+  "ausentes": 2,
   "espera_media_s": 7091
  },
  "captacao": {
   "ultimo_lead_at": "2025-09-24T18:22:46.792Z",
-  "min_sem_lead": 492104
+  "min_sem_lead": 492119
  },
  "leads": [
   {
