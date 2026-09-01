@@ -1,5 +1,5 @@
 {
- "gerado_em": "01/09/2026, 12:07",
+ "gerado_em": "01/09/2026, 12:22",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 273,
-  "tickets_abertos": 496,
+  "tickets_abertos": 500,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,16 +68,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 216,
-  "turnos": 682,
-  "respondidos": 670,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
+  "turnos": 688,
+  "respondidos": 675,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
   "mediana_min": 3.9,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 397,
-    "mediana_min": 2.7
+    "respostas": 400,
+    "mediana_min": 2.8
    },
    {
     "nome": "Nicolas",
@@ -90,14 +90,14 @@
     "mediana_min": 1
    },
    {
+    "nome": "FG Advogados - Isadora ",
+    "respostas": 30,
+    "mediana_min": 914.8
+   },
+   {
     "nome": "Luisa",
     "respostas": 29,
     "mediana_min": 0.8
-   },
-   {
-    "nome": "FG Advogados - Isadora ",
-    "respostas": 28,
-    "mediana_min": 908.9
    },
    {
     "nome": "Eduardo",
@@ -121,6 +121,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "N.T.D.S.L x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "01/09",
+    "desde": "12:21",
+    "ts": 1788276114264
+   },
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
     "dia": "01/09",
@@ -327,6 +333,12 @@
     "dia": "01/09",
     "desde": "11:27",
     "ts": 1788272832144
+   },
+   {
+    "grupo": "N.T.D.S.L x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "01/09",
+    "desde": "12:21",
+    "ts": 1788276114264
    }
   ]
  },
@@ -404,17 +416,17 @@
   ]
  },
  "agora": {
-  "fila": 319,
-  "abertos": 496,
-  "com_atendimento": 6,
+  "fila": 320,
+  "abertos": 500,
+  "com_atendimento": 7,
   "online": 4,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 6752
+  "espera_media_s": 6721
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T21:18:44.134Z",
-  "min_sem_lead": 18348
+  "ultimo_lead_at": "2026-08-23T16:39:24.717Z",
+  "min_sem_lead": 12883
  },
  "leads": [
   {
