@@ -1,5 +1,5 @@
 {
- "gerado_em": "01/09/2026, 10:50",
+ "gerado_em": "01/09/2026, 11:05",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 272,
-  "tickets_abertos": 492,
+  "tickets_abertos": 490,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,16 +68,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 212,
-  "turnos": 659,
-  "respondidos": 647,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
+  "turnos": 663,
+  "respondidos": 649,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
   "mediana_min": 3.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 391,
-    "mediana_min": 2.7
+    "respostas": 392,
+    "mediana_min": 2.8
    },
    {
     "nome": "Nicolas",
@@ -106,8 +106,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 13,
-    "mediana_min": 5.6
+    "respostas": 14,
+    "mediana_min": 5.2
    },
    {
     "nome": "Tiago Bernardo",
@@ -121,6 +121,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
+    "dia": "01/09",
+    "desde": "11:03",
+    "ts": 1788271397089
+   },
+   {
+    "grupo": "W.M.D.O x SENDAS",
+    "dia": "01/09",
+    "desde": "10:55",
+    "ts": 1788270930074
+   },
    {
     "grupo": "M.S.D.C x CENCOSUD BRASIL COMERCIAL LTDA",
     "dia": "01/09",
@@ -327,6 +339,18 @@
     "dia": "01/09",
     "desde": "10:46",
     "ts": 1788270387028
+   },
+   {
+    "grupo": "W.M.D.O x SENDAS",
+    "dia": "01/09",
+    "desde": "10:55",
+    "ts": 1788270930074
+   },
+   {
+    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
+    "dia": "01/09",
+    "desde": "11:03",
+    "ts": 1788271397089
    }
   ]
  },
@@ -404,17 +428,17 @@
   ]
  },
  "agora": {
-  "fila": 320,
-  "abertos": 492,
+  "fila": 318,
+  "abertos": 490,
   "com_atendimento": 6,
-  "online": 3,
-  "offline": 3,
+  "online": 2,
+  "offline": 4,
   "ausentes": 2,
-  "espera_media_s": 6881
+  "espera_media_s": 6815
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-01T13:45:53.035Z",
-  "min_sem_lead": 5
+  "min_sem_lead": 20
  },
  "leads": [
   {
@@ -572,7 +596,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "558591585049",
+   "nome": "silvafranciscocarlosnasci",
    "tel": "5585*****049",
    "criado": "05:07",
    "atendente": "FG Advogados - Isadora ",
