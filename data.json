@@ -1,5 +1,5 @@
 {
- "gerado_em": "01/09/2026, 10:04",
+ "gerado_em": "01/09/2026, 10:20",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 268,
-  "tickets_abertos": 488,
+  "tickets_abertos": 489,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,23 +60,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 9,
-  "Nao identificada": 6
+  "Nao identificada": 6,
+  "Trabalhista": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 210,
-  "turnos": 653,
-  "respondidos": 644,
+  "grupos_ativos": 211,
+  "turnos": 654,
+  "respondidos": 645,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
   "mediana_min": 3.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 388,
+    "respostas": 389,
     "mediana_min": 2.7
    },
    {
@@ -369,29 +369,18 @@
  },
  "agora": {
   "fila": 319,
-  "abertos": 488,
+  "abertos": 489,
   "com_atendimento": 6,
-  "online": 4,
-  "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 7025
+  "online": 1,
+  "offline": 2,
+  "ausentes": 5,
+  "espera_media_s": 7008
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-01T12:45:44.409Z",
-  "min_sem_lead": 19
+  "ultimo_lead_at": "2026-09-01T12:45:55.826Z",
+  "min_sem_lead": 34
  },
  "leads": [
-  {
-   "nome": "5517992426326",
-   "tel": "5517*****326",
-   "criado": "09:45",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/505ajP5YC",
-   "area": "Trabalhista"
-  },
   {
    "nome": "VAL",
    "tel": "5571*****762",
@@ -402,6 +391,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "5517992426326",
+   "tel": "5517*****326",
+   "criado": "09:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
   },
   {
    "nome": "553284761335",
