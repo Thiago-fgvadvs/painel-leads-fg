@@ -1,5 +1,5 @@
 {
- "gerado_em": "01/09/2026, 12:37",
+ "gerado_em": "01/09/2026, 12:53",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 275,
-  "tickets_abertos": 500,
+  "tickets_abertos": 499,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,15 +68,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 690,
-  "respondidos": 677,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
-  "mediana_min": 4,
+  "turnos": 691,
+  "respondidos": 679,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
+  "mediana_min": 4.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 402,
+    "respostas": 403,
     "mediana_min": 2.8
    },
    {
@@ -106,8 +106,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 15,
-    "mediana_min": 5.6
+    "respostas": 16,
+    "mediana_min": 6.9
    },
    {
     "nome": "Tiago Bernardo",
@@ -126,12 +126,6 @@
     "dia": "01/09",
     "desde": "12:21",
     "ts": 1788276114264
-   },
-   {
-    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
-    "dia": "01/09",
-    "desde": "11:24",
-    "ts": 1788272684133
    },
    {
     "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
@@ -323,12 +317,6 @@
     "ts": 1788269324959
    },
    {
-    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
-    "dia": "01/09",
-    "desde": "11:24",
-    "ts": 1788272684133
-   },
-   {
     "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
     "dia": "01/09",
     "desde": "11:27",
@@ -416,8 +404,8 @@
   ]
  },
  "agora": {
-  "fila": 322,
-  "abertos": 500,
+  "fila": 321,
+  "abertos": 499,
   "com_atendimento": 6,
   "online": 5,
   "offline": 3,
@@ -425,8 +413,8 @@
   "espera_media_s": 6721
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-01T15:36:23.021Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-08-29T23:17:11.105Z",
+  "min_sem_lead": 3876
  },
  "leads": [
   {
