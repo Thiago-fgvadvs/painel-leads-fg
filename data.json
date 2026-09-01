@@ -1,33 +1,37 @@
 {
- "gerado_em": "01/09/2026, 10:35",
+ "gerado_em": "01/09/2026, 10:50",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
-  "no_sla": 10,
+  "total": 19,
+  "no_sla": 12,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 270,
+  "leads_7d": 272,
   "tickets_abertos": 492,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 18,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 15,
+  "Anuncio": 17,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/83JH6uera",
    "leads": 2
   },
   {
@@ -37,6 +41,10 @@
   {
    "url": "fb.me/6hFKXqtBv",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcmU5iVsNpO/",
+   "leads": 1
   },
   {
    "url": "fb.me/9Kji7hTqb",
@@ -49,18 +57,10 @@
   {
    "url": "fb.me/8hmN3IbSF",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4YfB6dLQ7",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmSW3Ashly/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
+  "Trabalhista": 12,
   "Nao identificada": 7
  },
  "sem_resposta_lista": [],
@@ -68,15 +68,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 212,
-  "turnos": 655,
-  "respondidos": 645,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "turnos": 659,
+  "respondidos": 647,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
   "mediana_min": 3.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 389,
+    "respostas": 391,
     "mediana_min": 2.7
    },
    {
@@ -121,6 +121,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.S.D.C x CENCOSUD BRASIL COMERCIAL LTDA",
+    "dia": "01/09",
+    "desde": "10:46",
+    "ts": 1788270387028
+   },
+   {
+    "grupo": "M.V.R.D.S x SP1 COMERCIO DE ALIMENTOS LTDA",
+    "dia": "31/08",
+    "desde": "17:54",
+    "ts": 1788209643175
+   },
    {
     "grupo": "M.O.D.S x HOTEL TROPICAL LTDA",
     "dia": "01/09",
@@ -281,6 +293,12 @@
     "ts": 1788204967292
    },
    {
+    "grupo": "M.V.R.D.S x SP1 COMERCIO DE ALIMENTOS LTDA",
+    "dia": "31/08",
+    "desde": "17:54",
+    "ts": 1788209643175
+   },
+   {
     "grupo": "O.R.S.V x IVIX EMPREENDIMENTOS LTDA",
     "dia": "31/08",
     "desde": "18:29",
@@ -303,6 +321,12 @@
     "dia": "01/09",
     "desde": "10:28",
     "ts": 1788269324959
+   },
+   {
+    "grupo": "M.S.D.C x CENCOSUD BRASIL COMERCIAL LTDA",
+    "dia": "01/09",
+    "desde": "10:46",
+    "ts": 1788270387028
    }
   ]
  },
@@ -389,12 +413,23 @@
   "espera_media_s": 6881
  },
  "captacao": {
-  "ultimo_lead_at": "2025-11-03T12:28:59.280Z",
-  "min_sem_lead": 434946
+  "ultimo_lead_at": "2026-09-01T13:45:53.035Z",
+  "min_sem_lead": 5
  },
  "leads": [
   {
-   "nome": "557591219437",
+   "nome": "558173246779",
+   "tel": "5581*****779",
+   "criado": "10:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmU5iVsNpO/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Lucineia Andrade",
    "tel": "5575*****437",
    "criado": "09:29",
    "atendente": "FG Advogados - Isadora ",
@@ -402,6 +437,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Arineia Rozeno",
+   "tel": "5521*****780",
+   "criado": "10:39",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/83JH6uera",
    "area": "Trabalhista"
   },
   {
