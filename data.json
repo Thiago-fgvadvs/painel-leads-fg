@@ -1,31 +1,39 @@
 {
- "gerado_em": "01/09/2026, 09:34",
+ "gerado_em": "01/09/2026, 09:49",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 5,
+  "total": 15,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 100,
-  "mediana_geral": 0.4,
-  "leads_7d": 265,
-  "tickets_abertos": 484,
+  "mediana_geral": 0.5,
+  "leads_7d": 268,
+  "tickets_abertos": 488,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
-   "mediana_min": 0.4
+   "leads": 14,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 11,
-  "Direto/Indicacao": 1
+  "Anuncio": 13,
+  "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "fb.me/505ajP5YC",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/6hFKXqtBv",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
    "leads": 2
@@ -43,15 +51,7 @@
    "leads": 1
   },
   {
-   "url": "fb.me/6hFKXqtBv",
-   "leads": 1
-  },
-  {
    "url": "fb.me/83JH6uera",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/505ajP5YC",
    "leads": 1
   },
   {
@@ -60,29 +60,29 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
-  "Nao identificada": 4
+  "Trabalhista": 9,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 208,
-  "turnos": 644,
-  "respondidos": 635,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 3.5,
+  "turnos": 648,
+  "respondidos": 640,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 3.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 382,
-    "mediana_min": 2.6
+    "respostas": 385,
+    "mediana_min": 2.7
    },
    {
     "nome": "Nicolas",
-    "respostas": 106,
-    "mediana_min": 18.5
+    "respostas": 107,
+    "mediana_min": 19.3
    },
    {
     "nome": "Gabrielle",
@@ -91,7 +91,7 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 28,
+    "respostas": 29,
     "mediana_min": 0.8
    },
    {
@@ -121,12 +121,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
-    "dia": "01/09",
-    "desde": "09:22",
-    "ts": 1788265326809
-   },
    {
     "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
     "dia": "01/09",
@@ -285,12 +279,6 @@
     "dia": "01/09",
     "desde": "09:20",
     "ts": 1788265240808
-   },
-   {
-    "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
-    "dia": "01/09",
-    "desde": "09:22",
-    "ts": 1788265326809
    }
   ]
  },
@@ -368,19 +356,52 @@
   ]
  },
  "agora": {
-  "fila": 317,
-  "abertos": 484,
+  "fila": 320,
+  "abertos": 488,
   "com_atendimento": 7,
-  "online": 3,
+  "online": 4,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 7074
+  "ausentes": 1,
+  "espera_media_s": 7137
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-30T20:06:12.803Z",
-  "min_sem_lead": 2428
+  "ultimo_lead_at": "2025-11-03T12:28:59.280Z",
+  "min_sem_lead": 434900
  },
  "leads": [
+  {
+   "nome": "5517992426326",
+   "tel": "5517*****326",
+   "criado": "09:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "VAL",
+   "tel": "5571*****762",
+   "criado": "09:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553284761335",
+   "tel": "5532*****335",
+   "criado": "09:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6hFKXqtBv",
+   "area": "Nao identificada"
+  },
   {
    "nome": "557591219437",
    "tel": "5575*****437",
