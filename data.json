@@ -1,31 +1,43 @@
 {
- "gerado_em": "01/09/2026, 08:11",
+ "gerado_em": "01/09/2026, 08:27",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 0,
+  "total": 10,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 6,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 261,
-  "tickets_abertos": 475,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 263,
+  "tickets_abertos": 477,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
-   "mediana_min": null
+   "leads": 9,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 9,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/4YfB6dLQ7",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DcmSW3Ashly/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/6hFKXqtBv",
+   "leads": 1
+  },
   {
    "url": "fb.me/83JH6uera",
    "leads": 1
@@ -45,15 +57,11 @@
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 5,
-  "Nao identificada": 2
+  "Nao identificada": 4,
+  "Trabalhista": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -227,13 +235,6 @@
     "dia": "31/08",
     "desde": "12:39",
     "ts": 1788190754908
-   },
-   {
-    "nome": "Edmilson e Lindalva",
-    "tel": "5581*****325",
-    "dia": "01/09",
-    "desde": "08:11",
-    "ts": 1788261091756
    }
   ],
   "grupos": [
@@ -367,19 +368,52 @@
   ]
  },
  "agora": {
-  "fila": 309,
-  "abertos": 475,
+  "fila": 311,
+  "abertos": 477,
   "com_atendimento": 6,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 7175
+  "espera_media_s": 7124
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-01T11:11:31.756Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-09-01T11:26:10.729Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "Lieda marques",
+   "tel": "5588*****894",
+   "criado": "08:26",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4YfB6dLQ7",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553497154549",
+   "tel": "5534*****549",
+   "criado": "08:18",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmSW3Ashly/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Edmilson e Lindalva",
+   "tel": "5581*****325",
+   "criado": "08:11",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6hFKXqtBv",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Rafael",
    "tel": "5516*****734",
