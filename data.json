@@ -1,31 +1,35 @@
 {
- "gerado_em": "01/09/2026, 08:27",
+ "gerado_em": "01/09/2026, 08:45",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 3,
+  "total": 11,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 263,
-  "tickets_abertos": 477,
+  "leads_7d": 264,
+  "tickets_abertos": 479,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/8hmN3IbSF",
+   "leads": 1
+  },
   {
    "url": "fb.me/4YfB6dLQ7",
    "leads": 1
@@ -53,26 +57,22 @@
   {
    "url": "fb.me/4HImRLynl",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 6
+  "Trabalhista": 7,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 200,
-  "turnos": 632,
-  "respondidos": 623,
+  "turnos": 633,
+  "respondidos": 624,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
-  "mediana_min": 3.4,
+  "mediana_min": 3.5,
   "atendentes": [
    {
     "nome": "Julia",
@@ -91,7 +91,7 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 25,
+    "respostas": 26,
     "mediana_min": 0.7
    },
    {
@@ -368,19 +368,30 @@
   ]
  },
  "agora": {
-  "fila": 311,
-  "abertos": 477,
-  "com_atendimento": 6,
+  "fila": 312,
+  "abertos": 479,
+  "com_atendimento": 7,
   "online": 3,
   "offline": 5,
   "ausentes": 0,
-  "espera_media_s": 7124
+  "espera_media_s": 7107
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-01T11:26:10.729Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-09-01T00:23:37.831Z",
+  "min_sem_lead": 682
  },
  "leads": [
+  {
+   "nome": "Marta Silva",
+   "tel": "5521*****598",
+   "criado": "08:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8hmN3IbSF",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Lieda marques",
    "tel": "5588*****894",
