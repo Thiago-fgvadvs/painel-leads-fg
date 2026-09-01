@@ -1,31 +1,35 @@
 {
- "gerado_em": "01/09/2026, 12:22",
+ "gerado_em": "01/09/2026, 12:37",
  "data_ref": "01/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
-  "no_sla": 13,
+  "total": 22,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 273,
+  "leads_7d": 275,
   "tickets_abertos": 500,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 18,
-  "Direto/Indicacao": 2
+  "Anuncio": 19,
+  "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 2
+  },
   {
    "url": "fb.me/505ajP5YC",
    "leads": 2
@@ -53,30 +57,26 @@
   {
    "url": "fb.me/9Kji7hTqb",
    "leads": 1
-  },
-  {
-   "url": "fb.me/6iqu6ElNG",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 8,
-  "Trabalhista": 12
+  "Trabalhista": 13,
+  "Nao identificada": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 216,
-  "turnos": 688,
-  "respondidos": 675,
+  "grupos_ativos": 217,
+  "turnos": 690,
+  "respondidos": 677,
   "sem_resposta": 13,
   "sem_resposta_grupos": 13,
-  "mediana_min": 3.9,
+  "mediana_min": 4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 400,
+    "respostas": 402,
     "mediana_min": 2.8
    },
    {
@@ -416,19 +416,30 @@
   ]
  },
  "agora": {
-  "fila": 320,
+  "fila": 322,
   "abertos": 500,
-  "com_atendimento": 7,
-  "online": 4,
+  "com_atendimento": 6,
+  "online": 5,
   "offline": 3,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 6721
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-23T16:39:24.717Z",
-  "min_sem_lead": 12883
+  "ultimo_lead_at": "2026-09-01T15:36:23.021Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "5511989165817",
+   "tel": "5511*****817",
+   "criado": "12:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Nathan",
    "tel": "5561*****643",
@@ -642,6 +653,17 @@
    "nome": "556293263377",
    "tel": "5562*****377",
    "criado": "01:14",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553584086639",
+   "tel": "5535*****639",
+   "criado": "12:32",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
