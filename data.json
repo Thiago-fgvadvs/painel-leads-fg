@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/09/2026, 17:35",
+ "gerado_em": "02/09/2026, 17:51",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 68,
   "mediana_geral": 0.5,
   "leads_7d": 261,
-  "tickets_abertos": 482,
+  "tickets_abertos": 481,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -45,11 +45,11 @@
    "leads": 4
   },
   {
-   "url": "www.instagram.com/p/DcmVxvcsgHO/",
+   "url": "fb.me/7I61m723H",
    "leads": 2
   },
   {
-   "url": "fb.me/7I61m723H",
+   "url": "www.instagram.com/p/DcmVxvcsgHO/",
    "leads": 2
   },
   {
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 24,
-  "Nao identificada": 14
+  "Trabalhista": 25,
+  "Nao identificada": 13
  },
  "sem_resposta_lista": [
   {
@@ -95,7 +95,14 @@
  ],
  "fora_sla_lista": [
   {
-   "nome": "553591245359",
+   "nome": "553597516748",
+   "tel": "5535*****748",
+   "criado": "10:36",
+   "espera_min": 404.8,
+   "atendente": "FG Advogados - Isadora "
+  },
+  {
+   "nome": "Júlia Pinheiro",
    "tel": "5535*****359",
    "criado": "10:36",
    "espera_min": 404.8,
@@ -125,13 +132,6 @@
   {
    "nome": "5511994714041",
    "tel": "5511*****041",
-   "criado": "10:36",
-   "espera_min": 404.8,
-   "atendente": "FG Advogados - Isadora "
-  },
-  {
-   "nome": "553597516748",
-   "tel": "5535*****748",
    "criado": "10:36",
    "espera_min": 404.8,
    "atendente": "FG Advogados - Isadora "
@@ -175,11 +175,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 215,
-  "turnos": 519,
-  "respondidos": 511,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 17.3,
+  "turnos": 522,
+  "respondidos": 515,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 17.4,
   "atendentes": [
    {
     "nome": "Julia",
@@ -188,13 +188,13 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 140,
-    "mediana_min": 29
+    "respostas": 141,
+    "mediana_min": 29.1
    },
    {
     "nome": "—",
-    "respostas": 48,
-    "mediana_min": 188.4
+    "respostas": 50,
+    "mediana_min": 172.8
    },
    {
     "nome": "Luisa",
@@ -217,14 +217,14 @@
     "mediana_min": 7.2
    },
    {
+    "nome": "Eduardo",
+    "respostas": 11,
+    "mediana_min": 70.2
+   },
+   {
     "nome": "Gabrielle",
     "respostas": 11,
     "mediana_min": 4.2
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 10,
-    "mediana_min": 57.1
    }
   ],
   "sem_resposta_lista": [
@@ -251,12 +251,6 @@
     "dia": "02/09",
     "desde": "16:13",
     "ts": 1788376408658
-   },
-   {
-    "grupo": "W.M.D.O x SENDAS",
-    "dia": "02/09",
-    "desde": "14:37",
-    "ts": 1788370652369
    },
    {
     "grupo": "D.M.S.D.A",
@@ -372,12 +366,6 @@
     "ts": 1788361362962
    },
    {
-    "grupo": "W.M.D.O x SENDAS",
-    "dia": "02/09",
-    "desde": "14:37",
-    "ts": 1788370652369
-   },
-   {
     "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "02/09",
     "desde": "16:13",
@@ -486,19 +474,41 @@
   ]
  },
  "agora": {
-  "fila": 368,
-  "abertos": 482,
+  "fila": 367,
+  "abertos": 481,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 2,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 1923
+  "ausentes": 3,
+  "espera_media_s": 1927
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-02T20:30:34.550Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2026-08-29T06:51:44.159Z",
+  "min_sem_lead": 6599
  },
  "leads": [
+  {
+   "nome": "Mainha ❤❤",
+   "tel": "5511*****238",
+   "criado": "16:33",
+   "atendente": "Roseli",
+   "espera_min": 2.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553597516748",
+   "tel": "5535*****748",
+   "criado": "10:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 404.8,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7I61m723H",
+   "area": "Nao identificada"
+  },
   {
    "nome": "559284022896",
    "tel": "5592*****896",
@@ -511,18 +521,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Mainha ❤❤",
-   "tel": "5511*****238",
-   "criado": "16:33",
-   "atendente": "Roseli",
-   "espera_min": 2.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553591245359",
+   "nome": "Júlia Pinheiro",
    "tel": "5535*****359",
    "criado": "10:36",
    "atendente": "FG Advogados - Isadora ",
@@ -585,17 +584,6 @@
    "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553597516748",
-   "tel": "5535*****748",
-   "criado": "10:36",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 404.8,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7I61m723H",
    "area": "Nao identificada"
   },
   {
