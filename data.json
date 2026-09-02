@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/09/2026, 12:00",
+ "gerado_em": "02/09/2026, 12:15",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -41,16 +41,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 190,
-  "turnos": 434,
-  "respondidos": 422,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 15.7,
+  "turnos": 445,
+  "respondidos": 434,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 16.8,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 161,
-    "mediana_min": 12.5
+    "respostas": 163,
+    "mediana_min": 11.7
    },
    {
     "nome": "Nicolas",
@@ -59,22 +59,22 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 45,
-    "mediana_min": 0.8
+    "respostas": 46,
+    "mediana_min": 1
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 32,
-    "mediana_min": 1254.1
+    "respostas": 33,
+    "mediana_min": 1246.1
    },
    {
     "nome": "—",
-    "respostas": 22,
-    "mediana_min": 1982.4
+    "respostas": 28,
+    "mediana_min": 1530.8
    },
    {
     "nome": "Roseli",
-    "respostas": 18,
+    "respostas": 20,
     "mediana_min": 5.2
    },
    {
@@ -95,10 +95,28 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.H.G x INSS",
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "02/09",
-    "desde": "11:59",
-    "ts": 1788361173937
+    "desde": "11:56",
+    "ts": 1788360998924
+   },
+   {
+    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
+    "dia": "02/09",
+    "desde": "12:14",
+    "ts": 1788362079049
+   },
+   {
+    "grupo": "M.Y.N.M x AGRA AGROINDUSTRIAL DE ALIMENTOS SA",
+    "dia": "02/09",
+    "desde": "12:03",
+    "ts": 1788361385969
+   },
+   {
+    "grupo": "D.M.S.D.A",
+    "dia": "02/09",
+    "desde": "12:02",
+    "ts": 1788361362962
    },
    {
     "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
@@ -111,30 +129,6 @@
     "dia": "01/09",
     "desde": "11:48",
     "ts": 1788274110199
-   },
-   {
-    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
-    "dia": "02/09",
-    "desde": "10:58",
-    "ts": 1788357495577
-   },
-   {
-    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
-    "dia": "31/08",
-    "desde": "14:22",
-    "ts": 1788196941201
-   },
-   {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
-    "dia": "01/09",
-    "desde": "11:27",
-    "ts": 1788272832144
-   },
-   {
-    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
-    "dia": "01/09",
-    "desde": "12:55",
-    "ts": 1788278121359
    },
    {
     "grupo": "N.T.D.S.L x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
@@ -255,22 +249,10 @@
     "ts": 1788196274105
    },
    {
-    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
-    "dia": "31/08",
-    "desde": "14:22",
-    "ts": 1788196941201
-   },
-   {
     "grupo": "M.O.D.S x HOTEL TROPICAL LTDA",
     "dia": "01/09",
     "desde": "10:28",
     "ts": 1788269324959
-   },
-   {
-    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
-    "dia": "01/09",
-    "desde": "11:27",
-    "ts": 1788272832144
    },
    {
     "grupo": "V.B.D.S x E.T. PIRES, SOLUÇÕES EM CONTROLE DE ACESSO, LIMPEZA E APOIO ADM LTDA",
@@ -285,28 +267,34 @@
     "ts": 1788276114264
    },
    {
-    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
-    "dia": "01/09",
-    "desde": "12:55",
-    "ts": 1788278121359
-   },
-   {
-    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
-    "dia": "02/09",
-    "desde": "10:58",
-    "ts": 1788357495577
-   },
-   {
     "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
     "dia": "02/09",
     "desde": "11:03",
     "ts": 1788357780614
    },
    {
-    "grupo": "A.H.G x INSS",
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "02/09",
-    "desde": "11:59",
-    "ts": 1788361173937
+    "desde": "11:56",
+    "ts": 1788360998924
+   },
+   {
+    "grupo": "D.M.S.D.A",
+    "dia": "02/09",
+    "desde": "12:02",
+    "ts": 1788361362962
+   },
+   {
+    "grupo": "M.Y.N.M x AGRA AGROINDUSTRIAL DE ALIMENTOS SA",
+    "dia": "02/09",
+    "desde": "12:03",
+    "ts": 1788361385969
+   },
+   {
+    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
+    "dia": "02/09",
+    "desde": "12:14",
+    "ts": 1788362079049
    }
   ]
  },
@@ -386,15 +374,15 @@
  "agora": {
   "fila": 327,
   "abertos": 445,
-  "com_atendimento": 8,
-  "online": 5,
+  "com_atendimento": 7,
+  "online": 4,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 483
+  "ausentes": 2,
+  "espera_media_s": 497
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-17T14:28:44.132Z",
-  "min_sem_lead": 23071
+  "min_sem_lead": 23087
  },
  "leads": [
   {
