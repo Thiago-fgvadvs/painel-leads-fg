@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/09/2026, 11:07",
+ "gerado_em": "02/09/2026, 11:14",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 236,
-  "tickets_abertos": 488,
+  "tickets_abertos": 481,
   "periodo_dias": 7
  },
  "atendentes": [],
@@ -41,16 +41,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 182,
-  "turnos": 406,
-  "respondidos": 396,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
+  "turnos": 409,
+  "respondidos": 398,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
   "mediana_min": 16.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 152,
-    "mediana_min": 13.1
+    "respostas": 153,
+    "mediana_min": 13.5
    },
    {
     "nome": "Nicolas",
@@ -74,8 +74,8 @@
    },
    {
     "nome": "—",
-    "respostas": 13,
-    "mediana_min": 1491
+    "respostas": 14,
+    "mediana_min": 1244.8
    },
    {
     "nome": "Gabrielle",
@@ -95,6 +95,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "M.V.R.D.S x SP1 COMERCIO DE ALIMENTOS LTDA",
+    "dia": "31/08",
+    "desde": "17:54",
+    "ts": 1788209643175
+   },
+   {
     "grupo": "G.F.B x VENANCIO PRODUTOS FARMACEUTICOS LTDA",
     "dia": "02/09",
     "desde": "11:03",
@@ -105,6 +111,12 @@
     "dia": "02/09",
     "desde": "11:03",
     "ts": 1788357780614
+   },
+   {
+    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
+    "dia": "02/09",
+    "desde": "10:58",
+    "ts": 1788357495577
    },
    {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
@@ -123,12 +135,6 @@
     "dia": "01/09",
     "desde": "12:21",
     "ts": 1788276114264
-   },
-   {
-    "grupo": "M.V.R.D.S x SP1 COMERCIO DE ALIMENTOS LTDA",
-    "dia": "31/08",
-    "desde": "17:54",
-    "ts": 1788209643175
    },
    {
     "grupo": "M.O.D.S x HOTEL TROPICAL LTDA",
@@ -273,6 +279,12 @@
     "ts": 1788276114264
    },
    {
+    "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
+    "dia": "02/09",
+    "desde": "10:58",
+    "ts": 1788357495577
+   },
+   {
     "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
     "dia": "02/09",
     "desde": "11:03",
@@ -361,16 +373,16 @@
  },
  "agora": {
   "fila": 326,
-  "abertos": 488,
+  "abertos": 481,
   "com_atendimento": 7,
   "online": 5,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 6895
+  "espera_media_s": 6733
  },
  "captacao": {
-  "ultimo_lead_at": "2026-02-09T12:39:14.246Z",
-  "min_sem_lead": 295288
+  "ultimo_lead_at": "2026-08-05T08:49:15.387Z",
+  "min_sem_lead": 40645
  },
  "leads": [
   {
