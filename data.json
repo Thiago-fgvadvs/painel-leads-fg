@@ -1,39 +1,43 @@
 {
- "gerado_em": "02/09/2026, 13:31",
+ "gerado_em": "02/09/2026, 13:46",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 1,
+  "total": 16,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 2,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 237,
-  "tickets_abertos": 436,
+  "leads_7d": 239,
+  "tickets_abertos": 437,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 1,
+   "leads": 2,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 1,
-  "Direto/Indicacao": 13
+  "Anuncio": 2,
+  "Direto/Indicacao": 14
  },
  "criativos": [
+  {
+   "url": "fb.me/9Kji7hTqb",
+   "leads": 1
+  },
   {
    "url": "fb.me/7ZVZhwxMh",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 1,
-  "Nao identificada": 13
+  "Nao identificada": 15,
+  "Trabalhista": 1
  },
  "sem_resposta_lista": [
   {
@@ -53,20 +57,20 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 195,
-  "turnos": 475,
-  "respondidos": 467,
+  "turnos": 479,
+  "respondidos": 471,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
-  "mediana_min": 15.8,
+  "mediana_min": 16.3,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 174,
+    "respostas": 176,
     "mediana_min": 10.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 118,
+    "respostas": 120,
     "mediana_min": 26.1
    },
    {
@@ -107,22 +111,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "P.F.L.A x Bradesco",
+    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "02/09",
-    "desde": "13:13",
-    "ts": 1788365602209
+    "desde": "13:42",
+    "ts": 1788367379263
+   },
+   {
+    "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
+    "dia": "02/09",
+    "desde": "12:59",
+    "ts": 1788364789183
    },
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
     "dia": "02/09",
     "desde": "12:29",
     "ts": 1788362951094
-   },
-   {
-    "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
-    "dia": "02/09",
-    "desde": "12:48",
-    "ts": 1788364128173
    },
    {
     "grupo": "D.M.S.D.A",
@@ -261,16 +265,16 @@
     "ts": 1788362951094
    },
    {
-    "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
+    "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
     "dia": "02/09",
-    "desde": "12:48",
-    "ts": 1788364128173
+    "desde": "12:59",
+    "ts": 1788364789183
    },
    {
-    "grupo": "P.F.L.A x Bradesco",
+    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "02/09",
-    "desde": "13:13",
-    "ts": 1788365602209
+    "desde": "13:42",
+    "ts": 1788367379263
    }
   ]
  },
@@ -348,19 +352,30 @@
   ]
  },
  "agora": {
-  "fila": 329,
-  "abertos": 436,
-  "com_atendimento": 5,
-  "online": 1,
-  "offline": 4,
-  "ausentes": 3,
-  "espera_media_s": 465
+  "fila": 330,
+  "abertos": 437,
+  "com_atendimento": 6,
+  "online": 5,
+  "offline": 3,
+  "ausentes": 0,
+  "espera_media_s": 463
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T15:19:06.640Z",
-  "min_sem_lead": 31753
+  "ultimo_lead_at": "2025-09-24T18:22:50.386Z",
+  "min_sem_lead": 493824
  },
  "leads": [
+  {
+   "nome": "5511970114376",
+   "tel": "5511*****376",
+   "criado": "13:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Kji7hTqb",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Luiz Roberto Pedroso",
    "tel": "5549*****366",
@@ -390,17 +405,6 @@
    "atendente": "—",
    "espera_min": null,
    "status": "SEM_RESPOSTA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "557999049576",
-   "tel": "5579*****576",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
@@ -439,8 +443,8 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "556391186880",
-   "tel": "5563*****880",
+   "nome": "553597516748",
+   "tel": "5535*****748",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -450,8 +454,8 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5511994714041",
-   "tel": "5511*****041",
+   "nome": "556391186880",
+   "tel": "5563*****880",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -483,8 +487,19 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553597516748",
-   "tel": "5535*****748",
+   "nome": "557183145341",
+   "tel": "5571*****341",
+   "criado": "13:35",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511994714041",
+   "tel": "5511*****041",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -507,6 +522,17 @@
   {
    "nome": "557799870243",
    "tel": "5577*****243",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "557999049576",
+   "tel": "5579*****576",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
