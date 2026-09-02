@@ -1,24 +1,29 @@
 {
- "gerado_em": "02/09/2026, 16:34",
+ "gerado_em": "02/09/2026, 16:50",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 33,
-  "no_sla": 18,
+  "total": 36,
+  "no_sla": 21,
   "fora_sla": 1,
   "sem_resposta": 2,
   "fora_horario": 0,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 256,
-  "tickets_abertos": 455,
+  "leads_7d": 259,
+  "tickets_abertos": 459,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 18,
+   "leads": 19,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Roseli",
+   "leads": 2,
+   "mediana_min": 2.7
   },
   {
    "nome": "Julia",
@@ -27,8 +32,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
-  "Direto/Indicacao": 15
+  "Anuncio": 19,
+  "Direto/Indicacao": 17
  },
  "criativos": [
   {
@@ -42,6 +47,10 @@
   {
    "url": "fb.me/4YfB6dLQ7",
    "leads": 2
+  },
+  {
+   "url": "fb.me/505ajP5YC",
+   "leads": 1
   },
   {
    "url": "fb.me/4CgROu63S",
@@ -58,15 +67,11 @@
   {
    "url": "fb.me/7aicVqTF9",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4cT7G29HU",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
-  "Nao identificada": 18
+  "Trabalhista": 16,
+  "Nao identificada": 20
  },
  "sem_resposta_lista": [
   {
@@ -94,21 +99,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 199,
-  "turnos": 510,
-  "respondidos": 500,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 17.3,
+  "turnos": 515,
+  "respondidos": 506,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 17.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 178,
-    "mediana_min": 10.9
+    "respostas": 179,
+    "mediana_min": 11
    },
    {
     "nome": "Nicolas",
-    "respostas": 135,
-    "mediana_min": 29.6
+    "respostas": 140,
+    "mediana_min": 29
    },
    {
     "nome": "Luisa",
@@ -147,12 +152,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "M.D.J x JOSIMAR FRANKLIN ",
-    "dia": "02/09",
-    "desde": "16:32",
-    "ts": 1788377579710
-   },
    {
     "grupo": "F.P.D.B x INSS",
     "dia": "02/09",
@@ -330,12 +329,6 @@
     "dia": "02/09",
     "desde": "16:28",
     "ts": 1788377316697
-   },
-   {
-    "grupo": "M.D.J x JOSIMAR FRANKLIN ",
-    "dia": "02/09",
-    "desde": "16:32",
-    "ts": 1788377579710
    }
   ]
  },
@@ -422,30 +415,19 @@
   ]
  },
  "agora": {
-  "fila": 347,
-  "abertos": 455,
+  "fila": 346,
+  "abertos": 459,
   "com_atendimento": 5,
-  "online": 4,
+  "online": 3,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 446
+  "ausentes": 2,
+  "espera_media_s": 450
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T09:17:15.577Z",
-  "min_sem_lead": 13577
+  "ultimo_lead_at": "2026-08-29T06:51:44.159Z",
+  "min_sem_lead": 6538
  },
  "leads": [
-  {
-   "nome": "Laís Jakson EMS",
-   "tel": "5521*****233",
-   "criado": "13:50",
-   "atendente": "Julia",
-   "espera_min": 106.7,
-   "status": "FORA_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
   {
    "nome": "557185114934",
    "tel": "5571*****934",
@@ -455,6 +437,50 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Geraldo Torres De Almeida",
+   "tel": "5513*****227",
+   "criado": "16:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Pam IRMÃ ❤️",
+   "tel": "5511*****338",
+   "criado": "16:39",
+   "atendente": "Roseli",
+   "espera_min": 3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Mainha ❤❤",
+   "tel": "5511*****238",
+   "criado": "16:33",
+   "atendente": "Roseli",
+   "espera_min": 2.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Laís Jakson EMS",
+   "tel": "5521*****233",
+   "criado": "13:50",
+   "atendente": "Julia",
+   "espera_min": 106.7,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -667,30 +693,8 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "556391186880",
-   "tel": "5563*****880",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "557999049576",
-   "tel": "5579*****576",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5511964386466",
-   "tel": "5511*****466",
+   "nome": "553591245359",
+   "tel": "5535*****359",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -777,8 +781,19 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553591245359",
-   "tel": "5535*****359",
+   "nome": "556391186880",
+   "tel": "5563*****880",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "557999049576",
+   "tel": "5579*****576",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -790,6 +805,17 @@
   {
    "nome": "557799870243",
    "tel": "5577*****243",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511964386466",
+   "tel": "5511*****466",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
