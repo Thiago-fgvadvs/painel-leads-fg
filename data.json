@@ -1,16 +1,16 @@
 {
- "gerado_em": "02/09/2026, 15:33",
+ "gerado_em": "02/09/2026, 15:48",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 32,
+  "total": 33,
   "no_sla": 18,
-  "fora_sla": 0,
+  "fora_sla": 1,
   "sem_resposta": 2,
   "fora_horario": 0,
-  "pct_sla": 100,
+  "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 255,
+  "leads_7d": 256,
   "tickets_abertos": 458,
   "periodo_dias": 7
  },
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 18,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Julia",
+   "leads": 1,
+   "mediana_min": 106.7
   }
  ],
  "origem": {
   "Anuncio": 18,
-  "Direto/Indicacao": 14
+  "Direto/Indicacao": 15
  },
  "criativos": [
   {
@@ -60,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 14,
+  "Trabalhista": 15,
   "Nao identificada": 18
  },
  "sem_resposta_lista": [
@@ -77,25 +82,33 @@
    "area": "Nao identificada"
   }
  ],
- "fora_sla_lista": [],
+ "fora_sla_lista": [
+  {
+   "nome": "Laís Jakson EMS",
+   "tel": "5521*****233",
+   "criado": "13:50",
+   "espera_min": 106.7,
+   "atendente": "Julia"
+  }
+ ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 196,
-  "turnos": 487,
-  "respondidos": 476,
+  "grupos_ativos": 197,
+  "turnos": 492,
+  "respondidos": 481,
   "sem_resposta": 11,
   "sem_resposta_grupos": 11,
-  "mediana_min": 16.8,
+  "mediana_min": 17.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 177,
-    "mediana_min": 10.8
+    "respostas": 178,
+    "mediana_min": 10.9
    },
    {
     "nome": "Nicolas",
-    "respostas": 124,
-    "mediana_min": 26.7
+    "respostas": 127,
+    "mediana_min": 28.8
    },
    {
     "nome": "Luisa",
@@ -104,8 +117,8 @@
    },
    {
     "nome": "—",
-    "respostas": 44,
-    "mediana_min": 131.3
+    "respostas": 45,
+    "mediana_min": 121.2
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -147,12 +160,6 @@
     "ts": 1788368916319
    },
    {
-    "grupo": "R.A.D.R.M x Bradesco",
-    "dia": "02/09",
-    "desde": "14:42",
-    "ts": 1788370971371
-   },
-   {
     "grupo": "W.M.D.O x SENDAS",
     "dia": "02/09",
     "desde": "14:37",
@@ -163,6 +170,12 @@
     "dia": "02/09",
     "desde": "13:42",
     "ts": 1788367379263
+   },
+   {
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
+    "dia": "02/09",
+    "desde": "13:15",
+    "ts": 1788365751216
    },
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
@@ -307,6 +320,12 @@
     "ts": 1788362951094
    },
    {
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
+    "dia": "02/09",
+    "desde": "13:15",
+    "ts": 1788365751216
+   },
+   {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "02/09",
     "desde": "13:42",
@@ -323,12 +342,6 @@
     "dia": "02/09",
     "desde": "14:37",
     "ts": 1788370652369
-   },
-   {
-    "grupo": "R.A.D.R.M x Bradesco",
-    "dia": "02/09",
-    "desde": "14:42",
-    "ts": 1788370971371
    },
    {
     "grupo": "A.B x M DIAS BRANCO S.A. INDUSTRIA E COMERCIO DE ALIMENTOS",
@@ -412,19 +425,30 @@
   ]
  },
  "agora": {
-  "fila": 346,
+  "fila": 345,
   "abertos": 458,
-  "com_atendimento": 7,
+  "com_atendimento": 6,
   "online": 4,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 443
+  "espera_media_s": 444
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T14:28:44.132Z",
-  "min_sem_lead": 23285
+  "ultimo_lead_at": "2026-08-07T23:04:26.620Z",
+  "min_sem_lead": 37184
  },
  "leads": [
+  {
+   "nome": "Laís Jakson EMS",
+   "tel": "5521*****233",
+   "criado": "13:50",
+   "atendente": "Julia",
+   "espera_min": 106.7,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "557185114934",
    "tel": "5571*****934",
@@ -437,7 +461,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554896168745",
+   "nome": "Thais",
    "tel": "5548*****745",
    "criado": "15:22",
    "atendente": "FG Advogados - Isadora ",
@@ -646,52 +670,8 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5511994714041",
-   "tel": "5511*****041",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553597516748",
-   "tel": "5535*****748",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5511945474171",
-   "tel": "5511*****171",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "556298565214",
-   "tel": "5562*****214",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5511964386466",
-   "tel": "5511*****466",
+   "nome": "556391186880",
+   "tel": "5563*****880",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -712,8 +692,8 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "557799870243",
-   "tel": "5577*****243",
+   "nome": "5511964386466",
+   "tel": "5511*****466",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -723,8 +703,8 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "556391186880",
-   "tel": "5563*****880",
+   "nome": "556298565214",
+   "tel": "5562*****214",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -734,8 +714,52 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553591245359",
-   "tel": "5535*****359",
+   "nome": "5511945474171",
+   "tel": "5511*****171",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553597516748",
+   "tel": "5535*****748",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511994714041",
+   "tel": "5511*****041",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "559191464942",
+   "tel": "5591*****942",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5515981468843",
+   "tel": "5515*****843",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -756,8 +780,8 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5515981468843",
-   "tel": "5515*****843",
+   "nome": "553591245359",
+   "tel": "5535*****359",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -767,8 +791,8 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "559191464942",
-   "tel": "5591*****942",
+   "nome": "557799870243",
+   "tel": "5577*****243",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
