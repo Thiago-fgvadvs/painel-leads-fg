@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/09/2026, 11:44",
+ "gerado_em": "02/09/2026, 12:00",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 236,
-  "tickets_abertos": 443,
+  "tickets_abertos": 445,
   "periodo_dias": 7
  },
  "atendentes": [],
@@ -40,17 +40,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 186,
-  "turnos": 421,
-  "respondidos": 409,
+  "grupos_ativos": 190,
+  "turnos": 434,
+  "respondidos": 422,
   "sem_resposta": 12,
   "sem_resposta_grupos": 12,
-  "mediana_min": 15.8,
+  "mediana_min": 15.7,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 156,
-    "mediana_min": 12.6
+    "respostas": 161,
+    "mediana_min": 12.5
    },
    {
     "nome": "Nicolas",
@@ -59,8 +59,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 42,
-    "mediana_min": 1
+    "respostas": 45,
+    "mediana_min": 0.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -69,13 +69,13 @@
    },
    {
     "nome": "—",
-    "respostas": 18,
+    "respostas": 22,
     "mediana_min": 1982.4
    },
    {
     "nome": "Roseli",
-    "respostas": 17,
-    "mediana_min": 5.6
+    "respostas": 18,
+    "mediana_min": 5.2
    },
    {
     "nome": "Gabrielle",
@@ -95,10 +95,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "G.F.B x VENANCIO PRODUTOS FARMACEUTICOS LTDA",
+    "grupo": "A.H.G x INSS",
     "dia": "02/09",
-    "desde": "11:43",
-    "ts": 1788360220835
+    "desde": "11:59",
+    "ts": 1788361173937
    },
    {
     "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
@@ -107,16 +107,10 @@
     "ts": 1788357780614
    },
    {
-    "grupo": "S.A.D.O.G x MATEUS SUPERMERCADOS S.A.",
-    "dia": "02/09",
-    "desde": "11:29",
-    "ts": 1788359371745
-   },
-   {
-    "grupo": "M.V.R.D.S x SP1 COMERCIO DE ALIMENTOS LTDA",
-    "dia": "31/08",
-    "desde": "17:54",
-    "ts": 1788209643175
+    "grupo": "V.B.D.S x E.T. PIRES, SOLUÇÕES EM CONTROLE DE ACESSO, LIMPEZA E APOIO ADM LTDA",
+    "dia": "01/09",
+    "desde": "11:48",
+    "ts": 1788274110199
    },
    {
     "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
@@ -135,6 +129,12 @@
     "dia": "01/09",
     "desde": "11:27",
     "ts": 1788272832144
+   },
+   {
+    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
+    "dia": "01/09",
+    "desde": "12:55",
+    "ts": 1788278121359
    },
    {
     "grupo": "N.T.D.S.L x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
@@ -261,12 +261,6 @@
     "ts": 1788196941201
    },
    {
-    "grupo": "M.V.R.D.S x SP1 COMERCIO DE ALIMENTOS LTDA",
-    "dia": "31/08",
-    "desde": "17:54",
-    "ts": 1788209643175
-   },
-   {
     "grupo": "M.O.D.S x HOTEL TROPICAL LTDA",
     "dia": "01/09",
     "desde": "10:28",
@@ -279,10 +273,22 @@
     "ts": 1788272832144
    },
    {
+    "grupo": "V.B.D.S x E.T. PIRES, SOLUÇÕES EM CONTROLE DE ACESSO, LIMPEZA E APOIO ADM LTDA",
+    "dia": "01/09",
+    "desde": "11:48",
+    "ts": 1788274110199
+   },
+   {
     "grupo": "N.T.D.S.L x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "01/09",
     "desde": "12:21",
     "ts": 1788276114264
+   },
+   {
+    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
+    "dia": "01/09",
+    "desde": "12:55",
+    "ts": 1788278121359
    },
    {
     "grupo": "L.S.S x BORGES E PEREIRA PRESTADORA DE SERVICOS LTDA",
@@ -297,16 +303,10 @@
     "ts": 1788357780614
    },
    {
-    "grupo": "S.A.D.O.G x MATEUS SUPERMERCADOS S.A.",
+    "grupo": "A.H.G x INSS",
     "dia": "02/09",
-    "desde": "11:29",
-    "ts": 1788359371745
-   },
-   {
-    "grupo": "G.F.B x VENANCIO PRODUTOS FARMACEUTICOS LTDA",
-    "dia": "02/09",
-    "desde": "11:43",
-    "ts": 1788360220835
+    "desde": "11:59",
+    "ts": 1788361173937
    }
   ]
  },
@@ -384,17 +384,17 @@
   ]
  },
  "agora": {
-  "fila": 329,
-  "abertos": 443,
+  "fila": 327,
+  "abertos": 445,
   "com_atendimento": 8,
-  "online": 4,
+  "online": 5,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 474
+  "ausentes": 1,
+  "espera_media_s": 483
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-05T08:49:15.387Z",
-  "min_sem_lead": 40676
+  "ultimo_lead_at": "2026-08-17T14:28:44.132Z",
+  "min_sem_lead": 23071
  },
  "leads": [
   {
