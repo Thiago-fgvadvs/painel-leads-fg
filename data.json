@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/09/2026, 13:01",
+ "gerado_em": "02/09/2026, 13:16",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 236,
-  "tickets_abertos": 446,
+  "tickets_abertos": 438,
   "periodo_dias": 7
  },
  "atendentes": [],
@@ -40,12 +40,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 193,
-  "turnos": 470,
-  "respondidos": 460,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 15.7,
+  "grupos_ativos": 194,
+  "turnos": 474,
+  "respondidos": 465,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 15.8,
   "atendentes": [
    {
     "nome": "Julia",
@@ -54,8 +54,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 115,
-    "mediana_min": 25.6
+    "respostas": 116,
+    "mediana_min": 26.1
    },
    {
     "nome": "Luisa",
@@ -64,8 +64,8 @@
    },
    {
     "nome": "—",
-    "respostas": 40,
-    "mediana_min": 188.4
+    "respostas": 44,
+    "mediana_min": 131.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -95,6 +95,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "M.Y.N.M x AGRA AGROINDUSTRIAL DE ALIMENTOS SA",
+    "dia": "02/09",
+    "desde": "13:15",
+    "ts": 1788365715214
+   },
+   {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
     "dia": "02/09",
     "desde": "12:29",
@@ -113,12 +119,6 @@
     "ts": 1788362603076
    },
    {
-    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
-    "dia": "02/09",
-    "desde": "11:56",
-    "ts": 1788360998924
-   },
-   {
     "grupo": "D.M.S.D.A",
     "dia": "02/09",
     "desde": "12:02",
@@ -129,12 +129,6 @@
     "dia": "01/09",
     "desde": "12:21",
     "ts": 1788276114264
-   },
-   {
-    "grupo": "M.O.D.S x HOTEL TROPICAL LTDA",
-    "dia": "01/09",
-    "desde": "10:28",
-    "ts": 1788269324959
    },
    {
     "grupo": "S.B.D.S.F x INVICTA SERVICOS ESPECIALIZADOS EM SAUDE LTDA",
@@ -243,22 +237,10 @@
     "ts": 1788196274105
    },
    {
-    "grupo": "M.O.D.S x HOTEL TROPICAL LTDA",
-    "dia": "01/09",
-    "desde": "10:28",
-    "ts": 1788269324959
-   },
-   {
     "grupo": "N.T.D.S.L x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "01/09",
     "desde": "12:21",
     "ts": 1788276114264
-   },
-   {
-    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
-    "dia": "02/09",
-    "desde": "11:56",
-    "ts": 1788360998924
    },
    {
     "grupo": "D.M.S.D.A",
@@ -283,6 +265,12 @@
     "dia": "02/09",
     "desde": "12:48",
     "ts": 1788364128173
+   },
+   {
+    "grupo": "M.Y.N.M x AGRA AGROINDUSTRIAL DE ALIMENTOS SA",
+    "dia": "02/09",
+    "desde": "13:15",
+    "ts": 1788365715214
    }
   ]
  },
@@ -361,16 +349,16 @@
  },
  "agora": {
   "fila": 327,
-  "abertos": 446,
+  "abertos": 438,
   "com_atendimento": 6,
   "online": 2,
   "offline": 3,
   "ausentes": 3,
-  "espera_media_s": 496
+  "espera_media_s": 478
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T15:19:06.640Z",
-  "min_sem_lead": 31722
+  "ultimo_lead_at": "2026-08-05T08:49:15.387Z",
+  "min_sem_lead": 40767
  },
  "leads": [
   {
