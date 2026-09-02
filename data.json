@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/09/2026, 16:19",
+ "gerado_em": "02/09/2026, 16:34",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -93,11 +93,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 198,
-  "turnos": 501,
-  "respondidos": 493,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "grupos_ativos": 199,
+  "turnos": 510,
+  "respondidos": 500,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 17.3,
   "atendentes": [
    {
@@ -107,8 +107,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 132,
-    "mediana_min": 29.4
+    "respostas": 135,
+    "mediana_min": 29.6
    },
    {
     "nome": "Luisa",
@@ -127,13 +127,13 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 21,
-    "mediana_min": 4.8
+    "respostas": 23,
+    "mediana_min": 3.4
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 16,
-    "mediana_min": 6.7
+    "respostas": 18,
+    "mediana_min": 7.2
    },
    {
     "nome": "Gabrielle",
@@ -148,6 +148,24 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "M.D.J x JOSIMAR FRANKLIN ",
+    "dia": "02/09",
+    "desde": "16:32",
+    "ts": 1788377579710
+   },
+   {
+    "grupo": "F.P.D.B x INSS",
+    "dia": "02/09",
+    "desde": "16:28",
+    "ts": 1788377316697
+   },
+   {
+    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "dia": "02/09",
+    "desde": "16:19",
+    "ts": 1788376757671
+   },
+   {
     "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "02/09",
     "desde": "16:13",
@@ -158,12 +176,6 @@
     "dia": "02/09",
     "desde": "14:37",
     "ts": 1788370652369
-   },
-   {
-    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
-    "dia": "02/09",
-    "desde": "12:29",
-    "ts": 1788362951094
    },
    {
     "grupo": "D.M.S.D.A",
@@ -296,12 +308,6 @@
     "ts": 1788361362962
    },
    {
-    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
-    "dia": "02/09",
-    "desde": "12:29",
-    "ts": 1788362951094
-   },
-   {
     "grupo": "W.M.D.O x SENDAS",
     "dia": "02/09",
     "desde": "14:37",
@@ -312,17 +318,44 @@
     "dia": "02/09",
     "desde": "16:13",
     "ts": 1788376408658
+   },
+   {
+    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "dia": "02/09",
+    "desde": "16:19",
+    "ts": 1788376757671
+   },
+   {
+    "grupo": "F.P.D.B x INSS",
+    "dia": "02/09",
+    "desde": "16:28",
+    "ts": 1788377316697
+   },
+   {
+    "grupo": "M.D.J x JOSIMAR FRANKLIN ",
+    "dia": "02/09",
+    "desde": "16:32",
+    "ts": 1788377579710
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 7,
+  "total": 8,
   "por_vendedor": {
-   "Tiago Bernardo": 2,
-   "Roseli": 5
+   "Roseli": 6,
+   "Tiago Bernardo": 2
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "I.D.P",
+    "dia": "02/09",
+    "hora": "16:34",
+    "ts": 1788377687450,
+    "origem": "Anúncio: Trabalhista - doenças ocupacionais",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "M",
@@ -389,17 +422,17 @@
   ]
  },
  "agora": {
-  "fila": 345,
+  "fila": 347,
   "abertos": 455,
   "com_atendimento": 5,
-  "online": 3,
+  "online": 4,
   "offline": 3,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 446
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-29T06:51:44.159Z",
-  "min_sem_lead": 6508
+  "ultimo_lead_at": "2026-08-24T09:17:15.577Z",
+  "min_sem_lead": 13577
  },
  "leads": [
   {
