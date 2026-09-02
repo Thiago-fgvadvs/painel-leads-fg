@@ -1,33 +1,45 @@
 {
- "gerado_em": "02/09/2026, 14:02",
+ "gerado_em": "02/09/2026, 14:17",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
-  "no_sla": 3,
+  "total": 22,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 2,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 240,
-  "tickets_abertos": 439,
+  "leads_7d": 245,
+  "tickets_abertos": 444,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 3,
+   "leads": 8,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 8,
   "Direto/Indicacao": 14
  },
  "criativos": [
   {
    "url": "fb.me/87PZSDuwc",
+   "leads": 3
+  },
+  {
+   "url": "fb.me/4MBhcZyUD",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/7aicVqTF9",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
   },
   {
@@ -40,7 +52,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2,
+  "Trabalhista": 7,
   "Nao identificada": 15
  },
  "sem_resposta_lista": [
@@ -61,10 +73,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 195,
-  "turnos": 481,
+  "turnos": 482,
   "respondidos": 474,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 16.4,
   "atendentes": [
    {
@@ -114,6 +126,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "P.F.L.A x Bradesco",
+    "dia": "02/09",
+    "desde": "14:08",
+    "ts": 1788368916319
+   },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "02/09",
@@ -267,6 +285,12 @@
     "dia": "02/09",
     "desde": "13:42",
     "ts": 1788367379263
+   },
+   {
+    "grupo": "P.F.L.A x Bradesco",
+    "dia": "02/09",
+    "desde": "14:08",
+    "ts": 1788368916319
    }
   ]
  },
@@ -344,19 +368,74 @@
   ]
  },
  "agora": {
-  "fila": 330,
-  "abertos": 439,
+  "fila": 335,
+  "abertos": 444,
   "com_atendimento": 7,
-  "online": 1,
+  "online": 2,
   "offline": 3,
-  "ausentes": 4,
-  "espera_media_s": 462
+  "ausentes": 3,
+  "espera_media_s": 456
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:50.386Z",
-  "min_sem_lead": 493839
+  "ultimo_lead_at": "2026-09-02T17:15:57.889Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "556992074748",
+   "tel": "5569*****748",
+   "criado": "14:15",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511963381613",
+   "tel": "5511*****613",
+   "criado": "14:15",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Bitthylluscka",
+   "tel": "5533*****022",
+   "criado": "14:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7aicVqTF9",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "~Ivalléria santos",
+   "tel": "5591*****702",
+   "criado": "14:15",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554896746827",
+   "tel": "5548*****827",
+   "criado": "14:02",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
   {
    "nome": "555581275124",
    "tel": "5555*****124",
@@ -413,30 +492,8 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "556298565214",
-   "tel": "5562*****214",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5511945474171",
-   "tel": "5511*****171",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553597516748",
-   "tel": "5535*****748",
+   "nome": "5515981468843",
+   "tel": "5515*****843",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -468,8 +525,8 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5515981468843",
-   "tel": "5515*****843",
+   "nome": "5511994714041",
+   "tel": "5511*****041",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -490,8 +547,8 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5511994714041",
-   "tel": "5511*****041",
+   "nome": "553597516748",
+   "tel": "5535*****748",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -501,8 +558,8 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553591245359",
-   "tel": "5535*****359",
+   "nome": "5511945474171",
+   "tel": "5511*****171",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -512,8 +569,19 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "557799870243",
-   "tel": "5577*****243",
+   "nome": "556298565214",
+   "tel": "5562*****214",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511964386466",
+   "tel": "5511*****466",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -534,8 +602,19 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5511964386466",
-   "tel": "5511*****466",
+   "nome": "557799870243",
+   "tel": "5577*****243",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553591245359",
+   "tel": "5535*****359",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
