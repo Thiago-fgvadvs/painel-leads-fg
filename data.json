@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/09/2026, 12:15",
+ "gerado_em": "02/09/2026, 12:30",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -40,17 +40,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 190,
-  "turnos": 445,
-  "respondidos": 434,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
-  "mediana_min": 16.8,
+  "grupos_ativos": 191,
+  "turnos": 458,
+  "respondidos": 446,
+  "sem_resposta": 12,
+  "sem_resposta_grupos": 12,
+  "mediana_min": 17.1,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 163,
-    "mediana_min": 11.7
+    "respostas": 169,
+    "mediana_min": 11.6
    },
    {
     "nome": "Nicolas",
@@ -59,18 +59,18 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 46,
-    "mediana_min": 1
+    "respostas": 47,
+    "mediana_min": 0.8
+   },
+   {
+    "nome": "—",
+    "respostas": 33,
+    "mediana_min": 1480.8
    },
    {
     "nome": "FG Advogados - Isadora ",
     "respostas": 33,
     "mediana_min": 1246.1
-   },
-   {
-    "nome": "—",
-    "respostas": 28,
-    "mediana_min": 1530.8
    },
    {
     "nome": "Roseli",
@@ -95,10 +95,28 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
+    "dia": "02/09",
+    "desde": "12:29",
+    "ts": 1788362951094
+   },
+   {
+    "grupo": "A.M x INSS",
+    "dia": "02/09",
+    "desde": "12:23",
+    "ts": 1788362603076
+   },
+   {
     "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "02/09",
     "desde": "11:56",
     "ts": 1788360998924
+   },
+   {
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "dia": "02/09",
+    "desde": "12:17",
+    "ts": 1788362221056
    },
    {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
@@ -117,18 +135,6 @@
     "dia": "02/09",
     "desde": "12:02",
     "ts": 1788361362962
-   },
-   {
-    "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
-    "dia": "02/09",
-    "desde": "11:03",
-    "ts": 1788357780614
-   },
-   {
-    "grupo": "V.B.D.S x E.T. PIRES, SOLUÇÕES EM CONTROLE DE ACESSO, LIMPEZA E APOIO ADM LTDA",
-    "dia": "01/09",
-    "desde": "11:48",
-    "ts": 1788274110199
    },
    {
     "grupo": "N.T.D.S.L x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
@@ -255,22 +261,10 @@
     "ts": 1788269324959
    },
    {
-    "grupo": "V.B.D.S x E.T. PIRES, SOLUÇÕES EM CONTROLE DE ACESSO, LIMPEZA E APOIO ADM LTDA",
-    "dia": "01/09",
-    "desde": "11:48",
-    "ts": 1788274110199
-   },
-   {
     "grupo": "N.T.D.S.L x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "01/09",
     "desde": "12:21",
     "ts": 1788276114264
-   },
-   {
-    "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
-    "dia": "02/09",
-    "desde": "11:03",
-    "ts": 1788357780614
    },
    {
     "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
@@ -295,6 +289,24 @@
     "dia": "02/09",
     "desde": "12:14",
     "ts": 1788362079049
+   },
+   {
+    "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
+    "dia": "02/09",
+    "desde": "12:17",
+    "ts": 1788362221056
+   },
+   {
+    "grupo": "A.M x INSS",
+    "dia": "02/09",
+    "desde": "12:23",
+    "ts": 1788362603076
+   },
+   {
+    "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
+    "dia": "02/09",
+    "desde": "12:29",
+    "ts": 1788362951094
    }
   ]
  },
@@ -372,17 +384,17 @@
   ]
  },
  "agora": {
-  "fila": 327,
+  "fila": 326,
   "abertos": 445,
-  "com_atendimento": 7,
-  "online": 4,
-  "offline": 2,
+  "com_atendimento": 6,
+  "online": 3,
+  "offline": 3,
   "ausentes": 2,
   "espera_media_s": 497
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T14:28:44.132Z",
-  "min_sem_lead": 23087
+  "ultimo_lead_at": "2026-08-11T15:19:06.640Z",
+  "min_sem_lead": 31692
  },
  "leads": [
   {
