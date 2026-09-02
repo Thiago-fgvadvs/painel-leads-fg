@@ -1,39 +1,39 @@
 {
- "gerado_em": "02/09/2026, 17:51",
+ "gerado_em": "02/09/2026, 18:06",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 38,
-  "no_sla": 23,
+  "total": 40,
+  "no_sla": 25,
   "fora_sla": 11,
   "sem_resposta": 3,
   "fora_horario": 0,
-  "pct_sla": 68,
+  "pct_sla": 69,
   "mediana_geral": 0.5,
-  "leads_7d": 261,
-  "tickets_abertos": 481,
+  "leads_7d": 264,
+  "tickets_abertos": 483,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 31,
+   "leads": 32,
    "mediana_min": 0.5
+  },
+  {
+   "nome": "Julia",
+   "leads": 2,
+   "mediana_min": 53.9
   },
   {
    "nome": "Roseli",
    "leads": 2,
    "mediana_min": 2.7
-  },
-  {
-   "nome": "Julia",
-   "leads": 1,
-   "mediana_min": 106.7
   }
  ],
  "origem": {
-  "Anuncio": 28,
-  "Direto/Indicacao": 10
+  "Anuncio": 29,
+  "Direto/Indicacao": 11
  },
  "criativos": [
   {
@@ -43,6 +43,10 @@
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 4
+  },
+  {
+   "url": "fb.me/7ZVZhwxMh",
+   "leads": 2
   },
   {
    "url": "fb.me/7I61m723H",
@@ -63,15 +67,11 @@
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/91elw2A2a",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 25,
-  "Nao identificada": 13
+  "Trabalhista": 26,
+  "Nao identificada": 14
  },
  "sem_resposta_lista": [
   {
@@ -174,17 +174,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 215,
-  "turnos": 522,
-  "respondidos": 515,
+  "grupos_ativos": 217,
+  "turnos": 523,
+  "respondidos": 516,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 17.4,
+  "mediana_min": 17.5,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 181,
-    "mediana_min": 11
+    "respostas": 182,
+    "mediana_min": 11.2
    },
    {
     "nome": "Nicolas",
@@ -474,21 +474,54 @@
   ]
  },
  "agora": {
-  "fila": 367,
-  "abertos": 481,
-  "com_atendimento": 6,
+  "fila": 370,
+  "abertos": 483,
+  "com_atendimento": 5,
   "online": 2,
   "offline": 3,
   "ausentes": 3,
-  "espera_media_s": 1927
+  "espera_media_s": 1918
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-29T06:51:44.159Z",
-  "min_sem_lead": 6599
+  "ultimo_lead_at": "2026-09-02T20:59:11.256Z",
+  "min_sem_lead": 7
  },
  "leads": [
   {
-   "nome": "Mainha ❤❤",
+   "nome": "556294384057",
+   "tel": "5562*****057",
+   "criado": "17:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Correspondente Rafaela Jaqueline",
+   "tel": "5511*****899",
+   "criado": "17:54",
+   "atendente": "Julia",
+   "espera_min": 1.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "559284022896",
+   "tel": "5592*****896",
+   "criado": "17:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Maria 🌸",
    "tel": "5511*****238",
    "criado": "16:33",
    "atendente": "Roseli",
@@ -508,17 +541,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7I61m723H",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "559284022896",
-   "tel": "5592*****896",
-   "criado": "17:30",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
-   "area": "Trabalhista"
   },
   {
    "nome": "Júlia Pinheiro",
