@@ -1,31 +1,35 @@
 {
- "gerado_em": "02/09/2026, 13:46",
+ "gerado_em": "02/09/2026, 14:02",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 2,
+  "total": 17,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 2,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 239,
-  "tickets_abertos": 437,
+  "leads_7d": 240,
+  "tickets_abertos": 439,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 2,
+   "leads": 3,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 2,
+  "Anuncio": 3,
   "Direto/Indicacao": 14
  },
  "criativos": [
+  {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 1
+  },
   {
    "url": "fb.me/9Kji7hTqb",
    "leads": 1
@@ -36,8 +40,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 15,
-  "Trabalhista": 1
+  "Trabalhista": 2,
+  "Nao identificada": 15
  },
  "sem_resposta_lista": [
   {
@@ -57,20 +61,20 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 195,
-  "turnos": 479,
-  "respondidos": 471,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 16.3,
+  "turnos": 481,
+  "respondidos": 474,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 16.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 176,
-    "mediana_min": 10.9
+    "respostas": 177,
+    "mediana_min": 10.8
    },
    {
     "nome": "Nicolas",
-    "respostas": 120,
+    "respostas": 122,
     "mediana_min": 26.1
    },
    {
@@ -115,12 +119,6 @@
     "dia": "02/09",
     "desde": "13:42",
     "ts": 1788367379263
-   },
-   {
-    "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
-    "dia": "02/09",
-    "desde": "12:59",
-    "ts": 1788364789183
    },
    {
     "grupo": "L.D.S.A x CAVALCANTI FARIAS LTDA",
@@ -265,12 +263,6 @@
     "ts": 1788362951094
    },
    {
-    "grupo": "L.K.F.D.R x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INSTALACOES LTDA",
-    "dia": "02/09",
-    "desde": "12:59",
-    "ts": 1788364789183
-   },
-   {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "02/09",
     "desde": "13:42",
@@ -353,18 +345,29 @@
  },
  "agora": {
   "fila": 330,
-  "abertos": 437,
-  "com_atendimento": 6,
-  "online": 5,
+  "abertos": 439,
+  "com_atendimento": 7,
+  "online": 1,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 463
+  "ausentes": 4,
+  "espera_media_s": 462
  },
  "captacao": {
   "ultimo_lead_at": "2025-09-24T18:22:50.386Z",
-  "min_sem_lead": 493824
+  "min_sem_lead": 493839
  },
  "leads": [
+  {
+   "nome": "555581275124",
+   "tel": "5555*****124",
+   "criado": "13:52",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511970114376",
    "tel": "5511*****376",
@@ -405,17 +408,6 @@
    "atendente": "—",
    "espera_min": null,
    "status": "SEM_RESPOSTA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5511964386466",
-   "tel": "5511*****466",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
@@ -533,6 +525,17 @@
   {
    "nome": "557999049576",
    "tel": "5579*****576",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511964386466",
+   "tel": "5511*****466",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
