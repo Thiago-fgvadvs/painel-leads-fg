@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/09/2026, 16:04",
+ "gerado_em": "02/09/2026, 16:19",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 95,
   "mediana_geral": 0.4,
   "leads_7d": 256,
-  "tickets_abertos": 457,
+  "tickets_abertos": 455,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -93,11 +93,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 197,
-  "turnos": 497,
-  "respondidos": 486,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "grupos_ativos": 198,
+  "turnos": 501,
+  "respondidos": 493,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 17.3,
   "atendentes": [
    {
@@ -107,8 +107,8 @@
    },
    {
     "nome": "Nicolas",
-    "respostas": 129,
-    "mediana_min": 29.1
+    "respostas": 132,
+    "mediana_min": 29.4
    },
    {
     "nome": "Luisa",
@@ -132,8 +132,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 12,
-    "mediana_min": 6.5
+    "respostas": 16,
+    "mediana_min": 6.7
    },
    {
     "nome": "Gabrielle",
@@ -150,26 +150,8 @@
    {
     "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "02/09",
-    "desde": "15:54",
-    "ts": 1788375264625
-   },
-   {
-    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
-    "dia": "02/09",
-    "desde": "15:51",
-    "ts": 1788375072608
-   },
-   {
-    "grupo": "P.F.L.A x Bradesco",
-    "dia": "02/09",
-    "desde": "14:08",
-    "ts": 1788368916319
-   },
-   {
-    "grupo": "A.B x M DIAS BRANCO S.A. INDUSTRIA E COMERCIO DE ALIMENTOS",
-    "dia": "02/09",
-    "desde": "15:24",
-    "ts": 1788373444488
+    "desde": "16:13",
+    "ts": 1788376408658
    },
    {
     "grupo": "W.M.D.O x SENDAS",
@@ -320,34 +302,16 @@
     "ts": 1788362951094
    },
    {
-    "grupo": "P.F.L.A x Bradesco",
-    "dia": "02/09",
-    "desde": "14:08",
-    "ts": 1788368916319
-   },
-   {
     "grupo": "W.M.D.O x SENDAS",
     "dia": "02/09",
     "desde": "14:37",
     "ts": 1788370652369
    },
    {
-    "grupo": "A.B x M DIAS BRANCO S.A. INDUSTRIA E COMERCIO DE ALIMENTOS",
-    "dia": "02/09",
-    "desde": "15:24",
-    "ts": 1788373444488
-   },
-   {
-    "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
-    "dia": "02/09",
-    "desde": "15:51",
-    "ts": 1788375072608
-   },
-   {
     "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "02/09",
-    "desde": "15:54",
-    "ts": 1788375264625
+    "desde": "16:13",
+    "ts": 1788376408658
    }
   ]
  },
@@ -426,16 +390,16 @@
  },
  "agora": {
   "fila": 345,
-  "abertos": 457,
+  "abertos": 455,
   "com_atendimento": 5,
-  "online": 2,
+  "online": 3,
   "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 445
+  "ausentes": 2,
+  "espera_media_s": 446
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-29T06:51:44.159Z",
-  "min_sem_lead": 6492
+  "min_sem_lead": 6508
  },
  "leads": [
   {
