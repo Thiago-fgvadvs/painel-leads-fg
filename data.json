@@ -1,28 +1,28 @@
 {
- "gerado_em": "02/09/2026, 14:47",
+ "gerado_em": "02/09/2026, 15:03",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
-  "no_sla": 13,
+  "total": 28,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 2,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 250,
-  "tickets_abertos": 450,
+  "leads_7d": 251,
+  "tickets_abertos": 452,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 13,
+   "leads": 14,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 14,
   "Direto/Indicacao": 14
  },
  "criativos": [
@@ -33,6 +33,10 @@
   {
    "url": "fb.me/4YfB6dLQ7",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcmVxvcsgHO/",
+   "leads": 1
   },
   {
    "url": "fb.me/7aicVqTF9",
@@ -53,14 +57,10 @@
   {
    "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9Kji7hTqb",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 10,
   "Nao identificada": 18
  },
  "sem_resposta_lista": [
@@ -135,16 +135,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "W.M.D.O x SENDAS",
-    "dia": "02/09",
-    "desde": "14:37",
-    "ts": 1788370652369
-   },
-   {
     "grupo": "P.F.L.A x Bradesco",
     "dia": "02/09",
     "desde": "14:08",
     "ts": 1788368916319
+   },
+   {
+    "grupo": "W.M.D.O x SENDAS",
+    "dia": "02/09",
+    "desde": "14:37",
+    "ts": 1788370652369
    },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
@@ -388,19 +388,30 @@
   ]
  },
  "agora": {
-  "fila": 341,
-  "abertos": 450,
+  "fila": 343,
+  "abertos": 452,
   "com_atendimento": 7,
   "online": 2,
   "offline": 4,
   "ausentes": 2,
-  "espera_media_s": 449
+  "espera_media_s": 447
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-02T17:24:06.289Z",
-  "min_sem_lead": 24
+  "ultimo_lead_at": "2026-09-02T18:02:28.720Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "5588921589018",
+   "tel": "5588*****018",
+   "criado": "15:02",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmVxvcsgHO/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Zenir Lemes",
    "tel": "5549*****105",
@@ -567,9 +578,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5515981468843",
-   "tel": "5515*****843",
-   "criado": "10:36",
+   "nome": "557183145341",
+   "tel": "5571*****341",
+   "criado": "13:35",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -578,74 +589,8 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "559191464942",
-   "tel": "5591*****942",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5511994714041",
-   "tel": "5511*****041",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553597516748",
-   "tel": "5535*****748",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5511945474171",
-   "tel": "5511*****171",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "556298565214",
-   "tel": "5562*****214",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5511964386466",
-   "tel": "5511*****466",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "557999049576",
-   "tel": "5579*****576",
+   "nome": "553591245359",
+   "tel": "5535*****359",
    "criado": "10:36",
    "atendente": "—",
    "espera_min": null,
@@ -666,31 +611,97 @@
    "area": "Nao identificada"
   },
   {
+   "nome": "557999049576",
+   "tel": "5579*****576",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511964386466",
+   "tel": "5511*****466",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "556298565214",
+   "tel": "5562*****214",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511945474171",
+   "tel": "5511*****171",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553597516748",
+   "tel": "5535*****748",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511994714041",
+   "tel": "5511*****041",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "559191464942",
+   "tel": "5591*****942",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5515981468843",
+   "tel": "5515*****843",
+   "criado": "10:36",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
    "nome": "556391186880",
    "tel": "5563*****880",
    "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553591245359",
-   "tel": "5535*****359",
-   "criado": "10:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "557183145341",
-   "tel": "5571*****341",
-   "criado": "13:35",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
