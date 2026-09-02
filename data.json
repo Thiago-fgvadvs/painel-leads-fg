@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/09/2026, 18:21",
+ "gerado_em": "02/09/2026, 18:36",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 70,
   "mediana_geral": 0.5,
   "leads_7d": 265,
-  "tickets_abertos": 484,
+  "tickets_abertos": 486,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 15,
-  "Trabalhista": 27
+  "Trabalhista": 27,
+  "Nao identificada": 15
  },
  "sem_resposta_lista": [
   {
@@ -95,15 +95,15 @@
  ],
  "fora_sla_lista": [
   {
-   "nome": "553597516748",
-   "tel": "5535*****748",
+   "nome": "Júlia Pinheiro",
+   "tel": "5535*****359",
    "criado": "10:36",
    "espera_min": 404.8,
    "atendente": "FG Advogados - Isadora "
   },
   {
-   "nome": "Júlia Pinheiro",
-   "tel": "5535*****359",
+   "nome": "553597516748",
+   "tel": "5535*****748",
    "criado": "10:36",
    "espera_min": 404.8,
    "atendente": "FG Advogados - Isadora "
@@ -175,16 +175,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 523,
-  "respondidos": 516,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 17.5,
+  "turnos": 525,
+  "respondidos": 517,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 17.4,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 182,
-    "mediana_min": 11.2
+    "respostas": 183,
+    "mediana_min": 11
    },
    {
     "nome": "Nicolas",
@@ -228,6 +228,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.L.M.J x ARCOS DOURADOS COMERCIO DE ALIMENTO SA",
+    "dia": "02/09",
+    "desde": "18:27",
+    "ts": 1788384446233
+   },
    {
     "grupo": "W.H.N x NFIX MARKETING E VENDAS LTDA",
     "dia": "02/09",
@@ -388,6 +394,12 @@
     "dia": "02/09",
     "desde": "17:17",
     "ts": 1788380257903
+   },
+   {
+    "grupo": "A.L.M.J x ARCOS DOURADOS COMERCIO DE ALIMENTO SA",
+    "dia": "02/09",
+    "desde": "18:27",
+    "ts": 1788384446233
    }
   ]
  },
@@ -474,19 +486,41 @@
   ]
  },
  "agora": {
-  "fila": 371,
-  "abertos": 484,
+  "fila": 373,
+  "abertos": 486,
   "com_atendimento": 5,
   "online": 2,
-  "offline": 4,
-  "ausentes": 2,
+  "offline": 5,
+  "ausentes": 1,
   "espera_media_s": 1913
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-02T20:54:21.284Z",
-  "min_sem_lead": 27
+  "ultimo_lead_at": "2025-11-03T12:28:59.280Z",
+  "min_sem_lead": 436868
  },
  "leads": [
+  {
+   "nome": "Júlia Pinheiro",
+   "tel": "5535*****359",
+   "criado": "10:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 404.8,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "556294384057",
+   "tel": "5562*****057",
+   "criado": "17:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Correspondente Rafaela Jaqueline",
    "tel": "5511*****899",
@@ -507,17 +541,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "556294384057",
-   "tel": "5562*****057",
-   "criado": "17:59",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
   },
   {
@@ -552,17 +575,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7I61m723H",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Júlia Pinheiro",
-   "tel": "5535*****359",
-   "criado": "10:36",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 404.8,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Maria",
