@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/09/2026, 10:51",
+ "gerado_em": "02/09/2026, 11:07",
  "data_ref": "02/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 236,
-  "tickets_abertos": 504,
+  "tickets_abertos": 488,
   "periodo_dias": 7
  },
  "atendentes": [],
@@ -40,17 +40,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 180,
-  "turnos": 392,
-  "respondidos": 383,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 17,
+  "grupos_ativos": 182,
+  "turnos": 406,
+  "respondidos": 396,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 16.2,
   "atendentes": [
    {
     "nome": "Julia",
-    "respostas": 151,
-    "mediana_min": 12.6
+    "respostas": 152,
+    "mediana_min": 13.1
    },
    {
     "nome": "Nicolas",
@@ -58,29 +58,29 @@
     "mediana_min": 26.1
    },
    {
+    "nome": "Luisa",
+    "respostas": 38,
+    "mediana_min": 0.8
+   },
+   {
     "nome": "FG Advogados - Isadora ",
     "respostas": 32,
     "mediana_min": 1254.1
    },
    {
-    "nome": "Luisa",
-    "respostas": 31,
-    "mediana_min": 1.2
+    "nome": "Roseli",
+    "respostas": 17,
+    "mediana_min": 5.6
    },
    {
-    "nome": "Roseli",
-    "respostas": 15,
-    "mediana_min": 5.6
+    "nome": "—",
+    "respostas": 13,
+    "mediana_min": 1491
    },
    {
     "nome": "Gabrielle",
     "respostas": 11,
     "mediana_min": 4.2
-   },
-   {
-    "nome": "—",
-    "respostas": 10,
-    "mediana_min": 869.8
    },
    {
     "nome": "Eduardo",
@@ -95,16 +95,28 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "G.F.B x VENANCIO PRODUTOS FARMACEUTICOS LTDA",
+    "dia": "02/09",
+    "desde": "11:03",
+    "ts": 1788357833624
+   },
+   {
+    "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
+    "dia": "02/09",
+    "desde": "11:03",
+    "ts": 1788357780614
+   },
+   {
+    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
+    "dia": "31/08",
+    "desde": "14:22",
+    "ts": 1788196941201
+   },
+   {
     "grupo": "R.E.V.M x MODULAR ESTRUTURAS EM ACO LTDA",
     "dia": "01/09",
     "desde": "11:27",
     "ts": 1788272832144
-   },
-   {
-    "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
-    "dia": "31/08",
-    "desde": "16:36",
-    "ts": 1788204967292
    },
    {
     "grupo": "N.T.D.S.L x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
@@ -123,12 +135,6 @@
     "dia": "01/09",
     "desde": "10:28",
     "ts": 1788269324959
-   },
-   {
-    "grupo": "O.R.S.V x IVIX EMPREENDIMENTOS LTDA",
-    "dia": "31/08",
-    "desde": "18:29",
-    "ts": 1788211756314
    },
    {
     "grupo": "S.B.D.S.F x INVICTA SERVICOS ESPECIALIZADOS EM SAUDE LTDA",
@@ -237,22 +243,16 @@
     "ts": 1788196274105
    },
    {
-    "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
+    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
     "dia": "31/08",
-    "desde": "16:36",
-    "ts": 1788204967292
+    "desde": "14:22",
+    "ts": 1788196941201
    },
    {
     "grupo": "M.V.R.D.S x SP1 COMERCIO DE ALIMENTOS LTDA",
     "dia": "31/08",
     "desde": "17:54",
     "ts": 1788209643175
-   },
-   {
-    "grupo": "O.R.S.V x IVIX EMPREENDIMENTOS LTDA",
-    "dia": "31/08",
-    "desde": "18:29",
-    "ts": 1788211756314
    },
    {
     "grupo": "M.O.D.S x HOTEL TROPICAL LTDA",
@@ -271,6 +271,18 @@
     "dia": "01/09",
     "desde": "12:21",
     "ts": 1788276114264
+   },
+   {
+    "grupo": "N.F.D.C x CAPITAL AMBIENTAL CONSTRUCAO E SERVICOS LTDA",
+    "dia": "02/09",
+    "desde": "11:03",
+    "ts": 1788357780614
+   },
+   {
+    "grupo": "G.F.B x VENANCIO PRODUTOS FARMACEUTICOS LTDA",
+    "dia": "02/09",
+    "desde": "11:03",
+    "ts": 1788357833624
    }
   ]
  },
@@ -348,17 +360,17 @@
   ]
  },
  "agora": {
-  "fila": 325,
-  "abertos": 504,
+  "fila": 326,
+  "abertos": 488,
   "com_atendimento": 7,
   "online": 5,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 6721
+  "espera_media_s": 6895
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 714152
+  "ultimo_lead_at": "2026-02-09T12:39:14.246Z",
+  "min_sem_lead": 295288
  },
  "leads": [
   {
