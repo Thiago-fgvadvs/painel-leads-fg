@@ -1,28 +1,28 @@
 {
- "gerado_em": "11/09/2026, 14:08",
+ "gerado_em": "11/09/2026, 14:23",
  "data_ref": "11/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 7,
+  "total": 15,
+  "no_sla": 8,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 6,
-  "pct_sla": 88,
+  "pct_sla": 89,
   "mediana_geral": 0.4,
-  "leads_7d": 173,
-  "tickets_abertos": 741,
+  "leads_7d": 174,
+  "tickets_abertos": 742,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 14,
+   "leads": 15,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 15,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -36,6 +36,10 @@
   },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/bxztNylAu",
    "leads": 1
   },
   {
@@ -53,14 +57,10 @@
   {
    "url": "www.instagram.com/p/DcmWdgPsYFf/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/8hmN3IbSF",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
+  "Trabalhista": 11,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
@@ -76,10 +76,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 241,
-  "turnos": 424,
+  "turnos": 427,
   "respondidos": 418,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 42.3,
   "atendentes": [
    {
@@ -124,6 +124,24 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
+    "dia": "11/09",
+    "desde": "14:16",
+    "ts": 1789146971824
+   },
+   {
+    "grupo": "G.F.D x BANCO DO BRASIL S.A",
+    "dia": "11/09",
+    "desde": "14:11",
+    "ts": 1789146706812
+   },
+   {
+    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
+    "dia": "11/09",
+    "desde": "14:11",
+    "ts": 1789146661810
+   },
    {
     "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
     "dia": "11/09",
@@ -216,6 +234,24 @@
     "dia": "11/09",
     "desde": "12:44",
     "ts": 1789141456713
+   },
+   {
+    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
+    "dia": "11/09",
+    "desde": "14:11",
+    "ts": 1789146661810
+   },
+   {
+    "grupo": "G.F.D x BANCO DO BRASIL S.A",
+    "dia": "11/09",
+    "desde": "14:11",
+    "ts": 1789146706812
+   },
+   {
+    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
+    "dia": "11/09",
+    "desde": "14:16",
+    "ts": 1789146971824
    }
   ]
  },
@@ -284,17 +320,17 @@
   ]
  },
  "agora": {
-  "fila": 597,
-  "abertos": 741,
+  "fila": 598,
+  "abertos": 742,
   "com_atendimento": 5,
-  "online": 4,
+  "online": 2,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 2340
+  "ausentes": 3,
+  "espera_media_s": 2336
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-11T17:02:31.368Z",
-  "min_sem_lead": 6
+  "min_sem_lead": 21
  },
  "leads": [
   {
@@ -306,6 +342,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Isamar Jurema",
+   "tel": "5551*****854",
+   "criado": "14:14",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/bxztNylAu",
    "area": "Trabalhista"
   },
   {
