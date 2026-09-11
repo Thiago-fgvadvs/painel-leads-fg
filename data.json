@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/09/2026, 16:10",
+ "gerado_em": "11/09/2026, 16:25",
  "data_ref": "11/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 93,
   "mediana_geral": 0.4,
   "leads_7d": 179,
-  "tickets_abertos": 728,
+  "tickets_abertos": 723,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -80,12 +80,12 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 243,
-  "turnos": 433,
-  "respondidos": 429,
+  "grupos_ativos": 244,
+  "turnos": 434,
+  "respondidos": 430,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 43.3,
+  "mediana_min": 43.7,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -104,8 +104,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 27,
-    "mediana_min": 26.5
+    "respostas": 28,
+    "mediana_min": 31
    },
    {
     "nome": "Tiago Bernardo",
@@ -130,6 +130,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "J.P.D.S.S x SHPX LOGISTICA LTDA",
+    "dia": "11/09",
+    "desde": "16:12",
+    "ts": 1789153956007
+   },
+   {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
     "dia": "11/09",
     "desde": "15:43",
@@ -146,12 +152,6 @@
     "dia": "09/09",
     "desde": "12:49",
     "ts": 1788968994367
-   },
-   {
-    "grupo": "J.P.D.S.S x SHPX LOGISTICA LTDA",
-    "dia": "08/09",
-    "desde": "14:28",
-    "ts": 1788888504782
    }
   ]
  },
@@ -175,12 +175,6 @@
   ],
   "grupos": [
    {
-    "grupo": "J.P.D.S.S x SHPX LOGISTICA LTDA",
-    "dia": "08/09",
-    "desde": "14:28",
-    "ts": 1788888504782
-   },
-   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "09/09",
     "desde": "12:49",
@@ -197,6 +191,12 @@
     "dia": "11/09",
     "desde": "15:43",
     "ts": 1789152232931
+   },
+   {
+    "grupo": "J.P.D.S.S x SHPX LOGISTICA LTDA",
+    "dia": "11/09",
+    "desde": "16:12",
+    "ts": 1789153956007
    }
   ]
  },
@@ -274,19 +274,30 @@
   ]
  },
  "agora": {
-  "fila": 600,
-  "abertos": 728,
+  "fila": 598,
+  "abertos": 723,
   "com_atendimento": 5,
-  "online": 6,
+  "online": 5,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 2738
+  "ausentes": 1,
+  "espera_media_s": 2746
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-06T18:32:27.081Z",
-  "min_sem_lead": 7238
+  "ultimo_lead_at": "2026-06-20T20:37:57.759Z",
+  "min_sem_lead": 119448
  },
  "leads": [
+  {
+   "nome": "Jonatas",
+   "tel": "5548*****833",
+   "criado": "12:07",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Vam",
    "tel": "5519*****762",
@@ -385,17 +396,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4VQLAvb8d",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Jonatas",
-   "tel": "5548*****833",
-   "criado": "12:07",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
-   "area": "Trabalhista"
   },
   {
    "nome": "cristiano250378",
