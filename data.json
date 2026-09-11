@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/09/2026, 16:41",
+ "gerado_em": "11/09/2026, 16:56",
  "data_ref": "11/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 93,
   "mediana_geral": 0.4,
   "leads_7d": 179,
-  "tickets_abertos": 724,
+  "tickets_abertos": 725,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 15,
-  "Nao identificada": 5
+  "Nao identificada": 5,
+  "Trabalhista": 15
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -80,17 +80,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 244,
-  "turnos": 435,
-  "respondidos": 431,
+  "grupos_ativos": 245,
+  "turnos": 438,
+  "respondidos": 434,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 44,
+  "mediana_min": 45.2,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 279,
-    "mediana_min": 52.3
+    "respostas": 282,
+    "mediana_min": 53.4
    },
    {
     "nome": "Julia",
@@ -275,29 +275,18 @@
  },
  "agora": {
   "fila": 597,
-  "abertos": 724,
+  "abertos": 725,
   "com_atendimento": 5,
   "online": 5,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 2746
+  "espera_media_s": 2742
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-11T18:17:09.297Z",
-  "min_sem_lead": 84
+  "ultimo_lead_at": "2026-08-12T17:54:19.254Z",
+  "min_sem_lead": 43322
  },
  "leads": [
-  {
-   "nome": "Hélio Fernando",
-   "tel": "5564*****689",
-   "criado": "15:17",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Josue (indicação Telma)",
    "tel": "5547*****340",
@@ -308,6 +297,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Hélio Fernando",
+   "tel": "5564*****689",
+   "criado": "15:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
   },
   {
    "nome": "Jonatas",
