@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/09/2026, 13:38",
+ "gerado_em": "11/09/2026, 13:53",
  "data_ref": "11/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 9,
-  "Nao identificada": 4
+  "Nao identificada": 4,
+  "Trabalhista": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -76,16 +76,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 241,
-  "turnos": 419,
-  "respondidos": 410,
+  "turnos": 421,
+  "respondidos": 412,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
-  "mediana_min": 40.1,
+  "mediana_min": 42.3,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 266,
-    "mediana_min": 48.5
+    "respostas": 267,
+    "mediana_min": 50.7
    },
    {
     "nome": "Julia",
@@ -94,8 +94,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 28,
-    "mediana_min": 892.6
+    "respostas": 29,
+    "mediana_min": 955.4
    },
    {
     "nome": "Roseli",
@@ -113,17 +113,23 @@
     "mediana_min": 1.7
    },
    {
-    "nome": "Eduardo",
-    "respostas": 2,
-    "mediana_min": 1224.2
-   },
-   {
     "nome": "—",
     "respostas": 2,
     "mediana_min": 618.6
+   },
+   {
+    "nome": "Eduardo",
+    "respostas": 2,
+    "mediana_min": 1224.2
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
+    "dia": "10/09",
+    "desde": "17:14",
+    "ts": 1789071269933
+   },
    {
     "grupo": "A.D.S.C x LESTE & SUDESTE SERVICOS GERAIS LTDA",
     "dia": "11/09",
@@ -141,12 +147,6 @@
     "dia": "11/09",
     "desde": "12:44",
     "ts": 1789141456713
-   },
-   {
-    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
-    "dia": "10/09",
-    "desde": "17:14",
-    "ts": 1789071269933
    },
    {
     "grupo": "I.R.S.D.P x LEO S.A. ",
@@ -324,28 +324,17 @@
   "abertos": 739,
   "com_atendimento": 6,
   "online": 3,
-  "offline": 2,
-  "ausentes": 3,
+  "offline": 3,
+  "ausentes": 2,
   "espera_media_s": 2349
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-10T21:11:08.302Z",
-  "min_sem_lead": 1167
+  "ultimo_lead_at": "2026-09-11T16:03:43.867Z",
+  "min_sem_lead": 50
  },
  "leads": [
   {
-   "nome": "Vam",
-   "tel": "5519*****762",
-   "criado": "11:41",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "557798526993",
+   "nome": "joseteixeiraonilton",
    "tel": "5577*****993",
    "criado": "13:03",
    "atendente": "FG Advogados - Isadora ",
@@ -364,6 +353,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Vam",
+   "tel": "5519*****762",
+   "criado": "11:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
    "area": "Trabalhista"
   },
   {
