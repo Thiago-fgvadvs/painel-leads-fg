@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/09/2026, 15:55",
+ "gerado_em": "11/09/2026, 16:10",
  "data_ref": "11/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 93,
   "mediana_geral": 0.4,
   "leads_7d": 179,
-  "tickets_abertos": 733,
+  "tickets_abertos": 728,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -44,15 +44,15 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcmW5hLM3NO/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/875plPmzH",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmVxjBsO69/",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
   },
   {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 5,
-  "Trabalhista": 15
+  "Trabalhista": 15,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -80,17 +80,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 242,
-  "turnos": 429,
-  "respondidos": 424,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 43.1,
+  "grupos_ativos": 243,
+  "turnos": 433,
+  "respondidos": 429,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 43.3,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 275,
-    "mediana_min": 50.7
+    "respostas": 278,
+    "mediana_min": 51.7
    },
    {
     "nome": "Julia",
@@ -104,8 +104,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 25,
-    "mediana_min": 35.4
+    "respostas": 27,
+    "mediana_min": 26.5
    },
    {
     "nome": "Tiago Bernardo",
@@ -129,12 +129,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "I.R.S.D.P x LEO S.A. ",
-    "dia": "11/09",
-    "desde": "15:49",
-    "ts": 1789152563946
-   },
    {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
     "dia": "11/09",
@@ -203,12 +197,6 @@
     "dia": "11/09",
     "desde": "15:43",
     "ts": 1789152232931
-   },
-   {
-    "grupo": "I.R.S.D.P x LEO S.A. ",
-    "dia": "11/09",
-    "desde": "15:49",
-    "ts": 1789152563946
    }
   ]
  },
@@ -286,19 +274,30 @@
   ]
  },
  "agora": {
-  "fila": 602,
-  "abertos": 733,
+  "fila": 600,
+  "abertos": 728,
   "com_atendimento": 5,
   "online": 6,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 2721
+  "espera_media_s": 2738
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T15:55:32.702Z",
-  "min_sem_lead": 23220
+  "ultimo_lead_at": "2026-09-06T18:32:27.081Z",
+  "min_sem_lead": 7238
  },
  "leads": [
+  {
+   "nome": "Vam",
+   "tel": "5519*****762",
+   "criado": "11:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Josue (indicação Telma)",
    "tel": "5547*****340",
@@ -352,17 +351,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmVxjBsO69/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Vam",
-   "tel": "5519*****762",
-   "criado": "11:41",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
    "area": "Trabalhista"
   },
   {
