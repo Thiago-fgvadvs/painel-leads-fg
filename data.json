@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/09/2026, 17:26",
+ "gerado_em": "11/09/2026, 17:42",
  "data_ref": "11/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -80,17 +80,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 245,
-  "turnos": 440,
-  "respondidos": 437,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 45.4,
+  "grupos_ativos": 246,
+  "turnos": 444,
+  "respondidos": 440,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 44.5,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 285,
-    "mediana_min": 53.8
+    "respostas": 288,
+    "mediana_min": 52.7
    },
    {
     "nome": "Julia",
@@ -129,6 +129,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "G.F.D x BANCO DO BRASIL S.A",
+    "dia": "11/09",
+    "desde": "17:38",
+    "ts": 1789159085394
+   },
    {
     "grupo": "J.P.D.S.S x SHPX LOGISTICA LTDA",
     "dia": "11/09",
@@ -185,6 +191,12 @@
     "dia": "11/09",
     "desde": "16:12",
     "ts": 1789153956007
+   },
+   {
+    "grupo": "G.F.D x BANCO DO BRASIL S.A",
+    "dia": "11/09",
+    "desde": "17:38",
+    "ts": 1789159085394
    }
   ]
  },
@@ -274,14 +286,14 @@
   "fila": 602,
   "abertos": 697,
   "com_atendimento": 5,
-  "online": 2,
-  "offline": 4,
-  "ausentes": 2,
+  "online": 5,
+  "offline": 3,
+  "ausentes": 0,
   "espera_media_s": 2845
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-03T14:49:48.034Z",
-  "min_sem_lead": 11857
+  "min_sem_lead": 11872
  },
  "leads": [
   {
