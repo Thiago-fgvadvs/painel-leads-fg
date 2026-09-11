@@ -1,28 +1,28 @@
 {
- "gerado_em": "11/09/2026, 14:39",
+ "gerado_em": "11/09/2026, 14:54",
  "data_ref": "11/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 9,
+  "total": 17,
+  "no_sla": 10,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 6,
-  "pct_sla": 90,
+  "pct_sla": 91,
   "mediana_geral": 0.4,
-  "leads_7d": 175,
-  "tickets_abertos": 743,
+  "leads_7d": 176,
+  "tickets_abertos": 744,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 17,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -39,11 +39,15 @@
    "leads": 2
   },
   {
-   "url": "fb.me/bxztNylAu",
+   "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmW5hLM3NO/",
+   "url": "www.instagram.com/p/DcmVxjBsO69/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/bxztNylAu",
    "leads": 1
   },
   {
@@ -53,14 +57,10 @@
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmWdgPsYFf/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 12,
+  "Trabalhista": 13,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
@@ -77,10 +77,10 @@
   "dias": 7,
   "grupos_ativos": 242,
   "turnos": 427,
-  "respondidos": 418,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 42.3,
+  "respondidos": 419,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 42.9,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -99,8 +99,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 21,
-    "mediana_min": 35.4
+    "respostas": 22,
+    "mediana_min": 36.7
    },
    {
     "nome": "Tiago Bernardo",
@@ -147,12 +147,6 @@
     "dia": "11/09",
     "desde": "12:44",
     "ts": 1789141456713
-   },
-   {
-    "grupo": "I.R.S.D.P x LEO S.A. ",
-    "dia": "09/09",
-    "desde": "15:29",
-    "ts": 1788978595674
    },
    {
     "grupo": "O.R.S.V x IVIX EMPREENDIMENTOS LTDA",
@@ -210,12 +204,6 @@
     "dia": "09/09",
     "desde": "12:49",
     "ts": 1788968994367
-   },
-   {
-    "grupo": "I.R.S.D.P x LEO S.A. ",
-    "dia": "09/09",
-    "desde": "15:29",
-    "ts": 1788978595674
    },
    {
     "grupo": "P.C.S.S x LEO MADEIRAS, MÁQUINAS E FERRAGENS S.A",
@@ -320,19 +308,30 @@
   ]
  },
  "agora": {
-  "fila": 599,
-  "abertos": 743,
+  "fila": 600,
+  "abertos": 744,
   "com_atendimento": 5,
-  "online": 2,
-  "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 2333
+  "online": 4,
+  "offline": 2,
+  "ausentes": 2,
+  "espera_media_s": 2329
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-11T17:02:31.368Z",
-  "min_sem_lead": 37
+  "ultimo_lead_at": "2026-09-11T14:41:46.244Z",
+  "min_sem_lead": 193
  },
  "leads": [
+  {
+   "nome": "Vam",
+   "tel": "5519*****762",
+   "criado": "11:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558393082449",
    "tel": "5583*****449",
@@ -342,6 +341,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": ".",
+   "tel": "5511*****239",
+   "criado": "14:43",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmVxjBsO69/",
    "area": "Trabalhista"
   },
   {
@@ -386,17 +396,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/87PZSDuwc",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Vam",
-   "tel": "5519*****762",
-   "criado": "11:41",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
    "area": "Trabalhista"
   },
   {
