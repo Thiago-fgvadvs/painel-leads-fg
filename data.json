@@ -1,17 +1,17 @@
 {
- "gerado_em": "11/09/2026, 15:40",
+ "gerado_em": "11/09/2026, 15:55",
  "data_ref": "11/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 12,
+  "total": 20,
+  "no_sla": 13,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 6,
-  "pct_sla": 92,
+  "pct_sla": 93,
   "mediana_geral": 0.4,
-  "leads_7d": 178,
-  "tickets_abertos": 732,
+  "leads_7d": 179,
+  "tickets_abertos": 733,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 19,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 19,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -60,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 15,
-  "Nao identificada": 4
+  "Nao identificada": 5,
+  "Trabalhista": 15
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -76,16 +81,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 242,
-  "turnos": 425,
-  "respondidos": 420,
+  "turnos": 429,
+  "respondidos": 424,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 43.1,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 273,
-    "mediana_min": 46.2
+    "respostas": 275,
+    "mediana_min": 50.7
    },
    {
     "nome": "Julia",
@@ -99,8 +104,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 23,
-    "mediana_min": 38
+    "respostas": 25,
+    "mediana_min": 35.4
    },
    {
     "nome": "Tiago Bernardo",
@@ -125,22 +130,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "G.F.D x BANCO DO BRASIL S.A",
+    "grupo": "I.R.S.D.P x LEO S.A. ",
     "dia": "11/09",
-    "desde": "14:11",
-    "ts": 1789146706812
+    "desde": "15:49",
+    "ts": 1789152563946
    },
    {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
     "dia": "11/09",
-    "desde": "14:11",
-    "ts": 1789146661810
+    "desde": "15:43",
+    "ts": 1789152232931
    },
    {
-    "grupo": "P.C.S.S x LEO MADEIRAS, MÁQUINAS E FERRAGENS S.A",
-    "dia": "09/09",
-    "desde": "18:53",
-    "ts": 1788990820307
+    "grupo": "G.F.D x BANCO DO BRASIL S.A",
+    "dia": "11/09",
+    "desde": "14:11",
+    "ts": 1789146706812
    },
    {
     "grupo": "Z.D.F.M.M.D.A.C",
@@ -188,22 +193,22 @@
     "ts": 1788968994367
    },
    {
-    "grupo": "P.C.S.S x LEO MADEIRAS, MÁQUINAS E FERRAGENS S.A",
-    "dia": "09/09",
-    "desde": "18:53",
-    "ts": 1788990820307
-   },
-   {
-    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
-    "dia": "11/09",
-    "desde": "14:11",
-    "ts": 1789146661810
-   },
-   {
     "grupo": "G.F.D x BANCO DO BRASIL S.A",
     "dia": "11/09",
     "desde": "14:11",
     "ts": 1789146706812
+   },
+   {
+    "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
+    "dia": "11/09",
+    "desde": "15:43",
+    "ts": 1789152232931
+   },
+   {
+    "grupo": "I.R.S.D.P x LEO S.A. ",
+    "dia": "11/09",
+    "desde": "15:49",
+    "ts": 1789152563946
    }
   ]
  },
@@ -282,7 +287,7 @@
  },
  "agora": {
   "fila": 602,
-  "abertos": 732,
+  "abertos": 733,
   "com_atendimento": 5,
   "online": 6,
   "offline": 2,
@@ -290,10 +295,21 @@
   "espera_media_s": 2721
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-11T18:34:58.152Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2026-08-26T15:55:32.702Z",
+  "min_sem_lead": 23220
  },
  "leads": [
+  {
+   "nome": "Josue (indicação Telma)",
+   "tel": "5547*****340",
+   "criado": "15:49",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Abel",
    "tel": "5517*****885",
