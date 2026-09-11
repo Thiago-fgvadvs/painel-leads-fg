@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/09/2026, 14:54",
+ "gerado_em": "11/09/2026, 15:09",
  "data_ref": "11/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 91,
   "mediana_geral": 0.4,
   "leads_7d": 176,
-  "tickets_abertos": 744,
+  "tickets_abertos": 735,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -39,11 +39,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmW5hLM3NO/",
+   "url": "www.instagram.com/p/DcmVxjBsO69/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmVxjBsO69/",
+   "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
   },
   {
@@ -76,10 +76,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 242,
-  "turnos": 427,
+  "turnos": 425,
   "respondidos": 419,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 42.9,
   "atendentes": [
    {
@@ -125,12 +125,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
-    "dia": "11/09",
-    "desde": "14:16",
-    "ts": 1789146971824
-   },
-   {
     "grupo": "G.F.D x BANCO DO BRASIL S.A",
     "dia": "11/09",
     "desde": "14:11",
@@ -141,12 +135,6 @@
     "dia": "11/09",
     "desde": "14:11",
     "ts": 1789146661810
-   },
-   {
-    "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
-    "dia": "11/09",
-    "desde": "12:44",
-    "ts": 1789141456713
    },
    {
     "grupo": "O.R.S.V x IVIX EMPREENDIMENTOS LTDA",
@@ -218,12 +206,6 @@
     "ts": 1789002910180
    },
    {
-    "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
-    "dia": "11/09",
-    "desde": "12:44",
-    "ts": 1789141456713
-   },
-   {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
     "dia": "11/09",
     "desde": "14:11",
@@ -234,23 +216,26 @@
     "dia": "11/09",
     "desde": "14:11",
     "ts": 1789146706812
-   },
-   {
-    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
-    "dia": "11/09",
-    "desde": "14:16",
-    "ts": 1789146971824
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 6,
+  "total": 7,
   "por_vendedor": {
-   "Roseli": 5,
+   "Roseli": 6,
    "Tiago Bernardo": 1
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "E",
+    "dia": "11/09",
+    "hora": "15:01",
+    "ts": 1789149673083,
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Roseli",
     "cliente": "A",
@@ -309,29 +294,18 @@
  },
  "agora": {
   "fila": 600,
-  "abertos": 744,
+  "abertos": 735,
   "com_atendimento": 5,
-  "online": 4,
+  "online": 3,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 2329
+  "ausentes": 3,
+  "espera_media_s": 2717
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-11T14:41:46.244Z",
-  "min_sem_lead": 193
+  "ultimo_lead_at": "2026-03-30T14:16:09.359Z",
+  "min_sem_lead": 237833
  },
  "leads": [
-  {
-   "nome": "Vam",
-   "tel": "5519*****762",
-   "criado": "11:41",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "558393082449",
    "tel": "5583*****449",
@@ -352,6 +326,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmVxjBsO69/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Vam",
+   "tel": "5519*****762",
+   "criado": "11:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
    "area": "Trabalhista"
   },
   {
