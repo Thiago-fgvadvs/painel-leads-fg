@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/09/2026, 18:12",
+ "gerado_em": "11/09/2026, 18:27",
  "data_ref": "11/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 14,
+  "total": 22,
+  "no_sla": 15,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 6,
-  "pct_sla": 93,
+  "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 180,
-  "tickets_abertos": 700,
+  "leads_7d": 181,
+  "tickets_abertos": 701,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -48,6 +48,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/4QIoxFDrn",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
   },
@@ -58,15 +62,11 @@
   {
    "url": "www.instagram.com/p/DcmVxjBsO69/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/bxztNylAu",
-   "leads": 1
   }
  ],
  "areas": {
   "Nao identificada": 5,
-  "Trabalhista": 16
+  "Trabalhista": 17
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -295,17 +295,17 @@
   ]
  },
  "agora": {
-  "fila": 602,
-  "abertos": 700,
+  "fila": 603,
+  "abertos": 701,
   "com_atendimento": 5,
-  "online": 4,
-  "offline": 4,
+  "online": 2,
+  "offline": 6,
   "ausentes": 0,
-  "espera_media_s": 2845
+  "espera_media_s": 2840
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-03T14:49:48.034Z",
-  "min_sem_lead": 11903
+  "ultimo_lead_at": "2026-09-07T06:21:14.051Z",
+  "min_sem_lead": 6667
  },
  "leads": [
   {
@@ -318,6 +318,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "555497098241",
+   "tel": "5554*****241",
+   "criado": "18:14",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4QIoxFDrn",
+   "area": "Trabalhista"
   },
   {
    "nome": "Marco/cristina",
