@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/09/2026, 19:28",
+ "gerado_em": "11/09/2026, 19:43",
  "data_ref": "11/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
+  "total": 23,
   "no_sla": 15,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 6,
+  "fora_horario": 7,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 181,
-  "tickets_abertos": 699,
+  "leads_7d": 182,
+  "tickets_abertos": 700,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 22,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -48,6 +48,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/4MBhcZyUD",
+   "leads": 1
+  },
+  {
    "url": "fb.me/4QIoxFDrn",
    "leads": 1
   },
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/875plPmzH",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmVxjBsO69/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 5,
-  "Trabalhista": 17
+  "Trabalhista": 18,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -283,19 +283,30 @@
   ]
  },
  "agora": {
-  "fila": 603,
-  "abertos": 699,
+  "fila": 604,
+  "abertos": 700,
   "com_atendimento": 5,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2840
+  "espera_media_s": 2836
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-11T18:49:01.730Z",
-  "min_sem_lead": 220
+  "ultimo_lead_at": "2026-09-03T12:23:21.292Z",
+  "min_sem_lead": 12141
  },
  "leads": [
+  {
+   "nome": "553391123618",
+   "tel": "5533*****618",
+   "criado": "19:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Josue (indicação Telma)",
    "tel": "5547*****340",
