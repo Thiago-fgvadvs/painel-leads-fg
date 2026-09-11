@@ -1,23 +1,23 @@
 {
- "gerado_em": "11/09/2026, 16:56",
+ "gerado_em": "11/09/2026, 17:11",
  "data_ref": "11/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
-  "no_sla": 13,
+  "total": 21,
+  "no_sla": 14,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 6,
   "pct_sla": 93,
   "mediana_geral": 0.4,
-  "leads_7d": 179,
-  "tickets_abertos": 725,
+  "leads_7d": 180,
+  "tickets_abertos": 708,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "fb.me/4VQLAvb8d",
    "leads": 3
+  },
+  {
+   "url": "fb.me/8hmN3IbSF",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/bxztNylAu",
    "leads": 1
-  },
-  {
-   "url": "fb.me/505ajP5YC",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 5,
-  "Trabalhista": 15
+  "Trabalhista": 16,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -81,15 +81,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 245,
-  "turnos": 438,
-  "respondidos": 434,
+  "turnos": 440,
+  "respondidos": 436,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
   "mediana_min": 45.2,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 282,
+    "respostas": 284,
     "mediana_min": 53.4
    },
    {
@@ -130,16 +130,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "G.F.D x BANCO DO BRASIL S.A",
-    "dia": "11/09",
-    "desde": "14:11",
-    "ts": 1789146706812
-   },
-   {
     "grupo": "J.P.D.S.S x SHPX LOGISTICA LTDA",
     "dia": "11/09",
     "desde": "16:12",
     "ts": 1789153956007
+   },
+   {
+    "grupo": "G.F.D x BANCO DO BRASIL S.A",
+    "dia": "11/09",
+    "desde": "14:11",
+    "ts": 1789146706812
    },
    {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
@@ -274,19 +274,30 @@
   ]
  },
  "agora": {
-  "fila": 597,
-  "abertos": 725,
+  "fila": 599,
+  "abertos": 708,
   "com_atendimento": 5,
   "online": 5,
-  "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 2742
+  "offline": 3,
+  "ausentes": 0,
+  "espera_media_s": 2813
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-12T17:54:19.254Z",
-  "min_sem_lead": 43322
+  "ultimo_lead_at": "2026-08-31T17:19:26.611Z",
+  "min_sem_lead": 16012
  },
  "leads": [
+  {
+   "nome": "Marco/cristina",
+   "tel": "5521*****662",
+   "criado": "16:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8hmN3IbSF",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Josue (indicação Telma)",
    "tel": "5547*****340",
