@@ -1,31 +1,35 @@
 {
- "gerado_em": "12/09/2026, 20:28",
+ "gerado_em": "12/09/2026, 20:43",
  "data_ref": "12/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
+  "total": 22,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 20,
+  "fora_horario": 21,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 183,
-  "tickets_abertos": 728,
+  "leads_7d": 184,
+  "tickets_abertos": 729,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/5RfuAbn3k",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 2
@@ -35,7 +39,7 @@
    "leads": 2
   },
   {
-   "url": "fb.me/5RfuAbn3k",
+   "url": "fb.me/4VQLAvb8d",
    "leads": 1
   },
   {
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/4QIoxFDrn",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4MBhcZyUD",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 17,
+  "Trabalhista": 18,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [
@@ -296,19 +296,41 @@
   ]
  },
  "agora": {
-  "fila": 632,
-  "abertos": 728,
+  "fila": 633,
+  "abertos": 729,
   "com_atendimento": 5,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2719
+  "espera_media_s": 2715
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-12T14:45:52.555Z",
-  "min_sem_lead": 522
+  "ultimo_lead_at": "2026-09-12T23:41:06.708Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "556696860409",
+   "tel": "5566*****409",
+   "criado": "20:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/5RfuAbn3k",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Neuza Leite Da Silva",
+   "tel": "5584*****330",
+   "criado": "13:13",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4VQLAvb8d",
+   "area": "Nao identificada"
+  },
   {
    "nome": "joseeleones6",
    "tel": "5511*****083",
@@ -451,17 +473,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Neuza Leite Da Silva",
-   "tel": "5584*****330",
-   "criado": "13:13",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4VQLAvb8d",
-   "area": "Nao identificada"
   },
   {
    "nome": "Zaquel Guedes",
