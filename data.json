@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/09/2026, 09:48",
+ "gerado_em": "12/09/2026, 10:03",
  "data_ref": "12/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 165,
-  "tickets_abertos": 707,
+  "tickets_abertos": 708,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,21 +27,21 @@
  },
  "criativos": [
   {
+   "url": "fb.me/7NcxNjdl9",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmXAHUsA31/",
    "leads": 1
   },
   {
    "url": "fb.me/7ciItXnNp",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7NcxNjdl9",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 2,
-  "Nao identificada": 1
+  "Nao identificada": 1,
+  "Trabalhista": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -262,19 +262,30 @@
   ]
  },
  "agora": {
-  "fila": 611,
-  "abertos": 707,
+  "fila": 612,
+  "abertos": 708,
   "com_atendimento": 5,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2805
+  "espera_media_s": 2800
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-23T14:28:31.836Z",
-  "min_sem_lead": 28700
+  "min_sem_lead": 28715
  },
  "leads": [
+  {
+   "nome": "\"Produção de prova governamental em caso de vítima alvo de Magia.\"",
+   "tel": "5581*****677",
+   "criado": "06:05",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.8,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7NcxNjdl9",
+   "area": "Nao identificada"
+  },
   {
    "nome": "554898202237",
    "tel": "5548*****237",
@@ -296,17 +307,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7ciItXnNp",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "\"Produção de prova governamental em caso de vítima alvo de Magia.\"",
-   "tel": "5581*****677",
-   "criado": "06:05",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.8,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7NcxNjdl9",
-   "area": "Nao identificada"
   }
  ]
 }
