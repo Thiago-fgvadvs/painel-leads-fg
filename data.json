@@ -1,31 +1,39 @@
 {
- "gerado_em": "12/09/2026, 13:36",
+ "gerado_em": "12/09/2026, 13:52",
  "data_ref": "12/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
+  "total": 12,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 10,
+  "fora_horario": 12,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 172,
-  "tickets_abertos": 715,
+  "leads_7d": 174,
+  "tickets_abertos": 717,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 12,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 12,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 1
+  },
   {
    "url": "fb.me/4VQLAvb8d",
    "leads": 1
@@ -49,19 +57,11 @@
   {
    "url": "fb.me/4MBhcZyUD",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmXAHUsA31/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 8
+  "Trabalhista": 10,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -282,19 +282,41 @@
   ]
  },
  "agora": {
-  "fila": 619,
-  "abertos": 715,
+  "fila": 621,
+  "abertos": 717,
   "com_atendimento": 5,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2770
+  "espera_media_s": 2761
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-12T16:13:23.612Z",
-  "min_sem_lead": 23
+  "ultimo_lead_at": "2026-09-12T16:41:55.195Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "Marli",
+   "tel": "5537*****250",
+   "criado": "13:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553491854219",
+   "tel": "5534*****219",
+   "criado": "13:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Neuza Leite Da Silva",
    "tel": "5584*****330",
