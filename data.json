@@ -1,17 +1,17 @@
 {
- "gerado_em": "12/09/2026, 16:24",
+ "gerado_em": "12/09/2026, 16:39",
  "data_ref": "12/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
+  "total": 19,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 2,
   "fora_horario": 17,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 180,
-  "tickets_abertos": 724,
+  "leads_7d": 181,
+  "tickets_abertos": 725,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,7 +22,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -33,6 +33,10 @@
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/7aicVqTF9",
+   "leads": 1
   },
   {
    "url": "fb.me/4QIoxFDrn",
@@ -53,17 +57,19 @@
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4VQLAvb8d",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 14,
+  "Trabalhista": 15,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [
+  {
+   "nome": "556791701704",
+   "tel": "5567*****704",
+   "criado": "16:39",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511985695765",
    "tel": "5511*****765",
@@ -178,6 +184,13 @@
     "dia": "12/09",
     "desde": "14:04",
     "ts": 1789232686961
+   },
+   {
+    "nome": "556791701704",
+    "tel": "5567*****704",
+    "dia": "12/09",
+    "desde": "16:39",
+    "ts": 1789241947533
    }
   ],
   "grupos": [
@@ -296,8 +309,8 @@
   ]
  },
  "agora": {
-  "fila": 628,
-  "abertos": 724,
+  "fila": 629,
+  "abertos": 725,
   "com_atendimento": 5,
   "online": 1,
   "offline": 7,
@@ -305,10 +318,21 @@
   "espera_media_s": 2736
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-12T19:22:29.560Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-09-12T19:39:07.533Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "556791701704",
+   "tel": "5567*****704",
+   "criado": "16:39",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7aicVqTF9",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Ausente",
    "tel": "5591*****770",
