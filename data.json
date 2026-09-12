@@ -1,31 +1,35 @@
 {
- "gerado_em": "12/09/2026, 13:52",
+ "gerado_em": "12/09/2026, 14:07",
  "data_ref": "12/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
+  "total": 15,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 12,
+  "fora_horario": 14,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 174,
-  "tickets_abertos": 717,
+  "leads_7d": 177,
+  "tickets_abertos": 719,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 12,
+   "leads": 14,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 12,
-  "Direto/Indicacao": 0
+  "Anuncio": 14,
+  "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 2
@@ -53,15 +57,11 @@
   {
    "url": "fb.me/5RfuAbn3k",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4MBhcZyUD",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
-  "Nao identificada": 2
+  "Trabalhista": 12,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -282,19 +282,41 @@
   ]
  },
  "agora": {
-  "fila": 621,
-  "abertos": 717,
+  "fila": 623,
+  "abertos": 719,
   "com_atendimento": 5,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2761
+  "espera_media_s": 2753
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-12T16:41:55.195Z",
-  "min_sem_lead": 10
+  "ultimo_lead_at": "2026-09-12T16:58:51.005Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "5511958602743",
+   "tel": "5511*****743",
+   "criado": "13:58",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554599482739",
+   "tel": "5545*****739",
+   "criado": "13:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Marli",
    "tel": "5537*****250",
@@ -426,6 +448,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7ciItXnNp",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5511985695765",
+   "tel": "5511*****765",
+   "criado": "14:04",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
