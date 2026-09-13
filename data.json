@@ -1,37 +1,37 @@
 {
- "gerado_em": "13/09/2026, 17:08",
+ "gerado_em": "13/09/2026, 17:23",
  "data_ref": "13/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
+  "total": 13,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 12,
+  "fora_horario": 13,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 158,
-  "tickets_abertos": 743,
+  "leads_7d": 159,
+  "tickets_abertos": 744,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 12,
+   "leads": 13,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
-   "url": "fb.me/875plPmzH",
+   "url": "fb.me/87PZSDuwc",
    "leads": 2
   },
   {
-   "url": "fb.me/87PZSDuwc",
+   "url": "fb.me/875plPmzH",
    "leads": 2
   },
   {
@@ -41,6 +41,10 @@
   {
    "url": "fb.me/6hFKXqtBv",
    "leads": 2
+  },
+  {
+   "url": "fb.me/4cT7G29HU",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmVrByMck7/",
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/7ZVZhwxMh",
    "leads": 1
-  },
-  {
-   "url": "fb.me/k6QGj5ebc",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
+  "Trabalhista": 11,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -282,19 +282,41 @@
   ]
  },
  "agora": {
-  "fila": 647,
-  "abertos": 743,
+  "fila": 648,
+  "abertos": 744,
   "com_atendimento": 5,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2659
+  "espera_media_s": 2655
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-13T19:33:32.005Z",
-  "min_sem_lead": 35
+  "ultimo_lead_at": "2026-09-13T15:27:31.308Z",
+  "min_sem_lead": 296
  },
  "leads": [
+  {
+   "nome": "Reginaldo da Silva",
+   "tel": "5518*****068",
+   "criado": "12:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.8,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "555182092625",
+   "tel": "5551*****625",
+   "criado": "17:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4cT7G29HU",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558781183584",
    "tel": "5587*****584",
@@ -359,17 +381,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/8hmN3IbSF",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Reginaldo da Silva",
-   "tel": "5518*****068",
-   "criado": "12:27",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.8,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
    "area": "Trabalhista"
   },
   {
