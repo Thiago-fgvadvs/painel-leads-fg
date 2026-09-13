@@ -1,13 +1,13 @@
 {
- "gerado_em": "13/09/2026, 11:18",
+ "gerado_em": "13/09/2026, 11:33",
  "data_ref": "13/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
+  "total": 5,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 4,
+  "fora_horario": 5,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 151,
@@ -17,18 +17,22 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "fb.me/6hFKXqtBv",
    "leads": 2
+  },
+  {
+   "url": "fb.me/8hmN3IbSF",
+   "leads": 1
   },
   {
    "url": "fb.me/k6QGj5ebc",
@@ -40,8 +44,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 2
+  "Trabalhista": 3,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -144,13 +148,6 @@
     "dia": "12/09",
     "desde": "14:04",
     "ts": 1789232686961
-   },
-   {
-    "nome": "5519992636769",
-    "tel": "5519*****769",
-    "dia": "13/09",
-    "desde": "11:18",
-    "ts": 1789309093897
    }
   ],
   "grupos": [
@@ -275,13 +272,24 @@
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2695
+  "espera_media_s": 2691
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-13T14:18:13.897Z",
-  "min_sem_lead": 0
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "5519992636769",
+   "tel": "5519*****769",
+   "criado": "11:18",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.1,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8hmN3IbSF",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Maconi",
    "tel": "5588*****470",
