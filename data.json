@@ -1,29 +1,29 @@
 {
- "gerado_em": "13/09/2026, 19:25",
+ "gerado_em": "13/09/2026, 19:40",
  "data_ref": "13/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
+  "total": 15,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 14,
+  "fora_horario": 15,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 160,
-  "tickets_abertos": 746,
+  "leads_7d": 161,
+  "tickets_abertos": 747,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 14,
+   "leads": 15,
    "mediana_min": null
   }
  ],
  "origem": {
   "Anuncio": 14,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 12,
+  "Trabalhista": 13,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -282,19 +282,30 @@
   ]
  },
  "agora": {
-  "fila": 650,
-  "abertos": 746,
+  "fila": 651,
+  "abertos": 747,
   "com_atendimento": 5,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2647
+  "espera_media_s": 2643
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-29T06:51:44.159Z",
-  "min_sem_lead": 22533
+  "ultimo_lead_at": "2026-09-13T22:37:36.437Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "5521983559223",
+   "tel": "5521*****223",
+   "criado": "19:37",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.8,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "Narciso Do Nascimento",
    "tel": "5521*****129",
