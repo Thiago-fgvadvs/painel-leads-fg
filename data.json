@@ -1,28 +1,28 @@
 {
- "gerado_em": "13/09/2026, 17:23",
+ "gerado_em": "13/09/2026, 17:38",
  "data_ref": "13/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
+  "total": 14,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 13,
+  "fora_horario": 14,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 159,
-  "tickets_abertos": 744,
+  "leads_7d": 160,
+  "tickets_abertos": 745,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 13,
+   "leads": 14,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 14,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -43,6 +43,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/7XyNEgnLl",
+   "leads": 1
+  },
+  {
    "url": "fb.me/4cT7G29HU",
    "leads": 1
   },
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/8hmN3IbSF",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7ZVZhwxMh",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 11,
+  "Trabalhista": 12,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -282,19 +282,30 @@
   ]
  },
  "agora": {
-  "fila": 648,
-  "abertos": 744,
+  "fila": 649,
+  "abertos": 745,
   "com_atendimento": 5,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2655
+  "espera_media_s": 2651
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-13T15:27:31.308Z",
-  "min_sem_lead": 296
+  "ultimo_lead_at": "2026-09-13T20:35:44.409Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "Narciso Do Nascimento",
+   "tel": "5521*****129",
+   "criado": "17:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7XyNEgnLl",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Reginaldo da Silva",
    "tel": "5518*****068",
