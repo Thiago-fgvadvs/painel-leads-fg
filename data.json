@@ -1,28 +1,28 @@
 {
- "gerado_em": "13/09/2026, 12:19",
+ "gerado_em": "13/09/2026, 12:34",
  "data_ref": "13/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
+  "total": 7,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 6,
+  "fora_horario": 7,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 152,
-  "tickets_abertos": 736,
+  "leads_7d": 153,
+  "tickets_abertos": 737,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -31,11 +31,15 @@
    "leads": 2
   },
   {
-   "url": "fb.me/7ZVZhwxMh",
+   "url": "fb.me/8hmN3IbSF",
    "leads": 1
   },
   {
-   "url": "fb.me/8hmN3IbSF",
+   "url": "fb.me/87PZSDuwc",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/7ZVZhwxMh",
    "leads": 1
   },
   {
@@ -48,7 +52,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
+  "Trabalhista": 5,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -270,30 +274,19 @@
   ]
  },
  "agora": {
-  "fila": 640,
-  "abertos": 736,
+  "fila": 641,
+  "abertos": 737,
   "com_atendimento": 5,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2686
+  "espera_media_s": 2683
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-13T14:33:31.447Z",
-  "min_sem_lead": 46
+  "ultimo_lead_at": "2026-09-13T14:18:13.897Z",
+  "min_sem_lead": 76
  },
  "leads": [
-  {
-   "nome": "Rafael",
-   "tel": "5516*****049",
-   "criado": "11:33",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
   {
    "nome": "5519992636769",
    "tel": "5519*****769",
@@ -303,6 +296,28 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/8hmN3IbSF",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Reginaldo da Silva",
+   "tel": "5518*****068",
+   "criado": "12:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.8,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Rafael",
+   "tel": "5516*****049",
+   "criado": "11:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
   },
   {
