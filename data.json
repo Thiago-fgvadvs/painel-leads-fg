@@ -1,13 +1,13 @@
 {
- "gerado_em": "13/09/2026, 13:04",
+ "gerado_em": "13/09/2026, 13:20",
  "data_ref": "13/09/2026",
  "sla_min": 15,
  "kpi": {
   "total": 9,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 8,
+  "sem_resposta": 0,
+  "fora_horario": 9,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 155,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 8,
+   "leads": 9,
    "mediana_min": null
   }
  ],
@@ -59,14 +59,7 @@
   "Trabalhista": 7,
   "Nao identificada": 2
  },
- "sem_resposta_lista": [
-  {
-   "nome": "Maria",
-   "tel": "5567*****993",
-   "criado": "13:04",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -291,28 +284,28 @@
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 2678
+  "espera_media_s": 2674
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-13T15:45:56.690Z",
-  "min_sem_lead": 19
+  "min_sem_lead": 34
  },
  "leads": [
   {
-   "nome": "Maria",
-   "tel": "5567*****993",
-   "criado": "13:04",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "nome": "5511984691168",
+   "tel": "5511*****168",
+   "criado": "12:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
    "area": "Trabalhista"
   },
   {
-   "nome": "5511984691168",
-   "tel": "5511*****168",
-   "criado": "12:45",
+   "nome": "Maria",
+   "tel": "5567*****993",
+   "criado": "13:04",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
