@@ -1,17 +1,17 @@
 {
- "gerado_em": "13/09/2026, 12:49",
+ "gerado_em": "13/09/2026, 13:04",
  "data_ref": "13/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
+  "total": 9,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 8,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 154,
-  "tickets_abertos": 738,
+  "leads_7d": 155,
+  "tickets_abertos": 739,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,17 +22,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 9,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
-   "url": "fb.me/6hFKXqtBv",
+   "url": "www.instagram.com/p/DcmW5LEMrD9/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmW5LEMrD9/",
-   "leads": 1
+   "url": "fb.me/6hFKXqtBv",
+   "leads": 2
   },
   {
    "url": "fb.me/8hmN3IbSF",
@@ -56,10 +56,17 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
+  "Trabalhista": 7,
   "Nao identificada": 2
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Maria",
+   "tel": "5567*****993",
+   "criado": "13:04",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -278,8 +285,8 @@
   ]
  },
  "agora": {
-  "fila": 642,
-  "abertos": 738,
+  "fila": 643,
+  "abertos": 739,
   "com_atendimento": 5,
   "online": 1,
   "offline": 7,
@@ -288,9 +295,20 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-13T15:45:56.690Z",
-  "min_sem_lead": 4
+  "min_sem_lead": 19
  },
  "leads": [
+  {
+   "nome": "Maria",
+   "tel": "5567*****993",
+   "criado": "13:04",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511984691168",
    "tel": "5511*****168",
