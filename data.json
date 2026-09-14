@@ -1,28 +1,28 @@
 {
- "gerado_em": "14/09/2026, 10:30",
+ "gerado_em": "14/09/2026, 10:45",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 1,
+  "total": 7,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 149,
-  "tickets_abertos": 770,
+  "leads_7d": 150,
+  "tickets_abertos": 772,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
+   "leads": 6,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -35,24 +35,28 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/91elw2A2a",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 5,
+  "Trabalhista": 6,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 249,
+  "grupos_ativos": 250,
   "turnos": 464,
-  "respondidos": 455,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 42.9,
+  "respondidos": 457,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 41.6,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -86,7 +90,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 5,
+    "respostas": 7,
     "mediana_min": 4.9
    },
    {
@@ -108,22 +112,10 @@
     "ts": 1789392229821
    },
    {
-    "grupo": "J.C.C.(",
-    "dia": "14/09",
-    "desde": "10:27",
-    "ts": 1789392433825
-   },
-   {
     "grupo": "A.F.G",
     "dia": "14/09",
     "desde": "10:24",
     "ts": 1789392271823
-   },
-   {
-    "grupo": "G.F.D x BANCO DO BRASIL S.A",
-    "dia": "14/09",
-    "desde": "10:22",
-    "ts": 1789392132819
    },
    {
     "grupo": "A.M x INSS",
@@ -200,12 +192,6 @@
     "ts": 1789387619740
    },
    {
-    "grupo": "G.F.D x BANCO DO BRASIL S.A",
-    "dia": "14/09",
-    "desde": "10:22",
-    "ts": 1789392132819
-   },
-   {
     "grupo": "A.D.S x DAIANNY CHRISTINE PATROCINIO VIANA",
     "dia": "14/09",
     "desde": "10:23",
@@ -216,12 +202,6 @@
     "dia": "14/09",
     "desde": "10:24",
     "ts": 1789392271823
-   },
-   {
-    "grupo": "J.C.C.(",
-    "dia": "14/09",
-    "desde": "10:27",
-    "ts": 1789392433825
    }
   ]
  },
@@ -308,19 +288,30 @@
   ]
  },
  "agora": {
-  "fila": 671,
-  "abertos": 770,
+  "fila": 672,
+  "abertos": 772,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 2,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 2571
+  "ausentes": 3,
+  "espera_media_s": 2567
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-03T14:49:48.034Z",
-  "min_sem_lead": 15761
+  "ultimo_lead_at": "2026-09-14T13:44:10.035Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "Rebeka Souza",
+   "tel": "5561*****703",
+   "criado": "10:44",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Roberto",
    "tel": "5555*****303",
