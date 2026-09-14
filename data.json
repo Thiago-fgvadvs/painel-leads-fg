@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/09/2026, 14:04",
+ "gerado_em": "14/09/2026, 14:19",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -59,11 +59,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 257,
-  "turnos": 489,
+  "grupos_ativos": 258,
+  "turnos": 490,
   "respondidos": 483,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 38.6,
   "atendentes": [
    {
@@ -113,6 +113,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "dia": "14/09",
+    "desde": "14:10",
+    "ts": 1789405840160
+   },
    {
     "grupo": "A.D.S x DAIANNY CHRISTINE PATROCINIO VIANA",
     "dia": "14/09",
@@ -198,6 +204,12 @@
     "dia": "14/09",
     "desde": "10:23",
     "ts": 1789392229821
+   },
+   {
+    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "dia": "14/09",
+    "desde": "14:10",
+    "ts": 1789405840160
    }
   ]
  },
@@ -287,14 +299,14 @@
   "fila": 666,
   "abertos": 772,
   "com_atendimento": 5,
-  "online": 3,
+  "online": 2,
   "offline": 3,
-  "ausentes": 2,
+  "ausentes": 3,
   "espera_media_s": 2565
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-11T18:49:01.730Z",
-  "min_sem_lead": 4215
+  "ultimo_lead_at": "2026-08-23T14:28:31.836Z",
+  "min_sem_lead": 31851
  },
  "leads": [
   {
