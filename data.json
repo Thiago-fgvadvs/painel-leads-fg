@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/09/2026, 13:03",
+ "gerado_em": "14/09/2026, 13:18",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -60,10 +60,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 254,
-  "turnos": 487,
+  "turnos": 488,
   "respondidos": 480,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 38.6,
   "atendentes": [
    {
@@ -113,6 +113,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "N.M.D.M x PROMIL PROMOTORA DE VENDAS LTDA",
+    "dia": "14/09",
+    "desde": "13:14",
+    "ts": 1789402481064
+   },
    {
     "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
     "dia": "14/09",
@@ -210,6 +216,12 @@
     "dia": "14/09",
     "desde": "12:15",
     "ts": 1789398935991
+   },
+   {
+    "grupo": "N.M.D.M x PROMIL PROMOTORA DE VENDAS LTDA",
+    "dia": "14/09",
+    "desde": "13:14",
+    "ts": 1789402481064
    }
   ]
  },
@@ -299,18 +311,18 @@
   "fila": 669,
   "abertos": 774,
   "com_atendimento": 5,
-  "online": 3,
+  "online": 2,
   "offline": 3,
-  "ausentes": 2,
+  "ausentes": 3,
   "espera_media_s": 2558
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-14T15:37:38.408Z",
-  "min_sem_lead": 25
+  "ultimo_lead_at": "2026-09-14T01:34:59.137Z",
+  "min_sem_lead": 883
  },
  "leads": [
   {
-   "nome": "5511949038698",
+   "nome": "Ana leticia Pereira",
    "tel": "5511*****698",
    "criado": "12:37",
    "atendente": "FG Advogados - Isadora ",
