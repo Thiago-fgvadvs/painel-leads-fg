@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/09/2026, 20:43",
+ "gerado_em": "14/09/2026, 20:58",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -93,10 +93,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 268,
-  "turnos": 516,
+  "turnos": 517,
   "respondidos": 511,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 41.6,
   "atendentes": [
    {
@@ -146,6 +146,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
+    "dia": "14/09",
+    "desde": "20:44",
+    "ts": 1789429457354
+   },
    {
     "grupo": "E.M.M.R x GRUPO CASAS BAHIA S.A.",
     "dia": "14/09",
@@ -211,6 +217,12 @@
     "dia": "14/09",
     "desde": "19:09",
     "ts": 1789423791212
+   },
+   {
+    "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
+    "dia": "14/09",
+    "desde": "20:44",
+    "ts": 1789429457354
    }
   ]
  },
@@ -316,7 +328,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-14T23:38:30.502Z",
-  "min_sem_lead": 5
+  "min_sem_lead": 20
  },
  "leads": [
   {
