@@ -1,31 +1,35 @@
 {
- "gerado_em": "14/09/2026, 12:32",
+ "gerado_em": "14/09/2026, 12:47",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 5,
+  "total": 13,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 154,
-  "tickets_abertos": 771,
+  "leads_7d": 156,
+  "tickets_abertos": 774,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 11,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 10,
   "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 3
+  },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 2
@@ -35,8 +39,8 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
-   "leads": 2
+   "url": "www.instagram.com/p/DcmW5LEMrD9/",
+   "leads": 1
   },
   {
    "url": "fb.me/7ZVZhwxMh",
@@ -48,16 +52,16 @@
   }
  ],
  "areas": {
-  "Trabalhista": 9,
-  "Nao identificada": 2
+  "Nao identificada": 3,
+  "Trabalhista": 10
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 252,
-  "turnos": 484,
-  "respondidos": 477,
+  "turnos": 486,
+  "respondidos": 479,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 38.6,
@@ -69,13 +73,13 @@
    },
    {
     "nome": "Julia",
-    "respostas": 80,
+    "respostas": 81,
     "mediana_min": 21.7
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 44,
-    "mediana_min": 983
+    "respostas": 45,
+    "mediana_min": 1010.6
    },
    {
     "nome": "Roseli",
@@ -110,6 +114,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "dia": "14/09",
+    "desde": "12:15",
+    "ts": 1789398935991
+   },
+   {
     "grupo": "A.D.S x DAIANNY CHRISTINE PATROCINIO VIANA",
     "dia": "14/09",
     "desde": "10:23",
@@ -120,12 +130,6 @@
     "dia": "14/09",
     "desde": "10:14",
     "ts": 1789391677809
-   },
-   {
-    "grupo": "M.S.D.C x CENCOSUD BRASIL COMERCIAL LTDA",
-    "dia": "14/09",
-    "desde": "09:40",
-    "ts": 1789389637774
    },
    {
     "grupo": "A.M x INSS",
@@ -190,12 +194,6 @@
     "ts": 1789387619740
    },
    {
-    "grupo": "M.S.D.C x CENCOSUD BRASIL COMERCIAL LTDA",
-    "dia": "14/09",
-    "desde": "09:40",
-    "ts": 1789389637774
-   },
-   {
     "grupo": "C.G x Caixa ",
     "dia": "14/09",
     "desde": "10:14",
@@ -206,6 +204,12 @@
     "dia": "14/09",
     "desde": "10:23",
     "ts": 1789392229821
+   },
+   {
+    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "dia": "14/09",
+    "desde": "12:15",
+    "ts": 1789398935991
    }
   ]
  },
@@ -292,19 +296,41 @@
   ]
  },
  "agora": {
-  "fila": 667,
-  "abertos": 771,
-  "com_atendimento": 6,
-  "online": 4,
+  "fila": 670,
+  "abertos": 774,
+  "com_atendimento": 5,
+  "online": 3,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 2565
+  "ausentes": 2,
+  "espera_media_s": 2558
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 731533
+  "ultimo_lead_at": "2026-09-14T15:37:38.408Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "5511949038698",
+   "tel": "5511*****698",
+   "criado": "12:37",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "CONSULTORA DE VENDAS TAMBORIL MOTOS",
+   "tel": "5587*****562",
+   "criado": "12:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558198932388",
    "tel": "5581*****388",
