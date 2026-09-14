@@ -1,28 +1,28 @@
 {
- "gerado_em": "14/09/2026, 14:49",
+ "gerado_em": "14/09/2026, 15:05",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
-  "no_sla": 9,
+  "total": 16,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 158,
-  "tickets_abertos": 775,
+  "leads_7d": 159,
+  "tickets_abertos": 776,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 13,
+   "leads": 14,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 11,
+  "Anuncio": 12,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -47,12 +47,16 @@
    "leads": 1
   },
   {
+   "url": "www.instagram.com/p/DcmVpxyMs5c/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/91elw2A2a",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 11,
+  "Trabalhista": 12,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
@@ -60,8 +64,8 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 259,
-  "turnos": 490,
-  "respondidos": 483,
+  "turnos": 492,
+  "respondidos": 485,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 38.6,
@@ -73,13 +77,13 @@
    },
    {
     "nome": "Julia",
-    "respostas": 82,
-    "mediana_min": 21.7
+    "respostas": 83,
+    "mediana_min": 21.6
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 45,
-    "mediana_min": 1010.6
+    "respostas": 46,
+    "mediana_min": 983
    },
    {
     "nome": "Roseli",
@@ -297,16 +301,16 @@
  },
  "agora": {
   "fila": 669,
-  "abertos": 775,
+  "abertos": 776,
   "com_atendimento": 5,
   "online": 3,
   "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 2558
+  "espera_media_s": 2555
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-19T19:30:03.638Z",
-  "min_sem_lead": 169820
+  "ultimo_lead_at": "2026-09-14T17:37:34.329Z",
+  "min_sem_lead": 27
  },
  "leads": [
   {
@@ -340,6 +344,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Moises Ribeiro",
+   "tel": "5565*****477",
+   "criado": "14:52",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmVpxyMs5c/",
    "area": "Trabalhista"
   },
   {
