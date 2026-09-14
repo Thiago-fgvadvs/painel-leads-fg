@@ -1,34 +1,39 @@
 {
- "gerado_em": "14/09/2026, 16:06",
+ "gerado_em": "14/09/2026, 16:21",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 13,
+  "total": 22,
+  "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 162,
-  "tickets_abertos": 774,
+  "leads_7d": 165,
+  "tickets_abertos": 777,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.4
   },
   {
    "nome": "Tiago Bernardo",
    "leads": 1,
    "mediana_min": 2.6
+  },
+  {
+   "nome": "Roseli",
+   "leads": 1,
+   "mediana_min": 0.3
   }
  ],
  "origem": {
-  "Anuncio": 14,
-  "Direto/Indicacao": 5
+  "Anuncio": 15,
+  "Direto/Indicacao": 7
  },
  "criativos": [
   {
@@ -38,6 +43,10 @@
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DcmW5LEMrD9/",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
@@ -52,10 +61,6 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmW5LEMrD9/",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
   },
@@ -65,8 +70,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
-  "Trabalhista": 13
+  "Trabalhista": 14,
+  "Nao identificada": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -307,24 +312,79 @@
  },
  "agora": {
   "fila": 672,
-  "abertos": 774,
+  "abertos": 777,
   "com_atendimento": 6,
-  "online": 6,
+  "online": 5,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 2569
+  "ausentes": 1,
+  "espera_media_s": 2566
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-14T19:01:38.759Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2026-08-26T15:55:32.702Z",
+  "min_sem_lead": 27566
  },
  "leads": [
+  {
+   "nome": "elisetesilvapassos32",
+   "tel": "5547*****265",
+   "criado": "11:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Mauricio✨",
+   "tel": "5511*****670",
+   "criado": "16:18",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Mae 1",
    "tel": "5592*****739",
    "criado": "16:01",
    "atendente": "Tiago Bernardo",
    "espera_min": 2.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Edilma",
+   "tel": "5511*****015",
+   "criado": "16:13",
+   "atendente": "Roseli",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Dorivaldo",
+   "tel": "5516*****892",
+   "criado": "15:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4Q2iDxnnc",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "559499801594",
+   "tel": "5594*****594",
+   "criado": "16:16",
+   "atendente": "—",
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
@@ -340,28 +400,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/87PZSDuwc",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "elisetesilvapassos32",
-   "tel": "5547*****265",
-   "criado": "11:59",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Dorivaldo",
-   "tel": "5516*****892",
-   "criado": "15:41",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4Q2iDxnnc",
-   "area": "Nao identificada"
   },
   {
    "nome": "CONSULTORA DE VENDAS TAMBORIL MOTOS",
