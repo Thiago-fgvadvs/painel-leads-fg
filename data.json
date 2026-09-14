@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/09/2026, 13:33",
+ "gerado_em": "14/09/2026, 13:48",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -52,14 +52,14 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 10
+  "Trabalhista": 10,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 254,
+  "grupos_ativos": 255,
   "turnos": 489,
   "respondidos": 483,
   "sem_resposta": 6,
@@ -284,19 +284,41 @@
   ]
  },
  "agora": {
-  "fila": 670,
+  "fila": 668,
   "abertos": 774,
   "com_atendimento": 5,
-  "online": 1,
+  "online": 2,
   "offline": 3,
-  "ausentes": 4,
+  "ausentes": 3,
   "espera_media_s": 2555
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-11T18:49:01.730Z",
-  "min_sem_lead": 4184
+  "ultimo_lead_at": "2026-09-14T15:46:29.788Z",
+  "min_sem_lead": 62
  },
  "leads": [
+  {
+   "nome": "CONSULTORA DE VENDAS TAMBORIL MOTOS",
+   "tel": "5587*****562",
+   "criado": "12:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511969301048",
+   "tel": "5511*****048",
+   "criado": "05:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5521973505658",
    "tel": "5521*****658",
@@ -318,17 +340,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "CONSULTORA DE VENDAS TAMBORIL MOTOS",
-   "tel": "5587*****562",
-   "criado": "12:46",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
-   "area": "Trabalhista"
   },
   {
    "nome": "558198932388",
@@ -386,17 +397,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511969301048",
-   "tel": "5511*****048",
-   "criado": "05:28",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "5521973928720",
    "tel": "5521*****720",
    "criado": "03:23",
@@ -430,9 +430,9 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556792907379",
-   "tel": "5567*****379",
-   "criado": "10:55",
+   "nome": "5511953069504",
+   "tel": "5511*****504",
+   "criado": "09:52",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
@@ -441,9 +441,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5511953069504",
-   "tel": "5511*****504",
-   "criado": "09:52",
+   "nome": "556792907379",
+   "tel": "5567*****379",
+   "criado": "10:55",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
