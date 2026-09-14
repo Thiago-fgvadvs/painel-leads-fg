@@ -1,17 +1,17 @@
 {
- "gerado_em": "14/09/2026, 15:50",
+ "gerado_em": "14/09/2026, 16:06",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
-  "no_sla": 12,
+  "total": 19,
+  "no_sla": 13,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 161,
-  "tickets_abertos": 773,
+  "leads_7d": 162,
+  "tickets_abertos": 774,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 16,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 2.6
   }
  ],
  "origem": {
   "Anuncio": 14,
-  "Direto/Indicacao": 4
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
@@ -60,16 +65,16 @@
   }
  ],
  "areas": {
-  "Trabalhista": 13,
-  "Nao identificada": 5
+  "Nao identificada": 6,
+  "Trabalhista": 13
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 262,
-  "turnos": 499,
-  "respondidos": 493,
+  "turnos": 502,
+  "respondidos": 496,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 38.6,
@@ -81,8 +86,8 @@
    },
    {
     "nome": "Julia",
-    "respostas": 89,
-    "mediana_min": 21.7
+    "respostas": 90,
+    "mediana_min": 21.9
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -96,8 +101,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 22,
-    "mediana_min": 19.4
+    "respostas": 24,
+    "mediana_min": 15.6
    },
    {
     "nome": "Gabrielle",
@@ -122,6 +127,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "C.S.B x ROYAL MAX DO BRASIL INDUSTRIA E COMERCIO LTDA",
+    "dia": "14/09",
+    "desde": "16:04",
+    "ts": 1789412671462
+   },
+   {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
     "dia": "11/09",
     "desde": "15:43",
@@ -138,12 +149,6 @@
     "dia": "14/09",
     "desde": "10:23",
     "ts": 1789392229821
-   },
-   {
-    "grupo": "C.G x Caixa ",
-    "dia": "14/09",
-    "desde": "10:14",
-    "ts": 1789391677809
    },
    {
     "grupo": "A.M x INSS",
@@ -190,12 +195,6 @@
     "ts": 1789387619740
    },
    {
-    "grupo": "C.G x Caixa ",
-    "dia": "14/09",
-    "desde": "10:14",
-    "ts": 1789391677809
-   },
-   {
     "grupo": "A.D.S x DAIANNY CHRISTINE PATROCINIO VIANA",
     "dia": "14/09",
     "desde": "10:23",
@@ -206,6 +205,12 @@
     "dia": "14/09",
     "desde": "15:31",
     "ts": 1789410684353
+   },
+   {
+    "grupo": "C.S.B x ROYAL MAX DO BRASIL INDUSTRIA E COMERCIO LTDA",
+    "dia": "14/09",
+    "desde": "16:04",
+    "ts": 1789412671462
    }
   ]
  },
@@ -302,18 +307,29 @@
  },
  "agora": {
   "fila": 672,
-  "abertos": 773,
+  "abertos": 774,
   "com_atendimento": 6,
-  "online": 3,
-  "offline": 3,
-  "ausentes": 2,
+  "online": 6,
+  "offline": 2,
+  "ausentes": 0,
   "espera_media_s": 2569
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:21:49.813Z",
-  "min_sem_lead": 511229
+  "ultimo_lead_at": "2026-09-14T19:01:38.759Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "Mae 1",
+   "tel": "5592*****739",
+   "criado": "16:01",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 2.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Esmail",
    "tel": "5541*****309",
