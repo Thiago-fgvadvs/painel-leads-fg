@@ -1,31 +1,35 @@
 {
- "gerado_em": "14/09/2026, 09:44",
+ "gerado_em": "14/09/2026, 10:00",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 0,
+  "total": 6,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 147,
-  "tickets_abertos": 765,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 149,
+  "tickets_abertos": 769,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
-   "mediana_min": null
+   "leads": 5,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 4,
-  "Direto/Indicacao": 0
+  "Anuncio": 5,
+  "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 2
@@ -33,30 +37,27 @@
   {
    "url": "fb.me/91elw2A2a",
    "leads": 1
-  },
-  {
-   "url": "fb.me/87PZSDuwc",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 4
+  "Trabalhista": 5,
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 248,
-  "turnos": 454,
-  "respondidos": 450,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 39.7,
+  "turnos": 459,
+  "respondidos": 452,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 41.2,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 277,
-    "mediana_min": 40.7
+    "respostas": 279,
+    "mediana_min": 43.3
    },
    {
     "nome": "Julia",
@@ -107,6 +108,24 @@
     "ts": 1789387619740
    },
    {
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
+    "dia": "11/09",
+    "desde": "18:16",
+    "ts": 1789161395429
+   },
+   {
+    "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
+    "dia": "12/09",
+    "desde": "13:15",
+    "ts": 1789229756671
+   },
+   {
+    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
+    "dia": "08/09",
+    "desde": "18:41",
+    "ts": 1788903699344
+   },
+   {
     "grupo": "T.M.F x DVT COMERCIO, IMPORTACAO E EXPORTACAO LTDA",
     "dia": "11/09",
     "desde": "18:02",
@@ -139,6 +158,12 @@
   ],
   "grupos": [
    {
+    "grupo": "F.S.V.D.J x ORGANICO LANCHES SAUDAVEIS COMERCIAL DE ALIMENTOS LTDA",
+    "dia": "08/09",
+    "desde": "18:41",
+    "ts": 1788903699344
+   },
+   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "09/09",
     "desde": "12:49",
@@ -155,6 +180,18 @@
     "dia": "11/09",
     "desde": "18:02",
     "ts": 1789160570422
+   },
+   {
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
+    "dia": "11/09",
+    "desde": "18:16",
+    "ts": 1789161395429
+   },
+   {
+    "grupo": "A.T.D.G x PROCISA DO BRASIL PROJETOS, CONSTRUCOES E INTALACOES LTDA",
+    "dia": "12/09",
+    "desde": "13:15",
+    "ts": 1789229756671
    },
    {
     "grupo": "A.M x INSS",
@@ -247,19 +284,30 @@
   ]
  },
  "agora": {
-  "fila": 668,
-  "abertos": 765,
+  "fila": 672,
+  "abertos": 769,
   "com_atendimento": 6,
-  "online": 3,
-  "offline": 4,
+  "online": 4,
+  "offline": 3,
   "ausentes": 1,
   "espera_media_s": 2578
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T16:33:23.680Z",
-  "min_sem_lead": 66011
+  "ultimo_lead_at": "2025-09-24T18:21:49.813Z",
+  "min_sem_lead": 510878
  },
  "leads": [
+  {
+   "nome": "Roberto",
+   "tel": "5555*****303",
+   "criado": "09:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511969301048",
    "tel": "5511*****048",
@@ -303,6 +351,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5511953069504",
+   "tel": "5511*****504",
+   "criado": "09:52",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
