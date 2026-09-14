@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/09/2026, 11:31",
+ "gerado_em": "14/09/2026, 11:46",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 152,
-  "tickets_abertos": 772,
+  "tickets_abertos": 773,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -44,19 +44,19 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 6
+  "Trabalhista": 7,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 252,
-  "turnos": 472,
-  "respondidos": 464,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 39.7,
+  "turnos": 478,
+  "respondidos": 469,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 38.6,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -65,7 +65,7 @@
    },
    {
     "nome": "Julia",
-    "respostas": 72,
+    "respostas": 77,
     "mediana_min": 21.6
    },
    {
@@ -106,16 +106,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
+    "dia": "14/09",
+    "desde": "11:33",
+    "ts": 1789396382910
+   },
+   {
     "grupo": "G.F.D x BANCO DO BRASIL S.A",
     "dia": "14/09",
     "desde": "11:09",
     "ts": 1789394964870
    },
    {
-    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
-    "dia": "11/09",
-    "desde": "18:16",
-    "ts": 1789161395429
+    "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
+    "dia": "14/09",
+    "desde": "11:05",
+    "ts": 1789394752863
    },
    {
     "grupo": "A.D.S x DAIANNY CHRISTINE PATROCINIO VIANA",
@@ -186,12 +192,6 @@
     "ts": 1789160570422
    },
    {
-    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
-    "dia": "11/09",
-    "desde": "18:16",
-    "ts": 1789161395429
-   },
-   {
     "grupo": "A.M x INSS",
     "dia": "14/09",
     "desde": "09:06",
@@ -210,10 +210,22 @@
     "ts": 1789392271823
    },
    {
+    "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
+    "dia": "14/09",
+    "desde": "11:05",
+    "ts": 1789394752863
+   },
+   {
     "grupo": "G.F.D x BANCO DO BRASIL S.A",
     "dia": "14/09",
     "desde": "11:09",
     "ts": 1789394964870
+   },
+   {
+    "grupo": "E.A.B x SERVICOM FACILITY PORTARIA LIMPEZA E CONSERVACAO LTDA",
+    "dia": "14/09",
+    "desde": "11:33",
+    "ts": 1789396382910
    }
   ]
  },
@@ -301,16 +313,16 @@
  },
  "agora": {
   "fila": 668,
-  "abertos": 772,
-  "com_atendimento": 6,
-  "online": 4,
+  "abertos": 773,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 3,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 2571
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:21:49.813Z",
-  "min_sem_lead": 510970
+  "ultimo_lead_at": "2026-09-14T14:27:52.275Z",
+  "min_sem_lead": 19
  },
  "leads": [
   {
@@ -322,7 +334,7 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "Rebeka Souza",
