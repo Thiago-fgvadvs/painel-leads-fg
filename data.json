@@ -1,17 +1,17 @@
 {
- "gerado_em": "14/09/2026, 10:45",
+ "gerado_em": "14/09/2026, 11:01",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
+  "total": 8,
   "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 150,
-  "tickets_abertos": 772,
+  "leads_7d": 151,
+  "tickets_abertos": 771,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 6,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -45,18 +45,18 @@
  ],
  "areas": {
   "Trabalhista": 6,
-  "Nao identificada": 1
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 250,
-  "turnos": 464,
-  "respondidos": 457,
+  "turnos": 466,
+  "respondidos": 459,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 41.6,
+  "mediana_min": 40.7,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -80,8 +80,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 11,
-    "mediana_min": 52.9
+    "respostas": 13,
+    "mediana_min": 28.9
    },
    {
     "nome": "Luisa",
@@ -288,17 +288,17 @@
   ]
  },
  "agora": {
-  "fila": 672,
-  "abertos": 772,
+  "fila": 669,
+  "abertos": 771,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 4,
   "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 2567
+  "ausentes": 1,
+  "espera_media_s": 2571
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-14T13:44:10.035Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-09-14T01:19:31.057Z",
+  "min_sem_lead": 761
  },
  "leads": [
   {
@@ -371,6 +371,17 @@
    "nome": "5511953069504",
    "tel": "5511*****504",
    "criado": "09:52",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "556792907379",
+   "tel": "5567*****379",
+   "criado": "10:55",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
