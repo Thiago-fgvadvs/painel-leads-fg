@@ -1,31 +1,35 @@
 {
- "gerado_em": "14/09/2026, 12:17",
+ "gerado_em": "14/09/2026, 12:32",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 4,
+  "total": 11,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 153,
-  "tickets_abertos": 768,
+  "leads_7d": 154,
+  "tickets_abertos": 771,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 8,
+   "leads": 9,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 7,
+  "Anuncio": 8,
   "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 2
+  },
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 2
@@ -39,16 +43,12 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 1
-  },
-  {
    "url": "fb.me/91elw2A2a",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 8,
+  "Trabalhista": 9,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -56,10 +56,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 252,
-  "turnos": 482,
-  "respondidos": 476,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "turnos": 484,
+  "respondidos": 477,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 38.6,
   "atendentes": [
    {
@@ -69,8 +69,8 @@
    },
    {
     "nome": "Julia",
-    "respostas": 79,
-    "mediana_min": 21.6
+    "respostas": 80,
+    "mediana_min": 21.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -120,6 +120,12 @@
     "dia": "14/09",
     "desde": "10:14",
     "ts": 1789391677809
+   },
+   {
+    "grupo": "M.S.D.C x CENCOSUD BRASIL COMERCIAL LTDA",
+    "dia": "14/09",
+    "desde": "09:40",
+    "ts": 1789389637774
    },
    {
     "grupo": "A.M x INSS",
@@ -182,6 +188,12 @@
     "dia": "14/09",
     "desde": "09:06",
     "ts": 1789387619740
+   },
+   {
+    "grupo": "M.S.D.C x CENCOSUD BRASIL COMERCIAL LTDA",
+    "dia": "14/09",
+    "desde": "09:40",
+    "ts": 1789389637774
    },
    {
     "grupo": "C.G x Caixa ",
@@ -280,19 +292,30 @@
   ]
  },
  "agora": {
-  "fila": 665,
-  "abertos": 768,
-  "com_atendimento": 5,
-  "online": 2,
+  "fila": 667,
+  "abertos": 771,
+  "com_atendimento": 6,
+  "online": 4,
   "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 2571
+  "ausentes": 1,
+  "espera_media_s": 2565
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-23T14:28:31.836Z",
-  "min_sem_lead": 31729
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 731533
  },
  "leads": [
+  {
+   "nome": "558198932388",
+   "tel": "5581*****388",
+   "criado": "12:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "elisetesilvapassos32",
    "tel": "5547*****265",
