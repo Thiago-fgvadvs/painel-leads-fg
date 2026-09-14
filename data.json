@@ -1,17 +1,17 @@
 {
- "gerado_em": "14/09/2026, 16:21",
+ "gerado_em": "14/09/2026, 16:36",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
   "total": 22,
   "no_sla": 16,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 2,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 165,
-  "tickets_abertos": 777,
+  "tickets_abertos": 781,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -73,15 +73,28 @@
   "Trabalhista": 14,
   "Nao identificada": 8
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "556792907379",
+   "tel": "5567*****379",
+   "criado": "10:55",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5511953069504",
+   "tel": "5511*****504",
+   "criado": "09:52",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 262,
-  "turnos": 502,
+  "grupos_ativos": 263,
+  "turnos": 503,
   "respondidos": 496,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 38.6,
   "atendentes": [
    {
@@ -138,6 +151,12 @@
     "ts": 1789412671462
    },
    {
+    "grupo": "C.M.D.S.A.B x EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
+    "dia": "11/09",
+    "desde": "16:33",
+    "ts": 1789155217249
+   },
+   {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
     "dia": "11/09",
     "desde": "15:43",
@@ -173,11 +192,25 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "5511985695765",
+    "nome": "😀😃❤️🙏",
     "tel": "5511*****765",
     "dia": "12/09",
     "desde": "14:04",
     "ts": 1789232686961
+   },
+   {
+    "nome": "5511953069504",
+    "tel": "5511*****504",
+    "dia": "14/09",
+    "desde": "09:52",
+    "ts": 1789390359321
+   },
+   {
+    "nome": "556792907379",
+    "tel": "5567*****379",
+    "dia": "14/09",
+    "desde": "10:55",
+    "ts": 1789394139132
    }
   ],
   "grupos": [
@@ -192,6 +225,12 @@
     "dia": "11/09",
     "desde": "15:43",
     "ts": 1789152232931
+   },
+   {
+    "grupo": "C.M.D.S.A.B x EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
+    "dia": "11/09",
+    "desde": "16:33",
+    "ts": 1789155217249
    },
    {
     "grupo": "A.M x INSS",
@@ -311,30 +350,19 @@
   ]
  },
  "agora": {
-  "fila": 672,
-  "abertos": 777,
+  "fila": 674,
+  "abertos": 781,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 4,
   "offline": 2,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 2566
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-26T15:55:32.702Z",
-  "min_sem_lead": 27566
+  "min_sem_lead": 27581
  },
  "leads": [
-  {
-   "nome": "elisetesilvapassos32",
-   "tel": "5547*****265",
-   "criado": "11:59",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Mauricio✨",
    "tel": "5511*****670",
@@ -347,7 +375,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Mae 1",
+   "nome": "Ruth💓",
    "tel": "5592*****739",
    "criado": "16:01",
    "atendente": "Tiago Bernardo",
@@ -356,6 +384,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "elisetesilvapassos32",
+   "tel": "5547*****265",
+   "criado": "11:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
   },
   {
    "nome": "Edilma",
@@ -435,7 +474,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511969301048",
+   "nome": "Stephanie Silva 👩🏻👧🏼💜",
    "tel": "5511*****048",
    "criado": "05:28",
    "atendente": "FG Advogados - Isadora ",
@@ -446,7 +485,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5521973505658",
+   "nome": "Joycinha",
    "tel": "5521*****658",
    "criado": "13:22",
    "atendente": "FG Advogados - Isadora ",
@@ -468,7 +507,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "558198932388",
+   "nome": "Walquiria Azevedo",
    "tel": "5581*****388",
    "criado": "12:27",
    "atendente": "FG Advogados - Isadora ",
@@ -488,6 +527,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
+  },
+  {
+   "nome": "556792907379",
+   "tel": "5567*****379",
+   "criado": "10:55",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Rebeka Souza",
@@ -512,7 +562,18 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5521973928720",
+   "nome": "5511953069504",
+   "tel": "5511*****504",
+   "criado": "09:52",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Priscila",
    "tel": "5521*****720",
    "criado": "03:23",
    "atendente": "FG Advogados - Isadora ",
@@ -543,28 +604,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "5511953069504",
-   "tel": "5511*****504",
-   "criado": "09:52",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "556792907379",
-   "tel": "5567*****379",
-   "criado": "10:55",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   }
  ]
 }
