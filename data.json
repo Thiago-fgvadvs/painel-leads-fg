@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/09/2026, 17:25",
+ "gerado_em": "14/09/2026, 17:40",
  "data_ref": "14/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 166,
-  "tickets_abertos": 726,
+  "tickets_abertos": 719,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 15,
-  "Nao identificada": 8
+  "Nao identificada": 8,
+  "Trabalhista": 15
  },
  "sem_resposta_lista": [
   {
@@ -90,12 +90,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 263,
-  "turnos": 505,
-  "respondidos": 499,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 38.6,
+  "grupos_ativos": 264,
+  "turnos": 506,
+  "respondidos": 502,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 38.8,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -104,8 +104,8 @@
    },
    {
     "nome": "Julia",
-    "respostas": 91,
-    "mediana_min": 22
+    "respostas": 94,
+    "mediana_min": 22.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -145,12 +145,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
-    "dia": "11/09",
-    "desde": "13:59",
-    "ts": 1789145996787
-   },
-   {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
     "dia": "11/09",
     "desde": "15:43",
@@ -167,12 +161,6 @@
     "dia": "14/09",
     "desde": "09:06",
     "ts": 1789387619740
-   },
-   {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
-    "dia": "14/09",
-    "desde": "08:39",
-    "ts": 1789385975650
    },
    {
     "grupo": "Z.D.F.M.M.D.A.C",
@@ -215,22 +203,10 @@
     "ts": 1788968994367
    },
    {
-    "grupo": "R.C.D.C.A x ETAP CLINICA MEDICA LTDA ",
-    "dia": "11/09",
-    "desde": "13:59",
-    "ts": 1789145996787
-   },
-   {
     "grupo": "B.A.I x EXPERT TRUCK CENTER LTDA",
     "dia": "11/09",
     "desde": "15:43",
     "ts": 1789152232931
-   },
-   {
-    "grupo": "L.C.D.O.P x NOVA JIF COMERCIO DE HORTIFRUTI LTDA",
-    "dia": "14/09",
-    "desde": "08:39",
-    "ts": 1789385975650
    },
    {
     "grupo": "A.M x INSS",
@@ -338,29 +314,29 @@
   ]
  },
  "agora": {
-  "fila": 670,
-  "abertos": 726,
+  "fila": 669,
+  "abertos": 719,
   "com_atendimento": 6,
   "online": 4,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 2711
+  "espera_media_s": 2729
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-20T20:37:57.759Z",
-  "min_sem_lead": 123827
+  "ultimo_lead_at": "2026-09-14T20:07:47.932Z",
+  "min_sem_lead": 33
  },
  "leads": [
   {
-   "nome": "Edilma",
-   "tel": "5511*****015",
-   "criado": "16:13",
-   "atendente": "Roseli",
+   "nome": "Karina",
+   "tel": "5511*****282",
+   "criado": "17:07",
+   "atendente": "Tiago Bernardo",
    "espera_min": 0.3,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
+   "area": "Nao identificada"
   },
   {
    "nome": "Mauricio✨",
@@ -374,15 +350,26 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Karina",
-   "tel": "5511*****282",
-   "criado": "17:07",
-   "atendente": "Tiago Bernardo",
+   "nome": "CONSULTORA DE VENDAS TAMBORIL MOTOS",
+   "tel": "5587*****562",
+   "criado": "12:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Edilma",
+   "tel": "5511*****015",
+   "criado": "16:13",
+   "atendente": "Roseli",
    "espera_min": 0.3,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "Ruth💓",
@@ -394,17 +381,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "CONSULTORA DE VENDAS TAMBORIL MOTOS",
-   "tel": "5587*****562",
-   "criado": "12:46",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
-   "area": "Trabalhista"
   },
   {
    "nome": "elisetesilvapassos32",
