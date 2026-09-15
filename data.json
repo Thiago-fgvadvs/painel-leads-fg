@@ -1,24 +1,24 @@
 {
- "gerado_em": "15/09/2026, 15:19",
+ "gerado_em": "15/09/2026, 15:35",
  "data_ref": "15/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
-  "no_sla": 11,
+  "total": 14,
+  "no_sla": 12,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 162,
-  "tickets_abertos": 679,
+  "leads_7d": 163,
+  "tickets_abertos": 681,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
-   "mediana_min": 0.5
+   "leads": 12,
+   "mediana_min": 0.4
   },
   {
    "nome": "Tiago Bernardo",
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/9Kji7hTqb",
+   "leads": 1
   },
   {
    "url": "fb.me/87PZSDuwc",
@@ -58,14 +62,10 @@
   {
    "url": "fb.me/83JH6uera",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9Tu3a4cRn",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 10,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
@@ -273,19 +273,30 @@
   ]
  },
  "agora": {
-  "fila": 611,
-  "abertos": 679,
+  "fila": 613,
+  "abertos": 681,
   "com_atendimento": 6,
-  "online": 1,
+  "online": 0,
   "offline": 3,
-  "ausentes": 4,
-  "espera_media_s": 3731
+  "ausentes": 5,
+  "espera_media_s": 3725
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-13T16:04:27.453Z",
-  "min_sem_lead": 3015
+  "min_sem_lead": 3031
  },
  "leads": [
+  {
+   "nome": "5511911778004",
+   "tel": "5511*****004",
+   "criado": "15:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Kji7hTqb",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Jean Bulhões",
    "tel": "5573*****412",
