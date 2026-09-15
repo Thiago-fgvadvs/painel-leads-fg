@@ -1,5 +1,5 @@
 {
- "gerado_em": "15/09/2026, 12:32",
+ "gerado_em": "15/09/2026, 12:47",
  "data_ref": "15/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 1,
   "leads_7d": 159,
-  "tickets_abertos": 720,
+  "tickets_abertos": 719,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -53,8 +53,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 6
+  "Trabalhista": 6,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -62,10 +62,10 @@
   "dias": 7,
   "grupos_ativos": 241,
   "turnos": 397,
-  "respondidos": 391,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 38.6,
+  "respondidos": 392,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 38.8,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -74,8 +74,8 @@
    },
    {
     "nome": "Julia",
-    "respostas": 66,
-    "mediana_min": 37.8
+    "respostas": 67,
+    "mediana_min": 41.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -127,12 +127,6 @@
     "ts": 1789152232931
    },
    {
-    "grupo": "M.S.D.C x CENCOSUD BRASIL COMERCIAL LTDA",
-    "dia": "14/09",
-    "desde": "12:54",
-    "ts": 1789401273045
-   },
-   {
     "grupo": "A.D.S x DAIANNY CHRISTINE PATROCINIO VIANA",
     "dia": "14/09",
     "desde": "10:23",
@@ -179,12 +173,6 @@
     "dia": "14/09",
     "desde": "10:23",
     "ts": 1789392229821
-   },
-   {
-    "grupo": "M.S.D.C x CENCOSUD BRASIL COMERCIAL LTDA",
-    "dia": "14/09",
-    "desde": "12:54",
-    "ts": 1789401273045
    },
    {
     "grupo": "E.M.M.R x GRUPO CASAS BAHIA S.A.",
@@ -249,30 +237,19 @@
   ]
  },
  "agora": {
-  "fila": 658,
-  "abertos": 720,
-  "com_atendimento": 6,
-  "online": 2,
+  "fila": 657,
+  "abertos": 719,
+  "com_atendimento": 5,
+  "online": 4,
   "offline": 3,
-  "ausentes": 3,
+  "ausentes": 1,
   "espera_media_s": 3015
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-27T11:34:28.722Z",
-  "min_sem_lead": 27598
+  "ultimo_lead_at": "2026-08-29T06:51:44.159Z",
+  "min_sem_lead": 25016
  },
  "leads": [
-  {
-   "nome": "Cláudio Eduardo Ogassavara",
-   "tel": "5511*****384",
-   "criado": "12:19",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
   {
    "nome": "5521966834403",
    "tel": "5521*****403",
@@ -283,6 +260,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Cláudio Eduardo Ogassavara",
+   "tel": "5511*****384",
+   "criado": "12:19",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": ".",
