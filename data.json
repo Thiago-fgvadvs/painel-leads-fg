@@ -1,23 +1,23 @@
 {
- "gerado_em": "15/09/2026, 19:38",
+ "gerado_em": "15/09/2026, 19:53",
  "data_ref": "15/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
+  "total": 20,
   "no_sla": 17,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 1,
+  "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 168,
-  "tickets_abertos": 691,
+  "leads_7d": 169,
+  "tickets_abertos": 692,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.4
   },
   {
@@ -32,10 +32,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 7
  },
  "criativos": [
+  {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 2
@@ -46,10 +50,6 @@
   },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/87PZSDuwc",
    "leads": 1
   },
   {
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 14,
+  "Trabalhista": 15,
   "Nao identificada": 5
  },
  "sem_resposta_lista": [
@@ -317,19 +317,30 @@
   ]
  },
  "agora": {
-  "fila": 621,
-  "abertos": 691,
+  "fila": 622,
+  "abertos": 692,
   "com_atendimento": 6,
   "online": 1,
   "offline": 7,
   "ausentes": 0,
-  "espera_media_s": 3241
+  "espera_media_s": 3235
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T11:51:49.710Z",
-  "min_sem_lead": 42407
+  "ultimo_lead_at": "2026-06-28T19:29:11.412Z",
+  "min_sem_lead": 113965
  },
  "leads": [
+  {
+   "nome": "555186800285",
+   "tel": "5551*****285",
+   "criado": "19:39",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Sabrina Araújo",
    "tel": "5548*****438",
