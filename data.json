@@ -1,17 +1,17 @@
 {
- "gerado_em": "15/09/2026, 12:17",
+ "gerado_em": "15/09/2026, 12:32",
  "data_ref": "15/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 7,
+  "total": 10,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
-  "mediana_geral": 1.4,
-  "leads_7d": 158,
-  "tickets_abertos": 718,
+  "mediana_geral": 1,
+  "leads_7d": 159,
+  "tickets_abertos": 720,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 8,
    "mediana_min": 1.4
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 0.3
   }
  ],
  "origem": {
   "Anuncio": 6,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -48,18 +53,18 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
-  "Nao identificada": 3
+  "Nao identificada": 4,
+  "Trabalhista": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 241,
-  "turnos": 396,
+  "turnos": 397,
   "respondidos": 391,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 38.6,
   "atendentes": [
    {
@@ -122,6 +127,12 @@
     "ts": 1789152232931
    },
    {
+    "grupo": "M.S.D.C x CENCOSUD BRASIL COMERCIAL LTDA",
+    "dia": "14/09",
+    "desde": "12:54",
+    "ts": 1789401273045
+   },
+   {
     "grupo": "A.D.S x DAIANNY CHRISTINE PATROCINIO VIANA",
     "dia": "14/09",
     "desde": "10:23",
@@ -168,6 +179,12 @@
     "dia": "14/09",
     "desde": "10:23",
     "ts": 1789392229821
+   },
+   {
+    "grupo": "M.S.D.C x CENCOSUD BRASIL COMERCIAL LTDA",
+    "dia": "14/09",
+    "desde": "12:54",
+    "ts": 1789401273045
    },
    {
     "grupo": "E.M.M.R x GRUPO CASAS BAHIA S.A.",
@@ -232,19 +249,30 @@
   ]
  },
  "agora": {
-  "fila": 659,
-  "abertos": 718,
-  "com_atendimento": 5,
-  "online": 3,
+  "fila": 658,
+  "abertos": 720,
+  "com_atendimento": 6,
+  "online": 2,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 3031
+  "ausentes": 3,
+  "espera_media_s": 3015
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-15T12:54:41.443Z",
-  "min_sem_lead": 143
+  "ultimo_lead_at": "2026-08-27T11:34:28.722Z",
+  "min_sem_lead": 27598
  },
  "leads": [
+  {
+   "nome": "Cláudio Eduardo Ogassavara",
+   "tel": "5511*****384",
+   "criado": "12:19",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "5521966834403",
    "tel": "5521*****403",
