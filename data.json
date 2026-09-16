@@ -1,5 +1,5 @@
 {
- "gerado_em": "16/09/2026, 09:27",
+ "gerado_em": "16/09/2026, 09:42",
  "data_ref": "16/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -54,17 +54,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 219,
-  "turnos": 317,
-  "respondidos": 312,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 52.6,
+  "grupos_ativos": 220,
+  "turnos": 321,
+  "respondidos": 315,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 48.9,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 136,
-    "mediana_min": 33.8
+    "respostas": 139,
+    "mediana_min": 29.3
    },
    {
     "nome": "Julia",
@@ -108,6 +108,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.D.S x DAIANNY CHRISTINE PATROCINIO VIANA",
+    "dia": "16/09",
+    "desde": "09:34",
+    "ts": 1789562088196
+   },
    {
     "grupo": "M.A.D.S.B x INTER OCEANICA HOTELARIA E TURISMO LTDA",
     "dia": "15/09",
@@ -181,6 +187,12 @@
     "dia": "15/09",
     "desde": "18:29",
     "ts": 1789507784745
+   },
+   {
+    "grupo": "A.D.S x DAIANNY CHRISTINE PATROCINIO VIANA",
+    "dia": "16/09",
+    "desde": "09:34",
+    "ts": 1789562088196
    }
   ]
  },
@@ -240,16 +252,16 @@
  },
  "agora": {
   "fila": 635,
-  "abertos": 704,
+  "abertos": 705,
   "com_atendimento": 6,
-  "online": 2,
-  "offline": 5,
+  "online": 3,
+  "offline": 4,
   "ausentes": 1,
   "espera_media_s": 3228
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 734228
+  "ultimo_lead_at": "2026-09-14T12:52:39.321Z",
+  "min_sem_lead": 2870
  },
  "leads": [
   {
