@@ -1,29 +1,29 @@
 {
- "gerado_em": "16/09/2026, 16:03",
+ "gerado_em": "16/09/2026, 16:18",
  "data_ref": "16/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 12,
+  "total": 17,
+  "no_sla": 13,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 169,
-  "tickets_abertos": 735,
+  "leads_7d": 170,
+  "tickets_abertos": 738,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 15,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -35,11 +35,11 @@
    "leads": 3
   },
   {
-   "url": "fb.me/7AOwpeOSb",
+   "url": "fb.me/btExGCeY2",
    "leads": 1
   },
   {
-   "url": "fb.me/btExGCeY2",
+   "url": "fb.me/7AOwpeOSb",
    "leads": 1
   },
   {
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 15,
+  "Trabalhista": 16,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
@@ -68,16 +68,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 232,
-  "turnos": 403,
-  "respondidos": 388,
-  "sem_resposta": 15,
-  "sem_resposta_grupos": 15,
-  "mediana_min": 69.6,
+  "turnos": 409,
+  "respondidos": 392,
+  "sem_resposta": 17,
+  "sem_resposta_grupos": 17,
+  "mediana_min": 65.1,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 189,
-    "mediana_min": 45.8
+    "respostas": 191,
+    "mediana_min": 45.1
    },
    {
     "nome": "Julia",
@@ -101,13 +101,13 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 11,
-    "mediana_min": 10.3
+    "respostas": 12,
+    "mediana_min": 47.6
    },
    {
     "nome": "Eduardo",
-    "respostas": 5,
-    "mediana_min": 25.9
+    "respostas": 6,
+    "mediana_min": 23.2
    },
    {
     "nome": "—",
@@ -122,10 +122,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "16/09",
+    "desde": "16:17",
+    "ts": 1789586259805
+   },
+   {
     "grupo": "A.C.M x LOJAS AVANCE MOVEIS E ELETRO LTDA",
     "dia": "16/09",
-    "desde": "15:56",
-    "ts": 1789584992695
+    "desde": "16:11",
+    "ts": 1789585905791
+   },
+   {
+    "grupo": "D.G.D.S x GASTRONOMIA MARIA ANTONIETA LTDA",
+    "dia": "16/09",
+    "desde": "15:37",
+    "ts": 1789583868675
    },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
@@ -310,10 +322,22 @@
     "ts": 1789578990209
    },
    {
+    "grupo": "D.G.D.S x GASTRONOMIA MARIA ANTONIETA LTDA",
+    "dia": "16/09",
+    "desde": "15:37",
+    "ts": 1789583868675
+   },
+   {
     "grupo": "A.C.M x LOJAS AVANCE MOVEIS E ELETRO LTDA",
     "dia": "16/09",
-    "desde": "15:56",
-    "ts": 1789584992695
+    "desde": "16:11",
+    "ts": 1789585905791
+   },
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "16/09",
+    "desde": "16:17",
+    "ts": 1789586259805
    }
   ]
  },
@@ -372,19 +396,41 @@
   ]
  },
  "agora": {
-  "fila": 635,
-  "abertos": 735,
+  "fila": 636,
+  "abertos": 738,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 3120
+  "online": 3,
+  "offline": 2,
+  "ausentes": 3,
+  "espera_media_s": 3115
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-16T18:29:11.149Z",
-  "min_sem_lead": 34
+  "ultimo_lead_at": "2026-09-16T19:08:23.283Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "Vimael",
+   "tel": "5587*****339",
+   "criado": "16:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Josimar 😎",
+   "tel": "5551*****496",
+   "criado": "08:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/btExGCeY2",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Rodrigo Mello",
    "tel": "5551*****791",
@@ -405,17 +451,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7AOwpeOSb",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Josimar 😎",
-   "tel": "5551*****496",
-   "criado": "08:34",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/btExGCeY2",
    "area": "Trabalhista"
   },
   {
