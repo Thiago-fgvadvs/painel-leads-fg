@@ -1,5 +1,5 @@
 {
- "gerado_em": "16/09/2026, 14:01",
+ "gerado_em": "16/09/2026, 14:16",
  "data_ref": "16/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -68,10 +68,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 230,
-  "turnos": 371,
+  "turnos": 372,
   "respondidos": 358,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
   "mediana_min": 47.3,
   "atendentes": [
    {
@@ -121,6 +121,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
+    "dia": "16/09",
+    "desde": "14:16",
+    "ts": 1789578990209
+   },
    {
     "grupo": "V.E.F.R x PAULO CESAR ALVES TAMANAHA",
     "dia": "16/09",
@@ -290,6 +296,12 @@
     "dia": "16/09",
     "desde": "13:28",
     "ts": 1789576114101
+   },
+   {
+    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
+    "dia": "16/09",
+    "desde": "14:16",
+    "ts": 1789578990209
    }
   ]
  },
@@ -348,17 +360,17 @@
   ]
  },
  "agora": {
-  "fila": 635,
+  "fila": 633,
   "abertos": 723,
   "com_atendimento": 7,
-  "online": 3,
+  "online": 2,
   "offline": 2,
-  "ausentes": 3,
+  "ausentes": 4,
   "espera_media_s": 3135
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 734502
+  "ultimo_lead_at": "2026-09-15T23:57:02.553Z",
+  "min_sem_lead": 1040
  },
  "leads": [
   {
