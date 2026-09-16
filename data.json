@@ -1,29 +1,29 @@
 {
- "gerado_em": "16/09/2026, 17:19",
+ "gerado_em": "16/09/2026, 17:34",
  "data_ref": "16/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 15,
+  "total": 21,
+  "no_sla": 17,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 172,
-  "tickets_abertos": 740,
+  "leads_7d": 174,
+  "tickets_abertos": 742,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 18,
+   "leads": 20,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 16,
-  "Direto/Indicacao": 3
+  "Anuncio": 17,
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -33,6 +33,10 @@
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/8hmN3IbSF",
+   "leads": 1
   },
   {
    "url": "fb.me/btExGCeY2",
@@ -53,30 +57,26 @@
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 16,
-  "Nao identificada": 3
+  "Trabalhista": 17,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 233,
-  "turnos": 419,
-  "respondidos": 406,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
+  "grupos_ativos": 234,
+  "turnos": 422,
+  "respondidos": 408,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
   "mediana_min": 61.7,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 203,
+    "respostas": 205,
     "mediana_min": 45.1
    },
    {
@@ -121,6 +121,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.D.S.G x PASQUALOTTO LUMEN CONSTRUTORA E INCORPORADORA LTDA",
+    "dia": "16/09",
+    "desde": "17:31",
+    "ts": 1789590705085
+   },
    {
     "grupo": "E.C.D.S x CLS GARCIA CONSTRUCOES LTDA",
     "dia": "16/09",
@@ -290,6 +296,12 @@
     "dia": "16/09",
     "desde": "16:44",
     "ts": 1789587841924
+   },
+   {
+    "grupo": "J.D.S.G x PASQUALOTTO LUMEN CONSTRUTORA E INCORPORADORA LTDA",
+    "dia": "16/09",
+    "desde": "17:31",
+    "ts": 1789590705085
    }
   ]
  },
@@ -348,30 +360,19 @@
   ]
  },
  "agora": {
-  "fila": 635,
-  "abertos": 740,
+  "fila": 637,
+  "abertos": 742,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 5,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 3115
+  "ausentes": 2,
+  "espera_media_s": 3105
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-30T14:16:09.359Z",
-  "min_sem_lead": 245163
+  "ultimo_lead_at": "2026-09-15T22:39:59.624Z",
+  "min_sem_lead": 1315
  },
  "leads": [
-  {
-   "nome": "Josimar 😎",
-   "tel": "5551*****496",
-   "criado": "08:34",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/btExGCeY2",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Rodrigo Mello",
    "tel": "5551*****791",
@@ -381,6 +382,39 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmVrByMck7/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "joaopaulo2026m",
+   "tel": "5511*****997",
+   "criado": "17:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Angelo",
+   "tel": "5551*****463",
+   "criado": "17:19",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8hmN3IbSF",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Josimar 😎",
+   "tel": "5551*****496",
+   "criado": "08:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/btExGCeY2",
    "area": "Trabalhista"
   },
   {
