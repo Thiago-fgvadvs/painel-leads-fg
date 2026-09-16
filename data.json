@@ -1,5 +1,5 @@
 {
- "gerado_em": "16/09/2026, 16:18",
+ "gerado_em": "16/09/2026, 16:33",
  "data_ref": "16/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -68,16 +68,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 232,
-  "turnos": 409,
-  "respondidos": 392,
-  "sem_resposta": 17,
-  "sem_resposta_grupos": 17,
-  "mediana_min": 65.1,
+  "turnos": 411,
+  "respondidos": 396,
+  "sem_resposta": 15,
+  "sem_resposta_grupos": 15,
+  "mediana_min": 59.8,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 191,
-    "mediana_min": 45.1
+    "respostas": 194,
+    "mediana_min": 45
    },
    {
     "nome": "Julia",
@@ -106,8 +106,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 6,
-    "mediana_min": 23.2
+    "respostas": 7,
+    "mediana_min": 20.5
    },
    {
     "nome": "—",
@@ -122,22 +122,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "16/09",
-    "desde": "16:17",
-    "ts": 1789586259805
-   },
-   {
-    "grupo": "A.C.M x LOJAS AVANCE MOVEIS E ELETRO LTDA",
-    "dia": "16/09",
-    "desde": "16:11",
-    "ts": 1789585905791
-   },
-   {
-    "grupo": "D.G.D.S x GASTRONOMIA MARIA ANTONIETA LTDA",
-    "dia": "16/09",
-    "desde": "15:37",
-    "ts": 1789583868675
+    "desde": "15:20",
+    "ts": 1789582845563
    },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
@@ -322,22 +310,10 @@
     "ts": 1789578990209
    },
    {
-    "grupo": "D.G.D.S x GASTRONOMIA MARIA ANTONIETA LTDA",
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "16/09",
-    "desde": "15:37",
-    "ts": 1789583868675
-   },
-   {
-    "grupo": "A.C.M x LOJAS AVANCE MOVEIS E ELETRO LTDA",
-    "dia": "16/09",
-    "desde": "16:11",
-    "ts": 1789585905791
-   },
-   {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "16/09",
-    "desde": "16:17",
-    "ts": 1789586259805
+    "desde": "15:20",
+    "ts": 1789582845563
    }
   ]
  },
@@ -399,14 +375,14 @@
   "fila": 636,
   "abertos": 738,
   "com_atendimento": 7,
-  "online": 3,
+  "online": 2,
   "offline": 2,
-  "ausentes": 3,
+  "ausentes": 4,
   "espera_media_s": 3115
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-16T19:08:23.283Z",
-  "min_sem_lead": 10
+  "ultimo_lead_at": "2026-09-15T19:34:24.398Z",
+  "min_sem_lead": 1439
  },
  "leads": [
   {
