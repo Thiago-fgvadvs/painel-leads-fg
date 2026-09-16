@@ -1,5 +1,5 @@
 {
- "gerado_em": "16/09/2026, 11:14",
+ "gerado_em": "16/09/2026, 11:29",
  "data_ref": "16/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -62,22 +62,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 222,
-  "turnos": 336,
-  "respondidos": 329,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 52.9,
+  "grupos_ativos": 223,
+  "turnos": 339,
+  "respondidos": 331,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 55.7,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 147,
-    "mediana_min": 30.3
+    "respostas": 148,
+    "mediana_min": 33.8
    },
    {
     "nome": "Julia",
-    "respostas": 77,
-    "mediana_min": 91.2
+    "respostas": 78,
+    "mediana_min": 91.9
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -116,6 +116,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.A.D.S x REDE DE DISTRIBUICAO ZEFERINO LTDA.",
+    "dia": "16/09",
+    "desde": "11:17",
+    "ts": 1789568262542
+   },
    {
     "grupo": "C.G.D.S x ALMADA GASTRONOMIA LTDA",
     "dia": "16/09",
@@ -213,6 +219,12 @@
     "dia": "16/09",
     "desde": "10:31",
     "ts": 1789565515311
+   },
+   {
+    "grupo": "R.A.D.S x REDE DE DISTRIBUICAO ZEFERINO LTDA.",
+    "dia": "16/09",
+    "desde": "11:17",
+    "ts": 1789568262542
    }
   ]
  },
@@ -274,14 +286,14 @@
   "fila": 635,
   "abertos": 710,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 4,
   "offline": 2,
-  "ausentes": 3,
+  "ausentes": 2,
   "espera_media_s": 3304
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-14T12:52:39.321Z",
-  "min_sem_lead": 2961
+  "ultimo_lead_at": "2026-09-16T14:01:18.931Z",
+  "min_sem_lead": 28
  },
  "leads": [
   {
