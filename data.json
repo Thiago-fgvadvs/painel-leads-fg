@@ -1,5 +1,5 @@
 {
- "gerado_em": "16/09/2026, 17:49",
+ "gerado_em": "16/09/2026, 18:05",
  "data_ref": "16/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 175,
-  "tickets_abertos": 744,
+  "tickets_abertos": 745,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -43,11 +43,11 @@
    "leads": 1
   },
   {
-   "url": "fb.me/8hmN3IbSF",
+   "url": "fb.me/btExGCeY2",
    "leads": 1
   },
   {
-   "url": "fb.me/btExGCeY2",
+   "url": "fb.me/8hmN3IbSF",
    "leads": 1
   },
   {
@@ -67,22 +67,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 234,
-  "turnos": 423,
-  "respondidos": 410,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
-  "mediana_min": 65.1,
+  "grupos_ativos": 235,
+  "turnos": 442,
+  "respondidos": 427,
+  "sem_resposta": 15,
+  "sem_resposta_grupos": 15,
+  "mediana_min": 72.4,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 206,
-    "mediana_min": 45.3
+    "respostas": 218,
+    "mediana_min": 58.6
    },
    {
     "nome": "Julia",
-    "respostas": 83,
-    "mediana_min": 104.3
+    "respostas": 84,
+    "mediana_min": 105.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -101,8 +101,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 13,
-    "mediana_min": 84.8
+    "respostas": 17,
+    "mediana_min": 10.3
    },
    {
     "nome": "Eduardo",
@@ -124,8 +124,26 @@
    {
     "grupo": "J.D.S.G x PASQUALOTTO LUMEN CONSTRUTORA E INCORPORADORA LTDA",
     "dia": "16/09",
-    "desde": "17:31",
-    "ts": 1789590705085
+    "desde": "18:04",
+    "ts": 1789592688287
+   },
+   {
+    "grupo": "L.D.S.R x IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE SAO PAULO",
+    "dia": "16/09",
+    "desde": "17:57",
+    "ts": 1789592251232
+   },
+   {
+    "grupo": "C.C.P x WMS SUPERMERCADOS DO BRASIL LTDA",
+    "dia": "16/09",
+    "desde": "17:57",
+    "ts": 1789592265235
+   },
+   {
+    "grupo": "A.B.D.M x CONDOMINIO COMPLEXO IGUATEMI RIBEIRAO PRETO",
+    "dia": "16/09",
+    "desde": "17:57",
+    "ts": 1789592222226
    },
    {
     "grupo": "E.C.D.S x CLS GARCIA CONSTRUCOES LTDA",
@@ -150,12 +168,6 @@
     "dia": "16/09",
     "desde": "13:28",
     "ts": 1789576114101
-   },
-   {
-    "grupo": "M.V.T x NASCIMENTO SERVICOS DE LIMPEZA LTDA",
-    "dia": "16/09",
-    "desde": "13:13",
-    "ts": 1789575216010
    },
    {
     "grupo": "C.V.D.C.S x COMÉRCIO DE ALIMENTOS ALVES E FARIAS LTDA",
@@ -262,12 +274,6 @@
     "ts": 1789575027991
    },
    {
-    "grupo": "M.V.T x NASCIMENTO SERVICOS DE LIMPEZA LTDA",
-    "dia": "16/09",
-    "desde": "13:13",
-    "ts": 1789575216010
-   },
-   {
     "grupo": "V.E.F.R x PAULO CESAR ALVES TAMANAHA",
     "dia": "16/09",
     "desde": "13:28",
@@ -286,10 +292,28 @@
     "ts": 1789587841924
    },
    {
+    "grupo": "A.B.D.M x CONDOMINIO COMPLEXO IGUATEMI RIBEIRAO PRETO",
+    "dia": "16/09",
+    "desde": "17:57",
+    "ts": 1789592222226
+   },
+   {
+    "grupo": "L.D.S.R x IRMANDADE DA SANTA CASA DE MISERICÓRDIA DE SAO PAULO",
+    "dia": "16/09",
+    "desde": "17:57",
+    "ts": 1789592251232
+   },
+   {
+    "grupo": "C.C.P x WMS SUPERMERCADOS DO BRASIL LTDA",
+    "dia": "16/09",
+    "desde": "17:57",
+    "ts": 1789592265235
+   },
+   {
     "grupo": "J.D.S.G x PASQUALOTTO LUMEN CONSTRUTORA E INCORPORADORA LTDA",
     "dia": "16/09",
-    "desde": "17:31",
-    "ts": 1789590705085
+    "desde": "18:04",
+    "ts": 1789592688287
    }
   ]
  },
@@ -348,17 +372,17 @@
   ]
  },
  "agora": {
-  "fila": 639,
-  "abertos": 744,
+  "fila": 637,
+  "abertos": 745,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 4,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 3096
+  "ausentes": 2,
+  "espera_media_s": 3100
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-16T16:55:06.029Z",
-  "min_sem_lead": 235
+  "min_sem_lead": 250
  },
  "leads": [
   {
@@ -373,7 +397,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5518996858101",
+   "nome": "Fabiana Macedo",
    "tel": "5518*****101",
    "criado": "17:38",
    "atendente": "FG Advogados - Isadora ",
@@ -381,6 +405,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Josimar 😎",
+   "tel": "5551*****496",
+   "criado": "08:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/btExGCeY2",
    "area": "Trabalhista"
   },
   {
@@ -414,17 +449,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/8hmN3IbSF",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Josimar 😎",
-   "tel": "5551*****496",
-   "criado": "08:34",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/btExGCeY2",
    "area": "Trabalhista"
   },
   {
