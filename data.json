@@ -1,5 +1,5 @@
 {
- "gerado_em": "16/09/2026, 15:02",
+ "gerado_em": "16/09/2026, 15:17",
  "data_ref": "16/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 167,
-  "tickets_abertos": 727,
+  "tickets_abertos": 728,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,16 +68,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 232,
-  "turnos": 382,
-  "respondidos": 367,
+  "turnos": 389,
+  "respondidos": 374,
   "sem_resposta": 15,
   "sem_resposta_grupos": 15,
-  "mediana_min": 55.7,
+  "mediana_min": 58.6,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 172,
-    "mediana_min": 37.5
+    "respostas": 178,
+    "mediana_min": 41.7
    },
    {
     "nome": "Julia",
@@ -96,8 +96,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 16,
-    "mediana_min": 3.8
+    "respostas": 17,
+    "mediana_min": 4.4
    },
    {
     "nome": "Roseli",
@@ -124,14 +124,20 @@
    {
     "grupo": "E.C.D.S x CLS GARCIA CONSTRUCOES LTDA",
     "dia": "16/09",
-    "desde": "14:58",
-    "ts": 1789581539485
+    "desde": "15:15",
+    "ts": 1789582519539
    },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "16/09",
     "desde": "11:57",
     "ts": 1789570658709
+   },
+   {
+    "grupo": "A.M x INSS",
+    "dia": "14/09",
+    "desde": "09:06",
+    "ts": 1789387619740
    },
    {
     "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
@@ -204,12 +210,6 @@
     "dia": "11/09",
     "desde": "15:43",
     "ts": 1789152232931
-   },
-   {
-    "grupo": "A.M x INSS",
-    "dia": "14/09",
-    "desde": "09:06",
-    "ts": 1789387619740
    }
   ]
  },
@@ -312,8 +312,8 @@
    {
     "grupo": "E.C.D.S x CLS GARCIA CONSTRUCOES LTDA",
     "dia": "16/09",
-    "desde": "14:58",
-    "ts": 1789581539485
+    "desde": "15:15",
+    "ts": 1789582519539
    }
   ]
  },
@@ -372,17 +372,17 @@
   ]
  },
  "agora": {
-  "fila": 634,
-  "abertos": 727,
+  "fila": 633,
+  "abertos": 728,
   "com_atendimento": 7,
   "online": 5,
-  "offline": 2,
-  "ausentes": 1,
+  "offline": 3,
+  "ausentes": 0,
   "espera_media_s": 3130
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-05T11:55:07.719Z",
-  "min_sem_lead": 16207
+  "ultimo_lead_at": "2026-09-15T19:34:24.398Z",
+  "min_sem_lead": 1363
  },
  "leads": [
   {
