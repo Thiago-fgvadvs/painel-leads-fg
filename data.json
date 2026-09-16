@@ -1,31 +1,35 @@
 {
- "gerado_em": "16/09/2026, 10:13",
+ "gerado_em": "16/09/2026, 10:28",
  "data_ref": "16/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 1,
+  "total": 6,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 158,
-  "tickets_abertos": 706,
+  "mediana_geral": 0.6,
+  "leads_7d": 159,
+  "tickets_abertos": 709,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
-   "mediana_min": 0.5
+   "leads": 6,
+   "mediana_min": 0.6
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/91elw2A2a",
+   "leads": 1
+  },
   {
    "url": "fb.me/btExGCeY2",
    "leads": 1
@@ -48,27 +52,27 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5
+  "Trabalhista": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 220,
-  "turnos": 322,
-  "respondidos": 316,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 47.3,
+  "turnos": 326,
+  "respondidos": 319,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 48.9,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 140,
-    "mediana_min": 29.1
+    "respostas": 142,
+    "mediana_min": 29.8
    },
    {
     "nome": "Julia",
-    "respostas": 74,
+    "respostas": 75,
     "mediana_min": 84.8
    },
    {
@@ -108,6 +112,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "dia": "16/09",
+    "desde": "09:37",
+    "ts": 1789562264199
+   },
    {
     "grupo": "A.D.S x DAIANNY CHRISTINE PATROCINIO VIANA",
     "dia": "16/09",
@@ -193,6 +203,12 @@
     "dia": "16/09",
     "desde": "09:34",
     "ts": 1789562088196
+   },
+   {
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "dia": "16/09",
+    "desde": "09:37",
+    "ts": 1789562264199
    }
   ]
  },
@@ -251,19 +267,30 @@
   ]
  },
  "agora": {
-  "fila": 635,
-  "abertos": 706,
+  "fila": 638,
+  "abertos": 709,
   "com_atendimento": 6,
-  "online": 4,
-  "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 3228
+  "online": 3,
+  "offline": 2,
+  "ausentes": 3,
+  "espera_media_s": 3218
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 734273
+  "ultimo_lead_at": "2026-06-29T17:23:09.399Z",
+  "min_sem_lead": 113525
  },
  "leads": [
+  {
+   "nome": "Dinalva",
+   "tel": "5543*****612",
+   "criado": "10:14",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Josimar 😎",
    "tel": "5551*****496",
