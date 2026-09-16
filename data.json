@@ -1,5 +1,5 @@
 {
- "gerado_em": "16/09/2026, 19:36",
+ "gerado_em": "16/09/2026, 19:51",
  "data_ref": "16/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -68,10 +68,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 235,
-  "turnos": 455,
+  "turnos": 456,
   "respondidos": 441,
-  "sem_resposta": 14,
-  "sem_resposta_grupos": 14,
+  "sem_resposta": 15,
+  "sem_resposta_grupos": 15,
   "mediana_min": 65.5,
   "atendentes": [
    {
@@ -121,6 +121,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.M.D.R x PROTECELL COMERCIO ATACADISTA, IMPORTACAO E EXPORTACAO LTDA",
+    "dia": "16/09",
+    "desde": "19:45",
+    "ts": 1789598730558
+   },
    {
     "grupo": "J.D.S.G x PASQUALOTTO LUMEN CONSTRUTORA E INCORPORADORA LTDA",
     "dia": "16/09",
@@ -302,6 +308,12 @@
     "dia": "16/09",
     "desde": "18:48",
     "ts": 1789595331426
+   },
+   {
+    "grupo": "A.M.D.R x PROTECELL COMERCIO ATACADISTA, IMPORTACAO E EXPORTACAO LTDA",
+    "dia": "16/09",
+    "desde": "19:45",
+    "ts": 1789598730558
    }
   ]
  },
@@ -369,12 +381,12 @@
   "espera_media_s": 3081
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-16T22:35:01.462Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2025-09-24T18:21:49.592Z",
+  "min_sem_lead": 514350
  },
  "leads": [
   {
-   "nome": "553195500551",
+   "nome": "lucianopetronilhodejesus",
    "tel": "5531*****551",
    "criado": "19:35",
    "atendente": "FG Advogados - Isadora ",
