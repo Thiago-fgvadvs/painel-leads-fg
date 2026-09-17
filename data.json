@@ -1,5 +1,5 @@
 {
- "gerado_em": "17/09/2026, 11:02",
+ "gerado_em": "17/09/2026, 11:17",
  "data_ref": "17/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -31,15 +31,15 @@
    "leads": 2
   },
   {
+   "url": "fb.me/6lIu0yPSl",
+   "leads": 1
+  },
+  {
    "url": "fb.me/4QIoxFDrn",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/6lIu0yPSl",
    "leads": 1
   },
   {
@@ -60,24 +60,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 7
+  "Trabalhista": 7,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 211,
-  "turnos": 357,
-  "respondidos": 339,
-  "sem_resposta": 18,
-  "sem_resposta_grupos": 18,
+  "turnos": 360,
+  "respondidos": 343,
+  "sem_resposta": 17,
+  "sem_resposta_grupos": 17,
   "mediana_min": 84.8,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 154,
-    "mediana_min": 105.2
+    "respostas": 157,
+    "mediana_min": 106.1
    },
    {
     "nome": "Julia",
@@ -116,17 +116,11 @@
    },
    {
     "nome": "—",
-    "respostas": 4,
-    "mediana_min": 34.6
+    "respostas": 5,
+    "mediana_min": 67.1
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "C.M.D.S.A.B x EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
-    "dia": "17/09",
-    "desde": "10:56",
-    "ts": 1789653393438
-   },
    {
     "grupo": "R.A.D.S x REDE DE DISTRIBUICAO ZEFERINO LTDA.",
     "dia": "16/09",
@@ -344,12 +338,6 @@
     "dia": "17/09",
     "desde": "09:52",
     "ts": 1789649544258
-   },
-   {
-    "grupo": "C.M.D.S.A.B x EMPRESA BRASILEIRA DE SERVICOS HOSPITALARES - EBSERH",
-    "dia": "17/09",
-    "desde": "10:56",
-    "ts": 1789653393438
    }
   ]
  },
@@ -412,38 +400,16 @@
   "fila": 654,
   "abertos": 765,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 4,
   "offline": 1,
-  "ausentes": 2,
+  "ausentes": 3,
   "espera_media_s": 3025
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-17T12:13:43.228Z",
-  "min_sem_lead": 108
+  "ultimo_lead_at": "2026-09-14T19:13:57.849Z",
+  "min_sem_lead": 4023
  },
  "leads": [
-  {
-   "nome": "caíque",
-   "tel": "5511*****010",
-   "criado": "09:13",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4QIoxFDrn",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Talita 🌻☘️",
-   "tel": "5583*****377",
-   "criado": "09:41",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Alexsander",
    "tel": "5531*****959",
@@ -464,6 +430,28 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/6lIu0yPSl",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "caíque",
+   "tel": "5511*****010",
+   "criado": "09:13",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4QIoxFDrn",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Talita 🌻☘️",
+   "tel": "5583*****377",
+   "criado": "09:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
