@@ -1,31 +1,35 @@
 {
- "gerado_em": "17/09/2026, 13:49",
+ "gerado_em": "17/09/2026, 14:05",
  "data_ref": "17/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
-  "no_sla": 7,
+  "total": 14,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 171,
-  "tickets_abertos": 772,
+  "leads_7d": 172,
+  "tickets_abertos": 774,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 12,
+   "leads": 13,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 2
+  },
   {
    "url": "fb.me/4MBhcZyUD",
    "leads": 2
@@ -53,14 +57,10 @@
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4VQLAvb8d",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
+  "Trabalhista": 11,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [
@@ -75,16 +75,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 216,
-  "turnos": 385,
-  "respondidos": 367,
+  "turnos": 392,
+  "respondidos": 374,
   "sem_resposta": 18,
   "sem_resposta_grupos": 18,
-  "mediana_min": 84.7,
+  "mediana_min": 81.3,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 170,
-    "mediana_min": 117.8
+    "respostas": 177,
+    "mediana_min": 106.3
    },
    {
     "nome": "Julia",
@@ -129,10 +129,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "P.B.S x CLINICA OFTALMOLESTE LTDA",
+    "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
     "dia": "17/09",
-    "desde": "13:00",
-    "ts": 1789660812826
+    "desde": "14:03",
+    "ts": 1789664585999
    },
    {
     "grupo": "R.A.D.S x REDE DE DISTRIBUICAO ZEFERINO LTDA.",
@@ -360,10 +360,10 @@
     "ts": 1789649544258
    },
    {
-    "grupo": "P.B.S x CLINICA OFTALMOLESTE LTDA",
+    "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
     "dia": "17/09",
-    "desde": "13:00",
-    "ts": 1789660812826
+    "desde": "14:03",
+    "ts": 1789664585999
    }
   ]
  },
@@ -422,17 +422,17 @@
   ]
  },
  "agora": {
-  "fila": 660,
-  "abertos": 772,
+  "fila": 661,
+  "abertos": 774,
   "com_atendimento": 6,
-  "online": 1,
+  "online": 2,
   "offline": 2,
-  "ausentes": 5,
-  "espera_media_s": 4943
+  "ausentes": 4,
+  "espera_media_s": 4935
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-17T16:43:59.531Z",
-  "min_sem_lead": 6
+  "ultimo_lead_at": "2026-09-16T20:38:22.607Z",
+  "min_sem_lead": 1227
  },
  "leads": [
   {
@@ -444,6 +444,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4LXdMV2Fn",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554791239881",
+   "tel": "5547*****881",
+   "criado": "14:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Trabalhista"
   },
   {
