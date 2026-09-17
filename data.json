@@ -1,5 +1,5 @@
 {
- "gerado_em": "17/09/2026, 08:55",
+ "gerado_em": "17/09/2026, 09:10",
  "data_ref": "17/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 163,
-  "tickets_abertos": 758,
+  "tickets_abertos": 759,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -54,9 +54,9 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 198,
-  "turnos": 336,
-  "respondidos": 320,
+  "grupos_ativos": 202,
+  "turnos": 339,
+  "respondidos": 323,
   "sem_resposta": 16,
   "sem_resposta_grupos": 16,
   "mediana_min": 84.8,
@@ -73,8 +73,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 41,
-    "mediana_min": 922
+    "respostas": 43,
+    "mediana_min": 999.1
    },
    {
     "nome": "Tiago Bernardo",
@@ -100,9 +100,20 @@
     "nome": "—",
     "respostas": 4,
     "mediana_min": 34.6
+   },
+   {
+    "nome": "Luisa",
+    "respostas": 1,
+    "mediana_min": 1.8
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.C.D.S.A x KONECTA BRAZIL OUTSOURCING LTDA",
+    "dia": "17/09",
+    "desde": "09:07",
+    "ts": 1789646833175
+   },
    {
     "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
     "dia": "17/09",
@@ -180,12 +191,6 @@
     "dia": "16/09",
     "desde": "10:31",
     "ts": 1789565515311
-   },
-   {
-    "grupo": "A.D.S x DAIANNY CHRISTINE PATROCINIO VIANA",
-    "dia": "16/09",
-    "desde": "09:34",
-    "ts": 1789562088196
    },
    {
     "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
@@ -226,12 +231,6 @@
     "ts": 1789421436028
    },
    {
-    "grupo": "A.D.S x DAIANNY CHRISTINE PATROCINIO VIANA",
-    "dia": "16/09",
-    "desde": "09:34",
-    "ts": 1789562088196
-   },
-   {
     "grupo": "C.G.D.S x ALMADA GASTRONOMIA LTDA",
     "dia": "16/09",
     "desde": "10:31",
@@ -308,6 +307,12 @@
     "dia": "17/09",
     "desde": "06:51",
     "ts": 1789638698887
+   },
+   {
+    "grupo": "A.C.D.S.A x KONECTA BRAZIL OUTSOURCING LTDA",
+    "dia": "17/09",
+    "desde": "09:07",
+    "ts": 1789646833175
    }
   ]
  },
@@ -358,16 +363,16 @@
  },
  "agora": {
   "fila": 651,
-  "abertos": 758,
-  "com_atendimento": 6,
-  "online": 2,
-  "offline": 6,
+  "abertos": 759,
+  "com_atendimento": 7,
+  "online": 3,
+  "offline": 5,
   "ausentes": 0,
   "espera_media_s": 3039
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-14T19:13:57.849Z",
-  "min_sem_lead": 3881
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 735651
  },
  "leads": [
   {
