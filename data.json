@@ -1,5 +1,5 @@
 {
- "gerado_em": "17/09/2026, 17:53",
+ "gerado_em": "17/09/2026, 18:08",
  "data_ref": "17/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 177,
-  "tickets_abertos": 789,
+  "tickets_abertos": 792,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -44,11 +44,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/505ajP5YC",
+   "url": "fb.me/8hmN3IbSF",
    "leads": 1
   },
   {
-   "url": "fb.me/8hmN3IbSF",
+   "url": "fb.me/505ajP5YC",
    "leads": 1
   },
   {
@@ -80,11 +80,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 225,
-  "turnos": 431,
-  "respondidos": 412,
-  "sem_resposta": 19,
-  "sem_resposta_grupos": 19,
-  "mediana_min": 64.3,
+  "turnos": 437,
+  "respondidos": 417,
+  "sem_resposta": 20,
+  "sem_resposta_grupos": 20,
+  "mediana_min": 60.3,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -102,19 +102,19 @@
     "mediana_min": 999.1
    },
    {
+    "nome": "Tiago Bernardo",
+    "respostas": 35,
+    "mediana_min": 6.2
+   },
+   {
     "nome": "Gabrielle",
     "respostas": 32,
     "mediana_min": 2.2
    },
    {
-    "nome": "Tiago Bernardo",
-    "respostas": 31,
-    "mediana_min": 9.5
-   },
-   {
     "nome": "Roseli",
-    "respostas": 16,
-    "mediana_min": 10
+    "respostas": 17,
+    "mediana_min": 10.3
    },
    {
     "nome": "Luisa",
@@ -134,10 +134,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
+    "dia": "17/09",
+    "desde": "18:06",
+    "ts": 1789679179702
+   },
+   {
     "grupo": "T.D.D.S x BURGER KING",
     "dia": "17/09",
-    "desde": "17:49",
-    "ts": 1789678198670
+    "desde": "17:58",
+    "ts": 1789678705696
    },
    {
     "grupo": "G.M.B.D.S x AURIZ FOODS LTDA",
@@ -379,8 +385,14 @@
    {
     "grupo": "T.D.D.S x BURGER KING",
     "dia": "17/09",
-    "desde": "17:49",
-    "ts": 1789678198670
+    "desde": "17:58",
+    "ts": 1789678705696
+   },
+   {
+    "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
+    "dia": "17/09",
+    "desde": "18:06",
+    "ts": 1789679179702
    }
   ]
  },
@@ -440,18 +452,29 @@
  },
  "agora": {
   "fila": 660,
-  "abertos": 789,
+  "abertos": 792,
   "com_atendimento": 7,
-  "online": 6,
-  "offline": 2,
+  "online": 5,
+  "offline": 3,
   "ausentes": 0,
   "espera_media_s": 4926
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 736174
+  "ultimo_lead_at": "2026-09-16T16:55:06.029Z",
+  "min_sem_lead": 1694
  },
  "leads": [
+  {
+   "nome": "francimilntonperereira",
+   "tel": "5511*****418",
+   "criado": "16:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8hmN3IbSF",
+   "area": "Trabalhista"
+  },
   {
    "nome": "NIVALDO ROOTS",
    "tel": "5598*****739",
@@ -472,17 +495,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/505ajP5YC",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "francimilntonperereira",
-   "tel": "5511*****418",
-   "criado": "16:29",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/8hmN3IbSF",
    "area": "Trabalhista"
   },
   {
