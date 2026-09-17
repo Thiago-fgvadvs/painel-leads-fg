@@ -1,23 +1,23 @@
 {
- "gerado_em": "17/09/2026, 18:24",
+ "gerado_em": "17/09/2026, 18:39",
  "data_ref": "17/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 13,
+  "total": 20,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 177,
+  "leads_7d": 178,
   "tickets_abertos": 793,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 17,
+   "leads": 18,
    "mediana_min": 0.4
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 17,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 15,
-  "Nao identificada": 4
+  "Nao identificada": 5,
+  "Trabalhista": 15
  },
  "sem_resposta_lista": [
   {
@@ -81,10 +81,10 @@
   "dias": 7,
   "grupos_ativos": 225,
   "turnos": 438,
-  "respondidos": 417,
-  "sem_resposta": 21,
-  "sem_resposta_grupos": 21,
-  "mediana_min": 60.3,
+  "respondidos": 418,
+  "sem_resposta": 20,
+  "sem_resposta_grupos": 20,
+  "mediana_min": 61.7,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -103,8 +103,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 35,
-    "mediana_min": 6.2
+    "respostas": 36,
+    "mediana_min": 7
    },
    {
     "nome": "Gabrielle",
@@ -138,12 +138,6 @@
     "dia": "17/09",
     "desde": "18:06",
     "ts": 1789679179702
-   },
-   {
-    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
-    "dia": "17/09",
-    "desde": "18:09",
-    "ts": 1789679372707
    },
    {
     "grupo": "T.D.D.S x BURGER KING",
@@ -399,12 +393,6 @@
     "dia": "17/09",
     "desde": "18:06",
     "ts": 1789679179702
-   },
-   {
-    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
-    "dia": "17/09",
-    "desde": "18:09",
-    "ts": 1789679372707
    }
   ]
  },
@@ -463,19 +451,30 @@
   ]
  },
  "agora": {
-  "fila": 660,
+  "fila": 661,
   "abertos": 793,
   "com_atendimento": 7,
-  "online": 5,
-  "offline": 3,
+  "online": 4,
+  "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 4926
+  "espera_media_s": 4919
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-08T18:03:13.760Z",
-  "min_sem_lead": 13161
+  "ultimo_lead_at": "2026-09-16T16:55:06.029Z",
+  "min_sem_lead": 1724
  },
  "leads": [
+  {
+   "nome": "558491359564",
+   "tel": "5584*****564",
+   "criado": "18:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "francimilntonperereira",
    "tel": "5511*****418",
