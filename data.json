@@ -1,23 +1,23 @@
 {
- "gerado_em": "17/09/2026, 16:22",
+ "gerado_em": "17/09/2026, 16:37",
  "data_ref": "17/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
-  "no_sla": 12,
+  "total": 19,
+  "no_sla": 13,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 176,
-  "tickets_abertos": 779,
+  "leads_7d": 177,
+  "tickets_abertos": 782,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 17,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -44,6 +44,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/8hmN3IbSF",
+   "leads": 1
+  },
+  {
    "url": "fb.me/4LXdMV2Fn",
    "leads": 1
   },
@@ -58,14 +62,10 @@
   {
    "url": "fb.me/875plPmzH",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4QIoxFDrn",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 14,
+  "Trabalhista": 15,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [
@@ -79,17 +79,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 218,
-  "turnos": 408,
-  "respondidos": 392,
-  "sem_resposta": 16,
-  "sem_resposta_grupos": 16,
-  "mediana_min": 72.3,
+  "grupos_ativos": 220,
+  "turnos": 410,
+  "respondidos": 393,
+  "sem_resposta": 17,
+  "sem_resposta_grupos": 17,
+  "mediana_min": 72.4,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 188,
-    "mediana_min": 98.2
+    "respostas": 189,
+    "mediana_min": 100.4
    },
    {
     "nome": "Julia",
@@ -134,16 +134,28 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "T.K.D.S.T x FUNDACAO GESTAO HOSPITALAR MARTINIANO FERNANDES - FGH",
+    "dia": "17/09",
+    "desde": "16:33",
+    "ts": 1789673620426
+   },
+   {
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "dia": "16/09",
+    "desde": "11:57",
+    "ts": 1789570658709
+   },
+   {
     "grupo": "E.C.D.S x CLS GARCIA CONSTRUCOES LTDA",
     "dia": "17/09",
     "desde": "16:15",
     "ts": 1789672534339
    },
    {
-    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
-    "dia": "16/09",
-    "desde": "18:34",
-    "ts": 1789594458412
+    "grupo": "G.D.S.S x FIX FIBRA TELECOMUNICACOES LTDA",
+    "dia": "17/09",
+    "desde": "16:07",
+    "ts": 1789672041324
    },
    {
     "grupo": "R.A.D.S x REDE DE DISTRIBUICAO ZEFERINO LTDA.",
@@ -180,12 +192,6 @@
     "dia": "16/09",
     "desde": "17:57",
     "ts": 1789592265235
-   },
-   {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
-    "dia": "16/09",
-    "desde": "11:57",
-    "ts": 1789570658709
    },
    {
     "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
@@ -311,12 +317,6 @@
     "ts": 1789592265235
    },
    {
-    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
-    "dia": "16/09",
-    "desde": "18:34",
-    "ts": 1789594458412
-   },
-   {
     "grupo": "J.D.S.G x PASQUALOTTO LUMEN CONSTRUTORA E INCORPORADORA LTDA",
     "dia": "16/09",
     "desde": "18:48",
@@ -341,10 +341,22 @@
     "ts": 1789649544258
    },
    {
+    "grupo": "G.D.S.S x FIX FIBRA TELECOMUNICACOES LTDA",
+    "dia": "17/09",
+    "desde": "16:07",
+    "ts": 1789672041324
+   },
+   {
     "grupo": "E.C.D.S x CLS GARCIA CONSTRUCOES LTDA",
     "dia": "17/09",
     "desde": "16:15",
     "ts": 1789672534339
+   },
+   {
+    "grupo": "T.K.D.S.T x FUNDACAO GESTAO HOSPITALAR MARTINIANO FERNANDES - FGH",
+    "dia": "17/09",
+    "desde": "16:33",
+    "ts": 1789673620426
    }
   ]
  },
@@ -404,18 +416,29 @@
  },
  "agora": {
   "fila": 661,
-  "abertos": 779,
+  "abertos": 782,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 3,
+  "online": 5,
+  "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 4926
+  "espera_media_s": 4919
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-08T14:31:14.503Z",
-  "min_sem_lead": 13251
+  "ultimo_lead_at": "2026-09-17T19:29:44.822Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "francimilntonperereira",
+   "tel": "5511*****418",
+   "criado": "16:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8hmN3IbSF",
+   "area": "Trabalhista"
+  },
   {
    "nome": "NIVALDO ROOTS",
    "tel": "5598*****739",
@@ -423,6 +446,17 @@
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "linderbeg representante nim brasil",
+   "tel": "5522*****739",
+   "criado": "07:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4MBhcZyUD",
    "area": "Trabalhista"
@@ -502,17 +536,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "linderbeg representante nim brasil",
-   "tel": "5522*****739",
-   "criado": "07:34",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4MBhcZyUD",
    "area": "Trabalhista"
   },
   {
