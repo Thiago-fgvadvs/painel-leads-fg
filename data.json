@@ -1,28 +1,28 @@
 {
- "gerado_em": "17/09/2026, 14:35",
+ "gerado_em": "17/09/2026, 14:50",
  "data_ref": "17/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
-  "no_sla": 9,
+  "total": 16,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 173,
-  "tickets_abertos": 773,
+  "leads_7d": 174,
+  "tickets_abertos": 774,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 14,
+   "leads": 15,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 15,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -33,6 +33,10 @@
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/505ajP5YC",
+   "leads": 1
   },
   {
    "url": "fb.me/4LXdMV2Fn",
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/6lIu0yPSl",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 12,
+  "Trabalhista": 13,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [
@@ -75,11 +75,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 394,
-  "respondidos": 379,
+  "turnos": 395,
+  "respondidos": 380,
   "sem_resposta": 15,
   "sem_resposta_grupos": 15,
-  "mediana_min": 80.9,
+  "mediana_min": 78.8,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -93,8 +93,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 43,
-    "mediana_min": 999.1
+    "respostas": 44,
+    "mediana_min": 960.6
    },
    {
     "nome": "Tiago Bernardo",
@@ -386,17 +386,17 @@
   ]
  },
  "agora": {
-  "fila": 661,
-  "abertos": 773,
+  "fila": 662,
+  "abertos": 774,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 3,
   "offline": 3,
-  "ausentes": 3,
-  "espera_media_s": 4934
+  "ausentes": 2,
+  "espera_media_s": 4926
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-30T14:16:09.359Z",
-  "min_sem_lead": 246439
+  "ultimo_lead_at": "2026-09-17T17:31:29.651Z",
+  "min_sem_lead": 19
  },
  "leads": [
   {
@@ -408,6 +408,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Oscarsantigorodrlngues",
+   "tel": "5554*****824",
+   "criado": "14:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
    "area": "Trabalhista"
   },
   {
