@@ -1,5 +1,5 @@
 {
- "gerado_em": "17/09/2026, 15:36",
+ "gerado_em": "17/09/2026, 15:51",
  "data_ref": "17/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -75,16 +75,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 401,
-  "respondidos": 386,
-  "sem_resposta": 15,
-  "sem_resposta_grupos": 15,
-  "mediana_min": 74.4,
+  "turnos": 403,
+  "respondidos": 387,
+  "sem_resposta": 16,
+  "sem_resposta_grupos": 16,
+  "mediana_min": 76.3,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 186,
-    "mediana_min": 98.2
+    "respostas": 187,
+    "mediana_min": 100.4
    },
    {
     "nome": "Julia",
@@ -129,6 +129,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
+    "dia": "16/09",
+    "desde": "18:34",
+    "ts": 1789594458412
+   },
+   {
+    "grupo": "E.C.D.S x CLS GARCIA CONSTRUCOES LTDA",
+    "dia": "17/09",
+    "desde": "15:40",
+    "ts": 1789670443254
+   },
+   {
     "grupo": "R.A.D.S x REDE DE DISTRIBUICAO ZEFERINO LTDA.",
     "dia": "16/09",
     "desde": "11:17",
@@ -145,12 +157,6 @@
     "dia": "17/09",
     "desde": "06:51",
     "ts": 1789638698887
-   },
-   {
-    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
-    "dia": "16/09",
-    "desde": "18:34",
-    "ts": 1789594458412
    },
    {
     "grupo": "A.M.D.R x PROTECELL COMERCIO ATACADISTA, IMPORTACAO E EXPORTACAO LTDA",
@@ -328,6 +334,12 @@
     "dia": "17/09",
     "desde": "09:52",
     "ts": 1789649544258
+   },
+   {
+    "grupo": "E.C.D.S x CLS GARCIA CONSTRUCOES LTDA",
+    "dia": "17/09",
+    "desde": "15:40",
+    "ts": 1789670443254
    }
   ]
  },
@@ -386,17 +398,17 @@
   ]
  },
  "agora": {
-  "fila": 663,
+  "fila": 662,
   "abertos": 777,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 6,
   "offline": 1,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 4919
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-17T18:12:34.020Z",
-  "min_sem_lead": 24
+  "ultimo_lead_at": "2026-09-08T14:31:14.503Z",
+  "min_sem_lead": 13220
  },
  "leads": [
   {
