@@ -1,5 +1,5 @@
 {
- "gerado_em": "17/09/2026, 10:16",
+ "gerado_em": "17/09/2026, 10:31",
  "data_ref": "17/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 167,
-  "tickets_abertos": 765,
+  "tickets_abertos": 764,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -68,16 +68,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 208,
-  "turnos": 351,
-  "respondidos": 332,
-  "sem_resposta": 19,
-  "sem_resposta_grupos": 19,
-  "mediana_min": 83.2,
+  "turnos": 354,
+  "respondidos": 336,
+  "sem_resposta": 18,
+  "sem_resposta_grupos": 18,
+  "mediana_min": 84.8,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 148,
-    "mediana_min": 98.2
+    "respostas": 152,
+    "mediana_min": 102.4
    },
    {
     "nome": "Julia",
@@ -156,12 +156,6 @@
     "dia": "16/09",
     "desde": "18:34",
     "ts": 1789594458412
-   },
-   {
-    "grupo": "M.V.T x NASCIMENTO SERVICOS DE LIMPEZA LTDA",
-    "dia": "16/09",
-    "desde": "18:02",
-    "ts": 1789592554272
    },
    {
     "grupo": "A.M.D.R x PROTECELL COMERCIO ATACADISTA, IMPORTACAO E EXPORTACAO LTDA",
@@ -316,12 +310,6 @@
     "ts": 1789592265235
    },
    {
-    "grupo": "M.V.T x NASCIMENTO SERVICOS DE LIMPEZA LTDA",
-    "dia": "16/09",
-    "desde": "18:02",
-    "ts": 1789592554272
-   },
-   {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
     "dia": "16/09",
     "desde": "18:34",
@@ -422,16 +410,16 @@
  },
  "agora": {
   "fila": 653,
-  "abertos": 765,
+  "abertos": 764,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 7,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 3021
+  "ausentes": 0,
+  "espera_media_s": 3016
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-17T12:41:32.917Z",
-  "min_sem_lead": 35
+  "ultimo_lead_at": "2026-09-16T19:08:23.283Z",
+  "min_sem_lead": 1103
  },
  "leads": [
   {
