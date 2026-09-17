@@ -1,23 +1,28 @@
 {
- "gerado_em": "17/09/2026, 18:39",
+ "gerado_em": "17/09/2026, 18:54",
  "data_ref": "17/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
-  "no_sla": 14,
+  "total": 22,
+  "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 178,
-  "tickets_abertos": 793,
+  "leads_7d": 180,
+  "tickets_abertos": 796,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 18,
+   "leads": 19,
+   "mediana_min": 0.4
+  },
+  {
+   "nome": "Roseli",
+   "leads": 1,
    "mediana_min": 0.4
   },
   {
@@ -27,8 +32,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
-  "Direto/Indicacao": 3
+  "Anuncio": 18,
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -37,7 +42,7 @@
   },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
@@ -65,8 +70,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 5,
-  "Trabalhista": 15
+  "Nao identificada": 6,
+  "Trabalhista": 16
  },
  "sem_resposta_lista": [
   {
@@ -79,12 +84,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 225,
-  "turnos": 438,
-  "respondidos": 418,
+  "grupos_ativos": 226,
+  "turnos": 444,
+  "respondidos": 424,
   "sem_resposta": 20,
   "sem_resposta_grupos": 20,
-  "mediana_min": 61.7,
+  "mediana_min": 60.2,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -103,8 +108,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 36,
-    "mediana_min": 7
+    "respostas": 42,
+    "mediana_min": 8.6
    },
    {
     "nome": "Gabrielle",
@@ -451,19 +456,52 @@
   ]
  },
  "agora": {
-  "fila": 661,
-  "abertos": 793,
+  "fila": 662,
+  "abertos": 796,
   "com_atendimento": 7,
   "online": 4,
   "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 4919
+  "espera_media_s": 4912
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-16T16:55:06.029Z",
-  "min_sem_lead": 1724
+  "ultimo_lead_at": "2026-03-30T14:16:09.359Z",
+  "min_sem_lead": 246698
  },
  "leads": [
+  {
+   "nome": "Vanessa Mobile",
+   "tel": "5511*****206",
+   "criado": "18:42",
+   "atendente": "Roseli",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "NIVALDO ROOTS",
+   "tel": "5598*****739",
+   "criado": "14:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5512991110206",
+   "tel": "5512*****206",
+   "criado": "18:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558491359564",
    "tel": "5584*****564",
@@ -484,17 +522,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/8hmN3IbSF",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "NIVALDO ROOTS",
-   "tel": "5598*****739",
-   "criado": "14:31",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4MBhcZyUD",
    "area": "Trabalhista"
   },
   {
