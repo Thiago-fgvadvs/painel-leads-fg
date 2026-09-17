@@ -1,17 +1,17 @@
 {
- "gerado_em": "17/09/2026, 16:07",
+ "gerado_em": "17/09/2026, 16:22",
  "data_ref": "17/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
-  "no_sla": 11,
+  "total": 18,
+  "no_sla": 12,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 175,
-  "tickets_abertos": 778,
+  "leads_7d": 176,
+  "tickets_abertos": 779,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 16,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 0.3
   }
  ],
  "origem": {
   "Anuncio": 16,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -39,11 +44,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/505ajP5YC",
+   "url": "fb.me/4LXdMV2Fn",
    "leads": 1
   },
   {
-   "url": "fb.me/4LXdMV2Fn",
+   "url": "fb.me/505ajP5YC",
    "leads": 1
   },
   {
@@ -61,7 +66,7 @@
  ],
  "areas": {
   "Trabalhista": 14,
-  "Nao identificada": 3
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [
   {
@@ -74,17 +79,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 217,
-  "turnos": 403,
-  "respondidos": 387,
+  "grupos_ativos": 218,
+  "turnos": 408,
+  "respondidos": 392,
   "sem_resposta": 16,
   "sem_resposta_grupos": 16,
-  "mediana_min": 76.3,
+  "mediana_min": 72.3,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 187,
-    "mediana_min": 100.4
+    "respostas": 188,
+    "mediana_min": 98.2
    },
    {
     "nome": "Julia",
@@ -103,8 +108,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 19,
-    "mediana_min": 4.9
+    "respostas": 23,
+    "mediana_min": 4.4
    },
    {
     "nome": "Roseli",
@@ -131,8 +136,8 @@
    {
     "grupo": "E.C.D.S x CLS GARCIA CONSTRUCOES LTDA",
     "dia": "17/09",
-    "desde": "15:40",
-    "ts": 1789670443254
+    "desde": "16:15",
+    "ts": 1789672534339
    },
    {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
@@ -338,8 +343,8 @@
    {
     "grupo": "E.C.D.S x CLS GARCIA CONSTRUCOES LTDA",
     "dia": "17/09",
-    "desde": "15:40",
-    "ts": 1789670443254
+    "desde": "16:15",
+    "ts": 1789672534339
    }
   ]
  },
@@ -398,30 +403,19 @@
   ]
  },
  "agora": {
-  "fila": 663,
-  "abertos": 778,
+  "fila": 661,
+  "abertos": 779,
   "com_atendimento": 7,
-  "online": 6,
-  "offline": 1,
+  "online": 4,
+  "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 4919
+  "espera_media_s": 4926
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-30T14:16:09.359Z",
-  "min_sem_lead": 246531
+  "ultimo_lead_at": "2026-09-08T14:31:14.503Z",
+  "min_sem_lead": 13251
  },
  "leads": [
-  {
-   "nome": "Iane🦋",
-   "tel": "5521*****939",
-   "criado": "15:12",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "NIVALDO ROOTS",
    "tel": "5598*****739",
@@ -431,6 +425,39 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ana",
+   "tel": "5515*****934",
+   "criado": "13:43",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4LXdMV2Fn",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Leticia Silveira anacleto",
+   "tel": "5551*****057",
+   "criado": "16:12",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Iane🦋",
+   "tel": "5521*****939",
+   "criado": "15:12",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
@@ -453,17 +480,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Ana",
-   "tel": "5515*****934",
-   "criado": "13:43",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4LXdMV2Fn",
    "area": "Trabalhista"
   },
   {
