@@ -1,28 +1,28 @@
 {
- "gerado_em": "17/09/2026, 09:30",
+ "gerado_em": "17/09/2026, 10:01",
  "data_ref": "17/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 3,
+  "total": 9,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 166,
-  "tickets_abertos": 762,
+  "leads_7d": 167,
+  "tickets_abertos": 764,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 8,
+   "leads": 9,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 9,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -31,7 +31,15 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/4QIoxFDrn",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/6lIu0yPSl",
    "leads": 1
   },
   {
@@ -47,28 +55,24 @@
    "leads": 1
   },
   {
-   "url": "fb.me/6lIu0yPSl",
-   "leads": 1
-  },
-  {
    "url": "fb.me/7ciItXnNp",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 6
+  "Trabalhista": 7,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 203,
-  "turnos": 340,
-  "respondidos": 323,
-  "sem_resposta": 17,
-  "sem_resposta_grupos": 17,
-  "mediana_min": 84.8,
+  "grupos_ativos": 207,
+  "turnos": 346,
+  "respondidos": 328,
+  "sem_resposta": 18,
+  "sem_resposta_grupos": 18,
+  "mediana_min": 83.2,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -106,22 +110,34 @@
     "mediana_min": 11
    },
    {
+    "nome": "Luisa",
+    "respostas": 6,
+    "mediana_min": 1.9
+   },
+   {
     "nome": "—",
     "respostas": 4,
     "mediana_min": 34.6
-   },
-   {
-    "nome": "Luisa",
-    "respostas": 1,
-    "mediana_min": 1.8
    }
   ],
   "sem_resposta_lista": [
    {
     "grupo": "A.C.D.S.A x KONECTA BRAZIL OUTSOURCING LTDA",
     "dia": "17/09",
-    "desde": "09:07",
-    "ts": 1789646833175
+    "desde": "09:59",
+    "ts": 1789649964274
+   },
+   {
+    "grupo": "R.A.D.S x REDE DE DISTRIBUICAO ZEFERINO LTDA.",
+    "dia": "16/09",
+    "desde": "11:17",
+    "ts": 1789568262542
+   },
+   {
+    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
+    "dia": "17/09",
+    "desde": "09:52",
+    "ts": 1789649544258
    },
    {
     "grupo": "L.M x F B Dos Reis ",
@@ -194,12 +210,6 @@
     "dia": "16/09",
     "desde": "12:46",
     "ts": 1789573596902
-   },
-   {
-    "grupo": "R.A.D.S x REDE DE DISTRIBUICAO ZEFERINO LTDA.",
-    "dia": "16/09",
-    "desde": "11:17",
-    "ts": 1789568262542
    },
    {
     "grupo": "C.G.D.S x ALMADA GASTRONOMIA LTDA",
@@ -324,26 +334,42 @@
     "ts": 1789638698887
    },
    {
-    "grupo": "A.C.D.S.A x KONECTA BRAZIL OUTSOURCING LTDA",
-    "dia": "17/09",
-    "desde": "09:07",
-    "ts": 1789646833175
-   },
-   {
     "grupo": "L.M x F B Dos Reis ",
     "dia": "17/09",
     "desde": "09:27",
     "ts": 1789648077203
+   },
+   {
+    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
+    "dia": "17/09",
+    "desde": "09:52",
+    "ts": 1789649544258
+   },
+   {
+    "grupo": "A.C.D.S.A x KONECTA BRAZIL OUTSOURCING LTDA",
+    "dia": "17/09",
+    "desde": "09:59",
+    "ts": 1789649964274
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 4,
+  "total": 5,
   "por_vendedor": {
+   "Tiago Bernardo": 1,
    "Roseli": 4
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "P",
+    "dia": "17/09",
+    "hora": "09:51",
+    "ts": 1789649485107,
+    "origem": "Anúncio: fb.me/6lIu0yPSl",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "V",
@@ -383,19 +409,41 @@
   ]
  },
  "agora": {
-  "fila": 654,
-  "abertos": 762,
+  "fila": 652,
+  "abertos": 764,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 5,
+  "online": 6,
+  "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 3025
+  "espera_media_s": 3021
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-17T12:13:43.228Z",
-  "min_sem_lead": 17
+  "ultimo_lead_at": "2026-09-17T12:24:26.218Z",
+  "min_sem_lead": 37
  },
  "leads": [
+  {
+   "nome": "Alexsander",
+   "tel": "5531*****959",
+   "criado": "09:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558387095377",
+   "tel": "5583*****377",
+   "criado": "09:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "caíque",
    "tel": "5511*****010",
@@ -408,14 +456,14 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553196102959",
-   "tel": "5531*****959",
-   "criado": "09:24",
+   "nome": "Paulo",
+   "tel": "5519*****828",
+   "criado": "00:54",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
+   "espera_min": 0.6,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "fb.me/4MBhcZyUD",
+   "criativo": "fb.me/6lIu0yPSl",
    "area": "Trabalhista"
   },
   {
@@ -460,17 +508,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/91elw2A2a",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Paulo",
-   "tel": "5519*****828",
-   "criado": "00:54",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6lIu0yPSl",
    "area": "Trabalhista"
   },
   {
