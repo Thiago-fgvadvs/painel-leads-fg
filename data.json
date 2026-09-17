@@ -1,5 +1,5 @@
 {
- "gerado_em": "17/09/2026, 20:26",
+ "gerado_em": "17/09/2026, 20:41",
  "data_ref": "17/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -85,10 +85,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 227,
-  "turnos": 451,
+  "turnos": 452,
   "respondidos": 432,
-  "sem_resposta": 19,
-  "sem_resposta_grupos": 19,
+  "sem_resposta": 20,
+  "sem_resposta_grupos": 20,
   "mediana_min": 61.7,
   "atendentes": [
    {
@@ -138,6 +138,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "dia": "17/09",
+    "desde": "20:28",
+    "ts": 1789687739054
+   },
    {
     "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
     "dia": "17/09",
@@ -386,6 +392,12 @@
     "dia": "17/09",
     "desde": "18:06",
     "ts": 1789679179702
+   },
+   {
+    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "dia": "17/09",
+    "desde": "20:28",
+    "ts": 1789687739054
    }
   ]
  },
@@ -454,7 +466,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-17T21:42:47.446Z",
-  "min_sem_lead": 103
+  "min_sem_lead": 118
  },
  "leads": [
   {
