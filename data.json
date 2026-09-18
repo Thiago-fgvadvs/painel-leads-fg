@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/09/2026, 18:07",
+ "gerado_em": "18/09/2026, 18:22",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 177,
-  "tickets_abertos": 830,
+  "tickets_abertos": 833,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -45,11 +45,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmVpxyMs5c/",
+   "url": "fb.me/7ZVZhwxMh",
    "leads": 1
   },
   {
-   "url": "fb.me/7ZVZhwxMh",
+   "url": "www.instagram.com/p/DcmVpxyMs5c/",
    "leads": 1
   },
   {
@@ -85,16 +85,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 229,
-  "turnos": 450,
-  "respondidos": 422,
-  "sem_resposta": 28,
-  "sem_resposta_grupos": 28,
+  "turnos": 452,
+  "respondidos": 426,
+  "sem_resposta": 26,
+  "sem_resposta_grupos": 26,
   "mediana_min": 52.2,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 166,
-    "mediana_min": 122.1
+    "respostas": 169,
+    "mediana_min": 122.5
    },
    {
     "nome": "Julia",
@@ -123,8 +123,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 15,
-    "mediana_min": 20.8
+    "respostas": 16,
+    "mediana_min": 20.2
    },
    {
     "nome": "Eduardo",
@@ -139,16 +139,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
+    "grupo": "L.D.S.D.S x SHPX LOGISTICA LTDA",
     "dia": "18/09",
-    "desde": "18:06",
-    "ts": 1789765596182
-   },
-   {
-    "grupo": "L.P.D.O.R x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "18/09",
-    "desde": "18:02",
-    "ts": 1789765369180
+    "desde": "18:08",
+    "ts": 1789765734186
    },
    {
     "grupo": "L.M.D.S x ANDRADE E SANTOS LTDA",
@@ -299,12 +293,6 @@
     "dia": "16/09",
     "desde": "10:31",
     "ts": 1789565515311
-   },
-   {
-    "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
-    "dia": "14/09",
-    "desde": "18:30",
-    "ts": 1789421436028
    }
   ]
  },
@@ -342,12 +330,6 @@
   ],
   "grupos": [
    {
-    "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
-    "dia": "14/09",
-    "desde": "18:30",
-    "ts": 1789421436028
-   },
-   {
     "grupo": "C.G.D.S x ALMADA GASTRONOMIA LTDA",
     "dia": "16/09",
     "desde": "10:31",
@@ -498,16 +480,10 @@
     "ts": 1789759105942
    },
    {
-    "grupo": "L.P.D.O.R x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "grupo": "L.D.S.D.S x SHPX LOGISTICA LTDA",
     "dia": "18/09",
-    "desde": "18:02",
-    "ts": 1789765369180
-   },
-   {
-    "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
-    "dia": "18/09",
-    "desde": "18:06",
-    "ts": 1789765596182
+    "desde": "18:08",
+    "ts": 1789765734186
    }
   ]
  },
@@ -540,18 +516,29 @@
  },
  "agora": {
   "fila": 687,
-  "abertos": 830,
+  "abertos": 833,
   "com_atendimento": 5,
-  "online": 5,
-  "offline": 3,
+  "online": 4,
+  "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 4779
+  "espera_media_s": 3650
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-30T14:16:09.359Z",
-  "min_sem_lead": 248091
+  "ultimo_lead_at": "2026-09-07T06:21:14.051Z",
+  "min_sem_lead": 16742
  },
  "leads": [
+  {
+   "nome": "Janaina Rocha",
+   "tel": "5581*****790",
+   "criado": "07:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Jotinha",
    "tel": "5561*****931",
@@ -616,17 +603,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmVpxyMs5c/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Janaina Rocha",
-   "tel": "5581*****790",
-   "criado": "07:24",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
   },
   {
