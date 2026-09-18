@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/09/2026, 12:02",
+ "gerado_em": "18/09/2026, 12:17",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 166,
-  "tickets_abertos": 813,
+  "tickets_abertos": 816,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -59,11 +59,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 218,
-  "turnos": 395,
-  "respondidos": 372,
-  "sem_resposta": 23,
-  "sem_resposta_grupos": 23,
+  "grupos_ativos": 219,
+  "turnos": 398,
+  "respondidos": 374,
+  "sem_resposta": 24,
+  "sem_resposta_grupos": 24,
   "mediana_min": 60,
   "atendentes": [
    {
@@ -98,21 +98,39 @@
    },
    {
     "nome": "Roseli",
+    "respostas": 10,
+    "mediana_min": 30.3
+   },
+   {
+    "nome": "Eduardo",
     "respostas": 9,
-    "mediana_min": 19.6
+    "mediana_min": 3.3
    },
    {
     "nome": "—",
     "respostas": 8,
     "mediana_min": 40.9
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 8,
-    "mediana_min": 5.6
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "P.C.S.S x LEO MADEIRAS, MÁQUINAS E FERRAGENS S.A",
+    "dia": "18/09",
+    "desde": "12:07",
+    "ts": 1789744061259
+   },
+   {
+    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "dia": "17/09",
+    "desde": "20:28",
+    "ts": 1789687739054
+   },
+   {
+    "grupo": "V.H.M x RODONAVES TRANSPORTES E ENCOMENDAS LTDA",
+    "dia": "14/09",
+    "desde": "18:45",
+    "ts": 1789422312074
+   },
    {
     "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
     "dia": "18/09",
@@ -138,12 +156,6 @@
     "ts": 1789735383056
    },
    {
-    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
-    "dia": "17/09",
-    "desde": "20:28",
-    "ts": 1789687739054
-   },
-   {
     "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
     "dia": "17/09",
     "desde": "18:06",
@@ -160,12 +172,6 @@
     "dia": "17/09",
     "desde": "17:23",
     "ts": 1789676628535
-   },
-   {
-    "grupo": "L.D.S.A x INSS",
-    "dia": "17/09",
-    "desde": "17:20",
-    "ts": 1789676429532
    },
    {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
@@ -286,6 +292,12 @@
     "ts": 1789421436028
    },
    {
+    "grupo": "V.H.M x RODONAVES TRANSPORTES E ENCOMENDAS LTDA",
+    "dia": "14/09",
+    "desde": "18:45",
+    "ts": 1789422312074
+   },
+   {
     "grupo": "C.G.D.S x ALMADA GASTRONOMIA LTDA",
     "dia": "16/09",
     "desde": "10:31",
@@ -364,12 +376,6 @@
     "ts": 1789675410495
    },
    {
-    "grupo": "L.D.S.A x INSS",
-    "dia": "17/09",
-    "desde": "17:20",
-    "ts": 1789676429532
-   },
-   {
     "grupo": "G.M.B.D.S x AURIZ FOODS LTDA",
     "dia": "17/09",
     "desde": "17:23",
@@ -416,6 +422,12 @@
     "dia": "18/09",
     "desde": "11:41",
     "ts": 1789742510209
+   },
+   {
+    "grupo": "P.C.S.S x LEO MADEIRAS, MÁQUINAS E FERRAGENS S.A",
+    "dia": "18/09",
+    "desde": "12:07",
+    "ts": 1789744061259
    }
   ]
  },
@@ -447,17 +459,17 @@
   ]
  },
  "agora": {
-  "fila": 677,
-  "abertos": 813,
+  "fila": 680,
+  "abertos": 816,
   "com_atendimento": 5,
   "online": 3,
   "offline": 2,
   "ausentes": 3,
-  "espera_media_s": 4818
+  "espera_media_s": 4811
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-29T19:41:02.213Z",
-  "min_sem_lead": 73161
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 737277
  },
  "leads": [
   {
