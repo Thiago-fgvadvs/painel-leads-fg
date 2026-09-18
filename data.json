@@ -1,44 +1,44 @@
 {
- "gerado_em": "18/09/2026, 17:52",
+ "gerado_em": "18/09/2026, 18:07",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
-  "no_sla": 13,
+  "total": 18,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 176,
-  "tickets_abertos": 829,
+  "leads_7d": 177,
+  "tickets_abertos": 830,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
+   "leads": 12,
    "mediana_min": 0.4
-  },
-  {
-   "nome": "Eduardo",
-   "leads": 2,
-   "mediana_min": 6.7
   },
   {
    "nome": "Roseli",
    "leads": 2,
    "mediana_min": 1.2
+  },
+  {
+   "nome": "Eduardo",
+   "leads": 2,
+   "mediana_min": 6.7
   }
  ],
  "origem": {
-  "Anuncio": 11,
+  "Anuncio": 12,
   "Direto/Indicacao": 6
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/87PZSDuwc",
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 6,
-  "Trabalhista": 11
+  "Trabalhista": 12,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [
   {
@@ -85,10 +85,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 229,
-  "turnos": 448,
+  "turnos": 450,
   "respondidos": 422,
-  "sem_resposta": 26,
-  "sem_resposta_grupos": 26,
+  "sem_resposta": 28,
+  "sem_resposta_grupos": 28,
   "mediana_min": 52.2,
   "atendentes": [
    {
@@ -122,14 +122,14 @@
     "mediana_min": 4.5
    },
    {
-    "nome": "Eduardo",
-    "respostas": 15,
-    "mediana_min": 3.6
-   },
-   {
     "nome": "Roseli",
     "respostas": 15,
     "mediana_min": 20.8
+   },
+   {
+    "nome": "Eduardo",
+    "respostas": 15,
+    "mediana_min": 3.6
    },
    {
     "nome": "—",
@@ -138,6 +138,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
+    "dia": "18/09",
+    "desde": "18:06",
+    "ts": 1789765596182
+   },
+   {
+    "grupo": "L.P.D.O.R x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "18/09",
+    "desde": "18:02",
+    "ts": 1789765369180
+   },
    {
     "grupo": "L.M.D.S x ANDRADE E SANTOS LTDA",
     "dia": "18/09",
@@ -484,6 +496,18 @@
     "dia": "18/09",
     "desde": "16:18",
     "ts": 1789759105942
+   },
+   {
+    "grupo": "L.P.D.O.R x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "18/09",
+    "desde": "18:02",
+    "ts": 1789765369180
+   },
+   {
+    "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
+    "dia": "18/09",
+    "desde": "18:06",
+    "ts": 1789765596182
    }
   ]
  },
@@ -515,19 +539,41 @@
   ]
  },
  "agora": {
-  "fila": 686,
-  "abertos": 829,
+  "fila": 687,
+  "abertos": 830,
   "com_atendimento": 5,
   "online": 5,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 4786
+  "espera_media_s": 4779
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-02T19:39:21.962Z",
-  "min_sem_lead": 23113
+  "ultimo_lead_at": "2026-03-30T14:16:09.359Z",
+  "min_sem_lead": 248091
  },
  "leads": [
+  {
+   "nome": "Jotinha",
+   "tel": "5561*****931",
+   "criado": "18:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Camila Santos 🦋🌻",
+   "tel": "5511*****320",
+   "criado": "15:31",
+   "atendente": "Roseli",
+   "espera_min": 1.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "CORRESPONDENTE Marina Mello Silva",
    "tel": "5511*****766",
@@ -545,17 +591,6 @@
    "criado": "17:27",
    "atendente": "Eduardo",
    "espera_min": 9.9,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Camila Santos 🦋🌻",
-   "tel": "5511*****320",
-   "criado": "15:31",
-   "atendente": "Roseli",
-   "espera_min": 1.7,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
