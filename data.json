@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/09/2026, 11:31",
+ "gerado_em": "18/09/2026, 11:46",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 166,
-  "tickets_abertos": 813,
+  "tickets_abertos": 814,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,16 +60,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 392,
-  "respondidos": 371,
-  "sem_resposta": 21,
-  "sem_resposta_grupos": 21,
+  "turnos": 395,
+  "respondidos": 372,
+  "sem_resposta": 23,
+  "sem_resposta_grupos": 23,
   "mediana_min": 60,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 145,
-    "mediana_min": 133.4
+    "respostas": 146,
+    "mediana_min": 129.9
    },
    {
     "nome": "Julia",
@@ -102,17 +102,23 @@
     "mediana_min": 19.6
    },
    {
-    "nome": "Eduardo",
-    "respostas": 8,
-    "mediana_min": 5.6
-   },
-   {
     "nome": "—",
     "respostas": 8,
     "mediana_min": 40.9
+   },
+   {
+    "nome": "Eduardo",
+    "respostas": 8,
+    "mediana_min": 5.6
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
+    "dia": "18/09",
+    "desde": "11:41",
+    "ts": 1789742510209
+   },
    {
     "grupo": "L.M.D.S x ANDRADE E SANTOS LTDA",
     "dia": "18/09",
@@ -124,6 +130,12 @@
     "dia": "18/09",
     "desde": "09:54",
     "ts": 1789736052065
+   },
+   {
+    "grupo": "A.F.G",
+    "dia": "18/09",
+    "desde": "09:43",
+    "ts": 1789735383056
    },
    {
     "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
@@ -382,6 +394,12 @@
     "ts": 1789687739054
    },
    {
+    "grupo": "A.F.G",
+    "dia": "18/09",
+    "desde": "09:43",
+    "ts": 1789735383056
+   },
+   {
     "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "18/09",
     "desde": "09:54",
@@ -392,6 +410,12 @@
     "dia": "18/09",
     "desde": "10:03",
     "ts": 1789736610072
+   },
+   {
+    "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
+    "dia": "18/09",
+    "desde": "11:41",
+    "ts": 1789742510209
    }
   ]
  },
@@ -424,16 +448,16 @@
  },
  "agora": {
   "fila": 678,
-  "abertos": 813,
+  "abertos": 814,
   "com_atendimento": 5,
-  "online": 3,
-  "offline": 1,
-  "ausentes": 4,
+  "online": 4,
+  "offline": 2,
+  "ausentes": 2,
   "espera_media_s": 4818
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 737232
+  "ultimo_lead_at": "2026-09-16T14:01:18.931Z",
+  "min_sem_lead": 2925
  },
  "leads": [
   {
