@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/09/2026, 12:17",
+ "gerado_em": "18/09/2026, 12:32",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -60,11 +60,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 219,
-  "turnos": 398,
-  "respondidos": 374,
+  "turnos": 401,
+  "respondidos": 377,
   "sem_resposta": 24,
   "sem_resposta_grupos": 24,
-  "mediana_min": 60,
+  "mediana_min": 59.9,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -78,7 +78,7 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 48,
+    "respostas": 50,
     "mediana_min": 8.6
    },
    {
@@ -102,17 +102,23 @@
     "mediana_min": 30.3
    },
    {
+    "nome": "—",
+    "respostas": 9,
+    "mediana_min": 46.6
+   },
+   {
     "nome": "Eduardo",
     "respostas": 9,
     "mediana_min": 3.3
-   },
-   {
-    "nome": "—",
-    "respostas": 8,
-    "mediana_min": 40.9
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.D.S.A x INSS",
+    "dia": "18/09",
+    "desde": "12:17",
+    "ts": 1789744663308
+   },
    {
     "grupo": "P.C.S.S x LEO MADEIRAS, MÁQUINAS E FERRAGENS S.A",
     "dia": "18/09",
@@ -148,12 +154,6 @@
     "dia": "18/09",
     "desde": "09:54",
     "ts": 1789736052065
-   },
-   {
-    "grupo": "A.F.G",
-    "dia": "18/09",
-    "desde": "09:43",
-    "ts": 1789735383056
    },
    {
     "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
@@ -400,12 +400,6 @@
     "ts": 1789687739054
    },
    {
-    "grupo": "A.F.G",
-    "dia": "18/09",
-    "desde": "09:43",
-    "ts": 1789735383056
-   },
-   {
     "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "18/09",
     "desde": "09:54",
@@ -428,6 +422,12 @@
     "dia": "18/09",
     "desde": "12:07",
     "ts": 1789744061259
+   },
+   {
+    "grupo": "L.D.S.A x INSS",
+    "dia": "18/09",
+    "desde": "12:17",
+    "ts": 1789744663308
    }
   ]
  },
@@ -469,7 +469,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 737277
+  "min_sem_lead": 737293
  },
  "leads": [
   {
