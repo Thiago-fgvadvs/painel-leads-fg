@@ -1,31 +1,35 @@
 {
- "gerado_em": "18/09/2026, 07:12",
+ "gerado_em": "18/09/2026, 07:28",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
+  "total": 3,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 2,
+  "fora_horario": 3,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 161,
-  "tickets_abertos": 801,
+  "leads_7d": 162,
+  "tickets_abertos": 802,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 2,
+   "leads": 3,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 2,
+  "Anuncio": 3,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/7ZVZhwxMh",
+   "leads": 1
+  },
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 1
@@ -36,7 +40,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2
+  "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -394,19 +398,30 @@
   ]
  },
  "agora": {
-  "fila": 670,
-  "abertos": 801,
+  "fila": 671,
+  "abertos": 802,
   "com_atendimento": 7,
   "online": 2,
   "offline": 6,
   "ausentes": 0,
-  "espera_media_s": 4861
+  "espera_media_s": 4854
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 736973
+  "ultimo_lead_at": "2026-09-18T10:24:47.852Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "558199480790",
+   "tel": "5581*****790",
+   "criado": "07:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Netto e LARA😍",
    "tel": "5521*****906",
