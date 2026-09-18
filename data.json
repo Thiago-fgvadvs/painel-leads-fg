@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/09/2026, 16:36",
+ "gerado_em": "18/09/2026, 16:51",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 10,
-  "Nao identificada": 4
+  "Nao identificada": 4,
+  "Trabalhista": 10
  },
  "sem_resposta_lista": [
   {
@@ -79,17 +79,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 227,
-  "turnos": 447,
-  "respondidos": 419,
-  "sem_resposta": 28,
-  "sem_resposta_grupos": 28,
-  "mediana_min": 51.6,
+  "grupos_ativos": 228,
+  "turnos": 448,
+  "respondidos": 421,
+  "sem_resposta": 27,
+  "sem_resposta_grupos": 27,
+  "mediana_min": 52.7,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 165,
-    "mediana_min": 122.5
+    "respostas": 166,
+    "mediana_min": 122.1
    },
    {
     "nome": "Julia",
@@ -103,8 +103,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 44,
-    "mediana_min": 1.5
+    "respostas": 45,
+    "mediana_min": 1.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -136,8 +136,8 @@
    {
     "grupo": "L.M x F B Dos Reis ",
     "dia": "18/09",
-    "desde": "15:43",
-    "ts": 1789756988865
+    "desde": "16:42",
+    "ts": 1789760561040
    },
    {
     "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
@@ -156,12 +156,6 @@
     "dia": "18/09",
     "desde": "15:51",
     "ts": 1789757483881
-   },
-   {
-    "grupo": "M.M.D.P.S x MUNICÍPIO DE GUAXUPE",
-    "dia": "18/09",
-    "desde": "15:34",
-    "ts": 1789756476808
    },
    {
     "grupo": "M.A x GL DA SILVA APOIO ADMINISTRATIVO",
@@ -475,18 +469,6 @@
     "ts": 1789756041774
    },
    {
-    "grupo": "M.M.D.P.S x MUNICÍPIO DE GUAXUPE",
-    "dia": "18/09",
-    "desde": "15:34",
-    "ts": 1789756476808
-   },
-   {
-    "grupo": "L.M x F B Dos Reis ",
-    "dia": "18/09",
-    "desde": "15:43",
-    "ts": 1789756988865
-   },
-   {
     "grupo": "A.C.M x LOJAS AVANCE MOVEIS E ELETRO LTDA",
     "dia": "18/09",
     "desde": "15:51",
@@ -503,6 +485,12 @@
     "dia": "18/09",
     "desde": "16:18",
     "ts": 1789759105942
+   },
+   {
+    "grupo": "L.M x F B Dos Reis ",
+    "dia": "18/09",
+    "desde": "16:42",
+    "ts": 1789760561040
    }
   ]
  },
@@ -537,27 +525,16 @@
   "fila": 684,
   "abertos": 831,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 3,
   "offline": 2,
-  "ausentes": 2,
+  "ausentes": 3,
   "espera_media_s": 4786
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-18T17:57:58.288Z",
-  "min_sem_lead": 98
+  "ultimo_lead_at": "2026-09-18T18:31:31.111Z",
+  "min_sem_lead": 80
  },
  "leads": [
-  {
-   "nome": "T.F.s",
-   "tel": "5594*****923",
-   "criado": "14:57",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmVpxyMs5c/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Camila Santos 🦋🌻",
    "tel": "5511*****320",
@@ -568,6 +545,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "T.F.s",
+   "tel": "5594*****923",
+   "criado": "14:57",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmVpxyMs5c/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Janaina Rocha",
