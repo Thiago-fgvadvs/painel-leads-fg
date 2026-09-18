@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/09/2026, 16:21",
+ "gerado_em": "18/09/2026, 16:36",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 173,
-  "tickets_abertos": 830,
+  "tickets_abertos": 831,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 10
+  "Trabalhista": 10,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [
   {
@@ -117,14 +117,14 @@
     "mediana_min": 4.5
    },
    {
-    "nome": "Eduardo",
-    "respostas": 15,
-    "mediana_min": 3.6
-   },
-   {
     "nome": "Roseli",
     "respostas": 15,
     "mediana_min": 20.8
+   },
+   {
+    "nome": "Eduardo",
+    "respostas": 15,
+    "mediana_min": 3.6
    },
    {
     "nome": "—",
@@ -133,6 +133,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.M x F B Dos Reis ",
+    "dia": "18/09",
+    "desde": "15:43",
+    "ts": 1789756988865
+   },
    {
     "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
     "dia": "18/09",
@@ -150,12 +156,6 @@
     "dia": "18/09",
     "desde": "15:51",
     "ts": 1789757483881
-   },
-   {
-    "grupo": "L.M x F B Dos Reis ",
-    "dia": "18/09",
-    "desde": "15:43",
-    "ts": 1789756988865
    },
    {
     "grupo": "M.M.D.P.S x MUNICÍPIO DE GUAXUPE",
@@ -534,30 +534,19 @@
   ]
  },
  "agora": {
-  "fila": 683,
-  "abertos": 830,
+  "fila": 684,
+  "abertos": 831,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 4,
   "offline": 2,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 4786
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-18T18:31:31.111Z",
-  "min_sem_lead": 49
+  "ultimo_lead_at": "2026-09-18T17:57:58.288Z",
+  "min_sem_lead": 98
  },
  "leads": [
-  {
-   "nome": "Camila Santos 🦋🌻",
-   "tel": "5511*****320",
-   "criado": "15:31",
-   "atendente": "Roseli",
-   "espera_min": 1.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
   {
    "nome": "T.F.s",
    "tel": "5594*****923",
@@ -568,6 +557,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmVpxyMs5c/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Camila Santos 🦋🌻",
+   "tel": "5511*****320",
+   "criado": "15:31",
+   "atendente": "Roseli",
+   "espera_min": 1.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Janaina Rocha",
