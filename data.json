@@ -1,16 +1,16 @@
 {
- "gerado_em": "18/09/2026, 13:18",
+ "gerado_em": "18/09/2026, 13:33",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
+  "total": 10,
   "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 168,
+  "leads_7d": 169,
   "tickets_abertos": 821,
   "periodo_dias": 7
  },
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 8,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -57,23 +57,23 @@
  ],
  "areas": {
   "Trabalhista": 8,
-  "Nao identificada": 1
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 222,
-  "turnos": 406,
-  "respondidos": 381,
-  "sem_resposta": 25,
-  "sem_resposta_grupos": 25,
-  "mediana_min": 60,
+  "turnos": 408,
+  "respondidos": 384,
+  "sem_resposta": 24,
+  "sem_resposta_grupos": 24,
+  "mediana_min": 59.7,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 150,
-    "mediana_min": 134.1
+    "respostas": 151,
+    "mediana_min": 133.4
    },
    {
     "nome": "Julia",
@@ -101,27 +101,27 @@
     "mediana_min": 4.5
    },
    {
-    "nome": "Roseli",
+    "nome": "—",
     "respostas": 10,
-    "mediana_min": 30.3
+    "mediana_min": 40.9
    },
    {
     "nome": "Eduardo",
-    "respostas": 9,
-    "mediana_min": 3.3
+    "respostas": 10,
+    "mediana_min": 5.6
    },
    {
-    "nome": "—",
-    "respostas": 9,
-    "mediana_min": 46.6
+    "nome": "Roseli",
+    "respostas": 10,
+    "mediana_min": 30.3
    }
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
     "dia": "18/09",
-    "desde": "13:11",
-    "ts": 1789747915421
+    "desde": "13:31",
+    "ts": 1789749111473
    },
    {
     "grupo": "K.D.P.N x IN HAUS INDUSTRIAL E SERVICOS DE LOGISTICA S A",
@@ -134,12 +134,6 @@
     "dia": "18/09",
     "desde": "12:36",
     "ts": 1789745769324
-   },
-   {
-    "grupo": "A.F.G",
-    "dia": "18/09",
-    "desde": "12:33",
-    "ts": 1789745592320
    },
    {
     "grupo": "L.D.S.A x INSS",
@@ -422,12 +416,6 @@
     "ts": 1789744663308
    },
    {
-    "grupo": "A.F.G",
-    "dia": "18/09",
-    "desde": "12:33",
-    "ts": 1789745592320
-   },
-   {
     "grupo": "V.H.M x RODONAVES TRANSPORTES E ENCOMENDAS LTDA",
     "dia": "18/09",
     "desde": "12:36",
@@ -440,10 +428,10 @@
     "ts": 1789746141389
    },
    {
-    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
     "dia": "18/09",
-    "desde": "13:11",
-    "ts": 1789747915421
+    "desde": "13:31",
+    "ts": 1789749111473
    }
   ]
  },
@@ -475,17 +463,17 @@
   ]
  },
  "agora": {
-  "fila": 680,
+  "fila": 679,
   "abertos": 821,
   "com_atendimento": 5,
-  "online": 2,
-  "offline": 2,
-  "ausentes": 4,
+  "online": 3,
+  "offline": 3,
+  "ausentes": 2,
   "espera_media_s": 4793
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-18T15:36:19.432Z",
-  "min_sem_lead": 42
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 737354
  },
  "leads": [
   {
@@ -586,6 +574,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/8IVPdycg0",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "555197419517",
+   "tel": "5551*****517",
+   "criado": "13:19",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
