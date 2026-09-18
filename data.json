@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/09/2026, 15:50",
+ "gerado_em": "18/09/2026, 16:05",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 10
+  "Trabalhista": 10,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [
   {
@@ -80,16 +80,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 227,
-  "turnos": 442,
-  "respondidos": 416,
+  "turnos": 445,
+  "respondidos": 419,
   "sem_resposta": 26,
   "sem_resposta_grupos": 26,
-  "mediana_min": 52.2,
+  "mediana_min": 51.6,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 164,
-    "mediana_min": 122.1
+    "respostas": 165,
+    "mediana_min": 122.5
    },
    {
     "nome": "Julia",
@@ -117,14 +117,14 @@
     "mediana_min": 4.5
    },
    {
+    "nome": "Eduardo",
+    "respostas": 15,
+    "mediana_min": 3.6
+   },
+   {
     "nome": "Roseli",
     "respostas": 15,
     "mediana_min": 20.8
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 13,
-    "mediana_min": 3.6
    },
    {
     "nome": "—",
@@ -133,6 +133,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.C.M x LOJAS AVANCE MOVEIS E ELETRO LTDA",
+    "dia": "18/09",
+    "desde": "15:51",
+    "ts": 1789757483881
+   },
    {
     "grupo": "L.M x F B Dos Reis ",
     "dia": "18/09",
@@ -168,12 +174,6 @@
     "dia": "18/09",
     "desde": "13:57",
     "ts": 1789750624529
-   },
-   {
-    "grupo": "K.D.P.N x IN HAUS INDUSTRIAL E SERVICOS DE LOGISTICA S A",
-    "dia": "18/09",
-    "desde": "12:42",
-    "ts": 1789746141389
    },
    {
     "grupo": "L.D.S.A x INSS",
@@ -439,12 +439,6 @@
     "ts": 1789744663308
    },
    {
-    "grupo": "K.D.P.N x IN HAUS INDUSTRIAL E SERVICOS DE LOGISTICA S A",
-    "dia": "18/09",
-    "desde": "12:42",
-    "ts": 1789746141389
-   },
-   {
     "grupo": "A.P.D.D.R x SEARA ALIMENTOS LTDA",
     "dia": "18/09",
     "desde": "13:57",
@@ -479,6 +473,12 @@
     "dia": "18/09",
     "desde": "15:43",
     "ts": 1789756988865
+   },
+   {
+    "grupo": "A.C.M x LOJAS AVANCE MOVEIS E ELETRO LTDA",
+    "dia": "18/09",
+    "desde": "15:51",
+    "ts": 1789757483881
    }
   ]
  },
@@ -519,21 +519,10 @@
   "espera_media_s": 4786
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-29T19:41:02.213Z",
-  "min_sem_lead": 73389
+  "ultimo_lead_at": "2026-09-18T17:57:58.288Z",
+  "min_sem_lead": 68
  },
  "leads": [
-  {
-   "nome": "Camila Leo",
-   "tel": "5511*****320",
-   "criado": "15:31",
-   "atendente": "Roseli",
-   "espera_min": 1.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
   {
    "nome": "T.F.s",
    "tel": "5594*****923",
@@ -544,6 +533,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmVpxyMs5c/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Camila Santos 🦋🌻",
+   "tel": "5511*****320",
+   "criado": "15:31",
+   "atendente": "Roseli",
+   "espera_min": 1.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Janaina Rocha",
@@ -557,7 +557,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556596171103",
+   "nome": "BARBOSA 🤓",
    "tel": "5565*****103",
    "criado": "15:36",
    "atendente": "FG Advogados - Isadora ",
@@ -568,7 +568,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Jarves LM",
+   "nome": "Jarves",
    "tel": "5551*****737",
    "criado": "14:57",
    "atendente": "Roseli",
