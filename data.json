@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/09/2026, 13:02",
+ "gerado_em": "18/09/2026, 13:18",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -63,17 +63,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 221,
-  "turnos": 405,
-  "respondidos": 380,
+  "grupos_ativos": 222,
+  "turnos": 406,
+  "respondidos": 381,
   "sem_resposta": 25,
   "sem_resposta_grupos": 25,
   "mediana_min": 60,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 149,
-    "mediana_min": 133.4
+    "respostas": 150,
+    "mediana_min": 134.1
    },
    {
     "nome": "Julia",
@@ -106,17 +106,23 @@
     "mediana_min": 30.3
    },
    {
-    "nome": "—",
-    "respostas": 9,
-    "mediana_min": 46.6
-   },
-   {
     "nome": "Eduardo",
     "respostas": 9,
     "mediana_min": 3.3
+   },
+   {
+    "nome": "—",
+    "respostas": 9,
+    "mediana_min": 46.6
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "dia": "18/09",
+    "desde": "13:11",
+    "ts": 1789747915421
+   },
    {
     "grupo": "K.D.P.N x IN HAUS INDUSTRIAL E SERVICOS DE LOGISTICA S A",
     "dia": "18/09",
@@ -146,12 +152,6 @@
     "dia": "18/09",
     "desde": "12:07",
     "ts": 1789744061259
-   },
-   {
-    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
-    "dia": "17/09",
-    "desde": "20:28",
-    "ts": 1789687739054
    },
    {
     "grupo": "L.M.D.S x ANDRADE E SANTOS LTDA",
@@ -398,12 +398,6 @@
     "ts": 1789679179702
    },
    {
-    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
-    "dia": "17/09",
-    "desde": "20:28",
-    "ts": 1789687739054
-   },
-   {
     "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "18/09",
     "desde": "09:54",
@@ -444,6 +438,12 @@
     "dia": "18/09",
     "desde": "12:42",
     "ts": 1789746141389
+   },
+   {
+    "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
+    "dia": "18/09",
+    "desde": "13:11",
+    "ts": 1789747915421
    }
   ]
  },
@@ -475,17 +475,17 @@
   ]
  },
  "agora": {
-  "fila": 681,
+  "fila": 680,
   "abertos": 821,
   "com_atendimento": 5,
-  "online": 3,
+  "online": 2,
   "offline": 2,
-  "ausentes": 3,
+  "ausentes": 4,
   "espera_media_s": 4793
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-08T14:31:14.503Z",
-  "min_sem_lead": 14492
+  "ultimo_lead_at": "2026-09-18T15:36:19.432Z",
+  "min_sem_lead": 42
  },
  "leads": [
   {
