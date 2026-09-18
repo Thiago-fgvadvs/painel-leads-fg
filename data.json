@@ -1,17 +1,17 @@
 {
- "gerado_em": "18/09/2026, 10:15",
+ "gerado_em": "18/09/2026, 10:30",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
+  "total": 7,
   "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 165,
-  "tickets_abertos": 810,
+  "leads_7d": 166,
+  "tickets_abertos": 811,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 6,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -52,18 +52,19 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6
+  "Trabalhista": 6,
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 216,
-  "turnos": 387,
-  "respondidos": 366,
+  "turnos": 389,
+  "respondidos": 368,
   "sem_resposta": 21,
   "sem_resposta_grupos": 21,
-  "mediana_min": 61.7,
+  "mediana_min": 60.2,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -101,14 +102,14 @@
     "mediana_min": 19.6
    },
    {
+    "nome": "—",
+    "respostas": 8,
+    "mediana_min": 40.9
+   },
+   {
     "nome": "Eduardo",
     "respostas": 6,
     "mediana_min": 11.3
-   },
-   {
-    "nome": "—",
-    "respostas": 6,
-    "mediana_min": 56.9
    }
   ],
   "sem_resposta_lista": [
@@ -423,16 +424,16 @@
  },
  "agora": {
   "fila": 676,
-  "abertos": 810,
-  "com_atendimento": 6,
-  "online": 3,
-  "offline": 3,
+  "abertos": 811,
+  "com_atendimento": 5,
+  "online": 5,
+  "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 4825
+  "espera_media_s": 4818
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-09T16:03:36.041Z",
-  "min_sem_lead": 277752
+  "ultimo_lead_at": "2026-09-16T16:55:06.029Z",
+  "min_sem_lead": 2676
  },
  "leads": [
   {
@@ -500,6 +501,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/8IVPdycg0",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "+5571987321474",
+   "tel": "5571*****474",
+   "criado": "10:29",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
