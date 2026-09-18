@@ -1,23 +1,23 @@
 {
- "gerado_em": "17/09/2026, 21:27",
+ "gerado_em": "17/09/2026, 21:42",
  "data_ref": "17/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
+  "total": 24,
   "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 2,
-  "fora_horario": 5,
+  "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 181,
-  "tickets_abertos": 796,
+  "leads_7d": 182,
+  "tickets_abertos": 797,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   },
   {
@@ -32,10 +32,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 4
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 3
+  },
   {
    "url": "fb.me/4MBhcZyUD",
    "leads": 3
@@ -43,10 +47,6 @@
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 3
-  },
-  {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
-   "leads": 2
   },
   {
    "url": "fb.me/7ZVZhwxMh",
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 17,
-  "Nao identificada": 6
+  "Nao identificada": 7,
+  "Trabalhista": 17
  },
  "sem_resposta_lista": [
   {
@@ -469,19 +469,30 @@
   ]
  },
  "agora": {
-  "fila": 664,
-  "abertos": 796,
+  "fila": 665,
+  "abertos": 797,
   "com_atendimento": 7,
   "online": 2,
   "offline": 6,
   "ausentes": 0,
-  "espera_media_s": 4904
+  "espera_media_s": 4897
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-17T21:35:27.058Z",
-  "min_sem_lead": 172
+  "ultimo_lead_at": "2026-09-18T00:35:41.880Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "554399345221",
+   "tel": "5543*****221",
+   "criado": "21:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 2.7,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Antônio Batista",
    "tel": "5584*****564",
