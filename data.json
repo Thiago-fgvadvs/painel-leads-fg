@@ -1,34 +1,43 @@
 {
- "gerado_em": "18/09/2026, 14:49",
+ "gerado_em": "18/09/2026, 15:04",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 6,
+  "total": 12,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 169,
-  "tickets_abertos": 825,
+  "leads_7d": 171,
+  "tickets_abertos": 827,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 8,
+   "leads": 9,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Roseli",
+   "leads": 1,
+   "mediana_min": 0.7
   }
  ],
  "origem": {
-  "Anuncio": 8,
-  "Direto/Indicacao": 2
+  "Anuncio": 9,
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcmVpxyMs5c/",
+   "leads": 1
   },
   {
    "url": "fb.me/7ZVZhwxMh",
@@ -56,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
-  "Nao identificada": 2
+  "Trabalhista": 9,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [
   {
@@ -71,11 +80,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 419,
-  "respondidos": 396,
-  "sem_resposta": 23,
-  "sem_resposta_grupos": 23,
-  "mediana_min": 59.5,
+  "turnos": 422,
+  "respondidos": 398,
+  "sem_resposta": 24,
+  "sem_resposta_grupos": 24,
+  "mediana_min": 57.6,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -99,7 +108,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 36,
+    "respostas": 38,
     "mediana_min": 2.2
    },
    {
@@ -124,6 +133,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.M x F B Dos Reis ",
+    "dia": "18/09",
+    "desde": "14:58",
+    "ts": 1789754295715
+   },
    {
     "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
     "dia": "18/09",
@@ -434,6 +449,12 @@
     "dia": "18/09",
     "desde": "14:25",
     "ts": 1789752330617
+   },
+   {
+    "grupo": "L.M x F B Dos Reis ",
+    "dia": "18/09",
+    "desde": "14:58",
+    "ts": 1789754295715
    }
   ]
  },
@@ -465,19 +486,41 @@
   ]
  },
  "agora": {
-  "fila": 680,
-  "abertos": 825,
+  "fila": 681,
+  "abertos": 827,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 6,
   "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 4800
+  "ausentes": 0,
+  "espera_media_s": 4793
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-26T01:50:02.901Z",
-  "min_sem_lead": 166559
+  "ultimo_lead_at": "2026-09-18T17:57:58.288Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "T.F.s",
+   "tel": "5594*****923",
+   "criado": "14:57",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmVpxyMs5c/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Jarves LM",
+   "tel": "5551*****737",
+   "criado": "14:57",
+   "atendente": "Roseli",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Janaina Rocha",
    "tel": "5581*****790",
