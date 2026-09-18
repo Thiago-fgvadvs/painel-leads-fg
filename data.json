@@ -1,17 +1,17 @@
 {
- "gerado_em": "18/09/2026, 13:33",
+ "gerado_em": "18/09/2026, 13:48",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
   "total": 10,
   "no_sla": 6,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 169,
-  "tickets_abertos": 821,
+  "tickets_abertos": 822,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -31,15 +31,15 @@
    "leads": 2
   },
   {
+   "url": "fb.me/7ZVZhwxMh",
+   "leads": 1
+  },
+  {
    "url": "fb.me/5RfuAbn3k",
    "leads": 1
   },
   {
    "url": "fb.me/83JH6uera",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/7ZVZhwxMh",
    "leads": 1
   },
   {
@@ -59,7 +59,14 @@
   "Trabalhista": 8,
   "Nao identificada": 2
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "555197419517",
+   "tel": "5551*****517",
+   "criado": "13:19",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -286,6 +293,13 @@
     "dia": "17/09",
     "desde": "20:24",
     "ts": 1789687466339
+   },
+   {
+    "nome": "555197419517",
+    "tel": "5551*****517",
+    "dia": "18/09",
+    "desde": "13:19",
+    "ts": 1789748382047
    }
   ],
   "grupos": [
@@ -464,18 +478,40 @@
  },
  "agora": {
   "fila": 679,
-  "abertos": 821,
+  "abertos": 822,
   "com_atendimento": 5,
   "online": 3,
   "offline": 3,
   "ausentes": 2,
-  "espera_media_s": 4793
+  "espera_media_s": 4800
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 737354
+  "ultimo_lead_at": "2026-08-19T04:34:30.962Z",
+  "min_sem_lead": 43934
  },
  "leads": [
+  {
+   "nome": "Janaina Rocha",
+   "tel": "5581*****790",
+   "criado": "07:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "555197419517",
+   "tel": "5551*****517",
+   "criado": "13:19",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Kau",
    "tel": "5551*****352",
@@ -532,17 +568,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Janaina Rocha",
-   "tel": "5581*****790",
-   "criado": "07:24",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Deusdete",
    "tel": "5575*****674",
    "criado": "08:20",
@@ -574,17 +599,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/8IVPdycg0",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "555197419517",
-   "tel": "5551*****517",
-   "criado": "13:19",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   }
  ]
 }
