@@ -1,31 +1,35 @@
 {
- "gerado_em": "18/09/2026, 08:13",
+ "gerado_em": "18/09/2026, 08:28",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 0,
+  "total": 4,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 3,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 162,
-  "tickets_abertos": 802,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 163,
+  "tickets_abertos": 804,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 3,
-   "mediana_min": null
+   "leads": 4,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/4LXdMV2Fn",
+   "leads": 1
+  },
   {
    "url": "fb.me/7ZVZhwxMh",
    "leads": 1
@@ -40,7 +44,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3
+  "Trabalhista": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -398,19 +402,30 @@
   ]
  },
  "agora": {
-  "fila": 671,
-  "abertos": 802,
+  "fila": 673,
+  "abertos": 804,
   "com_atendimento": 7,
   "online": 2,
   "offline": 6,
   "ausentes": 0,
-  "espera_media_s": 4854
+  "espera_media_s": 4839
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 737034
+  "ultimo_lead_at": "2026-09-16T14:01:18.931Z",
+  "min_sem_lead": 2728
  },
  "leads": [
+  {
+   "nome": "557581283674",
+   "tel": "5575*****674",
+   "criado": "08:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4LXdMV2Fn",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Janaina Rocha",
    "tel": "5581*****790",
