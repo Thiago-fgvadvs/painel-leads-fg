@@ -1,23 +1,23 @@
 {
- "gerado_em": "18/09/2026, 15:35",
+ "gerado_em": "18/09/2026, 15:50",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
-  "no_sla": 9,
+  "total": 14,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 3,
   "pct_sla": 100,
-  "mediana_geral": 0.4,
-  "leads_7d": 172,
-  "tickets_abertos": 831,
+  "mediana_geral": 0.5,
+  "leads_7d": 173,
+  "tickets_abertos": 830,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": 0.4
   },
   {
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 4
  },
  "criativos": [
+  {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 2
+  },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 2
@@ -56,17 +60,13 @@
    "leads": 1
   },
   {
-   "url": "fb.me/87PZSDuwc",
-   "leads": 1
-  },
-  {
    "url": "fb.me/8IVPdycg0",
    "leads": 1
   }
  ],
  "areas": {
   "Nao identificada": 4,
-  "Trabalhista": 9
+  "Trabalhista": 10
  },
  "sem_resposta_lista": [
   {
@@ -80,16 +80,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 227,
-  "turnos": 433,
-  "respondidos": 406,
-  "sem_resposta": 27,
-  "sem_resposta_grupos": 27,
-  "mediana_min": 54.7,
+  "turnos": 442,
+  "respondidos": 416,
+  "sem_resposta": 26,
+  "sem_resposta_grupos": 26,
+  "mediana_min": 52.2,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 161,
-    "mediana_min": 122.5
+    "respostas": 164,
+    "mediana_min": 122.1
    },
    {
     "nome": "Julia",
@@ -102,14 +102,14 @@
     "mediana_min": 8.6
    },
    {
+    "nome": "Gabrielle",
+    "respostas": 44,
+    "mediana_min": 1.5
+   },
+   {
     "nome": "FG Advogados - Isadora ",
     "respostas": 39,
     "mediana_min": 999.1
-   },
-   {
-    "nome": "Gabrielle",
-    "respostas": 38,
-    "mediana_min": 2.2
    },
    {
     "nome": "Luisa",
@@ -118,8 +118,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 14,
-    "mediana_min": 20.2
+    "respostas": 15,
+    "mediana_min": 20.8
    },
    {
     "nome": "Eduardo",
@@ -134,28 +134,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.M x F B Dos Reis ",
+    "dia": "18/09",
+    "desde": "15:43",
+    "ts": 1789756988865
+   },
+   {
     "grupo": "M.M.D.P.S x MUNICÍPIO DE GUAXUPE",
     "dia": "18/09",
     "desde": "15:34",
     "ts": 1789756476808
    },
    {
-    "grupo": "L.M x F B Dos Reis ",
-    "dia": "18/09",
-    "desde": "14:58",
-    "ts": 1789754295715
-   },
-   {
     "grupo": "M.A x GL DA SILVA APOIO ADMINISTRATIVO",
     "dia": "18/09",
     "desde": "15:27",
     "ts": 1789756041774
-   },
-   {
-    "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
-    "dia": "18/09",
-    "desde": "14:25",
-    "ts": 1789752330617
    },
    {
     "grupo": "G.F.B x VENANCIO PRODUTOS FARMACEUTICOS LTDA",
@@ -469,18 +463,6 @@
     "ts": 1789751772564
    },
    {
-    "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
-    "dia": "18/09",
-    "desde": "14:25",
-    "ts": 1789752330617
-   },
-   {
-    "grupo": "L.M x F B Dos Reis ",
-    "dia": "18/09",
-    "desde": "14:58",
-    "ts": 1789754295715
-   },
-   {
     "grupo": "M.A x GL DA SILVA APOIO ADMINISTRATIVO",
     "dia": "18/09",
     "desde": "15:27",
@@ -491,6 +473,12 @@
     "dia": "18/09",
     "desde": "15:34",
     "ts": 1789756476808
+   },
+   {
+    "grupo": "L.M x F B Dos Reis ",
+    "dia": "18/09",
+    "desde": "15:43",
+    "ts": 1789756988865
    }
   ]
  },
@@ -522,17 +510,17 @@
   ]
  },
  "agora": {
-  "fila": 682,
-  "abertos": 831,
+  "fila": 683,
+  "abertos": 830,
   "com_atendimento": 6,
-  "online": 6,
+  "online": 5,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 4793
+  "ausentes": 1,
+  "espera_media_s": 4786
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-18T18:31:31.111Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2026-07-29T19:41:02.213Z",
+  "min_sem_lead": 73389
  },
  "leads": [
   {
@@ -558,17 +546,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Jarves LM",
-   "tel": "5551*****737",
-   "criado": "14:57",
-   "atendente": "Roseli",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Janaina Rocha",
    "tel": "5581*****790",
    "criado": "07:24",
@@ -578,6 +555,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "556596171103",
+   "tel": "5565*****103",
+   "criado": "15:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Jarves LM",
+   "tel": "5551*****737",
+   "criado": "14:57",
+   "atendente": "Roseli",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "555197419517",
