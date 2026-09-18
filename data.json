@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/09/2026, 09:45",
+ "gerado_em": "18/09/2026, 10:00",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 165,
-  "tickets_abertos": 806,
+  "tickets_abertos": 808,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -59,16 +59,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 215,
-  "turnos": 380,
-  "respondidos": 360,
-  "sem_resposta": 20,
-  "sem_resposta_grupos": 20,
-  "mediana_min": 60.2,
+  "turnos": 385,
+  "respondidos": 364,
+  "sem_resposta": 21,
+  "sem_resposta_grupos": 21,
+  "mediana_min": 61.7,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 141,
-    "mediana_min": 126.3
+    "respostas": 145,
+    "mediana_min": 133.4
    },
    {
     "nome": "Julia",
@@ -112,6 +112,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
+    "dia": "18/09",
+    "desde": "09:54",
+    "ts": 1789736052065
+   },
    {
     "grupo": "R.L.M.D.O x LÍLIA RAMOS MARQUES",
     "dia": "18/09",
@@ -379,6 +385,12 @@
     "dia": "18/09",
     "desde": "08:13",
     "ts": 1789730011921
+   },
+   {
+    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
+    "dia": "18/09",
+    "desde": "09:54",
+    "ts": 1789736052065
    }
   ]
  },
@@ -411,20 +423,20 @@
  },
  "agora": {
   "fila": 675,
-  "abertos": 806,
+  "abertos": 808,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 3,
   "offline": 3,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 4825
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-18T12:39:57.203Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 737140
  },
  "leads": [
   {
-   "nome": "558399467551",
+   "nome": "Maria do carmo Silva",
    "tel": "5583*****551",
    "criado": "09:39",
    "atendente": "FG Advogados - Isadora ",
