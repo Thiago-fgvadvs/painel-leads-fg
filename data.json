@@ -1,17 +1,17 @@
 {
- "gerado_em": "18/09/2026, 15:20",
+ "gerado_em": "18/09/2026, 15:35",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 8,
+  "total": 13,
+  "no_sla": 9,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 171,
-  "tickets_abertos": 828,
+  "leads_7d": 172,
+  "tickets_abertos": 831,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,13 +22,13 @@
   },
   {
    "nome": "Roseli",
-   "leads": 1,
-   "mediana_min": 0.7
+   "leads": 2,
+   "mediana_min": 1.2
   }
  ],
  "origem": {
   "Anuncio": 9,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
+  "Nao identificada": 4,
   "Trabalhista": 9
  },
  "sem_resposta_lista": [
@@ -79,17 +79,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 226,
-  "turnos": 425,
-  "respondidos": 399,
-  "sem_resposta": 26,
-  "sem_resposta_grupos": 26,
-  "mediana_min": 59.4,
+  "grupos_ativos": 227,
+  "turnos": 433,
+  "respondidos": 406,
+  "sem_resposta": 27,
+  "sem_resposta_grupos": 27,
+  "mediana_min": 54.7,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 158,
-    "mediana_min": 125.4
+    "respostas": 161,
+    "mediana_min": 122.5
    },
    {
     "nome": "Julia",
@@ -118,13 +118,13 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 12,
-    "mediana_min": 30.3
+    "respostas": 14,
+    "mediana_min": 20.2
    },
    {
     "nome": "Eduardo",
-    "respostas": 11,
-    "mediana_min": 3.3
+    "respostas": 13,
+    "mediana_min": 3.6
    },
    {
     "nome": "—",
@@ -134,16 +134,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.F.G",
+    "grupo": "M.M.D.P.S x MUNICÍPIO DE GUAXUPE",
     "dia": "18/09",
-    "desde": "15:19",
-    "ts": 1789755575760
-   },
-   {
-    "grupo": "P.C.S.S x LEO MADEIRAS, MÁQUINAS E FERRAGENS S.A",
-    "dia": "18/09",
-    "desde": "15:10",
-    "ts": 1789755009747
+    "desde": "15:34",
+    "ts": 1789756476808
    },
    {
     "grupo": "L.M x F B Dos Reis ",
@@ -152,10 +146,22 @@
     "ts": 1789754295715
    },
    {
+    "grupo": "M.A x GL DA SILVA APOIO ADMINISTRATIVO",
+    "dia": "18/09",
+    "desde": "15:27",
+    "ts": 1789756041774
+   },
+   {
     "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
     "dia": "18/09",
     "desde": "14:25",
     "ts": 1789752330617
+   },
+   {
+    "grupo": "G.F.B x VENANCIO PRODUTOS FARMACEUTICOS LTDA",
+    "dia": "18/09",
+    "desde": "14:16",
+    "ts": 1789751772564
    },
    {
     "grupo": "L.F.C.M x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
@@ -457,6 +463,12 @@
     "ts": 1789751232542
    },
    {
+    "grupo": "G.F.B x VENANCIO PRODUTOS FARMACEUTICOS LTDA",
+    "dia": "18/09",
+    "desde": "14:16",
+    "ts": 1789751772564
+   },
+   {
     "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
     "dia": "18/09",
     "desde": "14:25",
@@ -469,16 +481,16 @@
     "ts": 1789754295715
    },
    {
-    "grupo": "P.C.S.S x LEO MADEIRAS, MÁQUINAS E FERRAGENS S.A",
+    "grupo": "M.A x GL DA SILVA APOIO ADMINISTRATIVO",
     "dia": "18/09",
-    "desde": "15:10",
-    "ts": 1789755009747
+    "desde": "15:27",
+    "ts": 1789756041774
    },
    {
-    "grupo": "A.F.G",
+    "grupo": "M.M.D.P.S x MUNICÍPIO DE GUAXUPE",
     "dia": "18/09",
-    "desde": "15:19",
-    "ts": 1789755575760
+    "desde": "15:34",
+    "ts": 1789756476808
    }
   ]
  },
@@ -510,25 +522,25 @@
   ]
  },
  "agora": {
-  "fila": 681,
-  "abertos": 828,
+  "fila": 682,
+  "abertos": 831,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 6,
   "offline": 2,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 4793
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-30T14:16:09.359Z",
-  "min_sem_lead": 247924
+  "ultimo_lead_at": "2026-09-18T18:31:31.111Z",
+  "min_sem_lead": 4
  },
  "leads": [
   {
-   "nome": "Jarves LM",
-   "tel": "5551*****737",
-   "criado": "14:57",
+   "nome": "Camila Leo",
+   "tel": "5511*****320",
+   "criado": "15:31",
    "atendente": "Roseli",
-   "espera_min": 0.7,
+   "espera_min": 1.7,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
@@ -544,6 +556,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmVpxyMs5c/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Jarves LM",
+   "tel": "5551*****737",
+   "criado": "14:57",
+   "atendente": "Roseli",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Janaina Rocha",
