@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/09/2026, 14:03",
+ "gerado_em": "18/09/2026, 14:19",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -70,12 +70,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 222,
-  "turnos": 412,
-  "respondidos": 391,
-  "sem_resposta": 21,
-  "sem_resposta_grupos": 21,
-  "mediana_min": 59.9,
+  "grupos_ativos": 224,
+  "turnos": 415,
+  "respondidos": 393,
+  "sem_resposta": 22,
+  "sem_resposta_grupos": 22,
+  "mediana_min": 59.5,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -109,21 +109,27 @@
    },
    {
     "nome": "Roseli",
+    "respostas": 12,
+    "mediana_min": 30.3
+   },
+   {
+    "nome": "Eduardo",
     "respostas": 11,
-    "mediana_min": 41
+    "mediana_min": 3.3
    },
    {
     "nome": "—",
     "respostas": 10,
     "mediana_min": 40.9
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 10,
-    "mediana_min": 5.6
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.F.C.M x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
+    "dia": "18/09",
+    "desde": "14:07",
+    "ts": 1789751232542
+   },
    {
     "grupo": "A.P.D.D.R x SEARA ALIMENTOS LTDA",
     "dia": "18/09",
@@ -410,6 +416,12 @@
     "dia": "18/09",
     "desde": "13:57",
     "ts": 1789750624529
+   },
+   {
+    "grupo": "L.F.C.M x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
+    "dia": "18/09",
+    "desde": "14:07",
+    "ts": 1789751232542
    }
   ]
  },
@@ -444,14 +456,14 @@
   "fila": 679,
   "abertos": 822,
   "com_atendimento": 5,
-  "online": 2,
+  "online": 3,
   "offline": 3,
-  "ausentes": 3,
+  "ausentes": 2,
   "espera_media_s": 4807
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-12T09:05:18.373Z",
-  "min_sem_lead": 9118
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 737399
  },
  "leads": [
   {
