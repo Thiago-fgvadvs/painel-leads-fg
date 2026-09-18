@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/09/2026, 13:48",
+ "gerado_em": "18/09/2026, 14:03",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -71,16 +71,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 222,
-  "turnos": 408,
-  "respondidos": 384,
-  "sem_resposta": 24,
-  "sem_resposta_grupos": 24,
-  "mediana_min": 59.7,
+  "turnos": 412,
+  "respondidos": 391,
+  "sem_resposta": 21,
+  "sem_resposta_grupos": 21,
+  "mediana_min": 59.9,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 151,
-    "mediana_min": 133.4
+    "respostas": 157,
+    "mediana_min": 124.5
    },
    {
     "nome": "Julia",
@@ -108,6 +108,11 @@
     "mediana_min": 4.5
    },
    {
+    "nome": "Roseli",
+    "respostas": 11,
+    "mediana_min": 41
+   },
+   {
     "nome": "—",
     "respostas": 10,
     "mediana_min": 40.9
@@ -116,19 +121,14 @@
     "nome": "Eduardo",
     "respostas": 10,
     "mediana_min": 5.6
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 10,
-    "mediana_min": 30.3
    }
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
+    "grupo": "A.P.D.D.R x SEARA ALIMENTOS LTDA",
     "dia": "18/09",
-    "desde": "13:31",
-    "ts": 1789749111473
+    "desde": "13:57",
+    "ts": 1789750624529
    },
    {
     "grupo": "K.D.P.N x IN HAUS INDUSTRIAL E SERVICOS DE LOGISTICA S A",
@@ -137,22 +137,10 @@
     "ts": 1789746141389
    },
    {
-    "grupo": "V.H.M x RODONAVES TRANSPORTES E ENCOMENDAS LTDA",
-    "dia": "18/09",
-    "desde": "12:36",
-    "ts": 1789745769324
-   },
-   {
     "grupo": "L.D.S.A x INSS",
     "dia": "18/09",
     "desde": "12:17",
     "ts": 1789744663308
-   },
-   {
-    "grupo": "P.C.S.S x LEO MADEIRAS, MÁQUINAS E FERRAGENS S.A",
-    "dia": "18/09",
-    "desde": "12:07",
-    "ts": 1789744061259
    },
    {
     "grupo": "L.M.D.S x ANDRADE E SANTOS LTDA",
@@ -165,12 +153,6 @@
     "dia": "18/09",
     "desde": "09:54",
     "ts": 1789736052065
-   },
-   {
-    "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
-    "dia": "17/09",
-    "desde": "18:06",
-    "ts": 1789679179702
    },
    {
     "grupo": "T.D.D.S x BURGER KING",
@@ -400,12 +382,6 @@
     "ts": 1789678705696
    },
    {
-    "grupo": "E.D.J.O x VIACAO SORRISO DE MINAS LTDA",
-    "dia": "17/09",
-    "desde": "18:06",
-    "ts": 1789679179702
-   },
-   {
     "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "18/09",
     "desde": "09:54",
@@ -418,22 +394,10 @@
     "ts": 1789736610072
    },
    {
-    "grupo": "P.C.S.S x LEO MADEIRAS, MÁQUINAS E FERRAGENS S.A",
-    "dia": "18/09",
-    "desde": "12:07",
-    "ts": 1789744061259
-   },
-   {
     "grupo": "L.D.S.A x INSS",
     "dia": "18/09",
     "desde": "12:17",
     "ts": 1789744663308
-   },
-   {
-    "grupo": "V.H.M x RODONAVES TRANSPORTES E ENCOMENDAS LTDA",
-    "dia": "18/09",
-    "desde": "12:36",
-    "ts": 1789745769324
    },
    {
     "grupo": "K.D.P.N x IN HAUS INDUSTRIAL E SERVICOS DE LOGISTICA S A",
@@ -442,10 +406,10 @@
     "ts": 1789746141389
    },
    {
-    "grupo": "J.N.F x HAMBURGUERIA LUX COMERCIO LTDA",
+    "grupo": "A.P.D.D.R x SEARA ALIMENTOS LTDA",
     "dia": "18/09",
-    "desde": "13:31",
-    "ts": 1789749111473
+    "desde": "13:57",
+    "ts": 1789750624529
    }
   ]
  },
@@ -480,14 +444,14 @@
   "fila": 679,
   "abertos": 822,
   "com_atendimento": 5,
-  "online": 3,
+  "online": 2,
   "offline": 3,
-  "ausentes": 2,
-  "espera_media_s": 4800
+  "ausentes": 3,
+  "espera_media_s": 4807
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T04:34:30.962Z",
-  "min_sem_lead": 43934
+  "ultimo_lead_at": "2026-09-12T09:05:18.373Z",
+  "min_sem_lead": 9118
  },
  "leads": [
   {
