@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/09/2026, 10:00",
+ "gerado_em": "18/09/2026, 10:15",
  "data_ref": "18/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 165,
-  "tickets_abertos": 808,
+  "tickets_abertos": 810,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -58,9 +58,9 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 215,
-  "turnos": 385,
-  "respondidos": 364,
+  "grupos_ativos": 216,
+  "turnos": 387,
+  "respondidos": 366,
   "sem_resposta": 21,
   "sem_resposta_grupos": 21,
   "mediana_min": 61.7,
@@ -72,8 +72,8 @@
    },
    {
     "nome": "Julia",
-    "respostas": 61,
-    "mediana_min": 158
+    "respostas": 63,
+    "mediana_min": 149
    },
    {
     "nome": "Tiago Bernardo",
@@ -113,16 +113,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.M.D.S x ANDRADE E SANTOS LTDA",
+    "dia": "18/09",
+    "desde": "10:03",
+    "ts": 1789736610072
+   },
+   {
     "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "18/09",
     "desde": "09:54",
     "ts": 1789736052065
-   },
-   {
-    "grupo": "R.L.M.D.O x LÍLIA RAMOS MARQUES",
-    "dia": "18/09",
-    "desde": "08:13",
-    "ts": 1789730011921
    },
    {
     "grupo": "T.C.D.S x CONDOMÍNIO EDIFÍCIO RITZ SUÍTES HOME SERVICE",
@@ -381,16 +381,16 @@
     "ts": 1789687739054
    },
    {
-    "grupo": "R.L.M.D.O x LÍLIA RAMOS MARQUES",
-    "dia": "18/09",
-    "desde": "08:13",
-    "ts": 1789730011921
-   },
-   {
     "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "18/09",
     "desde": "09:54",
     "ts": 1789736052065
+   },
+   {
+    "grupo": "L.M.D.S x ANDRADE E SANTOS LTDA",
+    "dia": "18/09",
+    "desde": "10:03",
+    "ts": 1789736610072
    }
   ]
  },
@@ -422,8 +422,8 @@
   ]
  },
  "agora": {
-  "fila": 675,
-  "abertos": 808,
+  "fila": 676,
+  "abertos": 810,
   "com_atendimento": 6,
   "online": 3,
   "offline": 3,
@@ -431,8 +431,8 @@
   "espera_media_s": 4825
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 737140
+  "ultimo_lead_at": "2026-03-09T16:03:36.041Z",
+  "min_sem_lead": 277752
  },
  "leads": [
   {
