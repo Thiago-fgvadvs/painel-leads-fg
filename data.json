@@ -1,31 +1,35 @@
 {
- "gerado_em": "19/09/2026, 13:32",
+ "gerado_em": "19/09/2026, 13:47",
  "data_ref": "19/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
+  "total": 8,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 6,
+  "fora_horario": 7,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 165,
-  "tickets_abertos": 846,
+  "leads_7d": 167,
+  "tickets_abertos": 847,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 5,
-  "Direto/Indicacao": 1
+  "Anuncio": 6,
+  "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW5LEMrD9/",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DcmVrByMck7/",
    "leads": 1
@@ -48,9 +52,9 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
+  "Trabalhista": 5,
   "Previdenciario": 1,
-  "Nao identificada": 1
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -523,19 +527,30 @@
   ]
  },
  "agora": {
-  "fila": 699,
-  "abertos": 846,
+  "fila": 700,
+  "abertos": 847,
   "com_atendimento": 5,
   "online": 2,
   "offline": 6,
   "ausentes": 0,
-  "espera_media_s": 3588
+  "espera_media_s": 3583
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-19T16:00:07.975Z",
-  "min_sem_lead": 32
+  "ultimo_lead_at": "2026-09-19T16:44:32.754Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "batistamirandarosinete39",
+   "tel": "5527*****505",
+   "criado": "13:44",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Criss💖💖",
    "tel": "5551*****439",
@@ -600,6 +615,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/4LXdMV2Fn",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5519978116650",
+   "tel": "5519*****650",
+   "criado": "13:32",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
