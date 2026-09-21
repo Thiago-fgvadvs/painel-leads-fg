@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/09/2026, 11:43",
+ "gerado_em": "21/09/2026, 11:59",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 173,
-  "tickets_abertos": 916,
+  "tickets_abertos": 915,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -67,12 +67,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 229,
-  "turnos": 424,
-  "respondidos": 394,
-  "sem_resposta": 30,
-  "sem_resposta_grupos": 30,
-  "mediana_min": 43,
+  "grupos_ativos": 230,
+  "turnos": 426,
+  "respondidos": 395,
+  "sem_resposta": 31,
+  "sem_resposta_grupos": 31,
+  "mediana_min": 42.7,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -95,14 +95,14 @@
     "mediana_min": 6.8
    },
    {
+    "nome": "Eduardo",
+    "respostas": 28,
+    "mediana_min": 3.7
+   },
+   {
     "nome": "Julia",
     "respostas": 28,
     "mediana_min": 117
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 27,
-    "mediana_min": 3.8
    },
    {
     "nome": "Luisa",
@@ -121,6 +121,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "B.D.O.B x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "21/09",
+    "desde": "11:47",
+    "ts": 1790002035607
+   },
+   {
+    "grupo": "M.A x GL DA SILVA APOIO ADMINISTRATIVO",
+    "dia": "18/09",
+    "desde": "15:27",
+    "ts": 1789756041774
+   },
    {
     "grupo": "M.D.S.D.T x DONNA MARIA SUPERMERCADOS LTDA",
     "dia": "21/09",
@@ -180,12 +192,6 @@
     "dia": "18/09",
     "desde": "16:10",
     "ts": 1789758627923
-   },
-   {
-    "grupo": "M.A x GL DA SILVA APOIO ADMINISTRATIVO",
-    "dia": "18/09",
-    "desde": "15:27",
-    "ts": 1789756041774
    },
    {
     "grupo": "G.F.B x VENANCIO PRODUTOS FARMACEUTICOS LTDA",
@@ -368,6 +374,20 @@
     "dia": "20/09",
     "desde": "13:31",
     "ts": 1789921873720
+   },
+   {
+    "nome": "José Laia macario",
+    "tel": "5527*****814",
+    "dia": "21/09",
+    "desde": "10:26",
+    "ts": 1789997161764
+   },
+   {
+    "nome": "rochajoreli3",
+    "tel": "5551*****581",
+    "dia": "21/09",
+    "desde": "10:37",
+    "ts": 1789997825466
    }
   ],
   "grupos": [
@@ -550,6 +570,12 @@
     "dia": "21/09",
     "desde": "11:01",
     "ts": 1789999291397
+   },
+   {
+    "grupo": "B.D.O.B x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "21/09",
+    "desde": "11:47",
+    "ts": 1790002035607
    }
   ]
  },
@@ -573,16 +599,16 @@
  },
  "agora": {
   "fila": 765,
-  "abertos": 916,
+  "abertos": 915,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 4,
   "offline": 3,
-  "ausentes": 0,
-  "espera_media_s": 3283
+  "ausentes": 1,
+  "espera_media_s": 3278
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-20T23:15:26.778Z",
-  "min_sem_lead": 928
+  "ultimo_lead_at": "2026-09-18T18:31:31.111Z",
+  "min_sem_lead": 4108
  },
  "leads": [
   {
