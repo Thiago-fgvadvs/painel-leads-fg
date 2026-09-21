@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/09/2026, 11:28",
+ "gerado_em": "21/09/2026, 11:43",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -67,16 +67,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 228,
-  "turnos": 422,
-  "respondidos": 391,
-  "sem_resposta": 31,
-  "sem_resposta_grupos": 31,
-  "mediana_min": 43.3,
+  "grupos_ativos": 229,
+  "turnos": 424,
+  "respondidos": 394,
+  "sem_resposta": 30,
+  "sem_resposta_grupos": 30,
+  "mediana_min": 43,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 174,
+    "respostas": 176,
     "mediana_min": 104.3
    },
    {
@@ -101,8 +101,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 26,
-    "mediana_min": 3.7
+    "respostas": 27,
+    "mediana_min": 3.8
    },
    {
     "nome": "Luisa",
@@ -121,12 +121,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "B.D.O.B x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "21/09",
-    "desde": "11:25",
-    "ts": 1790000743515
-   },
    {
     "grupo": "M.D.S.D.T x DONNA MARIA SUPERMERCADOS LTDA",
     "dia": "21/09",
@@ -556,12 +550,6 @@
     "dia": "21/09",
     "desde": "11:01",
     "ts": 1789999291397
-   },
-   {
-    "grupo": "B.D.O.B x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "21/09",
-    "desde": "11:25",
-    "ts": 1790000743515
    }
   ]
  },
@@ -584,7 +572,7 @@
   ]
  },
  "agora": {
-  "fila": 767,
+  "fila": 765,
   "abertos": 916,
   "com_atendimento": 6,
   "online": 5,
@@ -594,20 +582,9 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-20T23:15:26.778Z",
-  "min_sem_lead": 913
+  "min_sem_lead": 928
  },
  "leads": [
-  {
-   "nome": "Reinaldo José",
-   "tel": "5531*****743",
-   "criado": "09:07",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
-   "area": "Trabalhista"
-  },
   {
    "nome": "edmilson",
    "tel": "5588*****443",
@@ -617,6 +594,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Reinaldo José",
+   "tel": "5531*****743",
+   "criado": "09:07",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
    "area": "Trabalhista"
   },
   {
