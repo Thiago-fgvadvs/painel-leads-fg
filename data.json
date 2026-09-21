@@ -1,23 +1,23 @@
 {
- "gerado_em": "21/09/2026, 18:27",
+ "gerado_em": "21/09/2026, 18:43",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 16,
+  "total": 22,
+  "no_sla": 17,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 184,
-  "tickets_abertos": 406,
+  "leads_7d": 185,
+  "tickets_abertos": 408,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -52,20 +52,20 @@
    "leads": 2
   },
   {
+   "url": "fb.me/4MBhcZyUD",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmWdgPsYFf/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmVrByMck7/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 19,
+  "Trabalhista": 20,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -513,19 +513,30 @@
   ]
  },
  "agora": {
-  "fila": 243,
-  "abertos": 406,
+  "fila": 245,
+  "abertos": 408,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 3,
   "offline": 4,
-  "ausentes": 0,
-  "espera_media_s": 10547
+  "ausentes": 1,
+  "espera_media_s": 10502
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-03T12:23:21.292Z",
-  "min_sem_lead": 26464
+  "ultimo_lead_at": "2026-09-21T21:30:11.430Z",
+  "min_sem_lead": 13
  },
  "leads": [
+  {
+   "nome": "Anderson Barcelos",
+   "tel": "5511*****288",
+   "criado": "18:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Daani 🥰",
    "tel": "5551*****110",
