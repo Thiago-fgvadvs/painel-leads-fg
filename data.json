@@ -1,34 +1,42 @@
 {
- "gerado_em": "21/09/2026, 12:29",
+ "gerado_em": "21/09/2026, 12:44",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 5,
+  "total": 12,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 173,
+  "leads_7d": 175,
   "tickets_abertos": 911,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 12,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 12,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4LXdMV2Fn",
+   "leads": 1
   },
   {
    "url": "fb.me/7ZVZhwxMh",
@@ -49,18 +57,10 @@
   {
    "url": "fb.me/8IVPdycg0",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmVxjBsO69/",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 11,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
@@ -374,6 +374,20 @@
     "dia": "20/09",
     "desde": "13:31",
     "ts": 1789921873720
+   },
+   {
+    "nome": "558594137800",
+    "tel": "5585*****800",
+    "dia": "21/09",
+    "desde": "12:33",
+    "ts": 1790004828949
+   },
+   {
+    "nome": "555198169298",
+    "tel": "5551*****298",
+    "dia": "21/09",
+    "desde": "12:35",
+    "ts": 1790004906358
    }
   ],
   "grupos": [
@@ -567,11 +581,21 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 1,
+  "total": 2,
   "por_vendedor": {
+   "Tiago Bernardo": 1,
    "Roseli": 1
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "F",
+    "dia": "21/09",
+    "hora": "12:35",
+    "ts": 1790004905885,
+    "origem": "Anúncio: fb.me/6lIu0yPSl",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "P",
@@ -584,19 +608,41 @@
   ]
  },
  "agora": {
-  "fila": 763,
+  "fila": 760,
   "abertos": 911,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 2,
   "offline": 1,
-  "ausentes": 3,
+  "ausentes": 5,
   "espera_media_s": 3296
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-30T14:16:09.359Z",
-  "min_sem_lead": 252073
+  "ultimo_lead_at": "2026-09-21T15:33:48.949Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "558594137800",
+   "tel": "5585*****800",
+   "criado": "12:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "555198169298",
+   "tel": "5551*****298",
+   "criado": "12:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4LXdMV2Fn",
+   "area": "Trabalhista"
+  },
   {
    "nome": "edmilson",
    "tel": "5588*****443",
