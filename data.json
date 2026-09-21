@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/09/2026, 19:59",
+ "gerado_em": "21/09/2026, 20:14",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 187,
-  "tickets_abertos": 417,
+  "tickets_abertos": 419,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -73,10 +73,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 248,
-  "turnos": 496,
+  "turnos": 497,
   "respondidos": 472,
-  "sem_resposta": 24,
-  "sem_resposta_grupos": 24,
+  "sem_resposta": 25,
+  "sem_resposta_grupos": 25,
   "mediana_min": 42.1,
   "atendentes": [
    {
@@ -126,6 +126,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "C.S.D.N x LEO S.A.",
+    "dia": "21/09",
+    "desde": "20:04",
+    "ts": 1790031875229
+   },
    {
     "grupo": "V.E.F.R x PAULO CESAR ALVES TAMANAHA",
     "dia": "16/09",
@@ -469,6 +475,12 @@
     "dia": "21/09",
     "desde": "15:52",
     "ts": 1790016770223
+   },
+   {
+    "grupo": "C.S.D.N x LEO S.A.",
+    "dia": "21/09",
+    "desde": "20:04",
+    "ts": 1790031875229
    }
   ]
  },
@@ -501,21 +513,21 @@
   ]
  },
  "agora": {
-  "fila": 254,
-  "abertos": 417,
+  "fila": 256,
+  "abertos": 419,
   "com_atendimento": 6,
   "online": 2,
   "offline": 6,
   "ausentes": 0,
-  "espera_media_s": 10181
+  "espera_media_s": 10139
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-28T01:13:24.770Z",
-  "min_sem_lead": 35866
+  "ultimo_lead_at": "2026-09-13T16:04:27.453Z",
+  "min_sem_lead": 11950
  },
  "leads": [
   {
-   "nome": "556892010290",
+   "nome": "Marcella",
    "tel": "5568*****290",
    "criado": "19:46",
    "atendente": "FG Advogados - Isadora ",
