@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/09/2026, 13:53",
+ "gerado_em": "21/09/2026, 14:08",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -68,16 +68,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 233,
-  "turnos": 448,
-  "respondidos": 417,
-  "sem_resposta": 31,
-  "sem_resposta_grupos": 31,
-  "mediana_min": 42.7,
+  "turnos": 450,
+  "respondidos": 418,
+  "sem_resposta": 32,
+  "sem_resposta_grupos": 32,
+  "mediana_min": 43,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 188,
-    "mediana_min": 112
+    "respostas": 189,
+    "mediana_min": 106.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -122,16 +122,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "B.A x CONSTRUTORA RAMON AGUILERA",
+    "dia": "21/09",
+    "desde": "14:06",
+    "ts": 1790010392954
+   },
+   {
     "grupo": "J.F.D.S x MURO ALTO BEACH RESORT",
     "dia": "21/09",
     "desde": "13:24",
     "ts": 1790007849856
    },
    {
-    "grupo": "L.H.G.D x BRASFOREST PROD. E ATIV. FLORESTAIS LTDA",
+    "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
     "dia": "21/09",
-    "desde": "12:19",
-    "ts": 1790003957678
+    "desde": "12:54",
+    "ts": 1790006066810
    },
    {
     "grupo": "V.E.F.R x PAULO CESAR ALVES TAMANAHA",
@@ -566,16 +572,22 @@
     "ts": 1790003265656
    },
    {
-    "grupo": "L.H.G.D x BRASFOREST PROD. E ATIV. FLORESTAIS LTDA",
+    "grupo": "R.F.D.L x TURQUEZA TECIDOS E VESTUARIOS S/A",
     "dia": "21/09",
-    "desde": "12:19",
-    "ts": 1790003957678
+    "desde": "12:54",
+    "ts": 1790006066810
    },
    {
     "grupo": "J.F.D.S x MURO ALTO BEACH RESORT",
     "dia": "21/09",
     "desde": "13:24",
     "ts": 1790007849856
+   },
+   {
+    "grupo": "B.A x CONSTRUTORA RAMON AGUILERA",
+    "dia": "21/09",
+    "desde": "14:06",
+    "ts": 1790010392954
    }
   ]
  },
@@ -611,14 +623,14 @@
   "fila": 762,
   "abertos": 915,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 4,
+  "ausentes": 5,
   "espera_media_s": 3283
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-18T18:31:31.111Z",
-  "min_sem_lead": 4222
+  "min_sem_lead": 4237
  },
  "leads": [
   {
