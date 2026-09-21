@@ -1,23 +1,23 @@
 {
- "gerado_em": "21/09/2026, 16:56",
+ "gerado_em": "21/09/2026, 17:11",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
-  "no_sla": 13,
+  "total": 19,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 181,
-  "tickets_abertos": 909,
+  "leads_7d": 182,
+  "tickets_abertos": 889,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 17,
+   "leads": 18,
    "mediana_min": 0.4
   },
   {
@@ -27,16 +27,16 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
-   "url": "fb.me/875plPmzH",
-   "leads": 2
+   "url": "fb.me/87PZSDuwc",
+   "leads": 3
   },
   {
-   "url": "fb.me/87PZSDuwc",
+   "url": "fb.me/875plPmzH",
    "leads": 2
   },
   {
@@ -65,14 +65,14 @@
   }
  ],
  "areas": {
-  "Trabalhista": 16,
+  "Trabalhista": 17,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 242,
+  "grupos_ativos": 244,
   "turnos": 488,
   "respondidos": 463,
   "sem_resposta": 25,
@@ -127,16 +127,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "F.M.C.A x ITAU UNIBANCO S.A.",
-    "dia": "21/09",
-    "desde": "15:52",
-    "ts": 1790016770223
-   },
-   {
     "grupo": "C.S.D.N x LEO S.A.",
     "dia": "21/09",
     "desde": "15:22",
     "ts": 1790014945131
+   },
+   {
+    "grupo": "F.M.C.A x ITAU UNIBANCO S.A.",
+    "dia": "21/09",
+    "desde": "15:52",
+    "ts": 1790016770223
    },
    {
     "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
@@ -329,20 +329,6 @@
     "dia": "20/09",
     "desde": "12:20",
     "ts": 1789917612661
-   },
-   {
-    "nome": "Ferreira",
-    "tel": "5519*****555",
-    "dia": "20/09",
-    "desde": "13:19",
-    "ts": 1789921181436
-   },
-   {
-    "nome": "553185602797",
-    "tel": "5531*****797",
-    "dia": "20/09",
-    "desde": "13:31",
-    "ts": 1789921873720
    }
   ],
   "grupos": [
@@ -527,19 +513,30 @@
   ]
  },
  "agora": {
-  "fila": 751,
-  "abertos": 909,
+  "fila": 729,
+  "abertos": 889,
   "com_atendimento": 6,
   "online": 4,
   "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 3291
+  "espera_media_s": 3644
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-19T15:53:07.712Z",
-  "min_sem_lead": 3123
+  "ultimo_lead_at": "2026-06-16T20:18:46.726Z",
+  "min_sem_lead": 139673
  },
  "leads": [
+  {
+   "nome": "Léo Araújo de jesus",
+   "tel": "5566*****945",
+   "criado": "16:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Erivaldo Silva",
    "tel": "5515*****968",
