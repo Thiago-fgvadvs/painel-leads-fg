@@ -1,17 +1,17 @@
 {
- "gerado_em": "21/09/2026, 15:09",
+ "gerado_em": "21/09/2026, 15:24",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
-  "no_sla": 12,
+  "total": 18,
+  "no_sla": 13,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 180,
-  "tickets_abertos": 916,
+  "leads_7d": 181,
+  "tickets_abertos": 915,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 17,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Eduardo",
+   "leads": 1,
+   "mediana_min": 0.6
   }
  ],
  "origem": {
   "Anuncio": 17,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -43,6 +48,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmWdgPsYFf/",
    "leads": 1
   },
@@ -53,26 +62,22 @@
   {
    "url": "fb.me/4LXdMV2Fn",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 16,
-  "Nao identificada": 1
+  "Nao identificada": 2,
+  "Trabalhista": 16
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 239,
-  "turnos": 461,
-  "respondidos": 429,
-  "sem_resposta": 32,
-  "sem_resposta_grupos": 32,
-  "mediana_min": 41.9,
+  "grupos_ativos": 240,
+  "turnos": 468,
+  "respondidos": 438,
+  "sem_resposta": 30,
+  "sem_resposta_grupos": 30,
+  "mediana_min": 40.7,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -81,13 +86,13 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 45,
-    "mediana_min": 1.3
+    "respostas": 48,
+    "mediana_min": 1.4
    },
    {
     "nome": "Eduardo",
-    "respostas": 43,
-    "mediana_min": 3.3
+    "respostas": 46,
+    "mediana_min": 3.5
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -101,7 +106,7 @@
    },
    {
     "nome": "Julia",
-    "respostas": 28,
+    "respostas": 30,
     "mediana_min": 117
    },
    {
@@ -111,8 +116,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 16,
-    "mediana_min": 8.1
+    "respostas": 17,
+    "mediana_min": 10.7
    },
    {
     "nome": "—",
@@ -122,28 +127,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.D.S.D.T x DONNA MARIA SUPERMERCADOS LTDA",
+    "grupo": "C.S.D.N x LEO S.A.",
     "dia": "21/09",
-    "desde": "15:08",
-    "ts": 1790014138079
-   },
-   {
-    "grupo": "T.B x DROGARIA SAO PAULO S A",
-    "dia": "21/09",
-    "desde": "15:08",
-    "ts": 1790014108071
+    "desde": "15:22",
+    "ts": 1790014945131
    },
    {
     "grupo": "A.C.M x LOJAS AVANCE MOVEIS E ELETRO LTDA",
     "dia": "18/09",
     "desde": "15:51",
     "ts": 1789757483881
-   },
-   {
-    "grupo": "C.S.D.N x LEO S.A.",
-    "dia": "21/09",
-    "desde": "14:59",
-    "ts": 1790013551036
    },
    {
     "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
@@ -560,20 +553,8 @@
    {
     "grupo": "C.S.D.N x LEO S.A.",
     "dia": "21/09",
-    "desde": "14:59",
-    "ts": 1790013551036
-   },
-   {
-    "grupo": "T.B x DROGARIA SAO PAULO S A",
-    "dia": "21/09",
-    "desde": "15:08",
-    "ts": 1790014108071
-   },
-   {
-    "grupo": "M.D.S.D.T x DONNA MARIA SUPERMERCADOS LTDA",
-    "dia": "21/09",
-    "desde": "15:08",
-    "ts": 1790014138079
+    "desde": "15:22",
+    "ts": 1790014945131
    }
   ]
  },
@@ -606,19 +587,41 @@
   ]
  },
  "agora": {
-  "fila": 764,
-  "abertos": 916,
+  "fila": 761,
+  "abertos": 915,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 6,
   "offline": 1,
-  "ausentes": 3,
+  "ausentes": 1,
   "espera_media_s": 3274
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-21T18:08:16.043Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-09-19T08:43:26.101Z",
+  "min_sem_lead": 3461
  },
  "leads": [
+  {
+   "nome": "CORRESPONDENTE Juliana da Silva Moreira",
+   "tel": "5511*****165",
+   "criado": "15:13",
+   "atendente": "Eduardo",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Matheus Oliveira",
+   "tel": "5585*****800",
+   "criado": "12:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Erivaldo Silva",
    "tel": "5515*****968",
@@ -694,17 +697,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4LXdMV2Fn",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Matheus Oliveira",
-   "tel": "5585*****800",
-   "criado": "12:33",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Trabalhista"
   },
   {
