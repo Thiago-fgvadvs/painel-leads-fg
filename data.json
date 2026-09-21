@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/09/2026, 16:10",
+ "gerado_em": "21/09/2026, 16:25",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -73,16 +73,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 240,
-  "turnos": 482,
-  "respondidos": 453,
-  "sem_resposta": 29,
-  "sem_resposta_grupos": 29,
-  "mediana_min": 41.9,
+  "turnos": 485,
+  "respondidos": 458,
+  "sem_resposta": 27,
+  "sem_resposta_grupos": 27,
+  "mediana_min": 42.5,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 199,
-    "mediana_min": 102.2
+    "respostas": 204,
+    "mediana_min": 112
    },
    {
     "nome": "Gabrielle",
@@ -126,12 +126,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "M.A x GL DA SILVA APOIO ADMINISTRATIVO",
-    "dia": "21/09",
-    "desde": "16:06",
-    "ts": 1790017566271
-   },
    {
     "grupo": "F.M.C.A x ITAU UNIBANCO S.A.",
     "dia": "21/09",
@@ -209,12 +203,6 @@
     "dia": "18/09",
     "desde": "14:07",
     "ts": 1789751232542
-   },
-   {
-    "grupo": "A.P.D.D.R x SEARA ALIMENTOS LTDA",
-    "dia": "18/09",
-    "desde": "13:57",
-    "ts": 1789750624529
    },
    {
     "grupo": "L.D.S.A x INSS",
@@ -467,12 +455,6 @@
     "ts": 1789744663308
    },
    {
-    "grupo": "A.P.D.D.R x SEARA ALIMENTOS LTDA",
-    "dia": "18/09",
-    "desde": "13:57",
-    "ts": 1789750624529
-   },
-   {
     "grupo": "L.F.C.M x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
     "dia": "18/09",
     "desde": "14:07",
@@ -537,12 +519,6 @@
     "dia": "21/09",
     "desde": "15:52",
     "ts": 1790016770223
-   },
-   {
-    "grupo": "M.A x GL DA SILVA APOIO ADMINISTRATIVO",
-    "dia": "21/09",
-    "desde": "16:06",
-    "ts": 1790017566271
    }
   ]
  },
@@ -575,21 +551,21 @@
   ]
  },
  "agora": {
-  "fila": 758,
+  "fila": 759,
   "abertos": 912,
   "com_atendimento": 6,
-  "online": 5,
-  "offline": 1,
+  "online": 4,
+  "offline": 2,
   "ausentes": 2,
   "espera_media_s": 3291
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-29T23:51:33.727Z",
-  "min_sem_lead": 32839
+  "ultimo_lead_at": "2026-09-18T17:57:05.424Z",
+  "min_sem_lead": 4409
  },
  "leads": [
   {
-   "nome": "CORRESPONDENTE Juliana da Silva Moreira",
+   "nome": "Juliana Moreira",
    "tel": "5511*****165",
    "criado": "15:13",
    "atendente": "Eduardo",
