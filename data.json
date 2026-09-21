@@ -1,34 +1,38 @@
 {
- "gerado_em": "21/09/2026, 10:12",
+ "gerado_em": "21/09/2026, 10:27",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 3,
+  "total": 9,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 171,
-  "tickets_abertos": 914,
+  "leads_7d": 172,
+  "tickets_abertos": 915,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 8,
+   "leads": 9,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 9,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 2
+  },
+  {
+   "url": "fb.me/4VQLAvb8d",
+   "leads": 1
   },
   {
    "url": "fb.me/875plPmzH",
@@ -56,6 +60,7 @@
   }
  ],
  "areas": {
+  "Nao identificada": 1,
   "Trabalhista": 8
  },
  "sem_resposta_lista": [],
@@ -63,16 +68,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 396,
-  "respondidos": 365,
-  "sem_resposta": 31,
-  "sem_resposta_grupos": 31,
-  "mediana_min": 45.8,
+  "turnos": 398,
+  "respondidos": 366,
+  "sem_resposta": 32,
+  "sem_resposta_grupos": 32,
+  "mediana_min": 46.2,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 165,
-    "mediana_min": 102.2
+    "respostas": 166,
+    "mediana_min": 104.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -117,6 +122,24 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "M.D.S.D.T x DONNA MARIA SUPERMERCADOS LTDA",
+    "dia": "21/09",
+    "desde": "10:21",
+    "ts": 1789996885235
+   },
+   {
+    "grupo": "L.D.S.D.S x SHPX LOGISTICA LTDA",
+    "dia": "21/09",
+    "desde": "10:20",
+    "ts": 1789996853231
+   },
+   {
+    "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
+    "dia": "21/09",
+    "desde": "10:15",
+    "ts": 1789996502213
+   },
+   {
     "grupo": "A.F.G",
     "dia": "21/09",
     "desde": "09:52",
@@ -139,18 +162,6 @@
     "dia": "18/09",
     "desde": "20:17",
     "ts": 1789773442451
-   },
-   {
-    "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
-    "dia": "21/09",
-    "desde": "00:43",
-    "ts": 1789962196459
-   },
-   {
-    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
-    "dia": "18/09",
-    "desde": "09:54",
-    "ts": 1789736052065
    },
    {
     "grupo": "A.L.P.F x MANSERV MONTAGEM E MANUTENÇÃO S/A",
@@ -463,12 +474,6 @@
     "ts": 1789678705696
    },
    {
-    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
-    "dia": "18/09",
-    "desde": "09:54",
-    "ts": 1789736052065
-   },
-   {
     "grupo": "L.D.S.A x INSS",
     "dia": "18/09",
     "desde": "12:17",
@@ -541,12 +546,6 @@
     "ts": 1789905681003
    },
    {
-    "grupo": "R.W.M.D.S.F x SUPREMO RECUPERACAO DE ATIVOS LTDA",
-    "dia": "21/09",
-    "desde": "00:43",
-    "ts": 1789962196459
-   },
-   {
     "grupo": "J.S.T x FUNDAÇÃO MUNICIPAL DE SAÚDE  DE CANOAS/RS",
     "dia": "21/09",
     "desde": "09:00",
@@ -557,6 +556,24 @@
     "dia": "21/09",
     "desde": "09:52",
     "ts": 1789995158168
+   },
+   {
+    "grupo": "M.H.D.S x DORGIA APOIO ADMINISTRATIVO LTDA",
+    "dia": "21/09",
+    "desde": "10:15",
+    "ts": 1789996502213
+   },
+   {
+    "grupo": "L.D.S.D.S x SHPX LOGISTICA LTDA",
+    "dia": "21/09",
+    "desde": "10:20",
+    "ts": 1789996853231
+   },
+   {
+    "grupo": "M.D.S.D.T x DONNA MARIA SUPERMERCADOS LTDA",
+    "dia": "21/09",
+    "desde": "10:21",
+    "ts": 1789996885235
    }
   ]
  },
@@ -580,18 +597,29 @@
  },
  "agora": {
   "fila": 767,
-  "abertos": 914,
+  "abertos": 915,
   "com_atendimento": 7,
-  "online": 5,
-  "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 3588
+  "online": 3,
+  "offline": 1,
+  "ausentes": 4,
+  "espera_media_s": 3578
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-20T19:42:12.092Z",
-  "min_sem_lead": 1050
+  "ultimo_lead_at": "2026-09-21T13:26:01.764Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "José Laia macario",
+   "tel": "5527*****814",
+   "criado": "10:26",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4VQLAvb8d",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Reinaldo José",
    "tel": "5531*****743",
