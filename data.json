@@ -1,23 +1,23 @@
 {
- "gerado_em": "21/09/2026, 17:57",
+ "gerado_em": "21/09/2026, 18:12",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
-  "no_sla": 15,
+  "total": 21,
+  "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 183,
-  "tickets_abertos": 578,
+  "leads_7d": 184,
+  "tickets_abertos": 436,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DcmVxjBsO69/",
+   "leads": 2
   },
   {
    "url": "fb.me/875plPmzH",
@@ -58,14 +62,10 @@
   {
    "url": "www.instagram.com/p/DcmVrByMck7/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4LXdMV2Fn",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 18,
+  "Trabalhista": 19,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -513,17 +513,17 @@
   ]
  },
  "agora": {
-  "fila": 403,
-  "abertos": 578,
+  "fila": 261,
+  "abertos": 436,
   "com_atendimento": 6,
-  "online": 4,
-  "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 5966
+  "online": 5,
+  "offline": 3,
+  "ausentes": 0,
+  "espera_media_s": 9154
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-30T13:48:49.269Z",
-  "min_sem_lead": 32108
+  "ultimo_lead_at": "2026-08-17T23:14:55.150Z",
+  "min_sem_lead": 50278
  },
  "leads": [
   {
@@ -535,6 +535,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553175414249",
+   "tel": "5531*****249",
+   "criado": "18:09",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmVxjBsO69/",
    "area": "Trabalhista"
   },
   {
