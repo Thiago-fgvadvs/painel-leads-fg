@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/09/2026, 09:11",
+ "gerado_em": "21/09/2026, 09:26",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 171,
-  "tickets_abertos": 912,
+  "tickets_abertos": 914,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -63,16 +63,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 224,
-  "turnos": 390,
-  "respondidos": 358,
-  "sem_resposta": 32,
-  "sem_resposta_grupos": 32,
-  "mediana_min": 45.6,
+  "turnos": 393,
+  "respondidos": 360,
+  "sem_resposta": 33,
+  "sem_resposta_grupos": 33,
+  "mediana_min": 45.8,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 161,
-    "mediana_min": 99.8
+    "respostas": 163,
+    "mediana_min": 100.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -205,6 +205,12 @@
     "dia": "18/09",
     "desde": "14:07",
     "ts": 1789751232542
+   },
+   {
+    "grupo": "I.F.M x INSS",
+    "dia": "17/09",
+    "desde": "18:45",
+    "ts": 1789681539807
    },
    {
     "grupo": "A.P.D.D.R x SEARA ALIMENTOS LTDA",
@@ -469,6 +475,12 @@
     "ts": 1789678705696
    },
    {
+    "grupo": "I.F.M x INSS",
+    "dia": "17/09",
+    "desde": "18:45",
+    "ts": 1789681539807
+   },
+   {
     "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "18/09",
     "desde": "09:54",
@@ -591,17 +603,17 @@
   ]
  },
  "agora": {
-  "fila": 765,
-  "abertos": 912,
+  "fila": 767,
+  "abertos": 914,
   "com_atendimento": 5,
   "online": 2,
-  "offline": 6,
-  "ausentes": 0,
-  "espera_media_s": 3597
+  "offline": 5,
+  "ausentes": 1,
+  "espera_media_s": 3592
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-21T12:07:31.786Z",
-  "min_sem_lead": 4
+  "min_sem_lead": 19
  },
  "leads": [
   {
