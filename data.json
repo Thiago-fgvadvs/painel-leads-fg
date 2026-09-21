@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/09/2026, 17:26",
+ "gerado_em": "21/09/2026, 17:42",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 183,
-  "tickets_abertos": 798,
+  "tickets_abertos": 691,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -72,12 +72,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 244,
-  "turnos": 490,
-  "respondidos": 465,
+  "grupos_ativos": 245,
+  "turnos": 493,
+  "respondidos": 468,
   "sem_resposta": 25,
   "sem_resposta_grupos": 25,
-  "mediana_min": 41.4,
+  "mediana_min": 41.2,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -106,8 +106,8 @@
    },
    {
     "nome": "Julia",
-    "respostas": 34,
-    "mediana_min": 114.1
+    "respostas": 35,
+    "mediana_min": 112.7
    },
    {
     "nome": "Luisa",
@@ -121,7 +121,7 @@
    },
    {
     "nome": "—",
-    "respostas": 13,
+    "respostas": 15,
     "mediana_min": 35
    }
   ],
@@ -513,30 +513,19 @@
   ]
  },
  "agora": {
-  "fila": 634,
-  "abertos": 798,
-  "com_atendimento": 7,
-  "online": 5,
+  "fila": 527,
+  "abertos": 691,
+  "com_atendimento": 6,
+  "online": 6,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 4146
+  "ausentes": 0,
+  "espera_media_s": 4997
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-10T22:06:08.552Z",
-  "min_sem_lead": 15741
+  "ultimo_lead_at": "2026-09-04T01:53:06.470Z",
+  "min_sem_lead": 25609
  },
  "leads": [
-  {
-   "nome": "Matheus Oliveira",
-   "tel": "5585*****800",
-   "criado": "12:33",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Daani 🥰",
    "tel": "5551*****110",
@@ -546,6 +535,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Matheus Oliveira",
+   "tel": "5585*****800",
+   "criado": "12:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Trabalhista"
   },
   {
