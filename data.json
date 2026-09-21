@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/09/2026, 13:00",
+ "gerado_em": "21/09/2026, 13:07",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -68,11 +68,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 233,
-  "turnos": 431,
-  "respondidos": 400,
+  "turnos": 435,
+  "respondidos": 404,
   "sem_resposta": 31,
   "sem_resposta_grupos": 31,
-  "mediana_min": 42.1,
+  "mediana_min": 41.2,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -90,14 +90,14 @@
     "mediana_min": 1.3
    },
    {
+    "nome": "Eduardo",
+    "respostas": 37,
+    "mediana_min": 3.3
+   },
+   {
     "nome": "Tiago Bernardo",
     "respostas": 36,
     "mediana_min": 6.8
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 33,
-    "mediana_min": 3.8
    },
    {
     "nome": "Julia",
@@ -122,10 +122,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.F.G",
+    "grupo": "I.F.M x INSS",
     "dia": "21/09",
-    "desde": "12:59",
-    "ts": 1790006383814
+    "desde": "13:06",
+    "ts": 1790006786825
    },
    {
     "grupo": "V.E.F.R x PAULO CESAR ALVES TAMANAHA",
@@ -579,10 +579,10 @@
     "ts": 1790003265656
    },
    {
-    "grupo": "A.F.G",
+    "grupo": "I.F.M x INSS",
     "dia": "21/09",
-    "desde": "12:59",
-    "ts": 1790006383814
+    "desde": "13:06",
+    "ts": 1790006786825
    }
   ]
  },
@@ -625,7 +625,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-21T15:54:03.847Z",
-  "min_sem_lead": 6
+  "min_sem_lead": 13
  },
  "leads": [
   {
