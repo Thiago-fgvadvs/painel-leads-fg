@@ -1,23 +1,23 @@
 {
- "gerado_em": "21/09/2026, 17:11",
+ "gerado_em": "21/09/2026, 17:26",
  "data_ref": "21/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 14,
+  "total": 20,
+  "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 182,
-  "tickets_abertos": 889,
+  "leads_7d": 183,
+  "tickets_abertos": 798,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 18,
+   "leads": 19,
    "mediana_min": 0.4
   },
   {
@@ -27,20 +27,20 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 3
+  },
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 3
   },
   {
    "url": "fb.me/875plPmzH",
-   "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 2
   },
   {
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 17,
+  "Trabalhista": 18,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -73,11 +73,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 244,
-  "turnos": 488,
-  "respondidos": 463,
+  "turnos": 490,
+  "respondidos": 465,
   "sem_resposta": 25,
   "sem_resposta_grupos": 25,
-  "mediana_min": 41.9,
+  "mediana_min": 41.4,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -106,8 +106,8 @@
    },
    {
     "nome": "Julia",
-    "respostas": 33,
-    "mediana_min": 115.5
+    "respostas": 34,
+    "mediana_min": 114.1
    },
    {
     "nome": "Luisa",
@@ -121,8 +121,8 @@
    },
    {
     "nome": "—",
-    "respostas": 12,
-    "mediana_min": 22.8
+    "respostas": 13,
+    "mediana_min": 35
    }
   ],
   "sem_resposta_lista": [
@@ -513,19 +513,41 @@
   ]
  },
  "agora": {
-  "fila": 729,
-  "abertos": 889,
-  "com_atendimento": 6,
-  "online": 4,
+  "fila": 634,
+  "abertos": 798,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 3644
+  "ausentes": 1,
+  "espera_media_s": 4146
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-16T20:18:46.726Z",
-  "min_sem_lead": 139673
+  "ultimo_lead_at": "2026-09-10T22:06:08.552Z",
+  "min_sem_lead": 15741
  },
  "leads": [
+  {
+   "nome": "Matheus Oliveira",
+   "tel": "5585*****800",
+   "criado": "12:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Daani 🥰",
+   "tel": "5551*****110",
+   "criado": "17:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Léo Araújo de jesus",
    "tel": "5566*****945",
@@ -558,17 +580,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Matheus Oliveira",
-   "tel": "5585*****800",
-   "criado": "12:33",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Trabalhista"
   },
   {
    "nome": "edsoncosta02",
