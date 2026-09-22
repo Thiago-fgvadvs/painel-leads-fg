@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/09/2026, 19:45",
+ "gerado_em": "22/09/2026, 20:00",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -65,9 +65,9 @@
   }
  ],
  "areas": {
+  "Previdenciario": 1,
   "Trabalhista": 21,
-  "Nao identificada": 8,
-  "Previdenciario": 1
+  "Nao identificada": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -538,10 +538,21 @@
   "espera_media_s": 8562
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T12:24:31.652Z",
-  "min_sem_lead": 621
+  "ultimo_lead_at": "2026-09-22T17:43:25.707Z",
+  "min_sem_lead": 317
  },
  "leads": [
+  {
+   "nome": "Antônio Timóteo",
+   "tel": "5522*****168",
+   "criado": "14:43",
+   "atendente": "—",
+   "espera_min": 0,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Previdenciario"
+  },
   {
    "nome": "Gaby Venite",
    "tel": "5511*****999",
@@ -651,17 +662,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/505ajP5YC",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Antônio Timóteo",
-   "tel": "5522*****168",
-   "criado": "14:43",
-   "atendente": "—",
-   "espera_min": 0,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Previdenciario"
   },
   {
    "nome": "Talita",
