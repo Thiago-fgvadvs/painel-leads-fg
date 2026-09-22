@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/09/2026, 16:26",
+ "gerado_em": "22/09/2026, 16:42",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 190,
-  "tickets_abertos": 452,
+  "tickets_abertos": 453,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,15 +65,15 @@
   }
  ],
  "areas": {
+  "Nao identificada": 8,
   "Trabalhista": 15,
-  "Previdenciario": 1,
-  "Nao identificada": 8
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 270,
+  "grupos_ativos": 271,
   "turnos": 540,
   "respondidos": 513,
   "sem_resposta": 27,
@@ -569,18 +569,40 @@
  },
  "agora": {
   "fila": 281,
-  "abertos": 452,
+  "abertos": 453,
   "com_atendimento": 7,
-  "online": 1,
+  "online": 4,
   "offline": 1,
-  "ausentes": 6,
+  "ausentes": 3,
   "espera_media_s": 8780
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T12:24:31.652Z",
-  "min_sem_lead": 422
+  "ultimo_lead_at": "2026-09-22T15:32:56.429Z",
+  "min_sem_lead": 249
  },
  "leads": [
+  {
+   "nome": "Gyovanna da Silva Furlane",
+   "tel": "5544*****114",
+   "criado": "12:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Djalma Aparecido Marques",
+   "tel": "5511*****385",
+   "criado": "15:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Gaby Venite",
    "tel": "5511*****999",
@@ -613,28 +635,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Previdenciario"
-  },
-  {
-   "nome": "Djalma Aparecido Marques",
-   "tel": "5511*****385",
-   "criado": "15:20",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4MBhcZyUD",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Gyovanna da Silva Furlane",
-   "tel": "5544*****114",
-   "criado": "12:32",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Nao identificada"
   },
   {
    "nome": "Talita",
