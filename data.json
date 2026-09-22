@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/09/2026, 10:20",
+ "gerado_em": "22/09/2026, 10:35",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 3,
+  "total": 8,
+  "no_sla": 6,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 172,
-  "tickets_abertos": 437,
+  "leads_7d": 174,
+  "tickets_abertos": 439,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
+   "leads": 7,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,21 @@
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 7,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/jBdA5xQPx",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/505ajP5YC",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
@@ -45,26 +53,19 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
+  "Trabalhista": 7,
   "Nao identificada": 1
  },
- "sem_resposta_lista": [
-  {
-   "nome": "558199644783",
-   "tel": "5581*****783",
-   "criado": "10:19",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 256,
-  "turnos": 458,
-  "respondidos": 432,
+  "turnos": 459,
+  "respondidos": 433,
   "sem_resposta": 26,
   "sem_resposta_grupos": 26,
-  "mediana_min": 33.6,
+  "mediana_min": 34.2,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -93,8 +94,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 24,
-    "mediana_min": 3.9
+    "respostas": 25,
+    "mediana_min": 4.2
    },
    {
     "nome": "Roseli",
@@ -478,13 +479,22 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 4,
+  "total": 5,
   "por_vendedor": {
+   "Roseli": 2,
    "FG Advogados - Isadora ": 1,
-   "Tiago Bernardo": 2,
-   "Roseli": 1
+   "Tiago Bernardo": 2
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "M",
+    "dia": "22/09",
+    "hora": "10:26",
+    "ts": 1790083583559,
+    "origem": "Anúncio: instagram.com/p/DcmVxjBsO69/",
+    "de_anuncio": true
+   },
    {
     "vendedor": "FG Advogados - Isadora ",
     "cliente": "C",
@@ -524,26 +534,59 @@
   ]
  },
  "agora": {
-  "fila": 274,
-  "abertos": 437,
+  "fila": 275,
+  "abertos": 439,
   "com_atendimento": 6,
-  "online": 4,
-  "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 9490
+  "online": 2,
+  "offline": 1,
+  "ausentes": 5,
+  "espera_media_s": 9419
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T13:19:54.351Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-09-22T13:33:02.163Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "~",
+   "tel": "5587*****509",
+   "criado": "10:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/jBdA5xQPx",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "CORRESPONDENTE Beatriz Sousa",
+   "tel": "5511*****024",
+   "criado": "09:37",
+   "atendente": "Eduardo",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "554792868398",
+   "tel": "5547*****398",
+   "criado": "10:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558199644783",
    "tel": "5581*****783",
    "criado": "10:19",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
@@ -558,17 +601,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "CORRESPONDENTE Beatriz Sousa",
-   "tel": "5511*****024",
-   "criado": "09:37",
-   "atendente": "Eduardo",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Patricia Assis",
