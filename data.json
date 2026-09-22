@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/09/2026, 16:42",
+ "gerado_em": "22/09/2026, 16:57",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
-  "no_sla": 22,
+  "total": 26,
+  "no_sla": 24,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 190,
-  "tickets_abertos": 453,
+  "leads_7d": 192,
+  "tickets_abertos": 456,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 22,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 22,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -48,25 +48,25 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcmW5hLM3NO/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 1
+  },
+  {
    "url": "fb.me/4MBhcZyUD",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmVxvcsgHO/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/875plPmzH",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/6hFKXqtBv",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 17,
   "Nao identificada": 8,
-  "Trabalhista": 15,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -134,6 +134,12 @@
     "ts": 1789999144379
    },
    {
+    "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
+    "dia": "22/09",
+    "desde": "12:26",
+    "ts": 1790090793970
+   },
+   {
     "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
     "dia": "22/09",
     "desde": "16:10",
@@ -174,12 +180,6 @@
     "dia": "22/09",
     "desde": "12:33",
     "ts": 1790091204998
-   },
-   {
-    "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
-    "dia": "22/09",
-    "desde": "12:26",
-    "ts": 1790090793970
    },
    {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
@@ -568,19 +568,41 @@
   ]
  },
  "agora": {
-  "fila": 281,
-  "abertos": 453,
+  "fila": 284,
+  "abertos": 456,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 6,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 8780
+  "ausentes": 1,
+  "espera_media_s": 8685
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T15:32:56.429Z",
-  "min_sem_lead": 249
+  "ultimo_lead_at": "2026-08-26T15:55:32.702Z",
+  "min_sem_lead": 39122
  },
  "leads": [
+  {
+   "nome": "Elias Barbosa",
+   "tel": "5563*****575",
+   "criado": "16:54",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Eliane Braz",
+   "tel": "5511*****888",
+   "criado": "16:43",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Gyovanna da Silva Furlane",
    "tel": "5544*****114",
