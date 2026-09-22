@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/09/2026, 11:21",
+ "gerado_em": "22/09/2026, 11:36",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 7,
+  "total": 10,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 175,
-  "tickets_abertos": 440,
+  "leads_7d": 176,
+  "tickets_abertos": 437,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 8,
+   "leads": 9,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 9,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/91elw2A2a",
@@ -57,7 +57,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
+  "Trabalhista": 9,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
@@ -65,16 +65,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 260,
-  "turnos": 464,
-  "respondidos": 439,
+  "turnos": 469,
+  "respondidos": 444,
   "sem_resposta": 25,
   "sem_resposta_grupos": 25,
-  "mediana_min": 35.2,
+  "mediana_min": 36.3,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 196,
-    "mediana_min": 75.8
+    "respostas": 201,
+    "mediana_min": 81.3
    },
    {
     "nome": "Eduardo",
@@ -119,6 +119,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
+    "dia": "21/09",
+    "desde": "10:59",
+    "ts": 1789999144379
+   },
+   {
     "grupo": "F.M.C.A x ITAU UNIBANCO S.A.",
     "dia": "22/09",
     "desde": "11:15",
@@ -135,12 +141,6 @@
     "dia": "22/09",
     "desde": "11:05",
     "ts": 1790085940741
-   },
-   {
-    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
-    "dia": "21/09",
-    "desde": "10:59",
-    "ts": 1789999144379
    },
    {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
@@ -527,18 +527,29 @@
  },
  "agora": {
   "fila": 276,
-  "abertos": 440,
+  "abertos": 437,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 4,
   "offline": 1,
-  "ausentes": 5,
-  "espera_media_s": 9419
+  "ausentes": 3,
+  "espera_media_s": 9097
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-21T19:56:16.649Z",
-  "min_sem_lead": 1105
+  "min_sem_lead": 1120
  },
  "leads": [
+  {
+   "nome": "kedma Francielly",
+   "tel": "5531*****494",
+   "criado": "11:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Cintia Guimarães 🩷",
    "tel": "5521*****629",
