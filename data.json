@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/09/2026, 10:35",
+ "gerado_em": "22/09/2026, 10:51",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 174,
-  "tickets_abertos": 439,
+  "tickets_abertos": 437,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -53,28 +53,28 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
-  "Nao identificada": 1
+  "Nao identificada": 1,
+  "Trabalhista": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 256,
-  "turnos": 459,
-  "respondidos": 433,
-  "sem_resposta": 26,
-  "sem_resposta_grupos": 26,
-  "mediana_min": 34.2,
+  "grupos_ativos": 257,
+  "turnos": 460,
+  "respondidos": 436,
+  "sem_resposta": 24,
+  "sem_resposta_grupos": 24,
+  "mediana_min": 34.6,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 192,
-    "mediana_min": 73.3
+    "respostas": 193,
+    "mediana_min": 74.1
    },
    {
     "nome": "Eduardo",
-    "respostas": 49,
+    "respostas": 51,
     "mediana_min": 3.3
    },
    {
@@ -115,10 +115,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "T.B x DROGARIA SAO PAULO S A",
-    "dia": "22/09",
-    "desde": "09:42",
-    "ts": 1790080935611
+    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
+    "dia": "21/09",
+    "desde": "10:59",
+    "ts": 1789999144379
    },
    {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
@@ -131,12 +131,6 @@
     "dia": "21/09",
     "desde": "20:04",
     "ts": 1790031875229
-   },
-   {
-    "grupo": "V.E.F.R x PAULO CESAR ALVES TAMANAHA",
-    "dia": "16/09",
-    "desde": "13:28",
-    "ts": 1789576114101
    },
    {
     "grupo": "F.M.C.A x ITAU UNIBANCO S.A.",
@@ -155,12 +149,6 @@
     "dia": "21/09",
     "desde": "13:24",
     "ts": 1790007849856
-   },
-   {
-    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
-    "dia": "21/09",
-    "desde": "10:59",
-    "ts": 1789999144379
    },
    {
     "grupo": "A.L.P.F x MANSERV MONTAGEM E MANUTENÇÃO S/A",
@@ -350,12 +338,6 @@
     "ts": 1789575027991
    },
    {
-    "grupo": "V.E.F.R x PAULO CESAR ALVES TAMANAHA",
-    "dia": "16/09",
-    "desde": "13:28",
-    "ts": 1789576114101
-   },
-   {
     "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
     "dia": "16/09",
     "desde": "14:16",
@@ -468,12 +450,6 @@
     "dia": "21/09",
     "desde": "20:04",
     "ts": 1790031875229
-   },
-   {
-    "grupo": "T.B x DROGARIA SAO PAULO S A",
-    "dia": "22/09",
-    "desde": "09:42",
-    "ts": 1790080935611
    }
   ]
  },
@@ -534,19 +510,30 @@
   ]
  },
  "agora": {
-  "fila": 275,
-  "abertos": 439,
+  "fila": 274,
+  "abertos": 437,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 5,
   "offline": 1,
-  "ausentes": 5,
-  "espera_media_s": 9419
+  "ausentes": 2,
+  "espera_media_s": 9454
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T13:33:02.163Z",
-  "min_sem_lead": 3
+  "ultimo_lead_at": "2026-09-22T12:37:25.453Z",
+  "min_sem_lead": 73
  },
  "leads": [
+  {
+   "nome": "Beatriz Livramento",
+   "tel": "5511*****024",
+   "criado": "09:37",
+   "atendente": "Eduardo",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "~",
    "tel": "5587*****509",
@@ -559,18 +546,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "CORRESPONDENTE Beatriz Sousa",
-   "tel": "5511*****024",
-   "criado": "09:37",
-   "atendente": "Eduardo",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "554792868398",
+   "nome": "Mg🖕🖕",
    "tel": "5547*****398",
    "criado": "10:28",
    "atendente": "FG Advogados - Isadora ",
@@ -581,7 +557,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "558199644783",
+   "nome": "Carlinhos",
    "tel": "5581*****783",
    "criado": "10:19",
    "atendente": "FG Advogados - Isadora ",
