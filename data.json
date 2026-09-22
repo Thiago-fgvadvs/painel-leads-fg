@@ -1,16 +1,16 @@
 {
- "gerado_em": "22/09/2026, 11:52",
+ "gerado_em": "22/09/2026, 12:07",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 8,
+  "total": 11,
+  "no_sla": 9,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 176,
+  "leads_7d": 177,
   "tickets_abertos": 437,
   "periodo_dias": 7
  },
@@ -22,13 +22,13 @@
   },
   {
    "nome": "Eduardo",
-   "leads": 1,
+   "leads": 2,
    "mediana_min": 0.6
   }
  ],
  "origem": {
   "Anuncio": 9,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -36,11 +36,11 @@
    "leads": 4
   },
   {
-   "url": "fb.me/91elw2A2a",
+   "url": "fb.me/jBdA5xQPx",
    "leads": 1
   },
   {
-   "url": "fb.me/jBdA5xQPx",
+   "url": "fb.me/91elw2A2a",
    "leads": 1
   },
   {
@@ -57,7 +57,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 1,
+  "Nao identificada": 2,
   "Trabalhista": 9
  },
  "sem_resposta_lista": [],
@@ -65,16 +65,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 260,
-  "turnos": 471,
-  "respondidos": 446,
+  "turnos": 473,
+  "respondidos": 448,
   "sem_resposta": 25,
   "sem_resposta_grupos": 25,
-  "mediana_min": 36.5,
+  "mediana_min": 36.3,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 203,
-    "mediana_min": 87.5
+    "respostas": 205,
+    "mediana_min": 81.3
    },
    {
     "nome": "Eduardo",
@@ -529,16 +529,38 @@
   "fila": 274,
   "abertos": 437,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 4,
   "offline": 2,
-  "ausentes": 4,
+  "ausentes": 2,
   "espera_media_s": 9097
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T12:37:25.453Z",
-  "min_sem_lead": 135
+  "ultimo_lead_at": "2026-09-22T15:05:34.521Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "CORRESPONDENTE Rafaela Ismael de Oliveira",
+   "tel": "5583*****763",
+   "criado": "12:05",
+   "atendente": "Eduardo",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "~",
+   "tel": "5587*****509",
+   "criado": "10:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/jBdA5xQPx",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Beatriz Livramento",
    "tel": "5511*****024",
@@ -570,17 +592,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/91elw2A2a",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "~",
-   "tel": "5587*****509",
-   "criado": "10:33",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/jBdA5xQPx",
    "area": "Trabalhista"
   },
   {
