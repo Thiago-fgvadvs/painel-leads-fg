@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/09/2026, 15:25",
+ "gerado_em": "22/09/2026, 15:41",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -65,35 +65,35 @@
   }
  ],
  "areas": {
+  "Previdenciario": 1,
   "Trabalhista": 15,
-  "Nao identificada": 8,
-  "Previdenciario": 1
+  "Nao identificada": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 268,
-  "turnos": 535,
-  "respondidos": 507,
-  "sem_resposta": 28,
-  "sem_resposta_grupos": 28,
-  "mediana_min": 34,
+  "turnos": 538,
+  "respondidos": 511,
+  "sem_resposta": 27,
+  "sem_resposta_grupos": 27,
+  "mediana_min": 32.7,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 225,
-    "mediana_min": 76.6
+    "respostas": 226,
+    "mediana_min": 75.8
    },
    {
     "nome": "Gabrielle",
-    "respostas": 68,
+    "respostas": 69,
     "mediana_min": 1.4
    },
    {
     "nome": "Eduardo",
-    "respostas": 64,
-    "mediana_min": 3.7
+    "respostas": 66,
+    "mediana_min": 3.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -128,16 +128,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
+    "grupo": "F.M.C.A x ITAU UNIBANCO S.A.",
     "dia": "22/09",
-    "desde": "15:12",
-    "ts": 1790100752786
-   },
-   {
-    "grupo": "P.C x SHOPEE",
-    "dia": "22/09",
-    "desde": "15:19",
-    "ts": 1790101153793
+    "desde": "15:39",
+    "ts": 1790102343871
    },
    {
     "grupo": "Z.D.F.M.M.D.A.C",
@@ -501,16 +495,10 @@
     "ts": 1790100405765
    },
    {
-    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
+    "grupo": "F.M.C.A x ITAU UNIBANCO S.A.",
     "dia": "22/09",
-    "desde": "15:12",
-    "ts": 1790100752786
-   },
-   {
-    "grupo": "P.C x SHOPEE",
-    "dia": "22/09",
-    "desde": "15:19",
-    "ts": 1790101153793
+    "desde": "15:39",
+    "ts": 1790102343871
    }
   ]
  },
@@ -583,16 +571,27 @@
   "fila": 279,
   "abertos": 451,
   "com_atendimento": 7,
-  "online": 4,
-  "offline": 3,
+  "online": 5,
+  "offline": 2,
   "ausentes": 1,
   "espera_media_s": 8780
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T15:32:56.429Z",
-  "min_sem_lead": 173
+  "ultimo_lead_at": "2026-09-22T17:43:25.707Z",
+  "min_sem_lead": 58
  },
  "leads": [
+  {
+   "nome": "Antônio Timóteo",
+   "tel": "5522*****168",
+   "criado": "14:43",
+   "atendente": "—",
+   "espera_min": 0,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Previdenciario"
+  },
   {
    "nome": "Djalma Aparecido Marques",
    "tel": "5511*****385",
@@ -636,17 +635,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Antônio Timóteo",
-   "tel": "5522*****168",
-   "criado": "14:43",
-   "atendente": "—",
-   "espera_min": 0,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Previdenciario"
   },
   {
    "nome": "mmns",
