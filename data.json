@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/09/2026, 12:37",
+ "gerado_em": "22/09/2026, 12:53",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 12,
+  "total": 16,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 180,
-  "tickets_abertos": 440,
+  "leads_7d": 182,
+  "tickets_abertos": 444,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
+   "leads": 13,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 11,
+  "Anuncio": 13,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -36,11 +36,23 @@
    "leads": 5
   },
   {
-   "url": "fb.me/4LXdMV2Fn",
+   "url": "fb.me/4VQLAvb8d",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/9Kji7hTqb",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 1
   },
   {
    "url": "fb.me/505ajP5YC",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4LXdMV2Fn",
    "leads": 1
   },
   {
@@ -50,35 +62,27 @@
   {
    "url": "fb.me/91elw2A2a",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmVpxyMs5c/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
-  "Nao identificada": 4
+  "Nao identificada": 6,
+  "Trabalhista": 10
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 263,
-  "turnos": 483,
-  "respondidos": 457,
+  "grupos_ativos": 264,
+  "turnos": 485,
+  "respondidos": 459,
   "sem_resposta": 26,
   "sem_resposta_grupos": 26,
-  "mediana_min": 37.5,
+  "mediana_min": 37.4,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 211,
-    "mediana_min": 81.3
+    "respostas": 213,
+    "mediana_min": 80.9
    },
    {
     "nome": "Eduardo",
@@ -123,6 +127,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "V.B.D.L x ENGEMAN MANUTENCAO DE EQUIPAMENTOS COM E INDUSTRIA LTDA",
+    "dia": "22/09",
+    "desde": "11:05",
+    "ts": 1790085940741
+   },
+   {
     "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
     "dia": "18/09",
     "desde": "18:37",
@@ -157,12 +167,6 @@
     "dia": "22/09",
     "desde": "11:15",
     "ts": 1790086539765
-   },
-   {
-    "grupo": "V.B.D.L x ENGEMAN MANUTENCAO DE EQUIPAMENTOS COM E INDUSTRIA LTDA",
-    "dia": "22/09",
-    "desde": "11:05",
-    "ts": 1790085940741
    },
    {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
@@ -542,28 +546,50 @@
   ]
  },
  "agora": {
-  "fila": 274,
-  "abertos": 440,
+  "fila": 277,
+  "abertos": 444,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 6,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 9063
+  "ausentes": 1,
+  "espera_media_s": 8995
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T13:28:41.693Z",
-  "min_sem_lead": 129
+  "ultimo_lead_at": "2026-09-18T17:57:05.424Z",
+  "min_sem_lead": 5636
  },
  "leads": [
   {
-   "nome": "559691997996",
-   "tel": "5596*****996",
-   "criado": "12:33",
+   "nome": "valmir",
+   "tel": "5574*****971",
+   "criado": "12:50",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/4LXdMV2Fn",
+   "criativo": "fb.me/4VQLAvb8d",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "555192144347",
+   "tel": "5551*****347",
+   "criado": "12:44",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Kji7hTqb",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Gaby Venite",
+   "tel": "5511*****999",
+   "criado": "09:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Trabalhista"
   },
   {
@@ -586,6 +612,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "559691997996",
+   "tel": "5596*****996",
+   "criado": "12:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4LXdMV2Fn",
    "area": "Trabalhista"
   },
   {
@@ -663,17 +700,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Gaby Venite",
-   "tel": "5511*****999",
-   "criado": "09:24",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Trabalhista"
   },
   {
