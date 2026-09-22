@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/09/2026, 15:10",
+ "gerado_em": "22/09/2026, 15:25",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
-  "no_sla": 21,
+  "total": 24,
+  "no_sla": 22,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 189,
-  "tickets_abertos": 448,
+  "leads_7d": 190,
+  "tickets_abertos": 451,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 5
+  },
+  {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 2
   },
   {
    "url": "fb.me/9Kji7hTqb",
@@ -44,8 +48,12 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
-   "leads": 2
+   "url": "fb.me/4MBhcZyUD",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DcmVxvcsgHO/",
+   "leads": 1
   },
   {
    "url": "fb.me/875plPmzH",
@@ -54,31 +62,23 @@
   {
    "url": "fb.me/6hFKXqtBv",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmVxvcsgHO/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/91elw2A2a",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 15,
   "Nao identificada": 8,
-  "Previdenciario": 1,
-  "Trabalhista": 14
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 268,
-  "turnos": 529,
-  "respondidos": 504,
-  "sem_resposta": 25,
-  "sem_resposta_grupos": 25,
-  "mediana_min": 34.1,
+  "turnos": 535,
+  "respondidos": 507,
+  "sem_resposta": 28,
+  "sem_resposta_grupos": 28,
+  "mediana_min": 34,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -92,7 +92,7 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 62,
+    "respostas": 64,
     "mediana_min": 3.7
    },
    {
@@ -107,8 +107,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 26,
-    "mediana_min": 4.5
+    "respostas": 27,
+    "mediana_min": 4.7
    },
    {
     "nome": "Julia",
@@ -128,6 +128,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
+    "dia": "22/09",
+    "desde": "15:12",
+    "ts": 1790100752786
+   },
+   {
+    "grupo": "P.C x SHOPEE",
+    "dia": "22/09",
+    "desde": "15:19",
+    "ts": 1790101153793
+   },
+   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "22/09",
     "desde": "15:06",
@@ -138,6 +150,12 @@
     "dia": "22/09",
     "desde": "14:30",
     "ts": 1790098242580
+   },
+   {
+    "grupo": "A.L.P.F x MANSERV MONTAGEM E MANUTENÇÃO S/A",
+    "dia": "22/09",
+    "desde": "14:14",
+    "ts": 1790097280510
    },
    {
     "grupo": "L.D.Z.R x LEANDRINI AUTO PARTS LTDA",
@@ -465,6 +483,12 @@
     "ts": 1790094599273
    },
    {
+    "grupo": "A.L.P.F x MANSERV MONTAGEM E MANUTENÇÃO S/A",
+    "dia": "22/09",
+    "desde": "14:14",
+    "ts": 1790097280510
+   },
+   {
     "grupo": "B.F.D.L x EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
     "dia": "22/09",
     "desde": "14:30",
@@ -475,6 +499,18 @@
     "dia": "22/09",
     "desde": "15:06",
     "ts": 1790100405765
+   },
+   {
+    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
+    "dia": "22/09",
+    "desde": "15:12",
+    "ts": 1790100752786
+   },
+   {
+    "grupo": "P.C x SHOPEE",
+    "dia": "22/09",
+    "desde": "15:19",
+    "ts": 1790101153793
    }
   ]
  },
@@ -544,19 +580,30 @@
   ]
  },
  "agora": {
-  "fila": 278,
-  "abertos": 448,
+  "fila": 279,
+  "abertos": 451,
   "com_atendimento": 7,
   "online": 4,
-  "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 8844
+  "offline": 3,
+  "ausentes": 1,
+  "espera_media_s": 8780
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T12:24:31.652Z",
-  "min_sem_lead": 346
+  "ultimo_lead_at": "2026-09-22T15:32:56.429Z",
+  "min_sem_lead": 173
  },
  "leads": [
+  {
+   "nome": "Djalma Aparecido Marques",
+   "tel": "5511*****385",
+   "criado": "15:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Gyovanna da Silva Furlane",
    "tel": "5544*****114",
@@ -567,6 +614,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Talita",
+   "tel": "5511*****073",
+   "criado": "13:54",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmVxvcsgHO/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Gaby Venite",
+   "tel": "5511*****999",
+   "criado": "09:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Antônio Timóteo",
@@ -613,17 +682,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Gaby Venite",
-   "tel": "5511*****999",
-   "criado": "09:24",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Miltao",
    "tel": "5584*****652",
    "criado": "14:16",
@@ -633,17 +691,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/6hFKXqtBv",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Talita",
-   "tel": "5511*****073",
-   "criado": "13:54",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmVxvcsgHO/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Nessa",
