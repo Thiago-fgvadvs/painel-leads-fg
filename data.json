@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/09/2026, 17:12",
+ "gerado_em": "22/09/2026, 17:28",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -74,16 +74,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 271,
-  "turnos": 540,
-  "respondidos": 514,
-  "sem_resposta": 26,
-  "sem_resposta_grupos": 26,
-  "mediana_min": 32.5,
+  "turnos": 541,
+  "respondidos": 517,
+  "sem_resposta": 24,
+  "sem_resposta_grupos": 24,
+  "mediana_min": 32.9,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 227,
-    "mediana_min": 74.9
+    "respostas": 230,
+    "mediana_min": 78.8
    },
    {
     "nome": "Gabrielle",
@@ -129,15 +129,9 @@
   "sem_resposta_lista": [
    {
     "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
-    "dia": "21/09",
-    "desde": "10:59",
-    "ts": 1789999144379
-   },
-   {
-    "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
     "dia": "22/09",
-    "desde": "12:26",
-    "ts": 1790090793970
+    "desde": "17:19",
+    "ts": 1790108375092
    },
    {
     "grupo": "Z.D.F.M.M.D.A.C",
@@ -156,12 +150,6 @@
     "dia": "22/09",
     "desde": "14:14",
     "ts": 1790097280510
-   },
-   {
-    "grupo": "L.D.Z.R x LEANDRINI AUTO PARTS LTDA",
-    "dia": "22/09",
-    "desde": "13:29",
-    "ts": 1790094599273
    },
    {
     "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
@@ -441,34 +429,16 @@
     "ts": 1789767441244
    },
    {
-    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
-    "dia": "21/09",
-    "desde": "10:59",
-    "ts": 1789999144379
-   },
-   {
     "grupo": "J.F.D.S x MURO ALTO BEACH RESORT",
     "dia": "21/09",
     "desde": "13:24",
     "ts": 1790007849856
    },
    {
-    "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
-    "dia": "22/09",
-    "desde": "12:26",
-    "ts": 1790090793970
-   },
-   {
     "grupo": "A.J.P.B",
     "dia": "22/09",
     "desde": "12:33",
     "ts": 1790091204998
-   },
-   {
-    "grupo": "L.D.Z.R x LEANDRINI AUTO PARTS LTDA",
-    "dia": "22/09",
-    "desde": "13:29",
-    "ts": 1790094599273
    },
    {
     "grupo": "A.L.P.F x MANSERV MONTAGEM E MANUTENÇÃO S/A",
@@ -487,6 +457,12 @@
     "dia": "22/09",
     "desde": "15:06",
     "ts": 1790100405000
+   },
+   {
+    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
+    "dia": "22/09",
+    "desde": "17:19",
+    "ts": 1790108375092
    }
   ]
  },
@@ -559,27 +535,16 @@
   "fila": 284,
   "abertos": 454,
   "com_atendimento": 6,
-  "online": 6,
+  "online": 5,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 8685
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T15:55:32.702Z",
-  "min_sem_lead": 39137
+  "ultimo_lead_at": "2026-09-22T19:54:46.132Z",
+  "min_sem_lead": 33
  },
  "leads": [
-  {
-   "nome": "Gaby Venite",
-   "tel": "5511*****999",
-   "criado": "09:24",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Elias Barbosa",
    "tel": "5563*****575",
@@ -589,6 +554,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Gaby Venite",
+   "tel": "5511*****999",
+   "criado": "09:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Trabalhista"
   },
   {
