@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/09/2026, 14:55",
+ "gerado_em": "22/09/2026, 15:10",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 189,
-  "tickets_abertos": 447,
+  "tickets_abertos": 448,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,20 +65,20 @@
   }
  ],
  "areas": {
+  "Nao identificada": 8,
   "Previdenciario": 1,
-  "Trabalhista": 14,
-  "Nao identificada": 8
+  "Trabalhista": 14
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 268,
-  "turnos": 521,
-  "respondidos": 495,
-  "sem_resposta": 26,
-  "sem_resposta_grupos": 26,
-  "mediana_min": 35.3,
+  "turnos": 529,
+  "respondidos": 504,
+  "sem_resposta": 25,
+  "sem_resposta_grupos": 25,
+  "mediana_min": 34.1,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -87,13 +87,13 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 61,
-    "mediana_min": 1.6
+    "respostas": 68,
+    "mediana_min": 1.4
    },
    {
     "nome": "Eduardo",
-    "respostas": 60,
-    "mediana_min": 3.6
+    "respostas": 62,
+    "mediana_min": 3.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -130,14 +130,8 @@
    {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "22/09",
-    "desde": "14:50",
-    "ts": 1790099429696
-   },
-   {
-    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
-    "dia": "22/09",
-    "desde": "14:34",
-    "ts": 1790098464583
+    "desde": "15:06",
+    "ts": 1790100405765
    },
    {
     "grupo": "B.F.D.L x EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
@@ -477,16 +471,10 @@
     "ts": 1790098242580
    },
    {
-    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
-    "dia": "22/09",
-    "desde": "14:34",
-    "ts": 1790098464583
-   },
-   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "22/09",
-    "desde": "14:50",
-    "ts": 1790099429696
+    "desde": "15:06",
+    "ts": 1790100405765
    }
   ]
  },
@@ -556,21 +544,32 @@
   ]
  },
  "agora": {
-  "fila": 277,
-  "abertos": 447,
+  "fila": 278,
+  "abertos": 448,
   "com_atendimento": 7,
   "online": 4,
   "offline": 2,
   "ausentes": 2,
-  "espera_media_s": 8877
+  "espera_media_s": 8844
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T00:01:16.490Z",
-  "min_sem_lead": 1074
+  "ultimo_lead_at": "2026-09-22T12:24:31.652Z",
+  "min_sem_lead": 346
  },
  "leads": [
   {
-   "nome": "5522981755168",
+   "nome": "Gyovanna da Silva Furlane",
+   "tel": "5544*****114",
+   "criado": "12:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Antônio Timóteo",
    "tel": "5522*****168",
    "criado": "14:43",
    "atendente": "—",
@@ -581,7 +580,7 @@
    "area": "Previdenciario"
   },
   {
-   "nome": "5511948721883",
+   "nome": "mmns",
    "tel": "5511*****883",
    "criado": "14:36",
    "atendente": "FG Advogados - Isadora ",
@@ -603,7 +602,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "558498034867",
+   "nome": "Miguel 😎",
    "tel": "5584*****867",
    "criado": "14:35",
    "atendente": "FG Advogados - Isadora ",
@@ -655,17 +654,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Gyovanna da Silva Furlane",
-   "tel": "5544*****114",
-   "criado": "12:32",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Nao identificada"
   },
   {
