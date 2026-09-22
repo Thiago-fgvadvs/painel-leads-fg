@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/09/2026, 12:22",
+ "gerado_em": "22/09/2026, 12:37",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 10,
+  "total": 14,
+  "no_sla": 12,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 178,
-  "tickets_abertos": 437,
+  "leads_7d": 180,
+  "tickets_abertos": 440,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 11,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,21 @@
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 11,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 4
+   "leads": 5
+  },
+  {
+   "url": "fb.me/4LXdMV2Fn",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/505ajP5YC",
+   "leads": 1
   },
   {
    "url": "fb.me/jBdA5xQPx",
@@ -41,10 +49,6 @@
   },
   {
    "url": "fb.me/91elw2A2a",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/505ajP5YC",
    "leads": 1
   },
   {
@@ -57,24 +61,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 9
+  "Trabalhista": 10,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 261,
-  "turnos": 477,
-  "respondidos": 452,
-  "sem_resposta": 25,
-  "sem_resposta_grupos": 25,
-  "mediana_min": 37,
+  "grupos_ativos": 263,
+  "turnos": 483,
+  "respondidos": 457,
+  "sem_resposta": 26,
+  "sem_resposta_grupos": 26,
+  "mediana_min": 37.5,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 207,
-    "mediana_min": 80.9
+    "respostas": 211,
+    "mediana_min": 81.3
    },
    {
     "nome": "Eduardo",
@@ -103,8 +107,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 18,
-    "mediana_min": 15.2
+    "respostas": 19,
+    "mediana_min": 19.6
    },
    {
     "nome": "Julia",
@@ -118,6 +122,24 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
+    "dia": "18/09",
+    "desde": "18:37",
+    "ts": 1789767441244
+   },
+   {
+    "grupo": "A.J.P.B",
+    "dia": "22/09",
+    "desde": "12:33",
+    "ts": 1790091204998
+   },
+   {
+    "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
+    "dia": "22/09",
+    "desde": "12:26",
+    "ts": 1790090793970
+   },
    {
     "grupo": "A.L.P.F x MANSERV MONTAGEM E MANUTENÇÃO S/A",
     "dia": "22/09",
@@ -149,12 +171,6 @@
     "ts": 1789675410495
    },
    {
-    "grupo": "C.S.D.N x LEO S.A.",
-    "dia": "21/09",
-    "desde": "20:04",
-    "ts": 1790031875229
-   },
-   {
     "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
     "dia": "16/09",
     "desde": "14:16",
@@ -165,12 +181,6 @@
     "dia": "21/09",
     "desde": "13:24",
     "ts": 1790007849856
-   },
-   {
-    "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
-    "dia": "18/09",
-    "desde": "18:37",
-    "ts": 1789767441244
    },
    {
     "grupo": "C.F.D.S x BARBA BARBEARIA CAFE E BAR LTDA",
@@ -444,12 +454,6 @@
     "ts": 1790007849856
    },
    {
-    "grupo": "C.S.D.N x LEO S.A.",
-    "dia": "21/09",
-    "desde": "20:04",
-    "ts": 1790031875229
-   },
-   {
     "grupo": "V.B.D.L x ENGEMAN MANUTENCAO DE EQUIPAMENTOS COM E INDUSTRIA LTDA",
     "dia": "22/09",
     "desde": "11:05",
@@ -466,6 +470,18 @@
     "dia": "22/09",
     "desde": "11:15",
     "ts": 1790086539765
+   },
+   {
+    "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
+    "dia": "22/09",
+    "desde": "12:26",
+    "ts": 1790090793970
+   },
+   {
+    "grupo": "A.J.P.B",
+    "dia": "22/09",
+    "desde": "12:33",
+    "ts": 1790091204998
    }
   ]
  },
@@ -527,18 +543,51 @@
  },
  "agora": {
   "fila": 274,
-  "abertos": 437,
+  "abertos": 440,
   "com_atendimento": 6,
-  "online": 5,
-  "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 9097
+  "online": 4,
+  "offline": 1,
+  "ausentes": 3,
+  "espera_media_s": 9063
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-20T16:17:32.084Z",
-  "min_sem_lead": 2825
+  "ultimo_lead_at": "2026-09-22T13:28:41.693Z",
+  "min_sem_lead": 129
  },
  "leads": [
+  {
+   "nome": "559691997996",
+   "tel": "5596*****996",
+   "criado": "12:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4LXdMV2Fn",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Gyovanna da Silva Furlane",
+   "tel": "5544*****114",
+   "criado": "12:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Mg🖕🖕",
+   "tel": "5547*****398",
+   "criado": "10:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
+  },
   {
    "nome": "CORRESPONDENTE Caroline Ferreira Menezes ",
    "tel": "5521*****766",
@@ -603,17 +652,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/91elw2A2a",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Mg🖕🖕",
-   "tel": "5547*****398",
-   "criado": "10:28",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/505ajP5YC",
    "area": "Trabalhista"
   },
   {
