@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/09/2026, 14:09",
+ "gerado_em": "22/09/2026, 14:24",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 17,
+  "total": 20,
+  "no_sla": 18,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 185,
+  "leads_7d": 186,
   "tickets_abertos": 443,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 17,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -44,6 +44,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/6hFKXqtBv",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmVxvcsgHO/",
    "leads": 1
   },
@@ -58,26 +62,22 @@
   {
    "url": "fb.me/4VQLAvb8d",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9Kji7hTqb",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 12,
-  "Nao identificada": 7
+  "Nao identificada": 8,
+  "Trabalhista": 12
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 267,
-  "turnos": 513,
-  "respondidos": 488,
-  "sem_resposta": 25,
-  "sem_resposta_grupos": 25,
-  "mediana_min": 36.3,
+  "grupos_ativos": 268,
+  "turnos": 517,
+  "respondidos": 493,
+  "sem_resposta": 24,
+  "sem_resposta_grupos": 24,
+  "mediana_min": 35.3,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -86,12 +86,12 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 60,
-    "mediana_min": 1.5
+    "respostas": 61,
+    "mediana_min": 1.6
    },
    {
     "nome": "Eduardo",
-    "respostas": 55,
+    "respostas": 59,
     "mediana_min": 3.6
    },
    {
@@ -155,12 +155,6 @@
     "dia": "22/09",
     "desde": "12:26",
     "ts": 1790090793970
-   },
-   {
-    "grupo": "A.L.P.F x MANSERV MONTAGEM E MANUTENÇÃO S/A",
-    "dia": "22/09",
-    "desde": "11:12",
-    "ts": 1790086374756
    },
    {
     "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
@@ -446,12 +440,6 @@
     "ts": 1790007849856
    },
    {
-    "grupo": "A.L.P.F x MANSERV MONTAGEM E MANUTENÇÃO S/A",
-    "dia": "22/09",
-    "desde": "11:12",
-    "ts": 1790086374756
-   },
-   {
     "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
     "dia": "22/09",
     "desde": "12:26",
@@ -543,19 +531,30 @@
   ]
  },
  "agora": {
-  "fila": 272,
+  "fila": 273,
   "abertos": 443,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 1,
   "offline": 1,
-  "ausentes": 4,
-  "espera_media_s": 9028
+  "ausentes": 6,
+  "espera_media_s": 8995
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-19T20:08:47.601Z",
-  "min_sem_lead": 4141
+  "ultimo_lead_at": "2026-09-08T14:31:14.503Z",
+  "min_sem_lead": 20333
  },
  "leads": [
+  {
+   "nome": "Miltao",
+   "tel": "5584*****652",
+   "criado": "14:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6hFKXqtBv",
+   "area": "Nao identificada"
+  },
   {
    "nome": "5511976685073",
    "tel": "5511*****073",
