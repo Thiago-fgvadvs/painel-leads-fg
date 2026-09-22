@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/09/2026, 19:30",
+ "gerado_em": "22/09/2026, 19:45",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
+  "total": 30,
   "no_sla": 26,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 3,
+  "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 195,
-  "tickets_abertos": 468,
+  "leads_7d": 196,
+  "tickets_abertos": 469,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 25,
+  "Anuncio": 26,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -36,11 +36,11 @@
    "leads": 5
   },
   {
-   "url": "fb.me/875plPmzH",
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "url": "fb.me/875plPmzH",
    "leads": 2
   },
   {
@@ -52,20 +52,20 @@
    "leads": 2
   },
   {
+   "url": "fb.me/7ZVZhwxMh",
+   "leads": 1
+  },
+  {
    "url": "fb.me/83JH6uera",
    "leads": 1
   },
   {
    "url": "fb.me/8hmN3IbSF",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmW5hLM3NO/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 20,
+  "Trabalhista": 21,
   "Nao identificada": 8,
   "Previdenciario": 1
  },
@@ -311,20 +311,6 @@
     "dia": "20/09",
     "desde": "12:20",
     "ts": 1789917612661
-   },
-   {
-    "nome": "Marilson",
-    "tel": "5521*****716",
-    "dia": "22/09",
-    "desde": "13:29",
-    "ts": 1790094560298
-   },
-   {
-    "nome": "Nessa",
-    "tel": "5511*****729",
-    "dia": "22/09",
-    "desde": "13:53",
-    "ts": 1790095985968
    }
   ],
   "grupos": [
@@ -543,19 +529,41 @@
   ]
  },
  "agora": {
-  "fila": 299,
-  "abertos": 468,
+  "fila": 300,
+  "abertos": 469,
   "com_atendimento": 6,
   "online": 3,
   "offline": 4,
   "ausentes": 1,
-  "espera_media_s": 8593
+  "espera_media_s": 8562
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-28T01:13:24.770Z",
-  "min_sem_lead": 37277
+  "ultimo_lead_at": "2026-09-22T12:24:31.652Z",
+  "min_sem_lead": 621
  },
  "leads": [
+  {
+   "nome": "Gaby Venite",
+   "tel": "5511*****999",
+   "criado": "09:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511953121750",
+   "tel": "5511*****750",
+   "criado": "19:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Milton",
    "tel": "5512*****220",
@@ -587,17 +595,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/8hmN3IbSF",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Gaby Venite",
-   "tel": "5511*****999",
-   "criado": "09:24",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Trabalhista"
   },
   {
