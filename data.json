@@ -1,17 +1,17 @@
 {
- "gerado_em": "22/09/2026, 14:39",
+ "gerado_em": "22/09/2026, 14:55",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
-  "no_sla": 20,
+  "total": 23,
+  "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 188,
-  "tickets_abertos": 445,
+  "leads_7d": 189,
+  "tickets_abertos": 447,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 19,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -65,6 +65,7 @@
   }
  ],
  "areas": {
+  "Previdenciario": 1,
   "Trabalhista": 14,
   "Nao identificada": 8
  },
@@ -73,10 +74,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 268,
-  "turnos": 518,
-  "respondidos": 493,
-  "sem_resposta": 25,
-  "sem_resposta_grupos": 25,
+  "turnos": 521,
+  "respondidos": 495,
+  "sem_resposta": 26,
+  "sem_resposta_grupos": 26,
   "mediana_min": 35.3,
   "atendentes": [
    {
@@ -91,7 +92,7 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 59,
+    "respostas": 60,
     "mediana_min": 3.6
    },
    {
@@ -106,8 +107,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 25,
-    "mediana_min": 4.2
+    "respostas": 26,
+    "mediana_min": 4.5
    },
    {
     "nome": "Julia",
@@ -126,6 +127,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "Z.D.F.M.M.D.A.C",
+    "dia": "22/09",
+    "desde": "14:50",
+    "ts": 1790099429696
+   },
    {
     "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
     "dia": "22/09",
@@ -474,6 +481,12 @@
     "dia": "22/09",
     "desde": "14:34",
     "ts": 1790098464583
+   },
+   {
+    "grupo": "Z.D.F.M.M.D.A.C",
+    "dia": "22/09",
+    "desde": "14:50",
+    "ts": 1790099429696
    }
   ]
  },
@@ -543,19 +556,30 @@
   ]
  },
  "agora": {
-  "fila": 276,
-  "abertos": 445,
-  "com_atendimento": 6,
-  "online": 2,
+  "fila": 277,
+  "abertos": 447,
+  "com_atendimento": 7,
+  "online": 4,
   "offline": 2,
-  "ausentes": 4,
-  "espera_media_s": 8895
+  "ausentes": 2,
+  "espera_media_s": 8877
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T17:36:16.311Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2026-09-22T00:01:16.490Z",
+  "min_sem_lead": 1074
  },
  "leads": [
+  {
+   "nome": "5522981755168",
+   "tel": "5522*****168",
+   "criado": "14:43",
+   "atendente": "—",
+   "espera_min": 0,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Previdenciario"
+  },
   {
    "nome": "5511948721883",
    "tel": "5511*****883",
