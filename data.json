@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/09/2026, 20:31",
+ "gerado_em": "22/09/2026, 20:46",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
+  "total": 31,
   "no_sla": 26,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 4,
+  "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 196,
-  "tickets_abertos": 469,
+  "leads_7d": 197,
+  "tickets_abertos": 470,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 26,
+   "leads": 27,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 26,
+  "Anuncio": 27,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 5
+  },
+  {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
@@ -58,14 +62,10 @@
   {
    "url": "fb.me/83JH6uera",
    "leads": 1
-  },
-  {
-   "url": "fb.me/8hmN3IbSF",
-   "leads": 1
   }
  ],
  "areas": {
-  "Previdenciario": 1,
+  "Previdenciario": 2,
   "Trabalhista": 21,
   "Nao identificada": 8
  },
@@ -529,19 +529,30 @@
   ]
  },
  "agora": {
-  "fila": 300,
-  "abertos": 469,
+  "fila": 301,
+  "abertos": 470,
   "com_atendimento": 6,
   "online": 3,
   "offline": 4,
   "ausentes": 1,
-  "espera_media_s": 8562
+  "espera_media_s": 8532
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T17:43:25.707Z",
-  "min_sem_lead": 348
+  "ultimo_lead_at": "2026-09-22T23:37:07.867Z",
+  "min_sem_lead": 9
  },
  "leads": [
+  {
+   "nome": "553298705186",
+   "tel": "5532*****186",
+   "criado": "20:37",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Previdenciario"
+  },
   {
    "nome": "Antônio Timóteo",
    "tel": "5522*****168",
