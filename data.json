@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/09/2026, 17:43",
+ "gerado_em": "22/09/2026, 17:58",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
-  "no_sla": 24,
+  "total": 27,
+  "no_sla": 25,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 192,
-  "tickets_abertos": 465,
+  "leads_7d": 193,
+  "tickets_abertos": 467,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 22,
+   "leads": 23,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 23,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -48,6 +48,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/8hmN3IbSF",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
   },
@@ -58,14 +62,10 @@
   {
    "url": "fb.me/4MBhcZyUD",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmVxvcsgHO/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 17,
+  "Trabalhista": 18,
   "Nao identificada": 8,
   "Previdenciario": 1
  },
@@ -73,17 +73,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 271,
-  "turnos": 544,
-  "respondidos": 521,
-  "sem_resposta": 23,
-  "sem_resposta_grupos": 23,
-  "mediana_min": 32.7,
+  "grupos_ativos": 272,
+  "turnos": 550,
+  "respondidos": 525,
+  "sem_resposta": 25,
+  "sem_resposta_grupos": 25,
+  "mediana_min": 32.2,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 234,
-    "mediana_min": 75.8
+    "respostas": 238,
+    "mediana_min": 74.5
    },
    {
     "nome": "Gabrielle",
@@ -127,6 +127,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
+    "dia": "22/09",
+    "desde": "17:58",
+    "ts": 1790110706258
+   },
+   {
+    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
+    "dia": "22/09",
+    "desde": "17:51",
+    "ts": 1790110266237
+   },
    {
     "grupo": "L.D.Z.R x LEANDRINI AUTO PARTS LTDA",
     "dia": "22/09",
@@ -451,18 +463,39 @@
     "dia": "22/09",
     "desde": "17:42",
     "ts": 1790109733225
+   },
+   {
+    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
+    "dia": "22/09",
+    "desde": "17:51",
+    "ts": 1790110266237
+   },
+   {
+    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
+    "dia": "22/09",
+    "desde": "17:58",
+    "ts": 1790110706258
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 6,
+  "total": 7,
   "por_vendedor": {
-   "Tiago Bernardo": 3,
+   "Tiago Bernardo": 4,
    "Roseli": 2,
    "FG Advogados - Isadora ": 1
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "G.V",
+    "dia": "22/09",
+    "hora": "17:49",
+    "ts": 1790110141925,
+    "origem": "Anúncio: instagram.com/p/DcmTUt6sq5W/",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "V.E",
@@ -520,19 +553,30 @@
   ]
  },
  "agora": {
-  "fila": 296,
-  "abertos": 465,
+  "fila": 297,
+  "abertos": 467,
   "com_atendimento": 6,
   "online": 4,
-  "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 8685
+  "offline": 2,
+  "ausentes": 2,
+  "espera_media_s": 8654
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-29T19:41:02.213Z",
-  "min_sem_lead": 79262
+  "ultimo_lead_at": "2026-09-22T20:53:26.794Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "554891283697",
+   "tel": "5548*****697",
+   "criado": "17:53",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8hmN3IbSF",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Gaby Venite",
    "tel": "5511*****999",
