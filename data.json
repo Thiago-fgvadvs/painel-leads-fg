@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/09/2026, 11:36",
+ "gerado_em": "22/09/2026, 11:52",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -57,24 +57,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 9,
-  "Nao identificada": 1
+  "Nao identificada": 1,
+  "Trabalhista": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 260,
-  "turnos": 469,
-  "respondidos": 444,
+  "turnos": 471,
+  "respondidos": 446,
   "sem_resposta": 25,
   "sem_resposta_grupos": 25,
-  "mediana_min": 36.3,
+  "mediana_min": 36.5,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 201,
-    "mediana_min": 81.3
+    "respostas": 203,
+    "mediana_min": 87.5
    },
    {
     "nome": "Eduardo",
@@ -119,6 +119,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.L.P.F x MANSERV MONTAGEM E MANUTENÇÃO S/A",
+    "dia": "22/09",
+    "desde": "11:12",
+    "ts": 1790086374756
+   },
+   {
     "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "21/09",
     "desde": "10:59",
@@ -129,12 +135,6 @@
     "dia": "22/09",
     "desde": "11:15",
     "ts": 1790086539765
-   },
-   {
-    "grupo": "A.L.P.F x MANSERV MONTAGEM E MANUTENÇÃO S/A",
-    "dia": "22/09",
-    "desde": "11:12",
-    "ts": 1790086374756
    },
    {
     "grupo": "V.B.D.L x ENGEMAN MANUTENCAO DE EQUIPAMENTOS COM E INDUSTRIA LTDA",
@@ -526,19 +526,30 @@
   ]
  },
  "agora": {
-  "fila": 276,
+  "fila": 274,
   "abertos": 437,
   "com_atendimento": 6,
-  "online": 4,
-  "offline": 1,
-  "ausentes": 3,
+  "online": 2,
+  "offline": 2,
+  "ausentes": 4,
   "espera_media_s": 9097
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-21T19:56:16.649Z",
-  "min_sem_lead": 1120
+  "ultimo_lead_at": "2026-09-22T12:37:25.453Z",
+  "min_sem_lead": 135
  },
  "leads": [
+  {
+   "nome": "Beatriz Livramento",
+   "tel": "5511*****024",
+   "criado": "09:37",
+   "atendente": "Eduardo",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "kedma Francielly",
    "tel": "5531*****494",
@@ -571,17 +582,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/jBdA5xQPx",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Beatriz Livramento",
-   "tel": "5511*****024",
-   "criado": "09:37",
-   "atendente": "Eduardo",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Mg🖕🖕",
