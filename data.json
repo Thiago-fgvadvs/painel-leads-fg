@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/09/2026, 17:58",
+ "gerado_em": "22/09/2026, 18:13",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
-  "no_sla": 25,
+  "total": 28,
+  "no_sla": 26,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 193,
+  "leads_7d": 194,
   "tickets_abertos": 467,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 23,
+   "leads": 24,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 24,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 5
+  },
+  {
+   "url": "fb.me/875plPmzH",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
@@ -58,14 +62,10 @@
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4MBhcZyUD",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 18,
+  "Trabalhista": 19,
   "Nao identificada": 8,
   "Previdenciario": 1
  },
@@ -73,16 +73,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 272,
-  "turnos": 550,
-  "respondidos": 525,
-  "sem_resposta": 25,
-  "sem_resposta_grupos": 25,
+  "grupos_ativos": 273,
+  "turnos": 551,
+  "respondidos": 527,
+  "sem_resposta": 24,
+  "sem_resposta_grupos": 24,
   "mediana_min": 32.2,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 238,
+    "respostas": 240,
     "mediana_min": 74.5
    },
    {
@@ -128,22 +128,22 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
-    "dia": "22/09",
-    "desde": "17:58",
-    "ts": 1790110706258
-   },
-   {
     "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
     "dia": "22/09",
     "desde": "17:51",
     "ts": 1790110266237
    },
    {
-    "grupo": "L.D.Z.R x LEANDRINI AUTO PARTS LTDA",
+    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
+    "dia": "17/09",
+    "desde": "09:52",
+    "ts": 1789649544258
+   },
+   {
+    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "22/09",
-    "desde": "17:42",
-    "ts": 1790109733225
+    "desde": "17:58",
+    "ts": 1790110706258
    },
    {
     "grupo": "Z.D.F.M.M.D.A.C",
@@ -228,12 +228,6 @@
     "dia": "16/09",
     "desde": "11:17",
     "ts": 1789568262542
-   },
-   {
-    "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
-    "dia": "17/09",
-    "desde": "09:52",
-    "ts": 1789649544258
    },
    {
     "grupo": "J.A.D.S x LIVIO JOSE ANDRIGHETTI",
@@ -323,6 +317,13 @@
     "dia": "20/09",
     "desde": "12:20",
     "ts": 1789917612661
+   },
+   {
+    "nome": "Marilson",
+    "tel": "5521*****716",
+    "dia": "22/09",
+    "desde": "13:29",
+    "ts": 1790094560298
    }
   ],
   "grupos": [
@@ -459,12 +460,6 @@
     "ts": 1790100405000
    },
    {
-    "grupo": "L.D.Z.R x LEANDRINI AUTO PARTS LTDA",
-    "dia": "22/09",
-    "desde": "17:42",
-    "ts": 1790109733225
-   },
-   {
     "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
     "dia": "22/09",
     "desde": "17:51",
@@ -553,21 +548,21 @@
   ]
  },
  "agora": {
-  "fila": 297,
+  "fila": 299,
   "abertos": 467,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 2,
   "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 8654
+  "ausentes": 4,
+  "espera_media_s": 8623
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-22T20:53:26.794Z",
-  "min_sem_lead": 5
+  "min_sem_lead": 20
  },
  "leads": [
   {
-   "nome": "554891283697",
+   "nome": "Alceu",
    "tel": "5548*****697",
    "criado": "17:53",
    "atendente": "FG Advogados - Isadora ",
@@ -575,6 +570,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/8hmN3IbSF",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Milton",
+   "tel": "5512*****220",
+   "criado": "18:05",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
    "area": "Trabalhista"
   },
   {
