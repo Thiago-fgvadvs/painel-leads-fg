@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/09/2026, 13:08",
+ "gerado_em": "22/09/2026, 13:23",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 182,
-  "tickets_abertos": 445,
+  "tickets_abertos": 444,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -36,6 +36,10 @@
    "leads": 5
   },
   {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/91elw2A2a",
    "leads": 1
   },
@@ -56,10 +60,6 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
-   "leads": 1
-  },
-  {
    "url": "fb.me/jBdA5xQPx",
    "leads": 1
   }
@@ -72,17 +72,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 265,
-  "turnos": 489,
-  "respondidos": 462,
-  "sem_resposta": 27,
-  "sem_resposta_grupos": 27,
-  "mediana_min": 37.7,
+  "grupos_ativos": 266,
+  "turnos": 494,
+  "respondidos": 469,
+  "sem_resposta": 25,
+  "sem_resposta_grupos": 25,
+  "mediana_min": 37.5,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 216,
-    "mediana_min": 81.1
+    "respostas": 220,
+    "mediana_min": 78.8
    },
    {
     "nome": "Eduardo",
@@ -91,8 +91,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 47,
-    "mediana_min": 1.3
+    "respostas": 48,
+    "mediana_min": 1.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -110,14 +110,14 @@
     "mediana_min": 4.2
    },
    {
+    "nome": "Julia",
+    "respostas": 19,
+    "mediana_min": 124.7
+   },
+   {
     "nome": "Roseli",
     "respostas": 19,
     "mediana_min": 19.6
-   },
-   {
-    "nome": "Julia",
-    "respostas": 17,
-    "mediana_min": 109.4
    },
    {
     "nome": "—",
@@ -127,16 +127,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
+    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
     "dia": "22/09",
-    "desde": "13:06",
-    "ts": 1790093190164
-   },
-   {
-    "grupo": "E.M.D.S x ZAMP S.A.",
-    "dia": "22/09",
-    "desde": "13:01",
-    "ts": 1790092867147
+    "desde": "13:14",
+    "ts": 1790093672185
    },
    {
     "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
@@ -179,12 +173,6 @@
     "dia": "17/09",
     "desde": "17:03",
     "ts": 1789675410495
-   },
-   {
-    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
-    "dia": "16/09",
-    "desde": "14:16",
-    "ts": 1789578990209
    },
    {
     "grupo": "J.F.D.S x MURO ALTO BEACH RESORT",
@@ -368,12 +356,6 @@
     "ts": 1789575027991
    },
    {
-    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
-    "dia": "16/09",
-    "desde": "14:16",
-    "ts": 1789578990209
-   },
-   {
     "grupo": "C.C.P x WMS SUPERMERCADOS DO BRASIL LTDA",
     "dia": "16/09",
     "desde": "17:57",
@@ -488,16 +470,10 @@
     "ts": 1790091204998
    },
    {
-    "grupo": "E.M.D.S x ZAMP S.A.",
+    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
     "dia": "22/09",
-    "desde": "13:01",
-    "ts": 1790092867147
-   },
-   {
-    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
-    "dia": "22/09",
-    "desde": "13:06",
-    "ts": 1790093190164
+    "desde": "13:14",
+    "ts": 1790093672185
    }
   ]
  },
@@ -558,19 +534,30 @@
   ]
  },
  "agora": {
-  "fila": 276,
-  "abertos": 445,
+  "fila": 277,
+  "abertos": 444,
   "com_atendimento": 6,
   "online": 5,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 8962
+  "espera_media_s": 9029
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-17T03:54:21.332Z",
-  "min_sem_lead": 7934
+  "ultimo_lead_at": "2026-09-22T00:01:16.490Z",
+  "min_sem_lead": 982
  },
  "leads": [
+  {
+   "nome": "Gaby Venite",
+   "tel": "5511*****999",
+   "criado": "09:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Cintia Guimarães 🩷",
    "tel": "5521*****629",
@@ -636,17 +623,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/9Kji7hTqb",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Gaby Venite",
-   "tel": "5511*****999",
-   "criado": "09:24",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Gyovanna da Silva Furlane",
