@@ -1,16 +1,16 @@
 {
- "gerado_em": "22/09/2026, 12:07",
+ "gerado_em": "22/09/2026, 12:22",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 9,
+  "total": 12,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 177,
+  "leads_7d": 178,
   "tickets_abertos": 437,
   "periodo_dias": 7
  },
@@ -22,13 +22,13 @@
   },
   {
    "nome": "Eduardo",
-   "leads": 2,
+   "leads": 3,
    "mediana_min": 0.6
   }
  ],
  "origem": {
   "Anuncio": 9,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -57,29 +57,29 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
+  "Nao identificada": 3,
   "Trabalhista": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 260,
-  "turnos": 473,
-  "respondidos": 448,
+  "grupos_ativos": 261,
+  "turnos": 477,
+  "respondidos": 452,
   "sem_resposta": 25,
   "sem_resposta_grupos": 25,
-  "mediana_min": 36.3,
+  "mediana_min": 37,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 205,
-    "mediana_min": 81.3
+    "respostas": 207,
+    "mediana_min": 80.9
    },
    {
     "nome": "Eduardo",
-    "respostas": 51,
-    "mediana_min": 3.3
+    "respostas": 53,
+    "mediana_min": 3.6
    },
    {
     "nome": "Gabrielle",
@@ -529,16 +529,38 @@
   "fila": 274,
   "abertos": 437,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 5,
   "offline": 2,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 9097
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T15:05:34.521Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-09-20T16:17:32.084Z",
+  "min_sem_lead": 2825
  },
  "leads": [
+  {
+   "nome": "CORRESPONDENTE Caroline Ferreira Menezes ",
+   "tel": "5521*****766",
+   "criado": "12:16",
+   "atendente": "Eduardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "kedma Francielly",
+   "tel": "5531*****494",
+   "criado": "11:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "CORRESPONDENTE Rafaela Ismael de Oliveira",
    "tel": "5583*****763",
@@ -571,17 +593,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "kedma Francielly",
-   "tel": "5531*****494",
-   "criado": "11:23",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Cintia Guimarães 🩷",
