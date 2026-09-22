@@ -1,17 +1,17 @@
 {
- "gerado_em": "22/09/2026, 09:34",
+ "gerado_em": "22/09/2026, 09:49",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 2,
+  "total": 5,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 170,
-  "tickets_abertos": 435,
+  "leads_7d": 171,
+  "tickets_abertos": 437,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 4,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Eduardo",
+   "leads": 1,
+   "mediana_min": 0.6
   }
  ],
  "origem": {
   "Anuncio": 4,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -40,18 +45,19 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4
+  "Trabalhista": 4,
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 254,
-  "turnos": 453,
-  "respondidos": 427,
+  "grupos_ativos": 255,
+  "turnos": 457,
+  "respondidos": 431,
   "sem_resposta": 26,
   "sem_resposta_grupos": 26,
-  "mediana_min": 35,
+  "mediana_min": 34.2,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -59,14 +65,14 @@
     "mediana_min": 73.3
    },
    {
+    "nome": "Eduardo",
+    "respostas": 49,
+    "mediana_min": 3.3
+   },
+   {
     "nome": "Gabrielle",
     "respostas": 46,
     "mediana_min": 1.1
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 45,
-    "mediana_min": 3.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -101,10 +107,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.F.G",
+    "grupo": "T.B x DROGARIA SAO PAULO S A",
     "dia": "22/09",
-    "desde": "09:33",
-    "ts": 1790080430586
+    "desde": "09:42",
+    "ts": 1790080935611
    },
    {
     "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
@@ -456,10 +462,10 @@
     "ts": 1790031875229
    },
    {
-    "grupo": "A.F.G",
+    "grupo": "T.B x DROGARIA SAO PAULO S A",
     "dia": "22/09",
-    "desde": "09:33",
-    "ts": 1790080430586
+    "desde": "09:42",
+    "ts": 1790080935611
    }
   ]
  },
@@ -493,16 +499,16 @@
  },
  "agora": {
   "fila": 274,
-  "abertos": 435,
+  "abertos": 437,
   "com_atendimento": 6,
-  "online": 2,
-  "offline": 5,
-  "ausentes": 1,
+  "online": 3,
+  "offline": 3,
+  "ausentes": 2,
   "espera_media_s": 9526
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-22T12:24:31.652Z",
-  "min_sem_lead": 10
+  "min_sem_lead": 25
  },
  "leads": [
   {
@@ -515,6 +521,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "CORRESPONDENTE Beatriz Sousa",
+   "tel": "5511*****024",
+   "criado": "09:37",
+   "atendente": "Eduardo",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Patricia Assis",
