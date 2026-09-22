@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/09/2026, 14:24",
+ "gerado_em": "22/09/2026, 14:39",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
-  "no_sla": 18,
+  "total": 22,
+  "no_sla": 20,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 186,
-  "tickets_abertos": 443,
+  "leads_7d": 188,
+  "tickets_abertos": 445,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 17,
+   "leads": 19,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 19,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -36,12 +36,20 @@
    "leads": 5
   },
   {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "url": "fb.me/9Kji7hTqb",
    "leads": 2
   },
   {
    "url": "fb.me/505ajP5YC",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/875plPmzH",
+   "leads": 1
   },
   {
    "url": "fb.me/6hFKXqtBv",
@@ -54,29 +62,21 @@
   {
    "url": "fb.me/91elw2A2a",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4LXdMV2Fn",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/4VQLAvb8d",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 8,
-  "Trabalhista": 12
+  "Trabalhista": 14,
+  "Nao identificada": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 268,
-  "turnos": 517,
+  "turnos": 518,
   "respondidos": 493,
-  "sem_resposta": 24,
-  "sem_resposta_grupos": 24,
+  "sem_resposta": 25,
+  "sem_resposta_grupos": 25,
   "mediana_min": 35.3,
   "atendentes": [
    {
@@ -127,10 +127,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "F.M.C.A x ITAU UNIBANCO S.A.",
+    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
     "dia": "22/09",
-    "desde": "14:08",
-    "ts": 1790096935490
+    "desde": "14:34",
+    "ts": 1790098464583
+   },
+   {
+    "grupo": "B.F.D.L x EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
+    "dia": "22/09",
+    "desde": "14:30",
+    "ts": 1790098242580
    },
    {
     "grupo": "L.D.Z.R x LEANDRINI AUTO PARTS LTDA",
@@ -458,10 +464,16 @@
     "ts": 1790094599273
    },
    {
-    "grupo": "F.M.C.A x ITAU UNIBANCO S.A.",
+    "grupo": "B.F.D.L x EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
     "dia": "22/09",
-    "desde": "14:08",
-    "ts": 1790096935490
+    "desde": "14:30",
+    "ts": 1790098242580
+   },
+   {
+    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
+    "dia": "22/09",
+    "desde": "14:34",
+    "ts": 1790098464583
    }
   ]
  },
@@ -531,19 +543,63 @@
   ]
  },
  "agora": {
-  "fila": 273,
-  "abertos": 443,
+  "fila": 276,
+  "abertos": 445,
   "com_atendimento": 6,
-  "online": 1,
-  "offline": 1,
-  "ausentes": 6,
-  "espera_media_s": 8995
+  "online": 2,
+  "offline": 2,
+  "ausentes": 4,
+  "espera_media_s": 8895
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-08T14:31:14.503Z",
-  "min_sem_lead": 20333
+  "ultimo_lead_at": "2026-09-22T17:36:16.311Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "5511948721883",
+   "tel": "5511*****883",
+   "criado": "14:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Kji7hTqb",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Mg🖕🖕",
+   "tel": "5547*****398",
+   "criado": "10:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558498034867",
+   "tel": "5584*****867",
+   "criado": "14:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Gaby Venite",
+   "tel": "5511*****999",
+   "criado": "09:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Miltao",
    "tel": "5584*****652",
@@ -556,7 +612,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "5511976685073",
+   "nome": "Talita",
    "tel": "5511*****073",
    "criado": "13:54",
    "atendente": "FG Advogados - Isadora ",
@@ -600,17 +656,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Gaby Venite",
-   "tel": "5511*****999",
-   "criado": "09:24",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Cintia Guimarães 🩷",
    "tel": "5521*****629",
    "criado": "10:51",
@@ -641,17 +686,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4LXdMV2Fn",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Mg🖕🖕",
-   "tel": "5547*****398",
-   "criado": "10:28",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/505ajP5YC",
    "area": "Trabalhista"
   },
   {
