@@ -1,23 +1,23 @@
 {
- "gerado_em": "22/09/2026, 13:38",
+ "gerado_em": "22/09/2026, 13:54",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
-  "no_sla": 15,
+  "total": 18,
+  "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 183,
+  "leads_7d": 184,
   "tickets_abertos": 442,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 14,
+   "leads": 15,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 15,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -36,12 +36,12 @@
    "leads": 5
   },
   {
-   "url": "fb.me/505ajP5YC",
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
-   "leads": 1
+   "url": "fb.me/505ajP5YC",
+   "leads": 2
   },
   {
    "url": "fb.me/91elw2A2a",
@@ -65,28 +65,28 @@
   }
  ],
  "areas": {
-  "Trabalhista": 11,
-  "Nao identificada": 6
+  "Nao identificada": 7,
+  "Trabalhista": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 266,
-  "turnos": 507,
-  "respondidos": 480,
-  "sem_resposta": 27,
-  "sem_resposta_grupos": 27,
-  "mediana_min": 36.5,
+  "grupos_ativos": 267,
+  "turnos": 509,
+  "respondidos": 483,
+  "sem_resposta": 26,
+  "sem_resposta_grupos": 26,
+  "mediana_min": 36.4,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 224,
-    "mediana_min": 78.8
+    "respostas": 225,
+    "mediana_min": 76.6
    },
    {
     "nome": "Gabrielle",
-    "respostas": 55,
+    "respostas": 57,
     "mediana_min": 1.4
    },
    {
@@ -127,16 +127,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.F.G",
-    "dia": "22/09",
-    "desde": "13:38",
-    "ts": 1790095101343
-   },
-   {
     "grupo": "V.B.D.L x ENGEMAN MANUTENCAO DE EQUIPAMENTOS COM E INDUSTRIA LTDA",
     "dia": "22/09",
-    "desde": "13:36",
-    "ts": 1790094983296
+    "desde": "13:46",
+    "ts": 1790095615396
    },
    {
     "grupo": "L.D.Z.R x LEANDRINI AUTO PARTS LTDA",
@@ -490,14 +484,8 @@
    {
     "grupo": "V.B.D.L x ENGEMAN MANUTENCAO DE EQUIPAMENTOS COM E INDUSTRIA LTDA",
     "dia": "22/09",
-    "desde": "13:36",
-    "ts": 1790094983296
-   },
-   {
-    "grupo": "A.F.G",
-    "dia": "22/09",
-    "desde": "13:38",
-    "ts": 1790095101343
+    "desde": "13:46",
+    "ts": 1790095615396
    }
   ]
  },
@@ -558,19 +546,41 @@
   ]
  },
  "agora": {
-  "fila": 273,
+  "fila": 271,
   "abertos": 442,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 7,
   "offline": 1,
-  "ausentes": 4,
+  "ausentes": 0,
   "espera_media_s": 9062
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:21:49.303Z",
-  "min_sem_lead": 522617
+  "ultimo_lead_at": "2026-09-22T16:53:05.968Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "Nessa",
+   "tel": "5511*****729",
+   "criado": "13:53",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Gyovanna da Silva Furlane",
+   "tel": "5544*****114",
+   "criado": "12:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Marilson",
    "tel": "5521*****716",
@@ -657,17 +667,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/9Kji7hTqb",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Gyovanna da Silva Furlane",
-   "tel": "5544*****114",
-   "criado": "12:32",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Nao identificada"
   },
   {
