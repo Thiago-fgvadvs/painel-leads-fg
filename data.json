@@ -1,28 +1,28 @@
 {
- "gerado_em": "22/09/2026, 09:19",
+ "gerado_em": "22/09/2026, 09:34",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 1,
+  "total": 4,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 169,
-  "tickets_abertos": 436,
+  "leads_7d": 170,
+  "tickets_abertos": 435,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 3,
+   "leads": 4,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -31,23 +31,27 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmVpxyMs5c/",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 3
+  "Trabalhista": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 254,
-  "turnos": 452,
-  "respondidos": 426,
+  "turnos": 453,
+  "respondidos": 427,
   "sem_resposta": 26,
   "sem_resposta_grupos": 26,
-  "mediana_min": 35.1,
+  "mediana_min": 35,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -61,8 +65,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 44,
-    "mediana_min": 3.5
+    "respostas": 45,
+    "mediana_min": 3.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -99,8 +103,14 @@
    {
     "grupo": "A.F.G",
     "dia": "22/09",
-    "desde": "09:18",
-    "ts": 1790079488547
+    "desde": "09:33",
+    "ts": 1790080430586
+   },
+   {
+    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
+    "dia": "17/09",
+    "desde": "17:03",
+    "ts": 1789675410495
    },
    {
     "grupo": "C.S.D.N x LEO S.A.",
@@ -185,12 +195,6 @@
     "dia": "17/09",
     "desde": "17:23",
     "ts": 1789676628535
-   },
-   {
-    "grupo": "L.A.D.S x MERCADOLIVRE.COM ATIVIDADES DE INTERNET LTDA",
-    "dia": "17/09",
-    "desde": "17:03",
-    "ts": 1789675410495
    },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
@@ -454,8 +458,8 @@
    {
     "grupo": "A.F.G",
     "dia": "22/09",
-    "desde": "09:18",
-    "ts": 1790079488547
+    "desde": "09:33",
+    "ts": 1790080430586
    }
   ]
  },
@@ -488,19 +492,30 @@
   ]
  },
  "agora": {
-  "fila": 273,
-  "abertos": 436,
+  "fila": 274,
+  "abertos": 435,
   "com_atendimento": 6,
   "online": 2,
   "offline": 5,
   "ausentes": 1,
-  "espera_media_s": 9734
+  "espera_media_s": 9526
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-20T23:15:26.778Z",
-  "min_sem_lead": 2224
+  "ultimo_lead_at": "2026-09-22T12:24:31.652Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "Gaby Venite",
+   "tel": "5511*****999",
+   "criado": "09:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Patricia Assis",
    "tel": "5521*****793",
