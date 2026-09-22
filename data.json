@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/09/2026, 18:13",
+ "gerado_em": "22/09/2026, 18:29",
  "data_ref": "22/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -75,15 +75,15 @@
   "dias": 7,
   "grupos_ativos": 273,
   "turnos": 551,
-  "respondidos": 527,
-  "sem_resposta": 24,
-  "sem_resposta_grupos": 24,
-  "mediana_min": 32.2,
+  "respondidos": 528,
+  "sem_resposta": 23,
+  "sem_resposta_grupos": 23,
+  "mediana_min": 32.5,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 240,
-    "mediana_min": 74.5
+    "respostas": 241,
+    "mediana_min": 74.9
    },
    {
     "nome": "Gabrielle",
@@ -150,12 +150,6 @@
     "dia": "22/09",
     "desde": "15:06",
     "ts": 1790100405000
-   },
-   {
-    "grupo": "B.F.D.L x EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
-    "dia": "22/09",
-    "desde": "14:30",
-    "ts": 1790098242580
    },
    {
     "grupo": "A.L.P.F x MANSERV MONTAGEM E MANUTENÇÃO S/A",
@@ -448,12 +442,6 @@
     "ts": 1790097280510
    },
    {
-    "grupo": "B.F.D.L x EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
-    "dia": "22/09",
-    "desde": "14:30",
-    "ts": 1790098242580
-   },
-   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "22/09",
     "desde": "15:06",
@@ -548,17 +536,17 @@
   ]
  },
  "agora": {
-  "fila": 299,
+  "fila": 298,
   "abertos": 467,
   "com_atendimento": 6,
-  "online": 2,
-  "offline": 2,
-  "ausentes": 4,
+  "online": 4,
+  "offline": 3,
+  "ausentes": 1,
   "espera_media_s": 8623
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-22T20:53:26.794Z",
-  "min_sem_lead": 20
+  "min_sem_lead": 36
  },
  "leads": [
   {
