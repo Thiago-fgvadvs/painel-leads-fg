@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/09/2026, 19:27",
+ "gerado_em": "23/09/2026, 19:42",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 192,
-  "tickets_abertos": 491,
+  "tickets_abertos": 492,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -77,10 +77,10 @@
   "dias": 7,
   "grupos_ativos": 265,
   "turnos": 553,
-  "respondidos": 534,
-  "sem_resposta": 19,
-  "sem_resposta_grupos": 19,
-  "mediana_min": 36.9,
+  "respondidos": 535,
+  "sem_resposta": 18,
+  "sem_resposta_grupos": 18,
+  "mediana_min": 37.4,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -89,8 +89,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 75,
-    "mediana_min": 3.9
+    "respostas": 76,
+    "mediana_min": 4.2
    },
    {
     "nome": "Gabrielle",
@@ -129,12 +129,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "A.F.G",
-    "dia": "23/09",
-    "desde": "18:18",
-    "ts": 1790198321081
-   },
    {
     "grupo": "B.B.A.L x UNIMED",
     "dia": "23/09",
@@ -406,12 +400,6 @@
     "dia": "23/09",
     "desde": "17:49",
     "ts": 1790196575056
-   },
-   {
-    "grupo": "A.F.G",
-    "dia": "23/09",
-    "desde": "18:18",
-    "ts": 1790198321081
    }
   ]
  },
@@ -508,17 +496,17 @@
   ]
  },
  "agora": {
-  "fila": 314,
-  "abertos": 491,
+  "fila": 315,
+  "abertos": 492,
   "com_atendimento": 6,
-  "online": 3,
-  "offline": 4,
+  "online": 4,
+  "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 8470
+  "espera_media_s": 8443
  },
  "captacao": {
-  "ultimo_lead_at": "2026-01-17T06:06:26.698Z",
-  "min_sem_lead": 359541
+  "ultimo_lead_at": "2026-09-23T22:10:40.979Z",
+  "min_sem_lead": 32
  },
  "leads": [
   {
