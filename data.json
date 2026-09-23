@@ -1,60 +1,64 @@
 {
- "gerado_em": "23/09/2026, 09:46",
+ "gerado_em": "23/09/2026, 10:01",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
-  "no_sla": 1,
+  "total": 3,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 174,
-  "tickets_abertos": 480,
+  "leads_7d": 175,
+  "tickets_abertos": 476,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 2,
+   "leads": 3,
    "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 1,
+  "Anuncio": 2,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/8hmN3IbSF",
+   "leads": 1
+  },
   {
    "url": "fb.me/k6QGj5ebc",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 1,
-  "Trabalhista": 1
+  "Trabalhista": 2,
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 246,
-  "turnos": 447,
-  "respondidos": 428,
-  "sem_resposta": 19,
-  "sem_resposta_grupos": 19,
-  "mediana_min": 30.8,
+  "turnos": 453,
+  "respondidos": 437,
+  "sem_resposta": 16,
+  "sem_resposta_grupos": 16,
+  "mediana_min": 31.2,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 169,
-    "mediana_min": 86
+    "respostas": 176,
+    "mediana_min": 96.6
    },
    {
     "nome": "Gabrielle",
-    "respostas": 66,
-    "mediana_min": 1.4
+    "respostas": 68,
+    "mediana_min": 1.5
    },
    {
     "nome": "Eduardo",
@@ -94,10 +98,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "B.F.D.L x EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
+    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
     "dia": "23/09",
-    "desde": "09:44",
-    "ts": 1790167447730
+    "desde": "09:57",
+    "ts": 1790168234781
+   },
+   {
+    "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
+    "dia": "23/09",
+    "desde": "09:56",
+    "ts": 1790168190776
    },
    {
     "grupo": "B.B.A.L x PARTNER BPO LTDA",
@@ -128,18 +138,6 @@
     "dia": "22/09",
     "desde": "15:06",
     "ts": 1790100405000
-   },
-   {
-    "grupo": "A.L.P.F x MANSERV MONTAGEM E MANUTENÇÃO S/A",
-    "dia": "22/09",
-    "desde": "14:14",
-    "ts": 1790097280510
-   },
-   {
-    "grupo": "K.C.A x SANTA HELENA ASSISTÊNCIA MEDICA S/A",
-    "dia": "22/09",
-    "desde": "13:50",
-    "ts": 1790095820401
    },
    {
     "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
@@ -176,18 +174,6 @@
     "dia": "18/09",
     "desde": "12:17",
     "ts": 1789744663308
-   },
-   {
-    "grupo": "T.D.D.S x BURGER KING",
-    "dia": "17/09",
-    "desde": "17:58",
-    "ts": 1789678705696
-   },
-   {
-    "grupo": "G.M.B.D.S x AURIZ FOODS LTDA",
-    "dia": "17/09",
-    "desde": "17:23",
-    "ts": 1789676628535
    },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
@@ -281,18 +267,6 @@
     "ts": 1789673172360
    },
    {
-    "grupo": "G.M.B.D.S x AURIZ FOODS LTDA",
-    "dia": "17/09",
-    "desde": "17:23",
-    "ts": 1789676628535
-   },
-   {
-    "grupo": "T.D.D.S x BURGER KING",
-    "dia": "17/09",
-    "desde": "17:58",
-    "ts": 1789678705696
-   },
-   {
     "grupo": "L.D.S.A x INSS",
     "dia": "18/09",
     "desde": "12:17",
@@ -329,18 +303,6 @@
     "ts": 1790091204998
    },
    {
-    "grupo": "K.C.A x SANTA HELENA ASSISTÊNCIA MEDICA S/A",
-    "dia": "22/09",
-    "desde": "13:50",
-    "ts": 1790095820401
-   },
-   {
-    "grupo": "A.L.P.F x MANSERV MONTAGEM E MANUTENÇÃO S/A",
-    "dia": "22/09",
-    "desde": "14:14",
-    "ts": 1790097280510
-   },
-   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "22/09",
     "desde": "15:06",
@@ -365,10 +327,16 @@
     "ts": 1790167429729
    },
    {
-    "grupo": "B.F.D.L x EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
+    "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
     "dia": "23/09",
-    "desde": "09:44",
-    "ts": 1790167447730
+    "desde": "09:56",
+    "ts": 1790168190776
+   },
+   {
+    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
+    "dia": "23/09",
+    "desde": "09:57",
+    "ts": 1790168234781
    }
   ]
  },
@@ -448,18 +416,29 @@
  },
  "agora": {
   "fila": 309,
-  "abertos": 480,
+  "abertos": 476,
   "com_atendimento": 7,
-  "online": 3,
-  "offline": 4,
+  "online": 5,
+  "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 8439
+  "espera_media_s": 8410
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-21T00:04:32.101Z",
-  "min_sem_lead": 3642
+  "ultimo_lead_at": "2026-08-29T23:17:11.105Z",
+  "min_sem_lead": 35384
  },
  "leads": [
+  {
+   "nome": "555499427701",
+   "tel": "5554*****701",
+   "criado": "09:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8hmN3IbSF",
+   "area": "Trabalhista"
+  },
   {
    "nome": "RiCARDO",
    "tel": "5519*****029",
