@@ -1,31 +1,35 @@
 {
- "gerado_em": "23/09/2026, 10:16",
+ "gerado_em": "23/09/2026, 10:32",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 2,
+  "total": 4,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 175,
-  "tickets_abertos": 477,
+  "mediana_geral": 0.4,
+  "leads_7d": 176,
+  "tickets_abertos": 476,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 3,
-   "mediana_min": 0.5
+   "leads": 4,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 2,
+  "Anuncio": 3,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 1
+  },
   {
    "url": "fb.me/8hmN3IbSF",
    "leads": 1
@@ -36,28 +40,28 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2,
+  "Trabalhista": 3,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 246,
-  "turnos": 461,
-  "respondidos": 446,
-  "sem_resposta": 15,
-  "sem_resposta_grupos": 15,
-  "mediana_min": 31.3,
+  "grupos_ativos": 247,
+  "turnos": 464,
+  "respondidos": 450,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
+  "mediana_min": 31.2,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 180,
-    "mediana_min": 101
+    "respostas": 181,
+    "mediana_min": 102.2
    },
    {
     "nome": "Gabrielle",
-    "respostas": 70,
+    "respostas": 71,
     "mediana_min": 1.8
    },
    {
@@ -67,7 +71,7 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 33,
+    "respostas": 35,
     "mediana_min": 4.7
    },
    {
@@ -98,10 +102,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
+    "grupo": "M.D.S.D.T x DONNA MARIA SUPERMERCADOS LTDA",
     "dia": "23/09",
-    "desde": "10:11",
-    "ts": 1790169089815
+    "desde": "10:28",
+    "ts": 1790170117892
    },
    {
     "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
@@ -110,22 +114,16 @@
     "ts": 1790168190776
    },
    {
-    "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
-    "dia": "23/09",
-    "desde": "08:17",
-    "ts": 1790162260566
-   },
-   {
     "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
     "dia": "17/09",
     "desde": "09:52",
     "ts": 1789649544258
    },
    {
-    "grupo": "E.B.D.S x INSS",
+    "grupo": "K.F.D.S x NISSIN FOODS DO BRASIL LTDA",
     "dia": "22/09",
-    "desde": "16:06",
-    "ts": 1790103975897
+    "desde": "13:42",
+    "ts": 1790095323379
    },
    {
     "grupo": "Z.D.F.M.M.D.A.C",
@@ -297,22 +295,16 @@
     "ts": 1790091204998
    },
    {
+    "grupo": "K.F.D.S x NISSIN FOODS DO BRASIL LTDA",
+    "dia": "22/09",
+    "desde": "13:42",
+    "ts": 1790095323379
+   },
+   {
     "grupo": "Z.D.F.M.M.D.A.C",
     "dia": "22/09",
     "desde": "15:06",
     "ts": 1790100405000
-   },
-   {
-    "grupo": "E.B.D.S x INSS",
-    "dia": "22/09",
-    "desde": "16:06",
-    "ts": 1790103975897
-   },
-   {
-    "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
-    "dia": "23/09",
-    "desde": "08:17",
-    "ts": 1790162260566
    },
    {
     "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
@@ -321,10 +313,10 @@
     "ts": 1790168190776
    },
    {
-    "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
+    "grupo": "M.D.S.D.T x DONNA MARIA SUPERMERCADOS LTDA",
     "dia": "23/09",
-    "desde": "10:11",
-    "ts": 1790169089815
+    "desde": "10:28",
+    "ts": 1790170117892
    }
   ]
  },
@@ -403,21 +395,32 @@
   ]
  },
  "agora": {
-  "fila": 309,
-  "abertos": 477,
-  "com_atendimento": 7,
-  "online": 4,
-  "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 8410
+  "fila": 310,
+  "abertos": 476,
+  "com_atendimento": 6,
+  "online": 3,
+  "offline": 1,
+  "ausentes": 4,
+  "espera_media_s": 8382
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-21T12:07:31.786Z",
-  "min_sem_lead": 2949
+  "ultimo_lead_at": "2026-09-20T23:15:26.778Z",
+  "min_sem_lead": 3736
  },
  "leads": [
   {
-   "nome": "555499427701",
+   "nome": "PC",
+   "tel": "5521*****627",
+   "criado": "10:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "gemaguilherminanicoletto",
    "tel": "5554*****701",
    "criado": "09:47",
    "atendente": "FG Advogados - Isadora ",
