@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/09/2026, 14:36",
+ "gerado_em": "23/09/2026, 14:51",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -71,7 +71,7 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 256,
+  "grupos_ativos": 257,
   "turnos": 503,
   "respondidos": 489,
   "sem_resposta": 14,
@@ -271,14 +271,14 @@
     "ts": 1790180631177
    },
    {
-    "nome": "5521989449836",
+    "nome": "Bete Nunes",
     "tel": "5521*****836",
     "dia": "23/09",
     "desde": "13:45",
     "ts": 1790181904651
    },
    {
-    "nome": "5521991781102",
+    "nome": "jp",
     "tel": "5521*****102",
     "dia": "23/09",
     "desde": "13:47",
@@ -456,12 +456,23 @@
   "espera_media_s": 8667
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-18T17:57:05.424Z",
-  "min_sem_lead": 7179
+  "ultimo_lead_at": "2026-09-23T16:23:51.177Z",
+  "min_sem_lead": 88
  },
  "leads": [
   {
-   "nome": "5521989449836",
+   "nome": "Francisco carlos M Neto",
+   "tel": "5594*****199",
+   "criado": "13:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Bete Nunes",
    "tel": "5521*****836",
    "criado": "13:45",
    "atendente": "FG Advogados - Isadora ",
@@ -472,7 +483,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5521991781102",
+   "nome": "jp",
    "tel": "5521*****102",
    "criado": "13:47",
    "atendente": "FG Advogados - Isadora ",
@@ -491,17 +502,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Francisco carlos M Neto",
-   "tel": "5594*****199",
-   "criado": "13:23",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/505ajP5YC",
    "area": "Trabalhista"
   },
   {
