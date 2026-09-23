@@ -1,31 +1,35 @@
 {
- "gerado_em": "23/09/2026, 18:56",
+ "gerado_em": "23/09/2026, 19:11",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
+  "total": 20,
   "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 1,
+  "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 190,
-  "tickets_abertos": 489,
+  "leads_7d": 192,
+  "tickets_abertos": 491,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 17,
+   "leads": 19,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 16,
   "Direto/Indicacao": 4
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 3
+  },
   {
    "url": "fb.me/505ajP5YC",
    "leads": 2
@@ -35,8 +39,8 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
-   "leads": 2
+   "url": "fb.me/6lIu0yPSl",
+   "leads": 1
   },
   {
    "url": "fb.me/875plPmzH",
@@ -53,16 +57,12 @@
   {
    "url": "fb.me/91elw2A2a",
    "leads": 1
-  },
-  {
-   "url": "fb.me/6I200ydMo",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 13,
-  "Previdenciario": 1,
-  "Nao identificada": 4
+  "Nao identificada": 5,
+  "Trabalhista": 14,
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [
   {
@@ -76,11 +76,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 265,
-  "turnos": 552,
-  "respondidos": 533,
+  "turnos": 553,
+  "respondidos": 534,
   "sem_resposta": 19,
   "sem_resposta_grupos": 19,
-  "mediana_min": 37.4,
+  "mediana_min": 36.9,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -104,8 +104,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 32,
-    "mediana_min": 1256.7
+    "respostas": 33,
+    "mediana_min": 1206.6
    },
    {
     "nome": "Tiago Bernardo",
@@ -508,19 +508,41 @@
   ]
  },
  "agora": {
-  "fila": 312,
-  "abertos": 489,
+  "fila": 314,
+  "abertos": 491,
   "com_atendimento": 6,
   "online": 3,
   "offline": 4,
   "ausentes": 1,
-  "espera_media_s": 8525
+  "espera_media_s": 8470
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-06T20:40:08.756Z",
-  "min_sem_lead": 24556
+  "ultimo_lead_at": "2026-09-23T22:10:40.979Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "5521995166277",
+   "tel": "5521*****277",
+   "criado": "19:10",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553196901005",
+   "tel": "5531*****005",
+   "criado": "19:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6lIu0yPSl",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Hélio",
    "tel": "5511*****689",
