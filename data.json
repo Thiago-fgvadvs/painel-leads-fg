@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/09/2026, 10:01",
+ "gerado_em": "23/09/2026, 10:16",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 175,
-  "tickets_abertos": 476,
+  "tickets_abertos": 477,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -44,21 +44,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 246,
-  "turnos": 453,
-  "respondidos": 437,
-  "sem_resposta": 16,
-  "sem_resposta_grupos": 16,
-  "mediana_min": 31.2,
+  "turnos": 461,
+  "respondidos": 446,
+  "sem_resposta": 15,
+  "sem_resposta_grupos": 15,
+  "mediana_min": 31.3,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 176,
-    "mediana_min": 96.6
+    "respostas": 180,
+    "mediana_min": 101
    },
    {
     "nome": "Gabrielle",
-    "respostas": 68,
-    "mediana_min": 1.5
+    "respostas": 70,
+    "mediana_min": 1.8
    },
    {
     "nome": "Eduardo",
@@ -66,14 +66,14 @@
     "mediana_min": 3.6
    },
    {
+    "nome": "Luisa",
+    "respostas": 33,
+    "mediana_min": 4.7
+   },
+   {
     "nome": "FG Advogados - Isadora ",
     "respostas": 31,
     "mediana_min": 1206.6
-   },
-   {
-    "nome": "Luisa",
-    "respostas": 31,
-    "mediana_min": 4.7
    },
    {
     "nome": "Tiago Bernardo",
@@ -81,14 +81,14 @@
     "mediana_min": 1.5
    },
    {
+    "nome": "Julia",
+    "respostas": 15,
+    "mediana_min": 72
+   },
+   {
     "nome": "—",
     "respostas": 15,
     "mediana_min": 35.2
-   },
-   {
-    "nome": "Julia",
-    "respostas": 14,
-    "mediana_min": 54.8
    },
    {
     "nome": "Roseli",
@@ -100,20 +100,14 @@
    {
     "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
     "dia": "23/09",
-    "desde": "09:57",
-    "ts": 1790168234781
+    "desde": "10:11",
+    "ts": 1790169089815
    },
    {
     "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
     "dia": "23/09",
     "desde": "09:56",
     "ts": 1790168190776
-   },
-   {
-    "grupo": "B.B.A.L x PARTNER BPO LTDA",
-    "dia": "23/09",
-    "desde": "09:43",
-    "ts": 1790167429729
    },
    {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
@@ -128,10 +122,10 @@
     "ts": 1789649544258
    },
    {
-    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
+    "grupo": "E.B.D.S x INSS",
     "dia": "22/09",
-    "desde": "17:58",
-    "ts": 1790110706258
+    "desde": "16:06",
+    "ts": 1790103975897
    },
    {
     "grupo": "Z.D.F.M.M.D.A.C",
@@ -309,22 +303,16 @@
     "ts": 1790100405000
    },
    {
-    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
+    "grupo": "E.B.D.S x INSS",
     "dia": "22/09",
-    "desde": "17:58",
-    "ts": 1790110706258
+    "desde": "16:06",
+    "ts": 1790103975897
    },
    {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
     "dia": "23/09",
     "desde": "08:17",
     "ts": 1790162260566
-   },
-   {
-    "grupo": "B.B.A.L x PARTNER BPO LTDA",
-    "dia": "23/09",
-    "desde": "09:43",
-    "ts": 1790167429729
    },
    {
     "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
@@ -335,8 +323,8 @@
    {
     "grupo": "P.D.R x PHILOZON - INDUSTRIA E COMERCIO DE GERADORES DE OZONIO LTDA",
     "dia": "23/09",
-    "desde": "09:57",
-    "ts": 1790168234781
+    "desde": "10:11",
+    "ts": 1790169089815
    }
   ]
  },
@@ -416,16 +404,16 @@
  },
  "agora": {
   "fila": 309,
-  "abertos": 476,
+  "abertos": 477,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 4,
   "offline": 2,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 8410
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-29T23:17:11.105Z",
-  "min_sem_lead": 35384
+  "ultimo_lead_at": "2026-09-21T12:07:31.786Z",
+  "min_sem_lead": 2949
  },
  "leads": [
   {
