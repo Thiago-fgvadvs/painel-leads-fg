@@ -1,34 +1,38 @@
 {
- "gerado_em": "23/09/2026, 16:08",
+ "gerado_em": "23/09/2026, 16:23",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
-  "no_sla": 11,
+  "total": 14,
+  "no_sla": 12,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 185,
-  "tickets_abertos": 486,
+  "leads_7d": 186,
+  "tickets_abertos": 487,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 12,
+   "leads": 13,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "fb.me/505ajP5YC",
    "leads": 2
+  },
+  {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 1
   },
   {
    "url": "fb.me/91elw2A2a",
@@ -53,14 +57,10 @@
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/8hmN3IbSF",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 10,
   "Previdenciario": 1,
   "Nao identificada": 3
  },
@@ -75,17 +75,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 260,
-  "turnos": 510,
-  "respondidos": 495,
-  "sem_resposta": 15,
-  "sem_resposta_grupos": 15,
-  "mediana_min": 36.2,
+  "grupos_ativos": 261,
+  "turnos": 512,
+  "respondidos": 496,
+  "sem_resposta": 16,
+  "sem_resposta_grupos": 16,
+  "mediana_min": 35.7,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 215,
-    "mediana_min": 99.3
+    "respostas": 216,
+    "mediana_min": 96.6
    },
    {
     "nome": "Gabrielle",
@@ -130,22 +130,28 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "grupo": "T.M.M x BANCO BRADESCO S.A",
     "dia": "23/09",
-    "desde": "16:06",
-    "ts": 1790190418653
+    "desde": "16:21",
+    "ts": 1790191299707
    },
    {
-    "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
+    "grupo": "F.G x ITAU UNIBANCO",
     "dia": "23/09",
-    "desde": "15:57",
-    "ts": 1790189855611
+    "desde": "16:12",
+    "ts": 1790190747668
    },
    {
     "grupo": "G.L.M x SAO JOAO TRANSPORTES E ENCOMENDAS LTDA EM RECUPERACAO JUDICIAL",
     "dia": "23/09",
     "desde": "15:57",
     "ts": 1790189858612
+   },
+   {
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "dia": "23/09",
+    "desde": "16:06",
+    "ts": 1790190418653
    },
    {
     "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
@@ -272,41 +278,6 @@
     "dia": "23/09",
     "desde": "11:17",
     "ts": 1790173031070
-   },
-   {
-    "nome": "Francisco carlos M Neto",
-    "tel": "5594*****199",
-    "dia": "23/09",
-    "desde": "13:23",
-    "ts": 1790180631177
-   },
-   {
-    "nome": "Bete Nunes",
-    "tel": "5521*****836",
-    "dia": "23/09",
-    "desde": "13:45",
-    "ts": 1790181904651
-   },
-   {
-    "nome": "jp",
-    "tel": "5521*****102",
-    "dia": "23/09",
-    "desde": "13:47",
-    "ts": 1790182025456
-   },
-   {
-    "nome": "01/04/24 KarenBeira teamo",
-    "tel": "5511*****345",
-    "dia": "23/09",
-    "desde": "14:58",
-    "ts": 1790186299878
-   },
-   {
-    "nome": "claro",
-    "tel": "5544*****751",
-    "dia": "23/09",
-    "desde": "15:33",
-    "ts": 1790188432993
    }
   ],
   "grupos": [
@@ -383,12 +354,6 @@
     "ts": 1790177084179
    },
    {
-    "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
-    "dia": "23/09",
-    "desde": "15:57",
-    "ts": 1790189855611
-   },
-   {
     "grupo": "G.L.M x SAO JOAO TRANSPORTES E ENCOMENDAS LTDA EM RECUPERACAO JUDICIAL",
     "dia": "23/09",
     "desde": "15:57",
@@ -399,6 +364,18 @@
     "dia": "23/09",
     "desde": "16:06",
     "ts": 1790190418653
+   },
+   {
+    "grupo": "F.G x ITAU UNIBANCO",
+    "dia": "23/09",
+    "desde": "16:12",
+    "ts": 1790190747668
+   },
+   {
+    "grupo": "T.M.M x BANCO BRADESCO S.A",
+    "dia": "23/09",
+    "desde": "16:21",
+    "ts": 1790191299707
    }
   ]
  },
@@ -477,19 +454,30 @@
   ]
  },
  "agora": {
-  "fila": 312,
-  "abertos": 486,
+  "fila": 313,
+  "abertos": 487,
   "com_atendimento": 6,
-  "online": 6,
+  "online": 4,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 8610
+  "ausentes": 3,
+  "espera_media_s": 8582
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-29T19:41:02.213Z",
-  "min_sem_lead": 80607
+  "ultimo_lead_at": "2026-09-23T19:08:30.665Z",
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "Maria",
+   "tel": "5548*****042",
+   "criado": "16:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
   {
    "nome": "claro",
    "tel": "5544*****751",
