@@ -1,28 +1,28 @@
 {
- "gerado_em": "23/09/2026, 15:22",
+ "gerado_em": "23/09/2026, 15:37",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 10,
+  "total": 13,
+  "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 184,
-  "tickets_abertos": 484,
+  "leads_7d": 185,
+  "tickets_abertos": 486,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
+   "leads": 12,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -31,11 +31,15 @@
    "leads": 2
   },
   {
-   "url": "fb.me/6I200ydMo",
+   "url": "fb.me/91elw2A2a",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmW5hLM3NO/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/6I200ydMo",
    "leads": 1
   },
   {
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/8hmN3IbSF",
    "leads": 1
-  },
-  {
-   "url": "fb.me/k6QGj5ebc",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 8,
+  "Trabalhista": 9,
   "Previdenciario": 1,
   "Nao identificada": 3
  },
@@ -75,9 +75,9 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 258,
-  "turnos": 504,
-  "respondidos": 489,
+  "grupos_ativos": 259,
+  "turnos": 506,
+  "respondidos": 491,
   "sem_resposta": 15,
   "sem_resposta_grupos": 15,
   "mediana_min": 36.2,
@@ -94,13 +94,13 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 69,
-    "mediana_min": 3.8
+    "respostas": 70,
+    "mediana_min": 4.2
    },
    {
     "nome": "Luisa",
-    "respostas": 36,
-    "mediana_min": 4.8
+    "respostas": 37,
+    "mediana_min": 4.9
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -130,10 +130,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "grupo": "G.L.M x SAO JOAO TRANSPORTES E ENCOMENDAS LTDA EM RECUPERACAO JUDICIAL",
     "dia": "23/09",
-    "desde": "14:53",
-    "ts": 1790186020514
+    "desde": "15:30",
+    "ts": 1790188206555
    },
    {
     "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
@@ -300,6 +300,13 @@
     "dia": "23/09",
     "desde": "14:58",
     "ts": 1790186299878
+   },
+   {
+    "nome": "claro",
+    "tel": "5544*****751",
+    "dia": "23/09",
+    "desde": "15:33",
+    "ts": 1790188432993
    }
   ],
   "grupos": [
@@ -388,10 +395,10 @@
     "ts": 1790184235475
    },
    {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "grupo": "G.L.M x SAO JOAO TRANSPORTES E ENCOMENDAS LTDA EM RECUPERACAO JUDICIAL",
     "dia": "23/09",
-    "desde": "14:53",
-    "ts": 1790186020514
+    "desde": "15:30",
+    "ts": 1790188206555
    }
   ]
  },
@@ -470,19 +477,41 @@
   ]
  },
  "agora": {
-  "fila": 311,
-  "abertos": 484,
+  "fila": 312,
+  "abertos": 486,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 4,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 8638
+  "ausentes": 3,
+  "espera_media_s": 8610
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 744663
+  "ultimo_lead_at": "2026-08-28T01:13:24.770Z",
+  "min_sem_lead": 38484
  },
  "leads": [
+  {
+   "nome": "claro",
+   "tel": "5544*****751",
+   "criado": "15:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Bete Nunes",
+   "tel": "5521*****836",
+   "criado": "13:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "01/04/24 KarenBeira teamo",
    "tel": "5511*****345",
@@ -503,17 +532,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/505ajP5YC",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Bete Nunes",
-   "tel": "5521*****836",
-   "criado": "13:45",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
    "area": "Trabalhista"
   },
   {
