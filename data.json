@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/09/2026, 09:30",
+ "gerado_em": "23/09/2026, 09:46",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 174,
-  "tickets_abertos": 479,
+  "tickets_abertos": 480,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -39,17 +39,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 245,
-  "turnos": 437,
-  "respondidos": 421,
-  "sem_resposta": 16,
-  "sem_resposta_grupos": 16,
-  "mediana_min": 28.2,
+  "grupos_ativos": 246,
+  "turnos": 447,
+  "respondidos": 428,
+  "sem_resposta": 19,
+  "sem_resposta_grupos": 19,
+  "mediana_min": 30.8,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 163,
-    "mediana_min": 74.9
+    "respostas": 169,
+    "mediana_min": 86
    },
    {
     "nome": "Gabrielle",
@@ -68,8 +68,8 @@
    },
    {
     "nome": "Luisa",
-    "respostas": 30,
-    "mediana_min": 4.8
+    "respostas": 31,
+    "mediana_min": 4.7
    },
    {
     "nome": "Tiago Bernardo",
@@ -93,6 +93,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "B.F.D.L x EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
+    "dia": "23/09",
+    "desde": "09:44",
+    "ts": 1790167447730
+   },
+   {
+    "grupo": "B.B.A.L x PARTNER BPO LTDA",
+    "dia": "23/09",
+    "desde": "09:43",
+    "ts": 1790167429729
+   },
    {
     "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
     "dia": "23/09",
@@ -122,6 +134,12 @@
     "dia": "22/09",
     "desde": "14:14",
     "ts": 1790097280510
+   },
+   {
+    "grupo": "K.C.A x SANTA HELENA ASSISTÊNCIA MEDICA S/A",
+    "dia": "22/09",
+    "desde": "13:50",
+    "ts": 1790095820401
    },
    {
     "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
@@ -311,6 +329,12 @@
     "ts": 1790091204998
    },
    {
+    "grupo": "K.C.A x SANTA HELENA ASSISTÊNCIA MEDICA S/A",
+    "dia": "22/09",
+    "desde": "13:50",
+    "ts": 1790095820401
+   },
+   {
     "grupo": "A.L.P.F x MANSERV MONTAGEM E MANUTENÇÃO S/A",
     "dia": "22/09",
     "desde": "14:14",
@@ -333,6 +357,18 @@
     "dia": "23/09",
     "desde": "08:17",
     "ts": 1790162260566
+   },
+   {
+    "grupo": "B.B.A.L x PARTNER BPO LTDA",
+    "dia": "23/09",
+    "desde": "09:43",
+    "ts": 1790167429729
+   },
+   {
+    "grupo": "B.F.D.L x EMPRESA BRASILEIRA DE DISTRIBUICAO LTDA",
+    "dia": "23/09",
+    "desde": "09:44",
+    "ts": 1790167447730
    }
   ]
  },
@@ -411,17 +447,17 @@
   ]
  },
  "agora": {
-  "fila": 308,
-  "abertos": 479,
+  "fila": 309,
+  "abertos": 480,
   "com_atendimento": 7,
-  "online": 2,
+  "online": 3,
   "offline": 4,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 8439
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-21T00:04:32.101Z",
-  "min_sem_lead": 3626
+  "min_sem_lead": 3642
  },
  "leads": [
   {
