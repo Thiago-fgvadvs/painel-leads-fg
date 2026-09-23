@@ -1,37 +1,37 @@
 {
- "gerado_em": "23/09/2026, 13:20",
+ "gerado_em": "23/09/2026, 13:35",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 6,
+  "total": 9,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 180,
-  "tickets_abertos": 478,
+  "leads_7d": 181,
+  "tickets_abertos": 480,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
+   "leads": 8,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 1
+   "url": "fb.me/505ajP5YC",
+   "leads": 2
   },
   {
-   "url": "fb.me/505ajP5YC",
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 1
   },
   {
@@ -48,8 +48,8 @@
   }
  ],
  "areas": {
+  "Trabalhista": 5,
   "Previdenciario": 1,
-  "Trabalhista": 4,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [
@@ -64,16 +64,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 252,
-  "turnos": 496,
-  "respondidos": 481,
+  "turnos": 501,
+  "respondidos": 486,
   "sem_resposta": 15,
   "sem_resposta_grupos": 15,
-  "mediana_min": 36.2,
+  "mediana_min": 36.3,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 208,
-    "mediana_min": 108.3
+    "respostas": 212,
+    "mediana_min": 101
    },
    {
     "nome": "Gabrielle",
@@ -82,8 +82,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 66,
-    "mediana_min": 3.7
+    "respostas": 67,
+    "mediana_min": 3.6
    },
    {
     "nome": "Luisa",
@@ -118,6 +118,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "dia": "23/09",
+    "desde": "13:21",
+    "ts": 1790180480318
+   },
+   {
+    "grupo": "E.M.M.R x GRUPO CASAS BAHIA S.A.",
+    "dia": "23/09",
+    "desde": "12:24",
+    "ts": 1790177084179
+   },
+   {
     "grupo": "L.B.D.S.N x TELLUS INFORMATICA E TELECOMUNICAÇÕES LTDA",
     "dia": "23/09",
     "desde": "13:09",
@@ -128,18 +140,6 @@
     "dia": "18/09",
     "desde": "18:37",
     "ts": 1789767441244
-   },
-   {
-    "grupo": "E.M.M.R x GRUPO CASAS BAHIA S.A.",
-    "dia": "23/09",
-    "desde": "12:24",
-    "ts": 1790177084179
-   },
-   {
-    "grupo": "P.D.P.G x STERILENO COMERCIO E SERVICOS LTDA",
-    "dia": "23/09",
-    "desde": "12:20",
-    "ts": 1790176815174
    },
    {
     "grupo": "J.D.S.G x PASQUALOTTO LUMEN CONSTRUTORA E INCORPORADORA LTDA",
@@ -255,13 +255,6 @@
     "ts": 1789917612661
    },
    {
-    "nome": "PC",
-    "tel": "5521*****627",
-    "dia": "23/09",
-    "desde": "10:20",
-    "ts": 1790169645470
-   },
-   {
     "nome": "554991965971",
     "tel": "5549*****971",
     "dia": "23/09",
@@ -288,6 +281,13 @@
     "dia": "23/09",
     "desde": "12:42",
     "ts": 1790178142025
+   },
+   {
+    "nome": "Francisco carlos M Neto",
+    "tel": "5594*****199",
+    "dia": "23/09",
+    "desde": "13:23",
+    "ts": 1790180631177
    }
   ],
   "grupos": [
@@ -364,12 +364,6 @@
     "ts": 1790170591905
    },
    {
-    "grupo": "P.D.P.G x STERILENO COMERCIO E SERVICOS LTDA",
-    "dia": "23/09",
-    "desde": "12:20",
-    "ts": 1790176815174
-   },
-   {
     "grupo": "E.M.M.R x GRUPO CASAS BAHIA S.A.",
     "dia": "23/09",
     "desde": "12:24",
@@ -380,6 +374,12 @@
     "dia": "23/09",
     "desde": "13:09",
     "ts": 1790179741286
+   },
+   {
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "dia": "23/09",
+    "desde": "13:21",
+    "ts": 1790180480318
    }
   ]
  },
@@ -458,30 +458,19 @@
   ]
  },
  "agora": {
-  "fila": 307,
-  "abertos": 478,
+  "fila": 306,
+  "abertos": 480,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 4,
-  "espera_media_s": 8831
+  "ausentes": 5,
+  "espera_media_s": 8784
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-23T13:20:45.470Z",
-  "min_sem_lead": 179
+  "ultimo_lead_at": "2026-09-23T14:54:10.630Z",
+  "min_sem_lead": 101
  },
  "leads": [
-  {
-   "nome": "PC",
-   "tel": "5521*****627",
-   "criado": "10:20",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Previdenciario"
-  },
   {
    "nome": "🩷🩷",
    "tel": "5527*****537",
@@ -494,15 +483,26 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Ayende Rafael Fernández",
-   "tel": "5554*****956",
-   "criado": "12:42",
+   "nome": "Francisco carlos M Neto",
+   "tel": "5594*****199",
+   "criado": "13:23",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
+   "espera_min": 0.7,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/505ajP5YC",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "PC",
+   "tel": "5521*****627",
+   "criado": "10:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Previdenciario"
   },
   {
    "nome": "Reeh",
@@ -514,6 +514,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Ayende Rafael Fernández",
+   "tel": "5554*****956",
+   "criado": "12:42",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
   },
   {
    "nome": "554991965971",
