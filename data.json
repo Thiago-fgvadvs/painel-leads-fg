@@ -1,29 +1,29 @@
 {
- "gerado_em": "23/09/2026, 11:48",
+ "gerado_em": "23/09/2026, 12:03",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 3,
+  "total": 6,
+  "no_sla": 4,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 177,
-  "tickets_abertos": 472,
+  "leads_7d": 178,
+  "tickets_abertos": 473,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 3,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -40,25 +40,32 @@
   }
  ],
  "areas": {
+  "Trabalhista": 3,
   "Previdenciario": 1,
-  "Trabalhista": 2,
   "Nao identificada": 2
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "554991965971",
+   "tel": "5549*****971",
+   "criado": "11:17",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 251,
-  "turnos": 471,
-  "respondidos": 459,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 31.3,
+  "turnos": 479,
+  "respondidos": 468,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 32.5,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 186,
-    "mediana_min": 112.5
+    "respostas": 195,
+    "mediana_min": 126.3
    },
    {
     "nome": "Gabrielle",
@@ -86,14 +93,14 @@
     "mediana_min": 1.5
    },
    {
-    "nome": "—",
-    "respostas": 15,
-    "mediana_min": 35.2
-   },
-   {
     "nome": "Julia",
     "respostas": 15,
     "mediana_min": 72
+   },
+   {
+    "nome": "—",
+    "respostas": 15,
+    "mediana_min": 35.2
    },
    {
     "nome": "Roseli",
@@ -107,12 +114,6 @@
     "dia": "23/09",
     "desde": "10:36",
     "ts": 1790170591905
-   },
-   {
-    "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
-    "dia": "23/09",
-    "desde": "09:56",
-    "ts": 1790168190776
    },
    {
     "grupo": "Z.D.F.M.M.D.A.C",
@@ -227,6 +228,20 @@
     "dia": "23/09",
     "desde": "10:20",
     "ts": 1790169645470
+   },
+   {
+    "nome": "554991965971",
+    "tel": "5549*****971",
+    "dia": "23/09",
+    "desde": "11:17",
+    "ts": 1790173031070
+   },
+   {
+    "nome": "🩷🩷",
+    "tel": "5527*****537",
+    "dia": "23/09",
+    "desde": "11:54",
+    "ts": 1790175250630
    }
   ],
   "grupos": [
@@ -289,12 +304,6 @@
     "dia": "22/09",
     "desde": "15:06",
     "ts": 1790100405000
-   },
-   {
-    "grupo": "R.A x CONSTRUTORA RAMON AGUILERA",
-    "dia": "23/09",
-    "desde": "09:56",
-    "ts": 1790168190776
    },
    {
     "grupo": "J.D.S.G x PASQUALOTTO LUMEN CONSTRUTORA E INCORPORADORA LTDA",
@@ -379,19 +388,30 @@
   ]
  },
  "agora": {
-  "fila": 308,
-  "abertos": 472,
+  "fila": 309,
+  "abertos": 473,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 2,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 8382
+  "ausentes": 5,
+  "espera_media_s": 8353
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-21T12:07:31.786Z",
-  "min_sem_lead": 3041
+  "ultimo_lead_at": "2026-09-19T09:47:08.364Z",
+  "min_sem_lead": 6077
  },
  "leads": [
+  {
+   "nome": "🩷🩷",
+   "tel": "5527*****537",
+   "criado": "11:54",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "PC",
    "tel": "5521*****627",
@@ -402,6 +422,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "554991965971",
+   "tel": "5549*****971",
+   "criado": "11:17",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "gemaguilherminanicoletto",
@@ -435,17 +466,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/k6QGj5ebc",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "554991965971",
-   "tel": "5549*****971",
-   "criado": "11:17",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   }
  ]
 }
