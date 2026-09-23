@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/09/2026, 18:10",
+ "gerado_em": "23/09/2026, 18:26",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 190,
-  "tickets_abertos": 495,
+  "tickets_abertos": 492,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -76,10 +76,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 265,
-  "turnos": 551,
+  "turnos": 552,
   "respondidos": 531,
-  "sem_resposta": 20,
-  "sem_resposta_grupos": 20,
+  "sem_resposta": 21,
+  "sem_resposta_grupos": 21,
   "mediana_min": 36.4,
   "atendentes": [
    {
@@ -129,6 +129,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.F.G",
+    "dia": "23/09",
+    "desde": "18:18",
+    "ts": 1790198321081
+   },
    {
     "grupo": "P.C x SHOPEE",
     "dia": "23/09",
@@ -424,6 +430,12 @@
     "dia": "23/09",
     "desde": "17:49",
     "ts": 1790196575056
+   },
+   {
+    "grupo": "A.F.G",
+    "dia": "23/09",
+    "desde": "18:18",
+    "ts": 1790198321081
    }
   ]
  },
@@ -520,17 +532,17 @@
   ]
  },
  "agora": {
-  "fila": 313,
-  "abertos": 495,
+  "fila": 312,
+  "abertos": 492,
   "com_atendimento": 6,
   "online": 3,
   "offline": 2,
   "ausentes": 3,
-  "espera_media_s": 8470
+  "espera_media_s": 8498
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-15T12:54:41.140Z",
-  "min_sem_lead": 12016
+  "min_sem_lead": 12031
  },
  "leads": [
   {
