@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/09/2026, 17:09",
+ "gerado_em": "23/09/2026, 17:24",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 189,
-  "tickets_abertos": 493,
+  "tickets_abertos": 494,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -75,22 +75,22 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 262,
-  "turnos": 528,
-  "respondidos": 510,
-  "sem_resposta": 18,
-  "sem_resposta_grupos": 18,
+  "grupos_ativos": 265,
+  "turnos": 537,
+  "respondidos": 518,
+  "sem_resposta": 19,
+  "sem_resposta_grupos": 19,
   "mediana_min": 36.3,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 224,
-    "mediana_min": 96.6
+    "respostas": 228,
+    "mediana_min": 101
    },
    {
     "nome": "Eduardo",
-    "respostas": 72,
-    "mediana_min": 4.7
+    "respostas": 75,
+    "mediana_min": 3.9
    },
    {
     "nome": "Gabrielle",
@@ -114,8 +114,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 17,
-    "mediana_min": 20.1
+    "respostas": 18,
+    "mediana_min": 15.4
    },
    {
     "nome": "—",
@@ -129,6 +129,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.D.S.L x CLS GARCIA CONSTRUCOES LTDA",
+    "dia": "23/09",
+    "desde": "17:17",
+    "ts": 1790194628926
+   },
    {
     "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
     "dia": "23/09",
@@ -160,10 +166,10 @@
     "ts": 1790189858612
    },
    {
-    "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
+    "grupo": "T.N.B x SORFRIO IND. E COM. DE PRODUTOS ALIMENTÍCIOS LTDA",
     "dia": "23/09",
-    "desde": "13:56",
-    "ts": 1790182619437
+    "desde": "13:47",
+    "ts": 1790182063430
    },
    {
     "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
@@ -366,10 +372,10 @@
     "ts": 1790177084179
    },
    {
-    "grupo": "E.S x MAXPAR ASSISTENCIA 24H LTDA",
+    "grupo": "T.N.B x SORFRIO IND. E COM. DE PRODUTOS ALIMENTÍCIOS LTDA",
     "dia": "23/09",
-    "desde": "13:56",
-    "ts": 1790182619437
+    "desde": "13:47",
+    "ts": 1790182063430
    },
    {
     "grupo": "G.L.M x SAO JOAO TRANSPORTES E ENCOMENDAS LTDA EM RECUPERACAO JUDICIAL",
@@ -400,6 +406,12 @@
     "dia": "23/09",
     "desde": "16:48",
     "ts": 1790192938754
+   },
+   {
+    "grupo": "J.D.S.L x CLS GARCIA CONSTRUCOES LTDA",
+    "dia": "23/09",
+    "desde": "17:17",
+    "ts": 1790194628926
    }
   ]
  },
@@ -496,8 +508,8 @@
   ]
  },
  "agora": {
-  "fila": 312,
-  "abertos": 493,
+  "fila": 313,
+  "abertos": 494,
   "com_atendimento": 6,
   "online": 5,
   "offline": 1,
@@ -506,7 +518,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-23T16:23:51.177Z",
-  "min_sem_lead": 226
+  "min_sem_lead": 241
  },
  "leads": [
   {
