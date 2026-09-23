@@ -1,34 +1,38 @@
 {
- "gerado_em": "23/09/2026, 14:51",
+ "gerado_em": "23/09/2026, 15:07",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 9,
+  "total": 12,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 183,
-  "tickets_abertos": 483,
+  "leads_7d": 184,
+  "tickets_abertos": 484,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 9,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "fb.me/505ajP5YC",
    "leads": 2
+  },
+  {
+   "url": "fb.me/6I200ydMo",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmW5hLM3NO/",
@@ -56,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 8,
   "Previdenciario": 1,
   "Nao identificada": 3
  },
@@ -71,11 +75,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 257,
-  "turnos": 503,
+  "grupos_ativos": 258,
+  "turnos": 504,
   "respondidos": 489,
-  "sem_resposta": 14,
-  "sem_resposta_grupos": 14,
+  "sem_resposta": 15,
+  "sem_resposta_grupos": 15,
   "mediana_min": 36.2,
   "atendentes": [
    {
@@ -125,6 +129,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "dia": "23/09",
+    "desde": "14:53",
+    "ts": 1790186020514
+   },
    {
     "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
     "dia": "23/09",
@@ -283,6 +293,13 @@
     "dia": "23/09",
     "desde": "13:47",
     "ts": 1790182025456
+   },
+   {
+    "nome": "5511976446345",
+    "tel": "5511*****345",
+    "dia": "23/09",
+    "desde": "14:58",
+    "ts": 1790186299878
    }
   ],
   "grupos": [
@@ -369,6 +386,12 @@
     "dia": "23/09",
     "desde": "14:23",
     "ts": 1790184235475
+   },
+   {
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "dia": "23/09",
+    "desde": "14:53",
+    "ts": 1790186020514
    }
   ]
  },
@@ -447,19 +470,30 @@
   ]
  },
  "agora": {
-  "fila": 310,
-  "abertos": 483,
+  "fila": 311,
+  "abertos": 484,
   "com_atendimento": 6,
   "online": 2,
   "offline": 1,
   "ausentes": 5,
-  "espera_media_s": 8667
+  "espera_media_s": 8638
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-23T16:23:51.177Z",
-  "min_sem_lead": 88
+  "ultimo_lead_at": "2026-08-28T12:00:57.812Z",
+  "min_sem_lead": 37806
  },
  "leads": [
+  {
+   "nome": "5511976446345",
+   "tel": "5511*****345",
+   "criado": "14:58",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6I200ydMo",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Francisco carlos M Neto",
    "tel": "5594*****199",
