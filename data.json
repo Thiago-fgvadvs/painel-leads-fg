@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/09/2026, 15:53",
+ "gerado_em": "23/09/2026, 16:08",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -75,17 +75,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 259,
-  "turnos": 506,
-  "respondidos": 492,
-  "sem_resposta": 14,
-  "sem_resposta_grupos": 14,
-  "mediana_min": 35.7,
+  "grupos_ativos": 260,
+  "turnos": 510,
+  "respondidos": 495,
+  "sem_resposta": 15,
+  "sem_resposta_grupos": 15,
+  "mediana_min": 36.2,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 213,
-    "mediana_min": 99.8
+    "respostas": 215,
+    "mediana_min": 99.3
    },
    {
     "nome": "Gabrielle",
@@ -113,6 +113,11 @@
     "mediana_min": 1.5
    },
    {
+    "nome": "Roseli",
+    "respostas": 15,
+    "mediana_min": 20.8
+   },
+   {
     "nome": "Julia",
     "respostas": 15,
     "mediana_min": 72
@@ -121,19 +126,26 @@
     "nome": "—",
     "respostas": 15,
     "mediana_min": 35.2
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 14,
-    "mediana_min": 20.5
    }
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "dia": "23/09",
+    "desde": "16:06",
+    "ts": 1790190418653
+   },
+   {
     "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
     "dia": "23/09",
-    "desde": "14:23",
-    "ts": 1790184235475
+    "desde": "15:57",
+    "ts": 1790189855611
+   },
+   {
+    "grupo": "G.L.M x SAO JOAO TRANSPORTES E ENCOMENDAS LTDA EM RECUPERACAO JUDICIAL",
+    "dia": "23/09",
+    "desde": "15:57",
+    "ts": 1790189858612
    },
    {
     "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
@@ -152,12 +164,6 @@
     "dia": "23/09",
     "desde": "10:36",
     "ts": 1790170591905
-   },
-   {
-    "grupo": "P.C x SHOPEE",
-    "dia": "23/09",
-    "desde": "09:57",
-    "ts": 1790168260784
    },
    {
     "grupo": "Z.D.F.M.M.D.A.C",
@@ -365,12 +371,6 @@
     "ts": 1790100405000
    },
    {
-    "grupo": "P.C x SHOPEE",
-    "dia": "23/09",
-    "desde": "09:57",
-    "ts": 1790168260784
-   },
-   {
     "grupo": "J.D.S.G x PASQUALOTTO LUMEN CONSTRUTORA E INCORPORADORA LTDA",
     "dia": "23/09",
     "desde": "10:36",
@@ -385,8 +385,20 @@
    {
     "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
     "dia": "23/09",
-    "desde": "14:23",
-    "ts": 1790184235475
+    "desde": "15:57",
+    "ts": 1790189855611
+   },
+   {
+    "grupo": "G.L.M x SAO JOAO TRANSPORTES E ENCOMENDAS LTDA EM RECUPERACAO JUDICIAL",
+    "dia": "23/09",
+    "desde": "15:57",
+    "ts": 1790189858612
+   },
+   {
+    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
+    "dia": "23/09",
+    "desde": "16:06",
+    "ts": 1790190418653
    }
   ]
  },
@@ -474,8 +486,8 @@
   "espera_media_s": 8610
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-21T12:07:31.786Z",
-  "min_sem_lead": 3285
+  "ultimo_lead_at": "2026-07-29T19:41:02.213Z",
+  "min_sem_lead": 80607
  },
  "leads": [
   {
