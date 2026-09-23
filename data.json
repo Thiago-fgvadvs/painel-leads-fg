@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/09/2026, 14:21",
+ "gerado_em": "23/09/2026, 14:36",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -71,11 +71,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 255,
-  "turnos": 502,
+  "grupos_ativos": 256,
+  "turnos": 503,
   "respondidos": 489,
-  "sem_resposta": 13,
-  "sem_resposta_grupos": 13,
+  "sem_resposta": 14,
+  "sem_resposta_grupos": 14,
   "mediana_min": 36.2,
   "atendentes": [
    {
@@ -125,6 +125,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
+    "dia": "23/09",
+    "desde": "14:23",
+    "ts": 1790184235475
+   },
    {
     "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
     "dia": "18/09",
@@ -357,6 +363,12 @@
     "dia": "23/09",
     "desde": "12:24",
     "ts": 1790177084179
+   },
+   {
+    "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
+    "dia": "23/09",
+    "desde": "14:23",
+    "ts": 1790184235475
    }
   ]
  },
@@ -438,14 +450,14 @@
   "fila": 310,
   "abertos": 483,
   "com_atendimento": 6,
-  "online": 1,
+  "online": 2,
   "offline": 1,
-  "ausentes": 6,
+  "ausentes": 5,
   "espera_media_s": 8667
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-23T16:45:04.651Z",
-  "min_sem_lead": 36
+  "ultimo_lead_at": "2026-09-18T17:57:05.424Z",
+  "min_sem_lead": 7179
  },
  "leads": [
   {
