@@ -1,29 +1,29 @@
 {
- "gerado_em": "23/09/2026, 09:00",
+ "gerado_em": "23/09/2026, 09:15",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 1,
-  "no_sla": 0,
+  "total": 2,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 173,
-  "tickets_abertos": 478,
+  "pct_sla": 100,
+  "mediana_geral": 0.5,
+  "leads_7d": 174,
+  "tickets_abertos": 479,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 1,
-   "mediana_min": null
+   "leads": 2,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
   "Anuncio": 1,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -32,17 +32,18 @@
   }
  ],
  "areas": {
+  "Nao identificada": 1,
   "Trabalhista": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 239,
-  "turnos": 435,
-  "respondidos": 418,
-  "sem_resposta": 17,
-  "sem_resposta_grupos": 17,
+  "grupos_ativos": 244,
+  "turnos": 436,
+  "respondidos": 420,
+  "sem_resposta": 16,
+  "sem_resposta_grupos": 16,
   "mediana_min": 28,
   "atendentes": [
    {
@@ -62,13 +63,13 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 30,
-    "mediana_min": 1158.9
+    "respostas": 31,
+    "mediana_min": 1206.6
    },
    {
     "nome": "Luisa",
-    "respostas": 29,
-    "mediana_min": 4.7
+    "respostas": 30,
+    "mediana_min": 4.8
    },
    {
     "nome": "Tiago Bernardo",
@@ -151,12 +152,6 @@
     "dia": "18/09",
     "desde": "16:10",
     "ts": 1789758627923
-   },
-   {
-    "grupo": "L.F.C.M x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
-    "dia": "18/09",
-    "desde": "14:07",
-    "ts": 1789751232542
    },
    {
     "grupo": "L.D.S.A x INSS",
@@ -284,12 +279,6 @@
     "dia": "18/09",
     "desde": "12:17",
     "ts": 1789744663308
-   },
-   {
-    "grupo": "L.F.C.M x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
-    "dia": "18/09",
-    "desde": "14:07",
-    "ts": 1789751232542
    },
    {
     "grupo": "K.D.P.N x IN HAUS INDUSTRIAL E SERVICOS DE LOGISTICA S A",
@@ -422,19 +411,30 @@
   ]
  },
  "agora": {
-  "fila": 307,
-  "abertos": 478,
+  "fila": 308,
+  "abertos": 479,
   "com_atendimento": 7,
   "online": 3,
   "offline": 4,
   "ausentes": 1,
-  "espera_media_s": 8469
+  "espera_media_s": 8439
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 744281
+  "ultimo_lead_at": "2026-09-23T12:08:27.159Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "RiCARDO",
+   "tel": "5519*****029",
+   "criado": "09:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "E&",
    "tel": "5554*****307",
