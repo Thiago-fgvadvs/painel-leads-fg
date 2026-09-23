@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/09/2026, 08:14",
+ "gerado_em": "23/09/2026, 08:29",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 173,
-  "tickets_abertos": 476,
+  "tickets_abertos": 477,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -39,11 +39,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 232,
-  "turnos": 425,
-  "respondidos": 409,
-  "sem_resposta": 16,
-  "sem_resposta_grupos": 16,
-  "mediana_min": 27.6,
+  "turnos": 429,
+  "respondidos": 412,
+  "sem_resposta": 17,
+  "sem_resposta_grupos": 17,
+  "mediana_min": 27.5,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -52,7 +52,7 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 63,
+    "respostas": 66,
     "mediana_min": 1.4
    },
    {
@@ -92,6 +92,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
+    "dia": "23/09",
+    "desde": "08:17",
+    "ts": 1790162260566
+   },
    {
     "grupo": "E.C.A x WALDIR BEIRA JUNIOR",
     "dia": "17/09",
@@ -332,6 +338,12 @@
     "dia": "22/09",
     "desde": "17:58",
     "ts": 1790110706258
+   },
+   {
+    "grupo": "A.P.A x AMERICAN CHAMBER OF COMMERCE FOR BRAZIL SAO PAULO",
+    "dia": "23/09",
+    "desde": "08:17",
+    "ts": 1790162260566
    }
   ]
  },
@@ -411,7 +423,7 @@
  },
  "agora": {
   "fila": 307,
-  "abertos": 476,
+  "abertos": 477,
   "com_atendimento": 6,
   "online": 3,
   "offline": 4,
@@ -420,7 +432,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-04T17:29:34.916Z",
-  "min_sem_lead": 71625
+  "min_sem_lead": 71640
  },
  "leads": [
   {
