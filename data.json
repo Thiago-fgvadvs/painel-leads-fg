@@ -1,34 +1,42 @@
 {
- "gerado_em": "23/09/2026, 13:35",
+ "gerado_em": "23/09/2026, 13:50",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 7,
+  "total": 11,
+  "no_sla": 9,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 181,
-  "tickets_abertos": 480,
+  "leads_7d": 183,
+  "tickets_abertos": 481,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 8,
+   "leads": 10,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 8,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "fb.me/505ajP5YC",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcmWdgPsYFf/",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DcmW5hLM3NO/",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
@@ -48,7 +56,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
+  "Trabalhista": 7,
   "Previdenciario": 1,
   "Nao identificada": 3
  },
@@ -63,17 +71,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 252,
+  "grupos_ativos": 253,
   "turnos": 501,
-  "respondidos": 486,
-  "sem_resposta": 15,
-  "sem_resposta_grupos": 15,
+  "respondidos": 488,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
   "mediana_min": 36.3,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 212,
-    "mediana_min": 101
+    "respostas": 213,
+    "mediana_min": 99.8
    },
    {
     "nome": "Gabrielle",
@@ -82,8 +90,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 67,
-    "mediana_min": 3.6
+    "respostas": 68,
+    "mediana_min": 3.7
    },
    {
     "nome": "Luisa",
@@ -118,28 +126,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "23/09",
-    "desde": "13:21",
-    "ts": 1790180480318
+    "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
+    "dia": "18/09",
+    "desde": "18:37",
+    "ts": 1789767441244
    },
    {
     "grupo": "E.M.M.R x GRUPO CASAS BAHIA S.A.",
     "dia": "23/09",
     "desde": "12:24",
     "ts": 1790177084179
-   },
-   {
-    "grupo": "L.B.D.S.N x TELLUS INFORMATICA E TELECOMUNICAÇÕES LTDA",
-    "dia": "23/09",
-    "desde": "13:09",
-    "ts": 1790179741286
-   },
-   {
-    "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
-    "dia": "18/09",
-    "desde": "18:37",
-    "ts": 1789767441244
    },
    {
     "grupo": "J.D.S.G x PASQUALOTTO LUMEN CONSTRUTORA E INCORPORADORA LTDA",
@@ -262,32 +258,25 @@
     "ts": 1790173031070
    },
    {
-    "nome": "🩷🩷",
-    "tel": "5527*****537",
-    "dia": "23/09",
-    "desde": "11:54",
-    "ts": 1790175250630
-   },
-   {
-    "nome": "Reeh",
-    "tel": "5511*****335",
-    "dia": "23/09",
-    "desde": "12:07",
-    "ts": 1790176078639
-   },
-   {
-    "nome": "Ayende Rafael Fernández",
-    "tel": "5554*****956",
-    "dia": "23/09",
-    "desde": "12:42",
-    "ts": 1790178142025
-   },
-   {
     "nome": "Francisco carlos M Neto",
     "tel": "5594*****199",
     "dia": "23/09",
     "desde": "13:23",
     "ts": 1790180631177
+   },
+   {
+    "nome": "5521989449836",
+    "tel": "5521*****836",
+    "dia": "23/09",
+    "desde": "13:45",
+    "ts": 1790181904651
+   },
+   {
+    "nome": "5521991781102",
+    "tel": "5521*****102",
+    "dia": "23/09",
+    "desde": "13:47",
+    "ts": 1790182025456
    }
   ],
   "grupos": [
@@ -368,18 +357,6 @@
     "dia": "23/09",
     "desde": "12:24",
     "ts": 1790177084179
-   },
-   {
-    "grupo": "L.B.D.S.N x TELLUS INFORMATICA E TELECOMUNICAÇÕES LTDA",
-    "dia": "23/09",
-    "desde": "13:09",
-    "ts": 1790179741286
-   },
-   {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "23/09",
-    "desde": "13:21",
-    "ts": 1790180480318
    }
   ]
  },
@@ -458,19 +435,41 @@
   ]
  },
  "agora": {
-  "fila": 306,
-  "abertos": 480,
+  "fila": 309,
+  "abertos": 481,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 4,
   "offline": 1,
-  "ausentes": 5,
-  "espera_media_s": 8784
+  "ausentes": 3,
+  "espera_media_s": 8696
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-23T14:54:10.630Z",
-  "min_sem_lead": 101
+  "ultimo_lead_at": "2026-08-28T12:00:57.812Z",
+  "min_sem_lead": 37730
  },
  "leads": [
+  {
+   "nome": "5521991781102",
+   "tel": "5521*****102",
+   "criado": "13:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmWdgPsYFf/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5521989449836",
+   "tel": "5521*****836",
+   "criado": "13:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "🩷🩷",
    "tel": "5527*****537",
