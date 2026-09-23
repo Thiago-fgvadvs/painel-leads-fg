@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/09/2026, 16:38",
+ "gerado_em": "23/09/2026, 16:54",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 188,
-  "tickets_abertos": 491,
+  "tickets_abertos": 492,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -35,6 +35,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
   },
@@ -53,16 +57,12 @@
   {
    "url": "www.instagram.com/p/DcmWdgPsYFf/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 4,
+  "Previdenciario": 1,
   "Trabalhista": 11,
-  "Previdenciario": 1
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [
   {
@@ -75,12 +75,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 261,
-  "turnos": 518,
-  "respondidos": 502,
-  "sem_resposta": 16,
-  "sem_resposta_grupos": 16,
-  "mediana_min": 36.3,
+  "grupos_ativos": 262,
+  "turnos": 522,
+  "respondidos": 503,
+  "sem_resposta": 19,
+  "sem_resposta_grupos": 19,
+  "mediana_min": 36.4,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -88,14 +88,14 @@
     "mediana_min": 93.8
    },
    {
+    "nome": "Eduardo",
+    "respostas": 71,
+    "mediana_min": 4.5
+   },
+   {
     "nome": "Gabrielle",
     "respostas": 71,
     "mediana_min": 1.8
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 70,
-    "mediana_min": 4.2
    },
    {
     "nome": "Luisa",
@@ -130,6 +130,30 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.A.C.S x SIEMENS HEALTHCARE DIAGNOSTICOS LTDA.",
+    "dia": "23/09",
+    "desde": "16:52",
+    "ts": 1790193148764
+   },
+   {
+    "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
+    "dia": "23/09",
+    "desde": "16:48",
+    "ts": 1790192938754
+   },
+   {
+    "grupo": "E.D.V.R x HORIZONTE RESTAURANTES S.A.",
+    "dia": "23/09",
+    "desde": "16:42",
+    "ts": 1790192548747
+   },
+   {
+    "grupo": "D.D.A.F x ITAU",
+    "dia": "23/09",
+    "desde": "16:39",
+    "ts": 1790192393739
+   },
+   {
     "grupo": "T.M.M x BANCO BRADESCO S.A",
     "dia": "23/09",
     "desde": "16:21",
@@ -140,12 +164,6 @@
     "dia": "23/09",
     "desde": "15:57",
     "ts": 1790189858612
-   },
-   {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "23/09",
-    "desde": "16:06",
-    "ts": 1790190418653
    },
    {
     "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
@@ -366,36 +384,63 @@
     "ts": 1790189858612
    },
    {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "23/09",
-    "desde": "16:06",
-    "ts": 1790190418653
-   },
-   {
     "grupo": "T.M.M x BANCO BRADESCO S.A",
     "dia": "23/09",
     "desde": "16:21",
     "ts": 1790191299707
+   },
+   {
+    "grupo": "D.D.A.F x ITAU",
+    "dia": "23/09",
+    "desde": "16:39",
+    "ts": 1790192393739
+   },
+   {
+    "grupo": "E.D.V.R x HORIZONTE RESTAURANTES S.A.",
+    "dia": "23/09",
+    "desde": "16:42",
+    "ts": 1790192548747
+   },
+   {
+    "grupo": "T.A.P x EUROFARMA LABORATORIOS S.A.",
+    "dia": "23/09",
+    "desde": "16:48",
+    "ts": 1790192938754
+   },
+   {
+    "grupo": "R.A.C.S x SIEMENS HEALTHCARE DIAGNOSTICOS LTDA.",
+    "dia": "23/09",
+    "desde": "16:52",
+    "ts": 1790193148764
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 7,
+  "total": 8,
   "por_vendedor": {
+   "Roseli": 3,
    "Tiago Bernardo": 4,
-   "Roseli": 2,
    "FG Advogados - Isadora ": 1
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "R",
+    "dia": "23/09",
+    "hora": "16:50",
+    "ts": 1790193039703,
+    "origem": "Outros",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "G.V",
     "dia": "22/09",
     "hora": "17:49",
     "ts": 1790110141925,
-    "origem": "Anúncio: instagram.com/p/DcmTUt6sq5W/",
-    "de_anuncio": true
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
    },
    {
     "vendedor": "Tiago Bernardo",
@@ -455,28 +500,28 @@
  },
  "agora": {
   "fila": 313,
-  "abertos": 491,
-  "com_atendimento": 7,
+  "abertos": 492,
+  "com_atendimento": 6,
   "online": 4,
   "offline": 1,
   "ausentes": 3,
   "espera_media_s": 8525
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-02T18:24:02.677Z",
-  "min_sem_lead": 30315
+  "ultimo_lead_at": "2026-09-23T13:20:45.470Z",
+  "min_sem_lead": 393
  },
  "leads": [
   {
-   "nome": "555199750050",
-   "tel": "5551*****050",
-   "criado": "16:37",
+   "nome": "PC",
+   "tel": "5521*****627",
+   "criado": "10:20",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Nao identificada"
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Previdenciario"
   },
   {
    "nome": "5517981058461",
@@ -499,6 +544,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "555199750050",
+   "tel": "5551*****050",
+   "criado": "16:37",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Nao identificada"
   },
   {
    "nome": "Maria",
@@ -565,17 +621,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
-  },
-  {
-   "nome": "PC",
-   "tel": "5521*****627",
-   "criado": "10:20",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Previdenciario"
   },
   {
    "nome": "Reeh",
