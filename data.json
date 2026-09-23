@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/09/2026, 12:19",
+ "gerado_em": "23/09/2026, 12:34",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 179,
-  "tickets_abertos": 475,
+  "tickets_abertos": 477,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -59,17 +59,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 251,
-  "turnos": 484,
-  "respondidos": 472,
-  "sem_resposta": 12,
-  "sem_resposta_grupos": 12,
-  "mediana_min": 33.5,
+  "grupos_ativos": 252,
+  "turnos": 489,
+  "respondidos": 476,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
+  "mediana_min": 34.6,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 199,
-    "mediana_min": 122.5
+    "respostas": 203,
+    "mediana_min": 117.6
    },
    {
     "nome": "Gabrielle",
@@ -113,6 +113,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.M.M.R x GRUPO CASAS BAHIA S.A.",
+    "dia": "23/09",
+    "desde": "12:24",
+    "ts": 1790177084179
+   },
    {
     "grupo": "J.D.S.G x PASQUALOTTO LUMEN CONSTRUTORA E INCORPORADORA LTDA",
     "dia": "23/09",
@@ -247,7 +253,7 @@
     "ts": 1790175250630
    },
    {
-    "nome": "5511965395335",
+    "nome": "Reeh",
     "tel": "5511*****335",
     "dia": "23/09",
     "desde": "12:07",
@@ -326,6 +332,12 @@
     "dia": "23/09",
     "desde": "10:36",
     "ts": 1790170591905
+   },
+   {
+    "grupo": "E.M.M.R x GRUPO CASAS BAHIA S.A.",
+    "dia": "23/09",
+    "desde": "12:24",
+    "ts": 1790177084179
    }
   ]
  },
@@ -404,8 +416,8 @@
   ]
  },
  "agora": {
-  "fila": 311,
-  "abertos": 475,
+  "fila": 312,
+  "abertos": 477,
   "com_atendimento": 6,
   "online": 3,
   "offline": 1,
@@ -413,12 +425,12 @@
   "espera_media_s": 8296
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-20T17:02:26.396Z",
-  "min_sem_lead": 4217
+  "ultimo_lead_at": "2026-08-29T23:17:11.105Z",
+  "min_sem_lead": 35537
  },
  "leads": [
   {
-   "nome": "5511965395335",
+   "nome": "Reeh",
    "tel": "5511*****335",
    "criado": "12:07",
    "atendente": "FG Advogados - Isadora ",
