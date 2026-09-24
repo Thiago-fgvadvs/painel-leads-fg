@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/09/2026, 13:21",
+ "gerado_em": "24/09/2026, 13:37",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 180,
-  "tickets_abertos": 471,
+  "tickets_abertos": 472,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -72,16 +72,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 243,
-  "turnos": 498,
-  "respondidos": 492,
+  "grupos_ativos": 245,
+  "turnos": 501,
+  "respondidos": 495,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 52.1,
+  "mediana_min": 52,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 244,
+    "respostas": 246,
     "mediana_min": 101
    },
    {
@@ -101,7 +101,7 @@
    },
    {
     "nome": "Advogados - FG",
-    "respostas": 24,
+    "respostas": 25,
     "mediana_min": 5.5
    },
    {
@@ -127,10 +127,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E",
+    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
     "dia": "24/09",
-    "desde": "13:11",
-    "ts": 1790266269763
+    "desde": "13:35",
+    "ts": 1790267736844
    },
    {
     "grupo": "J.D.S.L x CLS GARCIA CONSTRUCOES LTDA",
@@ -249,10 +249,10 @@
     "ts": 1790194628926
    },
    {
-    "grupo": "E",
+    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
     "dia": "24/09",
-    "desde": "13:11",
-    "ts": 1790266269763
+    "desde": "13:35",
+    "ts": 1790267736844
    }
   ]
  },
@@ -340,17 +340,17 @@
   ]
  },
  "agora": {
-  "fila": 325,
-  "abertos": 471,
+  "fila": 324,
+  "abertos": 472,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 3,
   "offline": 2,
-  "ausentes": 1,
+  "ausentes": 3,
   "espera_media_s": 8978
  },
  "captacao": {
   "ultimo_lead_at": "2026-01-20T15:11:49.063Z",
-  "min_sem_lead": 355750
+  "min_sem_lead": 355765
  },
  "leads": [
   {
