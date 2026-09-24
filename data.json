@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/09/2026, 11:34",
+ "gerado_em": "24/09/2026, 11:50",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 5,
+  "total": 8,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
-  "mediana_geral": 0.3,
-  "leads_7d": 175,
-  "tickets_abertos": 501,
+  "mediana_geral": 0.4,
+  "leads_7d": 176,
+  "tickets_abertos": 502,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": 0.4
   },
   {
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/6ncziRPOp",
+   "leads": 1
+  },
   {
    "url": "fb.me/6lIu0yPSl",
    "leads": 1
@@ -57,7 +61,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
+  "Trabalhista": 5,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
@@ -65,21 +69,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 237,
-  "turnos": 480,
-  "respondidos": 464,
-  "sem_resposta": 16,
-  "sem_resposta_grupos": 16,
+  "turnos": 481,
+  "respondidos": 466,
+  "sem_resposta": 15,
+  "sem_resposta_grupos": 15,
   "mediana_min": 53.8,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 219,
-    "mediana_min": 124.9
+    "respostas": 220,
+    "mediana_min": 124.1
    },
    {
     "nome": "Eduardo",
-    "respostas": 82,
-    "mediana_min": 4.7
+    "respostas": 83,
+    "mediana_min": 4.8
    },
    {
     "nome": "Gabrielle",
@@ -102,14 +106,14 @@
     "mediana_min": 10.7
    },
    {
-    "nome": "—",
-    "respostas": 15,
-    "mediana_min": 35.2
-   },
-   {
     "nome": "Julia",
     "respostas": 15,
     "mediana_min": 72
+   },
+   {
+    "nome": "—",
+    "respostas": 15,
+    "mediana_min": 35.2
    },
    {
     "nome": "Tiago Bernardo",
@@ -119,16 +123,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
+    "grupo": "F.G x ITAU UNIBANCO",
     "dia": "24/09",
-    "desde": "11:15",
-    "ts": 1790259343432
-   },
-   {
-    "grupo": "L.S x QUALICORP CONSULTORIA E CORRETORA DE SEGUROS SA",
-    "dia": "24/09",
-    "desde": "10:06",
-    "ts": 1790255166292
+    "desde": "10:30",
+    "ts": 1790256609341
    },
    {
     "grupo": "J.H.V.D.S x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
@@ -341,16 +339,10 @@
     "ts": 1790251975178
    },
    {
-    "grupo": "L.S x QUALICORP CONSULTORIA E CORRETORA DE SEGUROS SA",
+    "grupo": "F.G x ITAU UNIBANCO",
     "dia": "24/09",
-    "desde": "10:06",
-    "ts": 1790255166292
-   },
-   {
-    "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
-    "dia": "24/09",
-    "desde": "11:15",
-    "ts": 1790259343432
+    "desde": "10:30",
+    "ts": 1790256609341
    }
   ]
  },
@@ -438,19 +430,30 @@
   ]
  },
  "agora": {
-  "fila": 318,
-  "abertos": 501,
+  "fila": 320,
+  "abertos": 502,
   "com_atendimento": 6,
-  "online": 3,
-  "offline": 2,
+  "online": 4,
+  "offline": 1,
   "ausentes": 3,
-  "espera_media_s": 8912
+  "espera_media_s": 8884
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-20T23:15:26.778Z",
-  "min_sem_lead": 5239
+  "ultimo_lead_at": "2026-09-15T12:54:41.140Z",
+  "min_sem_lead": 13075
  },
  "leads": [
+  {
+   "nome": "Gilmar",
+   "tel": "5542*****289",
+   "criado": "11:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6ncziRPOp",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Danny 😒",
    "tel": "5841*****905",
