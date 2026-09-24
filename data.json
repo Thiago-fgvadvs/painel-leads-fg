@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/09/2026, 13:37",
+ "gerado_em": "24/09/2026, 13:52",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 180,
-  "tickets_abertos": 472,
+  "tickets_abertos": 473,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -36,6 +36,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/6ncziRPOp",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DdrAuwdsnED/",
    "leads": 1
   },
@@ -49,10 +53,6 @@
   },
   {
    "url": "fb.me/9Kji7hTqb",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/6ncziRPOp",
    "leads": 1
   },
   {
@@ -73,16 +73,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 245,
-  "turnos": 501,
-  "respondidos": 495,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 52,
+  "turnos": 504,
+  "respondidos": 497,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 50.4,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 246,
-    "mediana_min": 101
+    "respostas": 248,
+    "mediana_min": 99.8
    },
    {
     "nome": "Eduardo",
@@ -131,6 +131,12 @@
     "dia": "24/09",
     "desde": "13:35",
     "ts": 1790267736844
+   },
+   {
+    "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
+    "dia": "24/09",
+    "desde": "13:31",
+    "ts": 1790267497830
    },
    {
     "grupo": "J.D.S.L x CLS GARCIA CONSTRUCOES LTDA",
@@ -249,6 +255,12 @@
     "ts": 1790194628926
    },
    {
+    "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
+    "dia": "24/09",
+    "desde": "13:31",
+    "ts": 1790267497830
+   },
+   {
     "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
     "dia": "24/09",
     "desde": "13:35",
@@ -340,19 +352,30 @@
   ]
  },
  "agora": {
-  "fila": 324,
-  "abertos": 472,
+  "fila": 323,
+  "abertos": 473,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 4,
   "offline": 2,
-  "ausentes": 3,
+  "ausentes": 2,
   "espera_media_s": 8978
  },
  "captacao": {
-  "ultimo_lead_at": "2026-01-20T15:11:49.063Z",
-  "min_sem_lead": 355765
+  "ultimo_lead_at": "2026-09-24T00:49:19.777Z",
+  "min_sem_lead": 963
  },
  "leads": [
+  {
+   "nome": "Gilmar",
+   "tel": "5542*****289",
+   "criado": "11:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6ncziRPOp",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Vanda Silva",
    "tel": "5579*****543",
@@ -407,17 +430,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/9Kji7hTqb",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Gilmar",
-   "tel": "5542*****289",
-   "criado": "11:38",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6ncziRPOp",
-   "area": "Trabalhista"
   },
   {
    "nome": "Kethlyn Dias",
