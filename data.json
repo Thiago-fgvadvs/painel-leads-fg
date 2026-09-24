@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/09/2026, 11:04",
+ "gerado_em": "24/09/2026, 11:19",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.3,
   "leads_7d": 175,
-  "tickets_abertos": 501,
+  "tickets_abertos": 502,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -32,15 +32,15 @@
  },
  "criativos": [
   {
+   "url": "fb.me/6lIu0yPSl",
+   "leads": 1
+  },
+  {
    "url": "fb.me/4VQLAvb8d",
    "leads": 1
   },
   {
    "url": "fb.me/83JH6uera",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/6lIu0yPSl",
    "leads": 1
   },
   {
@@ -57,29 +57,29 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 4
+  "Trabalhista": 4,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 234,
-  "turnos": 473,
-  "respondidos": 455,
+  "grupos_ativos": 237,
+  "turnos": 477,
+  "respondidos": 459,
   "sem_resposta": 18,
   "sem_resposta_grupos": 18,
-  "mediana_min": 52.1,
+  "mediana_min": 52,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 213,
-    "mediana_min": 128.9
+    "respostas": 214,
+    "mediana_min": 129.4
    },
    {
     "nome": "Eduardo",
-    "respostas": 80,
-    "mediana_min": 4.8
+    "respostas": 82,
+    "mediana_min": 4.7
    },
    {
     "nome": "Gabrielle",
@@ -98,18 +98,18 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 18,
-    "mediana_min": 15.4
-   },
-   {
-    "nome": "Julia",
-    "respostas": 15,
-    "mediana_min": 72
+    "respostas": 19,
+    "mediana_min": 10.7
    },
    {
     "nome": "—",
     "respostas": 15,
     "mediana_min": 35.2
+   },
+   {
+    "nome": "Julia",
+    "respostas": 15,
+    "mediana_min": 72
    },
    {
     "nome": "Tiago Bernardo",
@@ -119,10 +119,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "R.A.C.S x SIEMENS HEALTHCARE DIAGNOSTICOS LTDA.",
+    "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
     "dia": "24/09",
-    "desde": "11:03",
-    "ts": 1790258582409
+    "desde": "11:15",
+    "ts": 1790259343432
    },
    {
     "grupo": "L.S x QUALICORP CONSULTORIA E CORRETORA DE SEGUROS SA",
@@ -371,10 +371,10 @@
     "ts": 1790255166292
    },
    {
-    "grupo": "R.A.C.S x SIEMENS HEALTHCARE DIAGNOSTICOS LTDA.",
+    "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
     "dia": "24/09",
-    "desde": "11:03",
-    "ts": 1790258582409
+    "desde": "11:15",
+    "ts": 1790259343432
    }
   ]
  },
@@ -463,18 +463,29 @@
  },
  "agora": {
   "fila": 317,
-  "abertos": 501,
+  "abertos": 502,
   "com_atendimento": 6,
-  "online": 6,
+  "online": 2,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 5,
   "espera_media_s": 8940
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-24T00:49:19.777Z",
-  "min_sem_lead": 795
+  "ultimo_lead_at": "2026-09-24T03:32:19.112Z",
+  "min_sem_lead": 647
  },
  "leads": [
+  {
+   "nome": "Danny 😒",
+   "tel": "5841*****905",
+   "criado": "00:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6lIu0yPSl",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Kethlyn Dias",
    "tel": "5511*****043",
@@ -507,17 +518,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/83JH6uera",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Danny 😒",
-   "tel": "5841*****905",
-   "criado": "00:32",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6lIu0yPSl",
-   "area": "Trabalhista"
   },
   {
    "nome": "cunhajaimejunior",
