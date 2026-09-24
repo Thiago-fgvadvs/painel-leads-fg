@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/09/2026, 17:41",
+ "gerado_em": "24/09/2026, 17:56",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
   "total": 24,
-  "no_sla": 19,
+  "no_sla": 20,
   "fora_sla": 1,
-  "sem_resposta": 2,
+  "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 95,
   "mediana_geral": 0.4,
   "leads_7d": 192,
-  "tickets_abertos": 457,
+  "tickets_abertos": 456,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 18,
+   "leads": 19,
    "mediana_min": 0.4
   },
   {
@@ -75,12 +75,6 @@
  },
  "sem_resposta_lista": [
   {
-   "nome": "5522999779036",
-   "tel": "5522*****036",
-   "criado": "17:41",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "556181100691",
    "tel": "5561*****691",
    "criado": "14:44",
@@ -98,12 +92,12 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 256,
-  "turnos": 543,
-  "respondidos": 534,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 46.1,
+  "grupos_ativos": 257,
+  "turnos": 544,
+  "respondidos": 536,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 45.7,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -117,8 +111,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 57,
-    "mediana_min": 2.2
+    "respostas": 59,
+    "mediana_min": 2.1
    },
    {
     "nome": "Advogados - FG",
@@ -157,12 +151,6 @@
     "dia": "24/09",
     "desde": "17:40",
     "ts": 1790282414613
-   },
-   {
-    "grupo": "A.J.C",
-    "dia": "24/09",
-    "desde": "17:40",
-    "ts": 1790282408612
    },
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
@@ -252,13 +240,6 @@
     "dia": "24/09",
     "desde": "14:44",
     "ts": 1790271884940
-   },
-   {
-    "nome": "5522999779036",
-    "tel": "5522*****036",
-    "dia": "24/09",
-    "desde": "17:41",
-    "ts": 1790282475408
    }
   ],
   "grupos": [
@@ -303,12 +284,6 @@
     "dia": "24/09",
     "desde": "16:42",
     "ts": 1790278969524
-   },
-   {
-    "grupo": "A.J.C",
-    "dia": "24/09",
-    "desde": "17:40",
-    "ts": 1790282408612
    },
    {
     "grupo": "F.G x ITAU UNIBANCO",
@@ -439,31 +414,31 @@
  },
  "agora": {
   "fila": 324,
-  "abertos": 457,
-  "com_atendimento": 7,
-  "online": 4,
-  "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 8326
+  "abertos": 456,
+  "com_atendimento": 6,
+  "online": 5,
+  "offline": 2,
+  "ausentes": 1,
+  "espera_media_s": 8298
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-24T20:41:15.408Z",
-  "min_sem_lead": 0
+  "min_sem_lead": 16
  },
  "leads": [
   {
-   "nome": "5522999779036",
+   "nome": "Edna Mara",
    "tel": "5522*****036",
    "criado": "17:41",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
-   "nome": "557799770059",
+   "nome": "Rincão/pesada",
    "tel": "5577*****059",
    "criado": "17:23",
    "atendente": "FG Advogados - Isadora ",
