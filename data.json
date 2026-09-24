@@ -1,17 +1,17 @@
 {
- "gerado_em": "24/09/2026, 07:45",
+ "gerado_em": "24/09/2026, 08:00",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
+  "total": 3,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 170,
-  "tickets_abertos": 498,
+  "leads_7d": 171,
+  "tickets_abertos": 499,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,10 +22,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 2,
+  "Anuncio": 3,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/83JH6uera",
+   "leads": 1
+  },
   {
    "url": "fb.me/6lIu0yPSl",
    "leads": 1
@@ -36,9 +40,17 @@
   }
  ],
  "areas": {
+  "Nao identificada": 1,
   "Trabalhista": 2
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Eny",
+   "tel": "5532*****131",
+   "criado": "08:00",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -231,6 +243,13 @@
     "dia": "23/09",
     "desde": "11:17",
     "ts": 1790173031070
+   },
+   {
+    "nome": "Eny",
+    "tel": "5532*****131",
+    "dia": "24/09",
+    "desde": "08:00",
+    "ts": 1790247627139
    }
   ],
   "grupos": [
@@ -416,8 +435,8 @@
   ]
  },
  "agora": {
-  "fila": 317,
-  "abertos": 498,
+  "fila": 318,
+  "abertos": 499,
   "com_atendimento": 6,
   "online": 3,
   "offline": 4,
@@ -425,10 +444,21 @@
   "espera_media_s": 8282
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 745646
+  "ultimo_lead_at": "2026-09-24T11:00:27.139Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "Eny",
+   "tel": "5532*****131",
+   "criado": "08:00",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/83JH6uera",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Danny 😒",
    "tel": "5841*****905",
