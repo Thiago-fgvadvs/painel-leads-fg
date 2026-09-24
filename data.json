@@ -1,16 +1,16 @@
 {
- "gerado_em": "24/09/2026, 15:54",
+ "gerado_em": "24/09/2026, 16:09",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 15,
+  "total": 20,
+  "no_sla": 16,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 187,
+  "leads_7d": 188,
   "tickets_abertos": 464,
   "periodo_dias": 7
  },
@@ -22,8 +22,8 @@
   },
   {
    "nome": "Eduardo",
-   "leads": 2,
-   "mediana_min": 0.4
+   "leads": 3,
+   "mediana_min": 0.5
   },
   {
    "nome": "Tiago Bernardo",
@@ -33,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 16,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 12,
-  "Nao identificada": 7
+  "Nao identificada": 8,
+  "Trabalhista": 12
  },
  "sem_resposta_lista": [
   {
@@ -92,22 +92,22 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 251,
-  "turnos": 514,
-  "respondidos": 506,
+  "grupos_ativos": 253,
+  "turnos": 524,
+  "respondidos": 516,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
-  "mediana_min": 50.1,
+  "mediana_min": 48.5,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 251,
-    "mediana_min": 99.3
+    "respostas": 252,
+    "mediana_min": 98.9
    },
    {
     "nome": "Eduardo",
-    "respostas": 84,
-    "mediana_min": 4.8
+    "respostas": 90,
+    "mediana_min": 4.7
    },
    {
     "nome": "Gabrielle",
@@ -115,14 +115,14 @@
     "mediana_min": 2.2
    },
    {
+    "nome": "Advogados - FG",
+    "respostas": 31,
+    "mediana_min": 9.3
+   },
+   {
     "nome": "FG Advogados - Isadora ",
     "respostas": 30,
     "mediana_min": 1285.2
-   },
-   {
-    "nome": "Advogados - FG",
-    "respostas": 29,
-    "mediana_min": 9.3
    },
    {
     "nome": "Roseli",
@@ -130,14 +130,14 @@
     "mediana_min": 10.7
    },
    {
+    "nome": "—",
+    "respostas": 16,
+    "mediana_min": 40.9
+   },
+   {
     "nome": "Julia",
     "respostas": 15,
     "mediana_min": 72
-   },
-   {
-    "nome": "—",
-    "respostas": 15,
-    "mediana_min": 35.2
    },
    {
     "nome": "Tiago Bernardo",
@@ -153,10 +153,10 @@
     "ts": 1790274884235
    },
    {
-    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
+    "grupo": "R.G.P x JBS SA",
     "dia": "24/09",
-    "desde": "15:31",
-    "ts": 1790274693230
+    "desde": "13:45",
+    "ts": 1790268323859
    },
    {
     "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
@@ -280,10 +280,10 @@
     "ts": 1790267497830
    },
    {
-    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
+    "grupo": "R.G.P x JBS SA",
     "dia": "24/09",
-    "desde": "15:31",
-    "ts": 1790274693230
+    "desde": "13:45",
+    "ts": 1790268323859
    },
    {
     "grupo": "E",
@@ -395,19 +395,30 @@
   ]
  },
  "agora": {
-  "fila": 322,
+  "fila": 323,
   "abertos": 464,
-  "com_atendimento": 8,
-  "online": 7,
+  "com_atendimento": 7,
+  "online": 5,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 8170
+  "ausentes": 2,
+  "espera_media_s": 8197
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-17T21:42:47.446Z",
-  "min_sem_lead": 9912
+  "ultimo_lead_at": "2026-09-24T18:59:20.557Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "CORRESPONDENTE Fernanda Cristina Pires Correa",
+   "tel": "5516*****630",
+   "criado": "15:59",
+   "atendente": "Eduardo",
+   "espera_min": 2.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Diego Nery",
    "tel": "5516*****150",
