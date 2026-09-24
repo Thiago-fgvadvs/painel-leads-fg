@@ -1,17 +1,17 @@
 {
- "gerado_em": "24/09/2026, 14:38",
+ "gerado_em": "24/09/2026, 14:53",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
+  "total": 15,
   "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 182,
-  "tickets_abertos": 479,
+  "leads_7d": 183,
+  "tickets_abertos": 480,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 13,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -66,7 +66,7 @@
  ],
  "areas": {
   "Trabalhista": 10,
-  "Nao identificada": 4
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [
   {
@@ -79,9 +79,9 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 247,
-  "turnos": 506,
-  "respondidos": 498,
+  "grupos_ativos": 249,
+  "turnos": 508,
+  "respondidos": 500,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
   "mediana_min": 50.4,
@@ -108,8 +108,8 @@
    },
    {
     "nome": "Advogados - FG",
-    "respostas": 25,
-    "mediana_min": 5.5
+    "respostas": 28,
+    "mediana_min": 7.9
    },
    {
     "nome": "Roseli",
@@ -117,14 +117,14 @@
     "mediana_min": 8.1
    },
    {
-    "nome": "Julia",
-    "respostas": 15,
-    "mediana_min": 72
-   },
-   {
     "nome": "—",
     "respostas": 15,
     "mediana_min": 35.2
+   },
+   {
+    "nome": "Julia",
+    "respostas": 14,
+    "mediana_min": 54.8
    },
    {
     "nome": "Tiago Bernardo",
@@ -134,10 +134,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
+    "grupo": "J.H.D.C.L x A. C. D. A. IMPORTACAO E EXPORTACAO LTDA",
     "dia": "24/09",
-    "desde": "13:35",
-    "ts": 1790267736844
+    "desde": "14:43",
+    "ts": 1790271824094
    },
    {
     "grupo": "T.B x DROGARIA SAO PAULO S A",
@@ -267,16 +267,16 @@
     "ts": 1790267497830
    },
    {
-    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
-    "dia": "24/09",
-    "desde": "13:35",
-    "ts": 1790267736844
-   },
-   {
     "grupo": "T.B x DROGARIA SAO PAULO S A",
     "dia": "24/09",
     "desde": "13:55",
     "ts": 1790268922861
+   },
+   {
+    "grupo": "J.H.D.C.L x A. C. D. A. IMPORTACAO E EXPORTACAO LTDA",
+    "dia": "24/09",
+    "desde": "14:43",
+    "ts": 1790271824094
    }
   ]
  },
@@ -373,17 +373,17 @@
   ]
  },
  "agora": {
-  "fila": 327,
-  "abertos": 479,
-  "com_atendimento": 6,
+  "fila": 328,
+  "abertos": 480,
+  "com_atendimento": 7,
   "online": 5,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 8921
+  "espera_media_s": 8893
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
-  "min_sem_lead": 85264
+  "ultimo_lead_at": "2026-09-18T17:57:05.424Z",
+  "min_sem_lead": 8636
  },
  "leads": [
   {
@@ -539,6 +539,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/505ajP5YC",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "556181100691",
+   "tel": "5561*****691",
+   "criado": "14:44",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
