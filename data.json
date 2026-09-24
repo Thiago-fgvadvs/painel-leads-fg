@@ -1,34 +1,38 @@
 {
- "gerado_em": "23/09/2026, 20:58",
+ "gerado_em": "23/09/2026, 21:14",
  "data_ref": "23/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
+  "total": 21,
   "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 3,
+  "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 192,
-  "tickets_abertos": 492,
+  "leads_7d": 193,
+  "tickets_abertos": 493,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 17,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 2
   },
   {
    "url": "fb.me/505ajP5YC",
@@ -47,10 +51,6 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
   },
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 15,
+  "Trabalhista": 16,
   "Previdenciario": 1,
   "Nao identificada": 4
  },
@@ -496,19 +496,30 @@
   ]
  },
  "agora": {
-  "fila": 315,
-  "abertos": 492,
+  "fila": 316,
+  "abertos": 493,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 3,
   "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 8443
+  "ausentes": 2,
+  "espera_media_s": 8415
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-20T17:52:01.859Z",
-  "min_sem_lead": 4687
+  "ultimo_lead_at": "2026-09-24T00:05:25.844Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "Alice Alves",
+   "tel": "5582*****992",
+   "criado": "21:05",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Bia Almeida",
    "tel": "5521*****277",
