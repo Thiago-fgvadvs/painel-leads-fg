@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/09/2026, 10:48",
+ "gerado_em": "24/09/2026, 11:04",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.3,
   "leads_7d": 175,
-  "tickets_abertos": 503,
+  "tickets_abertos": 501,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,16 +65,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 234,
-  "turnos": 470,
-  "respondidos": 453,
-  "sem_resposta": 17,
-  "sem_resposta_grupos": 17,
+  "turnos": 473,
+  "respondidos": 455,
+  "sem_resposta": 18,
+  "sem_resposta_grupos": 18,
   "mediana_min": 52.1,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 211,
-    "mediana_min": 129.8
+    "respostas": 213,
+    "mediana_min": 128.9
    },
    {
     "nome": "Eduardo",
@@ -118,6 +118,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.A.C.S x SIEMENS HEALTHCARE DIAGNOSTICOS LTDA.",
+    "dia": "24/09",
+    "desde": "11:03",
+    "ts": 1790258582409
+   },
    {
     "grupo": "L.S x QUALICORP CONSULTORIA E CORRETORA DE SEGUROS SA",
     "dia": "24/09",
@@ -363,6 +369,12 @@
     "dia": "24/09",
     "desde": "10:06",
     "ts": 1790255166292
+   },
+   {
+    "grupo": "R.A.C.S x SIEMENS HEALTHCARE DIAGNOSTICOS LTDA.",
+    "dia": "24/09",
+    "desde": "11:03",
+    "ts": 1790258582409
    }
   ]
  },
@@ -451,16 +463,16 @@
  },
  "agora": {
   "fila": 317,
-  "abertos": 503,
+  "abertos": 501,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 6,
   "offline": 1,
-  "ausentes": 4,
-  "espera_media_s": 8912
+  "ausentes": 1,
+  "espera_media_s": 8940
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-20T23:15:26.778Z",
-  "min_sem_lead": 5193
+  "ultimo_lead_at": "2026-09-24T00:49:19.777Z",
+  "min_sem_lead": 795
  },
  "leads": [
   {
