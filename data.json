@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/09/2026, 15:08",
+ "gerado_em": "24/09/2026, 15:24",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 12,
+  "total": 17,
+  "no_sla": 13,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 92,
+  "pct_sla": 93,
   "mediana_geral": 0.4,
-  "leads_7d": 184,
+  "leads_7d": 185,
   "tickets_abertos": 479,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 13,
+   "leads": 14,
    "mediana_min": 0.4
   },
   {
@@ -32,17 +32,25 @@
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 15,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "fb.me/505ajP5YC",
+   "leads": 3
+  },
   {
    "url": "fb.me/biBBT4y2r",
    "leads": 2
   },
   {
-   "url": "fb.me/505ajP5YC",
-   "leads": 2
+   "url": "www.instagram.com/p/DcmWSr9sNdR/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/91elw2A2a",
+   "leads": 1
   },
   {
    "url": "fb.me/7ciItXnNp",
@@ -57,20 +65,12 @@
    "leads": 1
   },
   {
-   "url": "fb.me/91elw2A2a",
-   "leads": 1
-  },
-  {
    "url": "fb.me/6lIu0yPSl",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmWSr9sNdR/",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 11,
+  "Trabalhista": 12,
   "Nao identificada": 5
  },
  "sem_resposta_lista": [
@@ -94,15 +94,15 @@
   "dias": 7,
   "grupos_ativos": 249,
   "turnos": 509,
-  "respondidos": 502,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 50.1,
+  "respondidos": 503,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 50.4,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 248,
-    "mediana_min": 99.8
+    "respostas": 249,
+    "mediana_min": 99.7
    },
    {
     "nome": "Eduardo",
@@ -146,12 +146,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "T.B x DROGARIA SAO PAULO S A",
-    "dia": "24/09",
-    "desde": "13:55",
-    "ts": 1790268922861
-   },
    {
     "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
     "dia": "24/09",
@@ -272,12 +266,6 @@
     "dia": "24/09",
     "desde": "13:31",
     "ts": 1790267497830
-   },
-   {
-    "grupo": "T.B x DROGARIA SAO PAULO S A",
-    "dia": "24/09",
-    "desde": "13:55",
-    "ts": 1790268922861
    }
   ]
  },
@@ -374,19 +362,52 @@
   ]
  },
  "agora": {
-  "fila": 323,
+  "fila": 321,
   "abertos": 479,
   "com_atendimento": 6,
-  "online": 6,
+  "online": 5,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 8900
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-24T17:57:32.880Z",
-  "min_sem_lead": 11
+  "ultimo_lead_at": "2026-09-01T08:07:44.812Z",
+  "min_sem_lead": 33736
  },
  "leads": [
+  {
+   "nome": "𝕯𝖆𝖗𝖑𝖔𝖓 𝕬𝖒𝖆𝖗𝖔",
+   "tel": "5565*****349",
+   "criado": "12:13",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmWSr9sNdR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Luciano B.",
+   "tel": "5583*****860",
+   "criado": "13:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Enrique",
+   "tel": "5565*****833",
+   "criado": "15:11",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Diego Nery",
    "tel": "5516*****150",
@@ -454,17 +475,6 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Luciano B.",
-   "tel": "5583*****860",
-   "criado": "13:55",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/91elw2A2a",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Danny 😒",
    "tel": "5841*****905",
    "criado": "00:32",
@@ -473,17 +483,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/6lIu0yPSl",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "𝕯𝖆𝖗𝖑𝖔𝖓 𝕬𝖒𝖆𝖗𝖔",
-   "tel": "5565*****349",
-   "criado": "12:13",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmWSr9sNdR/",
    "area": "Trabalhista"
   },
   {
