@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/09/2026, 08:46",
+ "gerado_em": "24/09/2026, 09:01",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 3,
+  "total": 6,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.3,
-  "leads_7d": 173,
-  "tickets_abertos": 502,
+  "leads_7d": 174,
+  "tickets_abertos": 506,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": 0.3
   },
   {
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/4VQLAvb8d",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
    "leads": 1
@@ -49,19 +53,19 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
+  "Nao identificada": 3,
   "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 223,
-  "turnos": 446,
-  "respondidos": 430,
-  "sem_resposta": 16,
-  "sem_resposta_grupos": 16,
-  "mediana_min": 46.1,
+  "grupos_ativos": 231,
+  "turnos": 450,
+  "respondidos": 433,
+  "sem_resposta": 17,
+  "sem_resposta_grupos": 17,
+  "mediana_min": 46.7,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -70,8 +74,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 78,
-    "mediana_min": 4.7
+    "respostas": 79,
+    "mediana_min": 4.8
    },
    {
     "nome": "Gabrielle",
@@ -80,8 +84,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 28,
-    "mediana_min": 1310.2
+    "respostas": 30,
+    "mediana_min": 1285.2
    },
    {
     "nome": "Luisa",
@@ -110,6 +114,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.F.C.M x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
+    "dia": "24/09",
+    "desde": "09:01",
+    "ts": 1790251301122
+   },
    {
     "grupo": "M.H.V.D.S x ROAD - SERVICOS TEMPORARIOS E TERCEIRIZADOS LTDA",
     "dia": "24/09",
@@ -343,6 +353,12 @@
     "dia": "24/09",
     "desde": "08:43",
     "ts": 1790250230060
+   },
+   {
+    "grupo": "L.F.C.M x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
+    "dia": "24/09",
+    "desde": "09:01",
+    "ts": 1790251301122
    }
   ]
  },
@@ -430,17 +446,17 @@
   ]
  },
  "agora": {
-  "fila": 320,
-  "abertos": 502,
+  "fila": 323,
+  "abertos": 506,
   "com_atendimento": 6,
   "online": 4,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 8229
+  "espera_media_s": 8178
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-24T11:45:18.466Z",
-  "min_sem_lead": 1
+  "min_sem_lead": 16
  },
  "leads": [
   {
@@ -452,6 +468,17 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Julio Cesar",
+   "tel": "5586*****547",
+   "criado": "08:53",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4VQLAvb8d",
    "area": "Nao identificada"
   },
   {
