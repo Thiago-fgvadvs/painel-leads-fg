@@ -1,31 +1,40 @@
 {
- "gerado_em": "24/09/2026, 08:31",
+ "gerado_em": "24/09/2026, 08:46",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 1,
+  "total": 5,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.3,
-  "leads_7d": 171,
-  "tickets_abertos": 500,
+  "leads_7d": 173,
+  "tickets_abertos": 502,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 3,
+   "leads": 4,
+   "mediana_min": 0.3
+  },
+  {
+   "nome": "Eduardo",
+   "leads": 1,
    "mediana_min": 0.3
   }
  ],
  "origem": {
-  "Anuncio": 3,
-  "Direto/Indicacao": 0
+  "Anuncio": 4,
+  "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW5LEMrD9/",
+   "leads": 1
+  },
   {
    "url": "fb.me/83JH6uera",
    "leads": 1
@@ -40,19 +49,19 @@
   }
  ],
  "areas": {
-  "Nao identificada": 1,
-  "Trabalhista": 2
+  "Nao identificada": 2,
+  "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 222,
-  "turnos": 445,
-  "respondidos": 429,
+  "grupos_ativos": 223,
+  "turnos": 446,
+  "respondidos": 430,
   "sem_resposta": 16,
   "sem_resposta_grupos": 16,
-  "mediana_min": 45.7,
+  "mediana_min": 46.1,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -61,8 +70,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 77,
-    "mediana_min": 4.5
+    "respostas": 78,
+    "mediana_min": 4.7
    },
    {
     "nome": "Gabrielle",
@@ -102,16 +111,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "M.H.V.D.S x ROAD - SERVICOS TEMPORARIOS E TERCEIRIZADOS LTDA",
+    "dia": "24/09",
+    "desde": "08:43",
+    "ts": 1790250230060
+   },
+   {
     "grupo": "V.A.M x CARVALHO SERVICOS DE ENGENHARIA LTDA",
     "dia": "18/09",
     "desde": "18:37",
     "ts": 1789767441244
-   },
-   {
-    "grupo": "A.F.G",
-    "dia": "23/09",
-    "desde": "22:28",
-    "ts": 1790213311432
    },
    {
     "grupo": "B.B.A.L x UNIMED",
@@ -330,10 +339,10 @@
     "ts": 1790196575056
    },
    {
-    "grupo": "A.F.G",
-    "dia": "23/09",
-    "desde": "22:28",
-    "ts": 1790213311432
+    "grupo": "M.H.V.D.S x ROAD - SERVICOS TEMPORARIOS E TERCEIRIZADOS LTDA",
+    "dia": "24/09",
+    "desde": "08:43",
+    "ts": 1790250230060
    }
   ]
  },
@@ -421,19 +430,41 @@
   ]
  },
  "agora": {
-  "fila": 319,
-  "abertos": 500,
+  "fila": 320,
+  "abertos": 502,
   "com_atendimento": 6,
-  "online": 3,
-  "offline": 4,
+  "online": 4,
+  "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 8255
+  "espera_media_s": 8229
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-15T12:54:41.140Z",
-  "min_sem_lead": 12877
+  "ultimo_lead_at": "2026-09-24T11:45:18.466Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "CORRESPONDENTE Kethlyn Adriani Dias dos Santos ",
+   "tel": "5511*****043",
+   "criado": "08:45",
+   "atendente": "Eduardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "555197672485",
+   "tel": "5551*****485",
+   "criado": "08:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Eny",
    "tel": "5532*****131",
