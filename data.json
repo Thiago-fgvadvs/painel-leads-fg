@@ -1,24 +1,29 @@
 {
- "gerado_em": "24/09/2026, 14:53",
+ "gerado_em": "24/09/2026, 15:08",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
-  "no_sla": 11,
-  "fora_sla": 0,
+  "total": 16,
+  "no_sla": 12,
+  "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 100,
+  "pct_sla": 92,
   "mediana_geral": 0.4,
-  "leads_7d": 183,
-  "tickets_abertos": 480,
+  "leads_7d": 184,
+  "tickets_abertos": 479,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 12,
+   "leads": 13,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 36.6
   },
   {
    "nome": "Eduardo",
@@ -27,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 14,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -40,15 +45,19 @@
    "leads": 2
   },
   {
+   "url": "fb.me/7ciItXnNp",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DdrAuwdsnED/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/6ncziRPOp",
    "leads": 1
   },
   {
    "url": "fb.me/91elw2A2a",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DdrAuwdsnED/",
    "leads": 1
   },
   {
@@ -58,33 +67,37 @@
   {
    "url": "www.instagram.com/p/DcmWSr9sNdR/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9Kji7hTqb",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
+  "Trabalhista": 11,
   "Nao identificada": 5
  },
  "sem_resposta_lista": [
   {
+   "nome": "556181100691",
+   "tel": "5561*****691",
+   "criado": "14:44",
+   "area": "Nao identificada"
+  }
+ ],
+ "fora_sla_lista": [
+  {
    "nome": "Maria José 🥰🙌",
    "tel": "5581*****440",
    "criado": "14:22",
-   "area": "Trabalhista"
+   "espera_min": 36.6,
+   "atendente": "Tiago Bernardo"
   }
  ],
- "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 249,
-  "turnos": 508,
-  "respondidos": 500,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 50.4,
+  "turnos": 509,
+  "respondidos": 502,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 50.1,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -108,13 +121,13 @@
    },
    {
     "nome": "Advogados - FG",
-    "respostas": 28,
-    "mediana_min": 7.9
+    "respostas": 29,
+    "mediana_min": 9.3
    },
    {
     "nome": "Roseli",
-    "respostas": 20,
-    "mediana_min": 8.1
+    "respostas": 21,
+    "mediana_min": 10.7
    },
    {
     "nome": "—",
@@ -133,12 +146,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "J.H.D.C.L x A. C. D. A. IMPORTACAO E EXPORTACAO LTDA",
-    "dia": "24/09",
-    "desde": "14:43",
-    "ts": 1790271824094
-   },
    {
     "grupo": "T.B x DROGARIA SAO PAULO S A",
     "dia": "24/09",
@@ -222,11 +229,11 @@
     "ts": 1790173031070
    },
    {
-    "nome": "Maria José 🥰🙌",
-    "tel": "5581*****440",
+    "nome": "556181100691",
+    "tel": "5561*****691",
     "dia": "24/09",
-    "desde": "14:22",
-    "ts": 1790270566484
+    "desde": "14:44",
+    "ts": 1790271884940
    }
   ],
   "grupos": [
@@ -271,12 +278,6 @@
     "dia": "24/09",
     "desde": "13:55",
     "ts": 1790268922861
-   },
-   {
-    "grupo": "J.H.D.C.L x A. C. D. A. IMPORTACAO E EXPORTACAO LTDA",
-    "dia": "24/09",
-    "desde": "14:43",
-    "ts": 1790271824094
    }
   ]
  },
@@ -373,50 +374,50 @@
   ]
  },
  "agora": {
-  "fila": 328,
-  "abertos": 480,
-  "com_atendimento": 7,
-  "online": 5,
+  "fila": 323,
+  "abertos": 479,
+  "com_atendimento": 6,
+  "online": 6,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 8893
+  "ausentes": 1,
+  "espera_media_s": 8900
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-18T17:57:05.424Z",
-  "min_sem_lead": 8636
+  "ultimo_lead_at": "2026-09-24T17:57:32.880Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "Diego Nery",
+   "tel": "5516*****150",
+   "criado": "14:57",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ciItXnNp",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Maria José 🥰🙌",
    "tel": "5581*****440",
    "criado": "14:22",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 36.6,
+   "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/biBBT4y2r",
    "area": "Trabalhista"
   },
   {
-   "nome": "Gilmar",
-   "tel": "5542*****289",
-   "criado": "11:38",
+   "nome": "alessandrogonca001",
+   "tel": "5541*****111",
+   "criado": "13:03",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
+   "espera_min": 0.3,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/6ncziRPOp",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Luciano B.",
-   "tel": "5583*****860",
-   "criado": "13:55",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/91elw2A2a",
+   "criativo": "fb.me/505ajP5YC",
    "area": "Trabalhista"
   },
   {
@@ -431,14 +432,36 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "alessandrogonca001",
-   "tel": "5541*****111",
-   "criado": "13:03",
+   "nome": "Gilmar",
+   "tel": "5542*****289",
+   "criado": "11:38",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.3,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/505ajP5YC",
+   "criativo": "fb.me/6ncziRPOp",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "556181100691",
+   "tel": "5561*****691",
+   "criado": "14:44",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Luciano B.",
+   "tel": "5583*****860",
+   "criado": "13:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
    "area": "Trabalhista"
   },
   {
@@ -539,17 +562,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/505ajP5YC",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "556181100691",
-   "tel": "5561*****691",
-   "criado": "14:44",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   }
  ]
 }
