@@ -1,24 +1,24 @@
 {
- "gerado_em": "24/09/2026, 09:32",
+ "gerado_em": "24/09/2026, 09:47",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 4,
+  "total": 7,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.3,
-  "leads_7d": 174,
-  "tickets_abertos": 506,
+  "leads_7d": 175,
+  "tickets_abertos": 508,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
-   "mediana_min": 0.3
+   "leads": 6,
+   "mediana_min": 0.4
   },
   {
    "nome": "Eduardo",
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/biBBT4y2r",
+   "leads": 1
+  },
   {
    "url": "fb.me/4VQLAvb8d",
    "leads": 1
@@ -53,24 +57,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 3
+  "Trabalhista": 4,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 232,
-  "turnos": 453,
-  "respondidos": 435,
+  "turnos": 456,
+  "respondidos": 438,
   "sem_resposta": 18,
   "sem_resposta_grupos": 18,
-  "mediana_min": 46.7,
+  "mediana_min": 48.5,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 194,
-    "mediana_min": 111.5
+    "respostas": 197,
+    "mediana_min": 114.7
    },
    {
     "nome": "Eduardo",
@@ -458,19 +462,30 @@
   ]
  },
  "agora": {
-  "fila": 323,
-  "abertos": 506,
-  "com_atendimento": 7,
-  "online": 4,
-  "offline": 3,
-  "ausentes": 1,
-  "espera_media_s": 8178
+  "fila": 324,
+  "abertos": 508,
+  "com_atendimento": 6,
+  "online": 6,
+  "offline": 2,
+  "ausentes": 0,
+  "espera_media_s": 8152
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-24T11:45:18.466Z",
-  "min_sem_lead": 47
+  "ultimo_lead_at": "2026-09-20T23:15:26.778Z",
+  "min_sem_lead": 5132
  },
  "leads": [
+  {
+   "nome": "cunhajaimejunior",
+   "tel": "5519*****757",
+   "criado": "09:43",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/biBBT4y2r",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Kethlyn Dias",
    "tel": "5511*****043",
