@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/09/2026, 13:52",
+ "gerado_em": "24/09/2026, 14:07",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 10,
+  "total": 13,
+  "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 180,
-  "tickets_abertos": 473,
+  "leads_7d": 181,
+  "tickets_abertos": 475,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
+   "leads": 12,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 11,
+  "Anuncio": 12,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "fb.me/505ajP5YC",
    "leads": 2
+  },
+  {
+   "url": "fb.me/91elw2A2a",
+   "leads": 1
   },
   {
    "url": "fb.me/6ncziRPOp",
@@ -58,14 +62,10 @@
   {
    "url": "fb.me/4VQLAvb8d",
    "leads": 1
-  },
-  {
-   "url": "fb.me/83JH6uera",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 8,
+  "Trabalhista": 9,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
@@ -73,10 +73,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 245,
-  "turnos": 504,
+  "turnos": 505,
   "respondidos": 497,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 50.4,
   "atendentes": [
    {
@@ -126,6 +126,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "T.B x DROGARIA SAO PAULO S A",
+    "dia": "24/09",
+    "desde": "13:55",
+    "ts": 1790268922861
+   },
    {
     "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
     "dia": "24/09",
@@ -221,6 +227,13 @@
     "dia": "24/09",
     "desde": "13:03",
     "ts": 1790265788437
+   },
+   {
+    "nome": "Luciano B.",
+    "tel": "5583*****860",
+    "dia": "24/09",
+    "desde": "13:55",
+    "ts": 1790268931231
    }
   ],
   "grupos": [
@@ -265,6 +278,12 @@
     "dia": "24/09",
     "desde": "13:35",
     "ts": 1790267736844
+   },
+   {
+    "grupo": "T.B x DROGARIA SAO PAULO S A",
+    "dia": "24/09",
+    "desde": "13:55",
+    "ts": 1790268922861
    }
   ]
  },
@@ -352,19 +371,30 @@
   ]
  },
  "agora": {
-  "fila": 323,
-  "abertos": 473,
+  "fila": 325,
+  "abertos": 475,
   "com_atendimento": 6,
-  "online": 4,
-  "offline": 2,
+  "online": 5,
+  "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 8978
+  "espera_media_s": 8950
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-24T00:49:19.777Z",
-  "min_sem_lead": 963
+  "ultimo_lead_at": "2026-09-15T12:54:41.140Z",
+  "min_sem_lead": 13213
  },
  "leads": [
+  {
+   "nome": "Luciano B.",
+   "tel": "5583*****860",
+   "criado": "13:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Gilmar",
    "tel": "5542*****289",
