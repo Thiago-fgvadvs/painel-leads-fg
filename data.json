@@ -1,17 +1,17 @@
 {
- "gerado_em": "24/09/2026, 14:22",
+ "gerado_em": "24/09/2026, 14:38",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
+  "total": 14,
   "no_sla": 11,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 182,
-  "tickets_abertos": 477,
+  "tickets_abertos": 479,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/biBBT4y2r",
+   "leads": 2
+  },
   {
    "url": "fb.me/505ajP5YC",
    "leads": 2
@@ -58,23 +62,26 @@
   {
    "url": "fb.me/9Kji7hTqb",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4VQLAvb8d",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 10,
   "Nao identificada": 4
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Maria José 🥰🙌",
+   "tel": "5581*****440",
+   "criado": "14:22",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 246,
-  "turnos": 505,
-  "respondidos": 497,
+  "grupos_ativos": 247,
+  "turnos": 506,
+  "respondidos": 498,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
   "mediana_min": 50.4,
@@ -106,8 +113,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 19,
-    "mediana_min": 10.7
+    "respostas": 20,
+    "mediana_min": 8.1
    },
    {
     "nome": "Julia",
@@ -127,16 +134,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "T.B x DROGARIA SAO PAULO S A",
-    "dia": "24/09",
-    "desde": "13:55",
-    "ts": 1790268922861
-   },
-   {
     "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
     "dia": "24/09",
     "desde": "13:35",
     "ts": 1790267736844
+   },
+   {
+    "grupo": "T.B x DROGARIA SAO PAULO S A",
+    "dia": "24/09",
+    "desde": "13:55",
+    "ts": 1790268922861
    },
    {
     "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
@@ -275,13 +282,22 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 8,
+  "total": 9,
   "por_vendedor": {
-   "Roseli": 3,
+   "Roseli": 4,
    "Tiago Bernardo": 4,
    "FG Advogados - Isadora ": 1
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "—",
+    "dia": "24/09",
+    "hora": "14:26",
+    "ts": 1790270806711,
+    "origem": "Outros",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Roseli",
     "cliente": "J",
@@ -306,8 +322,8 @@
     "dia": "22/09",
     "hora": "17:49",
     "ts": 1790110141925,
-    "origem": "Anúncio: instagram.com/p/DcmTUt6sq5W/",
-    "de_anuncio": true
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
    },
    {
     "vendedor": "Tiago Bernardo",
@@ -324,8 +340,8 @@
     "dia": "22/09",
     "hora": "10:26",
     "ts": 1790083583559,
-    "origem": "Anúncio: instagram.com/p/DcmVxjBsO69/",
-    "de_anuncio": true
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
    },
    {
     "vendedor": "FG Advogados - Isadora ",
@@ -357,19 +373,30 @@
   ]
  },
  "agora": {
-  "fila": 326,
-  "abertos": 477,
+  "fila": 327,
+  "abertos": 479,
   "com_atendimento": 6,
-  "online": 3,
-  "offline": 2,
-  "ausentes": 3,
-  "espera_media_s": 8950
+  "online": 5,
+  "offline": 1,
+  "ausentes": 2,
+  "espera_media_s": 8921
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-24T17:22:46.484Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
+  "min_sem_lead": 85264
  },
  "leads": [
+  {
+   "nome": "Maria José 🥰🙌",
+   "tel": "5581*****440",
+   "criado": "14:22",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/biBBT4y2r",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Gilmar",
    "tel": "5542*****289",
