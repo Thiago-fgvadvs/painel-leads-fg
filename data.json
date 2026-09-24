@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/09/2026, 13:06",
+ "gerado_em": "24/09/2026, 13:21",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 180,
-  "tickets_abertos": 470,
+  "tickets_abertos": 471,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -36,15 +36,15 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DdrAuwdsnED/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/6lIu0yPSl",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmWSr9sNdR/",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DdrAuwdsnED/",
    "leads": 1
   },
   {
@@ -72,11 +72,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 242,
-  "turnos": 497,
+  "grupos_ativos": 243,
+  "turnos": 498,
   "respondidos": 492,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 52.1,
   "atendentes": [
    {
@@ -126,6 +126,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E",
+    "dia": "24/09",
+    "desde": "13:11",
+    "ts": 1790266269763
+   },
    {
     "grupo": "J.D.S.L x CLS GARCIA CONSTRUCOES LTDA",
     "dia": "23/09",
@@ -241,6 +247,12 @@
     "dia": "23/09",
     "desde": "17:17",
     "ts": 1790194628926
+   },
+   {
+    "grupo": "E",
+    "dia": "24/09",
+    "desde": "13:11",
+    "ts": 1790266269763
    }
   ]
  },
@@ -328,19 +340,30 @@
   ]
  },
  "agora": {
-  "fila": 324,
-  "abertos": 470,
+  "fila": 325,
+  "abertos": 471,
   "com_atendimento": 6,
   "online": 5,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 9006
+  "espera_media_s": 8978
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-24T16:03:08.437Z",
-  "min_sem_lead": 3
+  "ultimo_lead_at": "2026-01-20T15:11:49.063Z",
+  "min_sem_lead": 355750
  },
  "leads": [
+  {
+   "nome": "Vanda Silva",
+   "tel": "5579*****543",
+   "criado": "12:01",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DdrAuwdsnED/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "alessandrogonca001",
    "tel": "5541*****111",
@@ -372,17 +395,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmWSr9sNdR/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Vanda Silva",
-   "tel": "5579*****543",
-   "criado": "12:01",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DdrAuwdsnED/",
    "area": "Trabalhista"
   },
   {
