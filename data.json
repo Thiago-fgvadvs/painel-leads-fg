@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/09/2026, 12:36",
+ "gerado_em": "24/09/2026, 12:51",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 179,
-  "tickets_abertos": 506,
+  "tickets_abertos": 505,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -32,6 +32,10 @@
  },
  "criativos": [
   {
+   "url": "fb.me/6lIu0yPSl",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmWSr9sNdR/",
    "leads": 1
   },
@@ -45,10 +49,6 @@
   },
   {
    "url": "fb.me/6ncziRPOp",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/6lIu0yPSl",
    "leads": 1
   },
   {
@@ -72,17 +72,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 239,
-  "turnos": 498,
-  "respondidos": 483,
-  "sem_resposta": 15,
-  "sem_resposta_grupos": 15,
+  "grupos_ativos": 240,
+  "turnos": 503,
+  "respondidos": 490,
+  "sem_resposta": 13,
+  "sem_resposta_grupos": 13,
   "mediana_min": 52.1,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 236,
-    "mediana_min": 105.5
+    "respostas": 242,
+    "mediana_min": 101
    },
    {
     "nome": "Eduardo",
@@ -121,23 +121,11 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 3,
-    "mediana_min": 14.4
+    "respostas": 4,
+    "mediana_min": 22.7
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "F.M.F x KIOTO AMBIENTAL S.A",
-    "dia": "24/09",
-    "desde": "12:28",
-    "ts": 1790263710631
-   },
-   {
-    "grupo": "M.C.N.D.C x RIO DE JANEIRO REFRESCOS LTDA",
-    "dia": "24/09",
-    "desde": "12:27",
-    "ts": 1790263672628
-   },
    {
     "grupo": "J.H.V.D.S x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
     "dia": "24/09",
@@ -363,18 +351,6 @@
     "dia": "24/09",
     "desde": "09:12",
     "ts": 1790251975178
-   },
-   {
-    "grupo": "M.C.N.D.C x RIO DE JANEIRO REFRESCOS LTDA",
-    "dia": "24/09",
-    "desde": "12:27",
-    "ts": 1790263672628
-   },
-   {
-    "grupo": "F.M.F x KIOTO AMBIENTAL S.A",
-    "dia": "24/09",
-    "desde": "12:28",
-    "ts": 1790263710631
    }
   ]
  },
@@ -463,18 +439,29 @@
  },
  "agora": {
   "fila": 322,
-  "abertos": 506,
+  "abertos": 505,
   "com_atendimento": 6,
   "online": 4,
-  "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 8802
+  "offline": 2,
+  "ausentes": 2,
+  "espera_media_s": 8829
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 745936
+  "ultimo_lead_at": "2026-01-20T15:11:49.063Z",
+  "min_sem_lead": 355719
  },
  "leads": [
+  {
+   "nome": "Danny 😒",
+   "tel": "5841*****905",
+   "criado": "00:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6lIu0yPSl",
+   "area": "Trabalhista"
+  },
   {
    "nome": "556581027349",
    "tel": "5565*****349",
@@ -517,17 +504,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/6ncziRPOp",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Danny 😒",
-   "tel": "5841*****905",
-   "criado": "00:32",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6lIu0yPSl",
    "area": "Trabalhista"
   },
   {
