@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/09/2026, 16:40",
+ "gerado_em": "24/09/2026, 16:55",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 94,
   "mediana_geral": 0.4,
   "leads_7d": 189,
-  "tickets_abertos": 465,
+  "tickets_abertos": 454,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -92,22 +92,22 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 253,
-  "turnos": 536,
-  "respondidos": 528,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 48.5,
+  "grupos_ativos": 254,
+  "turnos": 538,
+  "respondidos": 531,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 46.7,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 260,
-    "mediana_min": 96.6
+    "respostas": 262,
+    "mediana_min": 94.2
    },
    {
     "nome": "Eduardo",
-    "respostas": 92,
-    "mediana_min": 4.2
+    "respostas": 93,
+    "mediana_min": 4.5
    },
    {
     "nome": "Gabrielle",
@@ -147,16 +147,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.C.T.E x ASSOCIACAO HOSPITALAR SANTA ROSALIA",
-    "dia": "24/09",
-    "desde": "16:35",
-    "ts": 1790278546460
-   },
-   {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "24/09",
-    "desde": "16:26",
-    "ts": 1790277978442
+    "desde": "16:42",
+    "ts": 1790278969524
    },
    {
     "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
@@ -282,26 +276,29 @@
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "24/09",
-    "desde": "16:26",
-    "ts": 1790277978442
-   },
-   {
-    "grupo": "M.C.T.E x ASSOCIACAO HOSPITALAR SANTA ROSALIA",
-    "dia": "24/09",
-    "desde": "16:35",
-    "ts": 1790278546460
+    "desde": "16:42",
+    "ts": 1790278969524
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 10,
+  "total": 11,
   "por_vendedor": {
-   "Roseli": 5,
+   "Roseli": 6,
    "Tiago Bernardo": 4,
    "FG Advogados - Isadora ": 1
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "C.S",
+    "dia": "24/09",
+    "hora": "16:53",
+    "ts": 1790279585611,
+    "origem": "Indicação",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Roseli",
     "cliente": "E",
@@ -395,17 +392,17 @@
   ]
  },
  "agora": {
-  "fila": 322,
-  "abertos": 465,
+  "fila": 321,
+  "abertos": 454,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 6,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 8170
+  "ausentes": 1,
+  "espera_media_s": 8326
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.378Z",
-  "min_sem_lead": 746181
+  "ultimo_lead_at": "2026-09-01T15:32:35.373Z",
+  "min_sem_lead": 33383
  },
  "leads": [
   {
@@ -431,7 +428,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "CORRESPONDENTE Fernanda Cristina Pires Correa",
+   "nome": "Dra Fernanda",
    "tel": "5516*****630",
    "criado": "15:59",
    "atendente": "Eduardo",
@@ -453,7 +450,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "CORRESPONDENTE Regiane Oliveira da Silva ",
+   "nome": "Regiane Oliveira",
    "tel": "5511*****809",
    "criado": "15:46",
    "atendente": "Eduardo",
