@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/09/2026, 09:47",
+ "gerado_em": "24/09/2026, 10:02",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.3,
   "leads_7d": 175,
-  "tickets_abertos": 508,
+  "tickets_abertos": 507,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -32,11 +32,15 @@
  },
  "criativos": [
   {
-   "url": "fb.me/biBBT4y2r",
+   "url": "fb.me/4VQLAvb8d",
    "leads": 1
   },
   {
-   "url": "fb.me/4VQLAvb8d",
+   "url": "fb.me/6lIu0yPSl",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/biBBT4y2r",
    "leads": 1
   },
   {
@@ -48,33 +52,29 @@
    "leads": 1
   },
   {
-   "url": "fb.me/6lIu0yPSl",
-   "leads": 1
-  },
-  {
    "url": "fb.me/505ajP5YC",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 4,
-  "Nao identificada": 3
+  "Nao identificada": 3,
+  "Trabalhista": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 232,
-  "turnos": 456,
-  "respondidos": 438,
-  "sem_resposta": 18,
-  "sem_resposta_grupos": 18,
-  "mediana_min": 48.5,
+  "turnos": 461,
+  "respondidos": 442,
+  "sem_resposta": 19,
+  "sem_resposta_grupos": 19,
+  "mediana_min": 49.2,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 197,
-    "mediana_min": 114.7
+    "respostas": 201,
+    "mediana_min": 124.9
    },
    {
     "nome": "Eduardo",
@@ -119,6 +119,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "C.A.G x R&D MINERACAO E CONSTRUCAO LTDA",
+    "dia": "24/09",
+    "desde": "09:59",
+    "ts": 1790254744276
+   },
+   {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "24/09",
+    "desde": "09:50",
+    "ts": 1790254250261
+   },
+   {
     "grupo": "J.H.V.D.S x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
     "dia": "24/09",
     "desde": "09:12",
@@ -141,12 +153,6 @@
     "dia": "18/09",
     "desde": "18:37",
     "ts": 1789767441244
-   },
-   {
-    "grupo": "B.B.A.L x UNIMED",
-    "dia": "23/09",
-    "desde": "17:49",
-    "ts": 1790196575056
    },
    {
     "grupo": "F.M.C.A x ITAU UNIBANCO S.A.",
@@ -353,12 +359,6 @@
     "ts": 1790196383006
    },
    {
-    "grupo": "B.B.A.L x UNIMED",
-    "dia": "23/09",
-    "desde": "17:49",
-    "ts": 1790196575056
-   },
-   {
     "grupo": "M.H.V.D.S x ROAD - SERVICOS TEMPORARIOS E TERCEIRIZADOS LTDA",
     "dia": "24/09",
     "desde": "08:43",
@@ -375,6 +375,18 @@
     "dia": "24/09",
     "desde": "09:12",
     "ts": 1790251975178
+   },
+   {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "24/09",
+    "desde": "09:50",
+    "ts": 1790254250261
+   },
+   {
+    "grupo": "C.A.G x R&D MINERACAO E CONSTRUCAO LTDA",
+    "dia": "24/09",
+    "desde": "09:59",
+    "ts": 1790254744276
    }
   ]
  },
@@ -462,28 +474,39 @@
   ]
  },
  "agora": {
-  "fila": 324,
-  "abertos": 508,
+  "fila": 321,
+  "abertos": 507,
   "com_atendimento": 6,
-  "online": 6,
-  "offline": 2,
-  "ausentes": 0,
+  "online": 4,
+  "offline": 3,
+  "ausentes": 1,
   "espera_media_s": 8152
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-20T23:15:26.778Z",
-  "min_sem_lead": 5132
+  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
+  "min_sem_lead": 84989
  },
  "leads": [
   {
-   "nome": "cunhajaimejunior",
-   "tel": "5519*****757",
-   "criado": "09:43",
+   "nome": "Julio Cesar",
+   "tel": "5586*****547",
+   "criado": "08:53",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
+   "espera_min": 0.5,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/biBBT4y2r",
+   "criativo": "fb.me/4VQLAvb8d",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Danny 😒",
+   "tel": "5841*****905",
+   "criado": "00:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6lIu0yPSl",
    "area": "Trabalhista"
   },
   {
@@ -498,15 +521,15 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "Julio Cesar",
-   "tel": "5586*****547",
-   "criado": "08:53",
+   "nome": "cunhajaimejunior",
+   "tel": "5519*****757",
+   "criado": "09:43",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/4VQLAvb8d",
-   "area": "Nao identificada"
+   "criativo": "fb.me/biBBT4y2r",
+   "area": "Trabalhista"
   },
   {
    "nome": "Jô",
@@ -529,17 +552,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/83JH6uera",
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Danny 😒",
-   "tel": "5841*****905",
-   "criado": "00:32",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6lIu0yPSl",
-   "area": "Trabalhista"
   },
   {
    "nome": "Wodsom",
