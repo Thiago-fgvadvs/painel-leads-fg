@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/09/2026, 17:11",
+ "gerado_em": "24/09/2026, 17:26",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
-  "no_sla": 18,
+  "total": 23,
+  "no_sla": 19,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 190,
-  "tickets_abertos": 454,
+  "leads_7d": 191,
+  "tickets_abertos": 455,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 17,
+   "leads": 18,
    "mediana_min": 0.4
   },
   {
@@ -33,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 18,
-  "Direto/Indicacao": 4
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
@@ -70,7 +70,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 14,
+  "Trabalhista": 15,
   "Nao identificada": 8
  },
  "sem_resposta_lista": [
@@ -92,17 +92,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 255,
-  "turnos": 539,
-  "respondidos": 531,
+  "grupos_ativos": 256,
+  "turnos": 541,
+  "respondidos": 533,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
-  "mediana_min": 46.7,
+  "mediana_min": 46.5,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 262,
-    "mediana_min": 94.2
+    "respostas": 264,
+    "mediana_min": 93.7
    },
    {
     "nome": "Eduardo",
@@ -147,16 +147,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.S.D.J x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
+    "dia": "24/09",
+    "desde": "17:15",
+    "ts": 1790280916596
+   },
+   {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "24/09",
     "desde": "16:42",
     "ts": 1790278969524
-   },
-   {
-    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
-    "dia": "24/09",
-    "desde": "16:53",
-    "ts": 1790279586548
    },
    {
     "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
@@ -286,22 +286,31 @@
     "ts": 1790278969524
    },
    {
-    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
+    "grupo": "L.S.D.J x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
     "dia": "24/09",
-    "desde": "16:53",
-    "ts": 1790279586548
+    "desde": "17:15",
+    "ts": 1790280916596
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 11,
+  "total": 12,
   "por_vendedor": {
-   "Roseli": 6,
+   "Roseli": 7,
    "Tiago Bernardo": 4,
    "FG Advogados - Isadora ": 1
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "—",
+    "dia": "24/09",
+    "hora": "17:16",
+    "ts": 1790280981285,
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Roseli",
     "cliente": "C.S",
@@ -405,18 +414,29 @@
  },
  "agora": {
   "fila": 323,
-  "abertos": 454,
+  "abertos": 455,
   "com_atendimento": 7,
-  "online": 5,
+  "online": 6,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 8354
+  "ausentes": 1,
+  "espera_media_s": 8326
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:34.711Z",
-  "min_sem_lead": 525708
+  "ultimo_lead_at": "2026-09-24T20:23:36.137Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "557799770059",
+   "tel": "5577*****059",
+   "criado": "17:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "𝕯𝖆𝖗𝖑𝖔𝖓 𝕬𝖒𝖆𝖗𝖔",
    "tel": "5565*****349",
