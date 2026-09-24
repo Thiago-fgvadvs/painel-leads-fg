@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/09/2026, 09:01",
+ "gerado_em": "24/09/2026, 09:17",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.3,
   "leads_7d": 174,
-  "tickets_abertos": 506,
+  "tickets_abertos": 507,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -61,11 +61,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 231,
-  "turnos": 450,
-  "respondidos": 433,
-  "sem_resposta": 17,
-  "sem_resposta_grupos": 17,
-  "mediana_min": 46.7,
+  "turnos": 453,
+  "respondidos": 434,
+  "sem_resposta": 19,
+  "sem_resposta_grupos": 19,
+  "mediana_min": 47.4,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -74,7 +74,7 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 79,
+    "respostas": 80,
     "mediana_min": 4.8
    },
    {
@@ -114,6 +114,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.H.V.D.S x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
+    "dia": "24/09",
+    "desde": "09:12",
+    "ts": 1790251975178
+   },
+   {
+    "grupo": "C.A.D.S x ROSANA FLORES",
+    "dia": "24/09",
+    "desde": "09:07",
+    "ts": 1790251622132
+   },
    {
     "grupo": "L.F.C.M x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
     "dia": "24/09",
@@ -359,6 +371,18 @@
     "dia": "24/09",
     "desde": "09:01",
     "ts": 1790251301122
+   },
+   {
+    "grupo": "C.A.D.S x ROSANA FLORES",
+    "dia": "24/09",
+    "desde": "09:07",
+    "ts": 1790251622132
+   },
+   {
+    "grupo": "J.H.V.D.S x AMP CONSTRUÇÃO CIVIL E SOLUÇÕES AMBIENTAIS LTDA",
+    "dia": "24/09",
+    "desde": "09:12",
+    "ts": 1790251975178
    }
   ]
  },
@@ -447,20 +471,20 @@
  },
  "agora": {
   "fila": 323,
-  "abertos": 506,
-  "com_atendimento": 6,
+  "abertos": 507,
+  "com_atendimento": 7,
   "online": 4,
   "offline": 3,
   "ausentes": 1,
   "espera_media_s": 8178
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-24T11:45:18.466Z",
-  "min_sem_lead": 16
+  "ultimo_lead_at": "2026-09-19T08:43:26.101Z",
+  "min_sem_lead": 7414
  },
  "leads": [
   {
-   "nome": "CORRESPONDENTE Kethlyn Adriani Dias dos Santos ",
+   "nome": "Kethlyn Dias",
    "tel": "5511*****043",
    "criado": "08:45",
    "atendente": "Eduardo",
@@ -482,7 +506,7 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "555197672485",
+   "nome": "Jô",
    "tel": "5551*****485",
    "criado": "08:45",
    "atendente": "FG Advogados - Isadora ",
