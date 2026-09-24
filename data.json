@@ -1,17 +1,17 @@
 {
- "gerado_em": "24/09/2026, 17:26",
+ "gerado_em": "24/09/2026, 17:41",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
+  "total": 24,
   "no_sla": 19,
   "fora_sla": 1,
-  "sem_resposta": 1,
+  "sem_resposta": 2,
   "fora_horario": 2,
   "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 191,
-  "tickets_abertos": 455,
+  "leads_7d": 192,
+  "tickets_abertos": 457,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -43,6 +43,10 @@
   {
    "url": "fb.me/biBBT4y2r",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmWSr9sNdR/",
@@ -63,17 +67,19 @@
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7ciItXnNp",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
+  "Trabalhista": 16,
   "Nao identificada": 8
  },
  "sem_resposta_lista": [
+  {
+   "nome": "5522999779036",
+   "tel": "5522*****036",
+   "criado": "17:41",
+   "area": "Trabalhista"
+  },
   {
    "nome": "556181100691",
    "tel": "5561*****691",
@@ -93,16 +99,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 256,
-  "turnos": 541,
-  "respondidos": 533,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 46.5,
+  "turnos": 543,
+  "respondidos": 534,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 46.1,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 264,
-    "mediana_min": 93.7
+    "respostas": 265,
+    "mediana_min": 93.6
    },
    {
     "nome": "Eduardo",
@@ -147,10 +153,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "L.S.D.J x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
+    "grupo": "F.G x ITAU UNIBANCO",
     "dia": "24/09",
-    "desde": "17:15",
-    "ts": 1790280916596
+    "desde": "17:40",
+    "ts": 1790282414613
+   },
+   {
+    "grupo": "A.J.C",
+    "dia": "24/09",
+    "desde": "17:40",
+    "ts": 1790282408612
    },
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
@@ -240,6 +252,13 @@
     "dia": "24/09",
     "desde": "14:44",
     "ts": 1790271884940
+   },
+   {
+    "nome": "5522999779036",
+    "tel": "5522*****036",
+    "dia": "24/09",
+    "desde": "17:41",
+    "ts": 1790282475408
    }
   ],
   "grupos": [
@@ -286,10 +305,16 @@
     "ts": 1790278969524
    },
    {
-    "grupo": "L.S.D.J x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
+    "grupo": "A.J.C",
     "dia": "24/09",
-    "desde": "17:15",
-    "ts": 1790280916596
+    "desde": "17:40",
+    "ts": 1790282408612
+   },
+   {
+    "grupo": "F.G x ITAU UNIBANCO",
+    "dia": "24/09",
+    "desde": "17:40",
+    "ts": 1790282414613
    }
   ]
  },
@@ -413,19 +438,30 @@
   ]
  },
  "agora": {
-  "fila": 323,
-  "abertos": 455,
+  "fila": 324,
+  "abertos": 457,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 4,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 3,
   "espera_media_s": 8326
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-24T20:23:36.137Z",
-  "min_sem_lead": 3
+  "ultimo_lead_at": "2026-09-24T20:41:15.408Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "5522999779036",
+   "tel": "5522*****036",
+   "criado": "17:41",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "557799770059",
    "tel": "5577*****059",
