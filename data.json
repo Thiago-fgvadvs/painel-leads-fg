@@ -1,39 +1,39 @@
 {
- "gerado_em": "24/09/2026, 15:39",
+ "gerado_em": "24/09/2026, 15:54",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
-  "no_sla": 13,
+  "total": 19,
+  "no_sla": 15,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 93,
+  "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 185,
-  "tickets_abertos": 476,
+  "leads_7d": 187,
+  "tickets_abertos": 464,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 14,
+   "leads": 15,
+   "mediana_min": 0.4
+  },
+  {
+   "nome": "Eduardo",
+   "leads": 2,
    "mediana_min": 0.4
   },
   {
    "nome": "Tiago Bernardo",
    "leads": 1,
    "mediana_min": 36.6
-  },
-  {
-   "nome": "Eduardo",
-   "leads": 1,
-   "mediana_min": 0.3
   }
  ],
  "origem": {
-  "Anuncio": 15,
-  "Direto/Indicacao": 2
+  "Anuncio": 16,
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -45,6 +45,18 @@
    "leads": 2
   },
   {
+   "url": "fb.me/7ciItXnNp",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/6ncziRPOp",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmWSr9sNdR/",
    "leads": 1
   },
@@ -53,25 +65,13 @@
    "leads": 1
   },
   {
-   "url": "fb.me/7ciItXnNp",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DdrAuwdsnED/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/6ncziRPOp",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/6lIu0yPSl",
    "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 12,
-  "Nao identificada": 5
+  "Nao identificada": 7
  },
  "sem_resposta_lista": [
   {
@@ -92,11 +92,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 250,
-  "turnos": 513,
+  "grupos_ativos": 251,
+  "turnos": 514,
   "respondidos": 506,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 50.1,
   "atendentes": [
    {
@@ -151,6 +151,12 @@
     "dia": "24/09",
     "desde": "15:34",
     "ts": 1790274884235
+   },
+   {
+    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
+    "dia": "24/09",
+    "desde": "15:31",
+    "ts": 1790274693230
    },
    {
     "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
@@ -274,6 +280,12 @@
     "ts": 1790267497830
    },
    {
+    "grupo": "E.C.D.O x SPDM - ASSOCIACAO PAULISTA PARA O DESENVOLVIMENTO DA MEDICINA",
+    "dia": "24/09",
+    "desde": "15:31",
+    "ts": 1790274693230
+   },
+   {
     "grupo": "E",
     "dia": "24/09",
     "desde": "15:34",
@@ -283,13 +295,22 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 9,
+  "total": 10,
   "por_vendedor": {
-   "Roseli": 4,
+   "Roseli": 5,
    "Tiago Bernardo": 4,
    "FG Advogados - Isadora ": 1
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "E",
+    "dia": "24/09",
+    "hora": "15:52",
+    "ts": 1790275942610,
+    "origem": "Indicação",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Roseli",
     "cliente": "—",
@@ -368,25 +389,69 @@
     "dia": "21/09",
     "hora": "12:35",
     "ts": 1790004905885,
-    "origem": "Anúncio: fb.me/6lIu0yPSl",
-    "de_anuncio": true
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
    }
   ]
  },
  "agora": {
-  "fila": 321,
-  "abertos": 476,
-  "com_atendimento": 7,
-  "online": 6,
+  "fila": 322,
+  "abertos": 464,
+  "com_atendimento": 8,
+  "online": 7,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 8985
+  "ausentes": 0,
+  "espera_media_s": 8170
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T13:33:02.163Z",
-  "min_sem_lead": 3186
+  "ultimo_lead_at": "2026-09-17T21:42:47.446Z",
+  "min_sem_lead": 9912
  },
  "leads": [
+  {
+   "nome": "Diego Nery",
+   "tel": "5516*****150",
+   "criado": "14:57",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ciItXnNp",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "CORRESPONDENTE Regiane Oliveira da Silva ",
+   "tel": "5511*****809",
+   "criado": "15:46",
+   "atendente": "Eduardo",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Gilmar",
+   "tel": "5542*****289",
+   "criado": "11:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6ncziRPOp",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "🙌🏻",
+   "tel": "5514*****267",
+   "criado": "15:44",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "𝕯𝖆𝖗𝖑𝖔𝖓 𝕬𝖒𝖆𝖗𝖔",
    "tel": "5565*****349",
@@ -421,17 +486,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Diego Nery",
-   "tel": "5516*****150",
-   "criado": "14:57",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ciItXnNp",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Maria José 🥰🙌",
    "tel": "5581*****440",
    "criado": "14:22",
@@ -462,17 +516,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DdrAuwdsnED/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Gilmar",
-   "tel": "5542*****289",
-   "criado": "11:38",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6ncziRPOp",
    "area": "Trabalhista"
   },
   {
