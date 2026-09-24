@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/09/2026, 12:05",
+ "gerado_em": "24/09/2026, 12:20",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 8,
+  "total": 11,
+  "no_sla": 9,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 178,
-  "tickets_abertos": 502,
+  "leads_7d": 179,
+  "tickets_abertos": 505,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": 0.4
   },
   {
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmWSr9sNdR/",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DdrAuwdsnED/",
    "leads": 1
@@ -58,31 +62,27 @@
   {
    "url": "fb.me/biBBT4y2r",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmW5LEMrD9/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 6,
+  "Trabalhista": 7,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 237,
-  "turnos": 485,
-  "respondidos": 472,
+  "grupos_ativos": 238,
+  "turnos": 493,
+  "respondidos": 480,
   "sem_resposta": 13,
   "sem_resposta_grupos": 13,
-  "mediana_min": 58.5,
+  "mediana_min": 53.8,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 225,
-    "mediana_min": 114.7
+    "respostas": 233,
+    "mediana_min": 110.3
    },
    {
     "nome": "Eduardo",
@@ -243,6 +243,34 @@
     "dia": "23/09",
     "desde": "11:17",
     "ts": 1790173031070
+   },
+   {
+    "nome": "Gilmar",
+    "tel": "5542*****289",
+    "dia": "24/09",
+    "desde": "11:38",
+    "ts": 1790260691383
+   },
+   {
+    "nome": "Matheus Silva 🥰",
+    "tel": "5521*****686",
+    "dia": "24/09",
+    "desde": "11:53",
+    "ts": 1790261593758
+   },
+   {
+    "nome": "Vanda Silva",
+    "tel": "5579*****543",
+    "dia": "24/09",
+    "desde": "12:01",
+    "ts": 1790262108202
+   },
+   {
+    "nome": "556581027349",
+    "tel": "5565*****349",
+    "dia": "24/09",
+    "desde": "12:13",
+    "ts": 1790262835174
    }
   ],
   "grupos": [
@@ -410,21 +438,32 @@
   ]
  },
  "agora": {
-  "fila": 321,
-  "abertos": 502,
+  "fila": 323,
+  "abertos": 505,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 6,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 8829
+  "ausentes": 1,
+  "espera_media_s": 8775
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-15T12:54:41.140Z",
-  "min_sem_lead": 13091
+  "min_sem_lead": 13106
  },
  "leads": [
   {
-   "nome": "557999783543",
+   "nome": "556581027349",
+   "tel": "5565*****349",
+   "criado": "12:13",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmWSr9sNdR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Vanda Silva",
    "tel": "5579*****543",
    "criado": "12:01",
    "atendente": "FG Advogados - Isadora ",
