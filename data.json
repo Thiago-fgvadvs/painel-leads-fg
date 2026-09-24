@@ -1,24 +1,24 @@
 {
- "gerado_em": "24/09/2026, 08:00",
+ "gerado_em": "24/09/2026, 08:16",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
   "total": 3,
-  "no_sla": 0,
+  "no_sla": 1,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 2,
-  "pct_sla": 0,
-  "mediana_geral": null,
+  "pct_sla": 100,
+  "mediana_geral": 0.3,
   "leads_7d": 171,
-  "tickets_abertos": 499,
+  "tickets_abertos": 500,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 2,
-   "mediana_min": null
+   "leads": 3,
+   "mediana_min": 0.3
   }
  ],
  "origem": {
@@ -43,14 +43,7 @@
   "Nao identificada": 1,
   "Trabalhista": 2
  },
- "sem_resposta_lista": [
-  {
-   "nome": "Eny",
-   "tel": "5532*****131",
-   "criado": "08:00",
-   "area": "Nao identificada"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -243,13 +236,6 @@
     "dia": "23/09",
     "desde": "11:17",
     "ts": 1790173031070
-   },
-   {
-    "nome": "Eny",
-    "tel": "5532*****131",
-    "dia": "24/09",
-    "desde": "08:00",
-    "ts": 1790247627139
    }
   ],
   "grupos": [
@@ -435,26 +421,26 @@
   ]
  },
  "agora": {
-  "fila": 318,
-  "abertos": 499,
+  "fila": 319,
+  "abertos": 500,
   "com_atendimento": 6,
   "online": 3,
   "offline": 4,
   "ausentes": 1,
-  "espera_media_s": 8282
+  "espera_media_s": 8255
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-24T11:00:27.139Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-02-26T20:45:32.743Z",
+  "min_sem_lead": 301831
  },
  "leads": [
   {
    "nome": "Eny",
    "tel": "5532*****131",
    "criado": "08:00",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/83JH6uera",
    "area": "Nao identificada"
