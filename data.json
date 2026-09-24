@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/09/2026, 16:55",
+ "gerado_em": "24/09/2026, 17:11",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 17,
+  "total": 22,
+  "no_sla": 18,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 94,
+  "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 189,
+  "leads_7d": 190,
   "tickets_abertos": 454,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -45,6 +45,18 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcmWSr9sNdR/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/6ncziRPOp",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/8IVPdycg0",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DdpRFtBMw3Z/",
    "leads": 1
   },
@@ -55,22 +67,10 @@
   {
    "url": "fb.me/7ciItXnNp",
    "leads": 1
-  },
-  {
-   "url": "fb.me/6ncziRPOp",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmWSr9sNdR/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/91elw2A2a",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 13,
+  "Trabalhista": 14,
   "Nao identificada": 8
  },
  "sem_resposta_lista": [
@@ -92,11 +92,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 254,
-  "turnos": 538,
+  "grupos_ativos": 255,
+  "turnos": 539,
   "respondidos": 531,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
   "mediana_min": 46.7,
   "atendentes": [
    {
@@ -151,6 +151,12 @@
     "dia": "24/09",
     "desde": "16:42",
     "ts": 1790278969524
+   },
+   {
+    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
+    "dia": "24/09",
+    "desde": "16:53",
+    "ts": 1790279586548
    },
    {
     "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
@@ -278,6 +284,12 @@
     "dia": "24/09",
     "desde": "16:42",
     "ts": 1790278969524
+   },
+   {
+    "grupo": "B.R.N.D.S x CALI AMBIENTAL LIMPEZA E CONSERVACAO SA",
+    "dia": "24/09",
+    "desde": "16:53",
+    "ts": 1790279586548
    }
   ]
  },
@@ -392,19 +404,52 @@
   ]
  },
  "agora": {
-  "fila": 321,
+  "fila": 323,
   "abertos": 454,
   "com_atendimento": 7,
-  "online": 6,
+  "online": 5,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 8326
+  "ausentes": 2,
+  "espera_media_s": 8354
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-01T15:32:35.373Z",
-  "min_sem_lead": 33383
+  "ultimo_lead_at": "2025-09-24T18:22:34.711Z",
+  "min_sem_lead": 525708
  },
  "leads": [
+  {
+   "nome": "𝕯𝖆𝖗𝖑𝖔𝖓 𝕬𝖒𝖆𝖗𝖔",
+   "tel": "5565*****349",
+   "criado": "12:13",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmWSr9sNdR/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Gilmar",
+   "tel": "5542*****289",
+   "criado": "11:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6ncziRPOp",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Roberto Alves Tattoos🔏",
+   "tel": "5511*****391",
+   "criado": "17:01",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8IVPdycg0",
+   "area": "Trabalhista"
+  },
   {
    "nome": "wandesonlima511",
    "tel": "5562*****860",
@@ -459,28 +504,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Gilmar",
-   "tel": "5542*****289",
-   "criado": "11:38",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6ncziRPOp",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "𝕯𝖆𝖗𝖑𝖔𝖓 𝕬𝖒𝖆𝖗𝖔",
-   "tel": "5565*****349",
-   "criado": "12:13",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmWSr9sNdR/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Luciano B.",
