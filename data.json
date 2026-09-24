@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/09/2026, 18:27",
+ "gerado_em": "24/09/2026, 18:42",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
-  "no_sla": 21,
+  "total": 27,
+  "no_sla": 23,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 95,
+  "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 193,
-  "tickets_abertos": 459,
+  "leads_7d": 195,
+  "tickets_abertos": 461,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 22,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 22,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -41,11 +41,15 @@
    "leads": 3
   },
   {
+   "url": "fb.me/875plPmzH",
+   "leads": 2
+  },
+  {
    "url": "fb.me/biBBT4y2r",
    "leads": 2
   },
   {
-   "url": "fb.me/875plPmzH",
+   "url": "fb.me/7ZVZhwxMh",
    "leads": 1
   },
   {
@@ -63,14 +67,10 @@
   {
    "url": "fb.me/8IVPdycg0",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DdpRFtBMw3Z/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 18,
+  "Trabalhista": 20,
   "Nao identificada": 7
  },
  "sem_resposta_lista": [
@@ -425,19 +425,41 @@
   ]
  },
  "agora": {
-  "fila": 326,
-  "abertos": 459,
+  "fila": 328,
+  "abertos": 461,
   "com_atendimento": 6,
   "online": 4,
-  "offline": 2,
-  "ausentes": 2,
-  "espera_media_s": 8271
+  "offline": 3,
+  "ausentes": 1,
+  "espera_media_s": 8217
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-23T16:23:51.177Z",
-  "min_sem_lead": 1743
+  "ultimo_lead_at": "2026-09-24T21:38:36.088Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "553591723016",
+   "tel": "5535*****016",
+   "criado": "18:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554197368652",
+   "tel": "5541*****652",
+   "criado": "18:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Deus Proverá",
    "tel": "5547*****699",
