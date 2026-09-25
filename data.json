@@ -1,31 +1,39 @@
 {
- "gerado_em": "25/09/2026, 10:16",
+ "gerado_em": "25/09/2026, 10:31",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 2,
+  "total": 6,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 185,
-  "tickets_abertos": 481,
+  "leads_7d": 186,
+  "tickets_abertos": 482,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/505ajP5YC",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DdpRFtBMw3Z/",
    "leads": 1
@@ -35,16 +43,12 @@
    "leads": 1
   },
   {
-   "url": "fb.me/505ajP5YC",
-   "leads": 1
-  },
-  {
    "url": "fb.me/4REn6vfcB",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 4,
+  "Trabalhista": 5,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
@@ -52,16 +56,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 248,
-  "turnos": 484,
-  "respondidos": 476,
+  "turnos": 485,
+  "respondidos": 477,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
-  "mediana_min": 39.7,
+  "mediana_min": 37.6,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 237,
-    "mediana_min": 93.8
+    "respostas": 238,
+    "mediana_min": 93.7
    },
    {
     "nome": "Eduardo",
@@ -106,10 +110,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "25/09",
-    "desde": "10:15",
-    "ts": 1790342117249
+    "desde": "10:16",
+    "ts": 1790342194251
    },
    {
     "grupo": "E",
@@ -238,10 +242,10 @@
     "ts": 1790299127253
    },
    {
-    "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "25/09",
-    "desde": "10:15",
-    "ts": 1790342117249
+    "desde": "10:16",
+    "ts": 1790342194251
    }
   ]
  },
@@ -365,19 +369,41 @@
   ]
  },
  "agora": {
-  "fila": 344,
-  "abertos": 481,
+  "fila": 342,
+  "abertos": 482,
   "com_atendimento": 6,
-  "online": 6,
+  "online": 5,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 7783
+  "ausentes": 2,
+  "espera_media_s": 7759
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-23T16:45:04.651Z",
-  "min_sem_lead": 2671
+  "ultimo_lead_at": "2026-09-25T01:43:30.451Z",
+  "min_sem_lead": 708
  },
  "leads": [
+  {
+   "nome": "Adão Dos Reis",
+   "tel": "5549*****685",
+   "criado": "07:18",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558481594462",
+   "tel": "5584*****462",
+   "criado": "10:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Rafael Soares",
    "tel": "5583*****191",
@@ -398,17 +424,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Ddrs04zMch7/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Adão Dos Reis",
-   "tel": "5549*****685",
-   "criado": "07:18",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/505ajP5YC",
    "area": "Trabalhista"
   },
   {
