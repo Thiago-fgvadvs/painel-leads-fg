@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/09/2026, 16:22",
+ "gerado_em": "25/09/2026, 16:37",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 92,
   "mediana_geral": 0.4,
   "leads_7d": 195,
-  "tickets_abertos": 490,
+  "tickets_abertos": 485,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -81,17 +81,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 255,
-  "turnos": 554,
-  "respondidos": 547,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 37.4,
+  "grupos_ativos": 257,
+  "turnos": 559,
+  "respondidos": 554,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 35.8,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 283,
-    "mediana_min": 87.5
+    "respostas": 289,
+    "mediana_min": 86
    },
    {
     "nome": "Eduardo",
@@ -110,8 +110,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 26,
-    "mediana_min": 4.7
+    "respostas": 27,
+    "mediana_min": 5.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -138,26 +138,14 @@
    {
     "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "25/09",
-    "desde": "16:21",
-    "ts": 1790364077387
-   },
-   {
-    "grupo": "B.A.R.S x REALMAR DISTRIBUIDORA LTDA.",
-    "dia": "25/09",
-    "desde": "16:02",
-    "ts": 1790362960257
+    "desde": "16:27",
+    "ts": 1790364441419
    },
    {
     "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
     "dia": "25/09",
     "desde": "12:25",
     "ts": 1790349955638
-   },
-   {
-    "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
-    "dia": "24/09",
-    "desde": "13:31",
-    "ts": 1790267497830
    },
    {
     "grupo": "E.M.M.R x GRUPO CASAS BAHIA S.A.",
@@ -238,28 +226,16 @@
     "ts": 1790177084179
    },
    {
-    "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
-    "dia": "24/09",
-    "desde": "13:31",
-    "ts": 1790267497830
-   },
-   {
     "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
     "dia": "25/09",
     "desde": "12:25",
     "ts": 1790349955638
    },
    {
-    "grupo": "B.A.R.S x REALMAR DISTRIBUIDORA LTDA.",
-    "dia": "25/09",
-    "desde": "16:02",
-    "ts": 1790362960257
-   },
-   {
     "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
     "dia": "25/09",
-    "desde": "16:21",
-    "ts": 1790364077387
+    "desde": "16:27",
+    "ts": 1790364441419
    }
   ]
  },
@@ -383,23 +359,23 @@
   ]
  },
  "agora": {
-  "fila": 333,
-  "abertos": 490,
+  "fila": 327,
+  "abertos": 485,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 6,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 7641
+  "ausentes": 1,
+  "espera_media_s": 11381
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-25T16:10:52.417Z",
-  "min_sem_lead": 192
+  "ultimo_lead_at": "2026-08-31T16:09:35.474Z",
+  "min_sem_lead": 36208
  },
  "leads": [
   {
-   "nome": "Marcelo",
-   "tel": "5511*****031",
-   "criado": "13:10",
+   "nome": "𝑮𝒂𝒃𝒓𝒊𝒆𝒍𝒚 𝒑𝒓𝒂𝒅𝒐 🤸🏻‍♀️",
+   "tel": "5549*****364",
+   "criado": "13:35",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
@@ -419,9 +395,9 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "𝑮𝒂𝒃𝒓𝒊𝒆𝒍𝒚 𝒑𝒓𝒂𝒅𝒐 🤸🏻‍♀️",
-   "tel": "5549*****364",
-   "criado": "13:35",
+   "nome": "Marcelo",
+   "tel": "5511*****031",
+   "criado": "13:10",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
