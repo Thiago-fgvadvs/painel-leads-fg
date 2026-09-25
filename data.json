@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/09/2026, 13:49",
+ "gerado_em": "25/09/2026, 14:05",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 91,
   "mediana_geral": 0.4,
   "leads_7d": 193,
-  "tickets_abertos": 491,
+  "tickets_abertos": 489,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -82,15 +82,15 @@
   "dias": 7,
   "grupos_ativos": 252,
   "turnos": 535,
-  "respondidos": 526,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 37.5,
+  "respondidos": 527,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 37.4,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 271,
-    "mediana_min": 89.1
+    "respostas": 272,
+    "mediana_min": 88.3
    },
    {
     "nome": "Eduardo",
@@ -134,12 +134,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
-    "dia": "25/09",
-    "desde": "13:47",
-    "ts": 1790354855931
-   },
    {
     "grupo": "B.A.D.S x CANTINHO DA MAMAE COMERCIO & LOCACAO LTDA",
     "dia": "25/09",
@@ -277,12 +271,6 @@
     "dia": "25/09",
     "desde": "12:39",
     "ts": 1790350776665
-   },
-   {
-    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
-    "dia": "25/09",
-    "desde": "13:47",
-    "ts": 1790354855931
    }
   ]
  },
@@ -406,45 +394,23 @@
   ]
  },
  "agora": {
-  "fila": 334,
-  "abertos": 491,
+  "fila": 330,
+  "abertos": 489,
   "com_atendimento": 6,
   "online": 4,
-  "offline": 0,
-  "ausentes": 4,
-  "espera_media_s": 7571
+  "offline": 1,
+  "ausentes": 3,
+  "espera_media_s": 7594
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-25T16:10:52.417Z",
-  "min_sem_lead": 39
+  "min_sem_lead": 54
  },
  "leads": [
   {
    "nome": "Marcelo",
    "tel": "5511*****031",
    "criado": "13:10",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Geraldo L  Vieira",
-   "tel": "5516*****848",
-   "criado": "11:10",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Ⓢⓐⓔⓓⓙⓐ ❤️",
-   "tel": "5584*****462",
-   "criado": "10:28",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
@@ -475,17 +441,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "João Luiz",
-   "tel": "5551*****683",
-   "criado": "13:31",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Fábio Muniz",
    "tel": "5515*****368",
    "criado": "08:28",
@@ -495,6 +450,39 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Ddrk_MtMdqa/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Geraldo L  Vieira",
+   "tel": "5516*****848",
+   "criado": "11:10",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ⓢⓐⓔⓓⓙⓐ ❤️",
+   "tel": "5584*****462",
+   "criado": "10:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "João Luiz",
+   "tel": "5551*****683",
+   "criado": "13:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Nao identificada"
   },
   {
    "nome": "5524993325312",
