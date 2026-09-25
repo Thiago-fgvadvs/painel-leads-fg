@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/09/2026, 16:53",
+ "gerado_em": "25/09/2026, 17:08",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 92,
   "mediana_geral": 0.4,
   "leads_7d": 195,
-  "tickets_abertos": 449,
+  "tickets_abertos": 413,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -82,11 +82,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 259,
-  "turnos": 557,
-  "respondidos": 554,
+  "turnos": 558,
+  "respondidos": 555,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 35.8,
+  "mediana_min": 35.3,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -120,8 +120,8 @@
    },
    {
     "nome": "Julia",
-    "respostas": 15,
-    "mediana_min": 148.8
+    "respostas": 16,
+    "mediana_min": 110.4
    },
    {
     "nome": "—",
@@ -335,30 +335,19 @@
   ]
  },
  "agora": {
-  "fila": 320,
-  "abertos": 449,
+  "fila": 322,
+  "abertos": 413,
   "com_atendimento": 6,
   "online": 5,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 11913
+  "espera_media_s": 12930
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-03T12:23:20.851Z",
-  "min_sem_lead": 32130
+  "ultimo_lead_at": "2026-09-25T01:43:30.451Z",
+  "min_sem_lead": 1105
  },
  "leads": [
-  {
-   "nome": "Leo",
-   "tel": "5511*****297",
-   "criado": "00:47",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4REn6vfcB",
-   "area": "Trabalhista"
-  },
   {
    "nome": "𝑮𝒂𝒃𝒓𝒊𝒆𝒍𝒚 𝒑𝒓𝒂𝒅𝒐 🤸🏻‍♀️",
    "tel": "5549*****364",
@@ -368,6 +357,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Leo",
+   "tel": "5511*****297",
+   "criado": "00:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4REn6vfcB",
    "area": "Trabalhista"
   },
   {
