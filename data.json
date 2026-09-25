@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/09/2026, 15:36",
+ "gerado_em": "25/09/2026, 15:52",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 92,
   "mediana_geral": 0.4,
   "leads_7d": 194,
-  "tickets_abertos": 486,
+  "tickets_abertos": 487,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 12
+  "Trabalhista": 12,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -81,16 +81,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 254,
-  "turnos": 534,
-  "respondidos": 528,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "turnos": 537,
+  "respondidos": 532,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 37.5,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 272,
-    "mediana_min": 88.3
+    "respostas": 273,
+    "mediana_min": 89.1
    },
    {
     "nome": "Eduardo",
@@ -108,14 +108,14 @@
     "mediana_min": 12.2
    },
    {
+    "nome": "Roseli",
+    "respostas": 23,
+    "mediana_min": 15.3
+   },
+   {
     "nome": "FG Advogados - Isadora ",
     "respostas": 23,
     "mediana_min": 1377.9
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 20,
-    "mediana_min": 17.7
    },
    {
     "nome": "Julia",
@@ -139,12 +139,6 @@
     "dia": "25/09",
     "desde": "12:25",
     "ts": 1790349955638
-   },
-   {
-    "grupo": "B.A.R.S x REALMAR DISTRIBUIDORA LTDA.",
-    "dia": "24/09",
-    "desde": "18:21",
-    "ts": 1790284868838
    },
    {
     "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
@@ -235,12 +229,6 @@
     "dia": "24/09",
     "desde": "13:31",
     "ts": 1790267497830
-   },
-   {
-    "grupo": "B.A.R.S x REALMAR DISTRIBUIDORA LTDA.",
-    "dia": "24/09",
-    "desde": "18:21",
-    "ts": 1790284868838
    },
    {
     "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
@@ -370,8 +358,8 @@
   ]
  },
  "agora": {
-  "fila": 331,
-  "abertos": 486,
+  "fila": 332,
+  "abertos": 487,
   "com_atendimento": 6,
   "online": 5,
   "offline": 1,
@@ -379,10 +367,21 @@
   "espera_media_s": 7641
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-25T16:31:11.910Z",
-  "min_sem_lead": 126
+  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
+  "min_sem_lead": 747572
  },
  "leads": [
+  {
+   "nome": "Geraldo L  Vieira",
+   "tel": "5516*****848",
+   "criado": "11:10",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
   {
    "nome": "João Luiz",
    "tel": "5551*****683",
@@ -469,17 +468,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Geraldo L  Vieira",
-   "tel": "5516*****848",
-   "criado": "11:10",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
    "area": "Trabalhista"
   },
   {
