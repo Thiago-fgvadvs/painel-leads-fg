@@ -1,5 +1,5 @@
 {
- "gerado_em": "24/09/2026, 21:15",
+ "gerado_em": "24/09/2026, 21:30",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -93,10 +93,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 258,
-  "turnos": 546,
+  "turnos": 547,
   "respondidos": 538,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
   "mediana_min": 45.7,
   "atendentes": [
    {
@@ -146,6 +146,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
+    "dia": "24/09",
+    "desde": "21:15",
+    "ts": 1790295347100
+   },
    {
     "grupo": "B.A.R.S x REALMAR DISTRIBUIDORA LTDA.",
     "dia": "24/09",
@@ -290,6 +296,12 @@
     "dia": "24/09",
     "desde": "18:21",
     "ts": 1790284868838
+   },
+   {
+    "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
+    "dia": "24/09",
+    "desde": "21:15",
+    "ts": 1790295347100
    }
   ]
  },
@@ -423,11 +435,11 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-25T00:14:52.444Z",
-  "min_sem_lead": 1
+  "min_sem_lead": 16
  },
  "leads": [
   {
-   "nome": "558486134679",
+   "nome": "Chagas Fernandes",
    "tel": "5584*****679",
    "criado": "21:14",
    "atendente": "FG Advogados - Isadora ",
