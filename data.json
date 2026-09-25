@@ -1,23 +1,23 @@
 {
- "gerado_em": "25/09/2026, 15:52",
+ "gerado_em": "25/09/2026, 16:07",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 11,
+  "total": 15,
+  "no_sla": 12,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 92,
   "mediana_geral": 0.4,
-  "leads_7d": 194,
-  "tickets_abertos": 487,
+  "leads_7d": 195,
+  "tickets_abertos": 489,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 13,
+   "leads": 14,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 14,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -40,11 +40,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/Ddrk_MtMdqa/",
-   "leads": 1
+   "url": "fb.me/505ajP5YC",
+   "leads": 2
   },
   {
-   "url": "fb.me/505ajP5YC",
+   "url": "www.instagram.com/p/Ddrk_MtMdqa/",
    "leads": 1
   },
   {
@@ -66,7 +66,7 @@
  ],
  "areas": {
   "Trabalhista": 12,
-  "Nao identificada": 2
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -81,16 +81,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 254,
-  "turnos": 537,
-  "respondidos": 532,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 37.5,
+  "turnos": 547,
+  "respondidos": 540,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 37.6,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 273,
-    "mediana_min": 89.1
+    "respostas": 277,
+    "mediana_min": 91.8
    },
    {
     "nome": "Eduardo",
@@ -109,8 +109,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 23,
-    "mediana_min": 15.3
+    "respostas": 26,
+    "mediana_min": 4.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -119,8 +119,8 @@
    },
    {
     "nome": "Julia",
-    "respostas": 13,
-    "mediana_min": 72
+    "respostas": 14,
+    "mediana_min": 217.8
    },
    {
     "nome": "—",
@@ -134,6 +134,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "B.A.R.S x REALMAR DISTRIBUIDORA LTDA.",
+    "dia": "25/09",
+    "desde": "16:02",
+    "ts": 1790362960257
+   },
+   {
+    "grupo": "V.H.V.D.R x LEVEL 1 SERV. DE ENGENHARIA LTDA",
+    "dia": "25/09",
+    "desde": "16:01",
+    "ts": 1790362902254
+   },
    {
     "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
     "dia": "25/09",
@@ -235,6 +247,18 @@
     "dia": "25/09",
     "desde": "12:25",
     "ts": 1790349955638
+   },
+   {
+    "grupo": "V.H.V.D.R x LEVEL 1 SERV. DE ENGENHARIA LTDA",
+    "dia": "25/09",
+    "desde": "16:01",
+    "ts": 1790362902254
+   },
+   {
+    "grupo": "B.A.R.S x REALMAR DISTRIBUIDORA LTDA.",
+    "dia": "25/09",
+    "desde": "16:02",
+    "ts": 1790362960257
    }
   ]
  },
@@ -358,17 +382,17 @@
   ]
  },
  "agora": {
-  "fila": 332,
-  "abertos": 487,
+  "fila": 334,
+  "abertos": 489,
   "com_atendimento": 6,
   "online": 5,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 7641
+  "espera_media_s": 7617
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
-  "min_sem_lead": 747572
+  "ultimo_lead_at": "2026-09-25T14:10:37.341Z",
+  "min_sem_lead": 297
  },
  "leads": [
   {
@@ -383,17 +407,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "João Luiz",
-   "tel": "5551*****683",
-   "criado": "13:31",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
-   "area": "Nao identificada"
-  },
-  {
    "nome": "Marcelo",
    "tel": "5511*****031",
    "criado": "13:10",
@@ -403,6 +416,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Família Hordock2026",
+   "tel": "5547*****488",
+   "criado": "16:03",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "João Luiz",
+   "tel": "5551*****683",
+   "criado": "13:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Nao identificada"
   },
   {
    "nome": "Fábio Muniz",
