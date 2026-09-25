@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/09/2026, 16:07",
+ "gerado_em": "25/09/2026, 16:22",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 92,
   "mediana_geral": 0.4,
   "leads_7d": 195,
-  "tickets_abertos": 489,
+  "tickets_abertos": 490,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -36,11 +36,11 @@
    "leads": 3
   },
   {
-   "url": "fb.me/87PZSDuwc",
+   "url": "fb.me/505ajP5YC",
    "leads": 2
   },
   {
-   "url": "fb.me/505ajP5YC",
+   "url": "fb.me/87PZSDuwc",
    "leads": 2
   },
   {
@@ -65,8 +65,9 @@
   }
  ],
  "areas": {
-  "Trabalhista": 12,
-  "Nao identificada": 3
+  "Trabalhista": 11,
+  "Nao identificada": 3,
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -80,17 +81,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 254,
-  "turnos": 547,
-  "respondidos": 540,
+  "grupos_ativos": 255,
+  "turnos": 554,
+  "respondidos": 547,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 37.6,
+  "mediana_min": 37.4,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 277,
-    "mediana_min": 91.8
+    "respostas": 283,
+    "mediana_min": 87.5
    },
    {
     "nome": "Eduardo",
@@ -119,8 +120,8 @@
    },
    {
     "nome": "Julia",
-    "respostas": 14,
-    "mediana_min": 217.8
+    "respostas": 15,
+    "mediana_min": 148.8
    },
    {
     "nome": "—",
@@ -135,16 +136,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
+    "dia": "25/09",
+    "desde": "16:21",
+    "ts": 1790364077387
+   },
+   {
     "grupo": "B.A.R.S x REALMAR DISTRIBUIDORA LTDA.",
     "dia": "25/09",
     "desde": "16:02",
     "ts": 1790362960257
-   },
-   {
-    "grupo": "V.H.V.D.R x LEVEL 1 SERV. DE ENGENHARIA LTDA",
-    "dia": "25/09",
-    "desde": "16:01",
-    "ts": 1790362902254
    },
    {
     "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
@@ -249,16 +250,16 @@
     "ts": 1790349955638
    },
    {
-    "grupo": "V.H.V.D.R x LEVEL 1 SERV. DE ENGENHARIA LTDA",
-    "dia": "25/09",
-    "desde": "16:01",
-    "ts": 1790362902254
-   },
-   {
     "grupo": "B.A.R.S x REALMAR DISTRIBUIDORA LTDA.",
     "dia": "25/09",
     "desde": "16:02",
     "ts": 1790362960257
+   },
+   {
+    "grupo": "F.P.D.B x EBAZAR.COM.BR. LTDA",
+    "dia": "25/09",
+    "desde": "16:21",
+    "ts": 1790364077387
    }
   ]
  },
@@ -382,30 +383,19 @@
   ]
  },
  "agora": {
-  "fila": 334,
-  "abertos": 489,
+  "fila": 333,
+  "abertos": 490,
   "com_atendimento": 6,
   "online": 5,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 7617
+  "espera_media_s": 7641
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-25T14:10:37.341Z",
-  "min_sem_lead": 297
+  "ultimo_lead_at": "2026-09-25T16:10:52.417Z",
+  "min_sem_lead": 192
  },
  "leads": [
-  {
-   "nome": "Geraldo L  Vieira",
-   "tel": "5516*****848",
-   "criado": "11:10",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Marcelo",
    "tel": "5511*****031",
@@ -429,15 +419,26 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "João Luiz",
-   "tel": "5551*****683",
-   "criado": "13:31",
+   "nome": "𝑮𝒂𝒃𝒓𝒊𝒆𝒍𝒚 𝒑𝒓𝒂𝒅𝒐 🤸🏻‍♀️",
+   "tel": "5549*****364",
+   "criado": "13:35",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Geraldo L  Vieira",
+   "tel": "5516*****848",
+   "criado": "11:10",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
    "criativo": "fb.me/87PZSDuwc",
-   "area": "Nao identificada"
+   "area": "Previdenciario"
   },
   {
    "nome": "Fábio Muniz",
@@ -451,6 +452,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "João Luiz",
+   "tel": "5551*****683",
+   "criado": "13:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Nao identificada"
+  },
+  {
    "nome": "Adão Dos Reis",
    "tel": "5549*****685",
    "criado": "07:18",
@@ -459,17 +471,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/505ajP5YC",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "𝑮𝒂𝒃𝒓𝒊𝒆𝒍𝒚 𝒑𝒓𝒂𝒅𝒐 🤸🏻‍♀️",
-   "tel": "5549*****364",
-   "criado": "13:35",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
