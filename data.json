@@ -1,23 +1,23 @@
 {
- "gerado_em": "24/09/2026, 21:00",
+ "gerado_em": "24/09/2026, 21:15",
  "data_ref": "24/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
+  "total": 30,
   "no_sla": 24,
   "fora_sla": 1,
   "sem_resposta": 1,
-  "fora_horario": 3,
+  "fora_horario": 4,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 197,
-  "tickets_abertos": 467,
+  "leads_7d": 198,
+  "tickets_abertos": 468,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 24,
+   "leads": 25,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 24,
+  "Anuncio": 25,
   "Direto/Indicacao": 5
  },
  "criativos": [
@@ -57,20 +57,20 @@
    "leads": 2
   },
   {
+   "url": "fb.me/4V5VEOQA9",
+   "leads": 1
+  },
+  {
    "url": "fb.me/7ZVZhwxMh",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmWSr9sNdR/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/6ncziRPOp",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 21,
+  "Trabalhista": 22,
   "Nao identificada": 8
  },
  "sem_resposta_lista": [
@@ -413,19 +413,30 @@
   ]
  },
  "agora": {
-  "fila": 333,
-  "abertos": 467,
+  "fila": 334,
+  "abertos": 468,
   "com_atendimento": 6,
   "online": 4,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 8058
+  "espera_media_s": 8032
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-20T01:14:08.804Z",
-  "min_sem_lead": 184246
+  "ultimo_lead_at": "2026-09-25T00:14:52.444Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "558486134679",
+   "tel": "5584*****679",
+   "criado": "21:14",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4V5VEOQA9",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Celso Daniel",
    "tel": "5541*****652",
