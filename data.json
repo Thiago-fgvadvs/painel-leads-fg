@@ -1,23 +1,23 @@
 {
- "gerado_em": "25/09/2026, 19:56",
+ "gerado_em": "25/09/2026, 20:11",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
+  "total": 18,
   "no_sla": 14,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 2,
+  "fora_horario": 3,
   "pct_sla": 93,
   "mediana_geral": 0.4,
-  "leads_7d": 197,
-  "tickets_abertos": 393,
+  "leads_7d": 198,
+  "tickets_abertos": 394,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 17,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -44,6 +44,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/jQfoYuBli",
+   "leads": 1
+  },
+  {
    "url": "fb.me/875plPmzH",
    "leads": 1
   },
@@ -58,14 +62,10 @@
   {
    "url": "www.instagram.com/p/Ddrk_MtMdqa/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/6AFbdEcuS",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 13,
+  "Trabalhista": 14,
   "Nao identificada": 3,
   "Previdenciario": 1
  },
@@ -340,19 +340,30 @@
   ]
  },
  "agora": {
-  "fila": 317,
-  "abertos": 393,
+  "fila": 318,
+  "abertos": 394,
   "com_atendimento": 6,
   "online": 4,
   "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 8263
+  "espera_media_s": 8231
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-16T01:21:50.523Z",
-  "min_sem_lead": 14254
+  "ultimo_lead_at": "2026-09-25T23:01:04.864Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "558184504383",
+   "tel": "5581*****383",
+   "criado": "20:01",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/jQfoYuBli",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Pedro Da Silva",
    "tel": "5542*****470",
