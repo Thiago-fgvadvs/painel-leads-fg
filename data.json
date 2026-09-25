@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/09/2026, 08:32",
+ "gerado_em": "25/09/2026, 08:48",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 183,
-  "tickets_abertos": 475,
+  "tickets_abertos": 476,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -44,11 +44,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 245,
-  "turnos": 463,
-  "respondidos": 454,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 46.1,
+  "turnos": 467,
+  "respondidos": 457,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 45.6,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -62,8 +62,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 47,
-    "mediana_min": 2.2
+    "respostas": 50,
+    "mediana_min": 2.1
    },
    {
     "nome": "Advogados - FG",
@@ -97,6 +97,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.D.S.S x ESSE ALIMENTAR COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
+    "dia": "25/09",
+    "desde": "08:45",
+    "ts": 1790336741025
+   },
    {
     "grupo": "E",
     "dia": "24/09",
@@ -246,6 +252,12 @@
     "dia": "24/09",
     "desde": "22:18",
     "ts": 1790299127253
+   },
+   {
+    "grupo": "A.D.S.S x ESSE ALIMENTAR COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
+    "dia": "25/09",
+    "desde": "08:45",
+    "ts": 1790336741025
    }
   ]
  },
@@ -370,7 +382,7 @@
  },
  "agora": {
   "fila": 341,
-  "abertos": 475,
+  "abertos": 476,
   "com_atendimento": 6,
   "online": 5,
   "offline": 2,
@@ -378,8 +390,8 @@
   "espera_media_s": 7856
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-24T18:46:19.335Z",
-  "min_sem_lead": 1006
+  "ultimo_lead_at": "2026-09-25T10:18:28.842Z",
+  "min_sem_lead": 89
  },
  "leads": [
   {
