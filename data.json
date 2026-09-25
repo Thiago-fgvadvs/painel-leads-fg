@@ -1,31 +1,35 @@
 {
- "gerado_em": "25/09/2026, 09:33",
+ "gerado_em": "25/09/2026, 09:49",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 0,
+  "total": 4,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 183,
-  "tickets_abertos": 476,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 184,
+  "tickets_abertos": 478,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 2,
-   "mediana_min": null
+   "leads": 3,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 2,
+  "Anuncio": 3,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/Ddrs04zMch7/",
+   "leads": 1
+  },
   {
    "url": "fb.me/505ajP5YC",
    "leads": 1
@@ -36,7 +40,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2,
+  "Trabalhista": 3,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
@@ -44,16 +48,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 247,
-  "turnos": 479,
-  "respondidos": 472,
+  "turnos": 481,
+  "respondidos": 474,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
   "mediana_min": 37.6,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 235,
-    "mediana_min": 93.6
+    "respostas": 236,
+    "mediana_min": 93.7
    },
    {
     "nome": "Eduardo",
@@ -62,8 +66,8 @@
    },
    {
     "nome": "Gabrielle",
-    "respostas": 61,
-    "mediana_min": 2.1
+    "respostas": 62,
+    "mediana_min": 2.2
    },
    {
     "nome": "Advogados - FG",
@@ -81,14 +85,14 @@
     "mediana_min": 17.7
    },
    {
-    "nome": "—",
-    "respostas": 13,
-    "mediana_min": 35
-   },
-   {
     "nome": "Julia",
     "respostas": 13,
     "mediana_min": 72
+   },
+   {
+    "nome": "—",
+    "respostas": 13,
+    "mediana_min": 35
    },
    {
     "nome": "Tiago Bernardo",
@@ -345,19 +349,30 @@
   ]
  },
  "agora": {
-  "fila": 341,
-  "abertos": 476,
+  "fila": 343,
+  "abertos": 478,
   "com_atendimento": 6,
-  "online": 7,
+  "online": 5,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 7856
+  "ausentes": 2,
+  "espera_media_s": 7807
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-24T18:46:19.335Z",
-  "min_sem_lead": 1067
+  "ultimo_lead_at": "2026-09-25T12:45:17.966Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "556581028294",
+   "tel": "5565*****294",
+   "criado": "09:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Ddrs04zMch7/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Adão Dos Reis",
    "tel": "5549*****685",
