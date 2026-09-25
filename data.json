@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/09/2026, 11:47",
+ "gerado_em": "25/09/2026, 12:02",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 188,
-  "tickets_abertos": 488,
+  "tickets_abertos": 487,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -32,15 +32,15 @@
  },
  "criativos": [
   {
+   "url": "www.instagram.com/p/DdpRFtBMw3Z/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/87PZSDuwc",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/Ddrs04zMch7/",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DdpRFtBMw3Z/",
    "leads": 1
   },
   {
@@ -65,16 +65,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 249,
-  "turnos": 508,
-  "respondidos": 498,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 43.2,
+  "turnos": 510,
+  "respondidos": 499,
+  "sem_resposta": 11,
+  "sem_resposta_grupos": 11,
+  "mediana_min": 42.3,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 254,
-    "mediana_min": 93.4
+    "respostas": 255,
+    "mediana_min": 93.3
    },
    {
     "nome": "Eduardo",
@@ -119,16 +119,22 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
+    "dia": "25/09",
+    "desde": "11:53",
+    "ts": 1790348010506
+   },
+   {
+    "grupo": "V.P.D.P x INSS",
+    "dia": "25/09",
+    "desde": "12:02",
+    "ts": 1790348534517
+   },
+   {
     "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
     "dia": "25/09",
     "desde": "11:46",
     "ts": 1790347586500
-   },
-   {
-    "grupo": "M.S.D.C x CENCOSUD BRASIL COMERCIAL LTDA",
-    "dia": "25/09",
-    "desde": "11:31",
-    "ts": 1790346691478
    },
    {
     "grupo": "L.T.M x BOBS JIJOCA DE JERICOACOARA LTDA",
@@ -269,16 +275,22 @@
     "ts": 1790346653476
    },
    {
-    "grupo": "M.S.D.C x CENCOSUD BRASIL COMERCIAL LTDA",
-    "dia": "25/09",
-    "desde": "11:31",
-    "ts": 1790346691478
-   },
-   {
     "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
     "dia": "25/09",
     "desde": "11:46",
     "ts": 1790347586500
+   },
+   {
+    "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
+    "dia": "25/09",
+    "desde": "11:53",
+    "ts": 1790348010506
+   },
+   {
+    "grupo": "V.P.D.P x INSS",
+    "dia": "25/09",
+    "desde": "12:02",
+    "ts": 1790348534517
    }
   ]
  },
@@ -402,8 +414,8 @@
   ]
  },
  "agora": {
-  "fila": 338,
-  "abertos": 488,
+  "fila": 337,
+  "abertos": 487,
   "com_atendimento": 6,
   "online": 5,
   "offline": 1,
@@ -411,10 +423,21 @@
   "espera_media_s": 7711
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
-  "min_sem_lead": 86533
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 747343
  },
  "leads": [
+  {
+   "nome": "Rafael Soares",
+   "tel": "5583*****191",
+   "criado": "09:54",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DdpRFtBMw3Z/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5516994241848",
    "tel": "5516*****848",
@@ -446,17 +469,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Ddrs04zMch7/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Rafael Soares",
-   "tel": "5583*****191",
-   "criado": "09:54",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DdpRFtBMw3Z/",
    "area": "Trabalhista"
   },
   {
