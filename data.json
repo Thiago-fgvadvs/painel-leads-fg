@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/09/2026, 09:18",
+ "gerado_em": "25/09/2026, 09:33",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -43,26 +43,26 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 246,
-  "turnos": 477,
-  "respondidos": 467,
-  "sem_resposta": 10,
-  "sem_resposta_grupos": 10,
-  "mediana_min": 37.4,
+  "grupos_ativos": 247,
+  "turnos": 479,
+  "respondidos": 472,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 37.6,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 232,
-    "mediana_min": 93.1
+    "respostas": 235,
+    "mediana_min": 93.6
    },
    {
     "nome": "Eduardo",
-    "respostas": 83,
+    "respostas": 84,
     "mediana_min": 4.8
    },
    {
     "nome": "Gabrielle",
-    "respostas": 60,
+    "respostas": 61,
     "mediana_min": 2.1
    },
    {
@@ -81,14 +81,14 @@
     "mediana_min": 17.7
    },
    {
-    "nome": "Julia",
-    "respostas": 13,
-    "mediana_min": 72
-   },
-   {
     "nome": "—",
     "respostas": 13,
     "mediana_min": 35
+   },
+   {
+    "nome": "Julia",
+    "respostas": 13,
+    "mediana_min": 72
    },
    {
     "nome": "Tiago Bernardo",
@@ -98,34 +98,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.D.S.S x ESSE ALIMENTAR COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
-    "dia": "25/09",
-    "desde": "09:14",
-    "ts": 1790338494071
-   },
-   {
     "grupo": "E",
     "dia": "24/09",
     "desde": "22:18",
     "ts": 1790299127253
    },
    {
-    "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
-    "dia": "24/09",
-    "desde": "21:15",
-    "ts": 1790295347100
-   },
-   {
     "grupo": "B.A.R.S x REALMAR DISTRIBUIDORA LTDA.",
     "dia": "24/09",
     "desde": "18:21",
     "ts": 1790284868838
-   },
-   {
-    "grupo": "F.G x ITAU UNIBANCO",
-    "dia": "24/09",
-    "desde": "17:40",
-    "ts": 1790282414613
    },
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
@@ -230,34 +212,16 @@
     "ts": 1790278969524
    },
    {
-    "grupo": "F.G x ITAU UNIBANCO",
-    "dia": "24/09",
-    "desde": "17:40",
-    "ts": 1790282414613
-   },
-   {
     "grupo": "B.A.R.S x REALMAR DISTRIBUIDORA LTDA.",
     "dia": "24/09",
     "desde": "18:21",
     "ts": 1790284868838
    },
    {
-    "grupo": "L.H.N.G x TOBIAS & FIGUEIREDO CONSTRUCAO COMERCIO E SERVICOS LTDA",
-    "dia": "24/09",
-    "desde": "21:15",
-    "ts": 1790295347100
-   },
-   {
     "grupo": "E",
     "dia": "24/09",
     "desde": "22:18",
     "ts": 1790299127253
-   },
-   {
-    "grupo": "A.D.S.S x ESSE ALIMENTAR COMERCIO DE ALIMENTOS E BEBIDAS LTDA",
-    "dia": "25/09",
-    "desde": "09:14",
-    "ts": 1790338494071
    }
   ]
  },
@@ -384,14 +348,14 @@
   "fila": 341,
   "abertos": 476,
   "com_atendimento": 6,
-  "online": 5,
-  "offline": 2,
-  "ausentes": 1,
+  "online": 7,
+  "offline": 1,
+  "ausentes": 0,
   "espera_media_s": 7856
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-24T18:46:19.335Z",
-  "min_sem_lead": 1052
+  "min_sem_lead": 1067
  },
  "leads": [
   {
