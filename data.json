@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/09/2026, 10:00",
+ "gerado_em": "25/09/2026, 10:16",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 185,
-  "tickets_abertos": 479,
+  "tickets_abertos": 481,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -52,20 +52,20 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 248,
-  "turnos": 481,
-  "respondidos": 474,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 37.6,
+  "turnos": 484,
+  "respondidos": 476,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 39.7,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 236,
-    "mediana_min": 93.7
+    "respostas": 237,
+    "mediana_min": 93.8
    },
    {
     "nome": "Eduardo",
-    "respostas": 84,
+    "respostas": 85,
     "mediana_min": 4.8
    },
    {
@@ -106,22 +106,28 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
+    "dia": "25/09",
+    "desde": "10:15",
+    "ts": 1790342117249
+   },
+   {
     "grupo": "E",
     "dia": "24/09",
     "desde": "22:18",
     "ts": 1790299127253
    },
    {
+    "grupo": "C.A.D.S x ROSANA FLORES",
+    "dia": "24/09",
+    "desde": "12:21",
+    "ts": 1790263301601
+   },
+   {
     "grupo": "B.A.R.S x REALMAR DISTRIBUIDORA LTDA.",
     "dia": "24/09",
     "desde": "18:21",
     "ts": 1790284868838
-   },
-   {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "24/09",
-    "desde": "16:42",
-    "ts": 1790278969524
    },
    {
     "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
@@ -208,16 +214,16 @@
     "ts": 1790177084179
    },
    {
+    "grupo": "C.A.D.S x ROSANA FLORES",
+    "dia": "24/09",
+    "desde": "12:21",
+    "ts": 1790263301601
+   },
+   {
     "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
     "dia": "24/09",
     "desde": "13:31",
     "ts": 1790267497830
-   },
-   {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "24/09",
-    "desde": "16:42",
-    "ts": 1790278969524
    },
    {
     "grupo": "B.A.R.S x REALMAR DISTRIBUIDORA LTDA.",
@@ -230,6 +236,12 @@
     "dia": "24/09",
     "desde": "22:18",
     "ts": 1790299127253
+   },
+   {
+    "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
+    "dia": "25/09",
+    "desde": "10:15",
+    "ts": 1790342117249
    }
   ]
  },
@@ -354,7 +366,7 @@
  },
  "agora": {
   "fila": 344,
-  "abertos": 479,
+  "abertos": 481,
   "com_atendimento": 6,
   "online": 6,
   "offline": 1,
@@ -362,12 +374,12 @@
   "espera_media_s": 7783
  },
  "captacao": {
-  "ultimo_lead_at": "2026-02-09T15:00:39.382Z",
-  "min_sem_lead": 328200
+  "ultimo_lead_at": "2026-09-23T16:45:04.651Z",
+  "min_sem_lead": 2671
  },
  "leads": [
   {
-   "nome": "558387438191",
+   "nome": "Rafael Soares",
    "tel": "5583*****191",
    "criado": "09:54",
    "atendente": "FG Advogados - Isadora ",
