@@ -1,17 +1,17 @@
 {
- "gerado_em": "25/09/2026, 08:17",
+ "gerado_em": "25/09/2026, 08:32",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
+  "total": 3,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 182,
-  "tickets_abertos": 474,
+  "leads_7d": 183,
+  "tickets_abertos": 475,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 2,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -36,7 +36,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2
+  "Trabalhista": 2,
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -368,17 +369,17 @@
   ]
  },
  "agora": {
-  "fila": 340,
-  "abertos": 474,
+  "fila": 341,
+  "abertos": 475,
   "com_atendimento": 6,
-  "online": 4,
-  "offline": 3,
+  "online": 5,
+  "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 7881
+  "espera_media_s": 7856
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-07T03:14:32.258Z",
-  "min_sem_lead": 26403
+  "ultimo_lead_at": "2026-09-24T18:46:19.335Z",
+  "min_sem_lead": 1006
  },
  "leads": [
   {
@@ -402,6 +403,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4REn6vfcB",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Fábio Muniz",
+   "tel": "5515*****368",
+   "criado": "08:28",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
