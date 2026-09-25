@@ -1,17 +1,17 @@
 {
- "gerado_em": "25/09/2026, 10:46",
+ "gerado_em": "25/09/2026, 11:01",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 3,
+  "total": 7,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 186,
-  "tickets_abertos": 483,
+  "leads_7d": 187,
+  "tickets_abertos": 482,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,13 +19,22 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 5,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 0.7
   }
  ],
  "origem": {
   "Anuncio": 5,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/Ddrs04zMch7/",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DdpRFtBMw3Z/",
    "leads": 1
@@ -39,38 +48,34 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/Ddrs04zMch7/",
-   "leads": 1
-  },
-  {
    "url": "fb.me/4REn6vfcB",
    "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 5,
-  "Nao identificada": 1
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 248,
-  "turnos": 491,
-  "respondidos": 482,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 42,
+  "grupos_ativos": 249,
+  "turnos": 498,
+  "respondidos": 491,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 45.6,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 241,
-    "mediana_min": 94.6
+    "respostas": 248,
+    "mediana_min": 94.2
    },
    {
     "nome": "Eduardo",
-    "respostas": 86,
-    "mediana_min": 5.1
+    "respostas": 87,
+    "mediana_min": 5.3
    },
    {
     "nome": "Gabrielle",
@@ -79,8 +84,8 @@
    },
    {
     "nome": "Advogados - FG",
-    "respostas": 29,
-    "mediana_min": 11.5
+    "respostas": 30,
+    "mediana_min": 12.2
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -110,28 +115,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
-    "dia": "25/09",
-    "desde": "10:33",
-    "ts": 1790343196271
-   },
-   {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "25/09",
-    "desde": "10:33",
-    "ts": 1790343218272
-   },
-   {
     "grupo": "E",
     "dia": "24/09",
     "desde": "22:18",
     "ts": 1790299127253
    },
    {
-    "grupo": "C.A.D.S x ROSANA FLORES",
-    "dia": "24/09",
-    "desde": "12:21",
-    "ts": 1790263301601
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "25/09",
+    "desde": "10:33",
+    "ts": 1790343218272
    },
    {
     "grupo": "B.A.R.S x REALMAR DISTRIBUIDORA LTDA.",
@@ -224,12 +217,6 @@
     "ts": 1790177084179
    },
    {
-    "grupo": "C.A.D.S x ROSANA FLORES",
-    "dia": "24/09",
-    "desde": "12:21",
-    "ts": 1790263301601
-   },
-   {
     "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
     "dia": "24/09",
     "desde": "13:31",
@@ -246,12 +233,6 @@
     "dia": "24/09",
     "desde": "22:18",
     "ts": 1790299127253
-   },
-   {
-    "grupo": "E.S.S x KRCON EMPREENDIMENTOS IMOBILIARIOS LTDA",
-    "dia": "25/09",
-    "desde": "10:33",
-    "ts": 1790343196271
    },
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
@@ -381,19 +362,30 @@
   ]
  },
  "agora": {
-  "fila": 339,
-  "abertos": 483,
+  "fila": 337,
+  "abertos": 482,
   "com_atendimento": 6,
-  "online": 6,
+  "online": 7,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 7759
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-18T17:57:05.424Z",
-  "min_sem_lead": 9829
+  "ultimo_lead_at": "2026-01-20T15:11:49.063Z",
+  "min_sem_lead": 357050
  },
  "leads": [
+  {
+   "nome": "Sid💯",
+   "tel": "5565*****294",
+   "criado": "09:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Ddrs04zMch7/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Rafael Soares",
    "tel": "5583*****191",
@@ -404,6 +396,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DdpRFtBMw3Z/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Marcone Manutenção De Máquinas De Construção Civil",
+   "tel": "5561*****692",
+   "criado": "10:53",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Adão Dos Reis",
@@ -425,17 +428,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Sid💯",
-   "tel": "5565*****294",
-   "criado": "09:45",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Ddrs04zMch7/",
    "area": "Trabalhista"
   },
   {
