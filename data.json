@@ -1,23 +1,23 @@
 {
- "gerado_em": "25/09/2026, 20:57",
+ "gerado_em": "25/09/2026, 21:12",
  "data_ref": "25/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
+  "total": 21,
   "no_sla": 14,
   "fora_sla": 1,
   "sem_resposta": 0,
-  "fora_horario": 4,
+  "fora_horario": 6,
   "pct_sla": 93,
   "mediana_geral": 0.4,
-  "leads_7d": 199,
-  "tickets_abertos": 395,
+  "leads_7d": 201,
+  "tickets_abertos": 397,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 18,
+   "leads": 20,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,21 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 20,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 4
+  },
+  {
+   "url": "fb.me/875plPmzH",
+   "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 2
   },
   {
    "url": "fb.me/87PZSDuwc",
@@ -52,21 +60,13 @@
    "leads": 1
   },
   {
-   "url": "fb.me/875plPmzH",
-   "leads": 1
-  },
-  {
    "url": "fb.me/k6QGj5ebc",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/4REn6vfcB",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
-  "Nao identificada": 3,
+  "Trabalhista": 16,
+  "Nao identificada": 4,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -340,19 +340,41 @@
   ]
  },
  "agora": {
-  "fila": 319,
-  "abertos": 395,
+  "fila": 321,
+  "abertos": 397,
   "com_atendimento": 6,
   "online": 4,
   "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 8198
+  "espera_media_s": 8133
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-25T23:27:31.263Z",
-  "min_sem_lead": 30
+  "ultimo_lead_at": "2026-09-26T00:07:39.281Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "558893110882",
+   "tel": "5588*****882",
+   "criado": "21:07",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Vivi❣️💞🫶🏻",
+   "tel": "5531*****533",
+   "criado": "20:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "😂",
    "tel": "5592*****923",
