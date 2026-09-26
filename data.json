@@ -1,34 +1,38 @@
 {
- "gerado_em": "26/09/2026, 12:17",
+ "gerado_em": "26/09/2026, 12:47",
  "data_ref": "26/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
+  "total": 8,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 7,
+  "fora_horario": 8,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 197,
-  "tickets_abertos": 412,
+  "leads_7d": 198,
+  "tickets_abertos": 413,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
+   "leads": 8,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 7,
+  "Anuncio": 8,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "fb.me/7ZVZhwxMh",
    "leads": 2
+  },
+  {
+   "url": "fb.me/875plPmzH",
+   "leads": 1
   },
   {
    "url": "fb.me/dknsaSGrD",
@@ -52,7 +56,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
+  "Trabalhista": 7,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
@@ -316,19 +320,30 @@
   ]
  },
  "agora": {
-  "fila": 336,
-  "abertos": 412,
+  "fila": 337,
+  "abertos": 413,
   "com_atendimento": 6,
   "online": 4,
   "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 7680
+  "espera_media_s": 7651
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-26T14:37:54.682Z",
-  "min_sem_lead": 39
+  "ultimo_lead_at": "2026-09-26T15:39:46.628Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "5521999002680",
+   "tel": "5521*****680",
+   "criado": "12:39",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Manso",
    "tel": "5596*****859",
