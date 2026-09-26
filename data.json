@@ -1,34 +1,38 @@
 {
- "gerado_em": "26/09/2026, 18:21",
+ "gerado_em": "26/09/2026, 20:08",
  "data_ref": "26/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
+  "total": 15,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 12,
+  "sem_resposta": 0,
+  "fora_horario": 15,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 203,
-  "tickets_abertos": 419,
+  "leads_7d": 205,
+  "tickets_abertos": 421,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 12,
+   "leads": 15,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 13,
-  "Direto/Indicacao": 0
+  "Anuncio": 14,
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "fb.me/7ZVZhwxMh",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 2
   },
   {
    "url": "fb.me/dknsaSGrD",
@@ -47,10 +51,6 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
    "leads": 1
   },
@@ -60,17 +60,10 @@
   }
  ],
  "areas": {
-  "Trabalhista": 11,
-  "Nao identificada": 2
+  "Nao identificada": 3,
+  "Trabalhista": 12
  },
- "sem_resposta_lista": [
-  {
-   "nome": "Suely",
-   "tel": "5511*****678",
-   "criado": "18:21",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -176,13 +169,6 @@
     "dia": "23/09",
     "desde": "11:17",
     "ts": 1790173031070
-   },
-   {
-    "nome": "Suely",
-    "tel": "5511*****678",
-    "dia": "26/09",
-    "desde": "18:21",
-    "ts": 1790457691626
    }
   ],
   "grupos": [
@@ -338,26 +324,48 @@
   ]
  },
  "agora": {
-  "fila": 343,
-  "abertos": 419,
+  "fila": 345,
+  "abertos": 421,
   "com_atendimento": 6,
   "online": 4,
   "offline": 4,
   "ausentes": 0,
-  "espera_media_s": 7512
+  "espera_media_s": 7431
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-26T21:21:31.626Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-09-26T22:49:52.421Z",
+  "min_sem_lead": 18
  },
  "leads": [
+  {
+   "nome": "💕",
+   "tel": "5541*****261",
+   "criado": "19:49",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "marcoantoniogaspary@gmail",
+   "tel": "5551*****216",
+   "criado": "18:52",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "Suely",
    "tel": "5511*****678",
    "criado": "18:21",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
