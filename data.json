@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/09/2026, 17:54",
+ "gerado_em": "28/09/2026, 18:09",
  "data_ref": "28/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 91,
   "mediana_geral": 0.5,
   "leads_7d": 211,
-  "tickets_abertos": 508,
+  "tickets_abertos": 511,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -84,17 +84,17 @@
  ],
  "fora_sla_lista": [
   {
-   "nome": "Eliel :)",
-   "tel": "5524*****492",
-   "criado": "14:06",
-   "espera_min": 40.7,
-   "atendente": "—"
-  },
-  {
    "nome": "🩷🌸",
    "tel": "5585*****123",
    "criado": "11:50",
    "espera_min": 22.7,
+   "atendente": "—"
+  },
+  {
+   "nome": "Eliel :)",
+   "tel": "5524*****492",
+   "criado": "14:06",
+   "espera_min": 40.7,
    "atendente": "—"
   }
  ],
@@ -396,19 +396,30 @@
   ]
  },
  "agora": {
-  "fila": 410,
-  "abertos": 508,
+  "fila": 411,
+  "abertos": 511,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 6,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 5963
+  "ausentes": 1,
+  "espera_media_s": 5946
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-28T11:08:51.841Z",
-  "min_sem_lead": 586
+  "ultimo_lead_at": "2026-09-28T15:35:18.195Z",
+  "min_sem_lead": 335
  },
  "leads": [
+  {
+   "nome": "Denis",
+   "tel": "5521*****139",
+   "criado": "08:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Ddo-UijMsF3/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Osvaldo",
    "tel": "5534*****490",
@@ -421,6 +432,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "🩷🌸",
+   "tel": "5585*****123",
+   "criado": "11:50",
+   "atendente": "—",
+   "espera_min": 22.7,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "CORRESPONDENTE Giovanna de Andrade Borba",
    "tel": "5511*****312",
    "criado": "17:30",
@@ -430,17 +452,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Denis",
-   "tel": "5521*****139",
-   "criado": "08:17",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Ddo-UijMsF3/",
-   "area": "Trabalhista"
   },
   {
    "nome": "terezadasnevescruz",
@@ -562,17 +573,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "🩷🌸",
-   "tel": "5585*****123",
-   "criado": "11:50",
-   "atendente": "—",
-   "espera_min": 22.7,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
-   "area": "Trabalhista"
   },
   {
    "nome": "Stela Rodrigues",
