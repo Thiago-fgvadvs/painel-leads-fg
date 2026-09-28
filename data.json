@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/09/2026, 18:40",
+ "gerado_em": "28/09/2026, 18:55",
  "data_ref": "28/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 25,
   "Nao identificada": 6,
+  "Trabalhista": 25,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
@@ -411,27 +411,16 @@
   "fila": 413,
   "abertos": 514,
   "com_atendimento": 6,
-  "online": 6,
+  "online": 7,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 5913
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-28T21:38:15.395Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-09-28T21:18:26.812Z",
+  "min_sem_lead": 37
  },
  "leads": [
-  {
-   "nome": "Paulo Afonso",
-   "tel": "5535*****441",
-   "criado": "18:38",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4V5VEOQA9",
-   "area": "Trabalhista"
-  },
   {
    "nome": "🙏",
    "tel": "5534*****025",
@@ -442,6 +431,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Paulo Afonso",
+   "tel": "5535*****441",
+   "criado": "18:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4V5VEOQA9",
+   "area": "Trabalhista"
   },
   {
    "nome": "Deus Meu Salvador 🙌🏽",
