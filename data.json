@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/09/2026, 16:07",
+ "gerado_em": "28/09/2026, 16:23",
  "data_ref": "28/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 90,
   "mediana_geral": 0.5,
   "leads_7d": 209,
-  "tickets_abertos": 507,
+  "tickets_abertos": 501,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -96,16 +96,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 245,
-  "turnos": 543,
-  "respondidos": 538,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 31.7,
+  "turnos": 547,
+  "respondidos": 543,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 32.3,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 291,
-    "mediana_min": 87.1
+    "respostas": 295,
+    "mediana_min": 91.8
    },
    {
     "nome": "Eduardo",
@@ -139,8 +139,8 @@
    },
    {
     "nome": "—",
-    "respostas": 4,
-    "mediana_min": 150.1
+    "respostas": 5,
+    "mediana_min": 189.1
    },
    {
     "nome": "Tiago Bernardo",
@@ -160,12 +160,6 @@
     "dia": "28/09",
     "desde": "11:03",
     "ts": 1790604180140
-   },
-   {
-    "grupo": "D.D.A.F x ITAU",
-    "dia": "23/09",
-    "desde": "16:39",
-    "ts": 1790192393739
    },
    {
     "grupo": "G.D.S.F x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
@@ -205,12 +199,6 @@
     "dia": "22/09",
     "desde": "12:33",
     "ts": 1790091204998
-   },
-   {
-    "grupo": "D.D.A.F x ITAU",
-    "dia": "23/09",
-    "desde": "16:39",
-    "ts": 1790192393739
    },
    {
     "grupo": "G.D.S.F x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
@@ -343,17 +331,17 @@
   ]
  },
  "agora": {
-  "fila": 423,
-  "abertos": 507,
+  "fila": 420,
+  "abertos": 501,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 4,
   "offline": 1,
-  "ausentes": 2,
+  "ausentes": 3,
   "espera_media_s": 5969
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T17:00:37.485Z",
-  "min_sem_lead": 82207
+  "ultimo_lead_at": "2026-07-30T20:33:28.014Z",
+  "min_sem_lead": 86329
  },
  "leads": [
   {
