@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/09/2026, 14:20",
+ "gerado_em": "28/09/2026, 14:36",
  "data_ref": "28/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 94,
   "mediana_geral": 0.5,
   "leads_7d": 206,
-  "tickets_abertos": 506,
+  "tickets_abertos": 508,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -89,11 +89,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 238,
-  "turnos": 535,
-  "respondidos": 527,
+  "turnos": 536,
+  "respondidos": 528,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
-  "mediana_min": 30.6,
+  "mediana_min": 31,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -101,14 +101,14 @@
     "mediana_min": 83.9
    },
    {
+    "nome": "Eduardo",
+    "respostas": 63,
+    "mediana_min": 11.1
+   },
+   {
     "nome": "Gabrielle",
     "respostas": 63,
     "mediana_min": 2
-   },
-   {
-    "nome": "Eduardo",
-    "respostas": 62,
-    "mediana_min": 11
    },
    {
     "nome": "Advogados - FG",
@@ -144,9 +144,9 @@
   "sem_resposta_lista": [
    {
     "grupo": "Z.D.F.M.M.D.A.C",
-    "dia": "22/09",
-    "desde": "15:06",
-    "ts": 1790100405000
+    "dia": "28/09",
+    "desde": "14:34",
+    "ts": 1790616884162
    },
    {
     "grupo": "V.B x E. T. PIRES, SOLUCOES EM CONTROLE DE ACESSO, LIMPEZA E APOIO ADM LTDA",
@@ -218,12 +218,6 @@
     "ts": 1790091204998
    },
    {
-    "grupo": "Z.D.F.M.M.D.A.C",
-    "dia": "22/09",
-    "desde": "15:06",
-    "ts": 1790100405000
-   },
-   {
     "grupo": "G.D.S.F x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
     "dia": "28/09",
     "desde": "09:13",
@@ -258,6 +252,12 @@
     "dia": "28/09",
     "desde": "13:00",
     "ts": 1790611217281
+   },
+   {
+    "grupo": "Z.D.F.M.M.D.A.C",
+    "dia": "28/09",
+    "desde": "14:34",
+    "ts": 1790616884162
    }
   ]
  },
@@ -372,17 +372,17 @@
   ]
  },
  "agora": {
-  "fila": 420,
-  "abertos": 506,
+  "fila": 422,
+  "abertos": 508,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 4,
+  "ausentes": 5,
   "espera_media_s": 5935
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-26T19:10:47.459Z",
-  "min_sem_lead": 2770
+  "min_sem_lead": 2785
  },
  "leads": [
   {
