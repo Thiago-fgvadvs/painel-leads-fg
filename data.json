@@ -1,17 +1,17 @@
 {
- "gerado_em": "28/09/2026, 17:24",
+ "gerado_em": "28/09/2026, 17:39",
  "data_ref": "28/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
-  "no_sla": 19,
+  "total": 30,
+  "no_sla": 20,
   "fora_sla": 2,
   "sem_resposta": 1,
   "fora_horario": 7,
-  "pct_sla": 90,
+  "pct_sla": 91,
   "mediana_geral": 0.5,
-  "leads_7d": 210,
-  "tickets_abertos": 506,
+  "leads_7d": 211,
+  "tickets_abertos": 507,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -24,11 +24,16 @@
    "nome": "Roseli",
    "leads": 2,
    "mediana_min": 6
+  },
+  {
+   "nome": "Eduardo",
+   "leads": 1,
+   "mediana_min": 1.6
   }
  ],
  "origem": {
   "Anuncio": 26,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -48,25 +53,25 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/Ddo-UijMsF3/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/57zIOsZXG",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/Ddrk_MtMdqa/",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/9Kji7hTqb",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/505ajP5YC",
-   "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 24,
-  "Nao identificada": 4,
+  "Nao identificada": 5,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
@@ -96,16 +101,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 246,
-  "turnos": 573,
-  "respondidos": 563,
+  "turnos": 583,
+  "respondidos": 573,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
-  "mediana_min": 38.9,
+  "mediana_min": 45.6,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 312,
-    "mediana_min": 101.6
+    "respostas": 322,
+    "mediana_min": 100.8
    },
    {
     "nome": "Gabrielle",
@@ -150,10 +155,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "V.B.D.L x ENGEMAN MANUTENCAO DE EQUIPAMENTOS COM E INDUSTRIA LTDA",
+    "grupo": "J.J.B",
     "dia": "28/09",
-    "desde": "17:20",
-    "ts": 1790626829655
+    "desde": "17:02",
+    "ts": 1790625736590
    },
    {
     "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
@@ -162,22 +167,22 @@
     "ts": 1790626410633
    },
    {
-    "grupo": "J.J.B",
+    "grupo": "A.P.D.D.R x SEARA ALIMENTOS LTDA",
     "dia": "28/09",
-    "desde": "17:02",
-    "ts": 1790625736590
+    "desde": "17:29",
+    "ts": 1790627385680
+   },
+   {
+    "grupo": "V.B.D.L x ENGEMAN MANUTENCAO DE EQUIPAMENTOS COM E INDUSTRIA LTDA",
+    "dia": "28/09",
+    "desde": "17:20",
+    "ts": 1790626829655
    },
    {
     "grupo": "J.A.L x CONSTRUTORA RAMON AGUILERA",
     "dia": "28/09",
     "desde": "13:56",
     "ts": 1790614577311
-   },
-   {
-    "grupo": "S.B x BANCO BRADESCO",
-    "dia": "24/09",
-    "desde": "16:27",
-    "ts": 1790278026444
    },
    {
     "grupo": "L.F.A x BIMBO DO BRASIL LTDA",
@@ -237,12 +242,6 @@
     "ts": 1790091204998
    },
    {
-    "grupo": "S.B x BANCO BRADESCO",
-    "dia": "24/09",
-    "desde": "16:27",
-    "ts": 1790278026444
-   },
-   {
     "grupo": "D.M.S.D.A",
     "dia": "25/09",
     "desde": "12:55",
@@ -289,6 +288,12 @@
     "dia": "28/09",
     "desde": "17:20",
     "ts": 1790626829655
+   },
+   {
+    "grupo": "A.P.D.D.R x SEARA ALIMENTOS LTDA",
+    "dia": "28/09",
+    "desde": "17:29",
+    "ts": 1790627385680
    }
   ]
  },
@@ -403,19 +408,52 @@
   ]
  },
  "agora": {
-  "fila": 418,
-  "abertos": 506,
+  "fila": 414,
+  "abertos": 507,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 6,
   "offline": 1,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 5963
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-28T15:35:18.195Z",
-  "min_sem_lead": 289
+  "ultimo_lead_at": "2026-09-26T15:39:46.628Z",
+  "min_sem_lead": 3180
  },
  "leads": [
+  {
+   "nome": "Denis",
+   "tel": "5521*****139",
+   "criado": "08:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Ddo-UijMsF3/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "CORRESPONDENTE Giovanna de Andrade Borba",
+   "tel": "5511*****312",
+   "criado": "17:30",
+   "atendente": "Eduardo",
+   "espera_min": 1.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "terezadasnevescruz",
+   "tel": "5511*****768",
+   "criado": "10:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/57zIOsZXG",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Deus Meu Salvador 🙌🏽",
    "tel": "5599*****190",
@@ -564,21 +602,10 @@
    "tel": "5547*****610",
    "criado": "11:32",
    "atendente": "—",
-   "espera_min": 4.4,
+   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7VV62ENLI",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "terezadasnevescruz",
-   "tel": "5511*****768",
-   "criado": "10:46",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/57zIOsZXG",
    "area": "Trabalhista"
   },
   {
@@ -612,17 +639,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/87PZSDuwc",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Denis",
-   "tel": "5521*****139",
-   "criado": "08:17",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Ddo-UijMsF3/",
    "area": "Trabalhista"
   },
   {
