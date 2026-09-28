@@ -1,24 +1,24 @@
 {
- "gerado_em": "28/09/2026, 16:38",
+ "gerado_em": "28/09/2026, 16:53",
  "data_ref": "28/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 28,
-  "no_sla": 18,
+  "total": 29,
+  "no_sla": 19,
   "fora_sla": 2,
   "sem_resposta": 1,
   "fora_horario": 7,
   "pct_sla": 90,
   "mediana_geral": 0.5,
-  "leads_7d": 209,
+  "leads_7d": 210,
   "tickets_abertos": 503,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
-   "mediana_min": 0.5
+   "leads": 20,
+   "mediana_min": 0.4
   },
   {
    "nome": "Roseli",
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 25,
+  "Anuncio": 26,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -48,11 +48,7 @@
    "leads": 2
   },
   {
-   "url": "fb.me/91elw2A2a",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/875plPmzH",
+   "url": "fb.me/9Kji7hTqb",
    "leads": 1
   },
   {
@@ -60,12 +56,16 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmW5hLM3NO/",
+   "url": "fb.me/91elw2A2a",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/875plPmzH",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 23,
+  "Trabalhista": 24,
   "Nao identificada": 4,
   "Previdenciario": 1
  },
@@ -96,16 +96,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 245,
-  "turnos": 550,
-  "respondidos": 545,
+  "turnos": 560,
+  "respondidos": 555,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 34,
+  "mediana_min": 37.6,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 297,
-    "mediana_min": 92.4
+    "respostas": 307,
+    "mediana_min": 99.7
    },
    {
     "nome": "Eduardo",
@@ -150,10 +150,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "V.B x E. T. PIRES, SOLUCOES EM CONTROLE DE ACESSO, LIMPEZA E APOIO ADM LTDA",
+    "grupo": "V.B.D.L x ENGEMAN MANUTENCAO DE EQUIPAMENTOS COM E INDUSTRIA LTDA",
     "dia": "28/09",
-    "desde": "13:00",
-    "ts": 1790611217281
+    "desde": "16:51",
+    "ts": 1790625119556
    },
    {
     "grupo": "D.M.S.D.A",
@@ -225,10 +225,10 @@
     "ts": 1790604180140
    },
    {
-    "grupo": "V.B x E. T. PIRES, SOLUCOES EM CONTROLE DE ACESSO, LIMPEZA E APOIO ADM LTDA",
+    "grupo": "V.B.D.L x ENGEMAN MANUTENCAO DE EQUIPAMENTOS COM E INDUSTRIA LTDA",
     "dia": "28/09",
-    "desde": "13:00",
-    "ts": 1790611217281
+    "desde": "16:51",
+    "ts": 1790625119556
    }
   ]
  },
@@ -346,25 +346,36 @@
   "fila": 420,
   "abertos": 503,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 5,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 5969
+  "ausentes": 2,
+  "espera_media_s": 5952
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-28T15:35:18.195Z",
-  "min_sem_lead": 243
+  "ultimo_lead_at": "2026-09-28T19:47:37.207Z",
+  "min_sem_lead": 6
  },
  "leads": [
   {
-   "nome": "deus e fiel",
-   "tel": "5592*****017",
-   "criado": "00:00",
+   "nome": "Portugal  🥰🥰 🇵🇹🇵🇹",
+   "tel": "5519*****067",
+   "criado": "16:47",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
-   "status": "FORA_HORARIO",
+   "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/91elw2A2a",
+   "criativo": "fb.me/9Kji7hTqb",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Jefferson",
+   "tel": "5547*****360",
+   "criado": "15:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
    "area": "Trabalhista"
   },
   {
@@ -379,7 +390,18 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "555181241503",
+   "nome": "deus e fiel",
+   "tel": "5592*****017",
+   "criado": "00:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Márcia  Cristina  Dos San",
    "tel": "5551*****503",
    "criado": "14:56",
    "atendente": "FG Advogados - Isadora ",
@@ -387,17 +409,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "554797428360",
-   "tel": "5547*****360",
-   "criado": "15:00",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/505ajP5YC",
    "area": "Trabalhista"
   },
   {
