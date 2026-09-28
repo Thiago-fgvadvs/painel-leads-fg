@@ -1,23 +1,23 @@
 {
- "gerado_em": "28/09/2026, 14:51",
+ "gerado_em": "28/09/2026, 15:06",
  "data_ref": "28/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
-  "no_sla": 16,
+  "total": 28,
+  "no_sla": 18,
   "fora_sla": 2,
   "sem_resposta": 1,
   "fora_horario": 7,
-  "pct_sla": 89,
-  "mediana_geral": 0.6,
-  "leads_7d": 207,
-  "tickets_abertos": 510,
+  "pct_sla": 90,
+  "mediana_geral": 0.5,
+  "leads_7d": 209,
+  "tickets_abertos": 513,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 17,
+   "leads": 19,
    "mediana_min": 0.5
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 25,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -48,25 +48,25 @@
    "leads": 2
   },
   {
+   "url": "fb.me/505ajP5YC",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/875plPmzH",
+   "leads": 1
+  },
+  {
    "url": "fb.me/91elw2A2a",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Ddrk_MtMdqa/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/7VV62ENLI",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 23,
   "Nao identificada": 4,
-  "Trabalhista": 21,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
@@ -96,11 +96,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 239,
-  "turnos": 536,
-  "respondidos": 528,
+  "turnos": 537,
+  "respondidos": 529,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
-  "mediana_min": 31,
+  "mediana_min": 30.6,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -109,8 +109,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 63,
-    "mediana_min": 11.1
+    "respostas": 64,
+    "mediana_min": 12.1
    },
    {
     "nome": "Gabrielle",
@@ -150,10 +150,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "Z.D.F.M.M.D.A.C",
+    "grupo": "J.D.S.L x CLS GARCIA CONSTRUCOES LTDA",
     "dia": "28/09",
-    "desde": "14:34",
-    "ts": 1790616884162
+    "desde": "14:52",
+    "ts": 1790617920193
    },
    {
     "grupo": "V.B x E. T. PIRES, SOLUCOES EM CONTROLE DE ACESSO, LIMPEZA E APOIO ADM LTDA",
@@ -261,10 +261,10 @@
     "ts": 1790611217281
    },
    {
-    "grupo": "Z.D.F.M.M.D.A.C",
+    "grupo": "J.D.S.L x CLS GARCIA CONSTRUCOES LTDA",
     "dia": "28/09",
-    "desde": "14:34",
-    "ts": 1790616884162
+    "desde": "14:52",
+    "ts": 1790617920193
    }
   ]
  },
@@ -379,19 +379,41 @@
   ]
  },
  "agora": {
-  "fila": 424,
-  "abertos": 510,
+  "fila": 426,
+  "abertos": 513,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 4,
-  "espera_media_s": 5919
+  "ausentes": 5,
+  "espera_media_s": 5886
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-28T17:06:39.362Z",
-  "min_sem_lead": 45
+  "ultimo_lead_at": "2026-09-28T17:56:51.796Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "554797428360",
+   "tel": "5547*****360",
+   "criado": "15:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "555181241503",
+   "tel": "5551*****503",
+   "criado": "14:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Eliel (outro celular)",
    "tel": "5524*****492",
