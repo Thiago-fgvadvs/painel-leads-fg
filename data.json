@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/09/2026, 15:06",
+ "gerado_em": "28/09/2026, 15:21",
  "data_ref": "28/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 90,
   "mediana_geral": 0.5,
   "leads_7d": 209,
-  "tickets_abertos": 513,
+  "tickets_abertos": 514,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -48,7 +48,7 @@
    "leads": 2
   },
   {
-   "url": "fb.me/505ajP5YC",
+   "url": "fb.me/91elw2A2a",
    "leads": 1
   },
   {
@@ -56,7 +56,7 @@
    "leads": 1
   },
   {
-   "url": "fb.me/91elw2A2a",
+   "url": "fb.me/505ajP5YC",
    "leads": 1
   },
   {
@@ -95,11 +95,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 239,
+  "grupos_ativos": 241,
   "turnos": 537,
-  "respondidos": 529,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
+  "respondidos": 530,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 30.6,
   "atendentes": [
    {
@@ -124,8 +124,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 29,
-    "mediana_min": 5.4
+    "respostas": 30,
+    "mediana_min": 8.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -149,12 +149,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "J.D.S.L x CLS GARCIA CONSTRUCOES LTDA",
-    "dia": "28/09",
-    "desde": "14:52",
-    "ts": 1790617920193
-   },
    {
     "grupo": "V.B x E. T. PIRES, SOLUCOES EM CONTROLE DE ACESSO, LIMPEZA E APOIO ADM LTDA",
     "dia": "28/09",
@@ -259,12 +253,6 @@
     "dia": "28/09",
     "desde": "13:00",
     "ts": 1790611217281
-   },
-   {
-    "grupo": "J.D.S.L x CLS GARCIA CONSTRUCOES LTDA",
-    "dia": "28/09",
-    "desde": "14:52",
-    "ts": 1790617920193
    }
   ]
  },
@@ -380,27 +368,38 @@
  },
  "agora": {
   "fila": 426,
-  "abertos": 513,
+  "abertos": 514,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 5,
+  "ausentes": 4,
   "espera_media_s": 5886
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-28T17:56:51.796Z",
-  "min_sem_lead": 10
+  "ultimo_lead_at": "2026-09-28T15:35:18.195Z",
+  "min_sem_lead": 167
  },
  "leads": [
   {
-   "nome": "554797428360",
-   "tel": "5547*****360",
-   "criado": "15:00",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
+   "nome": "Deus Meu Salvador 🙌🏽",
+   "tel": "5599*****190",
+   "criado": "12:35",
+   "atendente": "—",
+   "espera_min": 4.5,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/505ajP5YC",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "deus e fiel",
+   "tel": "5592*****017",
+   "criado": "00:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
    "area": "Trabalhista"
   },
   {
@@ -412,6 +411,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554797428360",
+   "tel": "5547*****360",
+   "criado": "15:00",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
    "area": "Trabalhista"
   },
   {
@@ -435,17 +445,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "deus e fiel",
-   "tel": "5592*****017",
-   "criado": "00:00",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/91elw2A2a",
-   "area": "Trabalhista"
   },
   {
    "nome": "Valdemar Lopes",
@@ -500,17 +499,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Deus Meu Salvador 🙌🏽",
-   "tel": "5599*****190",
-   "criado": "12:35",
-   "atendente": "—",
-   "espera_min": 4.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
    "area": "Trabalhista"
   },
   {
