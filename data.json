@@ -1,17 +1,17 @@
 {
- "gerado_em": "28/09/2026, 18:09",
+ "gerado_em": "28/09/2026, 18:25",
  "data_ref": "28/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
-  "no_sla": 20,
+  "total": 31,
+  "no_sla": 21,
   "fora_sla": 2,
   "sem_resposta": 1,
   "fora_horario": 7,
   "pct_sla": 91,
   "mediana_geral": 0.5,
-  "leads_7d": 211,
-  "tickets_abertos": 511,
+  "leads_7d": 212,
+  "tickets_abertos": 512,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,8 +22,8 @@
   },
   {
    "nome": "Roseli",
-   "leads": 2,
-   "mediana_min": 6
+   "leads": 3,
+   "mediana_min": 0.9
   },
   {
    "nome": "Eduardo",
@@ -33,7 +33,7 @@
  ],
  "origem": {
   "Anuncio": 26,
-  "Direto/Indicacao": 4
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
+  "Nao identificada": 6,
   "Trabalhista": 24,
-  "Nao identificada": 5,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
@@ -101,11 +101,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 246,
-  "turnos": 590,
-  "respondidos": 581,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 49.4,
+  "turnos": 595,
+  "respondidos": 585,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 46.7,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -129,8 +129,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 30,
-    "mediana_min": 8.3
+    "respostas": 34,
+    "mediana_min": 3.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -154,6 +154,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.D.S.L x CLS GARCIA CONSTRUCOES LTDA",
+    "dia": "28/09",
+    "desde": "18:21",
+    "ts": 1790630500804
+   },
    {
     "grupo": "J.J.B",
     "dia": "28/09",
@@ -282,6 +288,12 @@
     "dia": "28/09",
     "desde": "17:29",
     "ts": 1790627385680
+   },
+   {
+    "grupo": "J.D.S.L x CLS GARCIA CONSTRUCOES LTDA",
+    "dia": "28/09",
+    "desde": "18:21",
+    "ts": 1790630500804
    }
   ]
  },
@@ -397,7 +409,7 @@
  },
  "agora": {
   "fila": 411,
-  "abertos": 511,
+  "abertos": 512,
   "com_atendimento": 6,
   "online": 6,
   "offline": 1,
@@ -405,10 +417,32 @@
   "espera_media_s": 5946
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-28T15:35:18.195Z",
-  "min_sem_lead": 335
+  "ultimo_lead_at": "2026-09-28T21:18:26.812Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "Abílio de Negro",
+   "tel": "5534*****025",
+   "criado": "18:18",
+   "atendente": "Roseli",
+   "espera_min": 0.9,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Deus Meu Salvador 🙌🏽",
+   "tel": "5599*****190",
+   "criado": "12:35",
+   "atendente": "—",
+   "espera_min": 4.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Denis",
    "tel": "5521*****139",
@@ -462,17 +496,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/57zIOsZXG",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Deus Meu Salvador 🙌🏽",
-   "tel": "5599*****190",
-   "criado": "12:35",
-   "atendente": "—",
-   "espera_min": 4.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
    "area": "Trabalhista"
   },
   {
