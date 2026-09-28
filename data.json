@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/09/2026, 16:23",
+ "gerado_em": "28/09/2026, 16:38",
  "data_ref": "28/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 90,
   "mediana_geral": 0.5,
   "leads_7d": 209,
-  "tickets_abertos": 501,
+  "tickets_abertos": 503,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -96,16 +96,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 245,
-  "turnos": 547,
-  "respondidos": 543,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 32.3,
+  "turnos": 550,
+  "respondidos": 545,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 34,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 295,
-    "mediana_min": 91.8
+    "respostas": 297,
+    "mediana_min": 92.4
    },
    {
     "nome": "Eduardo",
@@ -156,6 +156,12 @@
     "ts": 1790611217281
    },
    {
+    "grupo": "D.M.S.D.A",
+    "dia": "25/09",
+    "desde": "12:55",
+    "ts": 1790351746744
+   },
+   {
     "grupo": "A.J.C",
     "dia": "28/09",
     "desde": "11:03",
@@ -199,6 +205,12 @@
     "dia": "22/09",
     "desde": "12:33",
     "ts": 1790091204998
+   },
+   {
+    "grupo": "D.M.S.D.A",
+    "dia": "25/09",
+    "desde": "12:55",
+    "ts": 1790351746744
    },
    {
     "grupo": "G.D.S.F x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
@@ -332,16 +344,16 @@
  },
  "agora": {
   "fila": 420,
-  "abertos": 501,
-  "com_atendimento": 6,
+  "abertos": 503,
+  "com_atendimento": 7,
   "online": 4,
   "offline": 1,
   "ausentes": 3,
   "espera_media_s": 5969
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-30T20:33:28.014Z",
-  "min_sem_lead": 86329
+  "ultimo_lead_at": "2026-09-28T15:35:18.195Z",
+  "min_sem_lead": 243
  },
  "leads": [
   {
