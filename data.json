@@ -1,31 +1,35 @@
 {
- "gerado_em": "29/09/2026, 09:00",
+ "gerado_em": "29/09/2026, 09:15",
  "data_ref": "29/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
-  "no_sla": 1,
+  "total": 3,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 182,
-  "tickets_abertos": 518,
+  "leads_7d": 183,
+  "tickets_abertos": 519,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 2,
+   "leads": 3,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 2,
+  "Anuncio": 3,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 1
+  },
   {
    "url": "fb.me/a18c14CpA",
    "leads": 1
@@ -36,17 +40,17 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2
+  "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 229,
-  "turnos": 478,
-  "respondidos": 467,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "grupos_ativos": 230,
+  "turnos": 479,
+  "respondidos": 469,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 45.7,
   "atendentes": [
    {
@@ -76,8 +80,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 19,
-    "mediana_min": 1420.6
+    "respostas": 21,
+    "mediana_min": 1337
    },
    {
     "nome": "Julia",
@@ -96,12 +100,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
-    "dia": "29/09",
-    "desde": "08:50",
-    "ts": 1790682643041
-   },
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "29/09",
@@ -242,12 +240,6 @@
     "dia": "29/09",
     "desde": "08:23",
     "ts": 1790681019020
-   },
-   {
-    "grupo": "C.D.S x VINCULO BASIC TEXTIL LTDA",
-    "dia": "29/09",
-    "desde": "08:50",
-    "ts": 1790682643041
    }
   ]
  },
@@ -315,19 +307,30 @@
   ]
  },
  "agora": {
-  "fila": 417,
-  "abertos": 518,
+  "fila": 418,
+  "abertos": 519,
   "com_atendimento": 6,
-  "online": 7,
+  "online": 6,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 5848
+  "ausentes": 1,
+  "espera_media_s": 5832
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 752921
+  "ultimo_lead_at": "2026-09-29T12:05:35.515Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "5516993399904",
+   "tel": "5516*****904",
+   "criado": "09:05",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "556192381145",
    "tel": "5561*****145",
