@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/09/2026, 17:08",
+ "gerado_em": "29/09/2026, 17:24",
  "data_ref": "29/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 203,
-  "tickets_abertos": 542,
+  "tickets_abertos": 540,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -80,10 +80,10 @@
   "dias": 7,
   "grupos_ativos": 243,
   "turnos": 536,
-  "respondidos": 527,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 55.4,
+  "respondidos": 528,
+  "sem_resposta": 8,
+  "sem_resposta_grupos": 8,
+  "mediana_min": 54.7,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -97,8 +97,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 47,
-    "mediana_min": 15.5
+    "respostas": 48,
+    "mediana_min": 16
    },
    {
     "nome": "Gabrielle",
@@ -132,12 +132,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "29/09",
-    "desde": "16:42",
-    "ts": 1790710960310
-   },
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "29/09",
@@ -254,12 +248,6 @@
     "dia": "29/09",
     "desde": "15:42",
     "ts": 1790707328165
-   },
-   {
-    "grupo": "L.R.R x (ASSAI) SENDAS DISTRIBUIDORA S.A",
-    "dia": "29/09",
-    "desde": "16:42",
-    "ts": 1790710960310
    }
   ]
  },
@@ -336,30 +324,19 @@
   ]
  },
  "agora": {
-  "fila": 432,
-  "abertos": 542,
+  "fila": 430,
+  "abertos": 540,
   "com_atendimento": 7,
-  "online": 4,
+  "online": 3,
   "offline": 1,
-  "ausentes": 3,
+  "ausentes": 4,
   "espera_media_s": 7962
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-29T17:14:58.047Z",
-  "min_sem_lead": 174
+  "ultimo_lead_at": "2026-09-24T00:49:19.777Z",
+  "min_sem_lead": 8375
  },
  "leads": [
-  {
-   "nome": "Nayara Carvalho Start Over",
-   "tel": "5586*****247",
-   "criado": "14:14",
-   "atendente": "Roseli",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
   {
    "nome": "Zenir",
    "tel": "5541*****996",
@@ -372,7 +349,40 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5514988162417",
+   "nome": "🍃 Um passo de cada vez.🍂🍃",
+   "tel": "5543*****398",
+   "criado": "16:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Fabio Dias",
+   "tel": "5551*****308",
+   "criado": "11:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DdrAuwdsnED/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Nayara Carvalho Start Over",
+   "tel": "5586*****247",
+   "criado": "14:14",
+   "atendente": "Roseli",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": ".",
    "tel": "5514*****417",
    "criado": "16:53",
    "atendente": "FG Advogados - Isadora ",
@@ -402,28 +412,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "🍃 Um passo de cada vez.🍂🍃",
-   "tel": "5543*****398",
-   "criado": "16:23",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Fabio Dias",
-   "tel": "5551*****308",
-   "criado": "11:55",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.8,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DdrAuwdsnED/",
    "area": "Trabalhista"
   },
   {
