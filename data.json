@@ -1,23 +1,23 @@
 {
- "gerado_em": "29/09/2026, 17:39",
+ "gerado_em": "29/09/2026, 17:54",
  "data_ref": "29/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
-  "no_sla": 22,
+  "total": 24,
+  "no_sla": 23,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 203,
-  "tickets_abertos": 540,
+  "leads_7d": 204,
+  "tickets_abertos": 541,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "fb.me/875plPmzH",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DdrAuwdsnED/",
@@ -63,14 +67,10 @@
   {
    "url": "www.instagram.com/p/Ddrs3QQs3L2/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 18,
+  "Trabalhista": 19,
   "Nao identificada": 3,
   "Previdenciario": 2
  },
@@ -336,19 +336,41 @@
   ]
  },
  "agora": {
-  "fila": 430,
-  "abertos": 540,
+  "fila": 431,
+  "abertos": 541,
   "com_atendimento": 7,
   "online": 3,
   "offline": 1,
   "ausentes": 4,
-  "espera_media_s": 7962
+  "espera_media_s": 7941
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
-  "min_sem_lead": 753439
+  "ultimo_lead_at": "2026-09-29T20:49:35.923Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "5522998009395",
+   "tel": "5522*****395",
+   "criado": "17:49",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Nayara Carvalho Start Over",
+   "tel": "5586*****247",
+   "criado": "14:14",
+   "atendente": "Roseli",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "Zenir",
    "tel": "5541*****996",
@@ -380,17 +402,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DdrAuwdsnED/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Nayara Carvalho Start Over",
-   "tel": "5586*****247",
-   "criado": "14:14",
-   "atendente": "Roseli",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Trabalhista"
   },
   {
