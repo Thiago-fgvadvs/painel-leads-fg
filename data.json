@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/09/2026, 12:18",
+ "gerado_em": "29/09/2026, 12:33",
  "data_ref": "29/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 191,
-  "tickets_abertos": 529,
+  "tickets_abertos": 528,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -31,11 +31,15 @@
    "leads": 2
   },
   {
-   "url": "fb.me/87PZSDuwc",
+   "url": "fb.me/a18c14CpA",
    "leads": 1
   },
   {
    "url": "fb.me/86gZjGkHz",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/87PZSDuwc",
    "leads": 1
   },
   {
@@ -51,32 +55,28 @@
    "leads": 1
   },
   {
-   "url": "fb.me/a18c14CpA",
-   "leads": 1
-  },
-  {
    "url": "fb.me/875plPmzH",
    "leads": 1
   }
  ],
  "areas": {
-  "Previdenciario": 1,
-  "Trabalhista": 10
+  "Trabalhista": 10,
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 236,
-  "turnos": 499,
-  "respondidos": 489,
+  "turnos": 501,
+  "respondidos": 491,
   "sem_resposta": 10,
   "sem_resposta_grupos": 10,
-  "mediana_min": 57.7,
+  "mediana_min": 58.1,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 281,
+    "respostas": 283,
     "mediana_min": 103
    },
    {
@@ -122,6 +122,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "B.K.D.S x HOSPLOG LOGISTICA LTDA",
+    "dia": "29/09",
+    "desde": "12:24",
+    "ts": 1790695486576
+   },
+   {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "29/09",
     "desde": "12:07",
@@ -138,12 +144,6 @@
     "dia": "29/09",
     "desde": "11:12",
     "ts": 1790691145295
-   },
-   {
-    "grupo": "M.A.R.D.S x CONDOMÍNIO DO EDIFÍCIO JARDINS DA AURORA",
-    "dia": "29/09",
-    "desde": "10:33",
-    "ts": 1790688806187
    },
    {
     "grupo": "J.J.B",
@@ -239,12 +239,6 @@
     "ts": 1790627385680
    },
    {
-    "grupo": "M.A.R.D.S x CONDOMÍNIO DO EDIFÍCIO JARDINS DA AURORA",
-    "dia": "29/09",
-    "desde": "10:33",
-    "ts": 1790688806187
-   },
-   {
     "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
     "dia": "29/09",
     "desde": "11:12",
@@ -261,6 +255,12 @@
     "dia": "29/09",
     "desde": "12:07",
     "ts": 1790694433493
+   },
+   {
+    "grupo": "B.K.D.S x HOSPLOG LOGISTICA LTDA",
+    "dia": "29/09",
+    "desde": "12:24",
+    "ts": 1790695486576
    }
   ]
  },
@@ -328,19 +328,41 @@
   ]
  },
  "agora": {
-  "fila": 423,
-  "abertos": 529,
+  "fila": 422,
+  "abertos": 528,
   "com_atendimento": 6,
-  "online": 5,
+  "online": 0,
   "offline": 1,
-  "ausentes": 2,
+  "ausentes": 7,
   "espera_media_s": 8162
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-29T14:56:22.599Z",
-  "min_sem_lead": 22
+  "ultimo_lead_at": "2026-09-29T11:22:51.511Z",
+  "min_sem_lead": 251
  },
  "leads": [
+  {
+   "nome": "556192381145",
+   "tel": "5561*****145",
+   "criado": "08:22",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/a18c14CpA",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Sandro",
+   "tel": "5547*****161",
+   "criado": "10:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/86gZjGkHz",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Elaine Cristina",
    "tel": "5554*****518",
@@ -351,6 +373,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DdrAuwdsnED/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "Fabio Dias",
+   "tel": "5551*****308",
+   "criado": "11:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DdrAuwdsnED/",
+   "area": "Trabalhista"
   },
   {
    "nome": "559192787141",
@@ -372,28 +405,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Fabio Dias",
-   "tel": "5551*****308",
-   "criado": "11:55",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.8,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DdrAuwdsnED/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Sandro",
-   "tel": "5547*****161",
-   "criado": "10:28",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/86gZjGkHz",
    "area": "Trabalhista"
   },
   {
@@ -438,17 +449,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "556192381145",
-   "tel": "5561*****145",
-   "criado": "08:22",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/a18c14CpA",
    "area": "Trabalhista"
   },
   {
