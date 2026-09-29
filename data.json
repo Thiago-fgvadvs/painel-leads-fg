@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/09/2026, 13:34",
+ "gerado_em": "29/09/2026, 13:50",
  "data_ref": "29/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -68,16 +68,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 237,
-  "turnos": 501,
-  "respondidos": 492,
+  "turnos": 504,
+  "respondidos": 495,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
-  "mediana_min": 57.9,
+  "mediana_min": 58.2,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 283,
-    "mediana_min": 103
+    "respostas": 286,
+    "mediana_min": 104.9
    },
    {
     "nome": "Advogados - FG",
@@ -318,28 +318,17 @@
  "agora": {
   "fila": 425,
   "abertos": 532,
-  "com_atendimento": 7,
+  "com_atendimento": 6,
   "online": 5,
   "offline": 1,
   "ausentes": 2,
   "espera_media_s": 8098
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-29T16:17:17.109Z",
-  "min_sem_lead": 18
+  "ultimo_lead_at": "2026-09-29T14:55:19.013Z",
+  "min_sem_lead": 115
  },
  "leads": [
-  {
-   "nome": "559491885756",
-   "tel": "5594*****756",
-   "criado": "13:17",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Fabio Dias",
    "tel": "5551*****308",
@@ -352,17 +341,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Da nike😎",
-   "tel": "5591*****141",
-   "criado": "12:12",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Elaine Cristina",
    "tel": "5554*****518",
    "criado": "11:56",
@@ -372,6 +350,28 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DdrAuwdsnED/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "559491885756",
+   "tel": "5594*****756",
+   "criado": "13:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Da nike😎",
+   "tel": "5591*****141",
+   "criado": "12:12",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
   },
   {
    "nome": "Sandro",
