@@ -1,31 +1,35 @@
 {
- "gerado_em": "29/09/2026, 11:48",
+ "gerado_em": "29/09/2026, 12:03",
  "data_ref": "29/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 6,
+  "total": 9,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 187,
-  "tickets_abertos": 523,
+  "leads_7d": 189,
+  "tickets_abertos": 527,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
+   "leads": 9,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 8,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DdrAuwdsnED/",
+   "leads": 2
+  },
   {
    "url": "fb.me/86gZjGkHz",
    "leads": 1
@@ -52,23 +56,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7
+  "Previdenciario": 1,
+  "Trabalhista": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 236,
-  "turnos": 495,
-  "respondidos": 487,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 56.6,
+  "turnos": 496,
+  "respondidos": 489,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 57.7,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 279,
-    "mediana_min": 102.4
+    "respostas": 281,
+    "mediana_min": 103
    },
    {
     "nome": "Advogados - FG",
@@ -117,12 +122,6 @@
     "dia": "29/09",
     "desde": "11:12",
     "ts": 1790691145295
-   },
-   {
-    "grupo": "E.C.D.S x WANEL VILLE LOTERIAS LTDA",
-    "dia": "29/09",
-    "desde": "09:29",
-    "ts": 1790684987101
    },
    {
     "grupo": "J.J.B",
@@ -218,12 +217,6 @@
     "ts": 1790627385680
    },
    {
-    "grupo": "E.C.D.S x WANEL VILLE LOTERIAS LTDA",
-    "dia": "29/09",
-    "desde": "09:29",
-    "ts": 1790684987101
-   },
-   {
     "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
     "dia": "29/09",
     "desde": "11:12",
@@ -295,19 +288,41 @@
   ]
  },
  "agora": {
-  "fila": 422,
-  "abertos": 523,
+  "fila": 423,
+  "abertos": 527,
   "com_atendimento": 6,
-  "online": 2,
+  "online": 4,
   "offline": 1,
-  "ausentes": 5,
-  "espera_media_s": 8272
+  "ausentes": 3,
+  "espera_media_s": 8206
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-24T14:09:09.071Z",
-  "min_sem_lead": 51879
+  "ultimo_lead_at": "2026-09-29T14:56:22.599Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "555484115518",
+   "tel": "5554*****518",
+   "criado": "11:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DdrAuwdsnED/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "555190164308",
+   "tel": "5551*****308",
+   "criado": "11:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DdrAuwdsnED/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "554796920161",
    "tel": "5547*****161",
