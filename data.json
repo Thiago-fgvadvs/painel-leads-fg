@@ -1,34 +1,38 @@
 {
- "gerado_em": "29/09/2026, 12:03",
+ "gerado_em": "29/09/2026, 12:18",
  "data_ref": "29/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 8,
+  "total": 11,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 189,
-  "tickets_abertos": 527,
+  "leads_7d": 191,
+  "tickets_abertos": 529,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 11,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
-  "Direto/Indicacao": 1
+  "Anuncio": 9,
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DdrAuwdsnED/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 1
   },
   {
    "url": "fb.me/86gZjGkHz",
@@ -57,17 +61,17 @@
  ],
  "areas": {
   "Previdenciario": 1,
-  "Trabalhista": 8
+  "Trabalhista": 10
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 236,
-  "turnos": 496,
+  "turnos": 499,
   "respondidos": 489,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 57.7,
   "atendentes": [
    {
@@ -118,10 +122,28 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "29/09",
+    "desde": "12:07",
+    "ts": 1790694433493
+   },
+   {
+    "grupo": "E.C.D.S x WANEL VILLE LOTERIAS LTDA",
+    "dia": "29/09",
+    "desde": "12:03",
+    "ts": 1790694203469
+   },
+   {
     "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
     "dia": "29/09",
     "desde": "11:12",
     "ts": 1790691145295
+   },
+   {
+    "grupo": "M.A.R.D.S x CONDOMÍNIO DO EDIFÍCIO JARDINS DA AURORA",
+    "dia": "29/09",
+    "desde": "10:33",
+    "ts": 1790688806187
    },
    {
     "grupo": "J.J.B",
@@ -217,10 +239,28 @@
     "ts": 1790627385680
    },
    {
+    "grupo": "M.A.R.D.S x CONDOMÍNIO DO EDIFÍCIO JARDINS DA AURORA",
+    "dia": "29/09",
+    "desde": "10:33",
+    "ts": 1790688806187
+   },
+   {
     "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
     "dia": "29/09",
     "desde": "11:12",
     "ts": 1790691145295
+   },
+   {
+    "grupo": "E.C.D.S x WANEL VILLE LOTERIAS LTDA",
+    "dia": "29/09",
+    "desde": "12:03",
+    "ts": 1790694203469
+   },
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "29/09",
+    "desde": "12:07",
+    "ts": 1790694433493
    }
   ]
  },
@@ -289,20 +329,20 @@
  },
  "agora": {
   "fila": 423,
-  "abertos": 527,
+  "abertos": 529,
   "com_atendimento": 6,
-  "online": 4,
+  "online": 5,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 8206
+  "ausentes": 2,
+  "espera_media_s": 8162
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-29T14:56:22.599Z",
-  "min_sem_lead": 7
+  "min_sem_lead": 22
  },
  "leads": [
   {
-   "nome": "555484115518",
+   "nome": "Elaine Cristina",
    "tel": "5554*****518",
    "criado": "11:56",
    "atendente": "FG Advogados - Isadora ",
@@ -313,7 +353,29 @@
    "area": "Previdenciario"
   },
   {
-   "nome": "555190164308",
+   "nome": "559192787141",
+   "tel": "5591*****141",
+   "criado": "12:12",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Fernanda Oliveira",
+   "tel": "5547*****172",
+   "criado": "12:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Fabio Dias",
    "tel": "5551*****308",
    "criado": "11:55",
    "atendente": "FG Advogados - Isadora ",
@@ -324,7 +386,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554796920161",
+   "nome": "Sandro",
    "tel": "5547*****161",
    "criado": "10:28",
    "atendente": "FG Advogados - Isadora ",
