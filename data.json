@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/09/2026, 13:50",
+ "gerado_em": "29/09/2026, 14:05",
  "data_ref": "29/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 193,
-  "tickets_abertos": 532,
+  "tickets_abertos": 534,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -31,6 +31,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcmXQJpsDOE/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
   },
@@ -40,10 +44,6 @@
   },
   {
    "url": "fb.me/86gZjGkHz",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmXQJpsDOE/",
    "leads": 1
   },
   {
@@ -68,16 +68,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 237,
-  "turnos": 504,
-  "respondidos": 495,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 58.2,
+  "turnos": 511,
+  "respondidos": 501,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 58.6,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 286,
-    "mediana_min": 104.9
+    "respostas": 291,
+    "mediana_min": 106.5
    },
    {
     "nome": "Advogados - FG",
@@ -86,8 +86,8 @@
    },
    {
     "nome": "Eduardo",
-    "respostas": 44,
-    "mediana_min": 13.3
+    "respostas": 45,
+    "mediana_min": 14.6
    },
    {
     "nome": "Gabrielle",
@@ -122,6 +122,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
+    "dia": "29/09",
+    "desde": "14:02",
+    "ts": 1790701372862
+   },
+   {
     "grupo": "D.M.S.D.A",
     "dia": "25/09",
     "desde": "12:55",
@@ -132,12 +138,6 @@
     "dia": "29/09",
     "desde": "12:07",
     "ts": 1790694433493
-   },
-   {
-    "grupo": "E.C.D.S x WANEL VILLE LOTERIAS LTDA",
-    "dia": "29/09",
-    "desde": "12:03",
-    "ts": 1790694203469
    },
    {
     "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
@@ -174,6 +174,12 @@
     "dia": "28/09",
     "desde": "09:13",
     "ts": 1790597623928
+   },
+   {
+    "grupo": "C.D.S.C x ALLREDE SERVICOS TECNOLOGICOS LTDA",
+    "dia": "24/09",
+    "desde": "12:54",
+    "ts": 1790265254689
    }
   ]
  },
@@ -197,6 +203,12 @@
   ],
   "grupos": [
    {
+    "grupo": "C.D.S.C x ALLREDE SERVICOS TECNOLOGICOS LTDA",
+    "dia": "24/09",
+    "desde": "12:54",
+    "ts": 1790265254689
+   },
+   {
     "grupo": "D.M.S.D.A",
     "dia": "25/09",
     "desde": "12:55",
@@ -239,16 +251,16 @@
     "ts": 1790691145295
    },
    {
-    "grupo": "E.C.D.S x WANEL VILLE LOTERIAS LTDA",
-    "dia": "29/09",
-    "desde": "12:03",
-    "ts": 1790694203469
-   },
-   {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "29/09",
     "desde": "12:07",
     "ts": 1790694433493
+   },
+   {
+    "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
+    "dia": "29/09",
+    "desde": "14:02",
+    "ts": 1790701372862
    }
   ]
  },
@@ -316,17 +328,17 @@
   ]
  },
  "agora": {
-  "fila": 425,
-  "abertos": 532,
-  "com_atendimento": 6,
+  "fila": 424,
+  "abertos": 534,
+  "com_atendimento": 7,
   "online": 5,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 8098
+  "espera_media_s": 8077
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-29T14:55:19.013Z",
-  "min_sem_lead": 115
+  "ultimo_lead_at": "2026-07-27T12:34:09.453Z",
+  "min_sem_lead": 92431
  },
  "leads": [
   {
@@ -338,6 +350,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DdrAuwdsnED/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Isaque Santos",
+   "tel": "5511*****525",
+   "criado": "12:48",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmXQJpsDOE/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Fernanda Oliveira",
+   "tel": "5547*****172",
+   "criado": "12:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -385,17 +419,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Isaque Santos",
-   "tel": "5511*****525",
-   "criado": "12:48",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmXQJpsDOE/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Ryan",
    "tel": "5561*****145",
    "criado": "08:22",
@@ -404,17 +427,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/a18c14CpA",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Fernanda Oliveira",
-   "tel": "5547*****172",
-   "criado": "12:08",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Trabalhista"
   },
   {
