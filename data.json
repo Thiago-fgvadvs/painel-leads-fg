@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/09/2026, 15:21",
+ "gerado_em": "29/09/2026, 15:37",
  "data_ref": "29/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 198,
-  "tickets_abertos": 538,
+  "tickets_abertos": 536,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -40,11 +40,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/Ddrs3QQs3L2/",
+   "url": "fb.me/6AFbdEcuS",
    "leads": 1
   },
   {
-   "url": "fb.me/6AFbdEcuS",
+   "url": "www.instagram.com/p/Ddrs3QQs3L2/",
    "leads": 1
   },
   {
@@ -65,30 +65,30 @@
   }
  ],
  "areas": {
-  "Trabalhista": 14,
+  "Trabalhista": 15,
   "Previdenciario": 2,
-  "Nao identificada": 2
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 241,
-  "turnos": 524,
-  "respondidos": 516,
-  "sem_resposta": 8,
-  "sem_resposta_grupos": 8,
-  "mediana_min": 58.2,
+  "grupos_ativos": 242,
+  "turnos": 528,
+  "respondidos": 519,
+  "sem_resposta": 9,
+  "sem_resposta_grupos": 9,
+  "mediana_min": 57.7,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 302,
-    "mediana_min": 102.7
+    "respostas": 304,
+    "mediana_min": 101.6
    },
    {
     "nome": "Advogados - FG",
-    "respostas": 53,
-    "mediana_min": 0.8
+    "respostas": 54,
+    "mediana_min": 0.9
    },
    {
     "nome": "Eduardo",
@@ -127,6 +127,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "B.K.D.S x HOSPLOG LOGISTICA LTDA",
+    "dia": "29/09",
+    "desde": "15:32",
+    "ts": 1790706728136
+   },
    {
     "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
     "dia": "29/09",
@@ -243,6 +249,12 @@
     "dia": "29/09",
     "desde": "14:10",
     "ts": 1790701859882
+   },
+   {
+    "grupo": "B.K.D.S x HOSPLOG LOGISTICA LTDA",
+    "dia": "29/09",
+    "desde": "15:32",
+    "ts": 1790706728136
    }
   ]
  },
@@ -320,29 +332,18 @@
  },
  "agora": {
   "fila": 426,
-  "abertos": 538,
-  "com_atendimento": 6,
-  "online": 5,
+  "abertos": 536,
+  "com_atendimento": 7,
+  "online": 3,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 8014
+  "ausentes": 4,
+  "espera_media_s": 8056
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-15T12:54:41.140Z",
-  "min_sem_lead": 20487
+  "min_sem_lead": 20502
  },
  "leads": [
-  {
-   "nome": "Leo",
-   "tel": "5541*****515",
-   "criado": "14:11",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/Ddrs3QQs3L2/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Fabio Dias",
    "tel": "5551*****308",
@@ -355,6 +356,28 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "Nayara Carvalho Start Over",
+   "tel": "5586*****247",
+   "criado": "14:14",
+   "atendente": "Roseli",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Fernanda Oliveira",
+   "tel": "5547*****172",
+   "criado": "12:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
    "nome": "Neide 🥰",
    "tel": "5511*****938",
    "criado": "14:51",
@@ -364,6 +387,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/6AFbdEcuS",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "Leo",
+   "tel": "5541*****515",
+   "criado": "14:11",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Ddrs3QQs3L2/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Elaine Cristina",
@@ -385,17 +419,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Fernanda Oliveira",
-   "tel": "5547*****172",
-   "criado": "12:08",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -441,17 +464,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Nayara Carvalho",
-   "tel": "5586*****247",
-   "criado": "14:14",
-   "atendente": "Roseli",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Da nike😎",
