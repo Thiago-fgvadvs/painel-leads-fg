@@ -1,48 +1,52 @@
 {
- "gerado_em": "29/09/2026, 08:14",
+ "gerado_em": "29/09/2026, 08:30",
  "data_ref": "29/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 1,
-  "no_sla": 0,
+  "total": 2,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 181,
-  "tickets_abertos": 516,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 182,
+  "tickets_abertos": 517,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 1,
-   "mediana_min": null
+   "leads": 2,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 1,
+  "Anuncio": 2,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/a18c14CpA",
+   "leads": 1
+  },
   {
    "url": "fb.me/875plPmzH",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 1
+  "Trabalhista": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 472,
+  "turnos": 473,
   "respondidos": 463,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
   "mediana_min": 42.3,
   "atendentes": [
    {
@@ -92,6 +96,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "29/09",
+    "desde": "08:23",
+    "ts": 1790681019020
+   },
    {
     "grupo": "J.D.S.L x CLS GARCIA CONSTRUCOES LTDA",
     "dia": "28/09",
@@ -220,6 +230,12 @@
     "dia": "28/09",
     "desde": "18:21",
     "ts": 1790630500804
+   },
+   {
+    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
+    "dia": "29/09",
+    "desde": "08:23",
+    "ts": 1790681019020
    }
   ]
  },
@@ -287,19 +303,30 @@
   ]
  },
  "agora": {
-  "fila": 415,
-  "abertos": 516,
+  "fila": 416,
+  "abertos": 517,
   "com_atendimento": 6,
   "online": 7,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 5880
+  "espera_media_s": 5864
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 752875
+  "ultimo_lead_at": "2026-09-29T11:22:51.511Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "556192381145",
+   "tel": "5561*****145",
+   "criado": "08:22",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/a18c14CpA",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558588009930",
    "tel": "5585*****930",
