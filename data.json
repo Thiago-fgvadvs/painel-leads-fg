@@ -1,31 +1,35 @@
 {
- "gerado_em": "29/09/2026, 10:16",
+ "gerado_em": "29/09/2026, 10:32",
  "data_ref": "29/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 4,
+  "total": 6,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 185,
-  "tickets_abertos": 516,
+  "leads_7d": 186,
+  "tickets_abertos": 517,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
+   "leads": 6,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/86gZjGkHz",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DcmTPQAMvTf/",
    "leads": 1
@@ -48,23 +52,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5
+  "Trabalhista": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 230,
-  "turnos": 483,
-  "respondidos": 475,
+  "turnos": 485,
+  "respondidos": 477,
   "sem_resposta": 8,
   "sem_resposta_grupos": 8,
-  "mediana_min": 50.6,
+  "mediana_min": 52,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 270,
-    "mediana_min": 99.8
+    "respostas": 272,
+    "mediana_min": 100.3
    },
    {
     "nome": "Advogados - FG",
@@ -291,19 +295,30 @@
   ]
  },
  "agora": {
-  "fila": 419,
-  "abertos": 516,
+  "fila": 420,
+  "abertos": 517,
   "com_atendimento": 6,
-  "online": 3,
+  "online": 5,
   "offline": 1,
-  "ausentes": 4,
-  "espera_media_s": 5800
+  "ausentes": 2,
+  "espera_media_s": 8362
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 752997
+  "ultimo_lead_at": "2026-09-28T21:18:26.812Z",
+  "min_sem_lead": 973
  },
  "leads": [
+  {
+   "nome": "554796920161",
+   "tel": "5547*****161",
+   "criado": "10:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/86gZjGkHz",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Guilherme",
    "tel": "5511*****471",
