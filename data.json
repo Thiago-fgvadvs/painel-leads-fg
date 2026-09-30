@@ -1,17 +1,17 @@
 {
- "gerado_em": "30/09/2026, 20:28",
+ "gerado_em": "30/09/2026, 20:43",
  "data_ref": "30/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
+  "total": 27,
   "no_sla": 17,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 9,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 214,
-  "tickets_abertos": 557,
+  "leads_7d": 215,
+  "tickets_abertos": 558,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,10 +22,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 24,
   "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "fb.me/875plPmzH",
+   "leads": 3
+  },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 3
@@ -43,10 +47,6 @@
    "leads": 2
   },
   {
-   "url": "fb.me/875plPmzH",
-   "leads": 2
-  },
-  {
    "url": "fb.me/a18c14CpA",
    "leads": 1
   },
@@ -60,10 +60,17 @@
   }
  ],
  "areas": {
-  "Trabalhista": 23,
+  "Trabalhista": 24,
   "Nao identificada": 3
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Marcelo Santos",
+   "tel": "5522*****783",
+   "criado": "20:43",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -138,6 +145,13 @@
     "dia": "28/09",
     "desde": "09:27",
     "ts": 1790598438447
+   },
+   {
+    "nome": "Marcelo Santos",
+    "tel": "5522*****783",
+    "dia": "30/09",
+    "desde": "20:43",
+    "ts": 1790811814808
    }
   ],
   "grupos": [
@@ -213,8 +227,8 @@
   ]
  },
  "agora": {
-  "fila": 473,
-  "abertos": 557,
+  "fila": 474,
+  "abertos": 558,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
@@ -222,10 +236,21 @@
   "espera_media_s": 7171
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-30T22:36:31.378Z",
-  "min_sem_lead": 52
+  "ultimo_lead_at": "2026-09-30T23:43:34.808Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "Marcelo Santos",
+   "tel": "5522*****783",
+   "criado": "20:43",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Gessyk Santos",
    "tel": "5522*****286",
