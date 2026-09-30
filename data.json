@@ -1,17 +1,17 @@
 {
- "gerado_em": "30/09/2026, 07:44",
+ "gerado_em": "30/09/2026, 07:59",
  "data_ref": "30/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
+  "total": 5,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 4,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 192,
-  "tickets_abertos": 556,
+  "leads_7d": 193,
+  "tickets_abertos": 557,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,10 +22,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW5LEMrD9/",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DdrnAcAsmtQ/",
    "leads": 1
@@ -44,9 +48,16 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4
+  "Trabalhista": 5
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "558496459071",
+   "tel": "5584*****071",
+   "criado": "07:59",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -169,6 +180,13 @@
     "dia": "28/09",
     "desde": "09:27",
     "ts": 1790598438447
+   },
+   {
+    "nome": "558496459071",
+    "tel": "5584*****071",
+    "dia": "30/09",
+    "desde": "07:59",
+    "ts": 1790765982087
    }
   ],
   "grupos": [
@@ -283,8 +301,8 @@
   ]
  },
  "agora": {
-  "fila": 446,
-  "abertos": 556,
+  "fila": 447,
+  "abertos": 557,
   "com_atendimento": 7,
   "online": 4,
   "offline": 3,
@@ -292,10 +310,21 @@
   "espera_media_s": 7664
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-30T10:38:49.547Z",
-  "min_sem_lead": 6
+  "ultimo_lead_at": "2026-09-30T10:59:42.087Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "558496459071",
+   "tel": "5584*****071",
+   "criado": "07:59",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "557481004239",
    "tel": "5574*****239",
