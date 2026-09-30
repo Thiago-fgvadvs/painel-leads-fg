@@ -1,34 +1,38 @@
 {
- "gerado_em": "30/09/2026, 18:57",
+ "gerado_em": "30/09/2026, 19:12",
  "data_ref": "30/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
+  "total": 23,
   "no_sla": 17,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 5,
+  "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 210,
-  "tickets_abertos": 552,
+  "leads_7d": 211,
+  "tickets_abertos": 553,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 22,
+   "leads": 23,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DcmTUt6sq5W/",
+   "leads": 2
   },
   {
    "url": "fb.me/6AFbdEcuS",
@@ -51,17 +55,13 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmTUt6sq5W/",
-   "leads": 1
-  },
-  {
    "url": "fb.me/7ZVZhwxMh",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 20,
-  "Nao identificada": 2
+  "Nao identificada": 3,
+  "Trabalhista": 20
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -213,19 +213,30 @@
   ]
  },
  "agora": {
-  "fila": 468,
-  "abertos": 552,
+  "fila": 469,
+  "abertos": 553,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 7258
+  "espera_media_s": 7240
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 754957
+  "ultimo_lead_at": "2026-09-30T22:04:15.424Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "Carol",
+   "tel": "5534*****064",
+   "criado": "19:04",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmTUt6sq5W/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "554797278979",
    "tel": "5547*****979",
