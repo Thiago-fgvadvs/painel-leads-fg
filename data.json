@@ -1,5 +1,5 @@
 {
- "gerado_em": "30/09/2026, 13:51",
+ "gerado_em": "30/09/2026, 14:06",
  "data_ref": "30/09/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 204,
-  "tickets_abertos": 578,
+  "tickets_abertos": 557,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -67,10 +67,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 469,
+  "turnos": 459,
   "respondidos": 458,
-  "sem_resposta": 11,
-  "sem_resposta_grupos": 11,
+  "sem_resposta": 1,
+  "sem_resposta_grupos": 1,
   "mediana_min": 46.5,
   "atendentes": [
    {
@@ -121,70 +121,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "C.E.A.E.L x JOSE AUGUSTO DE SOUZA FROTA",
-    "dia": "30/09",
-    "desde": "13:33",
-    "ts": 1790786016324
-   },
-   {
-    "grupo": "N.J.D.S.M x INSS",
-    "dia": "30/09",
-    "desde": "13:28",
-    "ts": 1790785733311
-   },
-   {
-    "grupo": "T.C.M x MUNICIPIO DE LUIZ ALVES",
-    "dia": "30/09",
-    "desde": "10:13",
-    "ts": 1790774014882
-   },
-   {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "29/09",
-    "desde": "15:42",
-    "ts": 1790707328165
-   },
-   {
     "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
     "dia": "29/09",
     "desde": "14:02",
     "ts": 1790701372862
-   },
-   {
-    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
-    "dia": "29/09",
-    "desde": "11:12",
-    "ts": 1790691145295
-   },
-   {
-    "grupo": "J.J.B",
-    "dia": "28/09",
-    "desde": "17:02",
-    "ts": 1790625736590
-   },
-   {
-    "grupo": "A.P.D.D.R x SEARA ALIMENTOS LTDA",
-    "dia": "28/09",
-    "desde": "17:29",
-    "ts": 1790627385680
-   },
-   {
-    "grupo": "V.B.D.L x ENGEMAN MANUTENCAO DE EQUIPAMENTOS COM E INDUSTRIA LTDA",
-    "dia": "28/09",
-    "desde": "17:20",
-    "ts": 1790626829655
-   },
-   {
-    "grupo": "L.F.A x BIMBO DO BRASIL LTDA",
-    "dia": "28/09",
-    "desde": "13:59",
-    "ts": 1790614764315
-   },
-   {
-    "grupo": "G.D.S.F x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
-    "dia": "28/09",
-    "desde": "09:13",
-    "ts": 1790597623928
    }
   ]
  },
@@ -201,70 +141,10 @@
   ],
   "grupos": [
    {
-    "grupo": "G.D.S.F x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
-    "dia": "28/09",
-    "desde": "09:13",
-    "ts": 1790597623928
-   },
-   {
-    "grupo": "L.F.A x BIMBO DO BRASIL LTDA",
-    "dia": "28/09",
-    "desde": "13:59",
-    "ts": 1790614764315
-   },
-   {
-    "grupo": "J.J.B",
-    "dia": "28/09",
-    "desde": "17:02",
-    "ts": 1790625736590
-   },
-   {
-    "grupo": "V.B.D.L x ENGEMAN MANUTENCAO DE EQUIPAMENTOS COM E INDUSTRIA LTDA",
-    "dia": "28/09",
-    "desde": "17:20",
-    "ts": 1790626829655
-   },
-   {
-    "grupo": "A.P.D.D.R x SEARA ALIMENTOS LTDA",
-    "dia": "28/09",
-    "desde": "17:29",
-    "ts": 1790627385680
-   },
-   {
-    "grupo": "D.M.G x D.S.A PRESTADORA DE SERVICOS LTDA",
-    "dia": "29/09",
-    "desde": "11:12",
-    "ts": 1790691145295
-   },
-   {
     "grupo": "N.R.A.F x ALMAVIVA EXPERIENCE S.A",
     "dia": "29/09",
     "desde": "14:02",
     "ts": 1790701372862
-   },
-   {
-    "grupo": "R.M.G x SINDICATO BANCO BRADESCO",
-    "dia": "29/09",
-    "desde": "15:42",
-    "ts": 1790707328165
-   },
-   {
-    "grupo": "T.C.M x MUNICIPIO DE LUIZ ALVES",
-    "dia": "30/09",
-    "desde": "10:13",
-    "ts": 1790774014882
-   },
-   {
-    "grupo": "N.J.D.S.M x INSS",
-    "dia": "30/09",
-    "desde": "13:28",
-    "ts": 1790785733311
-   },
-   {
-    "grupo": "C.E.A.E.L x JOSE AUGUSTO DE SOUZA FROTA",
-    "dia": "30/09",
-    "desde": "13:33",
-    "ts": 1790786016324
    }
   ]
  },
@@ -324,29 +204,18 @@
  },
  "agora": {
   "fila": 464,
-  "abertos": 578,
-  "com_atendimento": 6,
-  "online": 3,
-  "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 7406
+  "abertos": 557,
+  "com_atendimento": 4,
+  "online": 4,
+  "offline": 0,
+  "ausentes": 1,
+  "espera_media_s": 7264
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-30T14:52:15.696Z",
-  "min_sem_lead": 119
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 754667
  },
  "leads": [
-  {
-   "nome": "Dayana",
-   "tel": "5511*****081",
-   "criado": "11:52",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
   {
    "nome": "🩷🩷🩷",
    "tel": "5562*****785",
@@ -356,6 +225,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Dayana",
+   "tel": "5511*****081",
+   "criado": "11:52",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
   },
   {
