@@ -1,31 +1,35 @@
 {
- "gerado_em": "30/09/2026, 08:45",
+ "gerado_em": "30/09/2026, 09:00",
  "data_ref": "30/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 0,
+  "total": 6,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 193,
-  "tickets_abertos": 557,
+  "pct_sla": 100,
+  "mediana_geral": 0.5,
+  "leads_7d": 194,
+  "tickets_abertos": 558,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
-   "mediana_min": null
+   "leads": 6,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/4REn6vfcB",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
    "leads": 1
@@ -48,18 +52,18 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5
+  "Trabalhista": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 205,
-  "turnos": 420,
-  "respondidos": 411,
+  "grupos_ativos": 210,
+  "turnos": 426,
+  "respondidos": 417,
   "sem_resposta": 9,
   "sem_resposta_grupos": 9,
-  "mediana_min": 37,
+  "mediana_min": 39.6,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -88,8 +92,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 16,
-    "mediana_min": 950.2
+    "respostas": 22,
+    "mediana_min": 1027.3
    },
    {
     "nome": "Julia",
@@ -287,19 +291,30 @@
   ]
  },
  "agora": {
-  "fila": 447,
-  "abertos": 557,
+  "fila": 448,
+  "abertos": 558,
   "com_atendimento": 7,
   "online": 4,
   "offline": 3,
   "ausentes": 1,
-  "espera_media_s": 7645
+  "espera_media_s": 7626
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-29T17:14:58.047Z",
-  "min_sem_lead": 1111
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 754361
  },
  "leads": [
+  {
+   "nome": "559191211260",
+   "tel": "5591*****260",
+   "criado": "08:48",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4REn6vfcB",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558496459071",
    "tel": "5584*****071",
