@@ -1,34 +1,38 @@
 {
- "gerado_em": "30/09/2026, 18:11",
+ "gerado_em": "30/09/2026, 18:26",
  "data_ref": "30/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 16,
+  "total": 22,
+  "no_sla": 17,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 209,
-  "tickets_abertos": 551,
+  "leads_7d": 210,
+  "tickets_abertos": 552,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/6AFbdEcuS",
+   "leads": 2
   },
   {
    "url": "fb.me/875plPmzH",
@@ -40,10 +44,6 @@
   },
   {
    "url": "fb.me/6AtXYV6zP",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/6AFbdEcuS",
    "leads": 1
   },
   {
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 19,
+  "Trabalhista": 20,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -68,10 +68,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 223,
-  "turnos": 492,
+  "turnos": 493,
   "respondidos": 492,
-  "sem_resposta": 0,
-  "sem_resposta_grupos": 0,
+  "sem_resposta": 1,
+  "sem_resposta_grupos": 1,
   "mediana_min": 42,
   "atendentes": [
    {
@@ -120,7 +120,14 @@
     "mediana_min": 852.5
    }
   ],
-  "sem_resposta_lista": []
+  "sem_resposta_lista": [
+   {
+    "grupo": "N.D.S.C x ALMAVIVA EXPERIENCE S.A.",
+    "dia": "30/09",
+    "desde": "18:19",
+    "ts": 1790803197999
+   }
+  ]
  },
  "pendencias": {
   "dias": 7,
@@ -133,7 +140,14 @@
     "ts": 1790598438447
    }
   ],
-  "grupos": []
+  "grupos": [
+   {
+    "grupo": "N.D.S.C x ALMAVIVA EXPERIENCE S.A.",
+    "dia": "30/09",
+    "desde": "18:19",
+    "ts": 1790803197999
+   }
+  ]
  },
  "contratos": {
   "dias": 7,
@@ -199,19 +213,30 @@
   ]
  },
  "agora": {
-  "fila": 467,
-  "abertos": 551,
+  "fila": 468,
+  "abertos": 552,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 7276
+  "espera_media_s": 7258
  },
  "captacao": {
-  "ultimo_lead_at": "2026-05-19T23:46:29.270Z",
-  "min_sem_lead": 192805
+  "ultimo_lead_at": "2026-09-30T21:18:07.847Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "554797278979",
+   "tel": "5547*****979",
+   "criado": "18:18",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6AFbdEcuS",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Carlos Da Silva 😎🇧🇷",
    "tel": "5567*****473",
