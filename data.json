@@ -1,34 +1,38 @@
 {
- "gerado_em": "30/09/2026, 19:27",
+ "gerado_em": "30/09/2026, 19:42",
  "data_ref": "30/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
+  "total": 26,
   "no_sla": 17,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 7,
+  "fora_horario": 9,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 212,
-  "tickets_abertos": 555,
+  "leads_7d": 214,
+  "tickets_abertos": 557,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 24,
+   "leads": 26,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 22,
-  "Direto/Indicacao": 2
+  "Anuncio": 23,
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/4MBhcZyUD",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
@@ -47,10 +51,6 @@
    "leads": 1
   },
   {
-   "url": "fb.me/4MBhcZyUD",
-   "leads": 1
-  },
-  {
    "url": "fb.me/6AtXYV6zP",
    "leads": 1
   },
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 21,
+  "Trabalhista": 23,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
@@ -213,19 +213,41 @@
   ]
  },
  "agora": {
-  "fila": 471,
-  "abertos": 555,
+  "fila": 473,
+  "abertos": 557,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 7205
+  "espera_media_s": 7171
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-29T11:22:51.511Z",
-  "min_sem_lead": 2105
+  "ultimo_lead_at": "2026-09-30T22:28:13.163Z",
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "Janaina Souza💎💎",
+   "tel": "5581*****087",
+   "criado": "19:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Gessyk Santos",
+   "tel": "5522*****286",
+   "criado": "19:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Timonnen paja zéro panót",
    "tel": "5554*****555",
