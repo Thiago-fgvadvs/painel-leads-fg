@@ -1,13 +1,13 @@
 {
- "gerado_em": "30/09/2026, 20:43",
+ "gerado_em": "30/09/2026, 20:59",
  "data_ref": "30/09/2026",
  "sla_min": 15,
  "kpi": {
   "total": 27,
   "no_sla": 17,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 9,
+  "sem_resposta": 0,
+  "fora_horario": 10,
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 215,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 26,
+   "leads": 27,
    "mediana_min": 0.4
   }
  ],
@@ -63,14 +63,7 @@
   "Trabalhista": 24,
   "Nao identificada": 3
  },
- "sem_resposta_lista": [
-  {
-   "nome": "Marcelo Santos",
-   "tel": "5522*****783",
-   "criado": "20:43",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -145,13 +138,6 @@
     "dia": "28/09",
     "desde": "09:27",
     "ts": 1790598438447
-   },
-   {
-    "nome": "Marcelo Santos",
-    "tel": "5522*****783",
-    "dia": "30/09",
-    "desde": "20:43",
-    "ts": 1790811814808
    }
   ],
   "grupos": [
@@ -233,20 +219,20 @@
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 7171
+  "espera_media_s": 7153
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-30T23:43:34.808Z",
-  "min_sem_lead": 0
+  "min_sem_lead": 15
  },
  "leads": [
   {
    "nome": "Marcelo Santos",
    "tel": "5522*****783",
    "criado": "20:43",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
    "area": "Trabalhista"
