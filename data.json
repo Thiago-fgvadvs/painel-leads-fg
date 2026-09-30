@@ -1,37 +1,45 @@
 {
- "gerado_em": "30/09/2026, 11:48",
+ "gerado_em": "30/09/2026, 12:03",
  "data_ref": "30/09/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 4,
+  "total": 11,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 197,
-  "tickets_abertos": 563,
+  "leads_7d": 199,
+  "tickets_abertos": 568,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 11,
    "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 11,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
-   "url": "www.instagram.com/p/DdrnAcAsmtQ/",
+   "url": "fb.me/6AFbdEcuS",
    "leads": 1
   },
   {
    "url": "www.instagram.com/p/Ddrk_MtMdqa/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/7ZVZhwxMh",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DdrnAcAsmtQ/",
    "leads": 1
   },
   {
@@ -49,34 +57,26 @@
   {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4cT7G29HU",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/7ciItXnNp",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9
+  "Trabalhista": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 215,
-  "turnos": 457,
-  "respondidos": 448,
-  "sem_resposta": 9,
-  "sem_resposta_grupos": 9,
-  "mediana_min": 46.5,
+  "turnos": 459,
+  "respondidos": 449,
+  "sem_resposta": 10,
+  "sem_resposta_grupos": 10,
+  "mediana_min": 42.3,
   "atendentes": [
    {
     "nome": "Nicolas",
-    "respostas": 266,
-    "mediana_min": 100.3
+    "respostas": 267,
+    "mediana_min": 99.8
    },
    {
     "nome": "Advogados - FG",
@@ -120,6 +120,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "N.J.D.S.M x SAVANEGO SUPERMERCADOS LTDA",
+    "dia": "30/09",
+    "desde": "11:38",
+    "ts": 1790779113091
+   },
    {
     "grupo": "T.C.M x MUNICIPIO DE LUIZ ALVES",
     "dia": "30/09",
@@ -241,6 +247,12 @@
     "dia": "30/09",
     "desde": "10:13",
     "ts": 1790774014882
+   },
+   {
+    "grupo": "N.J.D.S.M x SAVANEGO SUPERMERCADOS LTDA",
+    "dia": "30/09",
+    "desde": "11:38",
+    "ts": 1790779113091
    }
   ]
  },
@@ -299,28 +311,28 @@
   ]
  },
  "agora": {
-  "fila": 452,
-  "abertos": 563,
-  "com_atendimento": 6,
-  "online": 4,
+  "fila": 455,
+  "abertos": 568,
+  "com_atendimento": 7,
+  "online": 6,
   "offline": 1,
-  "ausentes": 3,
-  "espera_media_s": 7570
+  "ausentes": 1,
+  "espera_media_s": 7533
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-29T14:55:19.013Z",
-  "min_sem_lead": 1433
+  "ultimo_lead_at": "2026-09-29T17:14:58.047Z",
+  "min_sem_lead": 1309
  },
  "leads": [
   {
-   "nome": "J✌🏻",
-   "tel": "5574*****239",
-   "criado": "07:38",
+   "nome": "Marli",
+   "tel": "5541*****156",
+   "criado": "11:49",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DdrnAcAsmtQ/",
+   "criativo": "fb.me/6AFbdEcuS",
    "area": "Trabalhista"
   },
   {
@@ -332,6 +344,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Ddrk_MtMdqa/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Dayana",
+   "tel": "5511*****081",
+   "criado": "11:52",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "J✌🏻",
+   "tel": "5574*****239",
+   "criado": "07:38",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DdrnAcAsmtQ/",
    "area": "Trabalhista"
   },
   {
