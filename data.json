@@ -1,17 +1,17 @@
 {
- "gerado_em": "01/10/2026, 11:28",
+ "gerado_em": "01/10/2026, 11:43",
  "data_ref": "01/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 2,
+  "total": 6,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
-  "mediana_geral": 0.6,
-  "leads_7d": 188,
-  "tickets_abertos": 573,
+  "mediana_geral": 0.5,
+  "leads_7d": 190,
+  "tickets_abertos": 566,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 4,
    "mediana_min": 0.6
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 0.3
   }
  ],
  "origem": {
   "Anuncio": 4,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -44,19 +49,19 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3,
-  "Nao identificada": 1
+  "Nao identificada": 3,
+  "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 204,
-  "turnos": 405,
-  "respondidos": 404,
-  "sem_resposta": 1,
-  "sem_resposta_grupos": 1,
-  "mediana_min": 56.7,
+  "turnos": 410,
+  "respondidos": 410,
+  "sem_resposta": 0,
+  "sem_resposta_grupos": 0,
+  "mediana_min": 57.1,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -65,8 +70,8 @@
    },
    {
     "nome": "Advogados - FG",
-    "respostas": 77,
-    "mediana_min": 2
+    "respostas": 83,
+    "mediana_min": 2.9
    },
    {
     "nome": "Gabrielle",
@@ -104,14 +109,7 @@
     "mediana_min": 15.7
    }
   ],
-  "sem_resposta_lista": [
-   {
-    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
-    "dia": "01/10",
-    "desde": "11:26",
-    "ts": 1790864806771
-   }
-  ]
+  "sem_resposta_lista": []
  },
  "pendencias": {
   "dias": 7,
@@ -124,14 +122,7 @@
     "ts": 1790598438447
    }
   ],
-  "grupos": [
-   {
-    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
-    "dia": "01/10",
-    "desde": "11:26",
-    "ts": 1790864806771
-   }
-  ]
+  "grupos": []
  },
  "contratos": {
   "dias": 7,
@@ -161,19 +152,30 @@
   ]
  },
  "agora": {
-  "fila": 483,
-  "abertos": 573,
+  "fila": 480,
+  "abertos": 566,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 6953
+  "espera_media_s": 6898
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T15:55:32.702Z",
-  "min_sem_lead": 51753
+  "ultimo_lead_at": "2026-09-30T15:56:22.415Z",
+  "min_sem_lead": 1367
  },
  "leads": [
+  {
+   "nome": "Renato Gomes Fernandes",
+   "tel": "5522*****599",
+   "criado": "11:32",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Deus meu tudo.",
    "tel": "5524*****355",
@@ -186,7 +188,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5512992090830",
+   "nome": "DEBORA ALVES",
    "tel": "5512*****830",
    "criado": "10:25",
    "atendente": "FG Advogados - Isadora ",
@@ -216,6 +218,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/6NeaPpYXH",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "559191973441",
+   "tel": "5591*****441",
+   "criado": "11:32",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
