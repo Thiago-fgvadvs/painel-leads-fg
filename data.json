@@ -1,5 +1,5 @@
 {
- "gerado_em": "01/10/2026, 15:48",
+ "gerado_em": "01/10/2026, 16:03",
  "data_ref": "01/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 199,
-  "tickets_abertos": 549,
+  "tickets_abertos": 548,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,8 +65,9 @@
   }
  ],
  "areas": {
-  "Trabalhista": 10,
-  "Nao identificada": 5
+  "Nao identificada": 5,
+  "Previdenciario": 1,
+  "Trabalhista": 9
  },
  "sem_resposta_lista": [
   {
@@ -79,7 +80,7 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 210,
+  "grupos_ativos": 211,
   "turnos": 447,
   "respondidos": 447,
   "sem_resposta": 0,
@@ -182,19 +183,30 @@
   ]
  },
  "agora": {
-  "fila": 463,
-  "abertos": 549,
+  "fila": 462,
+  "abertos": 548,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 10002
+  "espera_media_s": 10050
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-01T16:08:19.833Z",
-  "min_sem_lead": 160
+  "ultimo_lead_at": "2026-10-01T17:28:27.927Z",
+  "min_sem_lead": 95
  },
  "leads": [
+  {
+   "nome": "Paty 💞×͜-",
+   "tel": "5511*****711",
+   "criado": "14:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Kelly Barros",
    "tel": "5566*****066",
@@ -204,10 +216,10 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
+   "area": "Previdenciario"
   },
   {
-   "nome": "555599558166",
+   "nome": "Lilian",
    "tel": "5555*****166",
    "criado": "15:47",
    "atendente": "FG Advogados - Isadora ",
@@ -227,17 +239,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/91elw2A2a",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Paty 💞×͜-",
-   "tel": "5511*****711",
-   "criado": "14:28",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "556796497402",
