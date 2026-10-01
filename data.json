@@ -1,23 +1,23 @@
 {
- "gerado_em": "01/10/2026, 14:16",
+ "gerado_em": "01/10/2026, 14:32",
  "data_ref": "01/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 9,
+  "total": 13,
+  "no_sla": 10,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 196,
-  "tickets_abertos": 565,
+  "leads_7d": 197,
+  "tickets_abertos": 566,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.5
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 10,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -36,11 +36,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/875plPmzH",
+   "url": "fb.me/86gZjGkHz",
    "leads": 1
   },
   {
-   "url": "fb.me/86gZjGkHz",
+   "url": "fb.me/875plPmzH",
    "leads": 1
   },
   {
@@ -66,7 +66,7 @@
  ],
  "areas": {
   "Trabalhista": 8,
-  "Nao identificada": 4
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [
   {
@@ -182,30 +182,19 @@
   ]
  },
  "agora": {
-  "fila": 482,
-  "abertos": 565,
+  "fila": 483,
+  "abertos": 566,
   "com_atendimento": 3,
   "online": 2,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 9787
+  "espera_media_s": 9764
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-01T17:02:16.481Z",
-  "min_sem_lead": 14
+  "min_sem_lead": 30
  },
  "leads": [
-  {
-   "nome": "Sandro Miranda",
-   "tel": "5596*****735",
-   "criado": "13:31",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/875plPmzH",
-   "area": "Trabalhista"
-  },
   {
    "nome": "556796497402",
    "tel": "5567*****402",
@@ -215,6 +204,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/86gZjGkHz",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511994055711",
+   "tel": "5511*****711",
+   "criado": "14:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Sandro Miranda",
+   "tel": "5596*****735",
+   "criado": "13:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
    "area": "Trabalhista"
   },
   {
