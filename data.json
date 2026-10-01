@@ -1,5 +1,5 @@
 {
- "gerado_em": "01/10/2026, 14:47",
+ "gerado_em": "01/10/2026, 15:02",
  "data_ref": "01/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
-  "Nao identificada": 5
+  "Nao identificada": 5,
+  "Trabalhista": 8
  },
  "sem_resposta_lista": [
   {
@@ -185,27 +185,16 @@
   "fila": 482,
   "abertos": 565,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 9787
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-17T23:50:33.174Z",
-  "min_sem_lead": 64437
+  "ultimo_lead_at": "2026-10-01T17:28:27.927Z",
+  "min_sem_lead": 34
  },
  "leads": [
-  {
-   "nome": "556796497402",
-   "tel": "5567*****402",
-   "criado": "14:02",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/86gZjGkHz",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Paty 💞×͜-",
    "tel": "5511*****711",
@@ -216,6 +205,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "556796497402",
+   "tel": "5567*****402",
+   "criado": "14:02",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/86gZjGkHz",
+   "area": "Trabalhista"
   },
   {
    "nome": "Sandro Miranda",
