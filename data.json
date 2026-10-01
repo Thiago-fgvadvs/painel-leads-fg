@@ -1,23 +1,23 @@
 {
- "gerado_em": "01/10/2026, 19:23",
+ "gerado_em": "01/10/2026, 19:38",
  "data_ref": "01/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
+  "total": 21,
   "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 2,
+  "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 203,
-  "tickets_abertos": 546,
+  "leads_7d": 205,
+  "tickets_abertos": 548,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 17,
+   "leads": 19,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 18,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -36,8 +36,16 @@
    "leads": 3
   },
   {
+   "url": "fb.me/7ZVZhwxMh",
+   "leads": 2
+  },
+  {
    "url": "fb.me/6AFbdEcuS",
    "leads": 2
+  },
+  {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 1
   },
   {
    "url": "fb.me/4MBhcZyUD",
@@ -54,19 +62,11 @@
   {
    "url": "fb.me/8hmN3IbSF",
    "leads": 1
-  },
-  {
-   "url": "fb.me/91elw2A2a",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/86gZjGkHz",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 11,
-  "Nao identificada": 7,
+  "Trabalhista": 12,
+  "Nao identificada": 8,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
@@ -183,30 +183,19 @@
   ]
  },
  "agora": {
-  "fila": 458,
-  "abertos": 546,
+  "fila": 460,
+  "abertos": 548,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 10005
+  "espera_media_s": 9957
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-01T10:09:23.902Z",
-  "min_sem_lead": 734
+  "ultimo_lead_at": "2026-10-01T14:32:41.366Z",
+  "min_sem_lead": 486
  },
  "leads": [
-  {
-   "nome": "Deus meu tudo.",
-   "tel": "5524*****355",
-   "criado": "07:09",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4MBhcZyUD",
-   "area": "Trabalhista"
-  },
   {
    "nome": "renatogomesfernandes50@gm",
    "tel": "5522*****599",
@@ -216,6 +205,39 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "559294098401",
+   "tel": "5592*****401",
+   "criado": "19:37",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "seja sempre você",
+   "tel": "5581*****685",
+   "criado": "19:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Deus meu tudo.",
+   "tel": "5524*****355",
+   "criado": "07:09",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
    "area": "Trabalhista"
   },
   {
