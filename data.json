@@ -1,23 +1,23 @@
 {
- "gerado_em": "01/10/2026, 15:02",
+ "gerado_em": "01/10/2026, 15:17",
  "data_ref": "01/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
-  "no_sla": 10,
+  "total": 14,
+  "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 197,
-  "tickets_abertos": 565,
+  "leads_7d": 198,
+  "tickets_abertos": 560,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
+   "leads": 12,
    "mediana_min": 0.5
   },
   {
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/91elw2A2a",
+   "leads": 1
   },
   {
    "url": "fb.me/86gZjGkHz",
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/6AtXYV6zP",
    "leads": 1
-  },
-  {
-   "url": "fb.me/6AFbdEcuS",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 5,
-  "Trabalhista": 8
+  "Trabalhista": 9,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [
   {
@@ -182,19 +182,30 @@
   ]
  },
  "agora": {
-  "fila": 482,
-  "abertos": 565,
+  "fila": 477,
+  "abertos": 560,
   "com_atendimento": 3,
   "online": 2,
-  "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 9787
+  "offline": 2,
+  "ausentes": 0,
+  "espera_media_s": 9881
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-01T17:28:27.927Z",
-  "min_sem_lead": 34
+  "ultimo_lead_at": "2026-08-02T01:46:31.724Z",
+  "min_sem_lead": 87391
  },
  "leads": [
+  {
+   "nome": "Ângela Maria",
+   "tel": "5545*****666",
+   "criado": "15:11",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Paty 💞×͜-",
    "tel": "5511*****711",
