@@ -1,23 +1,23 @@
 {
- "gerado_em": "01/10/2026, 15:33",
+ "gerado_em": "01/10/2026, 15:48",
  "data_ref": "01/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 11,
+  "total": 15,
+  "no_sla": 12,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 198,
-  "tickets_abertos": 558,
+  "leads_7d": 199,
+  "tickets_abertos": 549,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 12,
+   "leads": 13,
    "mediana_min": 0.5
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 11,
+  "Anuncio": 12,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "fb.me/91elw2A2a",
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 10,
   "Nao identificada": 5
  },
  "sem_resposta_lista": [
@@ -79,7 +79,7 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 209,
+  "grupos_ativos": 210,
   "turnos": 447,
   "respondidos": 447,
   "sem_resposta": 0,
@@ -182,19 +182,41 @@
   ]
  },
  "agora": {
-  "fila": 474,
-  "abertos": 558,
+  "fila": 463,
+  "abertos": 549,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 18879
+  "espera_media_s": 10002
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-19T13:27:26.163Z",
-  "min_sem_lead": 62226
+  "ultimo_lead_at": "2026-10-01T16:08:19.833Z",
+  "min_sem_lead": 160
  },
  "leads": [
+  {
+   "nome": "Kelly Barros",
+   "tel": "5566*****066",
+   "criado": "13:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "555599558166",
+   "tel": "5555*****166",
+   "criado": "15:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Ângela Maria",
    "tel": "5545*****666",
@@ -240,7 +262,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "558199440449",
+   "nome": "Marcelino ouy",
    "tel": "5581*****449",
    "criado": "14:01",
    "atendente": "FG Advogados - Isadora ",
@@ -248,17 +270,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Ddrk_MtMdqa/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "556692266066",
-   "tel": "5566*****066",
-   "criado": "13:08",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
