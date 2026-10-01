@@ -1,5 +1,5 @@
 {
- "gerado_em": "01/10/2026, 10:27",
+ "gerado_em": "01/10/2026, 10:42",
  "data_ref": "01/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -51,11 +51,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 200,
-  "turnos": 392,
-  "respondidos": 391,
-  "sem_resposta": 1,
-  "sem_resposta_grupos": 1,
+  "grupos_ativos": 202,
+  "turnos": 393,
+  "respondidos": 393,
+  "sem_resposta": 0,
+  "sem_resposta_grupos": 0,
   "mediana_min": 52.4,
   "atendentes": [
    {
@@ -74,14 +74,14 @@
     "mediana_min": 2
    },
    {
+    "nome": "Roseli",
+    "respostas": 25,
+    "mediana_min": 3
+   },
+   {
     "nome": "FG Advogados - Isadora ",
     "respostas": 24,
     "mediana_min": 907.1
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 23,
-    "mediana_min": 3
    },
    {
     "nome": "Eduardo",
@@ -104,14 +104,7 @@
     "mediana_min": 15.7
    }
   ],
-  "sem_resposta_lista": [
-   {
-    "grupo": "N.D.S.C x ALMAVIVA EXPERIENCE S.A.",
-    "dia": "30/09",
-    "desde": "18:19",
-    "ts": 1790803197999
-   }
-  ]
+  "sem_resposta_lista": []
  },
  "pendencias": {
   "dias": 7,
@@ -124,14 +117,7 @@
     "ts": 1790598438447
    }
   ],
-  "grupos": [
-   {
-    "grupo": "N.D.S.C x ALMAVIVA EXPERIENCE S.A.",
-    "dia": "30/09",
-    "desde": "18:19",
-    "ts": 1790803197999
-   }
-  ]
+  "grupos": []
  },
  "contratos": {
   "dias": 7,
@@ -164,14 +150,14 @@
   "fila": 486,
   "abertos": 570,
   "com_atendimento": 3,
-  "online": 1,
-  "offline": 2,
-  "ausentes": 1,
+  "online": 3,
+  "offline": 1,
+  "ausentes": 0,
   "espera_media_s": 6953
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-01T13:25:52.718Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-09-30T22:28:13.163Z",
+  "min_sem_lead": 914
  },
  "leads": [
   {
