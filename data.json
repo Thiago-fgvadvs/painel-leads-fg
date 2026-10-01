@@ -1,17 +1,17 @@
 {
- "gerado_em": "01/10/2026, 13:46",
+ "gerado_em": "01/10/2026, 14:01",
  "data_ref": "01/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
+  "total": 11,
   "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 194,
-  "tickets_abertos": 565,
+  "leads_7d": 195,
+  "tickets_abertos": 564,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 8,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -62,7 +62,7 @@
  ],
  "areas": {
   "Trabalhista": 6,
-  "Nao identificada": 4
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [
   {
@@ -75,12 +75,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 208,
-  "turnos": 441,
-  "respondidos": 441,
+  "grupos_ativos": 209,
+  "turnos": 446,
+  "respondidos": 446,
   "sem_resposta": 0,
   "sem_resposta_grupos": 0,
-  "mediana_min": 52.4,
+  "mediana_min": 51.1,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -89,7 +89,7 @@
    },
    {
     "nome": "Advogados - FG",
-    "respostas": 114,
+    "respostas": 118,
     "mediana_min": 17.8
    },
    {
@@ -104,8 +104,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 24,
-    "mediana_min": 907.1
+    "respostas": 25,
+    "mediana_min": 896.7
    },
    {
     "nome": "Eduardo",
@@ -146,6 +146,13 @@
     "dia": "01/10",
     "desde": "11:32",
     "ts": 1790865123216
+   },
+   {
+    "nome": "558199440449",
+    "tel": "5581*****449",
+    "dia": "01/10",
+    "desde": "14:01",
+    "ts": 1790874074835
    }
   ],
   "grupos": []
@@ -178,21 +185,21 @@
   ]
  },
  "agora": {
-  "fila": 483,
-  "abertos": 565,
+  "fila": 481,
+  "abertos": 564,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 9810
+  "espera_media_s": 9834
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-01T16:31:41.713Z",
-  "min_sem_lead": 14
+  "ultimo_lead_at": "2026-10-01T17:01:14.835Z",
+  "min_sem_lead": 0
  },
  "leads": [
   {
-   "nome": "559684018735",
+   "nome": "Sandro Miranda",
    "tel": "5596*****735",
    "criado": "13:31",
    "atendente": "FG Advogados - Isadora ",
@@ -299,6 +306,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/6NeaPpYXH",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "558199440449",
+   "tel": "5581*****449",
+   "criado": "14:01",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Nao identificada"
   }
  ]
