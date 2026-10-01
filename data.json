@@ -1,23 +1,23 @@
 {
- "gerado_em": "01/10/2026, 17:05",
+ "gerado_em": "01/10/2026, 17:20",
  "data_ref": "01/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
-  "no_sla": 12,
+  "total": 16,
+  "no_sla": 13,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 199,
+  "mediana_geral": 0.4,
+  "leads_7d": 200,
   "tickets_abertos": 547,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 13,
+   "leads": 14,
    "mediana_min": 0.5
   },
   {
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/8hmN3IbSF",
+   "leads": 1
   },
   {
    "url": "fb.me/91elw2A2a",
@@ -58,16 +62,12 @@
   {
    "url": "fb.me/4MBhcZyUD",
    "leads": 1
-  },
-  {
-   "url": "fb.me/6AtXYV6zP",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 10,
   "Nao identificada": 5,
-  "Previdenciario": 1,
-  "Trabalhista": 9
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [
   {
@@ -80,12 +80,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 212,
-  "turnos": 450,
-  "respondidos": 450,
+  "grupos_ativos": 213,
+  "turnos": 456,
+  "respondidos": 456,
   "sem_resposta": 0,
   "sem_resposta_grupos": 0,
-  "mediana_min": 51.1,
+  "mediana_min": 54.8,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -94,8 +94,8 @@
    },
    {
     "nome": "Advogados - FG",
-    "respostas": 122,
-    "mediana_min": 17.8
+    "respostas": 128,
+    "mediana_min": 23.9
    },
    {
     "nome": "Gabrielle",
@@ -186,16 +186,38 @@
   "fila": 460,
   "abertos": 547,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 10070
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-29T23:17:11.105Z",
-  "min_sem_lead": 47328
+  "ultimo_lead_at": "2026-05-14T20:30:44.496Z",
+  "min_sem_lead": 201590
  },
  "leads": [
+  {
+   "nome": "renatogomesfernandes50@gm",
+   "tel": "5522*****599",
+   "criado": "11:32",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5522981796165",
+   "tel": "5522*****165",
+   "criado": "17:06",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8hmN3IbSF",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Paty 💞×͜-",
    "tel": "5511*****711",
@@ -304,17 +326,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/6AtXYV6zP",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Renato Gomes Fernandes",
-   "tel": "5522*****599",
-   "criado": "11:32",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Nao identificada"
   },
   {
