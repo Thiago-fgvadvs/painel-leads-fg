@@ -1,5 +1,5 @@
 {
- "gerado_em": "01/10/2026, 11:13",
+ "gerado_em": "01/10/2026, 11:28",
  "data_ref": "01/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.6,
   "leads_7d": 188,
-  "tickets_abertos": 570,
+  "tickets_abertos": 573,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,15 +27,15 @@
  },
  "criativos": [
   {
+   "url": "fb.me/4MBhcZyUD",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 1
   },
   {
    "url": "fb.me/6AFbdEcuS",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/4MBhcZyUD",
    "leads": 1
   },
   {
@@ -52,11 +52,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 204,
-  "turnos": 397,
-  "respondidos": 396,
+  "turnos": 405,
+  "respondidos": 404,
   "sem_resposta": 1,
   "sem_resposta_grupos": 1,
-  "mediana_min": 54.1,
+  "mediana_min": 56.7,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -65,8 +65,8 @@
    },
    {
     "nome": "Advogados - FG",
-    "respostas": 70,
-    "mediana_min": 1.5
+    "respostas": 77,
+    "mediana_min": 2
    },
    {
     "nome": "Gabrielle",
@@ -75,8 +75,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 26,
-    "mediana_min": 2.8
+    "respostas": 27,
+    "mediana_min": 3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -106,10 +106,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "N.D.S.C x ALMAVIVA EXPERIENCE S.A.",
+    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "01/10",
-    "desde": "11:08",
-    "ts": 1790863727718
+    "desde": "11:26",
+    "ts": 1790864806771
    }
   ]
  },
@@ -126,10 +126,10 @@
   ],
   "grupos": [
    {
-    "grupo": "N.D.S.C x ALMAVIVA EXPERIENCE S.A.",
+    "grupo": "A.P.A.T.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "01/10",
-    "desde": "11:08",
-    "ts": 1790863727718
+    "desde": "11:26",
+    "ts": 1790864806771
    }
   ]
  },
@@ -161,19 +161,30 @@
   ]
  },
  "agora": {
-  "fila": 484,
-  "abertos": 570,
+  "fila": 483,
+  "abertos": 573,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 6953
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T17:06:04.106Z",
-  "min_sem_lead": 755827
+  "ultimo_lead_at": "2026-08-26T15:55:32.702Z",
+  "min_sem_lead": 51753
  },
  "leads": [
+  {
+   "nome": "Deus meu tudo.",
+   "tel": "5524*****355",
+   "criado": "07:09",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5512992090830",
    "tel": "5512*****830",
@@ -194,17 +205,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/6AFbdEcuS",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5524992346355",
-   "tel": "5524*****355",
-   "criado": "07:09",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4MBhcZyUD",
    "area": "Trabalhista"
   },
   {
