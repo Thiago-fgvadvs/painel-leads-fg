@@ -1,5 +1,5 @@
 {
- "gerado_em": "01/10/2026, 10:57",
+ "gerado_em": "01/10/2026, 11:13",
  "data_ref": "01/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -51,11 +51,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 203,
-  "turnos": 396,
+  "grupos_ativos": 204,
+  "turnos": 397,
   "respondidos": 396,
-  "sem_resposta": 0,
-  "sem_resposta_grupos": 0,
+  "sem_resposta": 1,
+  "sem_resposta_grupos": 1,
   "mediana_min": 54.1,
   "atendentes": [
    {
@@ -104,7 +104,14 @@
     "mediana_min": 15.7
    }
   ],
-  "sem_resposta_lista": []
+  "sem_resposta_lista": [
+   {
+    "grupo": "N.D.S.C x ALMAVIVA EXPERIENCE S.A.",
+    "dia": "01/10",
+    "desde": "11:08",
+    "ts": 1790863727718
+   }
+  ]
  },
  "pendencias": {
   "dias": 7,
@@ -117,7 +124,14 @@
     "ts": 1790598438447
    }
   ],
-  "grupos": []
+  "grupos": [
+   {
+    "grupo": "N.D.S.C x ALMAVIVA EXPERIENCE S.A.",
+    "dia": "01/10",
+    "desde": "11:08",
+    "ts": 1790863727718
+   }
+  ]
  },
  "contratos": {
   "dias": 7,
@@ -147,7 +161,7 @@
   ]
  },
  "agora": {
-  "fila": 486,
+  "fila": 484,
   "abertos": 570,
   "com_atendimento": 3,
   "online": 2,
@@ -156,8 +170,8 @@
   "espera_media_s": 6953
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-01T13:25:52.718Z",
-  "min_sem_lead": 32
+  "ultimo_lead_at": "2025-04-24T17:06:04.106Z",
+  "min_sem_lead": 755827
  },
  "leads": [
   {
