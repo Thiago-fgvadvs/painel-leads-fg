@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/10/2026, 14:48",
+ "gerado_em": "02/10/2026, 15:03",
  "data_ref": "02/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -39,15 +39,15 @@
    "leads": 2
   },
   {
+   "url": "fb.me/a18c14CpA",
+   "leads": 1
+  },
+  {
    "url": "fb.me/7VV62ENLI",
    "leads": 1
   },
   {
    "url": "fb.me/91elw2A2a",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/a18c14CpA",
    "leads": 1
   },
   {
@@ -74,12 +74,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 206,
-  "turnos": 388,
-  "respondidos": 388,
-  "sem_resposta": 0,
-  "sem_resposta_grupos": 0,
-  "mediana_min": 81.1,
+  "grupos_ativos": 207,
+  "turnos": 390,
+  "respondidos": 389,
+  "sem_resposta": 1,
+  "sem_resposta_grupos": 1,
+  "mediana_min": 80.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -97,14 +97,14 @@
     "mediana_min": 114
    },
    {
+    "nome": "Roseli",
+    "respostas": 18,
+    "mediana_min": 5.8
+   },
+   {
     "nome": "Gabrielle",
     "respostas": 18,
     "mediana_min": 1.9
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 17,
-    "mediana_min": 8.2
    },
    {
     "nome": "—",
@@ -122,7 +122,14 @@
     "mediana_min": 129.2
    }
   ],
-  "sem_resposta_lista": []
+  "sem_resposta_lista": [
+   {
+    "grupo": "A.P.A.T.D.S x INSS",
+    "dia": "02/10",
+    "desde": "15:01",
+    "ts": 1790964095133
+   }
+  ]
  },
  "pendencias": {
   "dias": 7,
@@ -156,7 +163,14 @@
     "ts": 1790961815823
    }
   ],
-  "grupos": []
+  "grupos": [
+   {
+    "grupo": "A.P.A.T.D.S x INSS",
+    "dia": "02/10",
+    "desde": "15:01",
+    "ts": 1790964095133
+   }
+  ]
  },
  "contratos": {
   "dias": 7,
@@ -196,7 +210,7 @@
   ]
  },
  "agora": {
-  "fila": 484,
+  "fila": 482,
   "abertos": 578,
   "com_atendimento": 3,
   "online": 3,
@@ -205,10 +219,21 @@
   "espera_media_s": 9436
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-26T15:55:32.702Z",
-  "min_sem_lead": 53393
+  "ultimo_lead_at": "2026-10-02T00:49:34.355Z",
+  "min_sem_lead": 1034
  },
  "leads": [
+  {
+   "nome": "Jadir Rampelott",
+   "tel": "5548*****119",
+   "criado": "12:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/a18c14CpA",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5512982430935",
    "tel": "5512*****935",
@@ -262,17 +287,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/91elw2A2a",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "554898131119",
-   "tel": "5548*****119",
-   "criado": "12:59",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/a18c14CpA",
    "area": "Trabalhista"
   },
   {
