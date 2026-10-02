@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/10/2026, 16:05",
+ "gerado_em": "02/10/2026, 16:20",
  "data_ref": "02/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 209,
-  "tickets_abertos": 582,
+  "tickets_abertos": 579,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,8 +60,9 @@
   }
  ],
  "areas": {
-  "Trabalhista": 17,
-  "Nao identificada": 5
+  "Previdenciario": 1,
+  "Nao identificada": 5,
+  "Trabalhista": 16
  },
  "sem_resposta_lista": [
   {
@@ -75,16 +76,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 208,
-  "turnos": 409,
-  "respondidos": 408,
-  "sem_resposta": 1,
-  "sem_resposta_grupos": 1,
+  "turnos": 410,
+  "respondidos": 410,
+  "sem_resposta": 0,
+  "sem_resposta_grupos": 0,
   "mediana_min": 81.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 183,
-    "mediana_min": 30.8
+    "respostas": 184,
+    "mediana_min": 31.2
    },
    {
     "nome": "Nicolas",
@@ -93,8 +94,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 20,
-    "mediana_min": 114
+    "respostas": 21,
+    "mediana_min": 98.6
    },
    {
     "nome": "Roseli",
@@ -122,14 +123,7 @@
     "mediana_min": 129.2
    }
   ],
-  "sem_resposta_lista": [
-   {
-    "grupo": "A.P.A.T.D.S x INSS",
-    "dia": "02/10",
-    "desde": "15:01",
-    "ts": 1790964095133
-   }
-  ]
+  "sem_resposta_lista": []
  },
  "pendencias": {
   "dias": 7,
@@ -156,14 +150,7 @@
     "ts": 1790945553726
    }
   ],
-  "grupos": [
-   {
-    "grupo": "A.P.A.T.D.S x INSS",
-    "dia": "02/10",
-    "desde": "15:01",
-    "ts": 1790964095133
-   }
-  ]
+  "grupos": []
  },
  "contratos": {
   "dias": 7,
@@ -204,20 +191,20 @@
  },
  "agora": {
   "fila": 485,
-  "abertos": 582,
+  "abertos": 579,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 9350
+  "espera_media_s": 6642
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-13T00:02:08.345Z",
-  "min_sem_lead": 73143
+  "ultimo_lead_at": "2026-09-10T00:23:23.518Z",
+  "min_sem_lead": 32817
  },
  "leads": [
   {
-   "nome": "553191339755",
+   "nome": "Corrad",
    "tel": "5531*****755",
    "criado": "15:59",
    "atendente": "FG Advogados - Isadora ",
@@ -225,7 +212,7 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
-   "area": "Trabalhista"
+   "area": "Previdenciario"
   },
   {
    "nome": "554198434288",
