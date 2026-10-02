@@ -1,28 +1,28 @@
 {
- "gerado_em": "02/10/2026, 19:38",
+ "gerado_em": "02/10/2026, 19:54",
  "data_ref": "02/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 27,
+  "total": 28,
   "no_sla": 22,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 3,
+  "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 214,
-  "tickets_abertos": 575,
+  "leads_7d": 215,
+  "tickets_abertos": 576,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 24,
+  "Anuncio": 25,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -55,14 +55,14 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4MBhcZyUD",
+   "url": "fb.me/4V5VEOQA9",
    "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 20,
   "Previdenciario": 2,
-  "Nao identificada": 6,
-  "Trabalhista": 19
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [
   {
@@ -190,19 +190,30 @@
   ]
  },
  "agora": {
-  "fila": 476,
-  "abertos": 575,
+  "fila": 477,
+  "abertos": 576,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 12949
+  "espera_media_s": 12920
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-02T22:22:29.804Z",
-  "min_sem_lead": 16
+  "ultimo_lead_at": "2026-10-02T22:43:52.862Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "franciisco",
+   "tel": "5567*****158",
+   "criado": "19:43",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4V5VEOQA9",
+   "area": "Trabalhista"
+  },
   {
    "nome": "eliecedeazevedoreis027",
    "tel": "5511*****481",
