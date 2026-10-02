@@ -1,17 +1,17 @@
 {
- "gerado_em": "02/10/2026, 09:58",
+ "gerado_em": "02/10/2026, 10:13",
  "data_ref": "02/10/2026",
  "sla_min": 15,
  "kpi": {
   "total": 7,
   "no_sla": 3,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 1.8,
   "leads_7d": 194,
-  "tickets_abertos": 564,
+  "tickets_abertos": 566,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -47,16 +47,23 @@
   "Nao identificada": 3,
   "Trabalhista": 4
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "556793033828",
+   "tel": "5567*****828",
+   "criado": "09:52",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 194,
-  "turnos": 363,
-  "respondidos": 363,
+  "grupos_ativos": 196,
+  "turnos": 364,
+  "respondidos": 364,
   "sem_resposta": 0,
   "sem_resposta_grupos": 0,
-  "mediana_min": 69.9,
+  "mediana_min": 70.4,
   "atendentes": [
    {
     "nome": "Nicolas",
@@ -65,8 +72,8 @@
    },
    {
     "nome": "Advogados - FG",
-    "respostas": 140,
-    "mediana_min": 18.5
+    "respostas": 141,
+    "mediana_min": 18.9
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -117,6 +124,13 @@
     "dia": "01/10",
     "desde": "11:32",
     "ts": 1790865123216
+   },
+   {
+    "nome": "556793033828",
+    "tel": "5567*****828",
+    "dia": "02/10",
+    "desde": "09:52",
+    "ts": 1790945553726
    }
   ],
   "grupos": []
@@ -149,17 +163,17 @@
   ]
  },
  "agora": {
-  "fila": 476,
-  "abertos": 564,
+  "fila": 478,
+  "abertos": 566,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 9678
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-02T10:11:36.956Z",
-  "min_sem_lead": 88007
+  "ultimo_lead_at": "2026-10-01T10:09:23.902Z",
+  "min_sem_lead": 1624
  },
  "leads": [
   {
@@ -223,7 +237,7 @@
    "criado": "09:52",
    "atendente": "—",
    "espera_min": null,
-   "status": "RESOLVIDO",
+   "status": "SEM_RESPOSTA",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
