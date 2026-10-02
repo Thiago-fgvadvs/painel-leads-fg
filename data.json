@@ -1,23 +1,23 @@
 {
- "gerado_em": "01/10/2026, 21:09",
+ "gerado_em": "01/10/2026, 21:25",
  "data_ref": "01/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 22,
+  "total": 23,
   "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 5,
+  "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 206,
-  "tickets_abertos": 549,
+  "leads_7d": 207,
+  "tickets_abertos": 550,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -44,6 +44,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/6rTfJfuWE",
+   "leads": 1
+  },
+  {
    "url": "fb.me/87PZSDuwc",
    "leads": 1
   },
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/9Kji7hTqb",
    "leads": 1
-  },
-  {
-   "url": "fb.me/8hmN3IbSF",
-   "leads": 1
   }
  ],
  "areas": {
+  "Nao identificada": 9,
   "Trabalhista": 13,
-  "Nao identificada": 8,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [
@@ -183,19 +183,30 @@
   ]
  },
  "agora": {
-  "fila": 461,
-  "abertos": 549,
+  "fila": 462,
+  "abertos": 550,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 9933
+  "espera_media_s": 9909
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
-  "min_sem_lead": 756530
+  "ultimo_lead_at": "2026-10-02T00:19:39.323Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "suely barbosa",
+   "tel": "5588*****673",
+   "criado": "21:19",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6rTfJfuWE",
+   "area": "Nao identificada"
+  },
   {
    "nome": "renatogomesfernandes50@gm",
    "tel": "5522*****599",
