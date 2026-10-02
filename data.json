@@ -1,5 +1,5 @@
 {
- "gerado_em": "02/10/2026, 12:15",
+ "gerado_em": "02/10/2026, 12:31",
  "data_ref": "02/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -63,16 +63,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 200,
-  "turnos": 374,
-  "respondidos": 374,
+  "turnos": 375,
+  "respondidos": 375,
   "sem_resposta": 0,
   "sem_resposta_grupos": 0,
-  "mediana_min": 71.6,
+  "mediana_min": 71.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 150,
-    "mediana_min": 24.6
+    "respostas": 151,
+    "mediana_min": 24.8
    },
    {
     "nome": "Nicolas",
@@ -141,11 +141,21 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 2,
+  "total": 3,
   "por_vendedor": {
+   "Tiago Bernardo": 1,
    "Roseli": 2
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "F.D",
+    "dia": "02/10",
+    "hora": "12:29",
+    "ts": 1790954953851,
+    "origem": "Anúncio: instagram.com/p/DdrAuwdsnED/",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "N.C.S.O",
@@ -176,8 +186,8 @@
   "espera_media_s": 9633
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-02T00:49:34.355Z",
-  "min_sem_lead": 866
+  "ultimo_lead_at": "2026-08-26T15:55:32.702Z",
+  "min_sem_lead": 53256
  },
  "leads": [
   {
