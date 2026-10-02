@@ -1,13 +1,13 @@
 {
- "gerado_em": "02/10/2026, 20:09",
+ "gerado_em": "02/10/2026, 20:24",
  "data_ref": "02/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
+  "total": 30,
   "no_sla": 22,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 5,
+  "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 217,
@@ -17,13 +17,13 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 27,
+   "leads": 28,
    "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 26,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -62,7 +62,7 @@
  "areas": {
   "Previdenciario": 2,
   "Trabalhista": 21,
-  "Nao identificada": 6
+  "Nao identificada": 7
  },
  "sem_resposta_lista": [
   {
@@ -148,13 +148,6 @@
     "dia": "02/10",
     "desde": "09:52",
     "ts": 1790945553726
-   },
-   {
-    "nome": "Roberto",
-    "tel": "5538*****685",
-    "dia": "02/10",
-    "desde": "20:09",
-    "ts": 1790982552536
    }
   ],
   "grupos": []
@@ -203,11 +196,11 @@
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 12891
+  "espera_media_s": 12862
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-02T23:09:12.536Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-10-02T22:22:29.804Z",
+  "min_sem_lead": 62
  },
  "leads": [
   {
@@ -231,6 +224,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4V5VEOQA9",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Roberto",
+   "tel": "5538*****685",
+   "criado": "20:09",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "franciisco",
