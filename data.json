@@ -1,28 +1,28 @@
 {
- "gerado_em": "02/10/2026, 18:22",
+ "gerado_em": "02/10/2026, 18:37",
  "data_ref": "02/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
-  "no_sla": 20,
+  "total": 25,
+  "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 211,
-  "tickets_abertos": 580,
+  "leads_7d": 212,
+  "tickets_abertos": 579,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 22,
+   "leads": 23,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 22,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -47,21 +47,21 @@
    "leads": 2
   },
   {
+   "url": "fb.me/4MBhcZyUD",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
    "leads": 1
   },
   {
    "url": "fb.me/f5q0zJBsc",
    "leads": 1
-  },
-  {
-   "url": "fb.me/7VV62ENLI",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 19,
   "Previdenciario": 1,
-  "Trabalhista": 18,
   "Nao identificada": 5
  },
  "sem_resposta_lista": [
@@ -190,19 +190,30 @@
   ]
  },
  "agora": {
-  "fila": 486,
-  "abertos": 580,
+  "fila": 484,
+  "abertos": 579,
   "com_atendimento": 3,
-  "online": 1,
+  "online": 2,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 6612
+  "ausentes": 0,
+  "espera_media_s": 6627
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-29T11:22:51.511Z",
-  "min_sem_lead": 4920
+  "ultimo_lead_at": "2026-08-29T10:57:53.831Z",
+  "min_sem_lead": 49600
  },
  "leads": [
+  {
+   "nome": "553287013661",
+   "tel": "5532*****661",
+   "criado": "18:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Corrad",
    "tel": "5531*****755",
