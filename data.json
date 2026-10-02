@@ -1,31 +1,39 @@
 {
- "gerado_em": "02/10/2026, 09:43",
+ "gerado_em": "02/10/2026, 09:58",
  "data_ref": "02/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
-  "no_sla": 0,
+  "total": 7,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 189,
-  "tickets_abertos": 556,
+  "pct_sla": 100,
+  "mediana_geral": 1.8,
+  "leads_7d": 194,
+  "tickets_abertos": 564,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 2,
-   "mediana_min": null
+   "leads": 5,
+   "mediana_min": 1.8
   }
  ],
  "origem": {
-  "Anuncio": 2,
-  "Direto/Indicacao": 0
+  "Anuncio": 4,
+  "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/7ciItXnNp",
+   "leads": 1
+  },
   {
    "url": "fb.me/57zIOsZXG",
    "leads": 1
@@ -36,13 +44,14 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2
+  "Nao identificada": 3,
+  "Trabalhista": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 191,
+  "grupos_ativos": 194,
   "turnos": 363,
   "respondidos": 363,
   "sem_resposta": 0,
@@ -140,19 +149,52 @@
   ]
  },
  "agora": {
-  "fila": 468,
-  "abertos": 556,
+  "fila": 476,
+  "abertos": 564,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 9769
+  "ausentes": 1,
+  "espera_media_s": 9678
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-10T17:21:14.162Z",
-  "min_sem_lead": 296362
+  "ultimo_lead_at": "2026-08-02T10:11:36.956Z",
+  "min_sem_lead": 88007
  },
  "leads": [
+  {
+   "nome": "5511959169862",
+   "tel": "5511*****862",
+   "criado": "09:51",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.8,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553183919690",
+   "tel": "5531*****690",
+   "criado": "09:51",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.8,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "jr4024287",
+   "tel": "5515*****418",
+   "criado": "09:51",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ciItXnNp",
+   "area": "Trabalhista"
+  },
   {
    "nome": "556281366193",
    "tel": "5562*****193",
@@ -174,6 +216,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "556793033828",
+   "tel": "5567*****828",
+   "criado": "09:52",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "553499298040",
+   "tel": "5534*****040",
+   "criado": "09:51",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
