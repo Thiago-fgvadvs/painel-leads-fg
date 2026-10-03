@@ -1,31 +1,35 @@
 {
- "gerado_em": "03/10/2026, 09:58",
+ "gerado_em": "03/10/2026, 10:14",
  "data_ref": "03/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
+  "total": 6,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 5,
+  "fora_horario": 6,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 208,
-  "tickets_abertos": 588,
+  "leads_7d": 209,
+  "tickets_abertos": 589,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
+   "leads": 6,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/6lIu0yPSl",
+   "leads": 1
+  },
   {
    "url": "fb.me/4MBhcZyUD",
    "leads": 1
@@ -48,9 +52,9 @@
   }
  ],
  "areas": {
+  "Trabalhista": 2,
   "Previdenciario": 2,
-  "Nao identificada": 2,
-  "Trabalhista": 1
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -171,19 +175,30 @@
   ]
  },
  "agora": {
-  "fila": 489,
-  "abertos": 588,
+  "fila": 490,
+  "abertos": 589,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 13133
+  "espera_media_s": 13104
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-03T11:51:37.008Z",
-  "min_sem_lead": 67
+  "ultimo_lead_at": "2026-10-03T13:06:29.047Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "Rafael",
+   "tel": "5524*****948",
+   "criado": "10:06",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6lIu0yPSl",
+   "area": "Trabalhista"
+  },
   {
    "nome": "553799828928",
    "tel": "5537*****928",
