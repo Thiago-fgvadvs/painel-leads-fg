@@ -1,13 +1,13 @@
 {
- "gerado_em": "03/10/2026, 19:21",
+ "gerado_em": "03/10/2026, 19:37",
  "data_ref": "03/10/2026",
  "sla_min": 15,
  "kpi": {
   "total": 14,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 13,
+  "sem_resposta": 0,
+  "fora_horario": 14,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 217,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 13,
+   "leads": 14,
    "mediana_min": null
   }
  ],
@@ -64,14 +64,7 @@
   "Nao identificada": 3,
   "Previdenciario": 2
  },
- "sem_resposta_lista": [
-  {
-   "nome": "5524988346090",
-   "tel": "5524*****090",
-   "criado": "19:21",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -148,13 +141,6 @@
     "dia": "02/10",
     "desde": "09:52",
     "ts": 1790945553726
-   },
-   {
-    "nome": "5524988346090",
-    "tel": "5524*****090",
-    "dia": "03/10",
-    "desde": "19:21",
-    "ts": 1791066097961
    }
   ],
   "grupos": []
@@ -203,20 +189,20 @@
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 12850
+  "espera_media_s": 12823
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-03T22:21:37.961Z",
-  "min_sem_lead": 0
+  "min_sem_lead": 15
  },
  "leads": [
   {
    "nome": "5524988346090",
    "tel": "5524*****090",
    "criado": "19:21",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
