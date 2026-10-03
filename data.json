@@ -1,17 +1,17 @@
 {
- "gerado_em": "03/10/2026, 19:06",
+ "gerado_em": "03/10/2026, 19:21",
  "data_ref": "03/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
+  "total": 14,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 13,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 216,
-  "tickets_abertos": 598,
+  "leads_7d": 217,
+  "tickets_abertos": 599,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,13 +22,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 14,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/7ZVZhwxMh",
+   "leads": 2
   },
   {
    "url": "fb.me/4V5VEOQA9",
@@ -47,10 +51,6 @@
    "leads": 1
   },
   {
-   "url": "fb.me/7ZVZhwxMh",
-   "leads": 1
-  },
-  {
    "url": "fb.me/6lIu0yPSl",
    "leads": 1
   },
@@ -60,11 +60,18 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
+  "Trabalhista": 9,
   "Nao identificada": 3,
   "Previdenciario": 2
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5524988346090",
+   "tel": "5524*****090",
+   "criado": "19:21",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -141,6 +148,13 @@
     "dia": "02/10",
     "desde": "09:52",
     "ts": 1790945553726
+   },
+   {
+    "nome": "5524988346090",
+    "tel": "5524*****090",
+    "dia": "03/10",
+    "desde": "19:21",
+    "ts": 1791066097961
    }
   ],
   "grupos": []
@@ -183,8 +197,8 @@
   ]
  },
  "agora": {
-  "fila": 499,
-  "abertos": 598,
+  "fila": 500,
+  "abertos": 599,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
@@ -192,10 +206,21 @@
   "espera_media_s": 12850
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-27T22:35:29.890Z",
-  "min_sem_lead": 97891
+  "ultimo_lead_at": "2026-10-03T22:21:37.961Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "5524988346090",
+   "tel": "5524*****090",
+   "criado": "19:21",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "F/ Augusto",
    "tel": "5581*****533",
