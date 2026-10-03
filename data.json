@@ -1,13 +1,13 @@
 {
- "gerado_em": "02/10/2026, 21:40",
+ "gerado_em": "02/10/2026, 21:56",
  "data_ref": "02/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 31,
+  "total": 32,
   "no_sla": 22,
   "fora_sla": 0,
   "sem_resposta": 1,
-  "fora_horario": 7,
+  "fora_horario": 8,
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 219,
@@ -17,12 +17,12 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 29,
+   "leads": 30,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 27,
+  "Anuncio": 28,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -31,11 +31,15 @@
    "leads": 4
   },
   {
-   "url": "fb.me/4V5VEOQA9",
+   "url": "fb.me/8hmN3IbSF",
    "leads": 2
   },
   {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/4V5VEOQA9",
    "leads": 2
   },
   {
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/57zIOsZXG",
    "leads": 2
-  },
-  {
-   "url": "fb.me/875plPmzH",
-   "leads": 2
   }
  ],
  "areas": {
-  "Trabalhista": 22,
+  "Trabalhista": 23,
   "Previdenciario": 2,
   "Nao identificada": 7
  },
@@ -75,7 +75,7 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 211,
+  "grupos_ativos": 213,
   "turnos": 418,
   "respondidos": 418,
   "sem_resposta": 0,
@@ -148,13 +148,6 @@
     "dia": "02/10",
     "desde": "09:52",
     "ts": 1790945553726
-   },
-   {
-    "nome": "Beto",
-    "tel": "5516*****909",
-    "dia": "02/10",
-    "desde": "21:40",
-    "ts": 1790988045870
    }
   ],
   "grupos": []
@@ -203,22 +196,22 @@
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 12804
+  "espera_media_s": 12775
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-03T00:40:45.870Z",
-  "min_sem_lead": 0
+  "min_sem_lead": 15
  },
  "leads": [
   {
-   "nome": "Elinho",
-   "tel": "5522*****759",
-   "criado": "19:58",
+   "nome": "Beto",
+   "tel": "5516*****909",
+   "criado": "21:40",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
+   "espera_min": 0.4,
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "fb.me/4V5VEOQA9",
+   "criativo": "fb.me/8hmN3IbSF",
    "area": "Trabalhista"
   },
   {
@@ -231,6 +224,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
    "area": "Previdenciario"
+  },
+  {
+   "nome": "Elinho",
+   "tel": "5522*****759",
+   "criado": "19:58",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4V5VEOQA9",
+   "area": "Trabalhista"
   },
   {
    "nome": "franciisco",
