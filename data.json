@@ -1,28 +1,28 @@
 {
- "gerado_em": "04/10/2026, 16:01",
+ "gerado_em": "04/10/2026, 16:16",
  "data_ref": "04/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
+  "total": 20,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 19,
+  "fora_horario": 20,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 189,
-  "tickets_abertos": 621,
+  "leads_7d": 190,
+  "tickets_abertos": 622,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -39,6 +39,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmWSqIsv9v/",
    "leads": 1
   },
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/f5q0zJBsc",
    "leads": 1
-  },
-  {
-   "url": "fb.me/505ajP5YC",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 17,
+  "Trabalhista": 18,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -175,19 +175,30 @@
   ]
  },
  "agora": {
-  "fila": 522,
-  "abertos": 621,
+  "fila": 523,
+  "abertos": 622,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 13265
+  "espera_media_s": 13238
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-04T18:54:17.831Z",
-  "min_sem_lead": 7
+  "ultimo_lead_at": "2026-10-04T19:03:48.579Z",
+  "min_sem_lead": 13
  },
  "leads": [
+  {
+   "nome": "556184361684",
+   "tel": "5561*****684",
+   "criado": "16:03",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Luiz Maurício",
    "tel": "5522*****509",
