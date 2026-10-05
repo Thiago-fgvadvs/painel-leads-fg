@@ -1,28 +1,28 @@
 {
- "gerado_em": "05/10/2026, 14:27",
+ "gerado_em": "05/10/2026, 14:43",
  "data_ref": "05/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 26,
-  "no_sla": 16,
+  "total": 27,
+  "no_sla": 17,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 9,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 201,
-  "tickets_abertos": 621,
+  "leads_7d": 202,
+  "tickets_abertos": 622,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 25,
+  "Anuncio": 26,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -31,12 +31,12 @@
    "leads": 3
   },
   {
-   "url": "fb.me/52gWxMmYQ",
+   "url": "fb.me/505ajP5YC",
    "leads": 3
   },
   {
-   "url": "fb.me/505ajP5YC",
-   "leads": 2
+   "url": "fb.me/52gWxMmYQ",
+   "leads": 3
   },
   {
    "url": "fb.me/87PZSDuwc",
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 24,
+  "Trabalhista": 25,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
@@ -69,10 +69,10 @@
   "dias": 7,
   "grupos_ativos": 197,
   "turnos": 351,
-  "respondidos": 348,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 80.6,
+  "respondidos": 349,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
+  "mediana_min": 80.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -91,8 +91,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 12,
-    "mediana_min": 1.4
+    "respostas": 13,
+    "mediana_min": 1.6
    },
    {
     "nome": "—",
@@ -121,12 +121,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "S.L.G.R x ESE CONSTRUCOES LTDA",
-    "dia": "05/10",
-    "desde": "14:07",
-    "ts": 1791220033265
-   },
    {
     "grupo": "A.F.G",
     "dia": "05/10",
@@ -171,12 +165,6 @@
     "dia": "05/10",
     "desde": "13:28",
     "ts": 1791217708141
-   },
-   {
-    "grupo": "S.L.G.R x ESE CONSTRUCOES LTDA",
-    "dia": "05/10",
-    "desde": "14:07",
-    "ts": 1791220033265
    }
   ]
  },
@@ -219,18 +207,40 @@
  },
  "agora": {
   "fila": 567,
-  "abertos": 621,
+  "abertos": 622,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 18892
+  "ausentes": 1,
+  "espera_media_s": 18853
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-05T17:14:58.631Z",
-  "min_sem_lead": 13
+  "ultimo_lead_at": "2026-10-05T15:56:58.234Z",
+  "min_sem_lead": 106
  },
  "leads": [
+  {
+   "nome": "jusevan Kleber Silva",
+   "tel": "5565*****711",
+   "criado": "12:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Alexandre Joaquim",
+   "tel": "5581*****212",
+   "criado": "14:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
+  },
   {
    "nome": "554999525559",
    "tel": "5549*****559",
@@ -251,17 +261,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmVxjBsO69/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "556593391711",
-   "tel": "5565*****711",
-   "criado": "12:56",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
