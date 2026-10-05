@@ -1,28 +1,28 @@
 {
- "gerado_em": "05/10/2026, 09:53",
+ "gerado_em": "05/10/2026, 10:08",
  "data_ref": "05/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 3,
+  "total": 13,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 9,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 187,
-  "tickets_abertos": 602,
+  "leads_7d": 188,
+  "tickets_abertos": 604,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 12,
+   "leads": 13,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -31,11 +31,15 @@
    "leads": 2
   },
   {
-   "url": "fb.me/6FfNcShxn",
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "url": "www.instagram.com/p/Ddo-UijMsF3/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/6FfNcShxn",
    "leads": 1
   },
   {
@@ -53,21 +57,17 @@
   {
    "url": "fb.me/4MBhcZyUD",
    "leads": 1
-  },
-  {
-   "url": "fb.me/505ajP5YC",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 11,
+  "Trabalhista": 12,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 187,
+  "grupos_ativos": 188,
   "turnos": 287,
   "respondidos": 286,
   "sem_resposta": 1,
@@ -189,19 +189,41 @@
   ]
  },
  "agora": {
-  "fila": 558,
-  "abertos": 602,
+  "fila": 560,
+  "abertos": 604,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 16259
+  "espera_media_s": 16190
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-04T10:55:16.415Z",
-  "min_sem_lead": 134038
+  "ultimo_lead_at": "2026-10-02T22:22:29.804Z",
+  "min_sem_lead": 3766
  },
  "leads": [
+  {
+   "nome": "556993051044",
+   "tel": "5569*****044",
+   "criado": "08:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558791911317",
+   "tel": "5587*****317",
+   "criado": "09:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Ddo-UijMsF3/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Amor além do infinito",
    "tel": "5588*****534",
@@ -222,17 +244,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/87PZSDuwc",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "556993051044",
-   "tel": "5569*****044",
-   "criado": "08:32",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
