@@ -1,34 +1,38 @@
 {
- "gerado_em": "05/10/2026, 12:25",
+ "gerado_em": "05/10/2026, 12:41",
  "data_ref": "05/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 7,
+  "total": 17,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 9,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 191,
+  "leads_7d": 192,
   "tickets_abertos": 610,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 17,
    "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 16,
+  "Anuncio": 17,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcmVxvcsgHO/",
+   "leads": 1
   },
   {
    "url": "fb.me/af5oLpsDN",
@@ -53,14 +57,10 @@
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4LXdMV2Fn",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 15,
+  "Trabalhista": 16,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
@@ -68,16 +68,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 194,
-  "turnos": 322,
-  "respondidos": 321,
-  "sem_resposta": 1,
-  "sem_resposta_grupos": 1,
-  "mediana_min": 80.6,
+  "turnos": 328,
+  "respondidos": 326,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
+  "mediana_min": 80.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 182,
-    "mediana_min": 90.6
+    "respostas": 187,
+    "mediana_min": 90.5
    },
    {
     "nome": "Nicolas",
@@ -122,6 +122,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "S.L.G.R x ESE CONSTRUCOES LTDA",
+    "dia": "05/10",
+    "desde": "12:32",
+    "ts": 1791214337925
+   },
+   {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
     "dia": "05/10",
     "desde": "09:25",
@@ -153,6 +159,12 @@
     "dia": "05/10",
     "desde": "09:25",
     "ts": 1791203150371
+   },
+   {
+    "grupo": "S.L.G.R x ESE CONSTRUCOES LTDA",
+    "dia": "05/10",
+    "desde": "12:32",
+    "ts": 1791214337925
    }
   ]
  },
@@ -194,19 +206,30 @@
   ]
  },
  "agora": {
-  "fila": 560,
+  "fila": 559,
   "abertos": 610,
   "com_atendimento": 3,
   "online": 2,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 16054
+  "espera_media_s": 19249
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-29T13:28:46.613Z",
-  "min_sem_lead": 8757
+  "ultimo_lead_at": "2026-10-05T15:26:03.779Z",
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "Karen",
+   "tel": "5592*****480",
+   "criado": "12:26",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmVxvcsgHO/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "553799731735",
    "tel": "5537*****735",
