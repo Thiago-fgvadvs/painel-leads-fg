@@ -1,5 +1,5 @@
 {
- "gerado_em": "05/10/2026, 12:10",
+ "gerado_em": "05/10/2026, 12:25",
  "data_ref": "05/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 191,
-  "tickets_abertos": 609,
+  "tickets_abertos": 610,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -31,11 +31,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/6AFbdEcuS",
+   "url": "fb.me/af5oLpsDN",
    "leads": 1
   },
   {
-   "url": "fb.me/af5oLpsDN",
+   "url": "fb.me/6AFbdEcuS",
    "leads": 1
   },
   {
@@ -67,17 +67,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 193,
-  "turnos": 320,
-  "respondidos": 319,
+  "grupos_ativos": 194,
+  "turnos": 322,
+  "respondidos": 321,
   "sem_resposta": 1,
   "sem_resposta_grupos": 1,
   "mediana_min": 80.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 180,
-    "mediana_min": 93.1
+    "respostas": 182,
+    "mediana_min": 90.6
    },
    {
     "nome": "Nicolas",
@@ -195,29 +195,18 @@
  },
  "agora": {
   "fila": 560,
-  "abertos": 609,
+  "abertos": 610,
   "com_atendimento": 3,
-  "online": 1,
+  "online": 2,
   "offline": 1,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 16054
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-05T15:03:23.329Z",
-  "min_sem_lead": 7
+  "ultimo_lead_at": "2026-09-29T13:28:46.613Z",
+  "min_sem_lead": 8757
  },
  "leads": [
-  {
-   "nome": "5519986125865",
-   "tel": "5519*****865",
-   "criado": "12:03",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6AFbdEcuS",
-   "area": "Trabalhista"
-  },
   {
    "nome": "553799731735",
    "tel": "5537*****735",
@@ -227,6 +216,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/af5oLpsDN",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5519986125865",
+   "tel": "5519*****865",
+   "criado": "12:03",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6AFbdEcuS",
    "area": "Trabalhista"
   },
   {
