@@ -1,28 +1,28 @@
 {
- "gerado_em": "05/10/2026, 18:08",
+ "gerado_em": "05/10/2026, 18:23",
  "data_ref": "05/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 35,
-  "no_sla": 25,
+  "total": 38,
+  "no_sla": 28,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 9,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 210,
-  "tickets_abertos": 633,
+  "leads_7d": 213,
+  "tickets_abertos": 636,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 33,
+   "leads": 36,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 33,
+  "Anuncio": 36,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -35,8 +35,16 @@
    "leads": 4
   },
   {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 3
+  },
+  {
    "url": "fb.me/505ajP5YC",
    "leads": 3
+  },
+  {
+   "url": "fb.me/4VQLAvb8d",
+   "leads": 2
   },
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
@@ -49,19 +57,11 @@
   {
    "url": "www.instagram.com/p/DcmVrByMck7/",
    "leads": 2
-  },
-  {
-   "url": "fb.me/87PZSDuwc",
-   "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DcmW5hLM3NO/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 32,
-  "Nao identificada": 3
+  "Trabalhista": 34,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [
   {
@@ -74,17 +74,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 202,
-  "turnos": 386,
-  "respondidos": 385,
+  "grupos_ativos": 203,
+  "turnos": 388,
+  "respondidos": 387,
   "sem_resposta": 1,
   "sem_resposta_grupos": 1,
-  "mediana_min": 72.7,
+  "mediana_min": 73.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 238,
-    "mediana_min": 75.2
+    "respostas": 240,
+    "mediana_min": 76.5
    },
    {
     "nome": "Nicolas",
@@ -208,19 +208,63 @@
   ]
  },
  "agora": {
-  "fila": 578,
-  "abertos": 633,
+  "fila": 580,
+  "abertos": 636,
   "com_atendimento": 3,
-  "online": 3,
-  "offline": 1,
+  "online": 2,
+  "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 23853
+  "espera_media_s": 23710
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-05T15:56:58.234Z",
-  "min_sem_lead": 311
+  "ultimo_lead_at": "2026-10-05T21:20:58.136Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "554488262046",
+   "tel": "5544*****046",
+   "criado": "18:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5927026227",
+   "tel": "5927*****227",
+   "criado": "18:12",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Terezinha Dias Alencar Ce",
+   "tel": "5588*****904",
+   "criado": "18:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4VQLAvb8d",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "-",
+   "tel": "5549*****559",
+   "criado": "14:14",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "jusevan Kleber Silva",
    "tel": "5565*****711",
@@ -241,17 +285,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/52gWxMmYQ",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "-",
-   "tel": "5549*****559",
-   "criado": "14:14",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
    "area": "Trabalhista"
   },
   {
