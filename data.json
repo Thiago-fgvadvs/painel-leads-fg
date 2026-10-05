@@ -1,31 +1,35 @@
 {
- "gerado_em": "05/10/2026, 12:56",
+ "gerado_em": "05/10/2026, 13:11",
  "data_ref": "05/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 10,
+  "total": 20,
+  "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 9,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 194,
-  "tickets_abertos": 613,
+  "mediana_geral": 0.4,
+  "leads_7d": 195,
+  "tickets_abertos": 614,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
-   "mediana_min": 0.5
+   "leads": 20,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 2
+  },
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 2
@@ -53,14 +57,10 @@
   {
    "url": "www.instagram.com/p/Ddo-UijMsF3/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/6FfNcShxn",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 18,
+  "Trabalhista": 19,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
@@ -68,15 +68,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 194,
-  "turnos": 329,
-  "respondidos": 327,
+  "turnos": 331,
+  "respondidos": 329,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 80.6,
+  "mediana_min": 80.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 188,
+    "respostas": 190,
     "mediana_min": 87.9
    },
    {
@@ -206,19 +206,30 @@
   ]
  },
  "agora": {
-  "fila": 561,
-  "abertos": 613,
+  "fila": 562,
+  "abertos": 614,
   "com_atendimento": 3,
   "online": 2,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 19168
+  "espera_media_s": 19128
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-05T15:26:03.779Z",
-  "min_sem_lead": 30
+  "ultimo_lead_at": "2026-10-05T15:56:58.234Z",
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "556593391711",
+   "tel": "5565*****711",
+   "criado": "12:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Karen",
    "tel": "5592*****480",
