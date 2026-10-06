@@ -1,23 +1,23 @@
 {
- "gerado_em": "06/10/2026, 20:23",
+ "gerado_em": "06/10/2026, 20:38",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 30,
+  "total": 33,
   "no_sla": 22,
   "fora_sla": 1,
   "sem_resposta": 1,
-  "fora_horario": 6,
+  "fora_horario": 9,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 219,
-  "tickets_abertos": 687,
+  "leads_7d": 222,
+  "tickets_abertos": 690,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 24,
+   "leads": 27,
    "mediana_min": 0.4
   },
   {
@@ -27,10 +27,18 @@
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 26,
   "Direto/Indicacao": 7
  },
  "criativos": [
+  {
+   "url": "fb.me/875plPmzH",
+   "leads": 3
+  },
+  {
+   "url": "fb.me/505ajP5YC",
+   "leads": 2
+  },
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 2
@@ -40,11 +48,7 @@
    "leads": 2
   },
   {
-   "url": "fb.me/875plPmzH",
-   "leads": 2
-  },
-  {
-   "url": "fb.me/505ajP5YC",
+   "url": "fb.me/9Kji7hTqb",
    "leads": 1
   },
   {
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/6hFKXqtBv",
    "leads": 1
-  },
-  {
-   "url": "fb.me/6lIu0yPSl",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 20,
-  "Nao identificada": 10
+  "Trabalhista": 22,
+  "Nao identificada": 11
  },
  "sem_resposta_lista": [
   {
@@ -233,19 +233,52 @@
   ]
  },
  "agora": {
-  "fila": 619,
-  "abertos": 687,
+  "fila": 622,
+  "abertos": 690,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 21956
+  "espera_media_s": 21835
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T00:37:04.850Z",
-  "min_sem_lead": 82006
+  "ultimo_lead_at": "2026-10-06T23:35:53.143Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "Geralda Lima Vani",
+   "tel": "5522*****598",
+   "criado": "20:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5514996908840",
+   "tel": "5514*****840",
+   "criado": "20:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "556281259305",
+   "tel": "5562*****305",
+   "criado": "20:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/9Kji7hTqb",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Daniel Moisés Galan",
    "tel": "5548*****843",
