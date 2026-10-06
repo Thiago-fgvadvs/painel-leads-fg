@@ -1,24 +1,24 @@
 {
- "gerado_em": "06/10/2026, 15:48",
+ "gerado_em": "06/10/2026, 16:04",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
-  "no_sla": 9,
+  "total": 14,
+  "no_sla": 10,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 90,
+  "pct_sla": 91,
   "mediana_geral": 0.5,
-  "leads_7d": 202,
-  "tickets_abertos": 666,
+  "leads_7d": 203,
+  "tickets_abertos": 667,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
-   "mediana_min": 0.4
+   "leads": 12,
+   "mediana_min": 0.5
   },
   {
    "nome": "Roseli",
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 11,
+  "Anuncio": 12,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -36,15 +36,19 @@
    "leads": 2
   },
   {
+   "url": "fb.me/7ZVZhwxMh",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4MBhcZyUD",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmVxvcsgHO/",
    "leads": 1
   },
   {
    "url": "fb.me/87PZSDuwc",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/4MBhcZyUD",
    "leads": 1
   },
   {
@@ -58,14 +62,10 @@
   {
    "url": "fb.me/72bfqWZpN",
    "leads": 1
-  },
-  {
-   "url": "fb.me/8IVPdycg0",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 10,
+  "Trabalhista": 11,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [
@@ -88,16 +88,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 207,
-  "turnos": 429,
-  "respondidos": 427,
+  "turnos": 431,
+  "respondidos": 429,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 64.7,
+  "mediana_min": 65.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 330,
-    "mediana_min": 61.9
+    "respostas": 332,
+    "mediana_min": 62.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -221,19 +221,41 @@
   ]
  },
  "agora": {
-  "fila": 600,
-  "abertos": 666,
+  "fila": 601,
+  "abertos": 667,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 22626
+  "ausentes": 0,
+  "espera_media_s": 22583
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 763409
+  "ultimo_lead_at": "2026-10-06T17:01:52.064Z",
+  "min_sem_lead": 122
  },
  "leads": [
+  {
+   "nome": "5517992832010",
+   "tel": "5517*****010",
+   "criado": "15:50",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Adriana Damaceno",
+   "tel": "5549*****018",
+   "criado": "14:01",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Warlei Gomes",
    "tel": "5533*****281",
@@ -266,17 +288,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Adriana Damaceno",
-   "tel": "5549*****018",
-   "criado": "14:01",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4MBhcZyUD",
-   "area": "Trabalhista"
   },
   {
    "nome": "559392220740",
