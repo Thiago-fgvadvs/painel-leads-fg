@@ -1,24 +1,24 @@
 {
- "gerado_em": "06/10/2026, 16:19",
+ "gerado_em": "06/10/2026, 16:34",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 10,
+  "total": 15,
+  "no_sla": 11,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 91,
+  "pct_sla": 92,
   "mediana_geral": 0.5,
-  "leads_7d": 203,
-  "tickets_abertos": 667,
+  "leads_7d": 204,
+  "tickets_abertos": 668,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 12,
-   "mediana_min": 0.5
+   "leads": 13,
+   "mediana_min": 0.4
   },
   {
    "nome": "Roseli",
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "fb.me/875plPmzH",
    "leads": 2
+  },
+  {
+   "url": "fb.me/6rTfJfuWE",
+   "leads": 1
   },
   {
    "url": "fb.me/4MBhcZyUD",
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/f5q0zJBsc",
    "leads": 1
-  },
-  {
-   "url": "fb.me/72bfqWZpN",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 11,
-  "Nao identificada": 3
+  "Nao identificada": 4,
+  "Trabalhista": 11
  },
  "sem_resposta_lista": [
   {
@@ -87,17 +87,17 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 208,
-  "turnos": 433,
-  "respondidos": 431,
+  "grupos_ativos": 210,
+  "turnos": 434,
+  "respondidos": 432,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 67.3,
+  "mediana_min": 67.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 334,
-    "mediana_min": 63.1
+    "respostas": 335,
+    "mediana_min": 63.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -221,19 +221,30 @@
   ]
  },
  "agora": {
-  "fila": 601,
-  "abertos": 667,
+  "fila": 602,
+  "abertos": 668,
   "com_atendimento": 3,
-  "online": 1,
+  "online": 2,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 22583
+  "ausentes": 1,
+  "espera_media_s": 22540
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-06T17:01:52.064Z",
-  "min_sem_lead": 137
+  "ultimo_lead_at": "2026-10-04T18:37:03.481Z",
+  "min_sem_lead": 2938
  },
  "leads": [
+  {
+   "nome": "Maria Braz",
+   "tel": "5521*****064",
+   "criado": "16:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6rTfJfuWE",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Adriana Damaceno",
    "tel": "5549*****018",
