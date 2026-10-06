@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/10/2026, 12:30",
+ "gerado_em": "06/10/2026, 12:45",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 197,
-  "tickets_abertos": 656,
+  "tickets_abertos": 657,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -63,17 +63,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 200,
-  "turnos": 381,
-  "respondidos": 379,
-  "sem_resposta": 2,
-  "sem_resposta_grupos": 2,
-  "mediana_min": 68.5,
+  "grupos_ativos": 201,
+  "turnos": 386,
+  "respondidos": 385,
+  "sem_resposta": 1,
+  "sem_resposta_grupos": 1,
+  "mediana_min": 69,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 282,
-    "mediana_min": 72.8
+    "respostas": 288,
+    "mediana_min": 73.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -107,12 +107,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
-    "dia": "06/10",
-    "desde": "11:35",
-    "ts": 1791297357617
-   },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
     "dia": "05/10",
@@ -152,12 +146,6 @@
     "dia": "05/10",
     "desde": "09:25",
     "ts": 1791203150371
-   },
-   {
-    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
-    "dia": "06/10",
-    "desde": "11:35",
-    "ts": 1791297357617
    }
   ]
  },
@@ -190,17 +178,17 @@
   ]
  },
  "agora": {
-  "fila": 594,
-  "abertos": 656,
+  "fila": 595,
+  "abertos": 657,
   "com_atendimento": 3,
   "online": 2,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 22799
+  "espera_media_s": 22756
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-06T15:29:35.332Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-05-25T21:46:42.681Z",
+  "min_sem_lead": 192599
  },
  "leads": [
   {
