@@ -1,17 +1,17 @@
 {
- "gerado_em": "06/10/2026, 18:36",
+ "gerado_em": "06/10/2026, 18:52",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
-  "no_sla": 21,
+  "total": 26,
+  "no_sla": 22,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 95,
+  "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 214,
-  "tickets_abertos": 680,
+  "leads_7d": 215,
+  "tickets_abertos": 682,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,13 +22,13 @@
   },
   {
    "nome": "Roseli",
-   "leads": 1,
-   "mediana_min": 58.6
+   "leads": 2,
+   "mediana_min": 29.9
   }
  ],
  "origem": {
   "Anuncio": 19,
-  "Direto/Indicacao": 6
+  "Direto/Indicacao": 7
  },
  "criativos": [
   {
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 17,
-  "Nao identificada": 8
+  "Nao identificada": 9,
+  "Trabalhista": 17
  },
  "sem_resposta_lista": [
   {
@@ -233,19 +233,30 @@
   ]
  },
  "agora": {
-  "fila": 613,
-  "abertos": 680,
+  "fila": 614,
+  "abertos": 682,
   "com_atendimento": 3,
   "online": 1,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 22202
+  "espera_media_s": 22161
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-06T20:53:56.394Z",
-  "min_sem_lead": 43
+  "ultimo_lead_at": "2026-08-20T01:58:37.449Z",
+  "min_sem_lead": 68873
  },
  "leads": [
+  {
+   "nome": "KEICI (amiga Priscila - Eurofarma)",
+   "tel": "5511*****873",
+   "criado": "18:40",
+   "atendente": "Roseli",
+   "espera_min": 1.1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "5511965071144",
    "tel": "5511*****144",
