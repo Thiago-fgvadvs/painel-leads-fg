@@ -1,23 +1,23 @@
 {
- "gerado_em": "06/10/2026, 17:51",
+ "gerado_em": "06/10/2026, 18:06",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 15,
+  "total": 23,
+  "no_sla": 19,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 94,
+  "pct_sla": 95,
   "mediana_geral": 0.4,
-  "leads_7d": 208,
-  "tickets_abertos": 672,
+  "leads_7d": 212,
+  "tickets_abertos": 677,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 16,
+   "leads": 19,
    "mediana_min": 0.4
   },
   {
@@ -27,8 +27,8 @@
   }
  ],
  "origem": {
-  "Anuncio": 16,
-  "Direto/Indicacao": 3
+  "Anuncio": 18,
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
@@ -38,6 +38,14 @@
   {
    "url": "fb.me/875plPmzH",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcmW5hLM3NO/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/57zIOsZXG",
+   "leads": 1
   },
   {
    "url": "fb.me/6lIu0yPSl",
@@ -54,19 +62,11 @@
   {
    "url": "fb.me/7ZVZhwxMh",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmVxvcsgHO/",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/87PZSDuwc",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 13,
-  "Nao identificada": 6
+  "Nao identificada": 7,
+  "Trabalhista": 16
  },
  "sem_resposta_lista": [
   {
@@ -88,16 +88,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 211,
-  "turnos": 450,
-  "respondidos": 448,
-  "sem_resposta": 2,
-  "sem_resposta_grupos": 2,
-  "mediana_min": 66.2,
+  "turnos": 454,
+  "respondidos": 451,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 64.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 348,
-    "mediana_min": 64.2
+    "respostas": 351,
+    "mediana_min": 63.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -131,6 +131,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
+    "dia": "06/10",
+    "desde": "18:00",
+    "ts": 1791320437505
+   },
    {
     "grupo": "V.A.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "06/10",
@@ -189,6 +195,12 @@
     "dia": "06/10",
     "desde": "13:38",
     "ts": 1791304730945
+   },
+   {
+    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
+    "dia": "06/10",
+    "desde": "18:00",
+    "ts": 1791320437505
    }
   ]
  },
@@ -221,19 +233,63 @@
   ]
  },
  "agora": {
-  "fila": 605,
-  "abertos": 672,
+  "fila": 610,
+  "abertos": 677,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 22412
+  "ausentes": 1,
+  "espera_media_s": 22286
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-01T14:32:41.366Z",
-  "min_sem_lead": 7578
+  "ultimo_lead_at": "2026-03-10T17:21:14.162Z",
+  "min_sem_lead": 302625
  },
  "leads": [
+  {
+   "nome": "CORRESPONDENTE Mayana Bittencourt de Melo Pinheiro",
+   "tel": "5571*****832",
+   "criado": "17:51",
+   "atendente": "—",
+   "espera_min": 0,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "João Carlos",
+   "tel": "5583*****346",
+   "criado": "17:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511965071144",
+   "tel": "5511*****144",
+   "criado": "17:53",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "roger",
+   "tel": "5511*****871",
+   "criado": "17:54",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.9,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/57zIOsZXG",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Jorge Luis",
    "tel": "5521*****424",
