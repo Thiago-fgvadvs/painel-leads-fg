@@ -1,17 +1,17 @@
 {
- "gerado_em": "06/10/2026, 13:00",
+ "gerado_em": "06/10/2026, 13:16",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
+  "total": 9,
   "no_sla": 6,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 197,
-  "tickets_abertos": 658,
+  "leads_7d": 198,
+  "tickets_abertos": 662,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 8,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -57,23 +57,30 @@
  ],
  "areas": {
   "Trabalhista": 7,
-  "Nao identificada": 1
+  "Nao identificada": 2
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5511956000212",
+   "tel": "5511*****212",
+   "criado": "13:09",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 203,
-  "turnos": 391,
-  "respondidos": 390,
+  "turnos": 392,
+  "respondidos": 391,
   "sem_resposta": 1,
   "sem_resposta_grupos": 1,
-  "mediana_min": 68.9,
+  "mediana_min": 69,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 293,
-    "mediana_min": 72.9
+    "respostas": 294,
+    "mediana_min": 73.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -138,6 +145,13 @@
     "dia": "05/10",
     "desde": "13:32",
     "ts": 1791217962872
+   },
+   {
+    "nome": "5511956000212",
+    "tel": "5511*****212",
+    "dia": "06/10",
+    "desde": "13:09",
+    "ts": 1791302945672
    }
   ],
   "grupos": [
@@ -178,17 +192,17 @@
   ]
  },
  "agora": {
-  "fila": 595,
-  "abertos": 658,
+  "fila": 598,
+  "abertos": 662,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 22756
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-17T21:42:47.446Z",
-  "min_sem_lead": 27018
+  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
+  "min_sem_lead": 763256
  },
  "leads": [
   {
@@ -278,6 +292,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmVpxyMs5c/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "5511956000212",
+   "tel": "5511*****212",
+   "criado": "13:09",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
