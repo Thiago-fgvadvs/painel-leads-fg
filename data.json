@@ -1,23 +1,23 @@
 {
- "gerado_em": "06/10/2026, 17:35",
+ "gerado_em": "06/10/2026, 17:51",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 18,
-  "no_sla": 14,
+  "total": 19,
+  "no_sla": 15,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 93,
+  "pct_sla": 94,
   "mediana_geral": 0.4,
-  "leads_7d": 207,
-  "tickets_abertos": 670,
+  "leads_7d": 208,
+  "tickets_abertos": 672,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 15,
+   "leads": 16,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 15,
+  "Anuncio": 16,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "fb.me/875plPmzH",
    "leads": 2
+  },
+  {
+   "url": "fb.me/6lIu0yPSl",
+   "leads": 1
   },
   {
    "url": "fb.me/4nZXGPuSh",
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 1
-  },
-  {
-   "url": "fb.me/6Efyy5nMc",
-   "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 6,
-  "Trabalhista": 12
+  "Trabalhista": 13,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [
   {
@@ -88,15 +88,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 211,
-  "turnos": 444,
-  "respondidos": 441,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 67.3,
+  "turnos": 450,
+  "respondidos": 448,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
+  "mediana_min": 66.2,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 342,
+    "respostas": 348,
     "mediana_min": 64.2
    },
    {
@@ -116,8 +116,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 11,
-    "mediana_min": 1.6
+    "respostas": 12,
+    "mediana_min": 5.1
    },
    {
     "nome": "Tiago Bernardo",
@@ -131,12 +131,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
-    "dia": "06/10",
-    "desde": "17:32",
-    "ts": 1791318740393
-   },
    {
     "grupo": "V.A.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "06/10",
@@ -195,12 +189,6 @@
     "dia": "06/10",
     "desde": "13:38",
     "ts": 1791304730945
-   },
-   {
-    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
-    "dia": "06/10",
-    "desde": "17:32",
-    "ts": 1791318740393
    }
   ]
  },
@@ -233,19 +221,30 @@
   ]
  },
  "agora": {
-  "fila": 604,
-  "abertos": 670,
+  "fila": 605,
+  "abertos": 672,
   "com_atendimento": 3,
-  "online": 1,
+  "online": 3,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 22454
+  "ausentes": 0,
+  "espera_media_s": 22412
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-06T20:30:38.058Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2026-10-01T14:32:41.366Z",
+  "min_sem_lead": 7578
  },
  "leads": [
+  {
+   "nome": "Jorge Luis",
+   "tel": "5521*****424",
+   "criado": "17:37",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6lIu0yPSl",
+   "area": "Trabalhista"
+  },
   {
    "nome": "559191602445",
    "tel": "5591*****445",
