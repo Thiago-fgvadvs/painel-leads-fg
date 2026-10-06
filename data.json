@@ -1,31 +1,35 @@
 {
- "gerado_em": "06/10/2026, 11:44",
+ "gerado_em": "06/10/2026, 11:59",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 4,
+  "total": 7,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 195,
-  "tickets_abertos": 654,
+  "leads_7d": 196,
+  "tickets_abertos": 656,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/6Efyy5nMc",
+   "leads": 1
+  },
   {
    "url": "fb.me/f5q0zJBsc",
    "leads": 1
@@ -52,23 +56,24 @@
   }
  ],
  "areas": {
+  "Nao identificada": 1,
   "Trabalhista": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 197,
-  "turnos": 370,
-  "respondidos": 368,
+  "grupos_ativos": 199,
+  "turnos": 374,
+  "respondidos": 372,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 66.2,
+  "mediana_min": 67.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 271,
-    "mediana_min": 62.8
+    "respostas": 275,
+    "mediana_min": 63.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -185,19 +190,30 @@
   ]
  },
  "agora": {
-  "fila": 592,
-  "abertos": 654,
+  "fila": 593,
+  "abertos": 656,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 22887
+  "ausentes": 0,
+  "espera_media_s": 22799
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-06T14:42:25.179Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2025-04-24T16:03:44.579Z",
+  "min_sem_lead": 763136
  },
  "leads": [
+  {
+   "nome": "Junior",
+   "tel": "5596*****945",
+   "criado": "11:49",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6Efyy5nMc",
+   "area": "Nao identificada"
+  },
   {
    "nome": "5519982305954",
    "tel": "5519*****954",
