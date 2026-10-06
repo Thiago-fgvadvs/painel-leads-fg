@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/10/2026, 13:46",
+ "gerado_em": "06/10/2026, 14:01",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -70,17 +70,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 204,
-  "turnos": 409,
-  "respondidos": 406,
+  "grupos_ativos": 205,
+  "turnos": 413,
+  "respondidos": 410,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 68.6,
+  "mediana_min": 68.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 309,
-    "mediana_min": 72.7
+    "respostas": 313,
+    "mediana_min": 68.5
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -115,16 +115,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
+    "dia": "06/10",
+    "desde": "13:53",
+    "ts": 1791305605992
+   },
+   {
     "grupo": "V.A.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "06/10",
     "desde": "13:38",
     "ts": 1791304730945
-   },
-   {
-    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
-    "dia": "06/10",
-    "desde": "13:35",
-    "ts": 1791304556936
    },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
@@ -174,16 +174,16 @@
     "ts": 1791203150371
    },
    {
-    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
-    "dia": "06/10",
-    "desde": "13:35",
-    "ts": 1791304556936
-   },
-   {
     "grupo": "V.A.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "06/10",
     "desde": "13:38",
     "ts": 1791304730945
+   },
+   {
+    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
+    "dia": "06/10",
+    "desde": "13:53",
+    "ts": 1791305605992
    }
   ]
  },
@@ -219,14 +219,14 @@
   "fila": 598,
   "abertos": 662,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 1,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 22756
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
-  "min_sem_lead": 763287
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 763302
  },
  "leads": [
   {
