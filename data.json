@@ -1,31 +1,35 @@
 {
- "gerado_em": "06/10/2026, 09:28",
+ "gerado_em": "06/10/2026, 09:44",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 1,
+  "total": 4,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 192,
-  "tickets_abertos": 650,
+  "leads_7d": 193,
+  "tickets_abertos": 651,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 3,
+   "leads": 4,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/8IVPdycg0",
+   "leads": 1
+  },
   {
    "url": "fb.me/875plPmzH",
    "leads": 1
@@ -40,18 +44,18 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3
+  "Trabalhista": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 191,
-  "turnos": 352,
-  "respondidos": 350,
+  "turnos": 353,
+  "respondidos": 351,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 64.6,
+  "mediana_min": 64.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -60,8 +64,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 33,
-    "mediana_min": 1140.2
+    "respostas": 34,
+    "mediana_min": 1103.3
    },
    {
     "nome": "Nicolas",
@@ -173,19 +177,30 @@
   ]
  },
  "agora": {
-  "fila": 594,
-  "abertos": 650,
+  "fila": 595,
+  "abertos": 651,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 23065
+  "espera_media_s": 23020
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
-  "min_sem_lead": 763029
+  "ultimo_lead_at": "2026-10-06T12:32:19.588Z",
+  "min_sem_lead": 12
  },
  "leads": [
+  {
+   "nome": "5511968421044",
+   "tel": "5511*****044",
+   "criado": "09:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/8IVPdycg0",
+   "area": "Trabalhista"
+  },
   {
    "nome": "554291343459",
    "tel": "5542*****459",
