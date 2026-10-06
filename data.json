@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/10/2026, 07:42",
+ "gerado_em": "06/10/2026, 07:57",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -43,10 +43,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 178,
-  "turnos": 321,
+  "turnos": 322,
   "respondidos": 320,
-  "sem_resposta": 1,
-  "sem_resposta_grupos": 1,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
   "mediana_min": 68.5,
   "atendentes": [
    {
@@ -87,6 +87,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
+    "dia": "06/10",
+    "desde": "07:55",
+    "ts": 1791284146189
+   },
+   {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
     "dia": "05/10",
     "desde": "09:25",
@@ -125,6 +131,12 @@
     "dia": "05/10",
     "desde": "09:25",
     "ts": 1791203150371
+   },
+   {
+    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
+    "dia": "06/10",
+    "desde": "07:55",
+    "ts": 1791284146189
    }
   ]
  },
@@ -166,8 +178,8 @@
   "espera_media_s": 23110
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-17T21:42:47.446Z",
-  "min_sem_lead": 26700
+  "ultimo_lead_at": "2026-03-10T17:21:14.162Z",
+  "min_sem_lead": 302016
  },
  "leads": [
   {
