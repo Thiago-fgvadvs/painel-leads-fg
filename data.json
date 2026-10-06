@@ -1,17 +1,17 @@
 {
- "gerado_em": "06/10/2026, 14:47",
+ "gerado_em": "06/10/2026, 15:03",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
+  "total": 11,
   "no_sla": 7,
-  "fora_sla": 0,
+  "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 100,
-  "mediana_geral": 0.4,
-  "leads_7d": 199,
-  "tickets_abertos": 663,
+  "pct_sla": 88,
+  "mediana_geral": 0.5,
+  "leads_7d": 200,
+  "tickets_abertos": 664,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 9,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Roseli",
+   "leads": 1,
+   "mediana_min": 58.6
   }
  ],
  "origem": {
   "Anuncio": 9,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -60,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
-  "Nao identificada": 2
+  "Nao identificada": 3,
+  "Trabalhista": 8
  },
  "sem_resposta_lista": [
   {
@@ -71,10 +76,18 @@
    "area": "Nao identificada"
   }
  ],
- "fora_sla_lista": [],
+ "fora_sla_lista": [
+  {
+   "nome": "Erika Veronica ( Francisco Geraldo)",
+   "tel": "5537*****636",
+   "criado": "13:50",
+   "espera_min": 58.6,
+   "atendente": "Roseli"
+  }
+ ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 205,
+  "grupos_ativos": 206,
   "turnos": 428,
   "respondidos": 426,
   "sem_resposta": 2,
@@ -209,7 +222,7 @@
  },
  "agora": {
   "fila": 598,
-  "abertos": 663,
+  "abertos": 664,
   "com_atendimento": 3,
   "online": 2,
   "offline": 1,
@@ -217,10 +230,21 @@
   "espera_media_s": 22712
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-04T10:55:16.415Z",
-  "min_sem_lead": 135772
+  "ultimo_lead_at": "2026-08-13T00:02:08.345Z",
+  "min_sem_lead": 78841
  },
  "leads": [
+  {
+   "nome": "Erika Veronica ( Francisco Geraldo)",
+   "tel": "5537*****636",
+   "criado": "13:50",
+   "atendente": "Roseli",
+   "espera_min": 58.6,
+   "status": "FORA_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Adriana Damaceno",
    "tel": "5549*****018",
