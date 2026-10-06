@@ -1,23 +1,23 @@
 {
- "gerado_em": "06/10/2026, 17:20",
+ "gerado_em": "06/10/2026, 17:35",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 15,
-  "no_sla": 11,
+  "total": 18,
+  "no_sla": 14,
   "fora_sla": 1,
   "sem_resposta": 1,
   "fora_horario": 2,
-  "pct_sla": 92,
-  "mediana_geral": 0.5,
-  "leads_7d": 204,
-  "tickets_abertos": 667,
+  "pct_sla": 93,
+  "mediana_geral": 0.4,
+  "leads_7d": 207,
+  "tickets_abertos": 670,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 13,
+   "leads": 15,
    "mediana_min": 0.4
   },
   {
@@ -27,20 +27,24 @@
   }
  ],
  "origem": {
-  "Anuncio": 13,
-  "Direto/Indicacao": 2
+  "Anuncio": 15,
+  "Direto/Indicacao": 3
  },
  "criativos": [
+  {
+   "url": "fb.me/6rTfJfuWE",
+   "leads": 2
+  },
   {
    "url": "fb.me/875plPmzH",
    "leads": 2
   },
   {
-   "url": "fb.me/4MBhcZyUD",
+   "url": "fb.me/4nZXGPuSh",
    "leads": 1
   },
   {
-   "url": "fb.me/6rTfJfuWE",
+   "url": "fb.me/4MBhcZyUD",
    "leads": 1
   },
   {
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/6Efyy5nMc",
    "leads": 1
-  },
-  {
-   "url": "fb.me/f5q0zJBsc",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 11,
-  "Nao identificada": 4
+  "Nao identificada": 6,
+  "Trabalhista": 12
  },
  "sem_resposta_lista": [
   {
@@ -88,16 +88,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 211,
-  "turnos": 439,
-  "respondidos": 437,
-  "sem_resposta": 2,
-  "sem_resposta_grupos": 2,
-  "mediana_min": 67.4,
+  "turnos": 444,
+  "respondidos": 441,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 67.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 339,
-    "mediana_min": 63.8
+    "respostas": 342,
+    "mediana_min": 64.2
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -111,8 +111,8 @@
    },
    {
     "nome": "—",
-    "respostas": 13,
-    "mediana_min": 67.3
+    "respostas": 14,
+    "mediana_min": 62.2
    },
    {
     "nome": "Roseli",
@@ -131,6 +131,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
+    "dia": "06/10",
+    "desde": "17:32",
+    "ts": 1791318740393
+   },
    {
     "grupo": "V.A.D.S x GRUPO CASAS BAHIA S.A.",
     "dia": "06/10",
@@ -189,6 +195,12 @@
     "dia": "06/10",
     "desde": "13:38",
     "ts": 1791304730945
+   },
+   {
+    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
+    "dia": "06/10",
+    "desde": "17:32",
+    "ts": 1791318740393
    }
   ]
  },
@@ -221,19 +233,52 @@
   ]
  },
  "agora": {
-  "fila": 601,
-  "abertos": 667,
+  "fila": 604,
+  "abertos": 670,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 1,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 22540
+  "ausentes": 2,
+  "espera_media_s": 22454
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-04T10:55:16.415Z",
-  "min_sem_lead": 135925
+  "ultimo_lead_at": "2026-10-06T20:30:38.058Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "559191602445",
+   "tel": "5591*****445",
+   "criado": "17:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6rTfJfuWE",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "CORRESPONDENTE Tiago Henrique dos Santos Gois",
+   "tel": "5511*****988",
+   "criado": "17:28",
+   "atendente": "—",
+   "espera_min": 0,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "556791577388",
+   "tel": "5567*****388",
+   "criado": "17:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4nZXGPuSh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Adriana Damaceno",
    "tel": "5549*****018",
