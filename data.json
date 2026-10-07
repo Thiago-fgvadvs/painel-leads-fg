@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/10/2026, 08:56",
+ "gerado_em": "07/10/2026, 09:12",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 203,
-  "tickets_abertos": 704,
+  "tickets_abertos": 705,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -51,12 +51,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 189,
-  "turnos": 379,
-  "respondidos": 375,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 62.8,
+  "grupos_ativos": 193,
+  "turnos": 386,
+  "respondidos": 381,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 63.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -65,8 +65,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 26,
-    "mediana_min": 1103.3
+    "respostas": 30,
+    "mediana_min": 1162.5
    },
    {
     "nome": "Tiago Bernardo",
@@ -80,11 +80,17 @@
    },
    {
     "nome": "—",
-    "respostas": 6,
+    "respostas": 8,
     "mediana_min": 29.5
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
+    "dia": "07/10",
+    "desde": "09:01",
+    "ts": 1791374465699
+   },
    {
     "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
     "dia": "07/10",
@@ -167,6 +173,12 @@
     "dia": "07/10",
     "desde": "06:00",
     "ts": 1791363611393
+   },
+   {
+    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
+    "dia": "07/10",
+    "desde": "09:01",
+    "ts": 1791374465699
    }
   ]
  },
@@ -189,17 +201,17 @@
   ]
  },
  "agora": {
-  "fila": 636,
-  "abertos": 704,
+  "fila": 637,
+  "abertos": 705,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 21287
+  "espera_media_s": 21249
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-05T15:26:03.779Z",
-  "min_sem_lead": 2671
+  "ultimo_lead_at": "2026-10-06T20:28:13.973Z",
+  "min_sem_lead": 944
  },
  "leads": [
   {
