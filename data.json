@@ -1,31 +1,40 @@
 {
- "gerado_em": "07/10/2026, 11:14",
+ "gerado_em": "07/10/2026, 11:29",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 2,
+  "total": 8,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 205,
-  "tickets_abertos": 708,
+  "mediana_geral": 0.4,
+  "leads_7d": 207,
+  "tickets_abertos": 709,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
-   "mediana_min": 0.5
+   "leads": 7,
+   "mediana_min": 0.4
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 0.3
   }
  ],
  "origem": {
-  "Anuncio": 6,
-  "Direto/Indicacao": 0
+  "Anuncio": 7,
+  "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/6rTfJfuWE",
+   "leads": 2
+  },
   {
    "url": "fb.me/4REn6vfcB",
    "leads": 1
@@ -43,38 +52,34 @@
    "leads": 1
   },
   {
-   "url": "fb.me/6rTfJfuWE",
-   "leads": 1
-  },
-  {
    "url": "fb.me/51bwe6es1",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 4,
-  "Nao identificada": 2
+  "Nao identificada": 4,
+  "Trabalhista": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 195,
-  "turnos": 404,
-  "respondidos": 399,
+  "grupos_ativos": 197,
+  "turnos": 409,
+  "respondidos": 404,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 68.4,
+  "mediana_min": 68.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 340,
+    "respostas": 344,
     "mediana_min": 63.6
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 31,
-    "mediana_min": 1184.7
+    "respostas": 32,
+    "mediana_min": 1162.5
    },
    {
     "nome": "Tiago Bernardo",
@@ -96,8 +101,8 @@
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "07/10",
-    "desde": "09:01",
-    "ts": 1791374465699
+    "desde": "11:17",
+    "ts": 1791382658945
    },
    {
     "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
@@ -185,8 +190,8 @@
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "07/10",
-    "desde": "09:01",
-    "ts": 1791374465699
+    "desde": "11:17",
+    "ts": 1791382658945
    }
   ]
  },
@@ -209,8 +214,8 @@
   ]
  },
  "agora": {
-  "fila": 638,
-  "abertos": 708,
+  "fila": 637,
+  "abertos": 709,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
@@ -218,10 +223,32 @@
   "espera_media_s": 21173
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-27T00:01:47.937Z",
-  "min_sem_lead": 59892
+  "ultimo_lead_at": "2026-10-07T14:24:17.844Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": ".Maria De Fátima  Barbosa",
+   "tel": "5584*****199",
+   "criado": "11:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6rTfJfuWE",
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "4784466241",
+   "tel": "5547*****241",
+   "criado": "11:21",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Hugo Leonardo De Lima Leo",
    "tel": "5583*****814",
