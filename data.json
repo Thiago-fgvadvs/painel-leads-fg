@@ -1,23 +1,23 @@
 {
- "gerado_em": "07/10/2026, 19:55",
+ "gerado_em": "07/10/2026, 20:10",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 28,
+  "total": 29,
   "no_sla": 20,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 8,
+  "fora_horario": 9,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 227,
-  "tickets_abertos": 706,
+  "leads_7d": 228,
+  "tickets_abertos": 707,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 26,
+   "leads": 27,
    "mediana_min": 0.4
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 24,
-  "Direto/Indicacao": 4
+  "Direto/Indicacao": 5
  },
  "criativos": [
   {
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 21,
+  "Trabalhista": 22,
   "Nao identificada": 6,
   "Previdenciario": 1
  },
@@ -251,19 +251,30 @@
   ]
  },
  "agora": {
-  "fila": 660,
-  "abertos": 706,
+  "fila": 661,
+  "abertos": 707,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 19384
+  "espera_media_s": 19349
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-07T22:35:46.983Z",
-  "min_sem_lead": 20
+  "ultimo_lead_at": "2026-10-07T23:08:31.781Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "5511952508995",
+   "tel": "5511*****995",
+   "criado": "20:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "5512996485902",
    "tel": "5512*****902",
