@@ -1,23 +1,23 @@
 {
- "gerado_em": "07/10/2026, 12:15",
+ "gerado_em": "07/10/2026, 12:30",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 4,
+  "total": 11,
+  "no_sla": 7,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 209,
-  "tickets_abertos": 707,
+  "leads_7d": 210,
+  "tickets_abertos": 709,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
+   "leads": 10,
    "mediana_min": 0.4
   },
   {
@@ -27,17 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 8,
-  "Direto/Indicacao": 1
+  "Anuncio": 9,
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
-   "url": "fb.me/6rTfJfuWE",
+   "url": "fb.me/7ZVZhwxMh",
    "leads": 2
   },
   {
-   "url": "fb.me/7ZVZhwxMh",
-   "leads": 1
+   "url": "fb.me/6rTfJfuWE",
+   "leads": 2
   },
   {
    "url": "fb.me/4REn6vfcB",
@@ -61,36 +61,29 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
-  "Nao identificada": 4
+  "Nao identificada": 5,
+  "Trabalhista": 6
  },
- "sem_resposta_lista": [
-  {
-   "nome": "Sonia Quintana",
-   "tel": "5515*****554",
-   "criado": "12:15",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 199,
-  "turnos": 419,
-  "respondidos": 416,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 66.1,
+  "turnos": 422,
+  "respondidos": 418,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 64.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 352,
+    "respostas": 353,
     "mediana_min": 61.9
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 33,
-    "mediana_min": 1140.2
+    "respostas": 34,
+    "mediana_min": 1119.4
    },
    {
     "nome": "Roseli",
@@ -109,6 +102,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
+    "dia": "07/10",
+    "desde": "12:16",
+    "ts": 1791386160114
+   },
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "07/10",
@@ -159,13 +158,6 @@
     "dia": "06/10",
     "desde": "13:09",
     "ts": 1791302945672
-   },
-   {
-    "nome": "Agnaldo Augusto da cruz A",
-    "tel": "5535*****117",
-    "dia": "07/10",
-    "desde": "12:15",
-    "ts": 1791386132426
    }
   ],
   "grupos": [
@@ -186,6 +178,12 @@
     "dia": "07/10",
     "desde": "11:17",
     "ts": 1791382658945
+   },
+   {
+    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
+    "dia": "07/10",
+    "desde": "12:16",
+    "ts": 1791386160114
    }
   ]
  },
@@ -208,26 +206,48 @@
   ]
  },
  "agora": {
-  "fila": 640,
-  "abertos": 707,
+  "fila": 642,
+  "abertos": 709,
   "com_atendimento": 3,
   "online": 2,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 21325
+  "espera_media_s": 21211
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-07T15:15:32.426Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 764651
  },
  "leads": [
+  {
+   "nome": "وسائط",
+   "tel": "5511*****845",
+   "criado": "12:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Agnaldo Augusto da cruz A",
+   "tel": "5535*****117",
+   "criado": "12:15",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Sonia Quintana",
    "tel": "5515*****554",
    "criado": "12:15",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
