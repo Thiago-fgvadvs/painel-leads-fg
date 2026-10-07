@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/10/2026, 16:06",
+ "gerado_em": "07/10/2026, 16:21",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -44,11 +44,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4MBhcZyUD",
+   "url": "fb.me/91elw2A2a",
    "leads": 1
   },
   {
-   "url": "fb.me/91elw2A2a",
+   "url": "fb.me/4MBhcZyUD",
    "leads": 1
   },
   {
@@ -65,30 +65,30 @@
   }
  ],
  "areas": {
-  "Previdenciario": 1,
   "Trabalhista": 12,
-  "Nao identificada": 6
+  "Nao identificada": 6,
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 234,
-  "turnos": 469,
-  "respondidos": 464,
+  "grupos_ativos": 236,
+  "turnos": 471,
+  "respondidos": 466,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 69.6,
+  "mediana_min": 68.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 382,
-    "mediana_min": 63.6
+    "respostas": 383,
+    "mediana_min": 63.4
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 49,
-    "mediana_min": 1344.6
+    "respostas": 50,
+    "mediana_min": 1331.4
    },
    {
     "nome": "Roseli",
@@ -108,6 +108,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
+    "dia": "07/10",
+    "desde": "06:00",
+    "ts": 1791363611393
+   },
+   {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "07/10",
     "desde": "13:50",
@@ -124,12 +130,6 @@
     "dia": "07/10",
     "desde": "11:17",
     "ts": 1791382658945
-   },
-   {
-    "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
-    "dia": "07/10",
-    "desde": "06:00",
-    "ts": 1791363611393
    },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
@@ -232,21 +232,10 @@
   "espera_media_s": 20576
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-07T19:03:35.113Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-10-07T17:14:56.155Z",
+  "min_sem_lead": 126
  },
  "leads": [
-  {
-   "nome": "5524992033058",
-   "tel": "5524*****058",
-   "criado": "16:03",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4MBhcZyUD",
-   "area": "Previdenciario"
-  },
   {
    "nome": "Mecho😘😘😘😘😘",
    "tel": "5595*****249",
@@ -257,6 +246,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/91elw2A2a",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Ohjapaa",
+   "tel": "5547*****241",
+   "criado": "11:21",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5524992033058",
+   "tel": "5524*****058",
+   "criado": "16:03",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Previdenciario"
   },
   {
    "nome": "وسائط",
@@ -378,17 +389,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Ohjapaa",
-   "tel": "5547*****241",
-   "criado": "11:21",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": ".Maria De Fátima  Barbosa",
