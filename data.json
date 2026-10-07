@@ -1,23 +1,23 @@
 {
- "gerado_em": "07/10/2026, 17:22",
+ "gerado_em": "07/10/2026, 17:38",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 21,
-  "no_sla": 17,
+  "total": 22,
+  "no_sla": 18,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 220,
-  "tickets_abertos": 718,
+  "leads_7d": 221,
+  "tickets_abertos": 699,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 17,
+  "Anuncio": 18,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -48,6 +48,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/505ajP5YC",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmVxjBsO69/",
    "leads": 1
   },
@@ -58,14 +62,10 @@
   {
    "url": "fb.me/91elw2A2a",
    "leads": 1
-  },
-  {
-   "url": "fb.me/51bwe6es1",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 14,
+  "Trabalhista": 15,
   "Nao identificada": 6,
   "Previdenciario": 1
  },
@@ -74,15 +74,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 237,
-  "turnos": 497,
-  "respondidos": 492,
+  "turnos": 499,
+  "respondidos": 494,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
   "mediana_min": 64.9,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 409,
+    "respostas": 411,
     "mediana_min": 59.4
    },
    {
@@ -108,10 +108,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "N.D.S.A.S x RENOWA TECNOLOGIA DE SERVICOS LTDA",
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "07/10",
-    "desde": "17:19",
-    "ts": 1791404365305
+    "desde": "17:25",
+    "ts": 1791404713314
    },
    {
     "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
@@ -197,21 +197,30 @@
     "ts": 1791386160114
    },
    {
-    "grupo": "N.D.S.A.S x RENOWA TECNOLOGIA DE SERVICOS LTDA",
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "07/10",
-    "desde": "17:19",
-    "ts": 1791404365305
+    "desde": "17:25",
+    "ts": 1791404713314
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 3,
+  "total": 4,
   "por_vendedor": {
-   "Roseli": 2,
-   "Tiago Bernardo": 1
+   "Tiago Bernardo": 2,
+   "Roseli": 2
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "K",
+    "dia": "07/10",
+    "hora": "17:31",
+    "ts": 1791405097994,
+    "origem": "Anúncio: instagram.com/p/DcmVxvcsgHO/",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "—",
@@ -242,17 +251,17 @@
   ]
  },
  "agora": {
-  "fila": 654,
-  "abertos": 718,
+  "fila": 657,
+  "abertos": 699,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 23995
+  "espera_media_s": 19555
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-19T08:43:26.101Z",
-  "min_sem_lead": 26619
+  "ultimo_lead_at": "2026-10-07T15:29:23.122Z",
+  "min_sem_lead": 309
  },
  "leads": [
   {
@@ -264,6 +273,17 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "556596092332",
+   "tel": "5565*****332",
+   "criado": "17:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/505ajP5YC",
    "area": "Trabalhista"
   },
   {
