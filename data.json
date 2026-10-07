@@ -1,17 +1,17 @@
 {
- "gerado_em": "07/10/2026, 12:00",
+ "gerado_em": "07/10/2026, 12:15",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
+  "total": 9,
   "no_sla": 4,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 207,
-  "tickets_abertos": 705,
+  "leads_7d": 209,
+  "tickets_abertos": 707,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 7,
+  "Anuncio": 8,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "fb.me/6rTfJfuWE",
    "leads": 2
+  },
+  {
+   "url": "fb.me/7ZVZhwxMh",
+   "leads": 1
   },
   {
    "url": "fb.me/4REn6vfcB",
@@ -57,19 +61,26 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 4
+  "Trabalhista": 5,
+  "Nao identificada": 4
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Sonia Quintana",
+   "tel": "5515*****554",
+   "criado": "12:15",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 199,
-  "turnos": 417,
-  "respondidos": 412,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 64.6,
+  "turnos": 419,
+  "respondidos": 416,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 66.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -78,13 +89,13 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 32,
-    "mediana_min": 1162.5
+    "respostas": 33,
+    "mediana_min": 1140.2
    },
    {
     "nome": "Roseli",
-    "respostas": 10,
-    "mediana_min": 1.4
+    "respostas": 13,
+    "mediana_min": 4
    },
    {
     "nome": "Tiago Bernardo",
@@ -99,12 +110,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
-    "dia": "06/10",
-    "desde": "18:00",
-    "ts": 1791320437505
-   },
-   {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "07/10",
     "desde": "11:17",
@@ -115,12 +120,6 @@
     "dia": "07/10",
     "desde": "06:00",
     "ts": 1791363611393
-   },
-   {
-    "grupo": "V.A.D.S x GRUPO CASAS BAHIA S.A.",
-    "dia": "06/10",
-    "desde": "13:38",
-    "ts": 1791304730945
    },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
@@ -160,6 +159,13 @@
     "dia": "06/10",
     "desde": "13:09",
     "ts": 1791302945672
+   },
+   {
+    "nome": "Agnaldo Augusto da cruz A",
+    "tel": "5535*****117",
+    "dia": "07/10",
+    "desde": "12:15",
+    "ts": 1791386132426
    }
   ],
   "grupos": [
@@ -168,18 +174,6 @@
     "dia": "05/10",
     "desde": "09:25",
     "ts": 1791203150371
-   },
-   {
-    "grupo": "V.A.D.S x GRUPO CASAS BAHIA S.A.",
-    "dia": "06/10",
-    "desde": "13:38",
-    "ts": 1791304730945
-   },
-   {
-    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
-    "dia": "06/10",
-    "desde": "18:00",
-    "ts": 1791320437505
    },
    {
     "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
@@ -214,19 +208,30 @@
   ]
  },
  "agora": {
-  "fila": 638,
-  "abertos": 705,
+  "fila": 640,
+  "abertos": 707,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 21364
+  "ausentes": 1,
+  "espera_media_s": 21325
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T00:37:04.850Z",
-  "min_sem_lead": 82943
+  "ultimo_lead_at": "2026-10-07T15:15:32.426Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "Sonia Quintana",
+   "tel": "5515*****554",
+   "criado": "12:15",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "4784466241",
    "tel": "5547*****241",
