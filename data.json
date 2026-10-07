@@ -1,17 +1,17 @@
 {
- "gerado_em": "07/10/2026, 13:32",
+ "gerado_em": "07/10/2026, 13:47",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 7,
+  "total": 12,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 210,
-  "tickets_abertos": 711,
+  "leads_7d": 211,
+  "tickets_abertos": 714,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 9,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -61,24 +61,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
-  "Nao identificada": 4
+  "Nao identificada": 5,
+  "Trabalhista": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 200,
-  "turnos": 431,
-  "respondidos": 427,
+  "turnos": 433,
+  "respondidos": 429,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 67.4,
+  "mediana_min": 67.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 361,
-    "mediana_min": 62.8
+    "respostas": 363,
+    "mediana_min": 63.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -206,19 +206,30 @@
   ]
  },
  "agora": {
-  "fila": 642,
-  "abertos": 711,
+  "fila": 645,
+  "abertos": 714,
   "com_atendimento": 3,
   "online": 2,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 21211
+  "espera_media_s": 21173
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T16:09:33.830Z",
-  "min_sem_lead": 764662
+  "ultimo_lead_at": "2026-08-25T15:28:35.418Z",
+  "min_sem_lead": 61999
  },
  "leads": [
+  {
+   "nome": "CORRESPONDENTE Ana Luiza Bezerra Leite",
+   "tel": "5584*****866",
+   "criado": "13:42",
+   "atendente": "—",
+   "espera_min": 0,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "وسائط",
    "tel": "5511*****845",
