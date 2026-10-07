@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/10/2026, 17:07",
+ "gerado_em": "07/10/2026, 17:22",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 220,
-  "tickets_abertos": 720,
+  "tickets_abertos": 718,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -73,17 +73,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 236,
-  "turnos": 488,
-  "respondidos": 483,
+  "grupos_ativos": 237,
+  "turnos": 497,
+  "respondidos": 492,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 67.8,
+  "mediana_min": 64.9,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 400,
-    "mediana_min": 61.9
+    "respostas": 409,
+    "mediana_min": 59.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -108,10 +108,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "grupo": "N.D.S.A.S x RENOWA TECNOLOGIA DE SERVICOS LTDA",
     "dia": "07/10",
-    "desde": "17:06",
-    "ts": 1791403564232
+    "desde": "17:19",
+    "ts": 1791404365305
    },
    {
     "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
@@ -197,21 +197,30 @@
     "ts": 1791386160114
    },
    {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "grupo": "N.D.S.A.S x RENOWA TECNOLOGIA DE SERVICOS LTDA",
     "dia": "07/10",
-    "desde": "17:06",
-    "ts": 1791403564232
+    "desde": "17:19",
+    "ts": 1791404365305
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 2,
+  "total": 3,
   "por_vendedor": {
-   "Roseli": 1,
+   "Roseli": 2,
    "Tiago Bernardo": 1
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "—",
+    "dia": "07/10",
+    "hora": "17:17",
+    "ts": 1791404243621,
+    "origem": "Indicação",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Roseli",
     "cliente": "F.G.F",
@@ -234,16 +243,16 @@
  },
  "agora": {
   "fila": 654,
-  "abertos": 720,
+  "abertos": 718,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 23868
+  "espera_media_s": 23995
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-07T15:29:23.122Z",
-  "min_sem_lead": 278
+  "ultimo_lead_at": "2026-09-19T08:43:26.101Z",
+  "min_sem_lead": 26619
  },
  "leads": [
   {
