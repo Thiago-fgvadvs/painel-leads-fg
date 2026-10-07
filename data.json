@@ -1,23 +1,23 @@
 {
- "gerado_em": "07/10/2026, 14:49",
+ "gerado_em": "07/10/2026, 15:04",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
-  "no_sla": 12,
+  "total": 17,
+  "no_sla": 13,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 215,
-  "tickets_abertos": 721,
+  "leads_7d": 216,
+  "tickets_abertos": 722,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 14,
+   "leads": 15,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "fb.me/6rTfJfuWE",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/Ddra228Mi5K/",
+   "leads": 1
   },
   {
    "url": "fb.me/51bwe6es1",
@@ -58,15 +62,11 @@
   {
    "url": "fb.me/4REn6vfcB",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4cT7G29HU",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 11,
-  "Nao identificada": 5
+  "Nao identificada": 6,
+  "Trabalhista": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -222,19 +222,30 @@
   ]
  },
  "agora": {
-  "fila": 651,
-  "abertos": 721,
+  "fila": 652,
+  "abertos": 722,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 21023
+  "espera_media_s": 20957
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-28T13:20:45.483Z",
-  "min_sem_lead": 13228
+  "min_sem_lead": 13244
  },
  "leads": [
+  {
+   "nome": "Hellen",
+   "tel": "5511*****367",
+   "criado": "15:02",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Ddra228Mi5K/",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Alessandra Lins",
    "tel": "5511*****910",
