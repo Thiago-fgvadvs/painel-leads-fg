@@ -1,31 +1,35 @@
 {
- "gerado_em": "07/10/2026, 07:25",
+ "gerado_em": "07/10/2026, 07:40",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
+  "total": 4,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 3,
+  "fora_horario": 4,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 202,
-  "tickets_abertos": 703,
+  "leads_7d": 203,
+  "tickets_abertos": 704,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 3,
+   "leads": 4,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/52gWxMmYQ",
+   "leads": 1
+  },
   {
    "url": "fb.me/f5q0zJBsc",
    "leads": 1
@@ -40,8 +44,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 1
+  "Trabalhista": 2,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -185,19 +189,30 @@
   ]
  },
  "agora": {
-  "fila": 635,
-  "abertos": 703,
+  "fila": 636,
+  "abertos": 704,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 21325
+  "espera_media_s": 21287
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 764346
+  "ultimo_lead_at": "2026-10-06T20:28:13.973Z",
+  "min_sem_lead": 852
  },
  "leads": [
+  {
+   "nome": "5511987088321",
+   "tel": "5511*****321",
+   "criado": "07:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/52gWxMmYQ",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Clemilda",
    "tel": "5532*****735",
