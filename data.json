@@ -1,23 +1,23 @@
 {
- "gerado_em": "07/10/2026, 16:36",
+ "gerado_em": "07/10/2026, 16:52",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 15,
+  "total": 21,
+  "no_sla": 17,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 218,
-  "tickets_abertos": 723,
+  "leads_7d": 220,
+  "tickets_abertos": 726,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 17,
+   "leads": 19,
    "mediana_min": 0.4
   },
   {
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 15,
+  "Anuncio": 17,
   "Direto/Indicacao": 4
  },
  "criativos": [
+  {
+   "url": "fb.me/6AFbdEcuS",
+   "leads": 2
+  },
   {
    "url": "fb.me/875plPmzH",
    "leads": 2
@@ -44,6 +48,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcmVxjBsO69/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/91elw2A2a",
    "leads": 1
   },
@@ -54,19 +62,11 @@
   {
    "url": "fb.me/4MBhcZyUD",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4REn6vfcB",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/Ddra228Mi5K/",
-   "leads": 1
   }
  ],
  "areas": {
+  "Trabalhista": 14,
   "Nao identificada": 6,
-  "Trabalhista": 12,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -74,16 +74,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 236,
-  "turnos": 475,
-  "respondidos": 470,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "turnos": 480,
+  "respondidos": 476,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
   "mediana_min": 68.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 387,
-    "mediana_min": 61.9
+    "respostas": 393,
+    "mediana_min": 63.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -107,12 +107,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
-    "dia": "07/10",
-    "desde": "13:50",
-    "ts": 1791391804390
-   },
    {
     "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
     "dia": "07/10",
@@ -195,12 +189,6 @@
     "dia": "07/10",
     "desde": "12:16",
     "ts": 1791386160114
-   },
-   {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
-    "dia": "07/10",
-    "desde": "13:50",
-    "ts": 1791391804390
    }
   ]
  },
@@ -223,29 +211,40 @@
   ]
  },
  "agora": {
-  "fila": 652,
-  "abertos": 723,
+  "fila": 655,
+  "abertos": 726,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 20576
+  "espera_media_s": 23659
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-07T14:21:36.614Z",
-  "min_sem_lead": 315
+  "ultimo_lead_at": "2026-10-07T19:39:53.693Z",
+  "min_sem_lead": 12
  },
  "leads": [
   {
-   "nome": "Ohjapaa",
-   "tel": "5547*****241",
-   "criado": "11:21",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 0.3,
+   "nome": "Roberto",
+   "tel": "5551*****067",
+   "criado": "16:39",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
    "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmVxjBsO69/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "559185595488",
+   "tel": "5591*****488",
+   "criado": "16:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6AFbdEcuS",
+   "area": "Trabalhista"
   },
   {
    "nome": "Mecho😘😘😘😘😘",
@@ -257,6 +256,28 @@
    "origem": "Anuncio",
    "criativo": "fb.me/91elw2A2a",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "وسائط",
+   "tel": "5511*****845",
+   "criado": "12:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ohjapaa",
+   "tel": "5547*****241",
+   "criado": "11:21",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Alessandra Lins",
@@ -279,17 +300,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4MBhcZyUD",
    "area": "Previdenciario"
-  },
-  {
-   "nome": "وسائط",
-   "tel": "5511*****845",
-   "criado": "12:29",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
   },
   {
    "nome": "Zelador",
