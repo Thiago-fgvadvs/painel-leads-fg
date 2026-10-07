@@ -1,23 +1,23 @@
 {
- "gerado_em": "07/10/2026, 19:09",
+ "gerado_em": "07/10/2026, 19:25",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
+  "total": 26,
   "no_sla": 20,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 4,
+  "sem_resposta": 0,
+  "fora_horario": 6,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 224,
-  "tickets_abertos": 702,
+  "leads_7d": 225,
+  "tickets_abertos": 704,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 22,
+   "leads": 24,
    "mediana_min": 0.4
   },
   {
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 21,
+  "Anuncio": 22,
   "Direto/Indicacao": 4
  },
  "criativos": [
+  {
+   "url": "fb.me/4MBhcZyUD",
+   "leads": 2
+  },
   {
    "url": "fb.me/91elw2A2a",
    "leads": 2
@@ -58,25 +62,14 @@
   {
    "url": "www.instagram.com/p/DcmVxjBsO69/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmW5hLM3NO/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 18,
+  "Trabalhista": 19,
   "Nao identificada": 6,
   "Previdenciario": 1
  },
- "sem_resposta_lista": [
-  {
-   "nome": "558189881002",
-   "tel": "5581*****002",
-   "criado": "19:09",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -176,13 +169,6 @@
     "dia": "06/10",
     "desde": "13:09",
     "ts": 1791302945672
-   },
-   {
-    "nome": "558189881002",
-    "tel": "5581*****002",
-    "dia": "07/10",
-    "desde": "19:09",
-    "ts": 1791410944716
    }
   ],
   "grupos": [
@@ -265,26 +251,37 @@
   ]
  },
  "agora": {
-  "fila": 656,
-  "abertos": 702,
+  "fila": 658,
+  "abertos": 704,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 19525
+  "espera_media_s": 19454
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-07T22:09:04.716Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-10-07T22:18:18.230Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "5511932210276",
+   "tel": "5511*****276",
+   "criado": "19:18",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558189881002",
    "tel": "5581*****002",
    "criado": "19:09",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/91elw2A2a",
    "area": "Trabalhista"
