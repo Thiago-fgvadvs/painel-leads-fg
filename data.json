@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/10/2026, 16:52",
+ "gerado_em": "07/10/2026, 17:07",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 220,
-  "tickets_abertos": 726,
+  "tickets_abertos": 720,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -52,15 +52,15 @@
    "leads": 1
   },
   {
+   "url": "fb.me/4REn6vfcB",
+   "leads": 1
+  },
+  {
    "url": "fb.me/91elw2A2a",
    "leads": 1
   },
   {
    "url": "fb.me/51bwe6es1",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/4MBhcZyUD",
    "leads": 1
   }
  ],
@@ -74,16 +74,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 236,
-  "turnos": 480,
-  "respondidos": 476,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 68.3,
+  "turnos": 488,
+  "respondidos": 483,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 67.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 393,
-    "mediana_min": 63.4
+    "respostas": 400,
+    "mediana_min": 61.9
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -107,6 +107,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "dia": "07/10",
+    "desde": "17:06",
+    "ts": 1791403564232
+   },
    {
     "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
     "dia": "07/10",
@@ -189,16 +195,32 @@
     "dia": "07/10",
     "desde": "12:16",
     "ts": 1791386160114
+   },
+   {
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "dia": "07/10",
+    "desde": "17:06",
+    "ts": 1791403564232
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 1,
+  "total": 2,
   "por_vendedor": {
+   "Roseli": 1,
    "Tiago Bernardo": 1
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "F.G.F",
+    "dia": "07/10",
+    "hora": "17:03",
+    "ts": 1791403415593,
+    "origem": "Anúncio: fb.me/4LXdMV2Fn",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "F.D",
@@ -211,19 +233,30 @@
   ]
  },
  "agora": {
-  "fila": 655,
-  "abertos": 726,
+  "fila": 654,
+  "abertos": 720,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 23659
+  "espera_media_s": 23868
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-07T19:39:53.693Z",
-  "min_sem_lead": 12
+  "ultimo_lead_at": "2026-10-07T15:29:23.122Z",
+  "min_sem_lead": 278
  },
  "leads": [
+  {
+   "nome": "وسائط",
+   "tel": "5511*****845",
+   "criado": "12:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "Roberto",
    "tel": "5551*****067",
@@ -236,7 +269,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "559185595488",
+   "nome": "Dione Pantoja",
    "tel": "5591*****488",
    "criado": "16:46",
    "atendente": "FG Advogados - Isadora ",
@@ -244,6 +277,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/6AFbdEcuS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Hugo Leonardo De Lima Leo",
+   "tel": "5583*****814",
+   "criado": "10:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4REn6vfcB",
    "area": "Trabalhista"
   },
   {
@@ -255,17 +299,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/91elw2A2a",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "وسائط",
-   "tel": "5511*****845",
-   "criado": "12:29",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -310,17 +343,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Hugo Leonardo De Lima Leo",
-   "tel": "5583*****814",
-   "criado": "10:25",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4REn6vfcB",
    "area": "Trabalhista"
   },
   {
