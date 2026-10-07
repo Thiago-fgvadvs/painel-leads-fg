@@ -1,23 +1,23 @@
 {
- "gerado_em": "07/10/2026, 20:10",
+ "gerado_em": "07/10/2026, 20:26",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 29,
+  "total": 31,
   "no_sla": 20,
   "fora_sla": 0,
-  "sem_resposta": 0,
-  "fora_horario": 9,
+  "sem_resposta": 1,
+  "fora_horario": 10,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 228,
-  "tickets_abertos": 707,
+  "leads_7d": 230,
+  "tickets_abertos": 710,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 27,
+   "leads": 28,
    "mediana_min": 0.4
   },
   {
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 24,
+  "Anuncio": 26,
   "Direto/Indicacao": 5
  },
  "criativos": [
   {
    "url": "fb.me/875plPmzH",
    "leads": 3
+  },
+  {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 2
   },
   {
    "url": "fb.me/4MBhcZyUD",
@@ -58,18 +62,21 @@
   {
    "url": "fb.me/6rTfJfuWE",
    "leads": 2
-  },
-  {
-   "url": "fb.me/51bwe6es1",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 22,
-  "Nao identificada": 6,
+  "Nao identificada": 7,
+  "Trabalhista": 23,
   "Previdenciario": 1
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Gilclecia",
+   "tel": "5584*****998",
+   "criado": "20:25",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -169,6 +176,13 @@
     "dia": "06/10",
     "desde": "13:09",
     "ts": 1791302945672
+   },
+   {
+    "nome": "Gilclecia",
+    "tel": "5584*****998",
+    "dia": "07/10",
+    "desde": "20:25",
+    "ts": 1791415550492
    }
   ],
   "grupos": [
@@ -251,29 +265,29 @@
   ]
  },
  "agora": {
-  "fila": 661,
-  "abertos": 707,
+  "fila": 664,
+  "abertos": 710,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 19349
+  "espera_media_s": 19280
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-07T23:08:31.781Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-10-07T23:25:50.492Z",
+  "min_sem_lead": 0
  },
  "leads": [
   {
-   "nome": "5511952508995",
-   "tel": "5511*****995",
-   "criado": "20:08",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
+   "nome": "Gilclecia",
+   "tel": "5584*****998",
+   "criado": "20:25",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Ddrs2wCsBTM/",
+   "area": "Nao identificada"
   },
   {
    "nome": "5512996485902",
@@ -284,6 +298,28 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554192231994",
+   "tel": "5541*****994",
+   "criado": "20:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5511952508995",
+   "tel": "5511*****995",
+   "criado": "20:08",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Trabalhista"
   },
   {
