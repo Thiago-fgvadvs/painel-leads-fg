@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/10/2026, 13:01",
+ "gerado_em": "07/10/2026, 13:16",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 210,
-  "tickets_abertos": 711,
+  "tickets_abertos": 712,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -69,16 +69,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 200,
-  "turnos": 424,
-  "respondidos": 420,
+  "turnos": 426,
+  "respondidos": 422,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 66.1,
+  "mediana_min": 67.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 355,
-    "mediana_min": 61.9
+    "respostas": 357,
+    "mediana_min": 62.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -207,29 +207,18 @@
  },
  "agora": {
   "fila": 643,
-  "abertos": 711,
+  "abertos": 712,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 1,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 21173
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-16T12:50:50.881Z",
-  "min_sem_lead": 119711
+  "ultimo_lead_at": "2026-09-28T13:20:45.483Z",
+  "min_sem_lead": 13136
  },
  "leads": [
-  {
-   "nome": "Hugo Leonardo De Lima Leo",
-   "tel": "5583*****814",
-   "criado": "10:25",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/4REn6vfcB",
-   "area": "Trabalhista"
-  },
   {
    "nome": "وسائط",
    "tel": "5511*****845",
@@ -253,6 +242,17 @@
    "area": "Trabalhista"
   },
   {
+   "nome": "Hugo Leonardo De Lima Leo",
+   "tel": "5583*****814",
+   "criado": "10:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4REn6vfcB",
+   "area": "Trabalhista"
+  },
+  {
    "nome": "Sonia Quintana",
    "tel": "5515*****554",
    "criado": "12:15",
@@ -264,7 +264,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "4784466241",
+   "nome": "Ohjapaa",
    "tel": "5547*****241",
    "criado": "11:21",
    "atendente": "Tiago Bernardo",
@@ -297,7 +297,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5511987088321",
+   "nome": ".",
    "tel": "5511*****321",
    "criado": "07:28",
    "atendente": "FG Advogados - Isadora ",
