@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/10/2026, 11:44",
+ "gerado_em": "07/10/2026, 12:00",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 207,
-  "tickets_abertos": 709,
+  "tickets_abertos": 705,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -65,16 +65,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 199,
-  "turnos": 414,
-  "respondidos": 409,
+  "turnos": 417,
+  "respondidos": 412,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 67.4,
+  "mediana_min": 64.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 349,
-    "mediana_min": 62.8
+    "respostas": 352,
+    "mediana_min": 61.9
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -82,14 +82,14 @@
     "mediana_min": 1162.5
    },
    {
-    "nome": "Tiago Bernardo",
-    "respostas": 10,
-    "mediana_min": 1
-   },
-   {
     "nome": "Roseli",
     "respostas": 10,
     "mediana_min": 1.4
+   },
+   {
+    "nome": "Tiago Bernardo",
+    "respostas": 10,
+    "mediana_min": 1
    },
    {
     "nome": "—",
@@ -98,6 +98,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
+    "dia": "06/10",
+    "desde": "18:00",
+    "ts": 1791320437505
+   },
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "07/10",
@@ -109,12 +115,6 @@
     "dia": "07/10",
     "desde": "06:00",
     "ts": 1791363611393
-   },
-   {
-    "grupo": "F.G.F x REDE DOM PEDRO DE POSTOS LTDA",
-    "dia": "06/10",
-    "desde": "18:00",
-    "ts": 1791320437505
    },
    {
     "grupo": "V.A.D.S x GRUPO CASAS BAHIA S.A.",
@@ -215,16 +215,16 @@
  },
  "agora": {
   "fila": 638,
-  "abertos": 709,
+  "abertos": 705,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 21211
+  "ausentes": 0,
+  "espera_media_s": 21364
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-05T11:35:28.266Z",
-  "min_sem_lead": 3069
+  "ultimo_lead_at": "2026-08-11T00:37:04.850Z",
+  "min_sem_lead": 82943
  },
  "leads": [
   {
