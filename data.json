@@ -1,23 +1,23 @@
 {
- "gerado_em": "07/10/2026, 18:23",
+ "gerado_em": "07/10/2026, 18:39",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 23,
-  "no_sla": 19,
+  "total": 24,
+  "no_sla": 20,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 222,
-  "tickets_abertos": 697,
+  "leads_7d": 223,
+  "tickets_abertos": 698,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 21,
+   "leads": 22,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 19,
+  "Anuncio": 20,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -52,20 +52,20 @@
    "leads": 2
   },
   {
-   "url": "fb.me/51bwe6es1",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DcmVxjBsO69/",
    "leads": 1
   },
   {
-   "url": "fb.me/4REn6vfcB",
+   "url": "www.instagram.com/p/DcmW5hLM3NO/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/51bwe6es1",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 16,
+  "Trabalhista": 17,
   "Nao identificada": 6,
   "Previdenciario": 1
  },
@@ -251,30 +251,19 @@
   ]
  },
  "agora": {
-  "fila": 656,
-  "abertos": 697,
+  "fila": 655,
+  "abertos": 698,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 19626
+  "espera_media_s": 19561
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-07T15:29:23.122Z",
-  "min_sem_lead": 354
+  "ultimo_lead_at": "2026-10-01T21:50:06.097Z",
+  "min_sem_lead": 8629
  },
  "leads": [
-  {
-   "nome": "وسائط",
-   "tel": "5511*****845",
-   "criado": "12:29",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
   {
    "nome": "558189322367",
    "tel": "5581*****367",
@@ -284,28 +273,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/505ajP5YC",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Alessandra Lins",
-   "tel": "5511*****910",
-   "criado": "00:14",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/51bwe6es1",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Dione Pantoja",
-   "tel": "5591*****488",
-   "criado": "16:46",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6AFbdEcuS",
    "area": "Trabalhista"
   },
   {
@@ -320,7 +287,51 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556596092332",
+   "nome": "Dione Pantoja",
+   "tel": "5591*****488",
+   "criado": "16:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6AFbdEcuS",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558196561835",
+   "tel": "5581*****835",
+   "criado": "18:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "وسائط",
+   "tel": "5511*****845",
+   "criado": "12:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Alessandra Lins",
+   "tel": "5511*****910",
+   "criado": "00:14",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/51bwe6es1",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Pertonilho",
    "tel": "5565*****332",
    "criado": "17:28",
    "atendente": "FG Advogados - Isadora ",
