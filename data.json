@@ -1,23 +1,23 @@
 {
- "gerado_em": "06/10/2026, 21:24",
+ "gerado_em": "06/10/2026, 21:39",
  "data_ref": "06/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 34,
+  "total": 35,
   "no_sla": 22,
   "fora_sla": 1,
   "sem_resposta": 1,
-  "fora_horario": 10,
+  "fora_horario": 11,
   "pct_sla": 96,
   "mediana_geral": 0.4,
-  "leads_7d": 223,
-  "tickets_abertos": 691,
+  "leads_7d": 224,
+  "tickets_abertos": 692,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 28,
+   "leads": 29,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 27,
+  "Anuncio": 28,
   "Direto/Indicacao": 7
  },
  "criativos": [
@@ -48,6 +48,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/4cT7G29HU",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
   },
@@ -58,14 +62,10 @@
   {
    "url": "www.instagram.com/p/DcmVrByMck7/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/6hFKXqtBv",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 23,
+  "Trabalhista": 24,
   "Nao identificada": 11
  },
  "sem_resposta_lista": [
@@ -233,19 +233,30 @@
   ]
  },
  "agora": {
-  "fila": 623,
-  "abertos": 691,
+  "fila": 624,
+  "abertos": 692,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 21795
+  "espera_media_s": 21755
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-06T23:35:53.143Z",
-  "min_sem_lead": 49
+  "ultimo_lead_at": "2026-10-05T20:15:56.473Z",
+  "min_sem_lead": 1704
  },
  "leads": [
+  {
+   "nome": "554195893432",
+   "tel": "5541*****432",
+   "criado": "21:37",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4cT7G29HU",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Geralda Lima Vani",
    "tel": "5522*****598",
