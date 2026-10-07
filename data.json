@@ -1,17 +1,17 @@
 {
- "gerado_em": "07/10/2026, 18:54",
+ "gerado_em": "07/10/2026, 19:09",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
+  "total": 25,
   "no_sla": 20,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 223,
-  "tickets_abertos": 698,
+  "leads_7d": 224,
+  "tickets_abertos": 702,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,10 +27,14 @@
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 4
  },
  "criativos": [
+  {
+   "url": "fb.me/91elw2A2a",
+   "leads": 2
+  },
   {
    "url": "fb.me/505ajP5YC",
    "leads": 2
@@ -58,27 +62,30 @@
   {
    "url": "www.instagram.com/p/DcmW5hLM3NO/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/51bwe6es1",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 17,
+  "Trabalhista": 18,
   "Nao identificada": 6,
   "Previdenciario": 1
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "558189881002",
+   "tel": "5581*****002",
+   "criado": "19:09",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 240,
-  "turnos": 504,
-  "respondidos": 499,
+  "turnos": 508,
+  "respondidos": 503,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 64.7,
+  "mediana_min": 65.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -87,8 +94,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 51,
-    "mediana_min": 1318.1
+    "respostas": 55,
+    "mediana_min": 1184.7
    },
    {
     "nome": "Roseli",
@@ -169,6 +176,13 @@
     "dia": "06/10",
     "desde": "13:09",
     "ts": 1791302945672
+   },
+   {
+    "nome": "558189881002",
+    "tel": "5581*****002",
+    "dia": "07/10",
+    "desde": "19:09",
+    "ts": 1791410944716
    }
   ],
   "grupos": [
@@ -251,19 +265,30 @@
   ]
  },
  "agora": {
-  "fila": 653,
-  "abertos": 698,
+  "fila": 656,
+  "abertos": 702,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 19561
+  "espera_media_s": 19525
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-04T03:28:16.813Z",
-  "min_sem_lead": 5426
+  "ultimo_lead_at": "2026-10-07T22:09:04.716Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "558189881002",
+   "tel": "5581*****002",
+   "criado": "19:09",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558189322367",
    "tel": "5581*****367",
