@@ -1,5 +1,5 @@
 {
- "gerado_em": "07/10/2026, 11:29",
+ "gerado_em": "07/10/2026, 11:44",
  "data_ref": "07/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -64,17 +64,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 197,
-  "turnos": 409,
-  "respondidos": 404,
+  "grupos_ativos": 199,
+  "turnos": 414,
+  "respondidos": 409,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 68.1,
+  "mediana_min": 67.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 344,
-    "mediana_min": 63.6
+    "respostas": 349,
+    "mediana_min": 62.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -214,30 +214,19 @@
   ]
  },
  "agora": {
-  "fila": 637,
+  "fila": 638,
   "abertos": 709,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 21173
+  "ausentes": 1,
+  "espera_media_s": 21211
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-07T14:24:17.844Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2026-10-05T11:35:28.266Z",
+  "min_sem_lead": 3069
  },
  "leads": [
-  {
-   "nome": ".Maria De Fátima  Barbosa",
-   "tel": "5584*****199",
-   "criado": "11:24",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6rTfJfuWE",
-   "area": "Nao identificada"
-  },
   {
    "nome": "4784466241",
    "tel": "5547*****241",
@@ -259,6 +248,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/4REn6vfcB",
    "area": "Trabalhista"
+  },
+  {
+   "nome": ".Maria De Fátima  Barbosa",
+   "tel": "5584*****199",
+   "criado": "11:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6rTfJfuWE",
+   "area": "Nao identificada"
   },
   {
    "nome": "Glaucia",
