@@ -1,5 +1,5 @@
 {
- "gerado_em": "08/10/2026, 13:35",
+ "gerado_em": "08/10/2026, 13:50",
  "data_ref": "08/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 222,
-  "tickets_abertos": 732,
+  "tickets_abertos": 733,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -269,19 +269,30 @@
   ]
  },
  "agora": {
-  "fila": 677,
-  "abertos": 732,
+  "fila": 678,
+  "abertos": 733,
   "com_atendimento": 3,
-  "online": 1,
-  "offline": 2,
+  "online": 2,
+  "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 18579
+  "espera_media_s": 18547
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-19T16:20:27.101Z",
-  "min_sem_lead": 292335
+  "ultimo_lead_at": "2026-08-09T01:26:26.385Z",
+  "min_sem_lead": 87324
  },
  "leads": [
+  {
+   "nome": "paullo cardosso -保罗",
+   "tel": "5555*****027",
+   "criado": "12:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Adriano",
    "tel": "5524*****660",
@@ -324,17 +335,6 @@
    "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "paullo cardosso -保罗",
-   "tel": "5555*****027",
-   "criado": "12:24",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/875plPmzH",
    "area": "Trabalhista"
   },
   {
