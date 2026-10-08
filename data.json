@@ -1,5 +1,5 @@
 {
- "gerado_em": "08/10/2026, 11:32",
+ "gerado_em": "08/10/2026, 11:47",
  "data_ref": "08/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -60,24 +60,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
-  "Nao identificada": 2
+  "Nao identificada": 2,
+  "Trabalhista": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 224,
-  "turnos": 449,
-  "respondidos": 444,
+  "turnos": 454,
+  "respondidos": 449,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 68.3,
+  "mediana_min": 67.9,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 368,
-    "mediana_min": 64.6
+    "respostas": 373,
+    "mediana_min": 63.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -238,7 +238,7 @@
   ]
  },
  "agora": {
-  "fila": 675,
+  "fila": 673,
   "abertos": 727,
   "com_atendimento": 3,
   "online": 3,
@@ -247,21 +247,10 @@
   "espera_media_s": 18708
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-10T17:21:14.162Z",
-  "min_sem_lead": 305111
+  "ultimo_lead_at": "2026-08-03T13:03:37.723Z",
+  "min_sem_lead": 95144
  },
  "leads": [
-  {
-   "nome": "Reynaldo Reiis",
-   "tel": "5512*****069",
-   "criado": "08:42",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/91elw2A2a",
-   "area": "Trabalhista"
-  },
   {
    "nome": "554791847527",
    "tel": "5547*****527",
@@ -272,6 +261,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Reynaldo Reiis",
+   "tel": "5512*****069",
+   "criado": "08:42",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
   },
   {
    "nome": "Mestre Pezão",
