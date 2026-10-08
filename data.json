@@ -1,23 +1,23 @@
 {
- "gerado_em": "08/10/2026, 17:24",
+ "gerado_em": "08/10/2026, 17:40",
  "data_ref": "08/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
-  "no_sla": 13,
-  "fora_sla": 1,
-  "sem_resposta": 3,
+  "total": 25,
+  "no_sla": 14,
+  "fora_sla": 3,
+  "sem_resposta": 1,
   "fora_horario": 7,
-  "pct_sla": 93,
+  "pct_sla": 82,
   "mediana_geral": 0.5,
-  "leads_7d": 231,
-  "tickets_abertos": 743,
+  "leads_7d": 232,
+  "tickets_abertos": 744,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 23,
    "mediana_min": 0.5
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 23,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -37,7 +37,7 @@
   },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "fb.me/91elw2A2a",
@@ -52,11 +52,11 @@
    "leads": 2
   },
   {
-   "url": "fb.me/4MBhcZyUD",
+   "url": "fb.me/57zIOsZXG",
    "leads": 1
   },
   {
-   "url": "fb.me/57zIOsZXG",
+   "url": "fb.me/4MBhcZyUD",
    "leads": 1
   },
   {
@@ -65,22 +65,10 @@
   }
  ],
  "areas": {
-  "Trabalhista": 19,
+  "Trabalhista": 20,
   "Nao identificada": 5
  },
  "sem_resposta_lista": [
-  {
-   "nome": "557799912960",
-   "tel": "5577*****960",
-   "criado": "16:23",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Immo Mukeba 🇨🇩🇦🇴🇧🇷🇺🇸",
-   "tel": "2449*****262",
-   "criado": "16:16",
-   "area": "Trabalhista"
-  },
   {
    "nome": "5512982944426",
    "tel": "5512*****426",
@@ -89,6 +77,20 @@
   }
  ],
  "fora_sla_lista": [
+  {
+   "nome": "Immo Mukeba 🇨🇩🇦🇴🇧🇷🇺🇸",
+   "tel": "2449*****262",
+   "criado": "16:16",
+   "espera_min": 73.5,
+   "atendente": "FG Advogados - Isadora "
+  },
+  {
+   "nome": "557799912960",
+   "tel": "5577*****960",
+   "criado": "16:23",
+   "espera_min": 66.3,
+   "atendente": "FG Advogados - Isadora "
+  },
   {
    "nome": "Julia Rodrigues ❤️",
    "tel": "5516*****288",
@@ -100,16 +102,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 234,
-  "turnos": 497,
-  "respondidos": 491,
+  "turnos": 501,
+  "respondidos": 495,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 64.7,
+  "mediana_min": 64.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 413,
-    "mediana_min": 59.4
+    "respostas": 417,
+    "mediana_min": 57.9
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -201,20 +203,6 @@
     "dia": "08/10",
     "desde": "14:02",
     "ts": 1791478948635
-   },
-   {
-    "nome": "Immo Mukeba 🇨🇩🇦🇴🇧🇷🇺🇸",
-    "tel": "2449*****262",
-    "dia": "08/10",
-    "desde": "16:16",
-    "ts": 1791486999745
-   },
-   {
-    "nome": "557799912960",
-    "tel": "5577*****960",
-    "dia": "08/10",
-    "desde": "16:23",
-    "ts": 1791487435197
    }
   ],
   "grupos": [
@@ -312,19 +300,52 @@
   ]
  },
  "agora": {
-  "fila": 684,
-  "abertos": 743,
+  "fila": 685,
+  "abertos": 744,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 1,
   "offline": 2,
-  "ausentes": 0,
-  "espera_media_s": 18365
+  "ausentes": 1,
+  "espera_media_s": 18285
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-11T00:37:04.850Z",
-  "min_sem_lead": 84708
+  "min_sem_lead": 84723
  },
  "leads": [
+  {
+   "nome": "Agatha 🌸🌸",
+   "tel": "5511*****643",
+   "criado": "17:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Immo Mukeba 🇨🇩🇦🇴🇧🇷🇺🇸",
+   "tel": "2449*****262",
+   "criado": "16:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 73.5,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "557799912960",
+   "tel": "5577*****960",
+   "criado": "16:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 66.3,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/57zIOsZXG",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Edinea🌞",
    "tel": "5548*****237",
@@ -345,28 +366,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4MBhcZyUD",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "557799912960",
-   "tel": "5577*****960",
-   "criado": "16:23",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/57zIOsZXG",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Immo Mukeba 🇨🇩🇦🇴🇧🇷🇺🇸",
-   "tel": "2449*****262",
-   "criado": "16:16",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/91elw2A2a",
    "area": "Trabalhista"
   },
   {
