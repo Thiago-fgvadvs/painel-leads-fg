@@ -1,13 +1,13 @@
 {
- "gerado_em": "08/10/2026, 19:12",
+ "gerado_em": "08/10/2026, 19:27",
  "data_ref": "08/10/2026",
  "sla_min": 15,
  "kpi": {
   "total": 28,
   "no_sla": 16,
   "fora_sla": 3,
-  "sem_resposta": 2,
-  "fora_horario": 7,
+  "sem_resposta": 1,
+  "fora_horario": 8,
   "pct_sla": 84,
   "mediana_geral": 0.5,
   "leads_7d": 235,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 25,
+   "leads": 26,
    "mediana_min": 0.5
   },
   {
@@ -65,16 +65,10 @@
   }
  ],
  "areas": {
-  "Nao identificada": 7,
-  "Trabalhista": 21
+  "Trabalhista": 22,
+  "Nao identificada": 6
  },
  "sem_resposta_lista": [
-  {
-   "nome": "Ana Cândida",
-   "tel": "5577*****224",
-   "criado": "19:11",
-   "area": "Nao identificada"
-  },
   {
    "nome": "5512982944426",
    "tel": "5512*****426",
@@ -203,13 +197,6 @@
     "dia": "08/10",
     "desde": "14:02",
     "ts": 1791478948635
-   },
-   {
-    "nome": "Ana Cândida",
-    "tel": "5577*****224",
-    "dia": "08/10",
-    "desde": "19:11",
-    "ts": 1791497491350
    }
   ],
   "grupos": [
@@ -304,26 +291,26 @@
   "fila": 690,
   "abertos": 753,
   "com_atendimento": 3,
-  "online": 1,
+  "online": 2,
   "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 18192
+  "ausentes": 0,
+  "espera_media_s": 18162
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-08T22:11:31.350Z",
-  "min_sem_lead": 0
+  "min_sem_lead": 16
  },
  "leads": [
   {
    "nome": "Ana Cândida",
    "tel": "5577*****224",
    "criado": "19:11",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "559293431743",
