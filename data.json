@@ -1,29 +1,29 @@
 {
- "gerado_em": "08/10/2026, 11:17",
+ "gerado_em": "08/10/2026, 11:32",
  "data_ref": "08/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 2,
+  "total": 10,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 216,
-  "tickets_abertos": 726,
+  "leads_7d": 217,
+  "tickets_abertos": 727,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 9,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -31,7 +31,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmW5LEMrD9/",
+   "url": "fb.me/91elw2A2a",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/7ciItXnNp",
    "leads": 1
   },
   {
@@ -39,7 +43,7 @@
    "leads": 1
   },
   {
-   "url": "fb.me/91elw2A2a",
+   "url": "www.instagram.com/p/DcmW5LEMrD9/",
    "leads": 1
   },
   {
@@ -51,32 +55,28 @@
    "leads": 1
   },
   {
-   "url": "fb.me/7ciItXnNp",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DdrAuwdsnED/",
    "leads": 1
   }
  ],
  "areas": {
   "Trabalhista": 8,
-  "Nao identificada": 1
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 224,
-  "turnos": 443,
-  "respondidos": 438,
+  "turnos": 449,
+  "respondidos": 444,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 68.5,
+  "mediana_min": 68.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 362,
+    "respostas": 368,
     "mediana_min": 64.6
    },
    {
@@ -238,28 +238,61 @@
   ]
  },
  "agora": {
-  "fila": 678,
-  "abertos": 726,
+  "fila": 675,
+  "abertos": 727,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 18741
+  "espera_media_s": 18708
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
-  "min_sem_lead": 95116
+  "ultimo_lead_at": "2026-03-10T17:21:14.162Z",
+  "min_sem_lead": 305111
  },
  "leads": [
   {
-   "nome": "Armando",
-   "tel": "5591*****623",
-   "criado": "07:51",
+   "nome": "Reynaldo Reiis",
+   "tel": "5512*****069",
+   "criado": "08:42",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554791847527",
+   "tel": "5547*****527",
+   "criado": "11:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Mestre Pezão",
+   "tel": "5561*****667",
+   "criado": "07:20",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Naira Fernanda",
+   "tel": "5544*****018",
+   "criado": "00:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ciItXnNp",
    "area": "Trabalhista"
   },
   {
@@ -274,25 +307,14 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556181831667",
-   "tel": "5561*****667",
-   "criado": "07:20",
+   "nome": "Armando",
+   "tel": "5591*****623",
+   "criado": "07:51",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
-   "criativo": "fb.me/875plPmzH",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5512992016069",
-   "tel": "5512*****069",
-   "criado": "08:42",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/91elw2A2a",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
    "area": "Trabalhista"
   },
   {
@@ -326,17 +348,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Naira Fernanda",
-   "tel": "5544*****018",
-   "criado": "00:46",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ciItXnNp",
    "area": "Trabalhista"
   },
   {
