@@ -1,23 +1,23 @@
 {
- "gerado_em": "08/10/2026, 18:26",
+ "gerado_em": "08/10/2026, 18:41",
  "data_ref": "08/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 25,
-  "no_sla": 14,
+  "total": 26,
+  "no_sla": 15,
   "fora_sla": 3,
   "sem_resposta": 1,
   "fora_horario": 7,
-  "pct_sla": 82,
+  "pct_sla": 83,
   "mediana_geral": 0.5,
-  "leads_7d": 232,
-  "tickets_abertos": 750,
+  "leads_7d": 233,
+  "tickets_abertos": 751,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 23,
+   "leads": 24,
    "mediana_min": 0.5
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 23,
+  "Anuncio": 24,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -52,21 +52,21 @@
    "leads": 2
   },
   {
+   "url": "fb.me/58H9Ytyii",
+   "leads": 1
+  },
+  {
    "url": "fb.me/7XyNEgnLl",
    "leads": 1
   },
   {
    "url": "fb.me/57zIOsZXG",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4MBhcZyUD",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 20,
-  "Nao identificada": 5
+  "Nao identificada": 6,
+  "Trabalhista": 20
  },
  "sem_resposta_lista": [
   {
@@ -101,11 +101,11 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 236,
-  "turnos": 504,
-  "respondidos": 498,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "grupos_ativos": 237,
+  "turnos": 507,
+  "respondidos": 502,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 64.6,
   "atendentes": [
    {
@@ -120,7 +120,7 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 13,
+    "respostas": 17,
     "mediana_min": 4.7
    },
    {
@@ -135,12 +135,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
-    "dia": "08/10",
-    "desde": "10:43",
-    "ts": 1791467015350
-   },
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "08/10",
@@ -231,12 +225,6 @@
     "ts": 1791404713314
    },
    {
-    "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
-    "dia": "08/10",
-    "desde": "10:43",
-    "ts": 1791467015350
-   },
-   {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "08/10",
     "desde": "11:48",
@@ -300,19 +288,30 @@
   ]
  },
  "agora": {
-  "fila": 687,
-  "abertos": 750,
+  "fila": 688,
+  "abertos": 751,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 18254
+  "espera_media_s": 18223
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-10T17:22:32.220Z",
-  "min_sem_lead": 305524
+  "ultimo_lead_at": "2026-10-08T21:36:55.443Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "José Valter",
+   "tel": "5588*****716",
+   "criado": "18:36",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/58H9Ytyii",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Agatha 🌸🌸",
    "tel": "5511*****643",
