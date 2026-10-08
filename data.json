@@ -1,17 +1,17 @@
 {
- "gerado_em": "08/10/2026, 16:08",
+ "gerado_em": "08/10/2026, 16:23",
  "data_ref": "08/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
+  "total": 21,
   "no_sla": 11,
   "fora_sla": 1,
-  "sem_resposta": 1,
+  "sem_resposta": 2,
   "fora_horario": 7,
   "pct_sla": 92,
   "mediana_geral": 0.5,
-  "leads_7d": 227,
-  "tickets_abertos": 738,
+  "leads_7d": 228,
+  "tickets_abertos": 739,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -36,16 +36,16 @@
    "leads": 4
   },
   {
+   "url": "fb.me/91elw2A2a",
+   "leads": 2
+  },
+  {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 2
   },
   {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
    "leads": 2
-  },
-  {
-   "url": "fb.me/91elw2A2a",
-   "leads": 1
   },
   {
    "url": "fb.me/7XyNEgnLl",
@@ -65,10 +65,16 @@
   }
  ],
  "areas": {
-  "Trabalhista": 15,
+  "Trabalhista": 16,
   "Nao identificada": 5
  },
  "sem_resposta_lista": [
+  {
+   "nome": "Immo Mukeba 🇨🇩🇦🇴🇧🇷🇺🇸",
+   "tel": "2449*****262",
+   "criado": "16:16",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5512982944426",
    "tel": "5512*****426",
@@ -87,16 +93,16 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 231,
-  "turnos": 477,
-  "respondidos": 471,
+  "grupos_ativos": 232,
+  "turnos": 481,
+  "respondidos": 475,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 67.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 393,
+    "respostas": 397,
     "mediana_min": 62.8
    },
    {
@@ -189,6 +195,13 @@
     "dia": "08/10",
     "desde": "14:02",
     "ts": 1791478948635
+   },
+   {
+    "nome": "Immo Mukeba 🇨🇩🇦🇴🇧🇷🇺🇸",
+    "tel": "2449*****262",
+    "dia": "08/10",
+    "desde": "16:16",
+    "ts": 1791486999745
    }
   ],
   "grupos": [
@@ -286,19 +299,30 @@
   ]
  },
  "agora": {
-  "fila": 679,
-  "abertos": 738,
+  "fila": 680,
+  "abertos": 739,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 18427
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-08T00:43:56.836Z",
-  "min_sem_lead": 1104
+  "min_sem_lead": 1120
  },
  "leads": [
+  {
+   "nome": "Immo Mukeba 🇨🇩🇦🇴🇧🇷🇺🇸",
+   "tel": "2449*****262",
+   "criado": "16:16",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Reynaldo Reiis",
    "tel": "5512*****069",
