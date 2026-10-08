@@ -1,24 +1,24 @@
 {
- "gerado_em": "08/10/2026, 12:03",
+ "gerado_em": "08/10/2026, 12:18",
  "data_ref": "08/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 5,
+  "total": 13,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 219,
+  "leads_7d": 220,
   "tickets_abertos": 729,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
-   "mediana_min": 0.5
+   "leads": 12,
+   "mediana_min": 0.4
   },
   {
    "nome": "Roseli",
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "fb.me/875plPmzH",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "fb.me/505ajP5YC",
@@ -65,8 +65,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 9,
-  "Nao identificada": 3
+  "Nao identificada": 3,
+  "Trabalhista": 10
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -261,15 +261,37 @@
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 18676
+  "espera_media_s": 18643
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-08T14:56:56.400Z",
-  "min_sem_lead": 6
+  "ultimo_lead_at": "2026-10-08T14:17:16.169Z",
+  "min_sem_lead": 61
  },
  "leads": [
   {
-   "nome": "554196852644",
+   "nome": "554791847527",
+   "tel": "5547*****527",
+   "criado": "11:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5524999133660",
+   "tel": "5524*****660",
+   "criado": "12:12",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Augusta",
    "tel": "5541*****644",
    "criado": "11:56",
    "atendente": "FG Advogados - Isadora ",
@@ -285,17 +307,6 @@
    "criado": "11:52",
    "atendente": "Roseli",
    "espera_min": 1.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "554791847527",
-   "tel": "5547*****527",
-   "criado": "11:17",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
