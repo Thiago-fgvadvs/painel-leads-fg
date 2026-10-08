@@ -1,17 +1,17 @@
 {
- "gerado_em": "08/10/2026, 12:33",
+ "gerado_em": "08/10/2026, 12:49",
  "data_ref": "08/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
+  "total": 15,
   "no_sla": 7,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 7,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 221,
-  "tickets_abertos": 729,
+  "leads_7d": 222,
+  "tickets_abertos": 731,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,13 +27,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 12,
+  "Anuncio": 13,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "fb.me/875plPmzH",
    "leads": 4
+  },
+  {
+   "url": "www.instagram.com/p/DcmW5LEMrD9/",
+   "leads": 2
   },
   {
    "url": "fb.me/f5q0zJBsc",
@@ -52,10 +56,6 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmW5LEMrD9/",
-   "leads": 1
-  },
-  {
    "url": "fb.me/4V5VEOQA9",
    "leads": 1
   },
@@ -65,24 +65,31 @@
   }
  ],
  "areas": {
-  "Trabalhista": 11,
+  "Trabalhista": 12,
   "Nao identificada": 3
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5516997870288",
+   "tel": "5516*****288",
+   "criado": "12:45",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 225,
-  "turnos": 460,
-  "respondidos": 454,
+  "turnos": 464,
+  "respondidos": 458,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 67.6,
+  "mediana_min": 66.9,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 378,
-    "mediana_min": 62.4
+    "respostas": 382,
+    "mediana_min": 61.9
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -167,6 +174,13 @@
     "dia": "06/10",
     "desde": "13:09",
     "ts": 1791302945672
+   },
+   {
+    "nome": "5516997870288",
+    "tel": "5516*****288",
+    "dia": "08/10",
+    "desde": "12:45",
+    "ts": 1791474351232
    }
   ],
   "grupos": [
@@ -255,28 +269,28 @@
   ]
  },
  "agora": {
-  "fila": 674,
-  "abertos": 729,
+  "fila": 676,
+  "abertos": 731,
   "com_atendimento": 3,
-  "online": 1,
-  "offline": 2,
+  "online": 2,
+  "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 18643
+  "espera_media_s": 18611
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-07T15:29:23.122Z",
-  "min_sem_lead": 1444
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 766109
  },
  "leads": [
   {
-   "nome": "Silvanir Ferrão",
-   "tel": "5551*****287",
-   "criado": "10:21",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
+   "nome": "5516997870288",
+   "tel": "5516*****288",
+   "criado": "12:45",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
-   "criativo": "fb.me/f5q0zJBsc",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
    "area": "Trabalhista"
   },
   {
@@ -288,6 +302,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Silvanir Ferrão",
+   "tel": "5551*****287",
+   "criado": "10:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/f5q0zJBsc",
    "area": "Trabalhista"
   },
   {
