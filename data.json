@@ -1,5 +1,5 @@
 {
- "gerado_em": "08/10/2026, 15:07",
+ "gerado_em": "08/10/2026, 15:22",
  "data_ref": "08/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -44,6 +44,10 @@
    "leads": 2
   },
   {
+   "url": "fb.me/7XyNEgnLl",
+   "leads": 1
+  },
+  {
    "url": "fb.me/505ajP5YC",
    "leads": 1
   },
@@ -56,17 +60,13 @@
    "leads": 1
   },
   {
-   "url": "fb.me/7XyNEgnLl",
-   "leads": 1
-  },
-  {
    "url": "fb.me/6AFbdEcuS",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 5,
-  "Trabalhista": 15
+  "Trabalhista": 15,
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [
   {
@@ -87,7 +87,7 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 229,
+  "grupos_ativos": 230,
   "turnos": 471,
   "respondidos": 465,
   "sem_resposta": 6,
@@ -122,16 +122,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
-    "dia": "08/10",
-    "desde": "11:48",
-    "ts": 1791470932535
-   },
-   {
     "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
     "dia": "08/10",
     "desde": "10:43",
     "ts": 1791467015350
+   },
+   {
+    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
+    "dia": "08/10",
+    "desde": "11:48",
+    "ts": 1791470932535
    },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
@@ -289,16 +289,27 @@
   "fila": 681,
   "abertos": 738,
   "com_atendimento": 3,
-  "online": 3,
-  "offline": 1,
+  "online": 2,
+  "offline": 2,
   "ausentes": 0,
   "espera_media_s": 18396
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-06T21:40:48.909Z",
-  "min_sem_lead": 2666
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 766262
  },
  "leads": [
+  {
+   "nome": "Claudineia",
+   "tel": "5511*****742",
+   "criado": "14:06",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7XyNEgnLl",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5511947475383",
    "tel": "5511*****383",
@@ -364,17 +375,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Claudineia",
-   "tel": "5511*****742",
-   "criado": "14:06",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7XyNEgnLl",
-   "area": "Trabalhista"
   },
   {
    "nome": "5512982944426",
