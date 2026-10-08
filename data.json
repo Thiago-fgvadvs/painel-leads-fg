@@ -1,5 +1,5 @@
 {
- "gerado_em": "08/10/2026, 13:19",
+ "gerado_em": "08/10/2026, 13:35",
  "data_ref": "08/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -80,15 +80,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 225,
-  "turnos": 465,
-  "respondidos": 459,
+  "turnos": 466,
+  "respondidos": 460,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 67.4,
+  "mediana_min": 66.9,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 382,
+    "respostas": 383,
     "mediana_min": 61.9
    },
    {
@@ -278,10 +278,32 @@
   "espera_media_s": 18579
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 766140
+  "ultimo_lead_at": "2026-03-19T16:20:27.101Z",
+  "min_sem_lead": 292335
  },
  "leads": [
+  {
+   "nome": "Adriano",
+   "tel": "5524*****660",
+   "criado": "12:12",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Micheli",
+   "tel": "5547*****527",
+   "criado": "11:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Augusta",
    "tel": "5541*****644",
@@ -324,28 +346,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/f5q0zJBsc",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Micheli",
-   "tel": "5547*****527",
-   "criado": "11:17",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Adriano",
-   "tel": "5524*****660",
-   "criado": "12:12",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/875plPmzH",
    "area": "Trabalhista"
   },
   {
