@@ -1,34 +1,38 @@
 {
- "gerado_em": "09/10/2026, 10:34",
+ "gerado_em": "09/10/2026, 10:49",
  "data_ref": "09/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 3,
+  "total": 9,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 218,
-  "tickets_abertos": 775,
+  "mediana_geral": 0.4,
+  "leads_7d": 220,
+  "tickets_abertos": 779,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
-   "mediana_min": 0.5
+   "leads": 9,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 7,
+  "Anuncio": 9,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
-   "leads": 2
+   "leads": 3
+  },
+  {
+   "url": "fb.me/4VQLAvb8d",
+   "leads": 1
   },
   {
    "url": "fb.me/6hFKXqtBv",
@@ -52,24 +56,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
-  "Nao identificada": 1
+  "Trabalhista": 7,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 232,
-  "turnos": 469,
-  "respondidos": 464,
+  "grupos_ativos": 234,
+  "turnos": 472,
+  "respondidos": 467,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 63.6,
+  "mediana_min": 63.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 384,
-    "mediana_min": 55.1
+    "respostas": 387,
+    "mediana_min": 55.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -230,19 +234,41 @@
   ]
  },
  "agora": {
-  "fila": 712,
-  "abertos": 775,
+  "fila": 715,
+  "abertos": 779,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 17597
+  "espera_media_s": 17539
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-01T21:50:06.097Z",
-  "min_sem_lead": 11024
+  "ultimo_lead_at": "2026-10-09T13:45:32.164Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "Keth",
+   "tel": "5521*****328",
+   "criado": "10:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Ronaldo",
+   "tel": "5564*****988",
+   "criado": "10:35",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4VQLAvb8d",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Lui Alves",
    "tel": "5511*****445",
