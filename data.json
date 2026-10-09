@@ -1,5 +1,5 @@
 {
- "gerado_em": "09/10/2026, 16:57",
+ "gerado_em": "09/10/2026, 17:13",
  "data_ref": "09/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 232,
-  "tickets_abertos": 791,
+  "tickets_abertos": 790,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -73,10 +73,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 244,
-  "turnos": 521,
+  "turnos": 522,
   "respondidos": 517,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 65.1,
   "atendentes": [
    {
@@ -106,6 +106,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
+    "dia": "09/10",
+    "desde": "17:00",
+    "ts": 1791576005995
+   },
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "08/10",
@@ -181,6 +187,12 @@
     "dia": "08/10",
     "desde": "11:48",
     "ts": 1791470932535
+   },
+   {
+    "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
+    "dia": "09/10",
+    "desde": "17:00",
+    "ts": 1791576005995
    }
   ]
  },
@@ -231,17 +243,17 @@
   ]
  },
  "agora": {
-  "fila": 714,
-  "abertos": 791,
+  "fila": 713,
+  "abertos": 790,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 19016
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:49.378Z",
-  "min_sem_lead": 767798
+  "min_sem_lead": 767813
  },
  "leads": [
   {
