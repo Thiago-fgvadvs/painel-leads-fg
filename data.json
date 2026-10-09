@@ -1,23 +1,23 @@
 {
- "gerado_em": "09/10/2026, 17:59",
+ "gerado_em": "09/10/2026, 18:14",
  "data_ref": "09/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 24,
-  "no_sla": 20,
+  "total": 25,
+  "no_sla": 21,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 235,
+  "leads_7d": 236,
   "tickets_abertos": 792,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 23,
+   "leads": 24,
    "mediana_min": 0.4
   },
   {
@@ -27,20 +27,20 @@
   }
  ],
  "origem": {
-  "Anuncio": 22,
+  "Anuncio": 23,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "fb.me/4MBhcZyUD",
+   "leads": 3
+  },
   {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
    "leads": 3
   },
   {
    "url": "www.instagram.com/p/DcmVpxyMs5c/",
-   "leads": 2
-  },
-  {
-   "url": "fb.me/4MBhcZyUD",
    "leads": 2
   },
   {
@@ -65,7 +65,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 19,
+  "Trabalhista": 20,
   "Nao identificada": 5
  },
  "sem_resposta_lista": [],
@@ -235,24 +235,24 @@
   "abertos": 792,
   "com_atendimento": 3,
   "online": 2,
-  "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 18925
+  "offline": 2,
+  "ausentes": 0,
+  "espera_media_s": 18895
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-04T10:55:16.415Z",
-  "min_sem_lead": 140284
+  "ultimo_lead_at": "2026-10-09T20:59:50.249Z",
+  "min_sem_lead": 14
  },
  "leads": [
   {
-   "nome": "5514991094652",
-   "tel": "5514*****652",
-   "criado": "17:25",
+   "nome": "5519998934441",
+   "tel": "5519*****441",
+   "criado": "17:59",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmVpxyMs5c/",
+   "criativo": "fb.me/4MBhcZyUD",
    "area": "Trabalhista"
   },
   {
@@ -264,6 +264,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5514991094652",
+   "tel": "5514*****652",
+   "criado": "17:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmVpxyMs5c/",
    "area": "Trabalhista"
   },
   {
