@@ -1,31 +1,39 @@
 {
- "gerado_em": "09/10/2026, 08:01",
+ "gerado_em": "09/10/2026, 08:16",
  "data_ref": "09/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 0,
+  "total": 5,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 215,
-  "tickets_abertos": 770,
+  "pct_sla": 100,
+  "mediana_geral": 0.5,
+  "leads_7d": 216,
+  "tickets_abertos": 771,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
-   "mediana_min": null
+   "leads": 5,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW5LEMrD9/",
+   "leads": 1
+  },
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DcmVpxyMs5c/",
    "leads": 1
@@ -35,16 +43,12 @@
    "leads": 1
   },
   {
-   "url": "www.instagram.com/p/DcmW5LEMrD9/",
-   "leads": 1
-  },
-  {
    "url": "fb.me/875plPmzH",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 4
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -221,19 +225,41 @@
   ]
  },
  "agora": {
-  "fila": 707,
-  "abertos": 770,
+  "fila": 708,
+  "abertos": 771,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 17713
+  "espera_media_s": 17684
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 767262
+  "ultimo_lead_at": "2026-10-09T10:12:37.776Z",
+  "min_sem_lead": 64
  },
  "leads": [
+  {
+   "nome": "Nana",
+   "tel": "5548*****847",
+   "criado": "07:12",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Leticia",
+   "tel": "5561*****070",
+   "criado": "08:12",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5521970149079",
    "tel": "5521*****079",
@@ -254,17 +280,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/52gWxMmYQ",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Nana",
-   "tel": "5548*****847",
-   "criado": "07:12",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
    "area": "Trabalhista"
   },
   {
