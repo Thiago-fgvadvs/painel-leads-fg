@@ -1,23 +1,23 @@
 {
- "gerado_em": "09/10/2026, 15:40",
+ "gerado_em": "09/10/2026, 15:56",
  "data_ref": "09/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 19,
-  "no_sla": 15,
+  "total": 20,
+  "no_sla": 16,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 230,
-  "tickets_abertos": 793,
+  "leads_7d": 231,
+  "tickets_abertos": 794,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 18,
+   "leads": 19,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 18,
+  "Anuncio": 19,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -38,6 +38,10 @@
   {
    "url": "fb.me/87PZSDuwc",
    "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/Ddrs04zMch7/",
+   "leads": 1
   },
   {
    "url": "fb.me/4V5VEOQA9",
@@ -58,14 +62,10 @@
   {
    "url": "www.instagram.com/p/DdrAuwdsnED/",
    "leads": 1
-  },
-  {
-   "url": "fb.me/4MBhcZyUD",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 14,
+  "Trabalhista": 15,
   "Nao identificada": 5
  },
  "sem_resposta_lista": [],
@@ -73,16 +73,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 240,
-  "turnos": 511,
-  "respondidos": 505,
+  "turnos": 514,
+  "respondidos": 508,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 64.8,
+  "mediana_min": 65.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 418,
-    "mediana_min": 63.6
+    "respostas": 421,
+    "mediana_min": 63.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -256,18 +256,29 @@
  },
  "agora": {
   "fila": 713,
-  "abertos": 793,
+  "abertos": 794,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 18955
  },
  "captacao": {
-  "ultimo_lead_at": "2026-02-09T13:43:33.033Z",
-  "min_sem_lead": 348777
+  "ultimo_lead_at": "2025-09-24T18:20:45.922Z",
+  "min_sem_lead": 547235
  },
  "leads": [
+  {
+   "nome": "Jorge",
+   "tel": "5511*****752",
+   "criado": "15:50",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Ddrs04zMch7/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Eleane Baldessara",
    "tel": "5547*****959",
