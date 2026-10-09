@@ -1,23 +1,23 @@
 {
- "gerado_em": "09/10/2026, 16:11",
+ "gerado_em": "09/10/2026, 16:26",
  "data_ref": "09/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
-  "no_sla": 16,
+  "total": 21,
+  "no_sla": 17,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 231,
-  "tickets_abertos": 788,
+  "leads_7d": 232,
+  "tickets_abertos": 789,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 19,
+   "leads": 20,
    "mediana_min": 0.4
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 19,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -65,23 +65,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 15,
+  "Trabalhista": 16,
   "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 241,
-  "turnos": 515,
-  "respondidos": 510,
+  "grupos_ativos": 242,
+  "turnos": 518,
+  "respondidos": 513,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 65.7,
+  "mediana_min": 65.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 423,
+    "respostas": 426,
     "mediana_min": 63.8
    },
    {
@@ -243,19 +243,30 @@
   ]
  },
  "agora": {
-  "fila": 712,
-  "abertos": 788,
+  "fila": 713,
+  "abertos": 789,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 19046
+  "espera_media_s": 19016
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-08T10:20:52.989Z",
-  "min_sem_lead": 1971
+  "ultimo_lead_at": "2026-10-08T17:06:27.467Z",
+  "min_sem_lead": 1580
  },
  "leads": [
+  {
+   "nome": "souzaa",
+   "tel": "5541*****612",
+   "criado": "16:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "Jorge",
    "tel": "5511*****752",
