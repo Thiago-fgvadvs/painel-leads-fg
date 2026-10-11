@@ -1,28 +1,28 @@
 {
- "gerado_em": "11/10/2026, 19:30",
+ "gerado_em": "11/10/2026, 19:46",
  "data_ref": "11/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 56,
+  "total": 57,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 45,
+  "fora_horario": 46,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 252,
-  "tickets_abertos": 852,
+  "leads_7d": 253,
+  "tickets_abertos": 853,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 45,
+   "leads": 46,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 42,
+  "Anuncio": 43,
   "Direto/Indicacao": 14
  },
  "criativos": [
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 38,
+  "Trabalhista": 39,
   "Nao identificada": 17,
   "Previdenciario": 1
  },
@@ -234,23 +234,34 @@
   ]
  },
  "agora": {
-  "fila": 781,
-  "abertos": 852,
+  "fila": 782,
+  "abertos": 853,
   "com_atendimento": 3,
   "online": 1,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 17321
+  "espera_media_s": 17296
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-11T22:30:03.243Z",
-  "min_sem_lead": 1
+  "ultimo_lead_at": "2026-10-11T22:42:49.555Z",
+  "min_sem_lead": 3
  },
  "leads": [
   {
-   "nome": "Shirlei🌹",
-   "tel": "5511*****040",
-   "criado": "19:30",
+   "nome": "558187500268",
+   "tel": "5581*****268",
+   "criado": "19:42",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmWSqIsv9v/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "553484105610",
+   "tel": "5534*****610",
+   "criado": "19:29",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
@@ -259,9 +270,9 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "553484105610",
-   "tel": "5534*****610",
-   "criado": "19:29",
+   "nome": "Shirlei🌹",
+   "tel": "5511*****040",
+   "criado": "19:30",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "FORA_HORARIO",
