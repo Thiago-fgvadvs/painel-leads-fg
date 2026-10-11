@@ -1,28 +1,28 @@
 {
- "gerado_em": "11/10/2026, 15:11",
+ "gerado_em": "11/10/2026, 15:26",
  "data_ref": "11/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 42,
+  "total": 44,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 31,
+  "fora_horario": 33,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 238,
-  "tickets_abertos": 835,
+  "leads_7d": 240,
+  "tickets_abertos": 837,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 31,
+   "leads": 33,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 29,
+  "Anuncio": 31,
   "Direto/Indicacao": 13
  },
  "criativos": [
@@ -31,11 +31,11 @@
    "leads": 4
   },
   {
-   "url": "fb.me/6AFbdEcuS",
+   "url": "fb.me/57zIOsZXG",
    "leads": 2
   },
   {
-   "url": "fb.me/57zIOsZXG",
+   "url": "fb.me/6AFbdEcuS",
    "leads": 2
   },
   {
@@ -60,7 +60,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 26,
+  "Trabalhista": 28,
   "Nao identificada": 16
  },
  "sem_resposta_lista": [],
@@ -233,17 +233,17 @@
   ]
  },
  "agora": {
-  "fila": 764,
-  "abertos": 835,
+  "fila": 766,
+  "abertos": 837,
   "com_atendimento": 3,
   "online": 1,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 17736
+  "espera_media_s": 17683
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-11T16:46:49.031Z",
-  "min_sem_lead": 84
+  "min_sem_lead": 100
  },
  "leads": [
   {
@@ -255,6 +255,39 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5527998681881",
+   "tel": "5527*****881",
+   "criado": "15:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 2.1,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/Ddrs2wCsBTM/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Maria",
+   "tel": "5521*****060",
+   "criado": "15:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Fael Fernandes",
+   "tel": "5511*****470",
+   "criado": "13:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 2.3,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/57zIOsZXG",
    "area": "Trabalhista"
   },
   {
@@ -311,17 +344,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Fael Fernandes",
-   "tel": "5511*****470",
-   "criado": "13:46",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 2.3,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/57zIOsZXG",
-   "area": "Trabalhista"
   },
   {
    "nome": "554598437567",
