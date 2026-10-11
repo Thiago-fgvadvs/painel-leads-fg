@@ -1,34 +1,38 @@
 {
- "gerado_em": "11/10/2026, 15:26",
+ "gerado_em": "11/10/2026, 15:41",
  "data_ref": "11/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 44,
+  "total": 45,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 33,
+  "fora_horario": 34,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 240,
-  "tickets_abertos": 837,
+  "leads_7d": 241,
+  "tickets_abertos": 838,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 33,
+   "leads": 34,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 31,
+  "Anuncio": 32,
   "Direto/Indicacao": 13
  },
  "criativos": [
   {
    "url": "fb.me/7ZVZhwxMh",
    "leads": 4
+  },
+  {
+   "url": "www.instagram.com/p/DcmVrByMck7/",
+   "leads": 3
   },
   {
    "url": "fb.me/57zIOsZXG",
@@ -53,14 +57,11 @@
   {
    "url": "www.instagram.com/p/DcmTUt6sq5W/",
    "leads": 2
-  },
-  {
-   "url": "www.instagram.com/p/DcmVrByMck7/",
-   "leads": 2
   }
  ],
  "areas": {
   "Trabalhista": 28,
+  "Previdenciario": 1,
   "Nao identificada": 16
  },
  "sem_resposta_lista": [],
@@ -233,17 +234,17 @@
   ]
  },
  "agora": {
-  "fila": 766,
-  "abertos": 837,
+  "fila": 767,
+  "abertos": 838,
   "com_atendimento": 3,
   "online": 1,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 17683
+  "espera_media_s": 17657
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-11T16:46:49.031Z",
-  "min_sem_lead": 100
+  "min_sem_lead": 115
  },
  "leads": [
   {
@@ -266,6 +267,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/Ddrs2wCsBTM/",
+   "area": "Previdenciario"
+  },
+  {
+   "nome": "Carlos Vinícius",
+   "tel": "5581*****327",
+   "criado": "15:39",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmVrByMck7/",
    "area": "Trabalhista"
   },
   {
