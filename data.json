@@ -1,34 +1,38 @@
 {
- "gerado_em": "12/10/2026, 13:09",
+ "gerado_em": "12/10/2026, 13:24",
  "data_ref": "12/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 5,
+  "total": 11,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 223,
-  "tickets_abertos": 868,
+  "leads_7d": 224,
+  "tickets_abertos": 869,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "fb.me/4VQLAvb8d",
    "leads": 2
+  },
+  {
+   "url": "fb.me/875plPmzH",
+   "leads": 1
   },
   {
    "url": "fb.me/4nZXGPuSh",
@@ -53,14 +57,10 @@
   {
    "url": "fb.me/505ajP5YC",
    "leads": 1
-  },
-  {
-   "url": "fb.me/f5q0zJBsc",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 8,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
@@ -226,19 +226,30 @@
   ]
  },
  "agora": {
-  "fila": 797,
-  "abertos": 868,
+  "fila": 798,
+  "abertos": 869,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 16926
+  "espera_media_s": 16901
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-19T18:13:51.550Z",
-  "min_sem_lead": 165475
+  "ultimo_lead_at": "2026-10-12T16:19:08.486Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "Vanderley",
+   "tel": "5519*****547",
+   "criado": "13:19",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Jose Jesus Zerpa Blanco",
    "tel": "5582*****303",
