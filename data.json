@@ -1,33 +1,37 @@
 {
- "gerado_em": "12/10/2026, 08:19",
+ "gerado_em": "12/10/2026, 08:34",
  "data_ref": "12/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 0,
+  "total": 6,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 218,
-  "tickets_abertos": 863,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 219,
+  "tickets_abertos": 864,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
-   "mediana_min": null
+   "leads": 6,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmVrByMck7/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4VQLAvb8d",
    "leads": 1
   },
   {
@@ -45,7 +49,7 @@
  ],
  "areas": {
   "Trabalhista": 4,
-  "Nao identificada": 1
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -198,17 +202,17 @@
   ]
  },
  "agora": {
-  "fila": 792,
-  "abertos": 863,
+  "fila": 793,
+  "abertos": 864,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 17047
+  "espera_media_s": 17023
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-12T09:27:26.412Z",
-  "min_sem_lead": 112
+  "ultimo_lead_at": "2025-04-24T15:19:49.348Z",
+  "min_sem_lead": 771615
  },
  "leads": [
   {
@@ -221,6 +225,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmVrByMck7/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "David",
+   "tel": "5511*****813",
+   "criado": "08:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4VQLAvb8d",
+   "area": "Nao identificada"
   },
   {
    "nome": "israelfarismoura617",
