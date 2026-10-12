@@ -1,33 +1,37 @@
 {
- "gerado_em": "12/10/2026, 07:49",
+ "gerado_em": "12/10/2026, 08:04",
  "data_ref": "12/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
+  "total": 5,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 4,
+  "fora_horario": 5,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 217,
-  "tickets_abertos": 862,
+  "leads_7d": 218,
+  "tickets_abertos": 863,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmVrByMck7/",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/6lIu0yPSl",
    "leads": 1
   },
   {
@@ -40,14 +44,14 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3,
+  "Trabalhista": 4,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 216,
+  "grupos_ativos": 217,
   "turnos": 413,
   "respondidos": 410,
   "sem_resposta": 3,
@@ -194,17 +198,17 @@
   ]
  },
  "agora": {
-  "fila": 791,
-  "abertos": 862,
+  "fila": 792,
+  "abertos": 863,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 17072
+  "espera_media_s": 17047
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-11T16:46:48.362Z",
-  "min_sem_lead": 1082
+  "ultimo_lead_at": "2026-10-12T09:27:26.412Z",
+  "min_sem_lead": 97
  },
  "leads": [
   {
@@ -216,6 +220,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmVrByMck7/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "israelfarismoura617",
+   "tel": "5516*****293",
+   "criado": "07:54",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6lIu0yPSl",
    "area": "Trabalhista"
   },
   {
