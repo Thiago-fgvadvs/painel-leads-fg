@@ -1,31 +1,35 @@
 {
- "gerado_em": "12/10/2026, 10:06",
+ "gerado_em": "12/10/2026, 10:21",
  "data_ref": "12/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 2,
+  "total": 8,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 220,
-  "tickets_abertos": 865,
+  "leads_7d": 221,
+  "tickets_abertos": 866,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
+   "leads": 8,
    "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "fb.me/7b97WsWu8",
+   "leads": 1
+  },
   {
    "url": "fb.me/6lIu0yPSl",
    "leads": 1
@@ -52,14 +56,14 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
+  "Trabalhista": 6,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 225,
+  "grupos_ativos": 226,
   "turnos": 418,
   "respondidos": 414,
   "sem_resposta": 4,
@@ -218,19 +222,30 @@
   ]
  },
  "agora": {
-  "fila": 794,
-  "abertos": 865,
+  "fila": 795,
+  "abertos": 866,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 16998
+  "espera_media_s": 16974
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-12T10:54:56.288Z",
-  "min_sem_lead": 131
+  "ultimo_lead_at": "2026-10-12T13:18:33.187Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "555491597864",
+   "tel": "5554*****864",
+   "criado": "10:18",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7b97WsWu8",
+   "area": "Trabalhista"
+  },
   {
    "nome": "israelfarismoura617",
    "tel": "5516*****293",
