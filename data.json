@@ -1,31 +1,35 @@
 {
- "gerado_em": "12/10/2026, 14:25",
+ "gerado_em": "12/10/2026, 14:40",
  "data_ref": "12/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 6,
+  "total": 13,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 5,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 225,
-  "tickets_abertos": 870,
+  "mediana_geral": 0.4,
+  "leads_7d": 226,
+  "tickets_abertos": 871,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
-   "mediana_min": 0.5
+   "leads": 12,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "fb.me/6lIu0yPSl",
+   "leads": 2
+  },
   {
    "url": "fb.me/4VQLAvb8d",
    "leads": 2
@@ -43,10 +47,6 @@
    "leads": 1
   },
   {
-   "url": "fb.me/6lIu0yPSl",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DcmWSqIsv9v/",
    "leads": 1
   },
@@ -60,8 +60,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 8
+  "Trabalhista": 9,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [
   {
@@ -74,7 +74,7 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 227,
+  "grupos_ativos": 228,
   "turnos": 418,
   "respondidos": 414,
   "sem_resposta": 4,
@@ -240,19 +240,30 @@
   ]
  },
  "agora": {
-  "fila": 799,
-  "abertos": 870,
+  "fila": 800,
+  "abertos": 871,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 16901
+  "espera_media_s": 16877
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-06T21:28:06.086Z",
-  "min_sem_lead": 8397
+  "ultimo_lead_at": "2026-08-19T04:34:30.962Z",
+  "min_sem_lead": 78546
  },
  "leads": [
+  {
+   "nome": "554999629274",
+   "tel": "5549*****274",
+   "criado": "14:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6lIu0yPSl",
+   "area": "Trabalhista"
+  },
   {
    "nome": "557388016006",
    "tel": "5573*****006",
