@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/10/2026, 09:51",
+ "gerado_em": "12/10/2026, 10:06",
  "data_ref": "12/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -60,10 +60,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 225,
-  "turnos": 417,
+  "turnos": 418,
   "respondidos": 414,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
   "mediana_min": 62.6,
   "atendentes": [
    {
@@ -93,6 +93,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "12/10",
+    "desde": "09:57",
+    "ts": 1791809862746
+   },
    {
     "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
     "dia": "09/10",
@@ -156,6 +162,12 @@
     "dia": "09/10",
     "desde": "17:00",
     "ts": 1791576005995
+   },
+   {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "12/10",
+    "desde": "09:57",
+    "ts": 1791809862746
    }
   ]
  },
@@ -216,7 +228,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-12T10:54:56.288Z",
-  "min_sem_lead": 116
+  "min_sem_lead": 131
  },
  "leads": [
   {
