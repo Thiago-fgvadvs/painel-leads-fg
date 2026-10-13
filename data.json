@@ -1,34 +1,38 @@
 {
- "gerado_em": "13/10/2026, 13:35",
+ "gerado_em": "13/10/2026, 13:50",
  "data_ref": "13/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 4,
+  "total": 9,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 220,
-  "tickets_abertos": 908,
+  "mediana_geral": 0.4,
+  "leads_7d": 221,
+  "tickets_abertos": 909,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 8,
-   "mediana_min": 0.5
+   "leads": 9,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 9,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 3
+  },
+  {
+   "url": "www.instagram.com/p/DcmW5hLM3NO/",
+   "leads": 1
   },
   {
    "url": "fb.me/4V5VEOQA9",
@@ -52,23 +56,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8
+  "Trabalhista": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 220,
-  "turnos": 328,
-  "respondidos": 324,
+  "turnos": 329,
+  "respondidos": 325,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 68,
+  "mediana_min": 67.9,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 263,
-    "mediana_min": 64.6
+    "respostas": 264,
+    "mediana_min": 63.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -217,19 +221,30 @@
   ]
  },
  "agora": {
-  "fila": 828,
-  "abertos": 908,
+  "fila": 829,
+  "abertos": 909,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 16054
+  "ausentes": 0,
+  "espera_media_s": 16033
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-01T21:50:06.097Z",
-  "min_sem_lead": 16965
+  "ultimo_lead_at": "2026-10-13T16:47:21.641Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "Edvaldo",
+   "tel": "5579*****859",
+   "criado": "13:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW5hLM3NO/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Jussara",
    "tel": "5573*****706",
