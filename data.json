@@ -1,31 +1,35 @@
 {
- "gerado_em": "13/10/2026, 11:38",
+ "gerado_em": "13/10/2026, 11:53",
  "data_ref": "13/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 0,
+  "total": 5,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 216,
+  "pct_sla": 100,
+  "mediana_geral": 0.4,
+  "leads_7d": 217,
   "tickets_abertos": 904,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
-   "mediana_min": null
+   "leads": 5,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/4V5VEOQA9",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 1
@@ -44,22 +48,22 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 296,
-  "respondidos": 292,
+  "turnos": 302,
+  "respondidos": 298,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
   "mediana_min": 65.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 232,
+    "respostas": 238,
     "mediana_min": 60.2
    },
    {
@@ -209,7 +213,7 @@
   ]
  },
  "agora": {
-  "fila": 827,
+  "fila": 826,
   "abertos": 904,
   "com_atendimento": 3,
   "online": 3,
@@ -218,10 +222,21 @@
   "espera_media_s": 16098
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-12T13:21:34.606Z",
-  "min_sem_lead": 1516
+  "ultimo_lead_at": "2026-10-13T14:46:04.915Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "555599661357",
+   "tel": "5555*****357",
+   "criado": "11:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4V5VEOQA9",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Mara Gomes",
    "tel": "5527*****014",
