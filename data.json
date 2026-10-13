@@ -1,5 +1,5 @@
 {
- "gerado_em": "13/10/2026, 10:52",
+ "gerado_em": "13/10/2026, 11:07",
  "data_ref": "13/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -50,7 +50,7 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 213,
+  "grupos_ativos": 216,
   "turnos": 291,
   "respondidos": 287,
   "sem_resposta": 4,
@@ -85,6 +85,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
+    "dia": "09/10",
+    "desde": "17:00",
+    "ts": 1791576005995
+   },
+   {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "08/10",
     "desde": "11:48",
@@ -95,12 +101,6 @@
     "dia": "12/10",
     "desde": "09:57",
     "ts": 1791809862746
-   },
-   {
-    "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
-    "dia": "09/10",
-    "desde": "17:00",
-    "ts": 1791576005995
    },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
@@ -209,7 +209,7 @@
   ]
  },
  "agora": {
-  "fila": 831,
+  "fila": 830,
   "abertos": 904,
   "com_atendimento": 3,
   "online": 2,
@@ -218,8 +218,8 @@
   "espera_media_s": 16098
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-25T15:28:35.418Z",
-  "min_sem_lead": 70463
+  "ultimo_lead_at": "2026-08-13T00:02:08.345Z",
+  "min_sem_lead": 88685
  },
  "leads": [
   {
