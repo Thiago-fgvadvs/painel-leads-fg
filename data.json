@@ -1,5 +1,5 @@
 {
- "gerado_em": "13/10/2026, 15:07",
+ "gerado_em": "13/10/2026, 15:23",
  "data_ref": "13/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -67,16 +67,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 222,
-  "turnos": 338,
-  "respondidos": 334,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 68.9,
+  "turnos": 340,
+  "respondidos": 337,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 70.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 271,
-    "mediana_min": 65.1
+    "respostas": 274,
+    "mediana_min": 66.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -117,12 +117,6 @@
     "dia": "13/10",
     "desde": "12:43",
     "ts": 1791906192945
-   },
-   {
-    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
-    "dia": "13/10",
-    "desde": "12:28",
-    "ts": 1791905314919
    }
   ]
  },
@@ -157,12 +151,6 @@
     "dia": "07/10",
     "desde": "17:25",
     "ts": 1791404713314
-   },
-   {
-    "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
-    "dia": "13/10",
-    "desde": "12:28",
-    "ts": 1791905314919
    },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
@@ -228,16 +216,27 @@
   "fila": 828,
   "abertos": 913,
   "com_atendimento": 3,
-  "online": 1,
+  "online": 3,
   "offline": 1,
-  "ausentes": 2,
+  "ausentes": 0,
   "espera_media_s": 15968
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-13T18:02:41.545Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2026-10-13T15:01:35.573Z",
+  "min_sem_lead": 202
  },
  "leads": [
+  {
+   "nome": "macia",
+   "tel": "5577*****183",
+   "criado": "12:01",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "559391016848",
    "tel": "5593*****848",
@@ -258,17 +257,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/6AFbdEcuS",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "macia",
-   "tel": "5577*****183",
-   "criado": "12:01",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
