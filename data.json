@@ -1,5 +1,5 @@
 {
- "gerado_em": "13/10/2026, 15:38",
+ "gerado_em": "13/10/2026, 15:53",
  "data_ref": "13/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -66,17 +66,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 222,
-  "turnos": 341,
-  "respondidos": 337,
+  "grupos_ativos": 223,
+  "turnos": 343,
+  "respondidos": 339,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 70.4,
+  "mediana_min": 71,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 274,
-    "mediana_min": 66.3
+    "respostas": 276,
+    "mediana_min": 67.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -101,6 +101,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "dia": "13/10",
+    "desde": "15:51",
+    "ts": 1791917489279
+   },
+   {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "13/10",
     "desde": "15:24",
@@ -111,12 +117,6 @@
     "dia": "13/10",
     "desde": "14:54",
     "ts": 1791914069170
-   },
-   {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
-    "dia": "07/10",
-    "desde": "17:25",
-    "ts": 1791404713314
    },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
@@ -153,12 +153,6 @@
   ],
   "grupos": [
    {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
-    "dia": "07/10",
-    "desde": "17:25",
-    "ts": 1791404713314
-   },
-   {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
     "dia": "13/10",
     "desde": "12:43",
@@ -175,6 +169,12 @@
     "dia": "13/10",
     "desde": "15:24",
     "ts": 1791915866235
+   },
+   {
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "dia": "13/10",
+    "desde": "15:51",
+    "ts": 1791917489279
    }
   ]
  },
@@ -228,14 +228,14 @@
   "fila": 829,
   "abertos": 914,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 15946
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-13T18:35:45.993Z",
-  "min_sem_lead": 3
+  "min_sem_lead": 18
  },
  "leads": [
   {
