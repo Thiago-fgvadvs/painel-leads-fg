@@ -1,28 +1,28 @@
 {
- "gerado_em": "13/10/2026, 20:29",
+ "gerado_em": "13/10/2026, 20:44",
  "data_ref": "13/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 20,
+  "total": 21,
   "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 9,
+  "fora_horario": 10,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 232,
-  "tickets_abertos": 924,
+  "leads_7d": 233,
+  "tickets_abertos": 925,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 20,
+   "leads": 21,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 20,
+  "Anuncio": 21,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -31,15 +31,19 @@
    "leads": 3
   },
   {
+   "url": "fb.me/4MBhcZyUD",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 2
+  },
+  {
    "url": "fb.me/4V5VEOQA9",
    "leads": 2
   },
   {
    "url": "fb.me/875plPmzH",
-   "leads": 2
-  },
-  {
-   "url": "fb.me/87PZSDuwc",
    "leads": 2
   },
   {
@@ -53,14 +57,10 @@
   {
    "url": "www.instagram.com/p/DcmW5LEMrD9/",
    "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmWSqIsv9v/",
-   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 20
+  "Trabalhista": 21
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -225,19 +225,30 @@
   ]
  },
  "agora": {
-  "fila": 832,
-  "abertos": 924,
+  "fila": 833,
+  "abertos": 925,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 16289
+  "espera_media_s": 16267
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-13T23:04:36.023Z",
-  "min_sem_lead": 25
+  "ultimo_lead_at": "2026-10-13T23:42:35.597Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "Eveline Fernandes",
+   "tel": "5591*****304",
+   "criado": "20:42",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Trabalhista"
+  },
   {
    "nome": "556199054330",
    "tel": "5561*****330",
@@ -247,6 +258,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW5LEMrD9/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Maria Silva",
+   "tel": "5592*****251",
+   "criado": "19:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
    "area": "Trabalhista"
   },
   {
@@ -280,17 +302,6 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Maria Silva",
-   "tel": "5592*****251",
-   "criado": "19:21",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
    "area": "Trabalhista"
   },
   {
