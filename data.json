@@ -1,34 +1,38 @@
 {
- "gerado_em": "13/10/2026, 14:36",
+ "gerado_em": "13/10/2026, 14:52",
  "data_ref": "13/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 9,
-  "no_sla": 5,
+  "total": 10,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 221,
-  "tickets_abertos": 910,
+  "leads_7d": 222,
+  "tickets_abertos": 911,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": 0.4
   }
  ],
  "origem": {
-  "Anuncio": 9,
+  "Anuncio": 10,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 3
+  },
+  {
+   "url": "fb.me/6AFbdEcuS",
+   "leads": 1
   },
   {
    "url": "www.instagram.com/p/DcmW5hLM3NO/",
@@ -56,28 +60,28 @@
   }
  ],
  "areas": {
-  "Trabalhista": 9
+  "Trabalhista": 10
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 222,
-  "turnos": 332,
-  "respondidos": 328,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 68.1,
+  "turnos": 334,
+  "respondidos": 331,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 68.2,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 266,
-    "mediana_min": 64.6
+    "respostas": 268,
+    "mediana_min": 64.7
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 43,
-    "mediana_min": 1302.8
+    "respostas": 44,
+    "mediana_min": 1303.1
    },
    {
     "nome": "Roseli",
@@ -113,12 +117,6 @@
     "dia": "13/10",
     "desde": "12:28",
     "ts": 1791905314919
-   },
-   {
-    "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
-    "dia": "09/10",
-    "desde": "17:00",
-    "ts": 1791576005995
    }
   ]
  },
@@ -153,12 +151,6 @@
     "dia": "07/10",
     "desde": "17:25",
     "ts": 1791404713314
-   },
-   {
-    "grupo": "A.A.P.C x LIBRA MOVEIS E DESIGN LTDA",
-    "dia": "09/10",
-    "desde": "17:00",
-    "ts": 1791576005995
    },
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
@@ -221,19 +213,30 @@
   ]
  },
  "agora": {
-  "fila": 825,
-  "abertos": 910,
+  "fila": 826,
+  "abertos": 911,
   "com_atendimento": 3,
-  "online": 1,
+  "online": 3,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 16033
+  "ausentes": 0,
+  "espera_media_s": 16011
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.378Z",
-  "min_sem_lead": 773417
+  "ultimo_lead_at": "2026-10-13T17:40:59.750Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "francisco",
+   "tel": "5561*****191",
+   "criado": "14:40",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6AFbdEcuS",
+   "area": "Trabalhista"
+  },
   {
    "nome": "macia",
    "tel": "5577*****183",
