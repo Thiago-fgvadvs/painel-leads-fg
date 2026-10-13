@@ -1,37 +1,37 @@
 {
- "gerado_em": "13/10/2026, 11:53",
+ "gerado_em": "13/10/2026, 12:08",
  "data_ref": "13/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 1,
+  "total": 6,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 4,
   "pct_sla": 100,
-  "mediana_geral": 0.4,
-  "leads_7d": 217,
+  "mediana_geral": 0.5,
+  "leads_7d": 218,
   "tickets_abertos": 904,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
-   "mediana_min": 0.4
+   "leads": 6,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
-   "url": "fb.me/4V5VEOQA9",
-   "leads": 1
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "url": "fb.me/4V5VEOQA9",
    "leads": 1
   },
   {
@@ -48,23 +48,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5
+  "Trabalhista": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 218,
-  "turnos": 302,
-  "respondidos": 298,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 65.7,
+  "turnos": 306,
+  "respondidos": 303,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 67.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 238,
-    "mediana_min": 60.2
+    "respostas": 243,
+    "mediana_min": 62.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -99,12 +99,6 @@
     "dia": "08/10",
     "desde": "11:48",
     "ts": 1791470932535
-   },
-   {
-    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
-    "dia": "12/10",
-    "desde": "09:57",
-    "ts": 1791809862746
    },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
@@ -157,12 +151,6 @@
     "dia": "09/10",
     "desde": "17:00",
     "ts": 1791576005995
-   },
-   {
-    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
-    "dia": "12/10",
-    "desde": "09:57",
-    "ts": 1791809862746
    }
   ]
  },
@@ -219,13 +207,24 @@
   "online": 3,
   "offline": 0,
   "ausentes": 1,
-  "espera_media_s": 16098
+  "espera_media_s": 16120
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-13T14:46:04.915Z",
-  "min_sem_lead": 7
+  "ultimo_lead_at": "2026-07-27T02:01:36.592Z",
+  "min_sem_lead": 113107
  },
  "leads": [
+  {
+   "nome": "557799561183",
+   "tel": "5577*****183",
+   "criado": "12:01",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "555599661357",
    "tel": "5555*****357",
