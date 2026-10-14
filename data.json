@@ -1,23 +1,23 @@
 {
- "gerado_em": "14/10/2026, 15:57",
+ "gerado_em": "14/10/2026, 16:12",
  "data_ref": "14/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
-  "no_sla": 12,
+  "total": 14,
+  "no_sla": 13,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 215,
-  "tickets_abertos": 907,
+  "leads_7d": 216,
+  "tickets_abertos": 908,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/4cT7G29HU",
@@ -66,24 +66,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 10
+  "Trabalhista": 11,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 272,
-  "respondidos": 268,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
+  "turnos": 273,
+  "respondidos": 270,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
   "mediana_min": 103.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 220,
-    "mediana_min": 102.7
+    "respostas": 221,
+    "mediana_min": 103.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -92,8 +92,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 15,
-    "mediana_min": 4.2
+    "respostas": 16,
+    "mediana_min": 4.5
    },
    {
     "nome": "Tiago Bernardo",
@@ -107,12 +107,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "K.C.D.S.C x MERCADO PAGO INSTITUICAO DE PAGAMENTO LTDA",
-    "dia": "14/10",
-    "desde": "15:46",
-    "ts": 1792003614920
-   },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "13/10",
@@ -176,12 +170,6 @@
     "dia": "13/10",
     "desde": "15:51",
     "ts": 1791917489279
-   },
-   {
-    "grupo": "K.C.D.S.C x MERCADO PAGO INSTITUICAO DE PAGAMENTO LTDA",
-    "dia": "14/10",
-    "desde": "15:46",
-    "ts": 1792003614920
    }
   ]
  },
@@ -204,19 +192,30 @@
   ]
  },
  "agora": {
-  "fila": 842,
-  "abertos": 907,
+  "fila": 843,
+  "abertos": 908,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 19019
+  "espera_media_s": 18993
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-09T10:43:31.569Z",
-  "min_sem_lead": 7694
+  "ultimo_lead_at": "2026-10-14T19:06:16.994Z",
+  "min_sem_lead": 6
  },
  "leads": [
+  {
+   "nome": "Leane",
+   "tel": "5581*****637",
+   "criado": "16:06",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Lucas (esposo da Alessandra Maria Lins)",
    "tel": "5511*****562",
