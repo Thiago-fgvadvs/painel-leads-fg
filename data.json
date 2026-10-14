@@ -1,23 +1,23 @@
 {
- "gerado_em": "14/10/2026, 19:00",
+ "gerado_em": "14/10/2026, 19:16",
  "data_ref": "14/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 16,
+  "total": 17,
   "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 0,
+  "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 218,
-  "tickets_abertos": 909,
+  "leads_7d": 219,
+  "tickets_abertos": 911,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 13,
+   "leads": 14,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 13,
+  "Anuncio": 14,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 5
+  },
+  {
+   "url": "fb.me/87PZSDuwc",
+   "leads": 2
   },
   {
    "url": "fb.me/4cT7G29HU",
@@ -57,10 +61,6 @@
    "leads": 1
   },
   {
-   "url": "fb.me/87PZSDuwc",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DdrAuwdsnED/",
    "leads": 1
   },
@@ -70,6 +70,7 @@
   }
  ],
  "areas": {
+  "Previdenciario": 1,
   "Trabalhista": 13,
   "Nao identificada": 3
  },
@@ -77,7 +78,7 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 222,
+  "grupos_ativos": 223,
   "turnos": 325,
   "respondidos": 322,
   "sem_resposta": 3,
@@ -205,19 +206,30 @@
   ]
  },
  "agora": {
-  "fila": 841,
-  "abertos": 909,
+  "fila": 843,
+  "abertos": 911,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 18942
+  "espera_media_s": 18891
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.378Z",
-  "min_sem_lead": 775121
+  "ultimo_lead_at": "2026-08-17T11:51:50.362Z",
+  "min_sem_lead": 84144
  },
  "leads": [
+  {
+   "nome": "553591529001",
+   "tel": "5535*****001",
+   "criado": "19:07",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Previdenciario"
+  },
   {
    "nome": "553193790514",
    "tel": "5531*****514",
