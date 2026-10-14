@@ -1,23 +1,23 @@
 {
- "gerado_em": "14/10/2026, 13:09",
+ "gerado_em": "14/10/2026, 13:24",
  "data_ref": "14/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 7,
+  "total": 9,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
-  "mediana_geral": 0.4,
-  "leads_7d": 210,
-  "tickets_abertos": 903,
+  "mediana_geral": 0.5,
+  "leads_7d": 211,
+  "tickets_abertos": 904,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -40,13 +40,17 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcmVpxyMs5c/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/87PZSDuwc",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 6
+  "Trabalhista": 7,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -183,19 +187,30 @@
   ]
  },
  "agora": {
-  "fila": 839,
-  "abertos": 903,
+  "fila": 840,
+  "abertos": 904,
   "com_atendimento": 3,
   "online": 2,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 19117
+  "espera_media_s": 19091
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-11T00:37:04.850Z",
-  "min_sem_lead": 93092
+  "ultimo_lead_at": "2026-10-14T16:23:25.308Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "555181550308",
+   "tel": "5551*****308",
+   "criado": "13:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmVpxyMs5c/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Luiza Almeida",
    "tel": "5579*****875",
