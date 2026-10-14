@@ -1,31 +1,33 @@
 {
- "gerado_em": "14/10/2026, 07:48",
+ "gerado_em": "14/10/2026, 08:03",
  "data_ref": "14/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 0,
+  "total": 1,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 202,
+  "leads_7d": 203,
   "tickets_abertos": 929,
   "periodo_dias": 7
  },
  "atendentes": [],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [],
- "areas": {},
+ "areas": {
+  "Nao identificada": 1
+ },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 177,
+  "grupos_ativos": 178,
   "turnos": 241,
   "respondidos": 237,
   "sem_resposta": 4,
@@ -161,7 +163,19 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-03-10T17:21:14.162Z",
-  "min_sem_lead": 313527
+  "min_sem_lead": 313542
  },
- "leads": []
+ "leads": [
+  {
+   "nome": "557376010018",
+   "tel": "5573*****018",
+   "criado": "07:53",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  }
+ ]
 }
