@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/10/2026, 17:29",
+ "gerado_em": "14/10/2026, 17:44",
  "data_ref": "14/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -78,16 +78,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 221,
-  "turnos": 308,
-  "respondidos": 305,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 148.9,
+  "turnos": 315,
+  "respondidos": 313,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
+  "mediana_min": 151.2,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 256,
-    "mediana_min": 148
+    "respostas": 264,
+    "mediana_min": 150.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -111,12 +111,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
-    "dia": "13/10",
-    "desde": "15:51",
-    "ts": 1791917489279
-   },
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "13/10",
@@ -168,12 +162,6 @@
     "dia": "13/10",
     "desde": "15:24",
     "ts": 1791915866235
-   },
-   {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
-    "dia": "13/10",
-    "desde": "15:51",
-    "ts": 1791917489279
    }
   ]
  },
@@ -214,21 +202,10 @@
   "espera_media_s": 18942
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:22:30.479Z",
-  "min_sem_lead": 554526
+  "ultimo_lead_at": "2026-10-14T02:36:39.807Z",
+  "min_sem_lead": 1088
  },
  "leads": [
-  {
-   "nome": "Meire Redondo",
-   "tel": "5514*****307",
-   "criado": "16:23",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "553193790514",
    "tel": "5531*****514",
@@ -238,6 +215,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Meire Redondo",
+   "tel": "5514*****307",
+   "criado": "16:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
