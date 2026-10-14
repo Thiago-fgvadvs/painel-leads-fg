@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/10/2026, 11:22",
+ "gerado_em": "14/10/2026, 11:37",
  "data_ref": "14/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -44,16 +44,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 204,
-  "turnos": 258,
-  "respondidos": 255,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
+  "turnos": 261,
+  "respondidos": 257,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
   "mediana_min": 104.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 212,
-    "mediana_min": 98.8
+    "respostas": 213,
+    "mediana_min": 102
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -62,8 +62,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 11,
-    "mediana_min": 4.2
+    "respostas": 12,
+    "mediana_min": 3.9
    },
    {
     "nome": "Tiago Bernardo",
@@ -77,6 +77,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "K.C.D.S.C x MERCADO PAGO INSTITUICAO DE PAGAMENTO LTDA",
+    "dia": "14/10",
+    "desde": "11:34",
+    "ts": 1791988440315
+   },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "13/10",
@@ -140,6 +146,12 @@
     "dia": "13/10",
     "desde": "15:51",
     "ts": 1791917489279
+   },
+   {
+    "grupo": "K.C.D.S.C x MERCADO PAGO INSTITUICAO DE PAGAMENTO LTDA",
+    "dia": "14/10",
+    "desde": "11:34",
+    "ts": 1791988440315
    }
   ]
  },
@@ -168,11 +180,11 @@
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 19819
+  "espera_media_s": 19799
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-13T19:45:34.892Z",
-  "min_sem_lead": 309277
+  "ultimo_lead_at": "2026-10-12T23:22:16.267Z",
+  "min_sem_lead": 2355
  },
  "leads": [
   {
