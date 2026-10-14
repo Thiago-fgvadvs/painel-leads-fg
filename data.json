@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/10/2026, 17:13",
+ "gerado_em": "14/10/2026, 17:29",
  "data_ref": "14/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -77,17 +77,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 219,
-  "turnos": 299,
-  "respondidos": 296,
+  "grupos_ativos": 221,
+  "turnos": 308,
+  "respondidos": 305,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 134,
+  "mediana_min": 148.9,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 247,
-    "mediana_min": 133.5
+    "respostas": 256,
+    "mediana_min": 148
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -208,16 +208,27 @@
   "fila": 841,
   "abertos": 908,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 18942
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-12T09:27:26.412Z",
-  "min_sem_lead": 3526
+  "ultimo_lead_at": "2025-09-24T18:22:30.479Z",
+  "min_sem_lead": 554526
  },
  "leads": [
+  {
+   "nome": "Meire Redondo",
+   "tel": "5514*****307",
+   "criado": "16:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "553193790514",
    "tel": "5531*****514",
@@ -244,17 +255,6 @@
    "nome": "Leane",
    "tel": "5581*****637",
    "criado": "16:06",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Meire Redondo",
-   "tel": "5514*****307",
-   "criado": "16:23",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
    "status": "NO_SLA",
