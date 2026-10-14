@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/10/2026, 11:52",
+ "gerado_em": "14/10/2026, 12:08",
  "data_ref": "14/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -41,19 +41,19 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 4
+  "Trabalhista": 4,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 205,
-  "turnos": 264,
-  "respondidos": 260,
+  "turnos": 265,
+  "respondidos": 261,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 103.7,
+  "mediana_min": 103.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -62,8 +62,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 29,
-    "mediana_min": 2919.9
+    "respostas": 30,
+    "mediana_min": 2875.3
    },
    {
     "nome": "Roseli",
@@ -83,16 +83,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "K.C.D.S.C x MERCADO PAGO INSTITUICAO DE PAGAMENTO LTDA",
-    "dia": "14/10",
-    "desde": "11:40",
-    "ts": 1791988854343
-   },
-   {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "13/10",
     "desde": "15:51",
     "ts": 1791917489279
+   },
+   {
+    "grupo": "K.C.D.S.C x MERCADO PAGO INSTITUICAO DE PAGAMENTO LTDA",
+    "dia": "14/10",
+    "desde": "11:40",
+    "ts": 1791988854343
    },
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
@@ -179,30 +179,19 @@
   ]
  },
  "agora": {
-  "fila": 840,
+  "fila": 838,
   "abertos": 935,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 19799
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-02T16:06:56.003Z",
-  "min_sem_lead": 149686
+  "ultimo_lead_at": "2026-10-14T12:10:20.861Z",
+  "min_sem_lead": 178
  },
  "leads": [
-  {
-   "nome": "Luiza Almeida",
-   "tel": "5579*****875",
-   "criado": "11:37",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 1,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
   {
    "nome": "🥀Melalves🥀",
    "tel": "5518*****577",
@@ -213,6 +202,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Luiza Almeida",
+   "tel": "5579*****875",
+   "criado": "11:37",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 1,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Mrau81586@gmail.com",
