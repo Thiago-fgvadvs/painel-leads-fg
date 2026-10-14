@@ -1,23 +1,23 @@
 {
- "gerado_em": "14/10/2026, 12:23",
+ "gerado_em": "14/10/2026, 12:38",
  "data_ref": "14/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 6,
+  "total": 8,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 209,
-  "tickets_abertos": 935,
+  "mediana_geral": 0.4,
+  "leads_7d": 210,
+  "tickets_abertos": 911,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
+   "leads": 6,
    "mediana_min": 0.4
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -36,23 +36,23 @@
    "leads": 3
   },
   {
-   "url": "fb.me/87PZSDuwc",
-   "leads": 1
+   "url": "fb.me/4cT7G29HU",
+   "leads": 2
   },
   {
-   "url": "fb.me/4cT7G29HU",
+   "url": "fb.me/87PZSDuwc",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 5,
+  "Trabalhista": 6,
   "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 205,
+  "grupos_ativos": 207,
   "turnos": 266,
   "respondidos": 262,
   "sem_resposta": 4,
@@ -184,29 +184,18 @@
  },
  "agora": {
   "fila": 839,
-  "abertos": 935,
+  "abertos": 911,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 19793
+  "espera_media_s": 18885
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-09T00:36:28.099Z",
-  "min_sem_lead": 8087
+  "ultimo_lead_at": "2026-10-13T18:35:45.993Z",
+  "min_sem_lead": 1263
  },
  "leads": [
-  {
-   "nome": "Baiano",
-   "tel": "5521*****143",
-   "criado": "12:20",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/87PZSDuwc",
-   "area": "Trabalhista"
-  },
   {
    "nome": "🥀Melalves🥀",
    "tel": "5518*****577",
@@ -228,6 +217,28 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "554788496647",
+   "tel": "5547*****647",
+   "criado": "12:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4cT7G29HU",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Baiano",
+   "tel": "5521*****143",
+   "criado": "12:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
   },
   {
    "nome": "Mrau81586@gmail.com",
