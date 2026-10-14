@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/10/2026, 15:11",
+ "gerado_em": "14/10/2026, 15:26",
  "data_ref": "14/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 214,
-  "tickets_abertos": 907,
+  "tickets_abertos": 906,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -69,16 +69,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 216,
-  "turnos": 268,
-  "respondidos": 264,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 104.4,
+  "turnos": 270,
+  "respondidos": 267,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 104.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 218,
-    "mediana_min": 103.7
+    "respostas": 219,
+    "mediana_min": 103.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -87,7 +87,7 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 13,
+    "respostas": 15,
     "mediana_min": 4.2
    },
    {
@@ -107,12 +107,6 @@
     "dia": "13/10",
     "desde": "15:51",
     "ts": 1791917489279
-   },
-   {
-    "grupo": "K.C.D.S.C x MERCADO PAGO INSTITUICAO DE PAGAMENTO LTDA",
-    "dia": "14/10",
-    "desde": "11:40",
-    "ts": 1791988854343
    },
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
@@ -171,12 +165,6 @@
     "dia": "13/10",
     "desde": "15:51",
     "ts": 1791917489279
-   },
-   {
-    "grupo": "K.C.D.S.C x MERCADO PAGO INSTITUICAO DE PAGAMENTO LTDA",
-    "dia": "14/10",
-    "desde": "11:40",
-    "ts": 1791988854343
    }
   ]
  },
@@ -200,16 +188,16 @@
  },
  "agora": {
   "fila": 842,
-  "abertos": 907,
+  "abertos": 906,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 18993
+  "espera_media_s": 19019
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-14T17:58:49.669Z",
-  "min_sem_lead": 13
+  "min_sem_lead": 28
  },
  "leads": [
   {
