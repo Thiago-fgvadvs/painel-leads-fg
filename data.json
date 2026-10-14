@@ -1,23 +1,23 @@
 {
- "gerado_em": "14/10/2026, 16:12",
+ "gerado_em": "14/10/2026, 16:27",
  "data_ref": "14/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 13,
+  "total": 15,
+  "no_sla": 14,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 216,
-  "tickets_abertos": 908,
+  "leads_7d": 217,
+  "tickets_abertos": 909,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
+   "leads": 12,
    "mediana_min": 0.4
   },
   {
@@ -32,13 +32,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 11,
+  "Anuncio": 12,
   "Direto/Indicacao": 3
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 4
+   "leads": 5
   },
   {
    "url": "fb.me/4cT7G29HU",
@@ -66,24 +66,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 11,
+  "Trabalhista": 12,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 217,
-  "turnos": 273,
-  "respondidos": 270,
+  "grupos_ativos": 218,
+  "turnos": 278,
+  "respondidos": 275,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 103.7,
+  "mediana_min": 105.2,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 221,
-    "mediana_min": 103.3
+    "respostas": 226,
+    "mediana_min": 105
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -193,18 +193,29 @@
  },
  "agora": {
   "fila": 843,
-  "abertos": 908,
+  "abertos": 909,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 18993
+  "ausentes": 1,
+  "espera_media_s": 18968
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-14T19:06:16.994Z",
-  "min_sem_lead": 6
+  "min_sem_lead": 22
  },
  "leads": [
+  {
+   "nome": "Meire Redondo",
+   "tel": "5514*****307",
+   "criado": "16:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Leane",
    "tel": "5581*****637",
@@ -217,17 +228,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Lucas (esposo da Alessandra Maria Lins)",
-   "tel": "5511*****562",
-   "criado": "15:55",
-   "atendente": "Roseli",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
    "nome": "motorista particular eletricista",
    "tel": "5527*****874",
    "criado": "14:58",
@@ -237,6 +237,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/6lIu0yPSl",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Lucas (esposo da Alessandra Maria Lins)",
+   "tel": "5511*****562",
+   "criado": "15:55",
+   "atendente": "Roseli",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "💖 Dennyah💖",
