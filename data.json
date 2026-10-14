@@ -1,5 +1,5 @@
 {
- "gerado_em": "14/10/2026, 12:38",
+ "gerado_em": "14/10/2026, 12:53",
  "data_ref": "14/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.4,
   "leads_7d": 210,
-  "tickets_abertos": 911,
+  "tickets_abertos": 902,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -45,14 +45,14 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
-  "Nao identificada": 2
+  "Nao identificada": 2,
+  "Trabalhista": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 207,
+  "grupos_ativos": 208,
   "turnos": 266,
   "respondidos": 262,
   "sem_resposta": 4,
@@ -184,29 +184,18 @@
  },
  "agora": {
   "fila": 839,
-  "abertos": 911,
+  "abertos": 902,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 18885
+  "ausentes": 1,
+  "espera_media_s": 19117
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-13T18:35:45.993Z",
-  "min_sem_lead": 1263
+  "ultimo_lead_at": "2026-10-13T14:46:04.915Z",
+  "min_sem_lead": 1508
  },
  "leads": [
-  {
-   "nome": "🥀Melalves🥀",
-   "tel": "5518*****577",
-   "criado": "09:10",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Luiza Almeida",
    "tel": "5579*****875",
@@ -217,6 +206,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "🥀Melalves🥀",
+   "tel": "5518*****577",
+   "criado": "09:10",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
   },
   {
    "nome": "554788496647",
