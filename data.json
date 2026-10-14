@@ -1,23 +1,23 @@
 {
- "gerado_em": "14/10/2026, 19:31",
+ "gerado_em": "14/10/2026, 19:46",
  "data_ref": "14/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 17,
+  "total": 19,
   "no_sla": 15,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 1,
+  "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.4,
-  "leads_7d": 219,
-  "tickets_abertos": 911,
+  "leads_7d": 221,
+  "tickets_abertos": 913,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 14,
+   "leads": 16,
    "mediana_min": 0.4
   },
   {
@@ -32,7 +32,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 14,
+  "Anuncio": 16,
   "Direto/Indicacao": 3
  },
  "criativos": [
@@ -42,15 +42,15 @@
   },
   {
    "url": "fb.me/87PZSDuwc",
+   "leads": 3
+  },
+  {
+   "url": "fb.me/7ZVZhwxMh",
    "leads": 2
   },
   {
    "url": "fb.me/4cT7G29HU",
    "leads": 2
-  },
-  {
-   "url": "fb.me/7ZVZhwxMh",
-   "leads": 1
   },
   {
    "url": "fb.me/6lIu0yPSl",
@@ -70,8 +70,8 @@
   }
  ],
  "areas": {
+  "Trabalhista": 15,
   "Previdenciario": 1,
-  "Trabalhista": 13,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
@@ -206,19 +206,41 @@
   ]
  },
  "agora": {
-  "fila": 843,
-  "abertos": 911,
+  "fila": 845,
+  "abertos": 913,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 18891
+  "espera_media_s": 18840
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-14T22:07:59.758Z",
-  "min_sem_lead": 23
+  "ultimo_lead_at": "2026-10-14T22:42:33.863Z",
+  "min_sem_lead": 4
  },
  "leads": [
+  {
+   "nome": "Dios tome El control",
+   "tel": "5549*****333",
+   "criado": "19:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/87PZSDuwc",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "556793439899",
+   "tel": "5567*****899",
+   "criado": "19:42",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "553591529001",
    "tel": "5535*****001",
