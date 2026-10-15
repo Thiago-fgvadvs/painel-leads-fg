@@ -1,28 +1,28 @@
 {
- "gerado_em": "15/10/2026, 18:53",
+ "gerado_em": "15/10/2026, 19:08",
  "data_ref": "15/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
-  "no_sla": 8,
+  "total": 15,
+  "no_sla": 9,
   "fora_sla": 1,
   "sem_resposta": 0,
   "fora_horario": 1,
-  "pct_sla": 89,
-  "mediana_geral": 0.9,
-  "leads_7d": 200,
-  "tickets_abertos": 901,
+  "pct_sla": 90,
+  "mediana_geral": 0.8,
+  "leads_7d": 201,
+  "tickets_abertos": 902,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
-   "mediana_min": 0.9
+   "leads": 11,
+   "mediana_min": 0.8
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 8
  },
  "criativos": [
@@ -35,6 +35,10 @@
    "leads": 2
   },
   {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 1
+  },
+  {
    "url": "fb.me/6lIu0yPSl",
    "leads": 1
   },
@@ -44,7 +48,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
+  "Trabalhista": 9,
   "Nao identificada": 6
  },
  "sem_resposta_lista": [],
@@ -59,9 +63,9 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 215,
-  "turnos": 344,
-  "respondidos": 341,
+  "grupos_ativos": 224,
+  "turnos": 346,
+  "respondidos": 343,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
   "mediana_min": 160.5,
@@ -73,7 +77,7 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 21,
+    "respostas": 23,
     "mediana_min": 647.7
    },
    {
@@ -173,19 +177,30 @@
   ]
  },
  "agora": {
-  "fila": 819,
-  "abertos": 901,
+  "fila": 820,
+  "abertos": 902,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 21013
+  "espera_media_s": 20985
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-12T19:38:24.160Z",
-  "min_sem_lead": 180135
+  "ultimo_lead_at": "2026-10-15T21:54:49.269Z",
+  "min_sem_lead": 14
  },
  "leads": [
+  {
+   "nome": "Cris Carvalho",
+   "tel": "5593*****154",
+   "criado": "18:54",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Roberto",
    "tel": "5521*****699",
