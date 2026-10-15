@@ -1,34 +1,34 @@
 {
- "gerado_em": "15/10/2026, 14:03",
+ "gerado_em": "15/10/2026, 14:18",
  "data_ref": "15/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 5,
+  "total": 11,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
-  "mediana_geral": 2.4,
-  "leads_7d": 196,
+  "mediana_geral": 1.5,
+  "leads_7d": 197,
   "tickets_abertos": 908,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
-   "mediana_min": 2.4
+   "leads": 7,
+   "mediana_min": 1.5
   }
  ],
  "origem": {
-  "Anuncio": 2,
+  "Anuncio": 3,
   "Direto/Indicacao": 8
  },
  "criativos": [
   {
    "url": "fb.me/875plPmzH",
-   "leads": 1
+   "leads": 2
   },
   {
    "url": "fb.me/7ZVZhwxMh",
@@ -36,24 +36,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 4,
+  "Trabalhista": 5,
   "Nao identificada": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 208,
-  "turnos": 289,
-  "respondidos": 287,
-  "sem_resposta": 2,
-  "sem_resposta_grupos": 2,
-  "mediana_min": 182.1,
+  "grupos_ativos": 209,
+  "turnos": 297,
+  "respondidos": 294,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 178.9,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 248,
-    "mediana_min": 194.1
+    "respostas": 255,
+    "mediana_min": 184.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -77,6 +77,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "D.D.A.S x OVETRIL OLEOS VEGETAIS LTDA",
+    "dia": "15/10",
+    "desde": "14:10",
+    "ts": 1792084238447
+   },
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "13/10",
@@ -114,6 +120,13 @@
     "dia": "15/10",
     "desde": "13:42",
     "ts": 1792082523578
+   },
+   {
+    "nome": "Roberto",
+    "tel": "5521*****699",
+    "dia": "15/10",
+    "desde": "14:05",
+    "ts": 1792083910905
    }
   ],
   "grupos": [
@@ -128,6 +141,12 @@
     "dia": "13/10",
     "desde": "15:24",
     "ts": 1791915866235
+   },
+   {
+    "grupo": "D.D.A.S x OVETRIL OLEOS VEGETAIS LTDA",
+    "dia": "15/10",
+    "desde": "14:10",
+    "ts": 1792084238447
    }
   ]
  },
@@ -159,7 +178,7 @@
   ]
  },
  "agora": {
-  "fila": 826,
+  "fila": 827,
   "abertos": 908,
   "com_atendimento": 3,
   "online": 3,
@@ -168,10 +187,21 @@
   "espera_media_s": 20873
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 776263
+  "ultimo_lead_at": "2026-06-19T18:13:51.550Z",
+  "min_sem_lead": 169865
  },
  "leads": [
+  {
+   "nome": "Roberto",
+   "tel": "5521*****699",
+   "criado": "14:05",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Shirley",
    "tel": "5511*****541",
