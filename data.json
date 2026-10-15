@@ -1,54 +1,59 @@
 {
- "gerado_em": "15/10/2026, 09:35",
+ "gerado_em": "15/10/2026, 09:50",
  "data_ref": "15/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 1,
-  "no_sla": 0,
+  "total": 7,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 187,
-  "tickets_abertos": 917,
+  "pct_sla": 100,
+  "mediana_geral": 2.5,
+  "leads_7d": 193,
+  "tickets_abertos": 921,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 1,
-   "mediana_min": null
+   "leads": 4,
+   "mediana_min": 2.5
   }
  ],
  "origem": {
-  "Anuncio": 1,
-  "Direto/Indicacao": 0
+  "Anuncio": 2,
+  "Direto/Indicacao": 5
  },
  "criativos": [
+  {
+   "url": "fb.me/875plPmzH",
+   "leads": 1
+  },
   {
    "url": "fb.me/7ZVZhwxMh",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 1
+  "Nao identificada": 4,
+  "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 191,
-  "turnos": 233,
-  "respondidos": 230,
+  "grupos_ativos": 192,
+  "turnos": 235,
+  "respondidos": 232,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 182.3,
+  "mediana_min": 183.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 194,
-    "mediana_min": 194.8
+    "respostas": 196,
+    "mediana_min": 196.5
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -76,7 +81,7 @@
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "14/10",
     "desde": "17:57",
-    "ts": 1792011432378
+    "ts": 1792011432000
    },
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
@@ -127,7 +132,7 @@
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "14/10",
     "desde": "17:57",
-    "ts": 1792011432378
+    "ts": 1792011432000
    }
   ]
  },
@@ -151,20 +156,53 @@
  },
  "agora": {
   "fila": 849,
-  "abertos": 917,
+  "abertos": 921,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 18739
+  "espera_media_s": 18716
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-15T04:22:48.891Z",
-  "min_sem_lead": 493
+  "ultimo_lead_at": "2026-08-27T11:34:28.722Z",
+  "min_sem_lead": 70636
  },
  "leads": [
   {
-   "nome": "559891458070",
+   "nome": "556281157268",
+   "tel": "5562*****268",
+   "criado": "09:40",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 2.8,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Oséias Andrade",
+   "tel": "5522*****529",
+   "criado": "09:40",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 2.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Alexandro Alves✨",
+   "tel": "5545*****004",
+   "criado": "09:40",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 2.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "analuciamds68",
    "tel": "5598*****070",
    "criado": "01:22",
    "atendente": "FG Advogados - Isadora ",
@@ -173,6 +211,39 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "556284607915",
+   "tel": "5562*****915",
+   "criado": "09:40",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "557187271687",
+   "tel": "5571*****687",
+   "criado": "09:40",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "5521980998290",
+   "tel": "5521*****290",
+   "criado": "09:40",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   }
  ]
 }
