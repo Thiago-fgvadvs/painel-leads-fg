@@ -1,28 +1,28 @@
 {
- "gerado_em": "15/10/2026, 14:33",
+ "gerado_em": "15/10/2026, 14:49",
  "data_ref": "15/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
-  "no_sla": 6,
+  "total": 12,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
-  "mediana_geral": 1.5,
-  "leads_7d": 197,
-  "tickets_abertos": 909,
+  "mediana_geral": 0.6,
+  "leads_7d": 198,
+  "tickets_abertos": 910,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
-   "mediana_min": 1.5
+   "leads": 8,
+   "mediana_min": 0.6
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 8
  },
  "criativos": [
@@ -31,12 +31,16 @@
    "leads": 2
   },
   {
+   "url": "fb.me/6lIu0yPSl",
+   "leads": 1
+  },
+  {
    "url": "fb.me/7ZVZhwxMh",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 5,
+  "Trabalhista": 6,
   "Nao identificada": 6
  },
  "sem_resposta_lista": [],
@@ -44,10 +48,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 210,
-  "turnos": 301,
+  "turnos": 303,
   "respondidos": 298,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 177.7,
   "atendentes": [
    {
@@ -78,6 +82,18 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "dia": "15/10",
+    "desde": "14:44",
+    "ts": 1792086245532
+   },
+   {
+    "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
+    "dia": "15/10",
+    "desde": "14:40",
+    "ts": 1792086051522
+   },
+   {
     "grupo": "D.D.A.S x OVETRIL OLEOS VEGETAIS LTDA",
     "dia": "15/10",
     "desde": "14:10",
@@ -106,27 +122,6 @@
     "dia": "12/10",
     "desde": "13:57",
     "ts": 1791824235197
-   },
-   {
-    "nome": "Carla Juliana",
-    "tel": "5511*****509",
-    "dia": "15/10",
-    "desde": "12:57",
-    "ts": 1792079878724
-   },
-   {
-    "nome": "Shirley",
-    "tel": "5511*****541",
-    "dia": "15/10",
-    "desde": "13:42",
-    "ts": 1792082523578
-   },
-   {
-    "nome": "Roberto",
-    "tel": "5521*****699",
-    "dia": "15/10",
-    "desde": "14:05",
-    "ts": 1792083910905
    }
   ],
   "grupos": [
@@ -147,6 +142,18 @@
     "dia": "15/10",
     "desde": "14:10",
     "ts": 1792084238447
+   },
+   {
+    "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
+    "dia": "15/10",
+    "desde": "14:40",
+    "ts": 1792086051522
+   },
+   {
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "dia": "15/10",
+    "desde": "14:44",
+    "ts": 1792086245532
    }
   ]
  },
@@ -179,18 +186,29 @@
  },
  "agora": {
   "fila": 827,
-  "abertos": 909,
+  "abertos": 910,
   "com_atendimento": 3,
-  "online": 3,
-  "offline": 1,
+  "online": 2,
+  "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 20873
+  "espera_media_s": 20845
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-19T18:13:51.550Z",
-  "min_sem_lead": 169880
+  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
+  "min_sem_lead": 776309
  },
  "leads": [
+  {
+   "nome": "554298142770",
+   "tel": "5542*****770",
+   "criado": "14:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6lIu0yPSl",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Roberto",
    "tel": "5521*****699",
