@@ -1,16 +1,16 @@
 {
- "gerado_em": "15/10/2026, 11:45",
+ "gerado_em": "15/10/2026, 12:01",
  "data_ref": "15/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
+  "total": 8,
   "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 2.5,
-  "leads_7d": 193,
+  "leads_7d": 194,
   "tickets_abertos": 916,
   "periodo_dias": 7
  },
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 2,
-  "Direto/Indicacao": 5
+  "Direto/Indicacao": 6
  },
  "criativos": [
   {
@@ -36,24 +36,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
+  "Nao identificada": 5,
   "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 199,
-  "turnos": 256,
-  "respondidos": 253,
+  "grupos_ativos": 201,
+  "turnos": 258,
+  "respondidos": 255,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 203.4,
+  "mediana_min": 202,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 217,
-    "mediana_min": 216.9
+    "respostas": 219,
+    "mediana_min": 214.2
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -131,11 +131,20 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 1,
+  "total": 2,
   "por_vendedor": {
-   "Roseli": 1
+   "Roseli": 2
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "A.L",
+    "dia": "15/10",
+    "hora": "11:58",
+    "ts": 1792076288372,
+    "origem": "Anúncio: fb.me/51bwe6es1",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "J",
@@ -157,8 +166,8 @@
   "espera_media_s": 20781
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-14T19:23:24.983Z",
-  "min_sem_lead": 1162
+  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
+  "min_sem_lead": 776141
  },
  "leads": [
   {
@@ -231,6 +240,17 @@
    "nome": "🦅",
    "tel": "5521*****290",
    "criado": "09:40",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Arnaldo",
+   "tel": "5519*****506",
+   "criado": "11:48",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
