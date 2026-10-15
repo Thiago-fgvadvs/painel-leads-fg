@@ -1,5 +1,5 @@
 {
- "gerado_em": "15/10/2026, 12:01",
+ "gerado_em": "15/10/2026, 12:16",
  "data_ref": "15/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 2.5,
   "leads_7d": 194,
-  "tickets_abertos": 916,
+  "tickets_abertos": 914,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -44,16 +44,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 201,
-  "turnos": 258,
-  "respondidos": 255,
+  "turnos": 259,
+  "respondidos": 256,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 202,
+  "mediana_min": 201.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 219,
-    "mediana_min": 214.2
+    "respostas": 220,
+    "mediana_min": 214
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -80,8 +80,8 @@
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "15/10",
-    "desde": "11:24",
-    "ts": 1792074261967
+    "desde": "12:16",
+    "ts": 1792077361112
    },
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
@@ -124,8 +124,8 @@
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "15/10",
-    "desde": "11:24",
-    "ts": 1792074261967
+    "desde": "12:16",
+    "ts": 1792077361112
    }
   ]
  },
@@ -157,17 +157,17 @@
   ]
  },
  "agora": {
-  "fila": 831,
-  "abertos": 916,
+  "fila": 832,
+  "abertos": 914,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 20781
+  "ausentes": 1,
+  "espera_media_s": 20836
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
-  "min_sem_lead": 776141
+  "min_sem_lead": 776156
  },
  "leads": [
   {
