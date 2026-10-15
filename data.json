@@ -1,17 +1,17 @@
 {
- "gerado_em": "15/10/2026, 14:49",
+ "gerado_em": "15/10/2026, 15:04",
  "data_ref": "15/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
+  "total": 13,
   "no_sla": 7,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.6,
-  "leads_7d": 198,
-  "tickets_abertos": 910,
+  "leads_7d": 199,
+  "tickets_abertos": 911,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,13 +22,17 @@
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 8
  },
  "criativos": [
   {
    "url": "fb.me/875plPmzH",
    "leads": 2
+  },
+  {
+   "url": "fb.me/91elw2A2a",
+   "leads": 1
   },
   {
    "url": "fb.me/6lIu0yPSl",
@@ -40,10 +44,17 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
+  "Trabalhista": 7,
   "Nao identificada": 6
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Nono❤️",
+   "tel": "5511*****241",
+   "criado": "14:57",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
@@ -122,6 +133,13 @@
     "dia": "12/10",
     "desde": "13:57",
     "ts": 1791824235197
+   },
+   {
+    "nome": "Nono❤️",
+    "tel": "5511*****241",
+    "dia": "15/10",
+    "desde": "14:57",
+    "ts": 1792087023334
    }
   ],
   "grupos": [
@@ -185,21 +203,32 @@
   ]
  },
  "agora": {
-  "fila": 827,
-  "abertos": 910,
+  "fila": 828,
+  "abertos": 911,
   "com_atendimento": 3,
   "online": 2,
-  "offline": 2,
-  "ausentes": 0,
+  "offline": 1,
+  "ausentes": 1,
   "espera_media_s": 20845
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
-  "min_sem_lead": 776309
+  "ultimo_lead_at": "2026-10-15T00:20:24.003Z",
+  "min_sem_lead": 1064
  },
  "leads": [
   {
-   "nome": "554298142770",
+   "nome": "Nono❤️",
+   "tel": "5511*****241",
+   "criado": "14:57",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "João",
    "tel": "5542*****770",
    "criado": "14:41",
    "atendente": "FG Advogados - Isadora ",
