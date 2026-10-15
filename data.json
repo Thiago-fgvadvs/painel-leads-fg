@@ -1,38 +1,38 @@
 {
- "gerado_em": "15/10/2026, 15:19",
+ "gerado_em": "15/10/2026, 15:34",
  "data_ref": "15/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 13,
-  "no_sla": 7,
+  "total": 14,
+  "no_sla": 8,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 1,
   "pct_sla": 100,
-  "mediana_geral": 0.6,
-  "leads_7d": 199,
-  "tickets_abertos": 911,
+  "mediana_geral": 0.8,
+  "leads_7d": 200,
+  "tickets_abertos": 912,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 8,
-   "mediana_min": 0.6
+   "leads": 9,
+   "mediana_min": 0.8
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 8
  },
  "criativos": [
   {
-   "url": "fb.me/875plPmzH",
+   "url": "fb.me/91elw2A2a",
    "leads": 2
   },
   {
-   "url": "fb.me/91elw2A2a",
-   "leads": 1
+   "url": "fb.me/875plPmzH",
+   "leads": 2
   },
   {
    "url": "fb.me/6lIu0yPSl",
@@ -44,7 +44,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 8,
   "Nao identificada": 6
  },
  "sem_resposta_lista": [
@@ -60,10 +60,10 @@
   "dias": 7,
   "grupos_ativos": 210,
   "turnos": 303,
-  "respondidos": 298,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 177.7,
+  "respondidos": 299,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 177.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -77,8 +77,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 10,
-    "mediana_min": 4.1
+    "respostas": 11,
+    "mediana_min": 6.7
    },
    {
     "nome": "Tiago Bernardo",
@@ -97,12 +97,6 @@
     "dia": "15/10",
     "desde": "14:44",
     "ts": 1792086245532
-   },
-   {
-    "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
-    "dia": "15/10",
-    "desde": "14:40",
-    "ts": 1792086051522
    },
    {
     "grupo": "D.D.A.S x OVETRIL OLEOS VEGETAIS LTDA",
@@ -162,12 +156,6 @@
     "ts": 1792084238447
    },
    {
-    "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
-    "dia": "15/10",
-    "desde": "14:40",
-    "ts": 1792086051522
-   },
-   {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "15/10",
     "desde": "14:44",
@@ -203,19 +191,30 @@
   ]
  },
  "agora": {
-  "fila": 828,
-  "abertos": 911,
+  "fila": 829,
+  "abertos": 912,
   "com_atendimento": 3,
-  "online": 1,
-  "offline": 2,
-  "ausentes": 1,
-  "espera_media_s": 20845
+  "online": 3,
+  "offline": 1,
+  "ausentes": 0,
+  "espera_media_s": 20817
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
-  "min_sem_lead": 776340
+  "ultimo_lead_at": "2026-10-15T18:31:11.718Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "Imelda Jean",
+   "tel": "5554*****434",
+   "criado": "15:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.9,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Shirley",
    "tel": "5511*****541",
