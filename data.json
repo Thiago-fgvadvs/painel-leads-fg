@@ -1,13 +1,13 @@
 {
- "gerado_em": "15/10/2026, 20:09",
+ "gerado_em": "15/10/2026, 20:24",
  "data_ref": "15/10/2026",
  "sla_min": 15,
  "kpi": {
   "total": 16,
   "no_sla": 9,
   "fora_sla": 1,
-  "sem_resposta": 1,
-  "fora_horario": 1,
+  "sem_resposta": 0,
+  "fora_horario": 2,
   "pct_sla": 90,
   "mediana_geral": 0.8,
   "leads_7d": 202,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 11,
+   "leads": 12,
    "mediana_min": 0.8
   }
  ],
@@ -51,14 +51,7 @@
   "Trabalhista": 10,
   "Nao identificada": 6
  },
- "sem_resposta_lista": [
-  {
-   "nome": "554896650705",
-   "tel": "5548*****705",
-   "criado": "20:09",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [
   {
    "nome": "Nono❤️",
@@ -133,13 +126,6 @@
     "dia": "12/10",
     "desde": "13:57",
     "ts": 1791824235197
-   },
-   {
-    "nome": "554896650705",
-    "tel": "5548*****705",
-    "dia": "15/10",
-    "desde": "20:09",
-    "ts": 1792105744479
    }
   ],
   "grupos": [
@@ -197,20 +183,20 @@
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 20985
+  "espera_media_s": 20957
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-15T23:09:04.479Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2025-04-24T15:19:49.348Z",
+  "min_sem_lead": 776645
  },
  "leads": [
   {
-   "nome": "554896650705",
+   "nome": "Fabiano",
    "tel": "5548*****705",
    "criado": "20:09",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
    "area": "Trabalhista"
