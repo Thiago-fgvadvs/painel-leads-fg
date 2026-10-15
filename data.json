@@ -1,15 +1,15 @@
 {
- "gerado_em": "15/10/2026, 15:50",
+ "gerado_em": "15/10/2026, 16:05",
  "data_ref": "15/10/2026",
  "sla_min": 15,
  "kpi": {
   "total": 14,
   "no_sla": 8,
-  "fora_sla": 0,
-  "sem_resposta": 1,
+  "fora_sla": 1,
+  "sem_resposta": 0,
   "fora_horario": 1,
-  "pct_sla": 100,
-  "mediana_geral": 0.8,
+  "pct_sla": 89,
+  "mediana_geral": 0.9,
   "leads_7d": 200,
   "tickets_abertos": 912,
   "periodo_dias": 7
@@ -17,8 +17,8 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
-   "mediana_min": 0.8
+   "leads": 10,
+   "mediana_min": 0.9
   }
  ],
  "origem": {
@@ -47,28 +47,29 @@
   "Trabalhista": 8,
   "Nao identificada": 6
  },
- "sem_resposta_lista": [
+ "sem_resposta_lista": [],
+ "fora_sla_lista": [
   {
    "nome": "Nono❤️",
    "tel": "5511*****241",
    "criado": "14:57",
-   "area": "Trabalhista"
+   "espera_min": 63.2,
+   "atendente": "FG Advogados - Isadora "
   }
  ],
- "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 210,
-  "turnos": 308,
-  "respondidos": 304,
+  "turnos": 313,
+  "respondidos": 309,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 173.8,
+  "mediana_min": 171.9,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 262,
-    "mediana_min": 182.3
+    "respostas": 266,
+    "mediana_min": 181.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -77,8 +78,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 13,
-    "mediana_min": 6.7
+    "respostas": 14,
+    "mediana_min": 4.1
    },
    {
     "nome": "Tiago Bernardo",
@@ -95,8 +96,8 @@
    {
     "grupo": "D.D.A.S x OVETRIL OLEOS VEGETAIS LTDA",
     "dia": "15/10",
-    "desde": "15:49",
-    "ts": 1792090175599
+    "desde": "15:51",
+    "ts": 1792090295604
    },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
@@ -127,13 +128,6 @@
     "dia": "12/10",
     "desde": "13:57",
     "ts": 1791824235197
-   },
-   {
-    "nome": "Nono❤️",
-    "tel": "5511*****241",
-    "dia": "15/10",
-    "desde": "14:57",
-    "ts": 1792087023334
    }
   ],
   "grupos": [
@@ -158,8 +152,8 @@
    {
     "grupo": "D.D.A.S x OVETRIL OLEOS VEGETAIS LTDA",
     "dia": "15/10",
-    "desde": "15:49",
-    "ts": 1792090175599
+    "desde": "15:51",
+    "ts": 1792090295604
    }
   ]
  },
@@ -191,19 +185,41 @@
   ]
  },
  "agora": {
-  "fila": 829,
+  "fila": 827,
   "abertos": 912,
   "com_atendimento": 3,
-  "online": 3,
-  "offline": 1,
+  "online": 2,
+  "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 20817
+  "espera_media_s": 20795
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-15T18:31:11.718Z",
-  "min_sem_lead": 19
+  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
+  "min_sem_lead": 776385
  },
  "leads": [
+  {
+   "nome": "Nono❤️",
+   "tel": "5511*****241",
+   "criado": "14:57",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 63.2,
+   "status": "FORA_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/91elw2A2a",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "João",
+   "tel": "5542*****770",
+   "criado": "14:41",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6lIu0yPSl",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Imelda Jean",
    "tel": "5554*****434",
@@ -224,28 +240,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Nono❤️",
-   "tel": "5511*****241",
-   "criado": "14:57",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/91elw2A2a",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "João",
-   "tel": "5542*****770",
-   "criado": "14:41",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6lIu0yPSl",
    "area": "Trabalhista"
   },
   {
