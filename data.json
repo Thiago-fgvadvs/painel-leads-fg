@@ -1,5 +1,5 @@
 {
- "gerado_em": "16/10/2026, 15:03",
+ "gerado_em": "16/10/2026, 15:19",
  "data_ref": "16/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -51,16 +51,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 319,
-  "respondidos": 315,
+  "turnos": 334,
+  "respondidos": 330,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 190.6,
+  "mediana_min": 180.2,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 279,
-    "mediana_min": 206.7
+    "respostas": 294,
+    "mediana_min": 195.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -85,16 +85,16 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "16/10",
+    "desde": "15:16",
+    "ts": 1792174605920
+   },
+   {
     "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
     "dia": "16/10",
     "desde": "14:56",
     "ts": 1792173398884
-   },
-   {
-    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
-    "dia": "16/10",
-    "desde": "14:39",
-    "ts": 1792172342866
    },
    {
     "grupo": "D.D.A.S x OVETRIL OLEOS VEGETAIS LTDA",
@@ -135,16 +135,16 @@
     "ts": 1792090295604
    },
    {
-    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
-    "dia": "16/10",
-    "desde": "14:39",
-    "ts": 1792172342866
-   },
-   {
     "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
     "dia": "16/10",
     "desde": "14:56",
     "ts": 1792173398884
+   },
+   {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "16/10",
+    "desde": "15:16",
+    "ts": 1792174605920
    }
   ]
  },
@@ -179,14 +179,14 @@
   "fila": 815,
   "abertos": 901,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 21938
  },
  "captacao": {
   "ultimo_lead_at": "2026-08-10T23:25:08.089Z",
-  "min_sem_lead": 96159
+  "min_sem_lead": 96174
  },
  "leads": [
   {
