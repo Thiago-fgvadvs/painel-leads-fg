@@ -1,5 +1,5 @@
 {
- "gerado_em": "16/10/2026, 14:18",
+ "gerado_em": "16/10/2026, 14:33",
  "data_ref": "16/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.6,
   "leads_7d": 172,
-  "tickets_abertos": 903,
+  "tickets_abertos": 902,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -51,16 +51,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 208,
-  "turnos": 315,
-  "respondidos": 312,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 190.1,
+  "turnos": 316,
+  "respondidos": 314,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
+  "mediana_min": 192.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 276,
-    "mediana_min": 206.4
+    "respostas": 278,
+    "mediana_min": 209
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -73,14 +73,14 @@
     "mediana_min": 6.7
    },
    {
-    "nome": "—",
-    "respostas": 4,
-    "mediana_min": 79.1
-   },
-   {
     "nome": "Tiago Bernardo",
     "respostas": 4,
     "mediana_min": 8.5
+   },
+   {
+    "nome": "—",
+    "respostas": 4,
+    "mediana_min": 79.1
    }
   ],
   "sem_resposta_lista": [
@@ -95,12 +95,6 @@
     "dia": "13/10",
     "desde": "15:24",
     "ts": 1791915866235
-   },
-   {
-    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
-    "dia": "13/10",
-    "desde": "12:43",
-    "ts": 1791906192945
    }
   ]
  },
@@ -116,12 +110,6 @@
    }
   ],
   "grupos": [
-   {
-    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
-    "dia": "13/10",
-    "desde": "12:43",
-    "ts": 1791906192945
-   },
    {
     "grupo": "C.C.S.D.J x MINHA BIBLIOTECA LTDA ",
     "dia": "13/10",
@@ -164,17 +152,17 @@
   ]
  },
  "agora": {
-  "fila": 822,
-  "abertos": 903,
+  "fila": 819,
+  "abertos": 902,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 20938
+  "espera_media_s": 21938
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-14T01:03:40.659Z",
-  "min_sem_lead": 3854
+  "ultimo_lead_at": "2026-09-28T03:00:48.007Z",
+  "min_sem_lead": 26793
  },
  "leads": [
   {
@@ -189,7 +177,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "556196998969",
+   "nome": "Raimundo",
    "tel": "5561*****969",
    "criado": "14:00",
    "atendente": "FG Advogados - Isadora ",
