@@ -1,5 +1,5 @@
 {
- "gerado_em": "16/10/2026, 17:36",
+ "gerado_em": "16/10/2026, 17:51",
  "data_ref": "16/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -60,16 +60,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 214,
-  "turnos": 365,
-  "respondidos": 361,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 163,
+  "turnos": 371,
+  "respondidos": 365,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 160.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 323,
-    "mediana_min": 177.5
+    "respostas": 326,
+    "mediana_min": 176.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -78,8 +78,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 11,
-    "mediana_min": 6.7
+    "respostas": 12,
+    "mediana_min": 7.1
    },
    {
     "nome": "—",
@@ -93,6 +93,18 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
+    "dia": "16/10",
+    "desde": "17:47",
+    "ts": 1792183655285
+   },
+   {
+    "grupo": "T.A.J.D.O x ARCOS DOURADOS COM DE ALIMENTOS SA",
+    "dia": "16/10",
+    "desde": "17:43",
+    "ts": 1792183414281
+   },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
     "dia": "16/10",
@@ -154,6 +166,18 @@
     "dia": "16/10",
     "desde": "17:23",
     "ts": 1792182222251
+   },
+   {
+    "grupo": "T.A.J.D.O x ARCOS DOURADOS COM DE ALIMENTOS SA",
+    "dia": "16/10",
+    "desde": "17:43",
+    "ts": 1792183414281
+   },
+   {
+    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
+    "dia": "16/10",
+    "desde": "17:47",
+    "ts": 1792183655285
    }
   ]
  },
@@ -194,8 +218,8 @@
   "espera_media_s": 21887
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-01T14:32:41.366Z",
-  "min_sem_lead": 21964
+  "ultimo_lead_at": "2026-10-16T19:29:31.618Z",
+  "min_sem_lead": 82
  },
  "leads": [
   {
