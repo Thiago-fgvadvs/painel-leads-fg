@@ -1,5 +1,5 @@
 {
- "gerado_em": "16/10/2026, 17:21",
+ "gerado_em": "16/10/2026, 17:36",
  "data_ref": "16/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -60,10 +60,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 214,
-  "turnos": 364,
+  "turnos": 365,
   "respondidos": 361,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
   "mediana_min": 163,
   "atendentes": [
    {
@@ -93,6 +93,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "16/10",
+    "desde": "17:23",
+    "ts": 1792182222251
+   },
    {
     "grupo": "M.R.D.S.A x INSS",
     "dia": "16/10",
@@ -142,6 +148,12 @@
     "dia": "16/10",
     "desde": "15:33",
     "ts": 1792175615960
+   },
+   {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "16/10",
+    "desde": "17:23",
+    "ts": 1792182222251
    }
   ]
  },
@@ -183,7 +195,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-01T14:32:41.366Z",
-  "min_sem_lead": 21948
+  "min_sem_lead": 21964
  },
  "leads": [
   {
