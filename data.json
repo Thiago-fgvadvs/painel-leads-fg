@@ -1,5 +1,5 @@
 {
- "gerado_em": "16/10/2026, 18:06",
+ "gerado_em": "16/10/2026, 18:22",
  "data_ref": "16/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.6,
   "leads_7d": 174,
-  "tickets_abertos": 907,
+  "tickets_abertos": 905,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -60,10 +60,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 214,
-  "turnos": 372,
+  "turnos": 370,
   "respondidos": 366,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
   "mediana_min": 160.6,
   "atendentes": [
    {
@@ -93,18 +93,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
-    "dia": "16/10",
-    "desde": "17:47",
-    "ts": 1792183655285
-   },
-   {
-    "grupo": "T.A.J.D.O x ARCOS DOURADOS COM DE ALIMENTOS SA",
-    "dia": "16/10",
-    "desde": "17:43",
-    "ts": 1792183414281
-   },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
     "dia": "16/10",
@@ -166,18 +154,6 @@
     "dia": "16/10",
     "desde": "17:23",
     "ts": 1792182222251
-   },
-   {
-    "grupo": "T.A.J.D.O x ARCOS DOURADOS COM DE ALIMENTOS SA",
-    "dia": "16/10",
-    "desde": "17:43",
-    "ts": 1792183414281
-   },
-   {
-    "grupo": "A.L.S.S x LATICINIOS CAMANDUCAIA LTDA",
-    "dia": "16/10",
-    "desde": "17:47",
-    "ts": 1792183655285
    }
   ]
  },
@@ -210,7 +186,7 @@
  },
  "agora": {
   "fila": 817,
-  "abertos": 907,
+  "abertos": 905,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
@@ -218,21 +194,10 @@
   "espera_media_s": 21887
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
-  "min_sem_lead": 777947
+  "ultimo_lead_at": "2026-10-16T19:29:31.618Z",
+  "min_sem_lead": 112
  },
  "leads": [
-  {
-   "nome": "Lucimar Nunes💋",
-   "tel": "5517*****096",
-   "criado": "16:11",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
   {
    "nome": ".",
    "tel": "5521*****680",
@@ -242,6 +207,17 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Lucimar Nunes💋",
+   "tel": "5517*****096",
+   "criado": "16:11",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
   },
   {
