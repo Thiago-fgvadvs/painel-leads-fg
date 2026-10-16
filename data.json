@@ -1,17 +1,17 @@
 {
- "gerado_em": "16/10/2026, 16:20",
+ "gerado_em": "16/10/2026, 16:35",
  "data_ref": "16/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 3,
+  "total": 6,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 173,
-  "tickets_abertos": 903,
+  "mediana_geral": 0.6,
+  "leads_7d": 174,
+  "tickets_abertos": 904,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 5,
    "mediana_min": 0.5
+  },
+  {
+   "nome": "Roseli",
+   "leads": 1,
+   "mediana_min": 0.8
   }
  ],
  "origem": {
   "Anuncio": 5,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -48,23 +53,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5
+  "Trabalhista": 5,
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 211,
-  "turnos": 344,
-  "respondidos": 340,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 177.9,
+  "grupos_ativos": 213,
+  "turnos": 353,
+  "respondidos": 350,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 172,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 304,
-    "mediana_min": 186
+    "respostas": 313,
+    "mediana_min": 180.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -73,8 +79,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 9,
-    "mediana_min": 6.7
+    "respostas": 10,
+    "mediana_min": 5.6
    },
    {
     "nome": "—",
@@ -93,12 +99,6 @@
     "dia": "16/10",
     "desde": "15:33",
     "ts": 1792175615960
-   },
-   {
-    "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
-    "dia": "16/10",
-    "desde": "14:56",
-    "ts": 1792173398884
    },
    {
     "grupo": "D.D.A.S x OVETRIL OLEOS VEGETAIS LTDA",
@@ -139,12 +139,6 @@
     "ts": 1792090295604
    },
    {
-    "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
-    "dia": "16/10",
-    "desde": "14:56",
-    "ts": 1792173398884
-   },
-   {
     "grupo": "M.R.D.S.A x INSS",
     "dia": "16/10",
     "desde": "15:33",
@@ -180,21 +174,21 @@
   ]
  },
  "agora": {
-  "fila": 816,
-  "abertos": 903,
+  "fila": 815,
+  "abertos": 904,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 21908
+  "ausentes": 0,
+  "espera_media_s": 21887
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-16T19:11:59.490Z",
-  "min_sem_lead": 8
+  "min_sem_lead": 23
  },
  "leads": [
   {
-   "nome": "5517991288096",
+   "nome": "Lucimar Nunes💋",
    "tel": "5517*****096",
    "criado": "16:11",
    "atendente": "FG Advogados - Isadora ",
@@ -203,6 +197,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Beatriz",
+   "tel": "5521*****680",
+   "criado": "16:29",
+   "atendente": "Roseli",
+   "espera_min": 0.8,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Claudia Barbosa",
