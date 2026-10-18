@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/10/2026, 13:03",
+ "gerado_em": "18/10/2026, 13:18",
  "data_ref": "18/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -26,10 +26,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 224,
-  "turnos": 383,
+  "turnos": 384,
   "respondidos": 379,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 170.6,
   "atendentes": [
    {
@@ -59,6 +59,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
+    "dia": "18/10",
+    "desde": "13:07",
+    "ts": 1792339636794
+   },
    {
     "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
     "dia": "18/10",
@@ -120,6 +126,12 @@
     "dia": "18/10",
     "desde": "09:02",
     "ts": 1792324966752
+   },
+   {
+    "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
+    "dia": "18/10",
+    "desde": "13:07",
+    "ts": 1792339636794
    }
   ]
  },
@@ -161,7 +173,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-11T16:46:46.262Z",
-  "min_sem_lead": 10036
+  "min_sem_lead": 10051
  },
  "leads": []
 }
