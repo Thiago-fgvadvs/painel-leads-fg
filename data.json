@@ -1,28 +1,28 @@
 {
- "gerado_em": "17/10/2026, 21:27",
+ "gerado_em": "17/10/2026, 21:43",
  "data_ref": "17/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
+  "total": 6,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 5,
+  "fora_horario": 6,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 179,
-  "tickets_abertos": 917,
+  "leads_7d": 180,
+  "tickets_abertos": 918,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
+   "leads": 6,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -35,11 +35,16 @@
    "leads": 2
   },
   {
+   "url": "fb.me/4MBhcZyUD",
+   "leads": 1
+  },
+  {
    "url": "fb.me/875plPmzH",
    "leads": 1
   }
  ],
  "areas": {
+  "Nao identificada": 1,
   "Trabalhista": 4,
   "Previdenciario": 1
  },
@@ -173,19 +178,30 @@
   ]
  },
  "agora": {
-  "fila": 828,
-  "abertos": 917,
+  "fila": 829,
+  "abertos": 918,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 21575
+  "espera_media_s": 21547
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-10T17:21:14.162Z",
-  "min_sem_lead": 318667
+  "ultimo_lead_at": "2026-10-18T00:31:51.219Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "Fernando De Moura",
+   "tel": "5521*****968",
+   "criado": "21:31",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4MBhcZyUD",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Marcos",
    "tel": "5521*****401",
