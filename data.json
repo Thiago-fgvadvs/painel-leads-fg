@@ -1,23 +1,23 @@
 {
- "gerado_em": "19/10/2026, 17:34",
+ "gerado_em": "19/10/2026, 17:49",
  "data_ref": "19/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 10,
+  "total": 11,
+  "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 89,
-  "tickets_abertos": 908,
+  "leads_7d": 90,
+  "tickets_abertos": 909,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 8,
+   "leads": 9,
    "mediana_min": 0.5
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 7,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 4
  },
  "criativos": [
   {
@@ -45,24 +45,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
+  "Trabalhista": 7,
   "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 248,
-  "turnos": 498,
-  "respondidos": 491,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
+  "grupos_ativos": 249,
+  "turnos": 499,
+  "respondidos": 493,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 141.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 425,
-    "mediana_min": 133.5
+    "respostas": 426,
+    "mediana_min": 137.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -71,8 +71,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 13,
-    "mediana_min": 7.5
+    "respostas": 14,
+    "mediana_min": 8
    },
    {
     "nome": "—",
@@ -86,12 +86,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "E.M.S x JMW FOODS DISTRIBUIDORA DE ALIMENTOS LTDA",
-    "dia": "19/10",
-    "desde": "16:33",
-    "ts": 1792438420985
-   },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "19/10",
@@ -169,22 +163,25 @@
     "dia": "19/10",
     "desde": "14:24",
     "ts": 1792430699694
-   },
-   {
-    "grupo": "E.M.S x JMW FOODS DISTRIBUIDORA DE ALIMENTOS LTDA",
-    "dia": "19/10",
-    "desde": "16:33",
-    "ts": 1792438420985
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 3,
+  "total": 4,
   "por_vendedor": {
-   "Roseli": 3
+   "Roseli": 4
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "V.1",
+    "dia": "19/10",
+    "hora": "17:47",
+    "ts": 1792442869556,
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Roseli",
     "cliente": "N",
@@ -215,28 +212,28 @@
   ]
  },
  "agora": {
-  "fila": 826,
-  "abertos": 908,
+  "fila": 827,
+  "abertos": 909,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 20647
+  "espera_media_s": 20619
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-19T18:45:36.606Z",
-  "min_sem_lead": 109
+  "ultimo_lead_at": "2026-10-19T20:48:02.665Z",
+  "min_sem_lead": 1
  },
  "leads": [
   {
-   "nome": "Maria Do Carmo",
-   "tel": "5587*****882",
-   "criado": "15:45",
+   "nome": "Rafael",
+   "tel": "5547*****896",
+   "criado": "17:48",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.5,
    "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Trabalhista"
   },
   {
@@ -249,6 +246,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Maria Do Carmo",
+   "tel": "5587*****882",
+   "criado": "15:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
   },
   {
    "nome": "Andre Amorim",
