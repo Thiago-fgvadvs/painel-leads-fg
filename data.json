@@ -1,5 +1,5 @@
 {
- "gerado_em": "19/10/2026, 09:57",
+ "gerado_em": "19/10/2026, 10:12",
  "data_ref": "19/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -39,16 +39,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 227,
-  "turnos": 417,
-  "respondidos": 412,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 177.9,
+  "turnos": 419,
+  "respondidos": 413,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 177.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 350,
-    "mediana_min": 174.6
+    "respostas": 351,
+    "mediana_min": 174.2
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -72,6 +72,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
+    "dia": "19/10",
+    "desde": "10:05",
+    "ts": 1792415157095
+   },
    {
     "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
     "dia": "19/10",
@@ -137,6 +143,12 @@
     "dia": "19/10",
     "desde": "09:44",
     "ts": 1792413848057
+   },
+   {
+    "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
+    "dia": "19/10",
+    "desde": "10:05",
+    "ts": 1792415157095
    }
   ]
  },
@@ -177,8 +189,8 @@
   "espera_media_s": 21491
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-19T12:25:14.217Z",
-  "min_sem_lead": 32
+  "ultimo_lead_at": "2026-05-26T16:30:21.556Z",
+  "min_sem_lead": 210042
  },
  "leads": [
   {
