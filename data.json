@@ -1,5 +1,5 @@
 {
- "gerado_em": "19/10/2026, 14:00",
+ "gerado_em": "19/10/2026, 14:15",
  "data_ref": "19/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -43,12 +43,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 239,
+  "grupos_ativos": 241,
   "turnos": 450,
-  "respondidos": 443,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 163,
+  "respondidos": 444,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 162.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -57,8 +57,8 @@
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 42,
-    "mediana_min": 1321.6
+    "respostas": 43,
+    "mediana_min": 1286.8
    },
    {
     "nome": "Roseli",
@@ -77,12 +77,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
-    "dia": "19/10",
-    "desde": "13:03",
-    "ts": 1792425789566
-   },
    {
     "grupo": "L.D.S.A x INSS",
     "dia": "19/10",
@@ -160,12 +154,6 @@
     "dia": "19/10",
     "desde": "12:55",
     "ts": 1792425310542
-   },
-   {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
-    "dia": "19/10",
-    "desde": "13:03",
-    "ts": 1792425789566
    }
   ]
  },
@@ -203,11 +191,11 @@
   "online": 1,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 20784
+  "espera_media_s": 23184
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-12T09:27:26.412Z",
-  "min_sem_lead": 10533
+  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
+  "min_sem_lead": 782036
  },
  "leads": [
   {
