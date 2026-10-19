@@ -1,5 +1,5 @@
 {
- "gerado_em": "19/10/2026, 08:10",
+ "gerado_em": "19/10/2026, 08:25",
  "data_ref": "19/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -26,10 +26,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 221,
-  "turnos": 377,
+  "turnos": 378,
   "respondidos": 372,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 163.5,
   "atendentes": [
    {
@@ -59,6 +59,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
+    "dia": "19/10",
+    "desde": "08:19",
+    "ts": 1792408789865
+   },
    {
     "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
     "dia": "18/10",
@@ -124,6 +130,12 @@
     "dia": "18/10",
     "desde": "13:07",
     "ts": 1792339636794
+   },
+   {
+    "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
+    "dia": "19/10",
+    "desde": "08:19",
+    "ts": 1792408789865
    }
   ]
  },
@@ -165,7 +177,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-28T13:20:45.483Z",
-  "min_sem_lead": 30110
+  "min_sem_lead": 30125
  },
  "leads": []
 }
