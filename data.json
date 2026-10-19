@@ -1,5 +1,5 @@
 {
- "gerado_em": "19/10/2026, 13:45",
+ "gerado_em": "19/10/2026, 14:00",
  "data_ref": "19/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -36,24 +36,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 1,
-  "Trabalhista": 3
+  "Trabalhista": 3,
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 239,
-  "turnos": 449,
-  "respondidos": 442,
+  "turnos": 450,
+  "respondidos": 443,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 163.5,
+  "mediana_min": 163,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 380,
-    "mediana_min": 160.6
+    "respostas": 381,
+    "mediana_min": 160.5
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -206,21 +206,10 @@
   "espera_media_s": 20784
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-16T19:11:59.490Z",
-  "min_sem_lead": 4173
+  "ultimo_lead_at": "2026-10-12T09:27:26.412Z",
+  "min_sem_lead": 10533
  },
  "leads": [
-  {
-   "nome": "Val 15/04/23👩😍felip",
-   "tel": "5511*****922",
-   "criado": "12:34",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
   {
    "nome": "narcosferreira",
    "tel": "5545*****172",
@@ -231,6 +220,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Val 15/04/23👩😍felip",
+   "tel": "5511*****922",
+   "criado": "12:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Erica 🌛",
