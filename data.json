@@ -1,5 +1,5 @@
 {
- "gerado_em": "19/10/2026, 15:16",
+ "gerado_em": "19/10/2026, 15:32",
  "data_ref": "19/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 84,
-  "tickets_abertos": 902,
+  "tickets_abertos": 900,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -43,17 +43,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 243,
-  "turnos": 453,
-  "respondidos": 447,
+  "grupos_ativos": 244,
+  "turnos": 471,
+  "respondidos": 465,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 161.8,
+  "mediana_min": 153.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 382,
-    "mediana_min": 160.6
+    "respostas": 400,
+    "mediana_min": 152.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -159,11 +159,20 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 2,
+  "total": 3,
   "por_vendedor": {
-   "Roseli": 2
+   "Roseli": 3
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "N",
+    "dia": "19/10",
+    "hora": "15:17",
+    "ts": 1792433866467,
+    "origem": "Anúncio: instagram.com/p/DcmVpxyMs5c/",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "A.L",
@@ -185,17 +194,17 @@
   ]
  },
  "agora": {
-  "fila": 826,
-  "abertos": 902,
+  "fila": 823,
+  "abertos": 900,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 23122
+  "espera_media_s": 23153
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-22T14:23:15.288Z",
-  "min_sem_lead": 39114
+  "ultimo_lead_at": "2026-02-10T12:19:31.597Z",
+  "min_sem_lead": 361812
  },
  "leads": [
   {
