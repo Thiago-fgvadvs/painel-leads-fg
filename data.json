@@ -1,5 +1,5 @@
 {
- "gerado_em": "19/10/2026, 12:59",
+ "gerado_em": "19/10/2026, 13:15",
  "data_ref": "19/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -44,10 +44,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 237,
-  "turnos": 445,
+  "turnos": 446,
   "respondidos": 439,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
   "mediana_min": 163.9,
   "atendentes": [
    {
@@ -77,6 +77,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "dia": "19/10",
+    "desde": "13:03",
+    "ts": 1792425789566
+   },
    {
     "grupo": "L.D.S.A x INSS",
     "dia": "19/10",
@@ -154,6 +160,12 @@
     "dia": "19/10",
     "desde": "12:55",
     "ts": 1792425310542
+   },
+   {
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "dia": "19/10",
+    "desde": "13:03",
+    "ts": 1792425789566
    }
   ]
  },
@@ -195,7 +207,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-19T15:34:47.571Z",
-  "min_sem_lead": 25
+  "min_sem_lead": 40
  },
  "leads": [
   {
