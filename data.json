@@ -1,5 +1,5 @@
 {
- "gerado_em": "19/10/2026, 16:33",
+ "gerado_em": "19/10/2026, 16:48",
  "data_ref": "19/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 88,
-  "tickets_abertos": 906,
+  "tickets_abertos": 907,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -45,24 +45,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 5
+  "Trabalhista": 5,
+  "Nao identificada": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 248,
-  "turnos": 486,
-  "respondidos": 480,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 146.9,
+  "turnos": 488,
+  "respondidos": 481,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 147,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 414,
-    "mediana_min": 144.1
+    "respostas": 415,
+    "mediana_min": 146.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -75,17 +75,23 @@
     "mediana_min": 7.5
    },
    {
-    "nome": "Tiago Bernardo",
-    "respostas": 5,
-    "mediana_min": 12.8
-   },
-   {
     "nome": "—",
     "respostas": 5,
     "mediana_min": 57.4
+   },
+   {
+    "nome": "Tiago Bernardo",
+    "respostas": 5,
+    "mediana_min": 12.8
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.M.S x JMW FOODS DISTRIBUIDORA DE ALIMENTOS LTDA",
+    "dia": "19/10",
+    "desde": "16:33",
+    "ts": 1792438420985
+   },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "19/10",
@@ -163,6 +169,12 @@
     "dia": "19/10",
     "desde": "14:24",
     "ts": 1792430699694
+   },
+   {
+    "grupo": "E.M.S x JMW FOODS DISTRIBUIDORA DE ALIMENTOS LTDA",
+    "dia": "19/10",
+    "desde": "16:33",
+    "ts": 1792438420985
    }
   ]
  },
@@ -204,18 +216,29 @@
  },
  "agora": {
   "fila": 826,
-  "abertos": 906,
+  "abertos": 907,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 20701
+  "espera_media_s": 20674
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 782173
+  "ultimo_lead_at": "2026-10-19T18:45:36.606Z",
+  "min_sem_lead": 63
  },
  "leads": [
+  {
+   "nome": "Maria Do Carmo",
+   "tel": "5587*****882",
+   "criado": "15:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Val 15/04/23👩😍felip",
    "tel": "5511*****922",
@@ -248,17 +271,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Maria Do Carmo",
-   "tel": "5587*****882",
-   "criado": "15:45",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
   },
   {
    "nome": "genhopissaia",
