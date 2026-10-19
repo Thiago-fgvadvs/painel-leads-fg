@@ -1,5 +1,5 @@
 {
- "gerado_em": "19/10/2026, 18:19",
+ "gerado_em": "19/10/2026, 18:35",
  "data_ref": "19/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -45,24 +45,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
-  "Nao identificada": 4
+  "Nao identificada": 4,
+  "Trabalhista": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 249,
-  "turnos": 502,
-  "respondidos": 496,
+  "turnos": 503,
+  "respondidos": 497,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 137.1,
+  "mediana_min": 140.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 427,
-    "mediana_min": 133.5
+    "respostas": 428,
+    "mediana_min": 137.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -215,16 +215,27 @@
   "fila": 827,
   "abertos": 909,
   "com_atendimento": 3,
-  "online": 1,
+  "online": 2,
   "offline": 1,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 20619
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-12T09:27:26.412Z",
-  "min_sem_lead": 10792
+  "min_sem_lead": 10808
  },
  "leads": [
+  {
+   "nome": " Luís Felipe",
+   "tel": "5555*****959",
+   "criado": "16:16",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 3.8,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Rafael",
    "tel": "5547*****896",
@@ -275,17 +286,6 @@
    "criado": "16:21",
    "atendente": "Tiago Bernardo",
    "espera_min": 2,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": " Luís Felipe",
-   "tel": "5555*****959",
-   "criado": "16:16",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 3.8,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
