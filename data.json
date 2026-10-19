@@ -1,29 +1,29 @@
 {
- "gerado_em": "19/10/2026, 12:29",
+ "gerado_em": "19/10/2026, 12:44",
  "data_ref": "19/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
-  "no_sla": 2,
+  "total": 3,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 81,
-  "tickets_abertos": 902,
+  "leads_7d": 82,
+  "tickets_abertos": 898,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 2,
+   "leads": 3,
    "mediana_min": 0.5
   }
  ],
  "origem": {
   "Anuncio": 2,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -32,23 +32,24 @@
   }
  ],
  "areas": {
+  "Nao identificada": 1,
   "Trabalhista": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 234,
-  "turnos": 431,
-  "respondidos": 426,
+  "grupos_ativos": 236,
+  "turnos": 441,
+  "respondidos": 436,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 172,
+  "mediana_min": 165.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 364,
-    "mediana_min": 165.6
+    "respostas": 374,
+    "mediana_min": 161.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -168,8 +169,8 @@
   ]
  },
  "agora": {
-  "fila": 823,
-  "abertos": 902,
+  "fila": 824,
+  "abertos": 898,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
@@ -177,10 +178,21 @@
   "espera_media_s": 20812
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-30T14:16:09.359Z",
-  "min_sem_lead": 292393
+  "ultimo_lead_at": "2026-10-19T15:34:47.571Z",
+  "min_sem_lead": 10
  },
  "leads": [
+  {
+   "nome": "Val 15/04/23👩😍felip",
+   "tel": "5511*****922",
+   "criado": "12:34",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Erica 🌛",
    "tel": "5519*****358",
