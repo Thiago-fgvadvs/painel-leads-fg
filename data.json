@@ -1,28 +1,28 @@
 {
- "gerado_em": "19/10/2026, 15:32",
+ "gerado_em": "19/10/2026, 15:47",
  "data_ref": "19/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 5,
+  "total": 7,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 84,
-  "tickets_abertos": 900,
+  "leads_7d": 86,
+  "tickets_abertos": 902,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
+   "leads": 7,
    "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 6,
   "Direto/Indicacao": 1
  },
  "criativos": [
@@ -32,28 +32,32 @@
   },
   {
    "url": "fb.me/7ZVZhwxMh",
+   "leads": 2
+  },
+  {
+   "url": "fb.me/6rTfJfuWE",
    "leads": 1
   }
  ],
  "areas": {
-  "Nao identificada": 1,
-  "Trabalhista": 4
+  "Nao identificada": 2,
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 244,
-  "turnos": 471,
-  "respondidos": 465,
+  "grupos_ativos": 245,
+  "turnos": 477,
+  "respondidos": 471,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 153.6,
+  "mediana_min": 148.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 400,
-    "mediana_min": 152.3
+    "respostas": 406,
+    "mediana_min": 146.9
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -194,17 +198,17 @@
   ]
  },
  "agora": {
-  "fila": 823,
-  "abertos": 900,
+  "fila": 826,
+  "abertos": 902,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 23153
+  "espera_media_s": 20701
  },
  "captacao": {
-  "ultimo_lead_at": "2026-02-10T12:19:31.597Z",
-  "min_sem_lead": 361812
+  "ultimo_lead_at": "2026-10-19T15:34:47.571Z",
+  "min_sem_lead": 192
  },
  "leads": [
   {
@@ -216,6 +220,28 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "558799101882",
+   "tel": "5587*****882",
+   "criado": "15:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "genhopissaia",
+   "tel": "5541*****794",
+   "criado": "15:44",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6rTfJfuWE",
    "area": "Nao identificada"
   },
   {
