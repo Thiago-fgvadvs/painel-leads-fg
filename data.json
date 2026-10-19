@@ -1,5 +1,5 @@
 {
- "gerado_em": "19/10/2026, 10:27",
+ "gerado_em": "19/10/2026, 10:42",
  "data_ref": "19/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -39,16 +39,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 228,
-  "turnos": 420,
-  "respondidos": 414,
+  "turnos": 425,
+  "respondidos": 419,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 177.3,
+  "mediana_min": 175,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 352,
-    "mediana_min": 173.8
+    "respostas": 357,
+    "mediana_min": 170.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -73,6 +73,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
+    "dia": "18/10",
+    "desde": "09:02",
+    "ts": 1792324966752
+   },
+   {
     "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
     "dia": "19/10",
     "desde": "10:05",
@@ -83,12 +89,6 @@
     "dia": "19/10",
     "desde": "09:44",
     "ts": 1792413848057
-   },
-   {
-    "grupo": "D.R.R x URO SERV - SERVICOS UROLOGICOS LTDA",
-    "dia": "18/10",
-    "desde": "09:02",
-    "ts": 1792324966752
    },
    {
     "grupo": "M.R.D.S.A x INSS",
@@ -180,7 +180,7 @@
   ]
  },
  "agora": {
-  "fila": 830,
+  "fila": 829,
   "abertos": 920,
   "com_atendimento": 3,
   "online": 3,
@@ -189,8 +189,8 @@
   "espera_media_s": 21491
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-16T23:12:30.485Z",
-  "min_sem_lead": 3735
+  "ultimo_lead_at": "2026-10-16T09:22:08.945Z",
+  "min_sem_lead": 4581
  },
  "leads": [
   {
