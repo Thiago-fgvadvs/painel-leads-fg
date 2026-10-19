@@ -1,55 +1,59 @@
 {
- "gerado_em": "19/10/2026, 12:44",
+ "gerado_em": "19/10/2026, 12:59",
  "data_ref": "19/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 3,
+  "total": 4,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 82,
-  "tickets_abertos": 898,
+  "mediana_geral": 0.6,
+  "leads_7d": 83,
+  "tickets_abertos": 901,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 3,
-   "mediana_min": 0.5
+   "leads": 4,
+   "mediana_min": 0.6
   }
  ],
  "origem": {
-  "Anuncio": 2,
+  "Anuncio": 3,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 2
+  },
+  {
+   "url": "fb.me/7ZVZhwxMh",
+   "leads": 1
   }
  ],
  "areas": {
   "Nao identificada": 1,
-  "Trabalhista": 2
+  "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 236,
-  "turnos": 441,
-  "respondidos": 436,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 165.6,
+  "grupos_ativos": 237,
+  "turnos": 445,
+  "respondidos": 439,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 163.9,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 374,
-    "mediana_min": 161.3
+    "respostas": 377,
+    "mediana_min": 160.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -73,6 +77,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "L.D.S.A x INSS",
+    "dia": "19/10",
+    "desde": "12:55",
+    "ts": 1792425310542
+   },
    {
     "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
     "dia": "19/10",
@@ -138,6 +148,12 @@
     "dia": "19/10",
     "desde": "10:05",
     "ts": 1792415157095
+   },
+   {
+    "grupo": "L.D.S.A x INSS",
+    "dia": "19/10",
+    "desde": "12:55",
+    "ts": 1792425310542
    }
   ]
  },
@@ -169,17 +185,17 @@
   ]
  },
  "agora": {
-  "fila": 824,
-  "abertos": 898,
+  "fila": 826,
+  "abertos": 901,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 20812
+  "ausentes": 1,
+  "espera_media_s": 20784
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-19T15:34:47.571Z",
-  "min_sem_lead": 10
+  "min_sem_lead": 25
  },
  "leads": [
   {
@@ -192,6 +208,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "narcosferreira",
+   "tel": "5545*****172",
+   "criado": "12:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
   },
   {
    "nome": "Erica 🌛",
