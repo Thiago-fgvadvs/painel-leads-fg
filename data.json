@@ -1,17 +1,17 @@
 {
- "gerado_em": "20/10/2026, 11:56",
+ "gerado_em": "20/10/2026, 12:12",
  "data_ref": "20/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 4,
+  "total": 5,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 70,
-  "tickets_abertos": 908,
+  "leads_7d": 71,
+  "tickets_abertos": 910,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 2,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -32,24 +32,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2,
-  "Nao identificada": 2
+  "Nao identificada": 3,
+  "Trabalhista": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 239,
-  "turnos": 473,
-  "respondidos": 469,
+  "grupos_ativos": 241,
+  "turnos": 484,
+  "respondidos": 480,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 100.7,
+  "mediana_min": 99.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 409,
-    "mediana_min": 100.3
+    "respostas": 420,
+    "mediana_min": 99.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -175,19 +175,30 @@
   ]
  },
  "agora": {
-  "fila": 830,
-  "abertos": 908,
+  "fila": 832,
+  "abertos": 910,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 20905
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-20T11:21:01.587Z",
-  "min_sem_lead": 216
+  "ultimo_lead_at": "2026-10-07T15:29:23.122Z",
+  "min_sem_lead": 18703
  },
  "leads": [
+  {
+   "nome": "Fernando",
+   "tel": "5521*****365",
+   "criado": "11:52",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 2.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Rod Torres",
    "tel": "5521*****028",
@@ -200,18 +211,18 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5521997785365",
-   "tel": "5521*****365",
-   "criado": "11:52",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 2.6,
+   "nome": "CORRESPONDENTE Luiz Felipe Da Costa Fernandes",
+   "tel": "5535*****940",
+   "criado": "12:01",
+   "atendente": "—",
+   "espera_min": 0,
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
   },
   {
-   "nome": "CORRESPONDENTE Tatiane Monteiro Da Silva Soares",
+   "nome": "Tatiane Monteiro",
    "tel": "5581*****700",
    "criado": "11:13",
    "atendente": "—",
