@@ -1,5 +1,5 @@
 {
- "gerado_em": "20/10/2026, 15:30",
+ "gerado_em": "20/10/2026, 15:45",
  "data_ref": "20/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 72,
-  "tickets_abertos": 915,
+  "tickets_abertos": 916,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -43,17 +43,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 245,
-  "turnos": 534,
-  "respondidos": 530,
+  "grupos_ativos": 246,
+  "turnos": 538,
+  "respondidos": 534,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 97.3,
+  "mediana_min": 96.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 470,
-    "mediana_min": 96.4
+    "respostas": 474,
+    "mediana_min": 95.2
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -105,36 +105,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Katia Santos",
-    "tel": "5562*****915",
-    "dia": "15/10",
-    "desde": "09:40",
-    "ts": 1792068027966
-   },
-   {
-    "nome": "Sara🦋",
-    "tel": "5571*****687",
-    "dia": "15/10",
-    "desde": "09:40",
-    "ts": 1792068028208
-   },
-   {
-    "nome": "🦅",
-    "tel": "5521*****290",
-    "dia": "15/10",
-    "desde": "09:40",
-    "ts": 1792068028332
-   },
-   {
-    "nome": "Arnaldo",
-    "tel": "5519*****506",
-    "dia": "15/10",
-    "desde": "11:48",
-    "ts": 1792075720307
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "D.D.A.S x OVETRIL OLEOS VEGETAIS LTDA",
@@ -208,17 +179,17 @@
   ]
  },
  "agora": {
-  "fila": 838,
-  "abertos": 915,
+  "fila": 839,
+  "abertos": 916,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 24036
+  "ausentes": 0,
+  "espera_media_s": 23910
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:21:49.813Z",
-  "min_sem_lead": 563048
+  "ultimo_lead_at": "2025-04-24T15:19:51.426Z",
+  "min_sem_lead": 783566
  },
  "leads": [
   {
