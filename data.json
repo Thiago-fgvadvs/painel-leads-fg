@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/10/2026, 18:24",
+ "gerado_em": "21/10/2026, 18:39",
  "data_ref": "21/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -40,8 +40,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
-  "Nao identificada": 1
+  "Nao identificada": 1,
+  "Trabalhista": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -193,19 +193,30 @@
   ]
  },
  "agora": {
-  "fila": 851,
+  "fila": 850,
   "abertos": 932,
   "com_atendimento": 3,
-  "online": 2,
-  "offline": 1,
+  "online": 1,
+  "offline": 2,
   "ausentes": 1,
   "espera_media_s": 24953
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.378Z",
-  "min_sem_lead": 785165
+  "ultimo_lead_at": "2026-10-14T22:42:33.863Z",
+  "min_sem_lead": 10017
  },
  "leads": [
+  {
+   "nome": "Márcia",
+   "tel": "5511*****236",
+   "criado": "16:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Christopher",
    "tel": "5549*****080",
@@ -227,17 +238,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Márcia",
-   "tel": "5511*****236",
-   "criado": "16:17",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Rampinelli",
