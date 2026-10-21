@@ -1,29 +1,29 @@
 {
- "gerado_em": "21/10/2026, 16:04",
+ "gerado_em": "21/10/2026, 16:19",
  "data_ref": "21/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 5,
+  "total": 7,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 59,
-  "tickets_abertos": 931,
+  "mediana_geral": 0.6,
+  "leads_7d": 60,
+  "tickets_abertos": 932,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
-   "mediana_min": 0.5
+   "leads": 7,
+   "mediana_min": 0.6
   }
  ],
  "origem": {
   "Anuncio": 6,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -40,6 +40,7 @@
   }
  ],
  "areas": {
+  "Nao identificada": 1,
   "Trabalhista": 6
  },
  "sem_resposta_lista": [],
@@ -47,15 +48,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 245,
-  "turnos": 582,
-  "respondidos": 578,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 63.1,
+  "turnos": 586,
+  "respondidos": 581,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 63.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 516,
+    "respostas": 517,
     "mediana_min": 56.8
    },
    {
@@ -70,7 +71,7 @@
    },
    {
     "nome": "—",
-    "respostas": 5,
+    "respostas": 7,
     "mediana_min": 1.7
    },
    {
@@ -80,6 +81,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.R.D.S.A x INSS",
+    "dia": "21/10",
+    "desde": "16:06",
+    "ts": 1792609586828
+   },
    {
     "grupo": "E.M.S x JMW FOODS DISTRIBUIDORA DE ALIMENTOS LTDA",
     "dia": "21/10",
@@ -133,6 +140,12 @@
     "dia": "21/10",
     "desde": "15:36",
     "ts": 1792607763738
+   },
+   {
+    "grupo": "M.R.D.S.A x INSS",
+    "dia": "21/10",
+    "desde": "16:06",
+    "ts": 1792609586828
    }
   ]
  },
@@ -183,19 +196,30 @@
   ]
  },
  "agora": {
-  "fila": 850,
-  "abertos": 931,
+  "fila": 851,
+  "abertos": 932,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 26535
+  "ausentes": 0,
+  "espera_media_s": 26472
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 785025
+  "ultimo_lead_at": "2026-10-21T19:17:51.322Z",
+  "min_sem_lead": 2
  },
  "leads": [
+  {
+   "nome": "5511940584236",
+   "tel": "5511*****236",
+   "criado": "16:17",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Jhenny❤️",
    "tel": "5542*****978",
