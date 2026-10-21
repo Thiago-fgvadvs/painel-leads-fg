@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/10/2026, 17:50",
+ "gerado_em": "21/10/2026, 18:05",
  "data_ref": "21/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -48,16 +48,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 248,
-  "turnos": 602,
-  "respondidos": 598,
+  "turnos": 605,
+  "respondidos": 601,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 61.6,
+  "mediana_min": 61.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 534,
-    "mediana_min": 54.4
+    "respostas": 537,
+    "mediana_min": 54.2
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -196,16 +196,27 @@
   "fila": 851,
   "abertos": 932,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 24953
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-21T20:46:22.843Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2025-04-24T15:19:49.378Z",
+  "min_sem_lead": 785146
  },
  "leads": [
+  {
+   "nome": "Christopher",
+   "tel": "5549*****080",
+   "criado": "12:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "558196930954",
    "tel": "5581*****954",
@@ -237,17 +248,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Christopher",
-   "tel": "5549*****080",
-   "criado": "12:47",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1.7,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
