@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/10/2026, 15:34",
+ "gerado_em": "21/10/2026, 15:49",
  "data_ref": "21/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -47,16 +47,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 244,
-  "turnos": 550,
-  "respondidos": 546,
+  "turnos": 563,
+  "respondidos": 559,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 62,
+  "mediana_min": 65.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 485,
-    "mediana_min": 54.5
+    "respostas": 498,
+    "mediana_min": 58.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -81,10 +81,10 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.R.D.S.A x INSS",
+    "grupo": "E.M.S x JMW FOODS DISTRIBUIDORA DE ALIMENTOS LTDA",
     "dia": "21/10",
-    "desde": "12:34",
-    "ts": 1792596897471
+    "desde": "15:36",
+    "ts": 1792607763738
    },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
@@ -129,10 +129,10 @@
     "ts": 1792505322630
    },
    {
-    "grupo": "M.R.D.S.A x INSS",
+    "grupo": "E.M.S x JMW FOODS DISTRIBUIDORA DE ALIMENTOS LTDA",
     "dia": "21/10",
-    "desde": "12:34",
-    "ts": 1792596897471
+    "desde": "15:36",
+    "ts": 1792607763738
    }
   ]
  },
@@ -186,14 +186,14 @@
   "fila": 850,
   "abertos": 931,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 26535
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-21T16:46:37.188Z",
-  "min_sem_lead": 107
+  "min_sem_lead": 123
  },
  "leads": [
   {
@@ -208,17 +208,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Christopher",
-   "tel": "5549*****080",
-   "criado": "12:47",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1.7,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Rampinelli",
    "tel": "5511*****956",
    "criado": "13:59",
@@ -227,6 +216,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Christopher",
+   "tel": "5549*****080",
+   "criado": "12:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
