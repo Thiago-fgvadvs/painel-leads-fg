@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/10/2026, 15:18",
+ "gerado_em": "21/10/2026, 15:34",
  "data_ref": "21/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -47,11 +47,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 244,
-  "turnos": 549,
-  "respondidos": 544,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 62.4,
+  "turnos": 550,
+  "respondidos": 546,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 62,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -65,7 +65,7 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 13,
+    "respostas": 15,
     "mediana_min": 8.9
    },
    {
@@ -80,12 +80,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "E.M.S x JMW FOODS DISTRIBUIDORA DE ALIMENTOS LTDA",
-    "dia": "21/10",
-    "desde": "15:18",
-    "ts": 1792606717710
-   },
    {
     "grupo": "M.R.D.S.A x INSS",
     "dia": "21/10",
@@ -139,12 +133,6 @@
     "dia": "21/10",
     "desde": "12:34",
     "ts": 1792596897471
-   },
-   {
-    "grupo": "E.M.S x JMW FOODS DISTRIBUIDORA DE ALIMENTOS LTDA",
-    "dia": "21/10",
-    "desde": "15:18",
-    "ts": 1792606717710
    }
   ]
  },
@@ -204,10 +192,21 @@
   "espera_media_s": 26535
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-21T15:47:28.019Z",
-  "min_sem_lead": 151
+  "ultimo_lead_at": "2026-10-21T16:46:37.188Z",
+  "min_sem_lead": 107
  },
  "leads": [
+  {
+   "nome": "Jhenny❤️",
+   "tel": "5542*****978",
+   "criado": "13:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Christopher",
    "tel": "5549*****080",
@@ -236,17 +235,6 @@
    "criado": "14:38",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Jhenny❤️",
-   "tel": "5542*****978",
-   "criado": "13:46",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
