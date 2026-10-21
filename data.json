@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/10/2026, 14:48",
+ "gerado_em": "21/10/2026, 15:03",
  "data_ref": "21/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 59,
-  "tickets_abertos": 932,
+  "tickets_abertos": 931,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -47,16 +47,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 244,
-  "turnos": 545,
-  "respondidos": 541,
+  "turnos": 548,
+  "respondidos": 544,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 62.7,
+  "mediana_min": 62.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 482,
-    "mediana_min": 55.8
+    "respostas": 485,
+    "mediana_min": 54.5
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -183,19 +183,30 @@
   ]
  },
  "agora": {
-  "fila": 853,
-  "abertos": 932,
+  "fila": 851,
+  "abertos": 931,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 26501
+  "espera_media_s": 26535
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-21T16:59:06.772Z",
-  "min_sem_lead": 50
+  "ultimo_lead_at": "2026-10-21T15:47:28.019Z",
+  "min_sem_lead": 136
  },
  "leads": [
+  {
+   "nome": "Christopher",
+   "tel": "5549*****080",
+   "criado": "12:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.7,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Rampinelli",
    "tel": "5511*****956",
@@ -224,17 +235,6 @@
    "criado": "13:46",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Christopher",
-   "tel": "5549*****080",
-   "criado": "12:47",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1.7,
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
