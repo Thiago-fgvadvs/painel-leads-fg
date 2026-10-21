@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/10/2026, 15:03",
+ "gerado_em": "21/10/2026, 15:18",
  "data_ref": "21/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -47,10 +47,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 244,
-  "turnos": 548,
+  "turnos": 549,
   "respondidos": 544,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
   "mediana_min": 62.4,
   "atendentes": [
    {
@@ -80,6 +80,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.M.S x JMW FOODS DISTRIBUIDORA DE ALIMENTOS LTDA",
+    "dia": "21/10",
+    "desde": "15:18",
+    "ts": 1792606717710
+   },
    {
     "grupo": "M.R.D.S.A x INSS",
     "dia": "21/10",
@@ -133,6 +139,12 @@
     "dia": "21/10",
     "desde": "12:34",
     "ts": 1792596897471
+   },
+   {
+    "grupo": "E.M.S x JMW FOODS DISTRIBUIDORA DE ALIMENTOS LTDA",
+    "dia": "21/10",
+    "desde": "15:18",
+    "ts": 1792606717710
    }
   ]
  },
@@ -183,7 +195,7 @@
   ]
  },
  "agora": {
-  "fila": 851,
+  "fila": 850,
   "abertos": 931,
   "com_atendimento": 3,
   "online": 3,
@@ -193,7 +205,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-21T15:47:28.019Z",
-  "min_sem_lead": 136
+  "min_sem_lead": 151
  },
  "leads": [
   {
