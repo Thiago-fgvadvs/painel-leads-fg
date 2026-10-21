@@ -1,5 +1,5 @@
 {
- "gerado_em": "21/10/2026, 17:05",
+ "gerado_em": "21/10/2026, 17:20",
  "data_ref": "21/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.6,
   "leads_7d": 60,
-  "tickets_abertos": 933,
+  "tickets_abertos": 932,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -48,16 +48,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 246,
-  "turnos": 594,
-  "respondidos": 590,
+  "turnos": 597,
+  "respondidos": 593,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 62.7,
+  "mediana_min": 62.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 526,
-    "mediana_min": 56.3
+    "respostas": 529,
+    "mediana_min": 55.5
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -139,12 +139,21 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 4,
+  "total": 5,
   "por_vendedor": {
-   "Tiago Bernardo": 1,
+   "Tiago Bernardo": 2,
    "Roseli": 3
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "E.S",
+    "dia": "21/10",
+    "hora": "17:16",
+    "ts": 1792613789305,
+    "origem": "Anúncio: fb.me/cMY7LLYxT",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "R",
@@ -185,16 +194,16 @@
  },
  "agora": {
   "fila": 850,
-  "abertos": 933,
+  "abertos": 932,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 26472
+  "ausentes": 0,
+  "espera_media_s": 24986
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-21T19:17:51.322Z",
-  "min_sem_lead": 47
+  "min_sem_lead": 62
  },
  "leads": [
   {
@@ -207,6 +216,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Rampinelli",
+   "tel": "5511*****956",
+   "criado": "13:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
   },
   {
    "nome": "Christopher",
@@ -228,17 +248,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Rampinelli",
-   "tel": "5511*****956",
-   "criado": "13:59",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
   },
   {
