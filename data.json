@@ -1,34 +1,34 @@
 {
- "gerado_em": "21/10/2026, 17:35",
+ "gerado_em": "21/10/2026, 17:50",
  "data_ref": "21/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 6,
+  "total": 8,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
-  "mediana_geral": 0.6,
-  "leads_7d": 60,
+  "mediana_geral": 0.5,
+  "leads_7d": 61,
   "tickets_abertos": 932,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
-   "mediana_min": 0.6
+   "leads": 8,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 4
+   "leads": 5
   },
   {
    "url": "fb.me/7ZVZhwxMh",
@@ -40,24 +40,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
+  "Trabalhista": 7,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 247,
-  "turnos": 600,
-  "respondidos": 596,
+  "grupos_ativos": 248,
+  "turnos": 602,
+  "respondidos": 598,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 62,
+  "mediana_min": 61.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 532,
-    "mediana_min": 55
+    "respostas": 534,
+    "mediana_min": 54.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -193,28 +193,28 @@
   ]
  },
  "agora": {
-  "fila": 850,
+  "fila": 851,
   "abertos": 932,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 24986
+  "espera_media_s": 24953
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-13T18:02:41.545Z",
-  "min_sem_lead": 11673
+  "ultimo_lead_at": "2026-10-21T20:46:22.843Z",
+  "min_sem_lead": 4
  },
  "leads": [
   {
-   "nome": "Rampinelli",
-   "tel": "5511*****956",
-   "criado": "13:59",
+   "nome": "558196930954",
+   "tel": "5581*****954",
+   "criado": "17:46",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.5,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
@@ -227,6 +227,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Rampinelli",
+   "tel": "5511*****956",
+   "criado": "13:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
   },
   {
    "nome": "Christopher",
