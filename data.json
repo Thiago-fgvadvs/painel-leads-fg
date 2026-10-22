@@ -1,12 +1,12 @@
 {
- "gerado_em": "22/10/2026, 15:22",
+ "gerado_em": "22/10/2026, 15:37",
  "data_ref": "22/10/2026",
  "sla_min": 15,
  "kpi": {
   "total": 6,
-  "no_sla": 5,
+  "no_sla": 6,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
+   "leads": 6,
    "mediana_min": 0.5
   }
  ],
@@ -39,27 +39,20 @@
   "Trabalhista": 4,
   "Nao identificada": 2
  },
- "sem_resposta_lista": [
-  {
-   "nome": "557199488801",
-   "tel": "5571*****801",
-   "criado": "15:21",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 228,
-  "turnos": 581,
-  "respondidos": 579,
+  "turnos": 583,
+  "respondidos": 581,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 47.7,
+  "mediana_min": 48.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 517,
+    "respostas": 518,
     "mediana_min": 45.5
    },
    {
@@ -74,8 +67,8 @@
    },
    {
     "nome": "—",
-    "respostas": 7,
-    "mediana_min": 17.4
+    "respostas": 8,
+    "mediana_min": 19.6
    },
    {
     "nome": "Tiago Bernardo",
@@ -100,15 +93,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "557199488801",
-    "tel": "5571*****801",
-    "dia": "22/10",
-    "desde": "15:21",
-    "ts": 1792693298738
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
@@ -174,23 +159,23 @@
   "fila": 814,
   "abertos": 887,
   "com_atendimento": 3,
-  "online": 3,
-  "offline": 1,
+  "online": 2,
+  "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 26645
+  "espera_media_s": 26609
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-22T18:21:38.738Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2026-10-13T01:14:00.576Z",
+  "min_sem_lead": 14003
  },
  "leads": [
   {
    "nome": "557199488801",
    "tel": "5571*****801",
    "criado": "15:21",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
