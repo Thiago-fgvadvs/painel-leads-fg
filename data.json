@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/10/2026, 17:38",
+ "gerado_em": "22/10/2026, 17:53",
  "data_ref": "22/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -44,16 +44,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 230,
-  "turnos": 608,
-  "respondidos": 606,
-  "sem_resposta": 2,
-  "sem_resposta_grupos": 2,
-  "mediana_min": 50.1,
+  "turnos": 610,
+  "respondidos": 607,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 49.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 542,
-    "mediana_min": 45.9
+    "respostas": 543,
+    "mediana_min": 45.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -77,6 +77,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
+    "dia": "22/10",
+    "desde": "17:39",
+    "ts": 1792701543200
+   },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "20/10",
@@ -106,6 +112,12 @@
     "dia": "20/10",
     "desde": "11:08",
     "ts": 1792505322630
+   },
+   {
+    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
+    "dia": "22/10",
+    "desde": "17:39",
+    "ts": 1792701543200
    }
   ]
  },
@@ -165,8 +177,8 @@
   "espera_media_s": 26539
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-16T23:12:30.485Z",
-  "min_sem_lead": 8486
+  "ultimo_lead_at": "2026-10-22T20:34:06.435Z",
+  "min_sem_lead": 20
  },
  "leads": [
   {
