@@ -1,29 +1,29 @@
 {
- "gerado_em": "22/10/2026, 13:35",
+ "gerado_em": "22/10/2026, 13:50",
  "data_ref": "22/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 4,
+  "total": 5,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 48,
-  "tickets_abertos": 907,
+  "leads_7d": 49,
+  "tickets_abertos": 908,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": 0.5
   }
  ],
  "origem": {
   "Anuncio": 3,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -36,23 +36,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3,
-  "Nao identificada": 1
+  "Nao identificada": 2,
+  "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 224,
-  "turnos": 566,
-  "respondidos": 563,
+  "turnos": 570,
+  "respondidos": 567,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
   "mediana_min": 47.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 501,
+    "respostas": 505,
     "mediana_min": 44.8
    },
    {
@@ -168,19 +168,30 @@
   ]
  },
  "agora": {
-  "fila": 813,
-  "abertos": 907,
+  "fila": 814,
+  "abertos": 908,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 27902
+  "ausentes": 1,
+  "espera_media_s": 27866
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-10T00:28:30.475Z",
-  "min_sem_lead": 18247
+  "ultimo_lead_at": "2026-08-10T23:25:08.089Z",
+  "min_sem_lead": 104726
  },
  "leads": [
+  {
+   "nome": "Divania",
+   "tel": "5565*****078",
+   "criado": "13:37",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "justino",
    "tel": "5524*****365",
