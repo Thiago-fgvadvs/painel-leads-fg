@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/10/2026, 17:08",
+ "gerado_em": "22/10/2026, 17:23",
  "data_ref": "22/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -44,16 +44,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 230,
-  "turnos": 599,
-  "respondidos": 596,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 51.1,
+  "turnos": 604,
+  "respondidos": 600,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 51.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 532,
-    "mediana_min": 46.4
+    "respostas": 536,
+    "mediana_min": 46.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -77,6 +77,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
+    "dia": "22/10",
+    "desde": "17:18",
+    "ts": 1792700294137
+   },
    {
     "grupo": "A.J.P.B",
     "dia": "22/10",
@@ -118,6 +124,12 @@
     "dia": "22/10",
     "desde": "16:56",
     "ts": 1792698978123
+   },
+   {
+    "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
+    "dia": "22/10",
+    "desde": "17:18",
+    "ts": 1792700294137
    }
   ]
  },
@@ -178,7 +190,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
-  "min_sem_lead": 786528
+  "min_sem_lead": 786544
  },
  "leads": [
   {
