@@ -1,17 +1,17 @@
 {
- "gerado_em": "22/10/2026, 15:06",
+ "gerado_em": "22/10/2026, 15:22",
  "data_ref": "22/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
+  "total": 6,
   "no_sla": 5,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 49,
-  "tickets_abertos": 888,
+  "leads_7d": 50,
+  "tickets_abertos": 887,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,13 +22,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "fb.me/7ZVZhwxMh",
@@ -36,24 +36,31 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 3
+  "Trabalhista": 4,
+  "Nao identificada": 2
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "557199488801",
+   "tel": "5571*****801",
+   "criado": "15:21",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 227,
-  "turnos": 580,
-  "respondidos": 578,
+  "grupos_ativos": 228,
+  "turnos": 581,
+  "respondidos": 579,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
   "mediana_min": 47.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 516,
-    "mediana_min": 45.4
+    "respostas": 517,
+    "mediana_min": 45.5
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -93,7 +100,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "557199488801",
+    "tel": "5571*****801",
+    "dia": "22/10",
+    "desde": "15:21",
+    "ts": 1792693298738
+   }
+  ],
   "grupos": [
    {
     "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
@@ -157,18 +172,29 @@
  },
  "agora": {
   "fila": 814,
-  "abertos": 888,
+  "abertos": 887,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 26609
+  "espera_media_s": 26645
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-10T00:28:30.475Z",
-  "min_sem_lead": 18338
+  "ultimo_lead_at": "2026-10-22T18:21:38.738Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "557199488801",
+   "tel": "5571*****801",
+   "criado": "15:21",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Divania",
    "tel": "5565*****078",
