@@ -1,5 +1,5 @@
 {
- "gerado_em": "22/10/2026, 18:08",
+ "gerado_em": "22/10/2026, 18:23",
  "data_ref": "22/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 51,
-  "tickets_abertos": 891,
+  "tickets_abertos": 888,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -45,9 +45,9 @@
   "dias": 7,
   "grupos_ativos": 230,
   "turnos": 612,
-  "respondidos": 609,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
+  "respondidos": 610,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
   "mediana_min": 49.5,
   "atendentes": [
    {
@@ -62,8 +62,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 15,
-    "mediana_min": 8
+    "respostas": 16,
+    "mediana_min": 8.3
    },
    {
     "nome": "—",
@@ -77,12 +77,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
-    "dia": "22/10",
-    "desde": "17:39",
-    "ts": 1792701543200
-   },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "20/10",
@@ -112,12 +106,6 @@
     "dia": "20/10",
     "desde": "11:08",
     "ts": 1792505322630
-   },
-   {
-    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
-    "dia": "22/10",
-    "desde": "17:39",
-    "ts": 1792701543200
    }
   ]
  },
@@ -168,17 +156,17 @@
   ]
  },
  "agora": {
-  "fila": 816,
-  "abertos": 891,
+  "fila": 815,
+  "abertos": 888,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 26539
+  "espera_media_s": 26609
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-16T23:12:30.485Z",
-  "min_sem_lead": 8516
+  "min_sem_lead": 8531
  },
  "leads": [
   {
