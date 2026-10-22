@@ -1,86 +1,70 @@
 {
- "gerado_em": "21/10/2026, 21:56",
- "data_ref": "21/10/2026",
+ "gerado_em": "22/10/2026, 07:11",
+ "data_ref": "22/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 7,
+  "total": 0,
+  "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 1,
-  "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 61,
-  "tickets_abertos": 932,
+  "fora_horario": 0,
+  "pct_sla": 0,
+  "mediana_geral": null,
+  "leads_7d": 44,
+  "tickets_abertos": 930,
   "periodo_dias": 7
  },
- "atendentes": [
-  {
-   "nome": "FG Advogados - Isadora ",
-   "leads": 8,
-   "mediana_min": 0.5
-  }
- ],
+ "atendentes": [],
  "origem": {
-  "Anuncio": 7,
-  "Direto/Indicacao": 1
+  "Anuncio": 0,
+  "Direto/Indicacao": 0
  },
- "criativos": [
-  {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 5
-  },
-  {
-   "url": "fb.me/7ZVZhwxMh",
-   "leads": 1
-  },
-  {
-   "url": "fb.me/7aicVqTF9",
-   "leads": 1
-  }
- ],
- "areas": {
-  "Trabalhista": 7,
-  "Nao identificada": 1
- },
+ "criativos": [],
+ "areas": {},
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 248,
-  "turnos": 607,
-  "respondidos": 603,
+  "grupos_ativos": 208,
+  "turnos": 507,
+  "respondidos": 503,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 61.4,
+  "mediana_min": 47.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 538,
-    "mediana_min": 54.4
+    "respostas": 448,
+    "mediana_min": 44.3
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 38,
-    "mediana_min": 1144.2
+    "respostas": 35,
+    "mediana_min": 1199.5
    },
    {
     "nome": "Roseli",
-    "respostas": 15,
+    "respostas": 11,
     "mediana_min": 8.9
    },
    {
     "nome": "—",
-    "respostas": 7,
-    "mediana_min": 1.7
+    "respostas": 6,
+    "mediana_min": 9.5
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 5,
+    "respostas": 3,
     "mediana_min": 78
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.R.D.S.A x INSS",
+    "dia": "22/10",
+    "desde": "00:47",
+    "ts": 1792640829200
+   },
    {
     "grupo": "E.M.S x JMW FOODS DISTRIBUIDORA DE ALIMENTOS LTDA",
     "dia": "21/10",
@@ -98,12 +82,6 @@
     "dia": "19/10",
     "desde": "09:44",
     "ts": 1792413848057
-   },
-   {
-    "grupo": "D.D.A.S x OVETRIL OLEOS VEGETAIS LTDA",
-    "dia": "15/10",
-    "desde": "15:51",
-    "ts": 1792090295604
    }
   ]
  },
@@ -112,12 +90,6 @@
   "leads": [],
   "grupos": [
    {
-    "grupo": "D.D.A.S x OVETRIL OLEOS VEGETAIS LTDA",
-    "dia": "15/10",
-    "desde": "15:51",
-    "ts": 1792090295604
-   },
-   {
     "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
     "dia": "19/10",
     "desde": "09:44",
@@ -134,15 +106,21 @@
     "dia": "21/10",
     "desde": "15:36",
     "ts": 1792607763738
+   },
+   {
+    "grupo": "M.R.D.S.A x INSS",
+    "dia": "22/10",
+    "desde": "00:47",
+    "ts": 1792640829200
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 5,
+  "total": 4,
   "por_vendedor": {
    "Tiago Bernardo": 2,
-   "Roseli": 3
+   "Roseli": 2
   },
   "lista": [
    {
@@ -180,21 +158,12 @@
     "ts": 1792433866467,
     "origem": "Anúncio: instagram.com/p/DcmVpxyMs5c/",
     "de_anuncio": true
-   },
-   {
-    "vendedor": "Roseli",
-    "cliente": "A.L",
-    "dia": "15/10",
-    "hora": "11:58",
-    "ts": 1792076288372,
-    "origem": "Anúncio: fb.me/51bwe6es1",
-    "de_anuncio": true
    }
   ]
  },
  "agora": {
-  "fila": 850,
-  "abertos": 932,
+  "fila": 848,
+  "abertos": 930,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
@@ -202,97 +171,8 @@
   "espera_media_s": 24953
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-21T16:46:37.188Z",
-  "min_sem_lead": 490
+  "ultimo_lead_at": "2026-03-10T17:21:14.162Z",
+  "min_sem_lead": 325010
  },
- "leads": [
-  {
-   "nome": "Jhenny❤️",
-   "tel": "5542*****978",
-   "criado": "13:46",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Márcia",
-   "tel": "5511*****236",
-   "criado": "16:17",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Christopher",
-   "tel": "5549*****080",
-   "criado": "12:47",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1.7,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "558196930954",
-   "tel": "5581*****954",
-   "criado": "17:46",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Rampinelli",
-   "tel": "5511*****956",
-   "criado": "13:59",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "559281002212",
-   "tel": "5592*****212",
-   "criado": "14:38",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Romildo",
-   "tel": "5544*****583",
-   "criado": "13:04",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7aicVqTF9",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "553184262787",
-   "tel": "5531*****787",
-   "criado": "07:34",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  }
- ]
+ "leads": []
 }
