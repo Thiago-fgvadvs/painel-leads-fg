@@ -1,17 +1,17 @@
 {
- "gerado_em": "23/10/2026, 14:48",
+ "gerado_em": "23/10/2026, 15:03",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
+  "total": 8,
   "no_sla": 5,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 53,
-  "tickets_abertos": 905,
+  "leads_7d": 54,
+  "tickets_abertos": 906,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 6,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -41,24 +41,31 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
+  "Trabalhista": 7,
   "Nao identificada": 1
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "553197979773",
+   "tel": "5531*****773",
+   "criado": "15:03",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 226,
-  "turnos": 578,
-  "respondidos": 575,
+  "grupos_ativos": 227,
+  "turnos": 580,
+  "respondidos": 577,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 46.5,
+  "mediana_min": 46.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 520,
-    "mediana_min": 45.2
+    "respostas": 522,
+    "mediana_min": 44.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -104,7 +111,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "553197979773",
+    "tel": "5531*****773",
+    "dia": "23/10",
+    "desde": "15:03",
+    "ts": 1792778598924
+   }
+  ],
   "grupos": [
    {
     "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
@@ -173,8 +188,8 @@
   ]
  },
  "agora": {
-  "fila": 827,
-  "abertos": 905,
+  "fila": 828,
+  "abertos": 906,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
@@ -182,10 +197,21 @@
   "espera_media_s": 26155
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-13T01:14:00.576Z",
-  "min_sem_lead": 15395
+  "ultimo_lead_at": "2026-10-23T18:03:18.924Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "553197979773",
+   "tel": "5531*****773",
+   "criado": "15:03",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "A menina dos olhos",
    "tel": "5511*****897",
