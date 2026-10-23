@@ -1,23 +1,23 @@
 {
- "gerado_em": "23/10/2026, 12:13",
+ "gerado_em": "23/10/2026, 12:28",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 3,
+  "total": 6,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
-  "mediana_geral": 0.4,
-  "leads_7d": 51,
-  "tickets_abertos": 899,
+  "mediana_geral": 0.5,
+  "leads_7d": 52,
+  "tickets_abertos": 900,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": 0.5
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 5,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/7ZVZhwxMh",
@@ -41,23 +41,23 @@
   }
  ],
  "areas": {
-  "Nao identificada": 1,
-  "Trabalhista": 4
+  "Trabalhista": 5,
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 222,
-  "turnos": 546,
-  "respondidos": 544,
+  "turnos": 548,
+  "respondidos": 546,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 47.9,
+  "mediana_min": 47.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 489,
+    "respostas": 491,
     "mediana_min": 45.7
    },
    {
@@ -161,19 +161,30 @@
   ]
  },
  "agora": {
-  "fila": 823,
-  "abertos": 899,
+  "fila": 824,
+  "abertos": 900,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 26293
+  "espera_media_s": 26258
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-21T16:46:37.188Z",
-  "min_sem_lead": 2787
+  "ultimo_lead_at": "2026-10-23T15:26:02.518Z",
+  "min_sem_lead": 3
  },
  "leads": [
+  {
+   "nome": "Enilda de Jesus",
+   "tel": "5573*****918",
+   "criado": "12:26",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Marcos Silva",
    "tel": "5511*****772",
