@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/10/2026, 17:19",
+ "gerado_em": "23/10/2026, 17:35",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 56,
-  "tickets_abertos": 912,
+  "tickets_abertos": 911,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -62,11 +62,11 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 233,
-  "turnos": 589,
-  "respondidos": 586,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 46.2,
+  "turnos": 592,
+  "respondidos": 588,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 46.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -85,8 +85,8 @@
    },
    {
     "nome": "—",
-    "respostas": 11,
-    "mediana_min": 27.3
+    "respostas": 13,
+    "mediana_min": 70.2
    },
    {
     "nome": "Tiago Bernardo",
@@ -95,6 +95,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.R.D.S x CBSI - COMPANHIA BRASILEIRA DE SERVICOS DE INFRAESTRUTURA",
+    "dia": "23/10",
+    "desde": "17:20",
+    "ts": 1792786826367
+   },
    {
     "grupo": "J.R.K.D.M x BRF S.A",
     "dia": "23/10",
@@ -151,17 +157,32 @@
     "dia": "23/10",
     "desde": "13:01",
     "ts": 1792771315976
+   },
+   {
+    "grupo": "R.R.D.S x CBSI - COMPANHIA BRASILEIRA DE SERVICOS DE INFRAESTRUTURA",
+    "dia": "23/10",
+    "desde": "17:20",
+    "ts": 1792786826367
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 4,
+  "total": 5,
   "por_vendedor": {
-   "Tiago Bernardo": 2,
-   "Roseli": 2
+   "Roseli": 3,
+   "Tiago Bernardo": 2
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "R",
+    "dia": "23/10",
+    "hora": "17:32",
+    "ts": 1792787554100,
+    "origem": "Anúncio: fb.me/6lIu0yPSl",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "E.S",
@@ -202,16 +223,16 @@
  },
  "agora": {
   "fila": 832,
-  "abertos": 912,
+  "abertos": 911,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 26086
+  "espera_media_s": 26121
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-14T01:03:40.659Z",
-  "min_sem_lead": 14116
+  "min_sem_lead": 14131
  },
  "leads": [
   {
