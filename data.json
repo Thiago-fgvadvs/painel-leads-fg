@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/10/2026, 12:58",
+ "gerado_em": "23/10/2026, 13:14",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -49,15 +49,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 225,
-  "turnos": 554,
-  "respondidos": 552,
-  "sem_resposta": 2,
-  "sem_resposta_grupos": 2,
-  "mediana_min": 47.3,
+  "turnos": 558,
+  "respondidos": 555,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 47.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 497,
+    "respostas": 500,
     "mediana_min": 45.5
    },
    {
@@ -82,6 +82,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.R.K.D.M x BRF S.A",
+    "dia": "23/10",
+    "desde": "13:01",
+    "ts": 1792771315976
+   },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "20/10",
@@ -111,6 +117,12 @@
     "dia": "20/10",
     "desde": "11:08",
     "ts": 1792505322630
+   },
+   {
+    "grupo": "J.R.K.D.M x BRF S.A",
+    "dia": "23/10",
+    "desde": "13:01",
+    "ts": 1792771315976
    }
   ]
  },
@@ -164,14 +176,14 @@
   "fila": 825,
   "abertos": 902,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 26258
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-03T23:21:39.221Z",
-  "min_sem_lead": 71557
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 787734
  },
  "leads": [
   {
