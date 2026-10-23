@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/10/2026, 18:20",
+ "gerado_em": "23/10/2026, 18:35",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 75,
   "mediana_geral": 0.5,
   "leads_7d": 56,
-  "tickets_abertos": 910,
+  "tickets_abertos": 911,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -63,7 +63,7 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 233,
+  "grupos_ativos": 234,
   "turnos": 594,
   "respondidos": 590,
   "sem_resposta": 4,
@@ -209,8 +209,8 @@
   ]
  },
  "agora": {
-  "fila": 830,
-  "abertos": 910,
+  "fila": 829,
+  "abertos": 911,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
@@ -218,21 +218,10 @@
   "espera_media_s": 26034
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-23T17:24:47.268Z",
-  "min_sem_lead": 236
+  "ultimo_lead_at": "2026-10-23T19:53:37.424Z",
+  "min_sem_lead": 102
  },
  "leads": [
-  {
-   "nome": "A menina dos olhos",
-   "tel": "5511*****897",
-   "criado": "14:24",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Poliana Santos Araujo",
    "tel": "5575*****154",
@@ -242,6 +231,17 @@
    "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "A menina dos olhos",
+   "tel": "5511*****897",
+   "criado": "14:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
