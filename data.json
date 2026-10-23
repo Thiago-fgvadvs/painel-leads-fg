@@ -1,23 +1,23 @@
 {
- "gerado_em": "23/10/2026, 14:18",
+ "gerado_em": "23/10/2026, 14:33",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 4,
+  "total": 7,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 52,
-  "tickets_abertos": 903,
+  "leads_7d": 53,
+  "tickets_abertos": 905,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 5,
+   "leads": 6,
    "mediana_min": 0.5
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 4
+   "leads": 5
   },
   {
    "url": "fb.me/7ZVZhwxMh",
@@ -41,7 +41,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
+  "Trabalhista": 6,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
@@ -49,16 +49,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 570,
-  "respondidos": 567,
+  "turnos": 576,
+  "respondidos": 573,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 46.3,
+  "mediana_min": 46.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 512,
-    "mediana_min": 44.3
+    "respostas": 518,
+    "mediana_min": 44.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -173,19 +173,30 @@
   ]
  },
  "agora": {
-  "fila": 825,
-  "abertos": 903,
+  "fila": 827,
+  "abertos": 905,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 26224
+  "ausentes": 0,
+  "espera_media_s": 26189
  },
  "captacao": {
-  "ultimo_lead_at": "2025-05-13T22:24:51.176Z",
-  "min_sem_lead": 760013
+  "ultimo_lead_at": "2026-10-22T20:34:06.435Z",
+  "min_sem_lead": 1259
  },
  "leads": [
+  {
+   "nome": "A menina dos olhos",
+   "tel": "5511*****897",
+   "criado": "14:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Lena Delmiro",
    "tel": "5589*****052",
