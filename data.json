@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/10/2026, 16:34",
+ "gerado_em": "23/10/2026, 16:49",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 54,
-  "tickets_abertos": 908,
+  "tickets_abertos": 909,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -41,18 +41,18 @@
   }
  ],
  "areas": {
-  "Nao identificada": 1,
-  "Trabalhista": 7
+  "Trabalhista": 7,
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 232,
-  "turnos": 581,
+  "turnos": 582,
   "respondidos": 578,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
   "mediana_min": 46.2,
   "atendentes": [
    {
@@ -82,6 +82,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
+    "dia": "23/10",
+    "desde": "14:01",
+    "ts": 1792774863086
+   },
    {
     "grupo": "J.R.K.D.M x BRF S.A",
     "dia": "23/10",
@@ -123,6 +129,12 @@
     "dia": "23/10",
     "desde": "13:01",
     "ts": 1792771315976
+   },
+   {
+    "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
+    "dia": "23/10",
+    "desde": "14:01",
+    "ts": 1792774863086
    }
   ]
  },
@@ -173,41 +185,19 @@
   ]
  },
  "agora": {
-  "fila": 830,
-  "abertos": 908,
+  "fila": 831,
+  "abertos": 909,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 26086
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-21T17:37:45.458Z",
-  "min_sem_lead": 135477
+  "ultimo_lead_at": "2026-10-23T18:03:18.924Z",
+  "min_sem_lead": 106
  },
  "leads": [
-  {
-   "nome": "Marcos Silva",
-   "tel": "5511*****772",
-   "criado": "10:17",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Lena Delmiro",
-   "tel": "5589*****052",
-   "criado": "03:55",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
   {
    "nome": "553197979773",
    "tel": "5531*****773",
@@ -228,6 +218,28 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Marcos Silva",
+   "tel": "5511*****772",
+   "criado": "10:17",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Lena Delmiro",
+   "tel": "5589*****052",
+   "criado": "03:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
   },
   {
