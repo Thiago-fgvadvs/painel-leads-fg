@@ -1,17 +1,17 @@
 {
- "gerado_em": "23/10/2026, 16:49",
+ "gerado_em": "23/10/2026, 17:04",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
+  "total": 10,
   "no_sla": 6,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 2,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 54,
-  "tickets_abertos": 909,
+  "leads_7d": 56,
+  "tickets_abertos": 912,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,33 +27,46 @@
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 8,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "fb.me/7ZVZhwxMh",
-   "leads": 1
+   "leads": 2
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 9,
   "Nao identificada": 1
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "558184433223",
+   "tel": "5581*****223",
+   "criado": "16:56",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Poliana Santos Araujo",
+   "tel": "5575*****154",
+   "criado": "16:53",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 232,
-  "turnos": 582,
-  "respondidos": 578,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 46.2,
+  "grupos_ativos": 233,
+  "turnos": 587,
+  "respondidos": 582,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 46.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -72,21 +85,27 @@
    },
    {
     "nome": "—",
-    "respostas": 8,
-    "mediana_min": 19.6
+    "respostas": 10,
+    "mediana_min": 24.6
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 4,
+    "respostas": 6,
     "mediana_min": 89.4
    }
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.R.D.S x CBSI - COMPANHIA BRASILEIRA DE SERVICOS DE INFRAESTRUTURA",
+    "dia": "23/10",
+    "desde": "17:03",
+    "ts": 1792785812353
+   },
+   {
     "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
     "dia": "23/10",
-    "desde": "14:01",
-    "ts": 1792774863086
+    "desde": "17:01",
+    "ts": 1792785665349
    },
    {
     "grupo": "J.R.K.D.M x BRF S.A",
@@ -110,7 +129,22 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Poliana Santos Araujo",
+    "tel": "5575*****154",
+    "dia": "23/10",
+    "desde": "16:53",
+    "ts": 1792785217424
+   },
+   {
+    "nome": "558184433223",
+    "tel": "5581*****223",
+    "dia": "23/10",
+    "desde": "16:56",
+    "ts": 1792785375584
+   }
+  ],
   "grupos": [
    {
     "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
@@ -133,8 +167,14 @@
    {
     "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
     "dia": "23/10",
-    "desde": "14:01",
-    "ts": 1792774863086
+    "desde": "17:01",
+    "ts": 1792785665349
+   },
+   {
+    "grupo": "R.R.D.S x CBSI - COMPANHIA BRASILEIRA DE SERVICOS DE INFRAESTRUTURA",
+    "dia": "23/10",
+    "desde": "17:03",
+    "ts": 1792785812353
    }
   ]
  },
@@ -185,8 +225,8 @@
   ]
  },
  "agora": {
-  "fila": 831,
-  "abertos": 909,
+  "fila": 832,
+  "abertos": 912,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
@@ -194,10 +234,32 @@
   "espera_media_s": 26086
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-23T18:03:18.924Z",
-  "min_sem_lead": 106
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 787965
  },
  "leads": [
+  {
+   "nome": "558184433223",
+   "tel": "5581*****223",
+   "criado": "16:56",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Poliana Santos Araujo",
+   "tel": "5575*****154",
+   "criado": "16:53",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "553197979773",
    "tel": "5531*****773",
