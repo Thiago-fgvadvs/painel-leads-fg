@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/10/2026, 12:43",
+ "gerado_em": "23/10/2026, 12:58",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 52,
-  "tickets_abertos": 901,
+  "tickets_abertos": 902,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -41,23 +41,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
-  "Nao identificada": 1
+  "Nao identificada": 1,
+  "Trabalhista": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 224,
-  "turnos": 550,
-  "respondidos": 548,
+  "grupos_ativos": 225,
+  "turnos": 554,
+  "respondidos": 552,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 47.6,
+  "mediana_min": 47.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 493,
+    "respostas": 497,
     "mediana_min": 45.5
    },
    {
@@ -161,30 +161,19 @@
   ]
  },
  "agora": {
-  "fila": 824,
-  "abertos": 901,
+  "fila": 825,
+  "abertos": 902,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 26258
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-23T15:26:02.518Z",
-  "min_sem_lead": 18
+  "ultimo_lead_at": "2026-09-03T23:21:39.221Z",
+  "min_sem_lead": 71557
  },
  "leads": [
-  {
-   "nome": "Enilda de Jesus",
-   "tel": "5573*****918",
-   "criado": "12:26",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Marcos Silva",
    "tel": "5511*****772",
@@ -197,7 +186,18 @@
    "area": "Nao identificada"
   },
   {
-   "nome": "553399095486",
+   "nome": "Enilda de Jesus",
+   "tel": "5573*****918",
+   "criado": "12:26",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Gaby",
    "tel": "5533*****486",
    "criado": "11:45",
    "atendente": "FG Advogados - Isadora ",
@@ -219,7 +219,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "558994183052",
+   "nome": "Lena Delmiro",
    "tel": "5589*****052",
    "criado": "03:55",
    "atendente": "FG Advogados - Isadora ",
