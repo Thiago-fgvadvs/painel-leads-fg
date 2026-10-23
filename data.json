@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/10/2026, 15:49",
+ "gerado_em": "23/10/2026, 16:04",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -41,14 +41,14 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
-  "Nao identificada": 1
+  "Nao identificada": 1,
+  "Trabalhista": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 229,
+  "grupos_ativos": 230,
   "turnos": 581,
   "respondidos": 578,
   "sem_resposta": 3,
@@ -176,16 +176,27 @@
   "fila": 829,
   "abertos": 907,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 26086
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 787889
+  "ultimo_lead_at": "2026-10-14T01:03:40.659Z",
+  "min_sem_lead": 14041
  },
  "leads": [
+  {
+   "nome": "Marcos Silva",
+   "tel": "5511*****772",
+   "criado": "10:17",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Lena Delmiro",
    "tel": "5589*****052",
@@ -229,17 +240,6 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Marcos Silva",
-   "tel": "5511*****772",
-   "criado": "10:17",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Gaby",
