@@ -1,24 +1,24 @@
 {
- "gerado_em": "23/10/2026, 11:12",
+ "gerado_em": "23/10/2026, 11:27",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 1,
+  "total": 4,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
-  "mediana_geral": 0.3,
-  "leads_7d": 49,
-  "tickets_abertos": 897,
+  "mediana_geral": 0.4,
+  "leads_7d": 50,
+  "tickets_abertos": 898,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 2,
-   "mediana_min": null
+   "leads": 3,
+   "mediana_min": 0.5
   },
   {
    "nome": "Tiago Bernardo",
@@ -27,38 +27,38 @@
   }
  ],
  "origem": {
-  "Anuncio": 2,
+  "Anuncio": 3,
   "Direto/Indicacao": 1
  },
  "criativos": [
   {
-   "url": "fb.me/7ZVZhwxMh",
-   "leads": 1
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "url": "fb.me/7ZVZhwxMh",
    "leads": 1
   }
  ],
  "areas": {
   "Nao identificada": 1,
-  "Trabalhista": 2
+  "Trabalhista": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 221,
-  "turnos": 534,
-  "respondidos": 532,
+  "turnos": 537,
+  "respondidos": 535,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 48.8,
+  "mediana_min": 49.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 477,
-    "mediana_min": 46.1
+    "respostas": 480,
+    "mediana_min": 46.2
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -161,17 +161,17 @@
   ]
  },
  "agora": {
-  "fila": 823,
-  "abertos": 897,
+  "fila": 824,
+  "abertos": 898,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 26363
+  "ausentes": 0,
+  "espera_media_s": 26328
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-16T23:12:30.485Z",
-  "min_sem_lead": 9540
+  "ultimo_lead_at": "2026-10-23T13:17:55.344Z",
+  "min_sem_lead": 70
  },
  "leads": [
   {
@@ -184,6 +184,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Ozelia Silva",
+   "tel": "5561*****253",
+   "criado": "11:15",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
   },
   {
    "nome": "558994183052",
