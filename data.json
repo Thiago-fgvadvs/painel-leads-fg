@@ -1,17 +1,17 @@
 {
- "gerado_em": "23/10/2026, 10:12",
+ "gerado_em": "23/10/2026, 10:27",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
-  "no_sla": 0,
+  "total": 3,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 48,
-  "tickets_abertos": 896,
+  "pct_sla": 100,
+  "mediana_geral": 0.3,
+  "leads_7d": 49,
+  "tickets_abertos": 897,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 2,
    "mediana_min": null
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 0.3
   }
  ],
  "origem": {
   "Anuncio": 2,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -36,23 +41,24 @@
   }
  ],
  "areas": {
+  "Nao identificada": 1,
   "Trabalhista": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 218,
-  "turnos": 518,
-  "respondidos": 516,
+  "grupos_ativos": 219,
+  "turnos": 520,
+  "respondidos": 518,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 47.6,
+  "mediana_min": 47.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 462,
-    "mediana_min": 45.6
+    "respostas": 463,
+    "mediana_min": 45.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -71,8 +77,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 3,
-    "mediana_min": 78
+    "respostas": 4,
+    "mediana_min": 89.4
    }
   ],
   "sem_resposta_lista": [
@@ -155,8 +161,8 @@
   ]
  },
  "agora": {
-  "fila": 822,
-  "abertos": 896,
+  "fila": 823,
+  "abertos": 897,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
@@ -164,10 +170,21 @@
   "espera_media_s": 26363
  },
  "captacao": {
-  "ultimo_lead_at": "2026-07-04T10:55:16.415Z",
-  "min_sem_lead": 159977
+  "ultimo_lead_at": "2026-10-16T23:12:30.485Z",
+  "min_sem_lead": 9495
  },
  "leads": [
+  {
+   "nome": "Marcos (Filho dona Ivonete)",
+   "tel": "5511*****772",
+   "criado": "10:17",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "558994183052",
    "tel": "5589*****052",
