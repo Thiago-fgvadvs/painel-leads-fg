@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/10/2026, 15:18",
+ "gerado_em": "23/10/2026, 15:34",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 54,
-  "tickets_abertos": 906,
+  "tickets_abertos": 907,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -48,7 +48,7 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 228,
+  "grupos_ativos": 229,
   "turnos": 581,
   "respondidos": 578,
   "sem_resposta": 3,
@@ -173,19 +173,30 @@
   ]
  },
  "agora": {
-  "fila": 828,
-  "abertos": 906,
+  "fila": 829,
+  "abertos": 907,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 26121
+  "ausentes": 0,
+  "espera_media_s": 26086
  },
  "captacao": {
   "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 787859
+  "min_sem_lead": 787874
  },
  "leads": [
+  {
+   "nome": "Lena Delmiro",
+   "tel": "5589*****052",
+   "criado": "03:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "553197979773",
    "tel": "5531*****773",
@@ -206,17 +217,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Lena Delmiro",
-   "tel": "5589*****052",
-   "criado": "03:55",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
   },
   {
