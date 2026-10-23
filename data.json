@@ -1,5 +1,5 @@
 {
- "gerado_em": "23/10/2026, 13:47",
+ "gerado_em": "23/10/2026, 14:03",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -41,24 +41,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 1,
-  "Trabalhista": 5
+  "Trabalhista": 5,
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 225,
-  "turnos": 565,
-  "respondidos": 562,
+  "grupos_ativos": 226,
+  "turnos": 570,
+  "respondidos": 567,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 47.3,
+  "mediana_min": 46.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 507,
-    "mediana_min": 45.5
+    "respostas": 512,
+    "mediana_min": 44.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -173,7 +173,7 @@
   ]
  },
  "agora": {
-  "fila": 826,
+  "fila": 825,
   "abertos": 903,
   "com_atendimento": 3,
   "online": 3,
@@ -182,20 +182,20 @@
   "espera_media_s": 26224
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-14T01:03:40.659Z",
-  "min_sem_lead": 13904
+  "ultimo_lead_at": "2026-10-23T06:55:45.254Z",
+  "min_sem_lead": 607
  },
  "leads": [
   {
-   "nome": "Marcos Silva",
-   "tel": "5511*****772",
-   "criado": "10:17",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "nome": "Lena Delmiro",
+   "tel": "5589*****052",
+   "criado": "03:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
   },
   {
    "nome": "Enilda de Jesus",
@@ -207,6 +207,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Marcos Silva",
+   "tel": "5511*****772",
+   "criado": "10:17",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.3,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Gaby",
@@ -228,17 +239,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Lena Delmiro",
-   "tel": "5589*****052",
-   "criado": "03:55",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
   },
   {
