@@ -1,14 +1,14 @@
 {
- "gerado_em": "23/10/2026, 17:50",
+ "gerado_em": "23/10/2026, 18:05",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
   "total": 10,
   "no_sla": 6,
-  "fora_sla": 0,
-  "sem_resposta": 2,
+  "fora_sla": 2,
+  "sem_resposta": 0,
   "fora_horario": 2,
-  "pct_sla": 100,
+  "pct_sla": 75,
   "mediana_geral": 0.5,
   "leads_7d": 56,
   "tickets_abertos": 911,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
+   "leads": 9,
    "mediana_min": 0.5
   },
   {
@@ -44,21 +44,23 @@
   "Trabalhista": 9,
   "Nao identificada": 1
  },
- "sem_resposta_lista": [
-  {
-   "nome": "558184433223",
-   "tel": "5581*****223",
-   "criado": "16:56",
-   "area": "Trabalhista"
-  },
+ "sem_resposta_lista": [],
+ "fora_sla_lista": [
   {
    "nome": "Poliana Santos Araujo",
    "tel": "5575*****154",
    "criado": "16:53",
-   "area": "Trabalhista"
+   "espera_min": 66.5,
+   "atendente": "FG Advogados - Isadora "
+  },
+  {
+   "nome": "558184433223",
+   "tel": "5581*****223",
+   "criado": "16:56",
+   "espera_min": 63.9,
+   "atendente": "FG Advogados - Isadora "
   }
  ],
- "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 233,
@@ -123,22 +125,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Poliana Santos Araujo",
-    "tel": "5575*****154",
-    "dia": "23/10",
-    "desde": "16:53",
-    "ts": 1792785217424
-   },
-   {
-    "nome": "558184433223",
-    "tel": "5581*****223",
-    "dia": "23/10",
-    "desde": "16:56",
-    "ts": 1792785375584
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
@@ -225,23 +212,23 @@
   "fila": 832,
   "abertos": 911,
   "com_atendimento": 3,
-  "online": 3,
-  "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 26092
+  "online": 1,
+  "offline": 2,
+  "ausentes": 1,
+  "espera_media_s": 26034
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-15T16:42:03.578Z",
-  "min_sem_lead": 11768
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 788026
  },
  "leads": [
   {
-   "nome": "558184433223",
-   "tel": "5581*****223",
-   "criado": "16:56",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "nome": "A menina dos olhos",
+   "tel": "5511*****897",
+   "criado": "14:24",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.4,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
@@ -250,9 +237,9 @@
    "nome": "Poliana Santos Araujo",
    "tel": "5575*****154",
    "criado": "16:53",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 66.5,
+   "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
@@ -269,12 +256,12 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "A menina dos olhos",
-   "tel": "5511*****897",
-   "criado": "14:24",
+   "nome": "558184433223",
+   "tel": "5581*****223",
+   "criado": "16:56",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1.4,
-   "status": "NO_SLA",
+   "espera_min": 63.9,
+   "status": "FORA_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
