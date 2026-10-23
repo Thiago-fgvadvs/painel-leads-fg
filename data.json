@@ -1,12 +1,12 @@
 {
- "gerado_em": "23/10/2026, 15:03",
+ "gerado_em": "23/10/2026, 15:18",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
   "total": 8,
-  "no_sla": 5,
+  "no_sla": 6,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.5,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": 0.5
   },
   {
@@ -44,28 +44,21 @@
   "Trabalhista": 7,
   "Nao identificada": 1
  },
- "sem_resposta_lista": [
-  {
-   "nome": "553197979773",
-   "tel": "5531*****773",
-   "criado": "15:03",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 227,
-  "turnos": 580,
-  "respondidos": 577,
+  "grupos_ativos": 228,
+  "turnos": 581,
+  "respondidos": 578,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 46.3,
+  "mediana_min": 46.2,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 522,
-    "mediana_min": 44.7
+    "respostas": 523,
+    "mediana_min": 44.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -111,15 +104,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "553197979773",
-    "tel": "5531*****773",
-    "dia": "23/10",
-    "desde": "15:03",
-    "ts": 1792778598924
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
@@ -191,23 +176,23 @@
   "fila": 828,
   "abertos": 906,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 26155
+  "ausentes": 1,
+  "espera_media_s": 26121
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-23T18:03:18.924Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 787859
  },
  "leads": [
   {
    "nome": "553197979773",
    "tel": "5531*****773",
    "criado": "15:03",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
