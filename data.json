@@ -1,88 +1,46 @@
 {
- "gerado_em": "23/10/2026, 21:52",
- "data_ref": "23/10/2026",
+ "gerado_em": "24/10/2026, 07:07",
+ "data_ref": "24/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 6,
-  "fora_sla": 2,
+  "total": 0,
+  "no_sla": 0,
+  "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 4,
-  "pct_sla": 75,
-  "mediana_geral": 0.5,
-  "leads_7d": 58,
+  "fora_horario": 0,
+  "pct_sla": 0,
+  "mediana_geral": null,
+  "leads_7d": 52,
   "tickets_abertos": 913,
   "periodo_dias": 7
  },
- "atendentes": [
-  {
-   "nome": "FG Advogados - Isadora ",
-   "leads": 11,
-   "mediana_min": 0.5
-  },
-  {
-   "nome": "Tiago Bernardo",
-   "leads": 1,
-   "mediana_min": 0.3
-  }
- ],
+ "atendentes": [],
  "origem": {
-  "Anuncio": 9,
-  "Direto/Indicacao": 3
+  "Anuncio": 0,
+  "Direto/Indicacao": 0
  },
- "criativos": [
-  {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 6
-  },
-  {
-   "url": "fb.me/7ZVZhwxMh",
-   "leads": 2
-  },
-  {
-   "url": "fb.me/6hFKXqtBv",
-   "leads": 1
-  }
- ],
- "areas": {
-  "Trabalhista": 10,
-  "Nao identificada": 2
- },
+ "criativos": [],
+ "areas": {},
  "sem_resposta_lista": [],
- "fora_sla_lista": [
-  {
-   "nome": "Poliana Santos Araujo",
-   "tel": "5575*****154",
-   "criado": "16:53",
-   "espera_min": 66.5,
-   "atendente": "FG Advogados - Isadora "
-  },
-  {
-   "nome": "558184433223",
-   "tel": "5581*****223",
-   "criado": "16:56",
-   "espera_min": 63.9,
-   "atendente": "FG Advogados - Isadora "
-  }
- ],
+ "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 235,
-  "turnos": 594,
-  "respondidos": 590,
+  "grupos_ativos": 236,
+  "turnos": 582,
+  "respondidos": 578,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 46.8,
+  "mediana_min": 45.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 523,
-    "mediana_min": 44.3
+    "respostas": 517,
+    "mediana_min": 44.2
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 29,
-    "mediana_min": 1225.9
+    "respostas": 23,
+    "mediana_min": 944.2
    },
    {
     "nome": "—",
@@ -222,141 +180,8 @@
   "espera_media_s": 25966
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-24T00:45:04.085Z",
-  "min_sem_lead": 7
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 788808
  },
- "leads": [
-  {
-   "nome": "Cati",
-   "tel": "5571*****230",
-   "criado": "21:45",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Doralice",
-   "tel": "5521*****999",
-   "criado": "21:25",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/6hFKXqtBv",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "553197979773",
-   "tel": "5531*****773",
-   "criado": "15:03",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Poliana Santos Araujo",
-   "tel": "5575*****154",
-   "criado": "16:53",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 66.5,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "A menina dos olhos",
-   "tel": "5511*****897",
-   "criado": "14:24",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "558184433223",
-   "tel": "5581*****223",
-   "criado": "16:56",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 63.9,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Marcos Silva",
-   "tel": "5511*****772",
-   "criado": "10:17",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Lena Delmiro",
-   "tel": "5589*****052",
-   "criado": "03:55",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Enilda de Jesus",
-   "tel": "5573*****918",
-   "criado": "12:26",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Gaby",
-   "tel": "5533*****486",
-   "criado": "11:45",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Ozelia Silva",
-   "tel": "5561*****253",
-   "criado": "11:15",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Barbara Saraiva",
-   "tel": "5512*****658",
-   "criado": "01:11",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  }
- ]
+ "leads": []
 }
