@@ -1,23 +1,23 @@
 {
- "gerado_em": "23/10/2026, 21:37",
+ "gerado_em": "23/10/2026, 21:52",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 11,
+  "total": 12,
   "no_sla": 6,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 3,
+  "fora_horario": 4,
   "pct_sla": 75,
   "mediana_geral": 0.5,
-  "leads_7d": 57,
-  "tickets_abertos": 912,
+  "leads_7d": 58,
+  "tickets_abertos": 913,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.5
   },
   {
@@ -28,7 +28,7 @@
  ],
  "origem": {
   "Anuncio": 9,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -45,8 +45,8 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 9
+  "Trabalhista": 10,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -213,19 +213,30 @@
   ]
  },
  "agora": {
-  "fila": 830,
-  "abertos": 912,
+  "fila": 831,
+  "abertos": 913,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 26000
+  "espera_media_s": 25966
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-24T00:25:37.270Z",
-  "min_sem_lead": 12
+  "ultimo_lead_at": "2026-10-24T00:45:04.085Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "Cati",
+   "tel": "5571*****230",
+   "criado": "21:45",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "Doralice",
    "tel": "5521*****999",
