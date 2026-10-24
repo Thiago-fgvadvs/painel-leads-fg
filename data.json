@@ -1,23 +1,23 @@
 {
- "gerado_em": "23/10/2026, 21:22",
+ "gerado_em": "23/10/2026, 21:37",
  "data_ref": "23/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
+  "total": 11,
   "no_sla": 6,
   "fora_sla": 2,
   "sem_resposta": 0,
-  "fora_horario": 2,
+  "fora_horario": 3,
   "pct_sla": 75,
   "mediana_geral": 0.5,
-  "leads_7d": 56,
-  "tickets_abertos": 911,
+  "leads_7d": 57,
+  "tickets_abertos": 912,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": 0.5
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 9,
   "Direto/Indicacao": 2
  },
  "criativos": [
@@ -38,11 +38,15 @@
   {
    "url": "fb.me/7ZVZhwxMh",
    "leads": 2
+  },
+  {
+   "url": "fb.me/6hFKXqtBv",
+   "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9,
-  "Nao identificada": 1
+  "Nao identificada": 2,
+  "Trabalhista": 9
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [
@@ -209,19 +213,30 @@
   ]
  },
  "agora": {
-  "fila": 829,
-  "abertos": 911,
+  "fila": 830,
+  "abertos": 912,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 26034
+  "espera_media_s": 26000
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-23T18:03:18.924Z",
-  "min_sem_lead": 379
+  "ultimo_lead_at": "2026-10-24T00:25:37.270Z",
+  "min_sem_lead": 12
  },
  "leads": [
+  {
+   "nome": "Doralice",
+   "tel": "5521*****999",
+   "criado": "21:25",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6hFKXqtBv",
+   "area": "Nao identificada"
+  },
   {
    "nome": "553197979773",
    "tel": "5531*****773",
