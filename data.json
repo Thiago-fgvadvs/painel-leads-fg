@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/10/2026, 15:34",
+ "gerado_em": "26/10/2026, 15:49",
  "data_ref": "26/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 49,
-  "tickets_abertos": 917,
+  "tickets_abertos": 916,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -49,16 +49,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 233,
-  "turnos": 569,
-  "respondidos": 567,
-  "sem_resposta": 2,
-  "sem_resposta_grupos": 2,
-  "mediana_min": 50.7,
+  "turnos": 571,
+  "respondidos": 568,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 50.9,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 501,
-    "mediana_min": 46.1
+    "respostas": 502,
+    "mediana_min": 46.2
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -82,6 +82,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.R.K.D.M x BRF S.A",
+    "dia": "26/10",
+    "desde": "15:34",
+    "ts": 1793039671761
+   },
    {
     "grupo": "R.R.D.S x CBSI - COMPANHIA BRASILEIRA DE SERVICOS DE INFRAESTRUTURA",
     "dia": "26/10",
@@ -111,6 +117,12 @@
     "dia": "26/10",
     "desde": "11:22",
     "ts": 1793024577201
+   },
+   {
+    "grupo": "J.R.K.D.M x BRF S.A",
+    "dia": "26/10",
+    "desde": "15:34",
+    "ts": 1793039671761
    }
   ]
  },
@@ -161,17 +173,17 @@
   ]
  },
  "agora": {
-  "fila": 832,
-  "abertos": 917,
+  "fila": 831,
+  "abertos": 916,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 25868
+  "espera_media_s": 25836
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-21T16:46:37.188Z",
-  "min_sem_lead": 7308
+  "ultimo_lead_at": "2026-10-26T15:57:05.993Z",
+  "min_sem_lead": 172
  },
  "leads": [
   {
