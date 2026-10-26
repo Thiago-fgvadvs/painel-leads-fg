@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/10/2026, 15:19",
+ "gerado_em": "26/10/2026, 15:34",
  "data_ref": "26/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -48,17 +48,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 232,
-  "turnos": 561,
-  "respondidos": 558,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 50.3,
+  "grupos_ativos": 233,
+  "turnos": 569,
+  "respondidos": 567,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
+  "mediana_min": 50.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 492,
-    "mediana_min": 45.7
+    "respostas": 501,
+    "mediana_min": 46.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -82,12 +82,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "J.R.K.D.M x BRF S.A",
-    "dia": "26/10",
-    "desde": "15:11",
-    "ts": 1793038294686
-   },
    {
     "grupo": "R.R.D.S x CBSI - COMPANHIA BRASILEIRA DE SERVICOS DE INFRAESTRUTURA",
     "dia": "26/10",
@@ -117,23 +111,26 @@
     "dia": "26/10",
     "desde": "11:22",
     "ts": 1793024577201
-   },
-   {
-    "grupo": "J.R.K.D.M x BRF S.A",
-    "dia": "26/10",
-    "desde": "15:11",
-    "ts": 1793038294686
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 3,
+  "total": 4,
   "por_vendedor": {
-   "Roseli": 1,
-   "Tiago Bernardo": 2
+   "Tiago Bernardo": 3,
+   "Roseli": 1
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "J",
+    "dia": "26/10",
+    "hora": "15:31",
+    "ts": 1793039499104,
+    "origem": "Anúncio: instagram.com/p/DcmW37RM3SC/",
+    "de_anuncio": true
+   },
    {
     "vendedor": "Roseli",
     "cliente": "R",
@@ -164,34 +161,23 @@
   ]
  },
  "agora": {
-  "fila": 831,
+  "fila": 832,
   "abertos": 917,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 25835
+  "ausentes": 0,
+  "espera_media_s": 25868
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-21T16:59:06.772Z",
-  "min_sem_lead": 7280
+  "ultimo_lead_at": "2026-10-21T16:46:37.188Z",
+  "min_sem_lead": 7308
  },
  "leads": [
   {
    "nome": "Deus E Fiel",
    "tel": "5512*****599",
    "criado": "12:57",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Júlia",
-   "tel": "5516*****272",
-   "criado": "12:52",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.5,
    "status": "NO_SLA",
@@ -209,6 +195,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Júlia",
+   "tel": "5516*****272",
+   "criado": "12:52",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Andrea",
