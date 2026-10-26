@@ -1,6 +1,6 @@
 {
- "gerado_em": "25/10/2026, 21:51",
- "data_ref": "25/10/2026",
+ "gerado_em": "26/10/2026, 07:07",
+ "data_ref": "26/10/2026",
  "sla_min": 15,
  "kpi": {
   "total": 0,
@@ -10,7 +10,7 @@
   "fora_horario": 0,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 54,
+  "leads_7d": 42,
   "tickets_abertos": 917,
   "periodo_dias": 7
  },
@@ -25,37 +25,37 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 242,
-  "turnos": 583,
-  "respondidos": 579,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 45.2,
+  "grupos_ativos": 216,
+  "turnos": 473,
+  "respondidos": 470,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 41.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 515,
-    "mediana_min": 42.8
+    "respostas": 417,
+    "mediana_min": 39.7
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 26,
-    "mediana_min": 1016.5
+    "respostas": 22,
+    "mediana_min": 988.7
    },
    {
     "nome": "—",
-    "respostas": 15,
+    "respostas": 13,
     "mediana_min": 117.1
    },
    {
     "nome": "Roseli",
-    "respostas": 15,
-    "mediana_min": 8.9
+    "respostas": 11,
+    "mediana_min": 8
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 8,
-    "mediana_min": 55.1
+    "respostas": 7,
+    "mediana_min": 32.1
    }
   ],
   "sem_resposta_lista": [
@@ -76,12 +76,6 @@
     "dia": "20/10",
     "desde": "11:08",
     "ts": 1792505322630
-   },
-   {
-    "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
-    "dia": "19/10",
-    "desde": "09:44",
-    "ts": 1792413848057
    }
   ]
  },
@@ -89,12 +83,6 @@
   "dias": 7,
   "leads": [],
   "grupos": [
-   {
-    "grupo": "A.C.D.S.J x PRESSEL SERVICO E APOIO ADMINISTRATIVO LTDA",
-    "dia": "19/10",
-    "desde": "09:44",
-    "ts": 1792413848057
-   },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "20/10",
@@ -117,9 +105,9 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 5,
+  "total": 3,
   "por_vendedor": {
-   "Roseli": 3,
+   "Roseli": 1,
    "Tiago Bernardo": 2
   },
   "lista": [
@@ -149,24 +137,6 @@
     "ts": 1792527903394,
     "origem": "Anúncio: instagram.com/p/DcmW37RM3SC/",
     "de_anuncio": true
-   },
-   {
-    "vendedor": "Roseli",
-    "cliente": "V.1",
-    "dia": "19/10",
-    "hora": "17:47",
-    "ts": 1792442869556,
-    "origem": "Direto/Indicação",
-    "de_anuncio": false
-   },
-   {
-    "vendedor": "Roseli",
-    "cliente": "N",
-    "dia": "19/10",
-    "hora": "15:17",
-    "ts": 1792433866467,
-    "origem": "Anúncio: instagram.com/p/DcmVpxyMs5c/",
-    "de_anuncio": true
    }
   ]
  },
@@ -180,8 +150,8 @@
   "espera_media_s": 25831
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-10T23:25:08.089Z",
-  "min_sem_lead": 109527
+  "ultimo_lead_at": "2026-03-10T17:21:14.162Z",
+  "min_sem_lead": 330766
  },
  "leads": []
 }
