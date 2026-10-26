@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/10/2026, 17:50",
+ "gerado_em": "26/10/2026, 18:06",
  "data_ref": "26/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 10,
+  "total": 11,
+  "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 52,
+  "leads_7d": 53,
   "tickets_abertos": 920,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
+   "leads": 8,
    "mediana_min": 0.5
   },
   {
@@ -27,13 +27,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 4
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 5
+   "leads": 6
   },
   {
    "url": "fb.me/4QIoxFDrn",
@@ -41,7 +41,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
+  "Trabalhista": 8,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
@@ -49,15 +49,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 236,
-  "turnos": 588,
-  "respondidos": 584,
+  "turnos": 590,
+  "respondidos": 586,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
   "mediana_min": 50.9,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 511,
+    "respostas": 513,
     "mediana_min": 47.1
    },
    {
@@ -185,7 +185,7 @@
   ]
  },
  "agora": {
-  "fila": 832,
+  "fila": 833,
   "abertos": 920,
   "com_atendimento": 3,
   "online": 3,
@@ -194,10 +194,21 @@
   "espera_media_s": 25736
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-26T15:57:05.993Z",
-  "min_sem_lead": 294
+  "ultimo_lead_at": "2026-10-26T20:58:53.534Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "5519996645292",
+   "tel": "5519*****292",
+   "criado": "17:58",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Deus E Fiel",
    "tel": "5512*****599",
