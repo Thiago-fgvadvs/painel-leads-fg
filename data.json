@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/10/2026, 10:23",
+ "gerado_em": "26/10/2026, 10:38",
  "data_ref": "26/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -39,16 +39,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 219,
-  "turnos": 501,
-  "respondidos": 498,
+  "turnos": 511,
+  "respondidos": 508,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 44.3,
+  "mediana_min": 45.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 439,
-    "mediana_min": 41.6
+    "respostas": 447,
+    "mediana_min": 43.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -57,8 +57,8 @@
    },
    {
     "nome": "—",
-    "respostas": 13,
-    "mediana_min": 117.1
+    "respostas": 14,
+    "mediana_min": 93.7
    },
    {
     "nome": "Roseli",
@@ -67,11 +67,17 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 7,
-    "mediana_min": 32.1
+    "respostas": 8,
+    "mediana_min": 55.1
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "J.R.K.D.M x BRF S.A",
+    "dia": "26/10",
+    "desde": "10:35",
+    "ts": 1793021733124
+   },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "20/10",
@@ -83,12 +89,6 @@
     "dia": "23/10",
     "desde": "17:20",
     "ts": 1792786826367
-   },
-   {
-    "grupo": "J.R.K.D.M x BRF S.A",
-    "dia": "23/10",
-    "desde": "13:01",
-    "ts": 1792771315976
    }
   ]
  },
@@ -103,16 +103,16 @@
     "ts": 1792505322630
    },
    {
-    "grupo": "J.R.K.D.M x BRF S.A",
-    "dia": "23/10",
-    "desde": "13:01",
-    "ts": 1792771315976
-   },
-   {
     "grupo": "R.R.D.S x CBSI - COMPANHIA BRASILEIRA DE SERVICOS DE INFRAESTRUTURA",
     "dia": "23/10",
     "desde": "17:20",
     "ts": 1792786826367
+   },
+   {
+    "grupo": "J.R.K.D.M x BRF S.A",
+    "dia": "26/10",
+    "desde": "10:35",
+    "ts": 1793021733124
    }
   ]
  },
@@ -154,7 +154,7 @@
   ]
  },
  "agora": {
-  "fila": 835,
+  "fila": 834,
   "abertos": 918,
   "com_atendimento": 3,
   "online": 3,
@@ -163,8 +163,8 @@
   "espera_media_s": 25798
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-10T00:28:30.475Z",
-  "min_sem_lead": 23815
+  "ultimo_lead_at": "2026-10-23T13:17:55.344Z",
+  "min_sem_lead": 4341
  },
  "leads": [
   {
