@@ -1,23 +1,23 @@
 {
- "gerado_em": "26/10/2026, 20:22",
+ "gerado_em": "26/10/2026, 20:37",
  "data_ref": "26/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
+  "total": 13,
   "no_sla": 11,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 1,
+  "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 54,
-  "tickets_abertos": 921,
+  "leads_7d": 55,
+  "tickets_abertos": 922,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 9,
+   "leads": 10,
    "mediana_min": 0.5
   },
   {
@@ -27,7 +27,7 @@
   }
  ],
  "origem": {
-  "Anuncio": 8,
+  "Anuncio": 9,
   "Direto/Indicacao": 4
  },
  "criativos": [
@@ -36,19 +36,23 @@
    "leads": 7
   },
   {
+   "url": "fb.me/7ZVZhwxMh",
+   "leads": 1
+  },
+  {
    "url": "fb.me/4QIoxFDrn",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 9,
+  "Trabalhista": 10,
   "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 238,
+  "grupos_ativos": 239,
   "turnos": 593,
   "respondidos": 589,
   "sem_resposta": 4,
@@ -110,7 +114,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "554799548721",
+    "tel": "5547*****721",
+    "dia": "26/10",
+    "desde": "20:23",
+    "ts": 1793057011605
+   }
+  ],
   "grupos": [
    {
     "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
@@ -185,19 +197,30 @@
   ]
  },
  "agora": {
-  "fila": 833,
-  "abertos": 921,
+  "fila": 834,
+  "abertos": 922,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 25683
+  "espera_media_s": 25650
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 792483
+  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
+  "min_sem_lead": 792498
  },
  "leads": [
+  {
+   "nome": "554799548721",
+   "tel": "5547*****721",
+   "criado": "20:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "556899158113",
    "tel": "5568*****113",
