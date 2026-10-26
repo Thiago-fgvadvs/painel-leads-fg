@@ -1,58 +1,59 @@
 {
- "gerado_em": "26/10/2026, 11:24",
+ "gerado_em": "26/10/2026, 11:39",
  "data_ref": "26/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
-  "no_sla": 2,
+  "total": 4,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 44,
-  "tickets_abertos": 915,
+  "leads_7d": 46,
+  "tickets_abertos": 917,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 2,
+   "leads": 3,
    "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 2,
-  "Direto/Indicacao": 0
+  "Anuncio": 3,
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
-   "url": "fb.me/4QIoxFDrn",
-   "leads": 1
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "url": "fb.me/4QIoxFDrn",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 2
+  "Trabalhista": 3,
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 223,
-  "turnos": 515,
-  "respondidos": 512,
+  "grupos_ativos": 224,
+  "turnos": 516,
+  "respondidos": 513,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
   "mediana_min": 45.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 449,
-    "mediana_min": 43.9
+    "respostas": 450,
+    "mediana_min": 44.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -158,19 +159,41 @@
   ]
  },
  "agora": {
-  "fila": 834,
-  "abertos": 915,
+  "fila": 835,
+  "abertos": 917,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 25917
+  "ausentes": 0,
+  "espera_media_s": 25883
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-26T14:22:00.951Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-10-26T14:28:21.975Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "Andrea",
+   "tel": "5521*****771",
+   "criado": "11:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Farmácia Manipulação - Cliente",
+   "tel": "5511*****007",
+   "criado": "11:28",
+   "atendente": "—",
+   "espera_min": 0,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "556492507149",
    "tel": "5564*****149",
