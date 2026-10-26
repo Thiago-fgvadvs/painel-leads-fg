@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/10/2026, 17:05",
+ "gerado_em": "26/10/2026, 17:20",
  "data_ref": "26/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -41,24 +41,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 6
+  "Trabalhista": 6,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 235,
-  "turnos": 580,
-  "respondidos": 575,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 50.6,
+  "grupos_ativos": 236,
+  "turnos": 583,
+  "respondidos": 579,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 50.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 504,
-    "mediana_min": 46.2
+    "respostas": 507,
+    "mediana_min": 47.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -66,9 +66,9 @@
     "mediana_min": 1246.3
    },
    {
-    "nome": "Roseli",
-    "respostas": 14,
-    "mediana_min": 6.7
+    "nome": "Tiago Bernardo",
+    "respostas": 15,
+    "mediana_min": 34.1
    },
    {
     "nome": "—",
@@ -76,9 +76,9 @@
     "mediana_min": 93.7
    },
    {
-    "nome": "Tiago Bernardo",
+    "nome": "Roseli",
     "respostas": 14,
-    "mediana_min": 41.4
+    "mediana_min": 6.7
    }
   ],
   "sem_resposta_lista": [
@@ -87,12 +87,6 @@
     "dia": "26/10",
     "desde": "16:58",
     "ts": 1793044689888
-   },
-   {
-    "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
-    "dia": "26/10",
-    "desde": "16:44",
-    "ts": 1793043860885
    },
    {
     "grupo": "J.R.K.D.M x BRF S.A",
@@ -135,12 +129,6 @@
     "dia": "26/10",
     "desde": "15:34",
     "ts": 1793039671761
-   },
-   {
-    "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
-    "dia": "26/10",
-    "desde": "16:44",
-    "ts": 1793043860885
    },
    {
     "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
@@ -206,10 +194,21 @@
   "espera_media_s": 25769
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-26T19:59:13.753Z",
-  "min_sem_lead": 6
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 792301
  },
  "leads": [
+  {
+   "nome": "⭐ Michele ⭐",
+   "tel": "5511*****854",
+   "criado": "16:11",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "CORRESPONDENTE Carlos Adriano Pereira",
    "tel": "5531*****172",
@@ -242,17 +241,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "⭐ Michele ⭐",
-   "tel": "5511*****854",
-   "criado": "16:11",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
   },
   {
    "nome": "Júlia",
