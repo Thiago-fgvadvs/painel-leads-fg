@@ -1,17 +1,17 @@
 {
- "gerado_em": "26/10/2026, 14:26",
+ "gerado_em": "26/10/2026, 14:41",
  "data_ref": "26/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 6,
+  "total": 7,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 48,
-  "tickets_abertos": 919,
+  "leads_7d": 49,
+  "tickets_abertos": 920,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 5,
    "mediana_min": 0.5
+  },
+  {
+   "nome": "Roseli",
+   "leads": 1,
+   "mediana_min": 0.6
   }
  ],
  "origem": {
   "Anuncio": 5,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -37,13 +42,13 @@
  ],
  "areas": {
   "Trabalhista": 5,
-  "Nao identificada": 1
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 231,
+  "grupos_ativos": 232,
   "turnos": 550,
   "respondidos": 547,
   "sem_resposta": 3,
@@ -159,8 +164,8 @@
   ]
  },
  "agora": {
-  "fila": 835,
-  "abertos": 919,
+  "fila": 834,
+  "abertos": 920,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
@@ -169,7 +174,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-26T15:57:05.993Z",
-  "min_sem_lead": 89
+  "min_sem_lead": 104
  },
  "leads": [
   {
@@ -193,6 +198,17 @@
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
+  },
+  {
+   "nome": "Everton Santos De Arruda",
+   "tel": "5511*****217",
+   "criado": "14:27",
+   "atendente": "Roseli",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
   },
   {
    "nome": "Andrea",
