@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/10/2026, 13:25",
+ "gerado_em": "26/10/2026, 13:40",
  "data_ref": "26/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -43,17 +43,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 227,
-  "turnos": 544,
-  "respondidos": 541,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 46.1,
+  "grupos_ativos": 229,
+  "turnos": 549,
+  "respondidos": 547,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
+  "mediana_min": 47.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 476,
-    "mediana_min": 44.2
+    "respostas": 482,
+    "mediana_min": 44.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -77,12 +77,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
-    "dia": "26/10",
-    "desde": "12:35",
-    "ts": 1793028924365
-   },
    {
     "grupo": "R.R.D.S x CBSI - COMPANHIA BRASILEIRA DE SERVICOS DE INFRAESTRUTURA",
     "dia": "26/10",
@@ -112,12 +106,6 @@
     "dia": "26/10",
     "desde": "11:22",
     "ts": 1793024577201
-   },
-   {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
-    "dia": "26/10",
-    "desde": "12:35",
-    "ts": 1793028924365
    }
   ]
  },
@@ -162,14 +150,14 @@
   "fila": 837,
   "abertos": 919,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 1,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 25849
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-26T15:57:05.993Z",
-  "min_sem_lead": 29
+  "ultimo_lead_at": "2026-10-21T16:59:06.772Z",
+  "min_sem_lead": 7182
  },
  "leads": [
   {
