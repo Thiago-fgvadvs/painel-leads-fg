@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/10/2026, 12:25",
+ "gerado_em": "26/10/2026, 12:40",
  "data_ref": "26/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -44,16 +44,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 225,
-  "turnos": 529,
-  "respondidos": 526,
+  "turnos": 533,
+  "respondidos": 530,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 45.2,
+  "mediana_min": 45.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 461,
-    "mediana_min": 42.5
+    "respostas": 465,
+    "mediana_min": 42.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -78,6 +78,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "dia": "26/10",
+    "desde": "12:35",
+    "ts": 1793028924365
+   },
+   {
     "grupo": "R.R.D.S x CBSI - COMPANHIA BRASILEIRA DE SERVICOS DE INFRAESTRUTURA",
     "dia": "26/10",
     "desde": "11:22",
@@ -88,12 +94,6 @@
     "dia": "26/10",
     "desde": "10:50",
     "ts": 1793022634147
-   },
-   {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
-    "dia": "20/10",
-    "desde": "11:08",
-    "ts": 1792505322630
    }
   ]
  },
@@ -102,12 +102,6 @@
   "leads": [],
   "grupos": [
    {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
-    "dia": "20/10",
-    "desde": "11:08",
-    "ts": 1792505322630
-   },
-   {
     "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
     "dia": "26/10",
     "desde": "10:50",
@@ -118,6 +112,12 @@
     "dia": "26/10",
     "desde": "11:22",
     "ts": 1793024577201
+   },
+   {
+    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "dia": "26/10",
+    "desde": "12:35",
+    "ts": 1793028924365
    }
   ]
  },
@@ -169,7 +169,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-10-23T18:03:18.924Z",
-  "min_sem_lead": 4162
+  "min_sem_lead": 4177
  },
  "leads": [
   {
