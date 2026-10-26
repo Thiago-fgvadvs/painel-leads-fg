@@ -1,5 +1,5 @@
 {
- "gerado_em": "26/10/2026, 16:19",
+ "gerado_em": "26/10/2026, 16:50",
  "data_ref": "26/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 50,
-  "tickets_abertos": 917,
+  "tickets_abertos": 919,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -41,19 +41,19 @@
   }
  ],
  "areas": {
-  "Nao identificada": 2,
-  "Trabalhista": 6
+  "Trabalhista": 6,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 234,
-  "turnos": 572,
-  "respondidos": 569,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 50.7,
+  "grupos_ativos": 235,
+  "turnos": 578,
+  "respondidos": 574,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 50.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -71,17 +71,23 @@
     "mediana_min": 93.7
    },
    {
-    "nome": "Roseli",
-    "respostas": 12,
-    "mediana_min": 8.5
+    "nome": "Tiago Bernardo",
+    "respostas": 14,
+    "mediana_min": 41.4
    },
    {
-    "nome": "Tiago Bernardo",
-    "respostas": 11,
-    "mediana_min": 50.6
+    "nome": "Roseli",
+    "respostas": 14,
+    "mediana_min": 6.7
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
+    "dia": "26/10",
+    "desde": "16:44",
+    "ts": 1793043860885
+   },
    {
     "grupo": "J.R.K.D.M x BRF S.A",
     "dia": "26/10",
@@ -123,6 +129,12 @@
     "dia": "26/10",
     "desde": "15:34",
     "ts": 1793039671761
+   },
+   {
+    "grupo": "W.S.R.D.S x EMPRESA DE TRANSPORTES PAJUCARA LTDA",
+    "dia": "26/10",
+    "desde": "16:44",
+    "ts": 1793043860885
    }
   ]
  },
@@ -174,18 +186,29 @@
  },
  "agora": {
   "fila": 831,
-  "abertos": 917,
+  "abertos": 919,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 25802
+  "espera_media_s": 25769
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-19T17:26:32.566Z",
-  "min_sem_lead": 10193
+  "ultimo_lead_at": "2026-10-26T15:57:05.993Z",
+  "min_sem_lead": 233
  },
  "leads": [
+  {
+   "nome": "Deus E Fiel",
+   "tel": "5512*****599",
+   "criado": "12:57",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Everton Santos De Arruda",
    "tel": "5511*****217",
@@ -206,17 +229,6 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Deus E Fiel",
-   "tel": "5512*****599",
-   "criado": "12:57",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
