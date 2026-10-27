@@ -1,29 +1,29 @@
 {
- "gerado_em": "27/10/2026, 11:41",
+ "gerado_em": "27/10/2026, 11:56",
  "data_ref": "27/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 3,
+  "total": 4,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
-  "mediana_geral": 0.4,
-  "leads_7d": 50,
+  "mediana_geral": 0.5,
+  "leads_7d": 51,
   "tickets_abertos": 926,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 3,
-   "mediana_min": 0.4
+   "leads": 4,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
   "Anuncio": 3,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -32,23 +32,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3
+  "Trabalhista": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 229,
-  "turnos": 483,
-  "respondidos": 479,
+  "grupos_ativos": 230,
+  "turnos": 486,
+  "respondidos": 482,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 64.8,
+  "mediana_min": 65.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 406,
-    "mediana_min": 62.4
+    "respostas": 409,
+    "mediana_min": 62.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -102,32 +102,11 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "559584178304",
-    "tel": "5595*****304",
-    "dia": "26/10",
-    "desde": "22:14",
-    "ts": 1793063650433
-   },
-   {
-    "nome": "5527999558411",
-    "tel": "5527*****411",
+    "nome": "Giovana",
+    "tel": "5567*****351",
     "dia": "27/10",
-    "desde": "08:19",
-    "ts": 1793099961104
-   },
-   {
-    "nome": "Aline",
-    "tel": "5534*****985",
-    "dia": "27/10",
-    "desde": "08:56",
-    "ts": 1793102190410
-   },
-   {
-    "nome": "5527997477970",
-    "tel": "5527*****970",
-    "dia": "27/10",
-    "desde": "10:27",
-    "ts": 1793107654681
+    "desde": "11:47",
+    "ts": 1793112423576
    }
   ],
   "grupos": [
@@ -195,21 +174,32 @@
   ]
  },
  "agora": {
-  "fila": 837,
+  "fila": 838,
   "abertos": 926,
   "com_atendimento": 3,
-  "online": 1,
+  "online": 2,
   "offline": 1,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 25519
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-10T00:28:30.475Z",
-  "min_sem_lead": 25333
+  "ultimo_lead_at": "2026-10-26T19:59:13.753Z",
+  "min_sem_lead": 1137
  },
  "leads": [
   {
-   "nome": "5527997477970",
+   "nome": "Giovana",
+   "tel": "5567*****351",
+   "criado": "11:47",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Celia",
    "tel": "5527*****970",
    "criado": "10:27",
    "atendente": "FG Advogados - Isadora ",
