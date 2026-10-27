@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/10/2026, 15:32",
+ "gerado_em": "27/10/2026, 15:47",
  "data_ref": "27/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -36,24 +36,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 7,
-  "Nao identificada": 1
+  "Nao identificada": 1,
+  "Trabalhista": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 240,
-  "turnos": 523,
-  "respondidos": 519,
+  "grupos_ativos": 243,
+  "turnos": 529,
+  "respondidos": 525,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 60.4,
+  "mediana_min": 59.2,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 442,
-    "mediana_min": 55.1
+    "respostas": 448,
+    "mediana_min": 54.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -180,21 +180,10 @@
   "espera_media_s": 21848
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-27T18:23:13.955Z",
-  "min_sem_lead": 9
+  "ultimo_lead_at": "2026-08-12T16:40:28.594Z",
+  "min_sem_lead": 109567
  },
  "leads": [
-  {
-   "nome": "556699224591",
-   "tel": "5566*****591",
-   "criado": "15:23",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Juliana Ferreira",
    "tel": "5518*****927",
@@ -205,6 +194,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "556699224591",
+   "tel": "5566*****591",
+   "criado": "15:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
   },
   {
    "nome": "fabiane",
