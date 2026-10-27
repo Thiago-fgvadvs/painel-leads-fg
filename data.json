@@ -1,5 +1,5 @@
 {
- "gerado_em": "27/10/2026, 17:18",
+ "gerado_em": "27/10/2026, 17:34",
  "data_ref": "27/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -40,8 +40,8 @@
   }
  ],
  "areas": {
-  "Trabalhista": 8,
-  "Nao identificada": 2
+  "Nao identificada": 2,
+  "Trabalhista": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -190,16 +190,27 @@
   "fila": 843,
   "abertos": 936,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 1,
   "offline": 2,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 21820
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-10T00:28:30.475Z",
-  "min_sem_lead": 25670
+  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
+  "min_sem_lead": 793754
  },
  "leads": [
+  {
+   "nome": "Juliana Ferreira",
+   "tel": "5518*****927",
+   "criado": "14:35",
+   "atendente": "—",
+   "espera_min": 0,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "5511985758646",
    "tel": "5511*****646",
@@ -215,17 +226,6 @@
    "nome": "Giovanna Pellin",
    "tel": "5511*****065",
    "criado": "16:10",
-   "atendente": "—",
-   "espera_min": 0,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Juliana Ferreira",
-   "tel": "5518*****927",
-   "criado": "14:35",
    "atendente": "—",
    "espera_min": 0,
    "status": "NO_SLA",
