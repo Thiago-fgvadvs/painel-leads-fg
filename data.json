@@ -1,17 +1,17 @@
 {
- "gerado_em": "27/10/2026, 16:02",
+ "gerado_em": "27/10/2026, 16:18",
  "data_ref": "27/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 8,
+  "total": 9,
+  "no_sla": 9,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 55,
-  "tickets_abertos": 934,
+  "mediana_geral": 0.4,
+  "leads_7d": 56,
+  "tickets_abertos": 935,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -23,7 +23,7 @@
  ],
  "origem": {
   "Anuncio": 6,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [
   {
@@ -36,7 +36,7 @@
   }
  ],
  "areas": {
-  "Nao identificada": 1,
+  "Nao identificada": 2,
   "Trabalhista": 7
  },
  "sem_resposta_lista": [],
@@ -44,16 +44,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 244,
-  "turnos": 535,
-  "respondidos": 531,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 58.2,
+  "turnos": 543,
+  "respondidos": 538,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 55.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 454,
-    "mediana_min": 52.9
+    "respostas": 461,
+    "mediana_min": 52.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -77,6 +77,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.J.P.B",
+    "dia": "27/10",
+    "desde": "16:03",
+    "ts": 1793127831069
+   },
    {
     "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
     "dia": "26/10",
@@ -130,6 +136,12 @@
     "dia": "26/10",
     "desde": "18:46",
     "ts": 1793051166190
+   },
+   {
+    "grupo": "A.J.P.B",
+    "dia": "27/10",
+    "desde": "16:03",
+    "ts": 1793127831069
    }
   ]
  },
@@ -171,8 +183,8 @@
   ]
  },
  "agora": {
-  "fila": 841,
-  "abertos": 934,
+  "fila": 842,
+  "abertos": 935,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
@@ -180,10 +192,21 @@
   "espera_media_s": 21848
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-22T20:34:06.435Z",
-  "min_sem_lead": 7109
+  "ultimo_lead_at": "2026-10-26T23:23:31.605Z",
+  "min_sem_lead": 1195
  },
  "leads": [
+  {
+   "nome": "CORRESPONDENTE Giovanna Pelin De Souza",
+   "tel": "5511*****065",
+   "criado": "16:10",
+   "atendente": "—",
+   "espera_min": 0,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Juliana Ferreira",
    "tel": "5518*****927",
