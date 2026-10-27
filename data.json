@@ -1,59 +1,59 @@
 {
- "gerado_em": "27/10/2026, 08:54",
+ "gerado_em": "27/10/2026, 09:09",
  "data_ref": "27/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 1,
-  "no_sla": 1,
+  "total": 2,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
-  "mediana_geral": 0.6,
-  "leads_7d": 48,
-  "tickets_abertos": 924,
+  "mediana_geral": 0.5,
+  "leads_7d": 49,
+  "tickets_abertos": 925,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 1,
-   "mediana_min": 0.6
+   "leads": 2,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 1,
+  "Anuncio": 2,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 1
+   "leads": 2
   }
  ],
  "areas": {
-  "Trabalhista": 1
+  "Trabalhista": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 214,
-  "turnos": 437,
-  "respondidos": 433,
+  "grupos_ativos": 223,
+  "turnos": 445,
+  "respondidos": 441,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 60.4,
+  "mediana_min": 62,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 368,
-    "mediana_min": 59.1
+    "respostas": 369,
+    "mediana_min": 59
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 21,
-    "mediana_min": 1246.3
+    "respostas": 28,
+    "mediana_min": 1382.7
    },
    {
     "nome": "—",
@@ -102,13 +102,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "554799548721",
-    "tel": "5547*****721",
-    "dia": "26/10",
-    "desde": "20:23",
-    "ts": 1793057011605
-   },
-   {
     "nome": "559584178304",
     "tel": "5595*****304",
     "dia": "26/10",
@@ -121,6 +114,13 @@
     "dia": "27/10",
     "desde": "08:19",
     "ts": 1793099961104
+   },
+   {
+    "nome": "Aline",
+    "tel": "5534*****985",
+    "dia": "27/10",
+    "desde": "08:56",
+    "ts": 1793102190410
    }
   ],
   "grupos": [
@@ -188,19 +188,30 @@
   ]
  },
  "agora": {
-  "fila": 836,
-  "abertos": 924,
+  "fila": 837,
+  "abertos": 925,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 25584
+  "espera_media_s": 25552
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-11T18:34:18.401Z",
-  "min_sem_lead": 198320
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 793250
  },
  "leads": [
+  {
+   "nome": "Aline",
+   "tel": "5534*****985",
+   "criado": "08:56",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "5527999558411",
    "tel": "5527*****411",
