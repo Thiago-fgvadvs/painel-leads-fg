@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/10/2026, 11:17",
+ "gerado_em": "28/10/2026, 11:32",
  "data_ref": "28/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 54,
-  "tickets_abertos": 939,
+  "tickets_abertos": 933,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -35,16 +35,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 478,
-  "respondidos": 472,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 68,
+  "turnos": 482,
+  "respondidos": 477,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 66.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 395,
-    "mediana_min": 64.5
+    "respostas": 399,
+    "mediana_min": 62.9
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -63,17 +63,11 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 12,
-    "mediana_min": 6.7
+    "respostas": 13,
+    "mediana_min": 8
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
-    "dia": "28/10",
-    "desde": "11:10",
-    "ts": 1793196642443
-   },
    {
     "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
     "dia": "28/10",
@@ -139,12 +133,6 @@
     "dia": "28/10",
     "desde": "10:46",
     "ts": 1793195219337
-   },
-   {
-    "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
-    "dia": "28/10",
-    "desde": "11:10",
-    "ts": 1793196642443
    }
   ]
  },
@@ -177,21 +165,21 @@
   ]
  },
  "agora": {
-  "fila": 846,
-  "abertos": 939,
+  "fila": 842,
+  "abertos": 933,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 21758
+  "ausentes": 0,
+  "espera_media_s": 21820
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-28T12:11:26.825Z",
-  "min_sem_lead": 126
+  "ultimo_lead_at": "2026-10-23T13:17:55.344Z",
+  "min_sem_lead": 7274
  },
  "leads": [
   {
-   "nome": "554792508627",
+   "nome": "Mariza Ribeiro",
    "tel": "5547*****627",
    "criado": "09:11",
    "atendente": "FG Advogados - Isadora ",
