@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/10/2026, 11:32",
+ "gerado_em": "28/10/2026, 11:47",
  "data_ref": "28/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 54,
-  "tickets_abertos": 933,
+  "tickets_abertos": 932,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -35,21 +35,26 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 482,
-  "respondidos": 477,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 66.8,
+  "turnos": 492,
+  "respondidos": 486,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 65.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 399,
-    "mediana_min": 62.9
+    "respostas": 405,
+    "mediana_min": 60.4
    },
    {
     "nome": "FG Advogados - Isadora ",
     "respostas": 35,
     "mediana_min": 1283.6
+   },
+   {
+    "nome": "Roseli",
+    "respostas": 16,
+    "mediana_min": 4.7
    },
    {
     "nome": "—",
@@ -60,19 +65,20 @@
     "nome": "Tiago Bernardo",
     "respostas": 14,
     "mediana_min": 29.4
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 13,
-    "mediana_min": 8
    }
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
     "dia": "28/10",
-    "desde": "10:46",
-    "ts": 1793195219337
+    "desde": "11:45",
+    "ts": 1793198743585
+   },
+   {
+    "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
+    "dia": "28/10",
+    "desde": "11:39",
+    "ts": 1793198393559
    },
    {
     "grupo": "A.J.P.B",
@@ -129,10 +135,16 @@
     "ts": 1793127831069
    },
    {
-    "grupo": "P.C.P.D.S.S x LISIEUX TELEATENDIMENTO ",
+    "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
     "dia": "28/10",
-    "desde": "10:46",
-    "ts": 1793195219337
+    "desde": "11:39",
+    "ts": 1793198393559
+   },
+   {
+    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
+    "dia": "28/10",
+    "desde": "11:45",
+    "ts": 1793198743585
    }
   ]
  },
@@ -165,17 +177,17 @@
   ]
  },
  "agora": {
-  "fila": 842,
-  "abertos": 933,
+  "fila": 841,
+  "abertos": 932,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 21820
+  "espera_media_s": 19546
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-23T13:17:55.344Z",
-  "min_sem_lead": 7274
+  "ultimo_lead_at": "2026-10-28T12:11:26.825Z",
+  "min_sem_lead": 156
  },
  "leads": [
   {
