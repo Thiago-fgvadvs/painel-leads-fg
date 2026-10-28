@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/10/2026, 16:04",
+ "gerado_em": "28/10/2026, 16:19",
  "data_ref": "28/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 55,
-  "tickets_abertos": 930,
+  "tickets_abertos": 931,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -39,22 +39,27 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 233,
-  "turnos": 539,
-  "respondidos": 534,
+  "grupos_ativos": 234,
+  "turnos": 543,
+  "respondidos": 538,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 59.4,
+  "mediana_min": 59.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 447,
-    "mediana_min": 55.1
+    "respostas": 450,
+    "mediana_min": 55
    },
    {
     "nome": "FG Advogados - Isadora ",
     "respostas": 35,
     "mediana_min": 1283.6
+   },
+   {
+    "nome": "Tiago Bernardo",
+    "respostas": 18,
+    "mediana_min": 24.2
    },
    {
     "nome": "Roseli",
@@ -65,11 +70,6 @@
     "nome": "—",
     "respostas": 17,
     "mediana_min": 70.2
-   },
-   {
-    "nome": "Tiago Bernardo",
-    "respostas": 17,
-    "mediana_min": 24.7
    }
   ],
   "sem_resposta_lista": [
@@ -171,16 +171,16 @@
  },
  "agora": {
   "fila": 836,
-  "abertos": 930,
+  "abertos": 931,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 19521
+  "ausentes": 1,
+  "espera_media_s": 19496
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.378Z",
-  "min_sem_lead": 795104
+  "ultimo_lead_at": "2026-08-31T02:35:10.367Z",
+  "min_sem_lead": 84524
  },
  "leads": [
   {
