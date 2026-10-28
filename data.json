@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/10/2026, 11:47",
+ "gerado_em": "28/10/2026, 12:02",
  "data_ref": "28/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 54,
-  "tickets_abertos": 932,
+  "tickets_abertos": 927,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,24 +27,24 @@
  },
  "criativos": [],
  "areas": {
-  "Trabalhista": 1,
-  "Nao identificada": 1
+  "Nao identificada": 1,
+  "Trabalhista": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 226,
-  "turnos": 492,
-  "respondidos": 486,
+  "grupos_ativos": 228,
+  "turnos": 494,
+  "respondidos": 488,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
   "mediana_min": 65.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 405,
-    "mediana_min": 60.4
+    "respostas": 406,
+    "mediana_min": 60.5
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -53,8 +53,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 16,
-    "mediana_min": 4.7
+    "respostas": 17,
+    "mediana_min": 5.3
    },
    {
     "nome": "—",
@@ -71,8 +71,8 @@
    {
     "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
     "dia": "28/10",
-    "desde": "11:45",
-    "ts": 1793198743585
+    "desde": "12:00",
+    "ts": 1793199650611
    },
    {
     "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
@@ -143,8 +143,8 @@
    {
     "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
     "dia": "28/10",
-    "desde": "11:45",
-    "ts": 1793198743585
+    "desde": "12:00",
+    "ts": 1793199650611
    }
   ]
  },
@@ -177,8 +177,8 @@
   ]
  },
  "agora": {
-  "fila": 841,
-  "abertos": 932,
+  "fila": 834,
+  "abertos": 927,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
@@ -186,10 +186,21 @@
   "espera_media_s": 19546
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-28T12:11:26.825Z",
-  "min_sem_lead": 156
+  "ultimo_lead_at": "2026-10-27T14:58:23.684Z",
+  "min_sem_lead": 1444
  },
  "leads": [
+  {
+   "nome": "Deyse😍🥰Emerson",
+   "tel": "5547*****446",
+   "criado": "10:54",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Mariza Ribeiro",
    "tel": "5547*****627",
@@ -200,17 +211,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Trabalhista"
-  },
-  {
-   "nome": "554797444446",
-   "tel": "5547*****446",
-   "criado": "10:54",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   }
  ]
 }
