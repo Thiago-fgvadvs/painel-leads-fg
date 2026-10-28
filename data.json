@@ -1,38 +1,42 @@
 {
- "gerado_em": "28/10/2026, 16:19",
+ "gerado_em": "28/10/2026, 16:34",
  "data_ref": "28/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 3,
+  "total": 4,
+  "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 55,
+  "leads_7d": 56,
   "tickets_abertos": 931,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 3,
+   "leads": 4,
    "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 1,
+  "Anuncio": 2,
   "Direto/Indicacao": 2
  },
  "criativos": [
+  {
+   "url": "fb.me/7ZVZhwxMh",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 2,
+  "Trabalhista": 3,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
@@ -40,16 +44,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 234,
-  "turnos": 543,
-  "respondidos": 538,
+  "turnos": 549,
+  "respondidos": 544,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 59.1,
+  "mediana_min": 58.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 450,
-    "mediana_min": 55
+    "respostas": 455,
+    "mediana_min": 53.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -58,8 +62,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 18,
-    "mediana_min": 24.2
+    "respostas": 19,
+    "mediana_min": 23.6
    },
    {
     "nome": "Roseli",
@@ -173,16 +177,27 @@
   "fila": 836,
   "abertos": 931,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 19496
+  "ausentes": 0,
+  "espera_media_s": 19472
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-31T02:35:10.367Z",
-  "min_sem_lead": 84524
+  "ultimo_lead_at": "2026-10-28T19:23:23.640Z",
+  "min_sem_lead": 11
  },
  "leads": [
+  {
+   "nome": "Maria Rosimere",
+   "tel": "5547*****758",
+   "criado": "16:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Mariza Ribeiro",
    "tel": "5547*****627",
