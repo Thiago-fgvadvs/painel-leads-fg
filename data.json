@@ -1,5 +1,5 @@
 {
- "gerado_em": "28/10/2026, 12:32",
+ "gerado_em": "28/10/2026, 12:46",
  "data_ref": "28/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -40,16 +40,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 229,
-  "turnos": 508,
-  "respondidos": 502,
+  "turnos": 511,
+  "respondidos": 505,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 63.7,
+  "mediana_min": 62.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 420,
-    "mediana_min": 59
+    "respostas": 423,
+    "mediana_min": 58.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -73,6 +73,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
+    "dia": "26/10",
+    "desde": "10:50",
+    "ts": 1793022634147
+   },
    {
     "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
     "dia": "28/10",
@@ -102,12 +108,6 @@
     "dia": "26/10",
     "desde": "11:22",
     "ts": 1793024577201
-   },
-   {
-    "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
-    "dia": "26/10",
-    "desde": "10:50",
-    "ts": 1793022634147
    }
   ]
  },
@@ -185,16 +185,27 @@
   "fila": 836,
   "abertos": 929,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 1,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 19521
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-26T15:57:05.993Z",
-  "min_sem_lead": 2856
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 794907
  },
  "leads": [
+  {
+   "nome": "Mariza Ribeiro",
+   "tel": "5547*****627",
+   "criado": "09:11",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "553191751479",
    "tel": "5531*****479",
@@ -216,17 +227,6 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
-  },
-  {
-   "nome": "Mariza Ribeiro",
-   "tel": "5547*****627",
-   "criado": "09:11",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
   }
  ]
 }
