@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/10/2026, 10:09",
+ "gerado_em": "29/10/2026, 10:24",
  "data_ref": "29/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.8,
   "leads_7d": 47,
-  "tickets_abertos": 915,
+  "tickets_abertos": 888,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -43,16 +43,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 488,
-  "respondidos": 484,
+  "turnos": 494,
+  "respondidos": 490,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 58.3,
+  "mediana_min": 56.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 402,
-    "mediana_min": 48.6
+    "respostas": 408,
+    "mediana_min": 46.9
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -149,12 +149,21 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 2,
+  "total": 3,
   "por_vendedor": {
-   "Tiago Bernardo": 1,
+   "Tiago Bernardo": 2,
    "Roseli": 1
   },
   "lista": [
+   {
+    "vendedor": "Tiago Bernardo",
+    "cliente": "M",
+    "dia": "29/10",
+    "hora": "10:18",
+    "ts": 1793279896952,
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Tiago Bernardo",
     "cliente": "J",
@@ -177,16 +186,16 @@
  },
  "agora": {
   "fila": 837,
-  "abertos": 915,
+  "abertos": 888,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 18196
+  "espera_media_s": 10562
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-19T18:13:51.550Z",
-  "min_sem_lead": 189776
+  "ultimo_lead_at": "2026-09-17T12:13:43.228Z",
+  "min_sem_lead": 60551
  },
  "leads": [
   {
