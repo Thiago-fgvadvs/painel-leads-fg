@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/10/2026, 09:54",
+ "gerado_em": "29/10/2026, 10:09",
  "data_ref": "29/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.8,
   "leads_7d": 47,
-  "tickets_abertos": 934,
+  "tickets_abertos": 915,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -43,16 +43,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 485,
-  "respondidos": 480,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 56.6,
+  "turnos": 488,
+  "respondidos": 484,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 58.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 399,
-    "mediana_min": 48.1
+    "respostas": 402,
+    "mediana_min": 48.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -61,8 +61,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 20,
-    "mediana_min": 24.2
+    "respostas": 21,
+    "mediana_min": 24.7
    },
    {
     "nome": "—",
@@ -76,12 +76,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "J.R.K.D.M x BRF S.A",
-    "dia": "28/10",
-    "desde": "18:10",
-    "ts": 1793221821298
-   },
    {
     "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
     "dia": "28/10",
@@ -150,12 +144,6 @@
     "dia": "28/10",
     "desde": "14:04",
     "ts": 1793207074837
-   },
-   {
-    "grupo": "J.R.K.D.M x BRF S.A",
-    "dia": "28/10",
-    "desde": "18:10",
-    "ts": 1793221821298
    }
   ]
  },
@@ -189,16 +177,16 @@
  },
  "agora": {
   "fila": 837,
-  "abertos": 934,
+  "abertos": 915,
   "com_atendimento": 3,
   "online": 2,
   "offline": 2,
   "ausentes": 0,
-  "espera_media_s": 19402
+  "espera_media_s": 18196
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-14T01:03:40.659Z",
-  "min_sem_lead": 22311
+  "ultimo_lead_at": "2026-06-19T18:13:51.550Z",
+  "min_sem_lead": 189776
  },
  "leads": [
   {
