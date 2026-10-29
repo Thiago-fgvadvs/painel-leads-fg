@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/10/2026, 10:39",
+ "gerado_em": "29/10/2026, 10:55",
  "data_ref": "29/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -42,17 +42,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 217,
-  "turnos": 496,
-  "respondidos": 491,
+  "grupos_ativos": 218,
+  "turnos": 501,
+  "respondidos": 496,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 57.8,
+  "mediana_min": 54.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 409,
-    "mediana_min": 48.1
+    "respostas": 414,
+    "mediana_min": 45.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -79,8 +79,8 @@
    {
     "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
     "dia": "29/10",
-    "desde": "10:33",
-    "ts": 1793280785707
+    "desde": "10:54",
+    "ts": 1793282088784
    },
    {
     "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
@@ -111,6 +111,13 @@
  "pendencias": {
   "dias": 7,
   "leads": [
+   {
+    "nome": "Rodrigo",
+    "tel": "5545*****821",
+    "dia": "29/10",
+    "desde": "00:01",
+    "ts": 1793242881091
+   },
    {
     "nome": "554399308054",
     "tel": "5543*****054",
@@ -147,8 +154,8 @@
    {
     "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
     "dia": "29/10",
-    "desde": "10:33",
-    "ts": 1793280785707
+    "desde": "10:54",
+    "ts": 1793282088784
    }
   ]
  },
@@ -190,17 +197,17 @@
   ]
  },
  "agora": {
-  "fila": 841,
+  "fila": 835,
   "abertos": 889,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 10604
+  "espera_media_s": 10578
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-01T21:50:06.097Z",
-  "min_sem_lead": 39830
+  "ultimo_lead_at": "2026-10-21T19:17:51.322Z",
+  "min_sem_lead": 11197
  },
  "leads": [
   {
