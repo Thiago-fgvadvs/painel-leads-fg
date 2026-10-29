@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/10/2026, 15:58",
+ "gerado_em": "29/10/2026, 16:13",
  "data_ref": "29/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 75,
   "mediana_geral": 0.8,
   "leads_7d": 50,
-  "tickets_abertos": 897,
+  "tickets_abertos": 895,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -50,7 +50,7 @@
  ],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 230,
+  "grupos_ativos": 233,
   "turnos": 551,
   "respondidos": 545,
   "sem_resposta": 6,
@@ -85,6 +85,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
+    "dia": "29/10",
+    "desde": "16:01",
+    "ts": 1793300480646
+   },
+   {
     "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
     "dia": "29/10",
     "desde": "14:06",
@@ -95,12 +101,6 @@
     "dia": "29/10",
     "desde": "11:48",
     "ts": 1793285328921
-   },
-   {
-    "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
-    "dia": "29/10",
-    "desde": "11:00",
-    "ts": 1793282404798
    },
    {
     "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
@@ -147,7 +147,7 @@
     "ts": 1793292299316
    },
    {
-    "nome": "554998341837",
+    "nome": "Zulmira",
     "tel": "5549*****837",
     "dia": "29/10",
     "desde": "14:36",
@@ -174,12 +174,6 @@
     "ts": 1793207074837
    },
    {
-    "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
-    "dia": "29/10",
-    "desde": "11:00",
-    "ts": 1793282404798
-   },
-   {
     "grupo": "E.S.D.A x INSS",
     "dia": "29/10",
     "desde": "11:48",
@@ -190,6 +184,12 @@
     "dia": "29/10",
     "desde": "14:06",
     "ts": 1793293571318
+   },
+   {
+    "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
+    "dia": "29/10",
+    "desde": "16:01",
+    "ts": 1793300480646
    }
   ]
  },
@@ -240,8 +240,8 @@
   ]
  },
  "agora": {
-  "fila": 839,
-  "abertos": 897,
+  "fila": 836,
+  "abertos": 895,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
@@ -249,8 +249,8 @@
   "espera_media_s": 10512
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-26T15:57:05.993Z",
-  "min_sem_lead": 4501
+  "ultimo_lead_at": "2026-10-16T19:29:31.618Z",
+  "min_sem_lead": 18704
  },
  "leads": [
   {
@@ -265,7 +265,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "554998341837",
+   "nome": "Zulmira",
    "tel": "5549*****837",
    "criado": "14:36",
    "atendente": "FG Advogados - Isadora ",
