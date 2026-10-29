@@ -1,16 +1,16 @@
 {
- "gerado_em": "29/10/2026, 13:41",
+ "gerado_em": "29/10/2026, 13:57",
  "data_ref": "29/10/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
+  "total": 4,
   "no_sla": 2,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.8,
-  "leads_7d": 48,
+  "leads_7d": 49,
   "tickets_abertos": 895,
   "periodo_dias": 7
  },
@@ -22,13 +22,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "fb.me/7ZVZhwxMh",
@@ -36,23 +36,30 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3
+  "Trabalhista": 4
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Nunes ",
+   "tel": "5519*****272",
+   "criado": "13:44",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 228,
-  "turnos": 530,
-  "respondidos": 524,
+  "turnos": 533,
+  "respondidos": 527,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 48.2,
+  "mediana_min": 48.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 439,
-    "mediana_min": 40.7
+    "respostas": 441,
+    "mediana_min": 40.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -61,8 +68,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 21,
-    "mediana_min": 24.7
+    "respostas": 22,
+    "mediana_min": 29.4
    },
    {
     "nome": "—",
@@ -118,13 +125,6 @@
   "dias": 7,
   "leads": [
    {
-    "nome": "Rodrigo",
-    "tel": "5545*****821",
-    "dia": "29/10",
-    "desde": "00:01",
-    "ts": 1793242881091
-   },
-   {
     "nome": "Francisco",
     "tel": "5543*****054",
     "dia": "29/10",
@@ -137,6 +137,13 @@
     "dia": "29/10",
     "desde": "12:40",
     "ts": 1793288408810
+   },
+   {
+    "nome": "Nunes ",
+    "tel": "5519*****272",
+    "dia": "29/10",
+    "desde": "13:44",
+    "ts": 1793292299316
    }
   ],
   "grupos": [
@@ -222,11 +229,11 @@
   "online": 2,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 10508
+  "espera_media_s": 10522
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-03T23:21:39.221Z",
-  "min_sem_lead": 80240
+  "min_sem_lead": 80255
  },
  "leads": [
   {
@@ -236,6 +243,17 @@
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.7,
    "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Nunes ",
+   "tel": "5519*****272",
+   "criado": "13:44",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
