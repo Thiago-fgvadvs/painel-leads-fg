@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/10/2026, 11:40",
+ "gerado_em": "29/10/2026, 11:55",
  "data_ref": "29/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.8,
   "leads_7d": 47,
-  "tickets_abertos": 890,
+  "tickets_abertos": 891,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -42,17 +42,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 224,
-  "turnos": 511,
-  "respondidos": 506,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 50.8,
+  "grupos_ativos": 225,
+  "turnos": 520,
+  "respondidos": 514,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 48.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 423,
-    "mediana_min": 42.1
+    "respostas": 429,
+    "mediana_min": 41.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -65,17 +65,23 @@
     "mediana_min": 24.7
    },
    {
+    "nome": "Roseli",
+    "respostas": 15,
+    "mediana_min": 4.1
+   },
+   {
     "nome": "—",
     "respostas": 15,
     "mediana_min": 70.2
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 13,
-    "mediana_min": 8.6
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.S.D.A x INSS",
+    "dia": "29/10",
+    "desde": "11:48",
+    "ts": 1793285328921
+   },
    {
     "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
     "dia": "29/10",
@@ -156,6 +162,12 @@
     "dia": "29/10",
     "desde": "11:00",
     "ts": 1793282404798
+   },
+   {
+    "grupo": "E.S.D.A x INSS",
+    "dia": "29/10",
+    "desde": "11:48",
+    "ts": 1793285328921
    }
   ]
  },
@@ -198,7 +210,7 @@
  },
  "agora": {
   "fila": 836,
-  "abertos": 890,
+  "abertos": 891,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
@@ -206,8 +218,8 @@
   "espera_media_s": 10550
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-21T19:17:51.322Z",
-  "min_sem_lead": 11243
+  "ultimo_lead_at": "2026-09-02T19:33:50.306Z",
+  "min_sem_lead": 81802
  },
  "leads": [
   {
