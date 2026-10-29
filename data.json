@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/10/2026, 19:15",
+ "gerado_em": "29/10/2026, 19:30",
  "data_ref": "29/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -51,16 +51,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 239,
-  "turnos": 563,
-  "respondidos": 558,
+  "turnos": 565,
+  "respondidos": 560,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 45.6,
+  "mediana_min": 45.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 470,
-    "mediana_min": 39.9
+    "respostas": 472,
+    "mediana_min": 39.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -190,12 +190,21 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 5,
+  "total": 6,
   "por_vendedor": {
-   "Roseli": 3,
+   "Roseli": 4,
    "Tiago Bernardo": 2
   },
   "lista": [
+   {
+    "vendedor": "Roseli",
+    "cliente": "—",
+    "dia": "29/10",
+    "hora": "19:28",
+    "ts": 1793312913955,
+    "origem": "Direto/Indicação",
+    "de_anuncio": false
+   },
    {
     "vendedor": "Roseli",
     "cliente": "M",
@@ -247,14 +256,14 @@
   "fila": 839,
   "abertos": 901,
   "com_atendimento": 3,
-  "online": 2,
-  "offline": 2,
+  "online": 1,
+  "offline": 3,
   "ausentes": 0,
   "espera_media_s": 10486
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-02T19:33:50.306Z",
-  "min_sem_lead": 82242
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 796751
  },
  "leads": [
   {
