@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/10/2026, 13:57",
+ "gerado_em": "29/10/2026, 14:12",
  "data_ref": "29/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.8,
   "leads_7d": 49,
-  "tickets_abertos": 895,
+  "tickets_abertos": 896,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -50,16 +50,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 228,
-  "turnos": 533,
-  "respondidos": 527,
+  "turnos": 538,
+  "respondidos": 532,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 48.3,
+  "mediana_min": 48.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 441,
-    "mediana_min": 40.8
+    "respostas": 445,
+    "mediana_min": 41.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -72,22 +72,22 @@
     "mediana_min": 29.4
    },
    {
+    "nome": "Roseli",
+    "respostas": 16,
+    "mediana_min": 6.4
+   },
+   {
     "nome": "—",
     "respostas": 15,
     "mediana_min": 70.2
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 15,
-    "mediana_min": 4.1
    }
   ],
   "sem_resposta_lista": [
    {
     "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
-    "dia": "28/10",
-    "desde": "12:00",
-    "ts": 1793199650611
+    "dia": "29/10",
+    "desde": "14:06",
+    "ts": 1793293571318
    },
    {
     "grupo": "E.S.D.A x INSS",
@@ -160,12 +160,6 @@
     "ts": 1793127831069
    },
    {
-    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
-    "dia": "28/10",
-    "desde": "12:00",
-    "ts": 1793199650611
-   },
-   {
     "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
     "dia": "28/10",
     "desde": "14:04",
@@ -182,6 +176,12 @@
     "dia": "29/10",
     "desde": "11:48",
     "ts": 1793285328921
+   },
+   {
+    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
+    "dia": "29/10",
+    "desde": "14:06",
+    "ts": 1793293571318
    }
   ]
  },
@@ -223,17 +223,17 @@
   ]
  },
  "agora": {
-  "fila": 837,
-  "abertos": 895,
+  "fila": 838,
+  "abertos": 896,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 10522
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-03T23:21:39.221Z",
-  "min_sem_lead": 80255
+  "ultimo_lead_at": "2026-10-16T19:29:31.618Z",
+  "min_sem_lead": 18583
  },
  "leads": [
   {
