@@ -1,5 +1,5 @@
 {
- "gerado_em": "29/10/2026, 10:24",
+ "gerado_em": "29/10/2026, 10:39",
  "data_ref": "29/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.8,
   "leads_7d": 47,
-  "tickets_abertos": 888,
+  "tickets_abertos": 889,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -43,16 +43,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 217,
-  "turnos": 494,
-  "respondidos": 490,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 56.6,
+  "turnos": 496,
+  "respondidos": 491,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 57.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 408,
-    "mediana_min": 46.9
+    "respostas": 409,
+    "mediana_min": 48.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -76,6 +76,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
+    "dia": "29/10",
+    "desde": "10:33",
+    "ts": 1793280785707
+   },
    {
     "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
     "dia": "28/10",
@@ -105,13 +111,6 @@
  "pendencias": {
   "dias": 7,
   "leads": [
-   {
-    "nome": "Rodrigo",
-    "tel": "5545*****821",
-    "dia": "29/10",
-    "desde": "00:01",
-    "ts": 1793242881091
-   },
    {
     "nome": "554399308054",
     "tel": "5543*****054",
@@ -144,6 +143,12 @@
     "dia": "28/10",
     "desde": "14:04",
     "ts": 1793207074837
+   },
+   {
+    "grupo": "A.P.E.S x BANCO BRADESCO S.A ",
+    "dia": "29/10",
+    "desde": "10:33",
+    "ts": 1793280785707
    }
   ]
  },
@@ -185,17 +190,17 @@
   ]
  },
  "agora": {
-  "fila": 837,
-  "abertos": 888,
+  "fila": 841,
+  "abertos": 889,
   "com_atendimento": 3,
-  "online": 2,
-  "offline": 2,
+  "online": 3,
+  "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 10562
+  "espera_media_s": 10604
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-17T12:13:43.228Z",
-  "min_sem_lead": 60551
+  "ultimo_lead_at": "2026-10-01T21:50:06.097Z",
+  "min_sem_lead": 39830
  },
  "leads": [
   {
