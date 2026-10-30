@@ -1,5 +1,5 @@
 {
- "gerado_em": "30/10/2026, 15:34",
+ "gerado_em": "30/10/2026, 15:49",
  "data_ref": "30/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -38,16 +38,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 238,
-  "turnos": 520,
-  "respondidos": 514,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 51.4,
+  "grupos_ativos": 239,
+  "turnos": 523,
+  "respondidos": 516,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 51.2,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 425,
+    "respostas": 427,
     "mediana_min": 41.3
    },
    {
@@ -72,6 +72,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.J.D.S.S x LEO S.A.",
+    "dia": "30/10",
+    "desde": "15:44",
+    "ts": 1793385879458
+   },
    {
     "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
     "dia": "30/10",
@@ -149,6 +155,12 @@
     "dia": "30/10",
     "desde": "15:01",
     "ts": 1793383302403
+   },
+   {
+    "grupo": "M.J.D.S.S x LEO S.A.",
+    "dia": "30/10",
+    "desde": "15:44",
+    "ts": 1793385879458
    }
   ]
  },
@@ -217,8 +229,8 @@
   "espera_media_s": 10404
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-19T16:20:27.101Z",
-  "min_sem_lead": 324134
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 797970
  },
  "leads": [
   {
