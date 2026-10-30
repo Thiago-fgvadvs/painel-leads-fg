@@ -1,5 +1,5 @@
 {
- "gerado_em": "30/10/2026, 16:04",
+ "gerado_em": "30/10/2026, 16:19",
  "data_ref": "30/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -39,10 +39,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 239,
-  "turnos": 523,
+  "turnos": 524,
   "respondidos": 518,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
   "mediana_min": 51.2,
   "atendentes": [
    {
@@ -72,6 +72,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
+    "dia": "30/10",
+    "desde": "16:06",
+    "ts": 1793387198488
+   },
    {
     "grupo": "A.B.D.D.O x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "30/10",
@@ -137,6 +143,12 @@
     "dia": "30/10",
     "desde": "12:38",
     "ts": 1793374697214
+   },
+   {
+    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
+    "dia": "30/10",
+    "desde": "16:06",
+    "ts": 1793387198488
    }
   ]
  },
@@ -205,8 +217,8 @@
   "espera_media_s": 10404
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-10T00:28:30.475Z",
-  "min_sem_lead": 29916
+  "ultimo_lead_at": "2025-04-24T16:03:44.579Z",
+  "min_sem_lead": 797956
  },
  "leads": [
   {
