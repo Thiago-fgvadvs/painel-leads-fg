@@ -1,5 +1,5 @@
 {
- "gerado_em": "30/10/2026, 14:33",
+ "gerado_em": "30/10/2026, 14:49",
  "data_ref": "30/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -39,16 +39,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 238,
-  "turnos": 502,
-  "respondidos": 496,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 51.4,
+  "turnos": 507,
+  "respondidos": 500,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 53.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 410,
-    "mediana_min": 41.1
+    "respostas": 413,
+    "mediana_min": 41.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -61,17 +61,29 @@
     "mediana_min": 198.2
    },
    {
+    "nome": "Roseli",
+    "respostas": 16,
+    "mediana_min": 11.8
+   },
+   {
     "nome": "Tiago Bernardo",
     "respostas": 16,
     "mediana_min": 29.4
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 15,
-    "mediana_min": 8.6
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
+    "dia": "30/10",
+    "desde": "14:44",
+    "ts": 1793382294371
+   },
+   {
+    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
+    "dia": "30/10",
+    "desde": "14:44",
+    "ts": 1793382256369
+   },
    {
     "grupo": "A.B.D.D.O x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "30/10",
@@ -89,12 +101,6 @@
     "dia": "29/10",
     "desde": "17:02",
     "ts": 1793304169754
-   },
-   {
-    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
-    "dia": "29/10",
-    "desde": "14:06",
-    "ts": 1793293571318
    },
    {
     "grupo": "E.S.D.A x INSS",
@@ -133,12 +139,6 @@
     "ts": 1793285328921
    },
    {
-    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
-    "dia": "29/10",
-    "desde": "14:06",
-    "ts": 1793293571318
-   },
-   {
     "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
     "dia": "29/10",
     "desde": "17:02",
@@ -149,6 +149,18 @@
     "dia": "30/10",
     "desde": "12:38",
     "ts": 1793374697214
+   },
+   {
+    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
+    "dia": "30/10",
+    "desde": "14:44",
+    "ts": 1793382256369
+   },
+   {
+    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
+    "dia": "30/10",
+    "desde": "14:44",
+    "ts": 1793382294371
    }
   ]
  },
@@ -217,8 +229,8 @@
   "espera_media_s": 10417
  },
  "captacao": {
-  "ultimo_lead_at": "2026-09-02T19:33:50.306Z",
-  "min_sem_lead": 83400
+  "ultimo_lead_at": "2026-10-30T15:00:14.506Z",
+  "min_sem_lead": 169
  },
  "leads": [
   {
