@@ -1,5 +1,5 @@
 {
- "gerado_em": "30/10/2026, 17:50",
+ "gerado_em": "30/10/2026, 18:05",
  "data_ref": "30/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -39,16 +39,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 242,
-  "turnos": 542,
-  "respondidos": 536,
-  "sem_resposta": 6,
-  "sem_resposta_grupos": 6,
-  "mediana_min": 48.3,
+  "turnos": 544,
+  "respondidos": 537,
+  "sem_resposta": 7,
+  "sem_resposta_grupos": 7,
+  "mediana_min": 48.2,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 444,
-    "mediana_min": 39.9
+    "respostas": 445,
+    "mediana_min": 39.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -72,6 +72,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
+    "dia": "30/10",
+    "desde": "18:02",
+    "ts": 1793394151706
+   },
    {
     "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
     "dia": "30/10",
@@ -149,6 +155,12 @@
     "dia": "30/10",
     "desde": "16:06",
     "ts": 1793387198488
+   },
+   {
+    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
+    "dia": "30/10",
+    "desde": "18:02",
+    "ts": 1793394151706
    }
   ]
  },
@@ -211,14 +223,14 @@
   "fila": 846,
   "abertos": 910,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 10404
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-30T16:04:05.900Z",
-  "min_sem_lead": 287
+  "ultimo_lead_at": "2026-03-19T16:20:27.101Z",
+  "min_sem_lead": 324285
  },
  "leads": [
   {
