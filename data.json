@@ -1,5 +1,5 @@
 {
- "gerado_em": "30/10/2026, 12:32",
+ "gerado_em": "30/10/2026, 12:47",
  "data_ref": "30/10/2026",
  "sla_min": 15,
  "kpi": {
@@ -38,12 +38,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 236,
-  "turnos": 495,
-  "respondidos": 490,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 50.8,
+  "grupos_ativos": 237,
+  "turnos": 497,
+  "respondidos": 491,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 51,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -57,8 +57,8 @@
    },
    {
     "nome": "—",
-    "respostas": 17,
-    "mediana_min": 199.3
+    "respostas": 18,
+    "mediana_min": 198.2
    },
    {
     "nome": "Tiago Bernardo",
@@ -72,6 +72,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.B.D.D.O x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "30/10",
+    "desde": "12:38",
+    "ts": 1793374697214
+   },
    {
     "grupo": "A.J.P.B",
     "dia": "27/10",
@@ -137,6 +143,12 @@
     "dia": "29/10",
     "desde": "17:02",
     "ts": 1793304169754
+   },
+   {
+    "grupo": "A.B.D.D.O x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "30/10",
+    "desde": "12:38",
+    "ts": 1793374697214
    }
   ]
  },
@@ -196,17 +208,17 @@
   ]
  },
  "agora": {
-  "fila": 845,
+  "fila": 844,
   "abertos": 908,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 10431
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-19T19:16:31.657Z",
-  "min_sem_lead": 15616
+  "ultimo_lead_at": "2026-10-30T15:00:14.506Z",
+  "min_sem_lead": 48
  },
  "leads": [
   {
