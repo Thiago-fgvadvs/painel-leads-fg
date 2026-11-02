@@ -1,6 +1,6 @@
 {
- "gerado_em": "01/11/2026, 21:49",
- "data_ref": "01/11/2026",
+ "gerado_em": "02/11/2026, 07:05",
+ "data_ref": "02/11/2026",
  "sla_min": 15,
  "kpi": {
   "total": 0,
@@ -10,7 +10,7 @@
   "fora_horario": 0,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 40,
+  "leads_7d": 26,
   "tickets_abertos": 912,
   "periodo_dias": 7
  },
@@ -25,37 +25,37 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 239,
-  "turnos": 538,
-  "respondidos": 531,
+  "grupos_ativos": 208,
+  "turnos": 423,
+  "respondidos": 416,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 43.6,
+  "mediana_min": 29.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 442,
-    "mediana_min": 38.4
+    "respostas": 350,
+    "mediana_min": 27
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 35,
-    "mediana_min": 1002.6
-   },
-   {
-    "nome": "Roseli",
-    "respostas": 21,
-    "mediana_min": 8.6
+    "respostas": 25,
+    "mediana_min": 559.5
    },
    {
     "nome": "—",
-    "respostas": 17,
-    "mediana_min": 197
+    "respostas": 16,
+    "mediana_min": 177.2
+   },
+   {
+    "nome": "Roseli",
+    "respostas": 16,
+    "mediana_min": 8.5
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 16,
-    "mediana_min": 29.4
+    "respostas": 9,
+    "mediana_min": 10.3
    }
   ],
   "sem_resposta_lista": [
@@ -153,10 +153,10 @@
  },
  "contratos": {
   "dias": 7,
-  "total": 5,
+  "total": 4,
   "por_vendedor": {
    "Roseli": 3,
-   "Tiago Bernardo": 2
+   "Tiago Bernardo": 1
   },
   "lista": [
    {
@@ -194,15 +194,6 @@
     "ts": 1793279896952,
     "origem": "Direto/Indicação",
     "de_anuncio": false
-   },
-   {
-    "vendedor": "Tiago Bernardo",
-    "cliente": "J",
-    "dia": "26/10",
-    "hora": "15:31",
-    "ts": 1793039499104,
-    "origem": "Anúncio: instagram.com/p/DcmW37RM3SC/",
-    "de_anuncio": true
    }
   ]
  },
@@ -211,13 +202,13 @@
   "abertos": 912,
   "com_atendimento": 3,
   "online": 1,
-  "offline": 3,
-  "ausentes": 0,
+  "offline": 2,
+  "ausentes": 1,
   "espera_media_s": 10376
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-12T03:02:55.917Z",
-  "min_sem_lead": 30107
+  "ultimo_lead_at": "2026-10-23T13:17:55.344Z",
+  "min_sem_lead": 14207
  },
  "leads": []
 }
