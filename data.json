@@ -1,5 +1,5 @@
 {
- "gerado_em": "03/11/2026, 14:13",
+ "gerado_em": "03/11/2026, 14:28",
  "data_ref": "03/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -40,11 +40,11 @@
    "leads": 2
   },
   {
-   "url": "www.instagram.com/p/DcmWSqIsv9v/",
+   "url": "fb.me/7ZVZhwxMh",
    "leads": 1
   },
   {
-   "url": "fb.me/7ZVZhwxMh",
+   "url": "www.instagram.com/p/DcmWSqIsv9v/",
    "leads": 1
   },
   {
@@ -53,24 +53,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 1,
-  "Trabalhista": 8
+  "Trabalhista": 8,
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 207,
-  "turnos": 353,
-  "respondidos": 348,
+  "grupos_ativos": 208,
+  "turnos": 356,
+  "respondidos": 351,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 33.2,
+  "mediana_min": 33,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 277,
-    "mediana_min": 27.5
+    "respostas": 280,
+    "mediana_min": 27.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -212,16 +212,27 @@
   "fila": 850,
   "abertos": 924,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 1,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 10190
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
-  "min_sem_lead": 803634
+  "ultimo_lead_at": "2026-11-03T10:12:54.777Z",
+  "min_sem_lead": 436
  },
  "leads": [
+  {
+   "nome": "Deise de Souzal",
+   "tel": "5514*****198",
+   "criado": "07:12",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Possível cliente ",
    "tel": "5511*****064",
@@ -286,17 +297,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmWSqIsv9v/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Deise de Souzal",
-   "tel": "5514*****198",
-   "criado": "07:12",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
   },
   {
