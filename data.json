@@ -1,44 +1,59 @@
 {
- "gerado_em": "03/11/2026, 07:10",
+ "gerado_em": "03/11/2026, 07:26",
  "data_ref": "03/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 1,
+  "total": 3,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 0,
-  "fora_horario": 1,
+  "sem_resposta": 1,
+  "fora_horario": 2,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 15,
-  "tickets_abertos": 918,
+  "leads_7d": 17,
+  "tickets_abertos": 920,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 1,
+   "leads": 2,
    "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 1,
+  "Anuncio": 3,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/7ZVZhwxMh",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/a18c14CpA",
+   "leads": 1
+  },
   {
    "url": "fb.me/6lIu0yPSl",
    "leads": 1
   }
  ],
  "areas": {
-  "Trabalhista": 1
+  "Trabalhista": 3
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "5527999764590",
+   "tel": "5527*****590",
+   "criado": "07:25",
+   "area": "Trabalhista"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 176,
+  "grupos_ativos": 177,
   "turnos": 292,
   "respondidos": 285,
   "sem_resposta": 7,
@@ -211,19 +226,41 @@
   ]
  },
  "agora": {
-  "fila": 853,
-  "abertos": 918,
+  "fila": 855,
+  "abertos": 920,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 10296
+  "espera_media_s": 10282
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-10T17:21:14.162Z",
-  "min_sem_lead": 342290
+  "ultimo_lead_at": "2026-11-03T10:12:54.777Z",
+  "min_sem_lead": 13
  },
  "leads": [
+  {
+   "nome": "5514998545198",
+   "tel": "5514*****198",
+   "criado": "07:12",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5527999764590",
+   "tel": "5527*****590",
+   "criado": "07:25",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/a18c14CpA",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Francisco Viana",
    "tel": "5514*****815",
