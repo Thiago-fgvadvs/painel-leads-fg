@@ -1,5 +1,5 @@
 {
- "gerado_em": "03/11/2026, 17:32",
+ "gerado_em": "03/11/2026, 17:47",
  "data_ref": "03/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -60,17 +60,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 209,
-  "turnos": 400,
-  "respondidos": 395,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 42.8,
+  "grupos_ativos": 210,
+  "turnos": 408,
+  "respondidos": 404,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 43.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 324,
-    "mediana_min": 33.2
+    "respostas": 333,
+    "mediana_min": 33.3
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -94,12 +94,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "A.J.P.B",
-    "dia": "30/10",
-    "desde": "08:36",
-    "ts": 1793360202997
-   },
    {
     "grupo": "A.B.D.D.O x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "03/11",
@@ -147,12 +141,6 @@
     "dia": "29/10",
     "desde": "17:02",
     "ts": 1793304169754
-   },
-   {
-    "grupo": "A.J.P.B",
-    "dia": "30/10",
-    "desde": "08:36",
-    "ts": 1793360202997
    },
    {
     "grupo": "A.B.D.D.O x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
@@ -212,14 +200,14 @@
   "fila": 850,
   "abertos": 925,
   "com_atendimento": 3,
-  "online": 1,
+  "online": 2,
   "offline": 1,
-  "ausentes": 2,
+  "ausentes": 1,
   "espera_media_s": 10177
  },
  "captacao": {
-  "ultimo_lead_at": "2026-03-19T16:20:27.101Z",
-  "min_sem_lead": 330012
+  "ultimo_lead_at": "2026-10-10T00:28:30.475Z",
+  "min_sem_lead": 35779
  },
  "leads": [
   {
