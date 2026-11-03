@@ -1,5 +1,5 @@
 {
- "gerado_em": "03/11/2026, 17:47",
+ "gerado_em": "03/11/2026, 18:02",
  "data_ref": "03/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -61,16 +61,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 210,
-  "turnos": 408,
-  "respondidos": 404,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 43.1,
+  "turnos": 410,
+  "respondidos": 405,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 42.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 333,
-    "mediana_min": 33.3
+    "respostas": 334,
+    "mediana_min": 33.9
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -94,6 +94,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.J.P.B",
+    "dia": "03/11",
+    "desde": "17:47",
+    "ts": 1793738871336
+   },
    {
     "grupo": "A.B.D.D.O x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
     "dia": "03/11",
@@ -147,6 +153,12 @@
     "dia": "03/11",
     "desde": "10:51",
     "ts": 1793713881769
+   },
+   {
+    "grupo": "A.J.P.B",
+    "dia": "03/11",
+    "desde": "17:47",
+    "ts": 1793738871336
    }
   ]
  },
@@ -206,8 +218,8 @@
   "espera_media_s": 10177
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-10T00:28:30.475Z",
-  "min_sem_lead": 35779
+  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
+  "min_sem_lead": 803863
  },
  "leads": [
   {
