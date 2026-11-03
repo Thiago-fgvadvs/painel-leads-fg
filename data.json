@@ -1,31 +1,39 @@
 {
- "gerado_em": "03/11/2026, 07:26",
+ "gerado_em": "03/11/2026, 12:12",
  "data_ref": "03/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 0,
+  "total": 7,
+  "no_sla": 4,
   "fora_sla": 0,
-  "sem_resposta": 1,
-  "fora_horario": 2,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 17,
-  "tickets_abertos": 920,
+  "sem_resposta": 0,
+  "fora_horario": 3,
+  "pct_sla": 100,
+  "mediana_geral": 0.5,
+  "leads_7d": 21,
+  "tickets_abertos": 922,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 2,
-   "mediana_min": null
+   "leads": 7,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 3,
-  "Direto/Indicacao": 0
+  "Anuncio": 6,
+  "Direto/Indicacao": 1
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 2
+  },
+  {
+   "url": "www.instagram.com/p/DcmWSqIsv9v/",
+   "leads": 1
+  },
   {
    "url": "fb.me/7ZVZhwxMh",
    "leads": 1
@@ -40,45 +48,38 @@
   }
  ],
  "areas": {
-  "Trabalhista": 3
+  "Trabalhista": 7
  },
- "sem_resposta_lista": [
-  {
-   "nome": "5527999764590",
-   "tel": "5527*****590",
-   "criado": "07:25",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 177,
-  "turnos": 292,
-  "respondidos": 285,
-  "sem_resposta": 7,
-  "sem_resposta_grupos": 7,
-  "mediana_min": 26.5,
+  "grupos_ativos": 202,
+  "turnos": 350,
+  "respondidos": 345,
+  "sem_resposta": 5,
+  "sem_resposta_grupos": 5,
+  "mediana_min": 33,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 229,
-    "mediana_min": 22
+    "respostas": 275,
+    "mediana_min": 27.5
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 21,
-    "mediana_min": 1390.6
+    "respostas": 31,
+    "mediana_min": 2251.8
    },
    {
     "nome": "Roseli",
-    "respostas": 16,
-    "mediana_min": 8.5
+    "respostas": 18,
+    "mediana_min": 9.5
    },
    {
     "nome": "—",
-    "respostas": 11,
-    "mediana_min": 202.2
+    "respostas": 13,
+    "mediana_min": 199.3
    },
    {
     "nome": "Tiago Bernardo",
@@ -88,28 +89,16 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "A.B.D.D.O x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "30/10",
-    "desde": "12:38",
-    "ts": 1793374697214
-   },
-   {
-    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
-    "dia": "30/10",
-    "desde": "18:02",
-    "ts": 1793394151706
-   },
-   {
-    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
-    "dia": "30/10",
-    "desde": "16:06",
-    "ts": 1793387198488
-   },
-   {
     "grupo": "A.J.P.B",
     "dia": "30/10",
     "desde": "08:36",
     "ts": 1793360202997
+   },
+   {
+    "grupo": "A.B.D.D.O x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
+    "dia": "03/11",
+    "desde": "10:51",
+    "ts": 1793713881769
    },
    {
     "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
@@ -161,21 +150,9 @@
    },
    {
     "grupo": "A.B.D.D.O x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
-    "dia": "30/10",
-    "desde": "12:38",
-    "ts": 1793374697214
-   },
-   {
-    "grupo": "E.M.D.N x SUPERMERCADOS MJ DE GOIS LTDA",
-    "dia": "30/10",
-    "desde": "16:06",
-    "ts": 1793387198488
-   },
-   {
-    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
-    "dia": "30/10",
-    "desde": "18:02",
-    "ts": 1793394151706
+    "dia": "03/11",
+    "desde": "10:51",
+    "ts": 1793713881769
    }
   ]
  },
@@ -226,21 +203,65 @@
   ]
  },
  "agora": {
-  "fila": 855,
-  "abertos": 920,
+  "fila": 847,
+  "abertos": 922,
   "com_atendimento": 3,
-  "online": 1,
-  "offline": 3,
+  "online": 3,
+  "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 10282
+  "espera_media_s": 10216
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-03T10:12:54.777Z",
-  "min_sem_lead": 13
+  "ultimo_lead_at": "2026-11-03T13:14:36.284Z",
+  "min_sem_lead": 118
  },
  "leads": [
   {
-   "nome": "5514998545198",
+   "nome": "Juju 👑",
+   "tel": "5519*****683",
+   "criado": "10:14",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Evandops",
+   "tel": "5534*****429",
+   "criado": "10:21",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Cássia Oliveira",
+   "tel": "5584*****950",
+   "criado": "10:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Edvaldo Sousa",
+   "tel": "5598*****796",
+   "criado": "08:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmWSqIsv9v/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Deise de Souzal",
    "tel": "5514*****198",
    "criado": "07:12",
    "atendente": "FG Advogados - Isadora ",
@@ -254,9 +275,9 @@
    "nome": "5527999764590",
    "tel": "5527*****590",
    "criado": "07:25",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "fb.me/a18c14CpA",
    "area": "Trabalhista"
