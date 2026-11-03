@@ -1,59 +1,59 @@
 {
- "gerado_em": "02/11/2026, 21:55",
- "data_ref": "02/11/2026",
+ "gerado_em": "03/11/2026, 07:10",
+ "data_ref": "03/11/2026",
  "sla_min": 15,
  "kpi": {
   "total": 1,
-  "no_sla": 1,
+  "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 0,
-  "pct_sla": 100,
-  "mediana_geral": 0.6,
-  "leads_7d": 27,
-  "tickets_abertos": 916,
+  "fora_horario": 1,
+  "pct_sla": 0,
+  "mediana_geral": null,
+  "leads_7d": 15,
+  "tickets_abertos": 918,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
    "leads": 1,
-   "mediana_min": 0.6
+   "mediana_min": null
   }
  ],
  "origem": {
-  "Anuncio": 0,
-  "Direto/Indicacao": 1
+  "Anuncio": 1,
+  "Direto/Indicacao": 0
  },
- "criativos": [],
+ "criativos": [
+  {
+   "url": "fb.me/6lIu0yPSl",
+   "leads": 1
+  }
+ ],
  "areas": {
-  "Nao identificada": 1
+  "Trabalhista": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 213,
-  "turnos": 427,
-  "respondidos": 420,
+  "grupos_ativos": 176,
+  "turnos": 292,
+  "respondidos": 285,
   "sem_resposta": 7,
   "sem_resposta_grupos": 7,
-  "mediana_min": 29.7,
+  "mediana_min": 26.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 350,
-    "mediana_min": 27
+    "respostas": 229,
+    "mediana_min": 22
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 29,
-    "mediana_min": 1232.5
-   },
-   {
-    "nome": "—",
-    "respostas": 16,
-    "mediana_min": 177.2
+    "respostas": 21,
+    "mediana_min": 1390.6
    },
    {
     "nome": "Roseli",
@@ -61,9 +61,14 @@
     "mediana_min": 8.5
    },
    {
+    "nome": "—",
+    "respostas": 11,
+    "mediana_min": 202.2
+   },
+   {
     "nome": "Tiago Bernardo",
-    "respostas": 9,
-    "mediana_min": 10.3
+    "respostas": 8,
+    "mediana_min": 7.4
    }
   ],
   "sem_resposta_lista": [
@@ -87,9 +92,9 @@
    },
    {
     "grupo": "A.J.P.B",
-    "dia": "27/10",
-    "desde": "16:03",
-    "ts": 1793127831069
+    "dia": "30/10",
+    "desde": "08:36",
+    "ts": 1793360202997
    },
    {
     "grupo": "A.L.M.D.S x CASTELORES ENGENHARIA E CONSTRUÇÕES LTDA",
@@ -116,12 +121,6 @@
   "leads": [],
   "grupos": [
    {
-    "grupo": "A.J.P.B",
-    "dia": "27/10",
-    "desde": "16:03",
-    "ts": 1793127831069
-   },
-   {
     "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
     "dia": "28/10",
     "desde": "14:04",
@@ -138,6 +137,12 @@
     "dia": "29/10",
     "desde": "17:02",
     "ts": 1793304169754
+   },
+   {
+    "grupo": "A.J.P.B",
+    "dia": "30/10",
+    "desde": "08:36",
+    "ts": 1793360202997
    },
    {
     "grupo": "A.B.D.D.O x ARCOS DOURADOS COMERCIO DE ALIMENTOS SA",
@@ -206,29 +211,29 @@
   ]
  },
  "agora": {
-  "fila": 851,
-  "abertos": 916,
+  "fila": 853,
+  "abertos": 918,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 10323
+  "espera_media_s": 10296
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
-  "min_sem_lead": 802656
+  "ultimo_lead_at": "2026-03-10T17:21:14.162Z",
+  "min_sem_lead": 342290
  },
  "leads": [
   {
-   "nome": "Francisca",
-   "tel": "5531*****483",
-   "criado": "10:41",
+   "nome": "Francisco Viana",
+   "tel": "5514*****815",
+   "criado": "06:03",
    "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
+   "espera_min": 0.4,
+   "status": "FORA_HORARIO",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6lIu0yPSl",
+   "area": "Trabalhista"
   }
  ]
 }
