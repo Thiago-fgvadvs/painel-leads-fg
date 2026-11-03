@@ -1,17 +1,17 @@
 {
- "gerado_em": "03/11/2026, 12:57",
+ "gerado_em": "03/11/2026, 13:12",
  "data_ref": "03/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 8,
-  "no_sla": 5,
+  "total": 9,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 22,
-  "tickets_abertos": 922,
+  "leads_7d": 23,
+  "tickets_abertos": 923,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -19,11 +19,16 @@
    "nome": "FG Advogados - Isadora ",
    "leads": 8,
    "mediana_min": 0.5
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 1,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
   "Anuncio": 7,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -48,13 +53,14 @@
   }
  ],
  "areas": {
+  "Nao identificada": 1,
   "Trabalhista": 8
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 203,
+  "grupos_ativos": 204,
   "turnos": 352,
   "respondidos": 346,
   "sem_resposta": 6,
@@ -216,18 +222,29 @@
  },
  "agora": {
   "fila": 848,
-  "abertos": 922,
+  "abertos": 923,
   "com_atendimento": 3,
-  "online": 1,
-  "offline": 1,
-  "ausentes": 2,
+  "online": 2,
+  "offline": 2,
+  "ausentes": 0,
   "espera_media_s": 10216
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T16:03:44.579Z",
-  "min_sem_lead": 803514
+  "ultimo_lead_at": "2026-11-03T16:05:38.172Z",
+  "min_sem_lead": 7
  },
  "leads": [
+  {
+   "nome": "Possível cliente ",
+   "tel": "5511*****064",
+   "criado": "13:05",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "5516997831209",
    "tel": "5516*****209",
