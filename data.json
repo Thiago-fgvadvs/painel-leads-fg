@@ -1,12 +1,12 @@
 {
- "gerado_em": "03/11/2026, 18:48",
+ "gerado_em": "03/11/2026, 19:03",
  "data_ref": "03/11/2026",
  "sla_min": 15,
  "kpi": {
   "total": 12,
-  "no_sla": 8,
+  "no_sla": 9,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 3,
   "pct_sla": 100,
   "mediana_geral": 0.5,
@@ -17,7 +17,7 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.5
   },
   {
@@ -60,28 +60,21 @@
   "Trabalhista": 9,
   "Nao identificada": 3
  },
- "sem_resposta_lista": [
-  {
-   "nome": "559391379931",
-   "tel": "5593*****931",
-   "criado": "18:48",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 212,
-  "turnos": 412,
-  "respondidos": 406,
+  "turnos": 419,
+  "respondidos": 413,
   "sem_resposta": 6,
   "sem_resposta_grupos": 6,
-  "mediana_min": 43.1,
+  "mediana_min": 45.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 335,
-    "mediana_min": 34.5
+    "respostas": 342,
+    "mediana_min": 36.5
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -145,15 +138,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "559391379931",
-    "tel": "5593*****931",
-    "dia": "03/11",
-    "desde": "18:48",
-    "ts": 1793742483921
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
@@ -246,20 +231,20 @@
   "online": 1,
   "offline": 2,
   "ausentes": 1,
-  "espera_media_s": 10151
+  "espera_media_s": 10138
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-03T21:48:03.921Z",
-  "min_sem_lead": 0
+  "min_sem_lead": 16
  },
  "leads": [
   {
    "nome": "559391379931",
    "tel": "5593*****931",
    "criado": "18:48",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
    "area": "Trabalhista"
