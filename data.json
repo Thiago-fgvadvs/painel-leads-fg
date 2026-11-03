@@ -1,5 +1,5 @@
 {
- "gerado_em": "03/11/2026, 18:02",
+ "gerado_em": "03/11/2026, 18:17",
  "data_ref": "03/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -60,17 +60,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 210,
-  "turnos": 410,
-  "respondidos": 405,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
-  "mediana_min": 42.8,
+  "grupos_ativos": 211,
+  "turnos": 412,
+  "respondidos": 406,
+  "sem_resposta": 6,
+  "sem_resposta_grupos": 6,
+  "mediana_min": 43.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 334,
-    "mediana_min": 33.9
+    "respostas": 335,
+    "mediana_min": 34.5
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -94,6 +94,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
+    "dia": "03/11",
+    "desde": "18:17",
+    "ts": 1793740654367
+   },
    {
     "grupo": "A.J.P.B",
     "dia": "03/11",
@@ -159,6 +165,12 @@
     "dia": "03/11",
     "desde": "17:47",
     "ts": 1793738871336
+   },
+   {
+    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
+    "dia": "03/11",
+    "desde": "18:17",
+    "ts": 1793740654367
    }
   ]
  },
@@ -209,7 +221,7 @@
   ]
  },
  "agora": {
-  "fila": 850,
+  "fila": 849,
   "abertos": 925,
   "com_atendimento": 3,
   "online": 2,
@@ -218,8 +230,8 @@
   "espera_media_s": 10177
  },
  "captacao": {
-  "ultimo_lead_at": "2025-04-24T15:19:49.379Z",
-  "min_sem_lead": 803863
+  "ultimo_lead_at": "2026-10-10T00:28:30.475Z",
+  "min_sem_lead": 35809
  },
  "leads": [
   {
