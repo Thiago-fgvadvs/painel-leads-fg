@@ -1,5 +1,5 @@
 {
- "gerado_em": "04/11/2026, 17:05",
+ "gerado_em": "04/11/2026, 17:20",
  "data_ref": "04/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -55,7 +55,7 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 212,
+  "grupos_ativos": 213,
   "turnos": 383,
   "respondidos": 378,
   "sem_resposta": 5,
@@ -204,30 +204,19 @@
   ]
  },
  "agora": {
-  "fila": 844,
+  "fila": 843,
   "abertos": 929,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 10125
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-04T20:04:11.968Z",
-  "min_sem_lead": 2
+  "ultimo_lead_at": "2026-11-04T05:16:48.692Z",
+  "min_sem_lead": 904
  },
  "leads": [
-  {
-   "nome": "5516992816986",
-   "tel": "5516*****986",
-   "criado": "17:04",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Cristiano Telles",
    "tel": "5555*****312",
@@ -237,6 +226,17 @@
    "status": "FORA_HORARIO",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DdrnAcAsmtQ/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "5516992816986",
+   "tel": "5516*****986",
+   "criado": "17:04",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
   },
   {
