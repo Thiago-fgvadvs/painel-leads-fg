@@ -1,5 +1,5 @@
 {
- "gerado_em": "04/11/2026, 15:04",
+ "gerado_em": "04/11/2026, 15:19",
  "data_ref": "04/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -44,24 +44,24 @@
   }
  ],
  "areas": {
-  "Nao identificada": 3,
-  "Trabalhista": 5
+  "Trabalhista": 5,
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 206,
-  "turnos": 367,
-  "respondidos": 362,
+  "turnos": 368,
+  "respondidos": 363,
   "sem_resposta": 5,
   "sem_resposta_grupos": 5,
-  "mediana_min": 64.4,
+  "mediana_min": 65.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 306,
-    "mediana_min": 48.7
+    "respostas": 307,
+    "mediana_min": 49.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -200,30 +200,19 @@
   ]
  },
  "agora": {
-  "fila": 845,
+  "fila": 844,
   "abertos": 928,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 10138
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-04T17:59:51.245Z",
-  "min_sem_lead": 5
+  "ultimo_lead_at": "2026-11-04T17:59:55.751Z",
+  "min_sem_lead": 20
  },
  "leads": [
-  {
-   "nome": "Shoppe entregas",
-   "tel": "5516*****792",
-   "criado": "14:59",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
   {
    "nome": "Claudia",
    "tel": "5519*****034",
@@ -236,17 +225,6 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Gael✨Catarina✨Maytê",
-   "tel": "5598*****223",
-   "criado": "14:53",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmVpxyMs5c/",
-   "area": "Trabalhista"
-  },
-  {
    "nome": "Amauri",
    "tel": "5511*****431",
    "criado": "14:29",
@@ -256,6 +234,28 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Shoppe entregas",
+   "tel": "5516*****792",
+   "criado": "14:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Gael✨Catarina✨Maytê",
+   "tel": "5598*****223",
+   "criado": "14:53",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmVpxyMs5c/",
+   "area": "Trabalhista"
   },
   {
    "nome": "Amandinha",
