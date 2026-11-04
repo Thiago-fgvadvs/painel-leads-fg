@@ -1,5 +1,5 @@
 {
- "gerado_em": "04/11/2026, 15:34",
+ "gerado_em": "04/11/2026, 15:50",
  "data_ref": "04/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -51,16 +51,16 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 208,
-  "turnos": 371,
-  "respondidos": 366,
-  "sem_resposta": 5,
-  "sem_resposta_grupos": 5,
+  "grupos_ativos": 209,
+  "turnos": 374,
+  "respondidos": 370,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
   "mediana_min": 64.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 310,
+    "respostas": 312,
     "mediana_min": 48.7
    },
    {
@@ -70,7 +70,7 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 13,
+    "respostas": 15,
     "mediana_min": 10.4
    },
    {
@@ -85,12 +85,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
-    "dia": "03/11",
-    "desde": "18:17",
-    "ts": 1793740654367
-   },
    {
     "grupo": "A.J.P.B",
     "dia": "03/11",
@@ -144,12 +138,6 @@
     "dia": "03/11",
     "desde": "17:47",
     "ts": 1793738871336
-   },
-   {
-    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
-    "dia": "03/11",
-    "desde": "18:17",
-    "ts": 1793740654367
    }
   ]
  },
@@ -203,14 +191,14 @@
   "fila": 843,
   "abertos": 927,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 10164
+  "ausentes": 1,
+  "espera_media_s": 10151
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
-  "min_sem_lead": 134254
+  "ultimo_lead_at": "2025-04-24T15:19:49.378Z",
+  "min_sem_lead": 805170
  },
  "leads": [
   {
