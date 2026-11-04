@@ -1,5 +1,5 @@
 {
- "gerado_em": "04/11/2026, 16:20",
+ "gerado_em": "04/11/2026, 16:35",
  "data_ref": "04/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -48,14 +48,14 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
-  "Nao identificada": 3
+  "Nao identificada": 3,
+  "Trabalhista": 6
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 210,
+  "grupos_ativos": 212,
   "turnos": 380,
   "respondidos": 375,
   "sem_resposta": 5,
@@ -207,18 +207,29 @@
   "fila": 842,
   "abertos": 927,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 10151
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-03T13:00:51.563Z",
-  "min_sem_lead": 134300
+  "ultimo_lead_at": "2026-03-10T17:21:14.162Z",
+  "min_sem_lead": 344294
  },
  "leads": [
   {
-   "nome": "556182543875",
+   "nome": "Amauri",
+   "tel": "5511*****431",
+   "criado": "14:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Jujuba",
    "tel": "5561*****875",
    "criado": "16:02",
    "atendente": "FG Advogados - Isadora ",
@@ -249,17 +260,6 @@
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
-  },
-  {
-   "nome": "Amauri",
-   "tel": "5511*****431",
-   "criado": "14:29",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
   },
   {
    "nome": "Gael✨Catarina✨Maytê",
