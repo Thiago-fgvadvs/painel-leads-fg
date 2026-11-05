@@ -1,41 +1,41 @@
 {
- "gerado_em": "05/11/2026, 11:40",
+ "gerado_em": "05/11/2026, 11:55",
  "data_ref": "05/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 6,
+  "total": 7,
+  "no_sla": 7,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 36,
-  "tickets_abertos": 933,
+  "leads_7d": 37,
+  "tickets_abertos": 934,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
+   "leads": 7,
    "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 6,
+  "Anuncio": 7,
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 2
+  },
   {
    "url": "fb.me/875plPmzH",
    "leads": 1
   },
   {
    "url": "fb.me/6lIu0yPSl",
-   "leads": 1
-  },
-  {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 1
   },
   {
@@ -52,22 +52,22 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6
+  "Trabalhista": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 200,
-  "turnos": 365,
-  "respondidos": 362,
+  "turnos": 367,
+  "respondidos": 364,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
   "mediana_min": 82.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 312,
+    "respostas": 314,
     "mediana_min": 77.6
    },
    {
@@ -155,19 +155,30 @@
   ]
  },
  "agora": {
-  "fila": 845,
-  "abertos": 933,
+  "fila": 846,
+  "abertos": 934,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 10070
+  "ausentes": 1,
+  "espera_media_s": 10057
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-05T13:02:10.953Z",
-  "min_sem_lead": 99
+  "ultimo_lead_at": "2026-11-04T20:04:11.968Z",
+  "min_sem_lead": 1132
  },
  "leads": [
+  {
+   "nome": "5516997609574",
+   "tel": "5516*****574",
+   "criado": "11:52",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Josecarlos",
    "tel": "5512*****538",
