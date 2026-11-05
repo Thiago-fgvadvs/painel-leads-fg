@@ -1,5 +1,5 @@
 {
- "gerado_em": "05/11/2026, 10:25",
+ "gerado_em": "05/11/2026, 10:40",
  "data_ref": "05/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 36,
-  "tickets_abertos": 937,
+  "tickets_abertos": 935,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -27,19 +27,19 @@
  },
  "criativos": [
   {
-   "url": "fb.me/7ZVZhwxMh",
-   "leads": 1
-  },
-  {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 1
   },
   {
-   "url": "fb.me/4QIoxFDrn",
+   "url": "fb.me/7ZVZhwxMh",
    "leads": 1
   },
   {
    "url": "fb.me/6lIu0yPSl",
+   "leads": 1
+  },
+  {
+   "url": "fb.me/4QIoxFDrn",
    "leads": 1
   },
   {
@@ -58,17 +58,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 197,
-  "turnos": 345,
-  "respondidos": 342,
+  "grupos_ativos": 198,
+  "turnos": 350,
+  "respondidos": 347,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 92,
+  "mediana_min": 90.2,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 293,
-    "mediana_min": 82.9
+    "respostas": 298,
+    "mediana_min": 82.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -156,29 +156,18 @@
  },
  "agora": {
   "fila": 847,
-  "abertos": 937,
+  "abertos": 935,
   "com_atendimento": 3,
-  "online": 2,
-  "offline": 2,
+  "online": 3,
+  "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 10032
+  "espera_media_s": 10058
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-05T13:20:35.408Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2026-11-05T13:22:46.025Z",
+  "min_sem_lead": 17
  },
  "leads": [
-  {
-   "nome": "Sabina",
-   "tel": "5586*****331",
-   "criado": "10:20",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Katia Pereira",
    "tel": "5519*****905",
@@ -191,14 +180,14 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "Edna",
-   "tel": "5563*****364",
-   "criado": "08:30",
+   "nome": "Sabina",
+   "tel": "5586*****331",
+   "criado": "10:20",
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.5,
    "status": "NO_SLA",
    "origem": "Anuncio",
-   "criativo": "fb.me/4QIoxFDrn",
+   "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
   },
   {
@@ -210,6 +199,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/6lIu0yPSl",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Edna",
+   "tel": "5563*****364",
+   "criado": "08:30",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/4QIoxFDrn",
    "area": "Trabalhista"
   },
   {
