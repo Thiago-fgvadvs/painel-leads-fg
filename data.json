@@ -1,5 +1,5 @@
 {
- "gerado_em": "05/11/2026, 12:11",
+ "gerado_em": "05/11/2026, 12:26",
  "data_ref": "05/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 37,
-  "tickets_abertos": 933,
+  "tickets_abertos": 932,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -59,16 +59,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 200,
-  "turnos": 368,
-  "respondidos": 365,
+  "turnos": 371,
+  "respondidos": 368,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 82.7,
+  "mediana_min": 82.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 315,
-    "mediana_min": 77.5
+    "respostas": 318,
+    "mediana_min": 77.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -155,19 +155,30 @@
   ]
  },
  "agora": {
-  "fila": 846,
-  "abertos": 933,
+  "fila": 845,
+  "abertos": 932,
   "com_atendimento": 3,
   "online": 2,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 10070
+  "espera_media_s": 10083
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-04T20:04:11.968Z",
-  "min_sem_lead": 1147
+  "min_sem_lead": 1162
  },
  "leads": [
+  {
+   "nome": "''MAGNO'' transao''",
+   "tel": "5516*****574",
+   "criado": "11:52",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Josecarlos",
    "tel": "5512*****538",
@@ -177,17 +188,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/875plPmzH",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5516997609574",
-   "tel": "5516*****574",
-   "criado": "11:52",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
