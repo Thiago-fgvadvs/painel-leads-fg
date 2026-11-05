@@ -1,5 +1,5 @@
 {
- "gerado_em": "05/11/2026, 10:55",
+ "gerado_em": "05/11/2026, 11:10",
  "data_ref": "05/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 36,
-  "tickets_abertos": 933,
+  "tickets_abertos": 934,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -26,6 +26,10 @@
   "Direto/Indicacao": 0
  },
  "criativos": [
+  {
+   "url": "fb.me/875plPmzH",
+   "leads": 1
+  },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
    "leads": 1
@@ -43,10 +47,6 @@
    "leads": 1
   },
   {
-   "url": "fb.me/875plPmzH",
-   "leads": 1
-  },
-  {
    "url": "fb.me/a18c14CpA",
    "leads": 1
   }
@@ -59,21 +59,21 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 199,
-  "turnos": 356,
-  "respondidos": 353,
+  "turnos": 361,
+  "respondidos": 358,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 86.2,
+  "mediana_min": 83.2,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 304,
-    "mediana_min": 80.2
+    "respostas": 308,
+    "mediana_min": 79.2
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 26,
-    "mediana_min": 1044.1
+    "respostas": 27,
+    "mediana_min": 1031.4
    },
    {
     "nome": "Roseli",
@@ -155,8 +155,8 @@
   ]
  },
  "agora": {
-  "fila": 846,
-  "abertos": 933,
+  "fila": 845,
+  "abertos": 934,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
@@ -164,10 +164,21 @@
   "espera_media_s": 10070
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-08T10:51:35.174Z",
-  "min_sem_lead": 40504
+  "ultimo_lead_at": "2026-11-05T13:02:10.953Z",
+  "min_sem_lead": 68
  },
  "leads": [
+  {
+   "nome": "Josecarlos",
+   "tel": "5512*****538",
+   "criado": "10:02",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/875plPmzH",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Katia Pereira",
    "tel": "5519*****905",
@@ -210,17 +221,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5512982644538",
-   "tel": "5512*****538",
-   "criado": "10:02",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 1.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/875plPmzH",
    "area": "Trabalhista"
   },
   {
