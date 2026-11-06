@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/11/2026, 15:21",
+ "gerado_em": "06/11/2026, 15:36",
  "data_ref": "06/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -48,14 +48,14 @@
   }
  ],
  "areas": {
-  "Nao identificada": 1,
-  "Trabalhista": 12
+  "Trabalhista": 12,
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 213,
+  "grupos_ativos": 215,
   "turnos": 422,
   "respondidos": 418,
   "sem_resposta": 4,
@@ -167,16 +167,27 @@
   "fila": 857,
   "abertos": 948,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 1,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 9882
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-06T14:14:49.864Z",
-  "min_sem_lead": 88086
+  "min_sem_lead": 88102
  },
  "leads": [
+  {
+   "nome": "Marcia",
+   "tel": "5588*****233",
+   "criado": "13:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "José evandro Santos",
    "tel": "5514*****772",
@@ -230,17 +241,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/6lIu0yPSl",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Marcia",
-   "tel": "5588*****233",
-   "criado": "13:46",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
