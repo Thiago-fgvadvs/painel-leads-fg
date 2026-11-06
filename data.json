@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/11/2026, 12:04",
+ "gerado_em": "06/11/2026, 12:19",
  "data_ref": "06/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -50,11 +50,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 207,
-  "turnos": 408,
+  "grupos_ativos": 208,
+  "turnos": 409,
   "respondidos": 405,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
   "mediana_min": 60.5,
   "atendentes": [
    {
@@ -84,6 +84,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
+    "dia": "06/11",
+    "desde": "12:15",
+    "ts": 1793978111520
+   },
    {
     "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
     "dia": "05/11",
@@ -125,6 +131,12 @@
     "dia": "05/11",
     "desde": "09:18",
     "ts": 1793881119956
+   },
+   {
+    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
+    "dia": "06/11",
+    "desde": "12:15",
+    "ts": 1793978111520
    }
   ]
  },
@@ -150,14 +162,14 @@
   "fila": 851,
   "abertos": 940,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 1,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 2,
   "espera_media_s": 9969
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-03T21:19:02.818Z",
-  "min_sem_lead": 3945
+  "min_sem_lead": 3960
  },
  "leads": [
   {
