@@ -1,5 +1,5 @@
 {
- "gerado_em": "06/11/2026, 16:22",
+ "gerado_em": "06/11/2026, 16:37",
  "data_ref": "06/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -48,23 +48,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 12,
-  "Nao identificada": 1
+  "Nao identificada": 1,
+  "Trabalhista": 12
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 215,
-  "turnos": 426,
-  "respondidos": 422,
+  "turnos": 433,
+  "respondidos": 429,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 56,
+  "mediana_min": 57.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 384,
+    "respostas": 390,
     "mediana_min": 50
    },
    {
@@ -79,8 +79,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 3,
-    "mediana_min": 638.3
+    "respostas": 4,
+    "mediana_min": 592.8
    },
    {
     "nome": "—",
@@ -164,30 +164,19 @@
   ]
  },
  "agora": {
-  "fila": 857,
+  "fila": 856,
   "abertos": 948,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 9882
  },
  "captacao": {
   "ultimo_lead_at": "2026-09-06T14:14:49.864Z",
-  "min_sem_lead": 88147
+  "min_sem_lead": 88162
  },
  "leads": [
-  {
-   "nome": "Marcia",
-   "tel": "5588*****233",
-   "criado": "13:46",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "José evandro Santos",
    "tel": "5514*****772",
@@ -198,6 +187,17 @@
    "origem": "Anuncio",
    "criativo": "fb.me/6lIu0yPSl",
    "area": "Nao identificada"
+  },
+  {
+   "nome": "Marcia",
+   "tel": "5588*****233",
+   "criado": "13:46",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
   },
   {
    "nome": "554791671464",
