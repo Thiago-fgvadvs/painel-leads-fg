@@ -1,28 +1,28 @@
 {
- "gerado_em": "06/11/2026, 13:50",
+ "gerado_em": "06/11/2026, 14:05",
  "data_ref": "06/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 10,
-  "no_sla": 5,
+  "total": 11,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 5,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 51,
-  "tickets_abertos": 944,
+  "leads_7d": 52,
+  "tickets_abertos": 945,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 10,
+   "leads": 11,
    "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 10,
+  "Anuncio": 11,
   "Direto/Indicacao": 0
  },
  "criativos": [
@@ -35,6 +35,10 @@
    "leads": 4
   },
   {
+   "url": "fb.me/6lIu0yPSl",
+   "leads": 1
+  },
+  {
    "url": "www.instagram.com/p/DcmVpxyMs5c/",
    "leads": 1
   },
@@ -44,22 +48,22 @@
   }
  ],
  "areas": {
-  "Trabalhista": 10
+  "Trabalhista": 11
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 210,
-  "turnos": 416,
-  "respondidos": 412,
+  "grupos_ativos": 211,
+  "turnos": 417,
+  "respondidos": 413,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 58.3,
+  "mediana_min": 57.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 374,
+    "respostas": 375,
     "mediana_min": 50.1
    },
    {
@@ -160,18 +164,29 @@
  },
  "agora": {
   "fila": 855,
-  "abertos": 944,
+  "abertos": 945,
   "com_atendimento": 3,
   "online": 2,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 9932
+  "espera_media_s": 9919
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-04T17:29:13.396Z",
-  "min_sem_lead": 2841
+  "ultimo_lead_at": "2026-11-06T16:59:52.386Z",
+  "min_sem_lead": 6
  },
  "leads": [
+  {
+   "nome": "Antonio Gonçalves",
+   "tel": "5544*****638",
+   "criado": "13:59",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.9,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/6lIu0yPSl",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Marcia",
    "tel": "5588*****233",
