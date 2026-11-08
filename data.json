@@ -1,54 +1,46 @@
 {
- "gerado_em": "07/11/2026, 21:52",
- "data_ref": "07/11/2026",
+ "gerado_em": "08/11/2026, 07:08",
+ "data_ref": "08/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 1,
+  "total": 0,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 1,
+  "fora_horario": 0,
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 55,
   "tickets_abertos": 950,
   "periodo_dias": 7
  },
- "atendentes": [
-  {
-   "nome": "FG Advogados - Isadora ",
-   "leads": 1,
-   "mediana_min": null
-  }
- ],
+ "atendentes": [],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 0
  },
  "criativos": [],
- "areas": {
-  "Nao identificada": 1
- },
+ "areas": {},
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 218,
-  "turnos": 442,
-  "respondidos": 438,
+  "grupos_ativos": 217,
+  "turnos": 437,
+  "respondidos": 433,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 56,
+  "mediana_min": 51.7,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 395,
-    "mediana_min": 49.7
+    "respostas": 391,
+    "mediana_min": 49.3
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 24,
-    "mediana_min": 950.6
+    "respostas": 23,
+    "mediana_min": 1031.4
    },
    {
     "nome": "Roseli",
@@ -152,19 +144,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-03-10T17:21:14.162Z",
-  "min_sem_lead": 348932
+  "min_sem_lead": 349487
  },
- "leads": [
-  {
-   "nome": "aguia .limpeza pós obra",
-   "tel": "5542*****119",
-   "criado": "10:45",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.7,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  }
- ]
+ "leads": []
 }
