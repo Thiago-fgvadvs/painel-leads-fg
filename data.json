@@ -1,34 +1,34 @@
 {
- "gerado_em": "09/11/2026, 17:08",
+ "gerado_em": "09/11/2026, 17:23",
  "data_ref": "09/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
-  "no_sla": 5,
+  "total": 8,
+  "no_sla": 6,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 62,
-  "tickets_abertos": 964,
+  "leads_7d": 63,
+  "tickets_abertos": 965,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 7,
+   "leads": 8,
    "mediana_min": 0.5
   }
  ],
  "origem": {
-  "Anuncio": 5,
+  "Anuncio": 6,
   "Direto/Indicacao": 2
  },
  "criativos": [
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 3
+   "leads": 4
   },
   {
    "url": "fb.me/6lIu0yPSl",
@@ -40,14 +40,14 @@
   }
  ],
  "areas": {
-  "Trabalhista": 6,
+  "Trabalhista": 7,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 239,
+  "grupos_ativos": 240,
   "turnos": 490,
   "respondidos": 488,
   "sem_resposta": 2,
@@ -132,19 +132,30 @@
   ]
  },
  "agora": {
-  "fila": 865,
-  "abertos": 964,
+  "fila": 866,
+  "abertos": 965,
   "com_atendimento": 3,
   "online": 1,
   "offline": 1,
   "ausentes": 2,
-  "espera_media_s": 9701
+  "espera_media_s": 9689
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-09T19:23:38.178Z",
-  "min_sem_lead": 45
+  "ultimo_lead_at": "2026-11-09T20:23:05.565Z",
+  "min_sem_lead": 1
  },
  "leads": [
+  {
+   "nome": "Karla Regina",
+   "tel": "5535*****894",
+   "criado": "17:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Ana",
    "tel": "5549*****275",
