@@ -1,29 +1,29 @@
 {
- "gerado_em": "09/11/2026, 12:20",
+ "gerado_em": "09/11/2026, 12:35",
  "data_ref": "09/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 2,
+  "total": 5,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
   "mediana_geral": 0.6,
-  "leads_7d": 59,
-  "tickets_abertos": 964,
+  "leads_7d": 60,
+  "tickets_abertos": 965,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 4,
+   "leads": 5,
    "mediana_min": 0.6
   }
  ],
  "origem": {
   "Anuncio": 4,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -40,23 +40,24 @@
   }
  ],
  "areas": {
+  "Nao identificada": 1,
   "Trabalhista": 4
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 232,
-  "turnos": 461,
-  "respondidos": 457,
+  "grupos_ativos": 233,
+  "turnos": 465,
+  "respondidos": 461,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 54.6,
+  "mediana_min": 57.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 409,
-    "mediana_min": 49.1
+    "respostas": 413,
+    "mediana_min": 49.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -155,21 +156,32 @@
   ]
  },
  "agora": {
-  "fila": 865,
-  "abertos": 964,
+  "fila": 866,
+  "abertos": 965,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 9713
+  "espera_media_s": 9701
  },
  "captacao": {
-  "ultimo_lead_at": "2026-06-02T20:26:11.999Z",
-  "min_sem_lead": 230094
+  "ultimo_lead_at": "2026-11-05T13:02:10.953Z",
+  "min_sem_lead": 5913
  },
  "leads": [
   {
-   "nome": "5519994345671",
+   "nome": "Gilmar Gomes da Silva",
+   "tel": "5514*****413",
+   "criado": "12:20",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 1.5,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "João Carlos",
    "tel": "5519*****671",
    "criado": "08:59",
    "atendente": "FG Advogados - Isadora ",
@@ -180,7 +192,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5519998065301",
+   "nome": "Silvana",
    "tel": "5519*****301",
    "criado": "08:27",
    "atendente": "FG Advogados - Isadora ",
@@ -191,7 +203,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "5522997210741",
+   "nome": "Graziela Soares",
    "tel": "5522*****741",
    "criado": "07:55",
    "atendente": "FG Advogados - Isadora ",
@@ -202,7 +214,7 @@
    "area": "Trabalhista"
   },
   {
-   "nome": "558596248770",
+   "nome": "𝑨𝒍𝒅𝒆𝒏𝒊𝒓𝒂🍒💋❤️",
    "tel": "5585*****770",
    "criado": "07:41",
    "atendente": "FG Advogados - Isadora ",
