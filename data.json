@@ -1,29 +1,29 @@
 {
- "gerado_em": "09/11/2026, 16:22",
+ "gerado_em": "09/11/2026, 16:38",
  "data_ref": "09/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 4,
+  "total": 7,
+  "no_sla": 5,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 2,
   "pct_sla": 100,
-  "mediana_geral": 0.6,
-  "leads_7d": 61,
-  "tickets_abertos": 964,
+  "mediana_geral": 0.5,
+  "leads_7d": 62,
+  "tickets_abertos": 965,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 6,
-   "mediana_min": 0.6
+   "leads": 7,
+   "mediana_min": 0.5
   }
  ],
  "origem": {
   "Anuncio": 5,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [
   {
@@ -40,7 +40,7 @@
   }
  ],
  "areas": {
-  "Trabalhista": 5,
+  "Trabalhista": 6,
   "Nao identificada": 1
  },
  "sem_resposta_lista": [],
@@ -48,16 +48,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 239,
-  "turnos": 489,
-  "respondidos": 487,
+  "turnos": 490,
+  "respondidos": 488,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 68,
+  "mediana_min": 67.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 435,
-    "mediana_min": 56.8
+    "respostas": 436,
+    "mediana_min": 55.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -133,18 +133,29 @@
  },
  "agora": {
   "fila": 865,
-  "abertos": 964,
+  "abertos": 965,
   "com_atendimento": 3,
-  "online": 1,
+  "online": 3,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 9701
+  "ausentes": 0,
+  "espera_media_s": 9689
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-21T16:59:06.772Z",
-  "min_sem_lead": 27504
+  "ultimo_lead_at": "2026-11-09T19:23:38.178Z",
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "Ana",
+   "tel": "5549*****275",
+   "criado": "16:23",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "조아나💜",
    "tel": "5588*****078",
