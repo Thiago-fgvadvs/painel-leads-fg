@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/11/2026, 12:29",
+ "gerado_em": "10/11/2026, 12:44",
  "data_ref": "10/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -16,14 +16,14 @@
  },
  "atendentes": [
   {
-   "nome": "Tiago Bernardo",
-   "leads": 2,
-   "mediana_min": 0.6
-  },
-  {
    "nome": "FG Advogados - Isadora ",
    "leads": 2,
    "mediana_min": 0.4
+  },
+  {
+   "nome": "Tiago Bernardo",
+   "leads": 2,
+   "mediana_min": 0.6
   }
  ],
  "origem": {
@@ -45,15 +45,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 229,
-  "turnos": 418,
-  "respondidos": 416,
+  "turnos": 419,
+  "respondidos": 417,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 43.5,
+  "mediana_min": 43.3,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 365,
+    "respostas": 366,
     "mediana_min": 30.2
    },
    {
@@ -138,21 +138,10 @@
   "espera_media_s": 14733
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:21:49.721Z",
-  "min_sem_lead": 593107
+  "ultimo_lead_at": "2026-11-04T17:29:13.396Z",
+  "min_sem_lead": 8535
  },
  "leads": [
-  {
-   "nome": "Cleia ✊🏾",
-   "tel": "5511*****406",
-   "criado": "10:17",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
   {
    "nome": "Solange",
    "tel": "5511*****838",
@@ -162,6 +151,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Cleia ✊🏾",
+   "tel": "5511*****406",
+   "criado": "10:17",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
    "area": "Trabalhista"
   },
   {
