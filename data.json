@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/11/2026, 10:58",
+ "gerado_em": "10/11/2026, 11:13",
  "data_ref": "10/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -16,14 +16,14 @@
  },
  "atendentes": [
   {
-   "nome": "FG Advogados - Isadora ",
-   "leads": 2,
-   "mediana_min": 0.4
-  },
-  {
    "nome": "Tiago Bernardo",
    "leads": 2,
    "mediana_min": 0.6
+  },
+  {
+   "nome": "FG Advogados - Isadora ",
+   "leads": 2,
+   "mediana_min": 0.4
   }
  ],
  "origem": {
@@ -156,16 +156,27 @@
   "fila": 868,
   "abertos": 973,
   "com_atendimento": 3,
-  "online": 1,
+  "online": 3,
   "offline": 1,
-  "ausentes": 2,
-  "espera_media_s": 14710
+  "ausentes": 0,
+  "espera_media_s": 14728
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-21T16:59:06.772Z",
-  "min_sem_lead": 28619
+  "ultimo_lead_at": "2026-11-10T13:17:00.667Z",
+  "min_sem_lead": 56
  },
  "leads": [
+  {
+   "nome": "Cleia ✊🏾",
+   "tel": "5511*****406",
+   "criado": "10:17",
+   "atendente": "Tiago Bernardo",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
+  },
   {
    "nome": "Solange",
    "tel": "5511*****838",
@@ -175,17 +186,6 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Cleia ( Indicação Shirley) ",
-   "tel": "5511*****406",
-   "criado": "10:17",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
    "area": "Trabalhista"
   },
   {
