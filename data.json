@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/11/2026, 11:43",
+ "gerado_em": "10/11/2026, 11:58",
  "data_ref": "10/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -44,12 +44,12 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 227,
+  "grupos_ativos": 228,
   "turnos": 419,
-  "respondidos": 415,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 43.3,
+  "respondidos": 416,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 43.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
@@ -63,8 +63,8 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 10,
-    "mediana_min": 4
+    "respostas": 11,
+    "mediana_min": 4.7
    },
    {
     "nome": "Tiago Bernardo",
@@ -89,12 +89,6 @@
     "dia": "09/11",
     "desde": "19:36",
     "ts": 1794263801121
-   },
-   {
-    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
-    "dia": "09/11",
-    "desde": "20:03",
-    "ts": 1794265417137
    },
    {
     "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
@@ -125,12 +119,6 @@
     "dia": "09/11",
     "desde": "19:37",
     "ts": 1794263849122
-   },
-   {
-    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
-    "dia": "09/11",
-    "desde": "20:03",
-    "ts": 1794265417137
    }
   ]
  },
@@ -156,14 +144,14 @@
   "fila": 869,
   "abertos": 974,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 14728
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-09T19:23:38.178Z",
-  "min_sem_lead": 1160
+  "ultimo_lead_at": "2026-11-10T13:17:00.667Z",
+  "min_sem_lead": 102
  },
  "leads": [
   {
