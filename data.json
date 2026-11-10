@@ -1,5 +1,5 @@
 {
- "gerado_em": "10/11/2026, 10:27",
+ "gerado_em": "10/11/2026, 10:42",
  "data_ref": "10/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 55,
-  "tickets_abertos": 971,
+  "tickets_abertos": 973,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -37,24 +37,24 @@
   }
  ],
  "areas": {
-  "Trabalhista": 2,
-  "Nao identificada": 3
+  "Trabalhista": 3,
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 224,
-  "turnos": 405,
-  "respondidos": 401,
+  "grupos_ativos": 226,
+  "turnos": 408,
+  "respondidos": 404,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 45.9,
+  "mediana_min": 46.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 351,
-    "mediana_min": 30.8
+    "respostas": 354,
+    "mediana_min": 32.2
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -79,12 +79,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
-    "dia": "09/11",
-    "desde": "20:03",
-    "ts": 1794265417137
-   },
-   {
     "grupo": "E.S.D.A x ICOMON TECNOLOGIA LTDA  ",
     "dia": "09/11",
     "desde": "19:37",
@@ -95,6 +89,12 @@
     "dia": "09/11",
     "desde": "19:36",
     "ts": 1794263801121
+   },
+   {
+    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
+    "dia": "09/11",
+    "desde": "20:03",
+    "ts": 1794265417137
    },
    {
     "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
@@ -153,17 +153,17 @@
   ]
  },
  "agora": {
-  "fila": 867,
-  "abertos": 971,
+  "fila": 868,
+  "abertos": 973,
   "com_atendimento": 3,
   "online": 2,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 14728
+  "espera_media_s": 14710
  },
  "captacao": {
-  "ultimo_lead_at": "2025-09-24T18:21:49.721Z",
-  "min_sem_lead": 592986
+  "ultimo_lead_at": "2026-11-10T12:53:31.419Z",
+  "min_sem_lead": 49
  },
  "leads": [
   {
@@ -186,7 +186,7 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
-   "area": "Nao identificada"
+   "area": "Trabalhista"
   },
   {
    "nome": "Ednaldo (Indicação Shirley) ",
