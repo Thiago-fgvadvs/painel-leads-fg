@@ -1,29 +1,29 @@
 {
- "gerado_em": "10/11/2026, 17:17",
+ "gerado_em": "10/11/2026, 17:32",
  "data_ref": "10/11/2026",
  "sla_min": 15,
  "kpi": {
   "total": 6,
-  "no_sla": 4,
+  "no_sla": 5,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 56,
-  "tickets_abertos": 979,
+  "tickets_abertos": 978,
   "periodo_dias": 7
  },
  "atendentes": [
   {
+   "nome": "FG Advogados - Isadora ",
+   "leads": 3,
+   "mediana_min": 0.5
+  },
+  {
    "nome": "Tiago Bernardo",
    "leads": 2,
    "mediana_min": 0.6
-  },
-  {
-   "nome": "FG Advogados - Isadora ",
-   "leads": 2,
-   "mediana_min": 0.4
   }
  ],
  "origem": {
@@ -44,18 +44,11 @@
   "Trabalhista": 4,
   "Nao identificada": 2
  },
- "sem_resposta_lista": [
-  {
-   "nome": "558586124277",
-   "tel": "5585*****277",
-   "criado": "17:16",
-   "area": "Trabalhista"
-  }
- ],
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 234,
+  "grupos_ativos": 236,
   "turnos": 469,
   "respondidos": 467,
   "sem_resposta": 2,
@@ -105,15 +98,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "558586124277",
-    "tel": "5585*****277",
-    "dia": "10/11",
-    "desde": "17:16",
-    "ts": 1794341803553
-   }
-  ],
+  "leads": [],
   "grupos": [
    {
     "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
@@ -148,30 +133,19 @@
   ]
  },
  "agora": {
-  "fila": 875,
-  "abertos": 979,
+  "fila": 874,
+  "abertos": 978,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 1,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 14715
+  "ausentes": 2,
+  "espera_media_s": 14698
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-10T20:16:43.553Z",
-  "min_sem_lead": 0
+  "ultimo_lead_at": "2025-04-24T15:19:49.581Z",
+  "min_sem_lead": 813912
  },
  "leads": [
-  {
-   "nome": "558586124277",
-   "tel": "5585*****277",
-   "criado": "17:16",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Cleia ✊🏾",
    "tel": "5511*****406",
@@ -181,6 +155,17 @@
    "status": "NO_SLA",
    "origem": "Direto/Indicacao",
    "criativo": null,
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "558586124277",
+   "tel": "5585*****277",
+   "criado": "17:16",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
    "area": "Trabalhista"
   },
   {
