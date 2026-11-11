@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/11/2026, 11:06",
+ "gerado_em": "11/11/2026, 11:21",
  "data_ref": "11/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -26,16 +26,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 216,
-  "turnos": 403,
-  "respondidos": 400,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 43.5,
+  "turnos": 414,
+  "respondidos": 412,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
+  "mediana_min": 45,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 342,
-    "mediana_min": 28.1
+    "respostas": 354,
+    "mediana_min": 30.9
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -59,12 +59,6 @@
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "M.J.D.S.S x LEO S.A.",
-    "dia": "11/11",
-    "desde": "10:37",
-    "ts": 1794404244453
-   },
    {
     "grupo": "E.S.D.A x INSS",
     "dia": "09/11",
@@ -94,12 +88,6 @@
     "dia": "09/11",
     "desde": "19:36",
     "ts": 1794263801121
-   },
-   {
-    "grupo": "M.J.D.S.S x LEO S.A.",
-    "dia": "11/11",
-    "desde": "10:37",
-    "ts": 1794404244453
    }
   ]
  },
@@ -125,14 +113,14 @@
   "fila": 874,
   "abertos": 977,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 14698
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-10T13:17:00.667Z",
-  "min_sem_lead": 1490
+  "ultimo_lead_at": "2026-11-09T19:23:38.178Z",
+  "min_sem_lead": 2578
  },
  "leads": []
 }
