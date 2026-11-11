@@ -1,74 +1,51 @@
 {
- "gerado_em": "10/11/2026, 21:49",
- "data_ref": "10/11/2026",
+ "gerado_em": "11/11/2026, 07:04",
+ "data_ref": "11/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
-  "no_sla": 5,
+  "total": 0,
+  "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 1,
-  "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 56,
+  "fora_horario": 0,
+  "pct_sla": 0,
+  "mediana_geral": null,
+  "leads_7d": 43,
   "tickets_abertos": 980,
   "periodo_dias": 7
  },
- "atendentes": [
-  {
-   "nome": "FG Advogados - Isadora ",
-   "leads": 3,
-   "mediana_min": 0.5
-  },
-  {
-   "nome": "Tiago Bernardo",
-   "leads": 2,
-   "mediana_min": 0.6
-  }
- ],
+ "atendentes": [],
  "origem": {
-  "Anuncio": 3,
-  "Direto/Indicacao": 3
+  "Anuncio": 0,
+  "Direto/Indicacao": 0
  },
- "criativos": [
-  {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 2
-  },
-  {
-   "url": "fb.me/7ZVZhwxMh",
-   "leads": 1
-  }
- ],
- "areas": {
-  "Trabalhista": 4,
-  "Nao identificada": 2
- },
+ "criativos": [],
+ "areas": {},
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 238,
-  "turnos": 493,
-  "respondidos": 491,
+  "grupos_ativos": 208,
+  "turnos": 385,
+  "respondidos": 383,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 50.1,
+  "mediana_min": 38.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 435,
-    "mediana_min": 39.9
+    "respostas": 335,
+    "mediana_min": 27.7
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 38,
-    "mediana_min": 1183.2
+    "respostas": 33,
+    "mediana_min": 1339
    },
    {
     "nome": "Roseli",
-    "respostas": 11,
-    "mediana_min": 4.7
+    "respostas": 10,
+    "mediana_min": 4
    },
    {
     "nome": "—",
@@ -77,8 +54,8 @@
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 3,
-    "mediana_min": 547.2
+    "respostas": 1,
+    "mediana_min": 113.6
    }
   ],
   "sem_resposta_lista": [
@@ -142,75 +119,8 @@
   "espera_media_s": 14680
  },
  "captacao": {
-  "ultimo_lead_at": "2026-10-21T16:59:06.772Z",
-  "min_sem_lead": 29270
+  "ultimo_lead_at": "2025-04-24T15:19:49.400Z",
+  "min_sem_lead": 814725
  },
- "leads": [
-  {
-   "nome": "Cleia ✊🏾",
-   "tel": "5511*****406",
-   "criado": "10:17",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "558586124277",
-   "tel": "5585*****277",
-   "criado": "17:16",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Solange",
-   "tel": "5511*****838",
-   "criado": "09:53",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.4,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Ednaldo (Indicação Shirley) ",
-   "tel": "5511*****564",
-   "criado": "10:13",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 0.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Sidney Farmácia Cliente",
-   "tel": "5511*****504",
-   "criado": "10:06",
-   "atendente": "—",
-   "espera_min": 0,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Francisca Heliana",
-   "tel": "5537*****395",
-   "criado": "07:07",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "FORA_HORARIO",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  }
- ]
+ "leads": []
 }
