@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/11/2026, 10:36",
+ "gerado_em": "11/11/2026, 10:51",
  "data_ref": "11/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 0,
   "mediana_geral": null,
   "leads_7d": 43,
-  "tickets_abertos": 978,
+  "tickets_abertos": 977,
   "periodo_dias": 7
  },
  "atendentes": [],
@@ -25,11 +25,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 214,
-  "turnos": 400,
+  "grupos_ativos": 215,
+  "turnos": 401,
   "respondidos": 398,
-  "sem_resposta": 2,
-  "sem_resposta_grupos": 2,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
   "mediana_min": 43.2,
   "atendentes": [
    {
@@ -60,6 +60,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "M.J.D.S.S x LEO S.A.",
+    "dia": "11/11",
+    "desde": "10:37",
+    "ts": 1794404244453
+   },
+   {
     "grupo": "E.S.D.A x INSS",
     "dia": "09/11",
     "desde": "19:36",
@@ -88,6 +94,12 @@
     "dia": "09/11",
     "desde": "19:36",
     "ts": 1794263801121
+   },
+   {
+    "grupo": "M.J.D.S.S x LEO S.A.",
+    "dia": "11/11",
+    "desde": "10:37",
+    "ts": 1794404244453
    }
   ]
  },
@@ -111,16 +123,16 @@
  },
  "agora": {
   "fila": 874,
-  "abertos": 978,
+  "abertos": 977,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 1,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 14680
+  "ausentes": 2,
+  "espera_media_s": 14698
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-10T13:17:00.667Z",
-  "min_sem_lead": 1459
+  "min_sem_lead": 1475
  },
  "leads": []
 }
