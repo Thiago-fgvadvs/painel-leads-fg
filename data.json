@@ -1,40 +1,53 @@
 {
- "gerado_em": "11/11/2026, 11:21",
+ "gerado_em": "11/11/2026, 11:36",
  "data_ref": "11/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 0,
-  "no_sla": 0,
+  "total": 2,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 43,
-  "tickets_abertos": 977,
+  "pct_sla": 100,
+  "mediana_geral": 0.5,
+  "leads_7d": 45,
+  "tickets_abertos": 979,
   "periodo_dias": 7
  },
- "atendentes": [],
+ "atendentes": [
+  {
+   "nome": "FG Advogados - Isadora ",
+   "leads": 2,
+   "mediana_min": 0.5
+  }
+ ],
  "origem": {
-  "Anuncio": 0,
+  "Anuncio": 2,
   "Direto/Indicacao": 0
  },
- "criativos": [],
- "areas": {},
+ "criativos": [
+  {
+   "url": "www.instagram.com/p/DcmW37RM3SC/",
+   "leads": 2
+  }
+ ],
+ "areas": {
+  "Trabalhista": 2
+ },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 216,
-  "turnos": 414,
-  "respondidos": 412,
+  "grupos_ativos": 219,
+  "turnos": 420,
+  "respondidos": 418,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
   "mediana_min": 45,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 354,
+    "respostas": 360,
     "mediana_min": 30.9
    },
    {
@@ -110,17 +123,40 @@
   ]
  },
  "agora": {
-  "fila": 874,
-  "abertos": 977,
+  "fila": 876,
+  "abertos": 979,
   "com_atendimento": 3,
-  "online": 2,
+  "online": 3,
   "offline": 1,
-  "ausentes": 1,
-  "espera_media_s": 14698
+  "ausentes": 0,
+  "espera_media_s": 14662
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-09T19:23:38.178Z",
-  "min_sem_lead": 2578
+  "ultimo_lead_at": "2026-11-11T14:33:21.726Z",
+  "min_sem_lead": 4
  },
- "leads": []
+ "leads": [
+  {
+   "nome": "André Pacheco",
+   "tel": "5511*****325",
+   "criado": "11:33",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.4,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "554797781408",
+   "tel": "5547*****408",
+   "criado": "11:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
+   "area": "Trabalhista"
+  }
+ ]
 }
