@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/11/2026, 14:53",
+ "gerado_em": "11/11/2026, 15:08",
  "data_ref": "11/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 45,
-  "tickets_abertos": 971,
+  "tickets_abertos": 959,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -40,14 +40,14 @@
   "dias": 7,
   "grupos_ativos": 226,
   "turnos": 446,
-  "respondidos": 444,
-  "sem_resposta": 2,
-  "sem_resposta_grupos": 2,
-  "mediana_min": 40.2,
+  "respondidos": 445,
+  "sem_resposta": 1,
+  "sem_resposta_grupos": 1,
+  "mediana_min": 39.9,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 385,
+    "respostas": 386,
     "mediana_min": 27.7
    },
    {
@@ -73,12 +73,6 @@
   ],
   "sem_resposta_lista": [
    {
-    "grupo": "E.S.D.A x INSS",
-    "dia": "09/11",
-    "desde": "19:36",
-    "ts": 1794263801121
-   },
-   {
     "grupo": "K.C.D.S.C x IQVIA IES BRASIL LTDA.",
     "dia": "05/11",
     "desde": "09:18",
@@ -95,12 +89,6 @@
     "dia": "05/11",
     "desde": "09:18",
     "ts": 1793881119956
-   },
-   {
-    "grupo": "E.S.D.A x INSS",
-    "dia": "09/11",
-    "desde": "19:36",
-    "ts": 1794263801121
    }
   ]
  },
@@ -123,17 +111,17 @@
   ]
  },
  "agora": {
-  "fila": 874,
-  "abertos": 971,
+  "fila": 875,
+  "abertos": 959,
   "com_atendimento": 3,
   "online": 2,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 9668
+  "espera_media_s": 9775
  },
  "captacao": {
-  "ultimo_lead_at": "2026-08-20T10:16:13.700Z",
-  "min_sem_lead": 119978
+  "ultimo_lead_at": "2026-11-03T21:19:02.818Z",
+  "min_sem_lead": 11330
  },
  "leads": [
   {
