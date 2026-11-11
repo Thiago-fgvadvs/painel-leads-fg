@@ -1,5 +1,5 @@
 {
- "gerado_em": "11/11/2026, 11:36",
+ "gerado_em": "11/11/2026, 11:52",
  "data_ref": "11/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 45,
-  "tickets_abertos": 979,
+  "tickets_abertos": 981,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -38,17 +38,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 219,
-  "turnos": 420,
-  "respondidos": 418,
-  "sem_resposta": 2,
-  "sem_resposta_grupos": 2,
-  "mediana_min": 45,
+  "grupos_ativos": 220,
+  "turnos": 424,
+  "respondidos": 421,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 43.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 360,
-    "mediana_min": 30.9
+    "respostas": 363,
+    "mediana_min": 29.5
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -72,6 +72,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "S.B.R x COMPANHIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO - SABESP",
+    "dia": "11/11",
+    "desde": "11:50",
+    "ts": 1794408630569
+   },
    {
     "grupo": "E.S.D.A x INSS",
     "dia": "09/11",
@@ -101,6 +107,12 @@
     "dia": "09/11",
     "desde": "19:36",
     "ts": 1794263801121
+   },
+   {
+    "grupo": "S.B.R x COMPANHIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO - SABESP",
+    "dia": "11/11",
+    "desde": "11:50",
+    "ts": 1794408630569
    }
   ]
  },
@@ -123,17 +135,17 @@
   ]
  },
  "agora": {
-  "fila": 876,
-  "abertos": 979,
+  "fila": 877,
+  "abertos": 981,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 14662
+  "espera_media_s": 14644
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-11T14:33:21.726Z",
-  "min_sem_lead": 4
+  "ultimo_lead_at": "2026-10-14T01:03:40.659Z",
+  "min_sem_lead": 41148
  },
  "leads": [
   {
