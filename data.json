@@ -1,17 +1,17 @@
 {
- "gerado_em": "12/11/2026, 13:07",
+ "gerado_em": "12/11/2026, 13:23",
  "data_ref": "12/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
+  "total": 4,
   "no_sla": 3,
   "fora_sla": 0,
-  "sem_resposta": 0,
+  "sem_resposta": 1,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 35,
-  "tickets_abertos": 665,
+  "leads_7d": 36,
+  "tickets_abertos": 660,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -22,13 +22,13 @@
   }
  ],
  "origem": {
-  "Anuncio": 3,
+  "Anuncio": 4,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "fb.me/7ZVZhwxMh",
-   "leads": 2
+   "leads": 3
   },
   {
    "url": "www.instagram.com/p/DcmW37RM3SC/",
@@ -36,14 +36,22 @@
   }
  ],
  "areas": {
+  "Nao identificada": 1,
   "Trabalhista": 2,
   "Previdenciario": 1
  },
- "sem_resposta_lista": [],
+ "sem_resposta_lista": [
+  {
+   "nome": "Não Me Incomode",
+   "tel": "5511*****655",
+   "criado": "13:22",
+   "area": "Nao identificada"
+  }
+ ],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 218,
+  "grupos_ativos": 220,
   "turnos": 404,
   "respondidos": 404,
   "sem_resposta": 0,
@@ -80,7 +88,15 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [],
+  "leads": [
+   {
+    "nome": "Não Me Incomode",
+    "tel": "5511*****655",
+    "dia": "12/11",
+    "desde": "13:22",
+    "ts": 1794500571123
+   }
+  ],
   "grupos": []
  },
  "contratos": {
@@ -102,8 +118,8 @@
   ]
  },
  "agora": {
-  "fila": 605,
-  "abertos": 665,
+  "fila": 600,
+  "abertos": 660,
   "com_atendimento": 3,
   "online": 2,
   "offline": 1,
@@ -111,10 +127,21 @@
   "espera_media_s": 7094
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-12T15:29:30.159Z",
-  "min_sem_lead": 38
+  "ultimo_lead_at": "2026-11-12T16:22:51.123Z",
+  "min_sem_lead": 0
  },
  "leads": [
+  {
+   "nome": "Não Me Incomode",
+   "tel": "5511*****655",
+   "criado": "13:22",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "SEM_RESPOSTA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Nao identificada"
+  },
   {
    "nome": "Claudenir Duarte",
    "tel": "5553*****225",
