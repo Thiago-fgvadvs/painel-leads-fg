@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/11/2026, 15:23",
+ "gerado_em": "12/11/2026, 15:38",
  "data_ref": "12/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 75,
   "mediana_geral": 0.7,
   "leads_7d": 36,
-  "tickets_abertos": 666,
+  "tickets_abertos": 667,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -58,16 +58,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 226,
-  "turnos": 429,
-  "respondidos": 429,
-  "sem_resposta": 0,
-  "sem_resposta_grupos": 0,
-  "mediana_min": 67,
+  "turnos": 437,
+  "respondidos": 436,
+  "sem_resposta": 1,
+  "sem_resposta_grupos": 1,
+  "mediana_min": 66.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 382,
-    "mediana_min": 53.5
+    "respostas": 389,
+    "mediana_min": 50.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -90,12 +90,26 @@
     "mediana_min": 113.6
    }
   ],
-  "sem_resposta_lista": []
+  "sem_resposta_lista": [
+   {
+    "grupo": "R.G.D.S x NOVAMED",
+    "dia": "12/11",
+    "desde": "15:28",
+    "ts": 1794508080116
+   }
+  ]
  },
  "pendencias": {
   "dias": 7,
   "leads": [],
-  "grupos": []
+  "grupos": [
+   {
+    "grupo": "R.G.D.S x NOVAMED",
+    "dia": "12/11",
+    "desde": "15:28",
+    "ts": 1794508080116
+   }
+  ]
  },
  "contratos": {
   "dias": 7,
@@ -116,17 +130,17 @@
   ]
  },
  "agora": {
-  "fila": 602,
-  "abertos": 666,
+  "fila": 603,
+  "abertos": 667,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 7023
+  "ausentes": 1,
+  "espera_media_s": 7011
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-12T16:22:51.123Z",
-  "min_sem_lead": 121
+  "min_sem_lead": 136
  },
  "leads": [
   {
