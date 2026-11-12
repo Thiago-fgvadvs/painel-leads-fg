@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/11/2026, 08:28",
+ "gerado_em": "12/11/2026, 08:43",
  "data_ref": "12/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -32,23 +32,23 @@
   }
  ],
  "areas": {
-  "Trabalhista": 1
+  "Previdenciario": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 204,
-  "turnos": 343,
-  "respondidos": 343,
+  "turnos": 345,
+  "respondidos": 345,
   "sem_resposta": 0,
   "sem_resposta_grupos": 0,
-  "mediana_min": 74,
+  "mediana_min": 73.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 302,
-    "mediana_min": 56.1
+    "respostas": 304,
+    "mediana_min": 54.7
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -103,11 +103,11 @@
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 10454
+  "espera_media_s": 10440
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-12T11:27:25.952Z",
-  "min_sem_lead": 1
+  "min_sem_lead": 16
  },
  "leads": [
   {
@@ -119,7 +119,7 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
+   "area": "Previdenciario"
   }
  ]
 }
