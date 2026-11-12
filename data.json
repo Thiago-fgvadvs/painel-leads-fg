@@ -1,41 +1,54 @@
 {
- "gerado_em": "12/11/2026, 08:13",
+ "gerado_em": "12/11/2026, 08:28",
  "data_ref": "12/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 0,
-  "no_sla": 0,
+  "total": 1,
+  "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
-  "pct_sla": 0,
-  "mediana_geral": null,
-  "leads_7d": 32,
-  "tickets_abertos": 885,
+  "pct_sla": 100,
+  "mediana_geral": 0.5,
+  "leads_7d": 33,
+  "tickets_abertos": 887,
   "periodo_dias": 7
  },
- "atendentes": [],
+ "atendentes": [
+  {
+   "nome": "FG Advogados - Isadora ",
+   "leads": 1,
+   "mediana_min": 0.5
+  }
+ ],
  "origem": {
-  "Anuncio": 0,
+  "Anuncio": 1,
   "Direto/Indicacao": 0
  },
- "criativos": [],
- "areas": {},
+ "criativos": [
+  {
+   "url": "fb.me/7ZVZhwxMh",
+   "leads": 1
+  }
+ ],
+ "areas": {
+  "Trabalhista": 1
+ },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 204,
-  "turnos": 342,
-  "respondidos": 342,
+  "turnos": 343,
+  "respondidos": 343,
   "sem_resposta": 0,
   "sem_resposta_grupos": 0,
-  "mediana_min": 75,
+  "mediana_min": 74,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 301,
-    "mediana_min": 56.8
+    "respostas": 302,
+    "mediana_min": 56.1
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -84,17 +97,29 @@
   ]
  },
  "agora": {
-  "fila": 831,
-  "abertos": 885,
+  "fila": 833,
+  "abertos": 887,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 10467
+  "espera_media_s": 10454
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-12T00:04:47.887Z",
-  "min_sem_lead": 668
+  "ultimo_lead_at": "2026-11-12T11:27:25.952Z",
+  "min_sem_lead": 1
  },
- "leads": []
+ "leads": [
+  {
+   "nome": "Ronaldo Antônio",
+   "tel": "5527*****998",
+   "criado": "08:27",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  }
+ ]
 }
