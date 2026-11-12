@@ -1,5 +1,5 @@
 {
- "gerado_em": "12/11/2026, 12:37",
+ "gerado_em": "12/11/2026, 12:52",
  "data_ref": "12/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.5,
   "leads_7d": 35,
-  "tickets_abertos": 843,
+  "tickets_abertos": 753,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -43,7 +43,7 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 216,
+  "grupos_ativos": 218,
   "turnos": 404,
   "respondidos": 404,
   "sem_resposta": 0,
@@ -102,30 +102,19 @@
   ]
  },
  "agora": {
-  "fila": 785,
-  "abertos": 843,
+  "fila": 695,
+  "abertos": 753,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
-  "espera_media_s": 11067
+  "ausentes": 1,
+  "espera_media_s": 6725
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-12T15:29:30.159Z",
-  "min_sem_lead": 8
+  "min_sem_lead": 23
  },
  "leads": [
-  {
-   "nome": "Glecia",
-   "tel": "5577*****500",
-   "criado": "12:29",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
   {
    "nome": "Claudenir Duarte",
    "tel": "5553*****225",
@@ -135,6 +124,17 @@
    "status": "NO_SLA",
    "origem": "Anuncio",
    "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
+  {
+   "nome": "Glecia",
+   "tel": "5577*****500",
+   "criado": "12:29",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.5,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
    "area": "Trabalhista"
   },
   {
