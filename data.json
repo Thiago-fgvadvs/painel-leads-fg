@@ -1,15 +1,15 @@
 {
- "gerado_em": "12/11/2026, 10:29",
+ "gerado_em": "12/11/2026, 10:44",
  "data_ref": "12/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 1,
-  "no_sla": 1,
+  "total": 2,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
-  "mediana_geral": 0.5,
+  "mediana_geral": 0.7,
   "leads_7d": 34,
   "tickets_abertos": 883,
   "periodo_dias": 7
@@ -17,21 +17,22 @@
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 1,
-   "mediana_min": 0.5
+   "leads": 2,
+   "mediana_min": 0.7
   }
  ],
  "origem": {
-  "Anuncio": 1,
+  "Anuncio": 2,
   "Direto/Indicacao": 0
  },
  "criativos": [
   {
    "url": "fb.me/7ZVZhwxMh",
-   "leads": 1
+   "leads": 2
   }
  ],
  "areas": {
+  "Trabalhista": 1,
   "Previdenciario": 1
  },
  "sem_resposta_lista": [],
@@ -39,15 +40,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 209,
-  "turnos": 373,
-  "respondidos": 373,
+  "turnos": 377,
+  "respondidos": 377,
   "sem_resposta": 0,
   "sem_resposta_grupos": 0,
   "mediana_min": 73.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 330,
+    "respostas": 334,
     "mediana_min": 54.7
    },
    {
@@ -75,15 +76,7 @@
  },
  "pendencias": {
   "dias": 7,
-  "leads": [
-   {
-    "nome": "Claudenir Duarte",
-    "tel": "5553*****225",
-    "dia": "12/11",
-    "desde": "10:28",
-    "ts": 1794490139021
-   }
-  ],
+  "leads": [],
   "grupos": []
  },
  "contratos": {
@@ -108,16 +101,27 @@
   "fila": 827,
   "abertos": 883,
   "com_atendimento": 3,
-  "online": 3,
+  "online": 2,
   "offline": 1,
-  "ausentes": 0,
+  "ausentes": 1,
   "espera_media_s": 10467
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-12T13:28:59.021Z",
-  "min_sem_lead": 0
+  "min_sem_lead": 15
  },
  "leads": [
+  {
+   "nome": "Claudenir Duarte",
+   "tel": "5553*****225",
+   "criado": "10:28",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.9,
+   "status": "NO_SLA",
+   "origem": "Anuncio",
+   "criativo": "fb.me/7ZVZhwxMh",
+   "area": "Trabalhista"
+  },
   {
    "nome": "Ronaldo Antônio",
    "tel": "5527*****998",
