@@ -1,29 +1,29 @@
 {
- "gerado_em": "11/11/2026, 20:57",
+ "gerado_em": "11/11/2026, 21:12",
  "data_ref": "11/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
+  "total": 3,
   "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 0,
+  "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 45,
-  "tickets_abertos": 881,
+  "leads_7d": 46,
+  "tickets_abertos": 882,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 2,
+   "leads": 3,
    "mediana_min": 0.5
   }
  ],
  "origem": {
   "Anuncio": 2,
-  "Direto/Indicacao": 0
+  "Direto/Indicacao": 1
  },
  "criativos": [
   {
@@ -32,6 +32,7 @@
   }
  ],
  "areas": {
+  "Nao identificada": 1,
   "Trabalhista": 2
  },
  "sem_resposta_lista": [],
@@ -107,19 +108,30 @@
   ]
  },
  "agora": {
-  "fila": 827,
-  "abertos": 881,
+  "fila": 828,
+  "abertos": 882,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 10509
+  "espera_media_s": 10495
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-11T14:33:21.726Z",
-  "min_sem_lead": 564
+  "ultimo_lead_at": "2026-11-12T00:04:47.887Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": ".",
+   "tel": "5588*****829",
+   "criado": "21:04",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Sergio Ribeiro",
    "tel": "5547*****408",
