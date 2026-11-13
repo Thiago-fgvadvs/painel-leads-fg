@@ -1,93 +1,61 @@
 {
- "gerado_em": "12/11/2026, 21:59",
- "data_ref": "12/11/2026",
+ "gerado_em": "13/11/2026, 07:14",
+ "data_ref": "13/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
-  "no_sla": 3,
-  "fora_sla": 1,
+  "total": 0,
+  "no_sla": 0,
+  "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
-  "pct_sla": 75,
-  "mediana_geral": 0.7,
-  "leads_7d": 36,
+  "pct_sla": 0,
+  "mediana_geral": null,
+  "leads_7d": 23,
   "tickets_abertos": 238,
   "periodo_dias": 7
  },
- "atendentes": [
-  {
-   "nome": "FG Advogados - Isadora ",
-   "leads": 3,
-   "mediana_min": 0.5
-  },
-  {
-   "nome": "Roseli",
-   "leads": 1,
-   "mediana_min": 24.5
-  }
- ],
+ "atendentes": [],
  "origem": {
-  "Anuncio": 4,
+  "Anuncio": 0,
   "Direto/Indicacao": 0
  },
- "criativos": [
-  {
-   "url": "fb.me/7ZVZhwxMh",
-   "leads": 3
-  },
-  {
-   "url": "www.instagram.com/p/DcmW37RM3SC/",
-   "leads": 1
-  }
- ],
- "areas": {
-  "Nao identificada": 1,
-  "Trabalhista": 2,
-  "Previdenciario": 1
- },
+ "criativos": [],
+ "areas": {},
  "sem_resposta_lista": [],
- "fora_sla_lista": [
-  {
-   "nome": "Não Me Incomode",
-   "tel": "5511*****655",
-   "criado": "13:22",
-   "espera_min": 24.5,
-   "atendente": "Roseli"
-  }
- ],
+ "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 228,
-  "turnos": 453,
-  "respondidos": 452,
+  "grupos_ativos": 207,
+  "turnos": 380,
+  "respondidos": 379,
   "sem_resposta": 1,
   "sem_resposta_grupos": 1,
-  "mediana_min": 58.2,
+  "mediana_min": 57.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 405,
-    "mediana_min": 47
+    "respostas": 341,
+    "mediana_min": 47.7
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 34,
-    "mediana_min": 1204.1
+    "respostas": 28,
+    "mediana_min": 993.5
    },
    {
     "nome": "Roseli",
-    "respostas": 6,
-    "mediana_min": 25.5
+    "respostas": 5,
+    "mediana_min": 34.4
    },
    {
     "nome": "—",
-    "respostas": 4,
-    "mediana_min": 58.1
+    "respostas": 3,
+    "mediana_min": 8.3
    },
    {
     "nome": "Tiago Bernardo",
-    "respostas": 3,
-    "mediana_min": 113.6
+    "respostas": 2,
+    "mediana_min": 88.4
    }
   ],
   "sem_resposta_lista": [
@@ -133,59 +101,14 @@
   "fila": 174,
   "abertos": 238,
   "com_atendimento": 3,
-  "online": 1,
+  "online": 2,
   "offline": 2,
-  "ausentes": 1,
+  "ausentes": 0,
   "espera_media_s": 73
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-12T16:22:51.123Z",
-  "min_sem_lead": 516
+  "min_sem_lead": 1071
  },
- "leads": [
-  {
-   "nome": "Não Me Incomode",
-   "tel": "5511*****655",
-   "criado": "13:22",
-   "atendente": "Roseli",
-   "espera_min": 24.5,
-   "status": "FORA_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Claudenir Duarte",
-   "tel": "5553*****225",
-   "criado": "10:28",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.9,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Glecia",
-   "tel": "5577*****500",
-   "criado": "12:29",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "www.instagram.com/p/DcmW37RM3SC/",
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Ronaldo Antônio",
-   "tel": "5527*****998",
-   "criado": "08:27",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Anuncio",
-   "criativo": "fb.me/7ZVZhwxMh",
-   "area": "Previdenciario"
-  }
- ]
+ "leads": []
 }
