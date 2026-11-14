@@ -1,56 +1,46 @@
 {
- "gerado_em": "13/11/2026, 21:49",
- "data_ref": "13/11/2026",
+ "gerado_em": "14/11/2026, 07:04",
+ "data_ref": "14/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
+  "total": 0,
   "no_sla": 0,
   "fora_sla": 0,
-  "sem_resposta": 1,
+  "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 25,
+  "leads_7d": 24,
   "tickets_abertos": 276,
   "periodo_dias": 7
  },
  "atendentes": [],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 0
  },
  "criativos": [],
- "areas": {
-  "Trabalhista": 1,
-  "Nao identificada": 1
- },
- "sem_resposta_lista": [
-  {
-   "nome": "5511940818993",
-   "tel": "5511*****993",
-   "criado": "16:37",
-   "area": "Trabalhista"
-  }
- ],
+ "areas": {},
+ "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 234,
-  "turnos": 415,
-  "respondidos": 414,
-  "sem_resposta": 1,
-  "sem_resposta_grupos": 1,
-  "mediana_min": 66.4,
+  "grupos_ativos": 232,
+  "turnos": 411,
+  "respondidos": 409,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
+  "mediana_min": 62.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 358,
-    "mediana_min": 52.9
+    "respostas": 356,
+    "mediana_min": 52.3
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 37,
-    "mediana_min": 1069.2
+    "respostas": 34,
+    "mediana_min": 993.5
    },
    {
     "nome": "—",
@@ -69,6 +59,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "A.M.L x FOOD BRANDS INDUSTRIA DE PRODUTOS ALIMENTICIOS S/A",
+    "dia": "14/11",
+    "desde": "02:20",
+    "ts": 1794633631142
+   },
    {
     "grupo": "R.G.D.S x NOVAMED",
     "dia": "12/11",
@@ -94,6 +90,12 @@
     "dia": "12/11",
     "desde": "15:28",
     "ts": 1794508080116
+   },
+   {
+    "grupo": "A.M.L x FOOD BRANDS INDUSTRIA DE PRODUTOS ALIMENTICIOS S/A",
+    "dia": "14/11",
+    "desde": "02:20",
+    "ts": 1794633631142
    }
   ]
  },
@@ -122,34 +124,11 @@
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 80
+  "espera_media_s": 871
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-13T19:37:12.087Z",
-  "min_sem_lead": 312
+  "min_sem_lead": 867
  },
- "leads": [
-  {
-   "nome": "5511940818993",
-   "tel": "5511*****993",
-   "criado": "16:37",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "SEM_RESPOSTA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "5511946301305",
-   "tel": "5511*****305",
-   "criado": "16:37",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  }
- ]
+ "leads": []
 }
