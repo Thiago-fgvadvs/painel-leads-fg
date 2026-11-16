@@ -1,17 +1,17 @@
 {
- "gerado_em": "16/11/2026, 14:16",
+ "gerado_em": "16/11/2026, 14:31",
  "data_ref": "16/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 1,
-  "no_sla": 1,
+  "total": 2,
+  "no_sla": 2,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
-  "mediana_geral": 1.6,
-  "leads_7d": 17,
-  "tickets_abertos": 261,
+  "mediana_geral": 0.8,
+  "leads_7d": 18,
+  "tickets_abertos": 262,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -23,27 +23,27 @@
  ],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 1
+  "Direto/Indicacao": 2
  },
  "criativos": [],
  "areas": {
-  "Nao identificada": 1
+  "Nao identificada": 2
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 238,
-  "turnos": 422,
-  "respondidos": 421,
+  "turnos": 423,
+  "respondidos": 422,
   "sem_resposta": 1,
   "sem_resposta_grupos": 1,
-  "mediana_min": 44.1,
+  "mediana_min": 44.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 356,
-    "mediana_min": 29.8
+    "respostas": 357,
+    "mediana_min": 30.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -115,8 +115,8 @@
   ]
  },
  "agora": {
-  "fila": 190,
-  "abertos": 261,
+  "fila": 191,
+  "abertos": 262,
   "com_atendimento": 3,
   "online": 3,
   "offline": 1,
@@ -124,10 +124,21 @@
   "espera_media_s": 4271
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-16T13:40:32.603Z",
-  "min_sem_lead": 216
+  "ultimo_lead_at": "2026-11-16T17:26:37.418Z",
+  "min_sem_lead": 5
  },
  "leads": [
+  {
+   "nome": "Dr. Felippe Monteiro",
+   "tel": "5521*****360",
+   "criado": "14:26",
+   "atendente": "—",
+   "espera_min": 0,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "Nana",
    "tel": "5579*****475",
