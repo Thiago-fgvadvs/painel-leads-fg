@@ -1,20 +1,25 @@
 {
- "gerado_em": "16/11/2026, 15:31",
+ "gerado_em": "16/11/2026, 15:46",
  "data_ref": "16/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
-  "no_sla": 2,
+  "total": 3,
+  "no_sla": 3,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
-  "mediana_geral": 0.8,
-  "leads_7d": 18,
+  "mediana_geral": 0.6,
+  "leads_7d": 19,
   "tickets_abertos": 261,
   "periodo_dias": 7
  },
  "atendentes": [
+  {
+   "nome": "FG Advogados - Isadora ",
+   "leads": 1,
+   "mediana_min": 0.6
+  },
   {
    "nome": "Roseli",
    "leads": 1,
@@ -23,27 +28,28 @@
  ],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [],
  "areas": {
-  "Nao identificada": 2
+  "Nao identificada": 2,
+  "Trabalhista": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 239,
-  "turnos": 451,
-  "respondidos": 449,
+  "turnos": 457,
+  "respondidos": 455,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 42.6,
+  "mediana_min": 42.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 383,
-    "mediana_min": 28.5
+    "respostas": 389,
+    "mediana_min": 30.8
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -133,11 +139,11 @@
   "online": 2,
   "offline": 1,
   "ausentes": 1,
-  "espera_media_s": 4271
+  "espera_media_s": 4078
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-16T17:26:37.418Z",
-  "min_sem_lead": 65
+  "ultimo_lead_at": "2026-11-16T18:32:42.465Z",
+  "min_sem_lead": 14
  },
  "leads": [
   {
@@ -150,6 +156,17 @@
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
+  },
+  {
+   "nome": "AlcileneMesquita-Adv/Med",
+   "tel": "5521*****776",
+   "criado": "15:32",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.6,
+   "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Trabalhista"
   },
   {
    "nome": "Nana",
