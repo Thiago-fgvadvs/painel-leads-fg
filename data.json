@@ -1,23 +1,23 @@
 {
- "gerado_em": "16/11/2026, 19:48",
+ "gerado_em": "16/11/2026, 20:03",
  "data_ref": "16/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 4,
+  "total": 5,
   "no_sla": 4,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 0,
+  "fora_horario": 1,
   "pct_sla": 100,
   "mediana_geral": 0.6,
-  "leads_7d": 20,
-  "tickets_abertos": 261,
+  "leads_7d": 21,
+  "tickets_abertos": 262,
   "periodo_dias": 7
  },
  "atendentes": [
   {
    "nome": "FG Advogados - Isadora ",
-   "leads": 2,
+   "leads": 3,
    "mediana_min": 0.6
   },
   {
@@ -28,12 +28,12 @@
  ],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 4
+  "Direto/Indicacao": 5
  },
  "criativos": [],
  "areas": {
-  "Trabalhista": 1,
-  "Nao identificada": 3
+  "Nao identificada": 4,
+  "Trabalhista": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
@@ -121,19 +121,30 @@
   ]
  },
  "agora": {
-  "fila": 192,
-  "abertos": 261,
+  "fila": 193,
+  "abertos": 262,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 4074
+  "espera_media_s": 4054
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-16T19:21:24.210Z",
-  "min_sem_lead": 207
+  "ultimo_lead_at": "2026-11-16T22:55:15.869Z",
+  "min_sem_lead": 8
  },
  "leads": [
+  {
+   "nome": "557988523146",
+   "tel": "5579*****146",
+   "criado": "19:55",
+   "atendente": "FG Advogados - Isadora ",
+   "espera_min": 0.7,
+   "status": "FORA_HORARIO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
   {
    "nome": "AlcileneMesquita-Adv/Med",
    "tel": "5521*****776",
