@@ -1,5 +1,5 @@
 {
- "gerado_em": "16/11/2026, 14:31",
+ "gerado_em": "16/11/2026, 14:46",
  "data_ref": "16/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -34,16 +34,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 238,
-  "turnos": 423,
-  "respondidos": 422,
-  "sem_resposta": 1,
-  "sem_resposta_grupos": 1,
-  "mediana_min": 44.4,
+  "turnos": 431,
+  "respondidos": 429,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
+  "mediana_min": 44.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 357,
-    "mediana_min": 30.8
+    "respostas": 364,
+    "mediana_min": 31.4
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -68,6 +68,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.G.D.S x NOVAMED",
+    "dia": "16/11",
+    "desde": "14:43",
+    "ts": 1794851008079
+   },
+   {
     "grupo": "A.M.L x FOOD BRANDS INDUSTRIA DE PRODUTOS ALIMENTICIOS S/A",
     "dia": "16/11",
     "desde": "11:31",
@@ -84,6 +90,12 @@
     "dia": "16/11",
     "desde": "11:31",
     "ts": 1794839482843
+   },
+   {
+    "grupo": "R.G.D.S x NOVAMED",
+    "dia": "16/11",
+    "desde": "14:43",
+    "ts": 1794851008079
    }
   ]
  },
@@ -125,7 +137,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-16T17:26:37.418Z",
-  "min_sem_lead": 5
+  "min_sem_lead": 20
  },
  "leads": [
   {
