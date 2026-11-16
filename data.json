@@ -1,5 +1,5 @@
 {
- "gerado_em": "16/11/2026, 15:16",
+ "gerado_em": "16/11/2026, 15:31",
  "data_ref": "16/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -11,7 +11,7 @@
   "pct_sla": 100,
   "mediana_geral": 0.8,
   "leads_7d": 18,
-  "tickets_abertos": 262,
+  "tickets_abertos": 261,
   "periodo_dias": 7
  },
  "atendentes": [
@@ -34,15 +34,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 239,
-  "turnos": 444,
-  "respondidos": 443,
-  "sem_resposta": 1,
-  "sem_resposta_grupos": 1,
+  "turnos": 451,
+  "respondidos": 449,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
   "mediana_min": 42.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 377,
+    "respostas": 383,
     "mediana_min": 28.5
    },
    {
@@ -68,6 +68,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.G.D.S x NOVAMED",
+    "dia": "16/11",
+    "desde": "15:26",
+    "ts": 1794853565149
+   },
+   {
     "grupo": "A.M.L x FOOD BRANDS INDUSTRIA DE PRODUTOS ALIMENTICIOS S/A",
     "dia": "16/11",
     "desde": "11:31",
@@ -84,6 +90,12 @@
     "dia": "16/11",
     "desde": "11:31",
     "ts": 1794839482843
+   },
+   {
+    "grupo": "R.G.D.S x NOVAMED",
+    "dia": "16/11",
+    "desde": "15:26",
+    "ts": 1794853565149
    }
   ]
  },
@@ -115,8 +127,8 @@
   ]
  },
  "agora": {
-  "fila": 191,
-  "abertos": 262,
+  "fila": 190,
+  "abertos": 261,
   "com_atendimento": 3,
   "online": 2,
   "offline": 1,
@@ -125,11 +137,11 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-16T17:26:37.418Z",
-  "min_sem_lead": 50
+  "min_sem_lead": 65
  },
  "leads": [
   {
-   "nome": "Dr. Felippe Monteiro",
+   "nome": "Felippe Monteiro",
    "tel": "5521*****360",
    "criado": "14:26",
    "atendente": "—",
