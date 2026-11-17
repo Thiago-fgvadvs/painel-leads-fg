@@ -1,64 +1,50 @@
 {
- "gerado_em": "16/11/2026, 21:48",
- "data_ref": "16/11/2026",
+ "gerado_em": "17/11/2026, 07:03",
+ "data_ref": "17/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 5,
-  "no_sla": 4,
+  "total": 0,
+  "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
-  "fora_horario": 1,
-  "pct_sla": 100,
-  "mediana_geral": 0.6,
-  "leads_7d": 21,
-  "tickets_abertos": 262,
+  "fora_horario": 0,
+  "pct_sla": 0,
+  "mediana_geral": null,
+  "leads_7d": 15,
+  "tickets_abertos": 263,
   "periodo_dias": 7
  },
- "atendentes": [
-  {
-   "nome": "FG Advogados - Isadora ",
-   "leads": 3,
-   "mediana_min": 0.6
-  },
-  {
-   "nome": "Roseli",
-   "leads": 1,
-   "mediana_min": 1.6
-  }
- ],
+ "atendentes": [],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 5
+  "Direto/Indicacao": 0
  },
  "criativos": [],
- "areas": {
-  "Nao identificada": 4,
-  "Trabalhista": 1
- },
+ "areas": {},
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 244,
-  "turnos": 494,
-  "respondidos": 493,
+  "grupos_ativos": 200,
+  "turnos": 376,
+  "respondidos": 375,
   "sem_resposta": 1,
   "sem_resposta_grupos": 1,
-  "mediana_min": 42,
+  "mediana_min": 33.4,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 422,
-    "mediana_min": 29.8
+    "respostas": 325,
+    "mediana_min": 27.2
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 48,
-    "mediana_min": 1392.7
+    "respostas": 31,
+    "mediana_min": 1398.7
    },
    {
     "nome": "—",
-    "respostas": 15,
+    "respostas": 11,
     "mediana_min": 3.6
    },
    {
@@ -121,73 +107,17 @@
   ]
  },
  "agora": {
-  "fila": 193,
-  "abertos": 262,
+  "fila": 194,
+  "abertos": 263,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 4054
+  "espera_media_s": 4268
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-16T22:55:15.869Z",
-  "min_sem_lead": 114
+  "min_sem_lead": 669
  },
- "leads": [
-  {
-   "nome": "557988523146",
-   "tel": "5579*****146",
-   "criado": "19:55",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.7,
-   "status": "FORA_HORARIO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "AlcileneMesquita-Adv/Med",
-   "tel": "5521*****776",
-   "criado": "15:32",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Trabalhista"
-  },
-  {
-   "nome": "Specter manutenção",
-   "tel": "5511*****616",
-   "criado": "16:21",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Felippe Monteiro",
-   "tel": "5521*****360",
-   "criado": "14:26",
-   "atendente": "—",
-   "espera_min": 0,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Nana",
-   "tel": "5579*****475",
-   "criado": "10:40",
-   "atendente": "Roseli",
-   "espera_min": 1.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  }
- ]
+ "leads": []
 }
