@@ -1,16 +1,16 @@
 {
- "gerado_em": "18/11/2026, 10:40",
+ "gerado_em": "18/11/2026, 10:55",
  "data_ref": "18/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
+  "total": 5,
   "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 21,
+  "leads_7d": 23,
   "tickets_abertos": 229,
   "periodo_dias": 7
  },
@@ -23,27 +23,27 @@
  ],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 5
  },
  "criativos": [],
  "areas": {
-  "Nao identificada": 3
+  "Nao identificada": 5
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 213,
-  "turnos": 419,
-  "respondidos": 417,
+  "grupos_ativos": 214,
+  "turnos": 422,
+  "respondidos": 420,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 25.2,
+  "mediana_min": 27.1,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 365,
-    "mediana_min": 21.4
+    "respostas": 368,
+    "mediana_min": 21.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -146,8 +146,8 @@
   "espera_media_s": 3400
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-18T13:08:36.233Z",
-  "min_sem_lead": 32
+  "ultimo_lead_at": "2026-11-18T13:46:15.991Z",
+  "min_sem_lead": 9
  },
  "leads": [
   {
@@ -173,9 +173,31 @@
    "area": "Nao identificada"
   },
   {
+   "nome": "Patricia",
+   "tel": "5561*****892",
+   "criado": "10:46",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
    "nome": "Willian",
    "tel": "5511*****984",
    "criado": "09:26",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Magarete Ferreira",
+   "tel": "5533*****956",
+   "criado": "10:42",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
