@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/11/2026, 10:10",
+ "gerado_em": "18/11/2026, 10:25",
  "data_ref": "18/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -33,17 +33,17 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 212,
-  "turnos": 402,
-  "respondidos": 401,
-  "sem_resposta": 1,
-  "sem_resposta_grupos": 1,
-  "mediana_min": 21.9,
+  "grupos_ativos": 213,
+  "turnos": 410,
+  "respondidos": 408,
+  "sem_resposta": 2,
+  "sem_resposta_grupos": 2,
+  "mediana_min": 23.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 349,
-    "mediana_min": 19.8
+    "respostas": 356,
+    "mediana_min": 20.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -68,6 +68,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "M.J.D.S.S x LEO S.A.",
+    "dia": "18/11",
+    "desde": "10:21",
+    "ts": 1795008113784
+   },
+   {
     "grupo": "A.M.L x FOOD BRANDS INDUSTRIA DE PRODUTOS ALIMENTICIOS S/A",
     "dia": "16/11",
     "desde": "11:31",
@@ -84,6 +90,12 @@
     "dia": "16/11",
     "desde": "11:31",
     "ts": 1794839482843
+   },
+   {
+    "grupo": "M.J.D.S.S x LEO S.A.",
+    "dia": "18/11",
+    "desde": "10:21",
+    "ts": 1795008113784
    }
   ]
  },
@@ -128,14 +140,14 @@
   "fila": 163,
   "abertos": 229,
   "com_atendimento": 3,
-  "online": 1,
-  "offline": 3,
+  "online": 2,
+  "offline": 2,
   "ausentes": 0,
   "espera_media_s": 3400
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-18T13:08:36.233Z",
-  "min_sem_lead": 2
+  "min_sem_lead": 17
  },
  "leads": [
   {
