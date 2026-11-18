@@ -1,5 +1,5 @@
 {
- "gerado_em": "18/11/2026, 13:41",
+ "gerado_em": "18/11/2026, 13:56",
  "data_ref": "18/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -34,10 +34,10 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 216,
-  "turnos": 433,
+  "turnos": 434,
   "respondidos": 431,
-  "sem_resposta": 2,
-  "sem_resposta_grupos": 2,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
   "mediana_min": 27.2,
   "atendentes": [
    {
@@ -68,6 +68,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "R.F.D.P x WORKS CONSTRUCAO E SERVICOS LTDA",
+    "dia": "18/11",
+    "desde": "13:49",
+    "ts": 1795020574988
+   },
+   {
     "grupo": "M.J.D.S.S x LEO S.A.",
     "dia": "18/11",
     "desde": "10:21",
@@ -96,6 +102,12 @@
     "dia": "18/11",
     "desde": "10:21",
     "ts": 1795008113784
+   },
+   {
+    "grupo": "R.F.D.P x WORKS CONSTRUCAO E SERVICOS LTDA",
+    "dia": "18/11",
+    "desde": "13:49",
+    "ts": 1795020574988
    }
   ]
  },
@@ -147,7 +159,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-18T15:44:29.228Z",
-  "min_sem_lead": 57
+  "min_sem_lead": 72
  },
  "leads": [
   {
