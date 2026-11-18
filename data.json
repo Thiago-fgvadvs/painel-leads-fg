@@ -1,16 +1,16 @@
 {
- "gerado_em": "18/11/2026, 09:55",
+ "gerado_em": "18/11/2026, 10:10",
  "data_ref": "18/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
+  "total": 3,
   "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 20,
+  "leads_7d": 21,
   "tickets_abertos": 229,
   "periodo_dias": 7
  },
@@ -23,17 +23,17 @@
  ],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 3
  },
  "criativos": [],
  "areas": {
-  "Nao identificada": 2
+  "Nao identificada": 3
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 211,
+  "grupos_ativos": 212,
   "turnos": 402,
   "respondidos": 401,
   "sem_resposta": 1,
@@ -134,8 +134,8 @@
   "espera_media_s": 3400
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-18T12:26:07.999Z",
-  "min_sem_lead": 29
+  "ultimo_lead_at": "2026-11-18T13:08:36.233Z",
+  "min_sem_lead": 2
  },
  "leads": [
   {
@@ -145,6 +145,17 @@
    "atendente": "FG Advogados - Isadora ",
    "espera_min": 0.5,
    "status": "NO_SLA",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Mari✈️",
+   "tel": "5541*****019",
+   "criado": "10:08",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
    "origem": "Direto/Indicacao",
    "criativo": null,
    "area": "Nao identificada"
