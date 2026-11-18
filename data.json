@@ -1,16 +1,16 @@
 {
- "gerado_em": "18/11/2026, 12:26",
+ "gerado_em": "18/11/2026, 12:41",
  "data_ref": "18/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 6,
+  "total": 7,
   "no_sla": 1,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 100,
   "mediana_geral": 0.5,
-  "leads_7d": 24,
+  "leads_7d": 25,
   "tickets_abertos": 229,
   "periodo_dias": 7
  },
@@ -23,27 +23,27 @@
  ],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 6
+  "Direto/Indicacao": 7
  },
  "criativos": [],
  "areas": {
-  "Nao identificada": 6
+  "Nao identificada": 7
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 214,
-  "turnos": 428,
-  "respondidos": 426,
+  "turnos": 429,
+  "respondidos": 427,
   "sem_resposta": 2,
   "sem_resposta_grupos": 2,
-  "mediana_min": 27.1,
+  "mediana_min": 27.2,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 374,
-    "mediana_min": 21.8
+    "respostas": 375,
+    "mediana_min": 21.9
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -146,8 +146,8 @@
   "espera_media_s": 3826
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-18T14:21:58.684Z",
-  "min_sem_lead": 64
+  "ultimo_lead_at": "2026-11-18T15:38:52.609Z",
+  "min_sem_lead": 2
  },
  "leads": [
   {
@@ -187,6 +187,17 @@
    "nome": "Willian",
    "tel": "5511*****984",
    "criado": "09:26",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Yasmim Costa",
+   "tel": "5562*****972",
+   "criado": "12:38",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
