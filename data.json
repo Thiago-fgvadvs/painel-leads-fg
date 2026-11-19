@@ -1,5 +1,5 @@
 {
- "gerado_em": "19/11/2026, 11:31",
+ "gerado_em": "19/11/2026, 11:46",
  "data_ref": "19/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -34,16 +34,16 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 206,
-  "turnos": 385,
-  "respondidos": 382,
-  "sem_resposta": 3,
-  "sem_resposta_grupos": 3,
-  "mediana_min": 23.8,
+  "turnos": 394,
+  "respondidos": 390,
+  "sem_resposta": 4,
+  "sem_resposta_grupos": 4,
+  "mediana_min": 25,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 337,
-    "mediana_min": 21.5
+    "respostas": 345,
+    "mediana_min": 22
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -62,6 +62,12 @@
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "R.F.D.P x WORKS CONSTRUCAO E SERVICOS LTDA",
+    "dia": "19/11",
+    "desde": "11:42",
+    "ts": 1795099364489
+   },
    {
     "grupo": "R.G.D.S x NOVAMED",
     "dia": "18/11",
@@ -103,6 +109,12 @@
     "dia": "18/11",
     "desde": "15:36",
     "ts": 1795027010057
+   },
+   {
+    "grupo": "R.F.D.P x WORKS CONSTRUCAO E SERVICOS LTDA",
+    "dia": "19/11",
+    "desde": "11:42",
+    "ts": 1795099364489
    }
   ]
  },
@@ -147,14 +159,14 @@
   "fila": 140,
   "abertos": 213,
   "com_atendimento": 3,
-  "online": 4,
-  "offline": 0,
-  "ausentes": 0,
+  "online": 2,
+  "offline": 1,
+  "ausentes": 1,
   "espera_media_s": 3997
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-19T13:20:02.526Z",
-  "min_sem_lead": 71
+  "min_sem_lead": 86
  },
  "leads": [
   {
