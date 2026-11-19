@@ -1,5 +1,5 @@
 {
- "gerado_em": "19/11/2026, 16:03",
+ "gerado_em": "19/11/2026, 16:18",
  "data_ref": "19/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -34,15 +34,15 @@
  "juridico": {
   "dias": 7,
   "grupos_ativos": 208,
-  "turnos": 427,
-  "respondidos": 423,
-  "sem_resposta": 4,
-  "sem_resposta_grupos": 4,
-  "mediana_min": 24.9,
+  "turnos": 433,
+  "respondidos": 430,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
+  "mediana_min": 25,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 376,
+    "respostas": 382,
     "mediana_min": 22
    },
    {
@@ -57,17 +57,11 @@
    },
    {
     "nome": "Roseli",
-    "respostas": 6,
-    "mediana_min": 50.9
+    "respostas": 7,
+    "mediana_min": 33.7
    }
   ],
   "sem_resposta_lista": [
-   {
-    "grupo": "R.F.D.P x WORKS CONSTRUCAO E SERVICOS LTDA",
-    "dia": "19/11",
-    "desde": "15:33",
-    "ts": 1795113187715
-   },
    {
     "grupo": "R.G.D.S x NOVAMED",
     "dia": "18/11",
@@ -109,12 +103,6 @@
     "dia": "18/11",
     "desde": "15:36",
     "ts": 1795027010057
-   },
-   {
-    "grupo": "R.F.D.P x WORKS CONSTRUCAO E SERVICOS LTDA",
-    "dia": "19/11",
-    "desde": "15:33",
-    "ts": 1795113187715
    }
   ]
  },
@@ -162,11 +150,11 @@
   "online": 3,
   "offline": 1,
   "ausentes": 0,
-  "espera_media_s": 3997
+  "espera_media_s": 4020
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-19T17:35:35.849Z",
-  "min_sem_lead": 87
+  "min_sem_lead": 103
  },
  "leads": [
   {
