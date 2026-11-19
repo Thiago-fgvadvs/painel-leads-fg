@@ -1,69 +1,58 @@
 {
- "gerado_em": "18/11/2026, 21:59",
- "data_ref": "18/11/2026",
+ "gerado_em": "19/11/2026, 07:14",
+ "data_ref": "19/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 1,
+  "total": 1,
+  "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
-  "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 31,
+  "pct_sla": 0,
+  "mediana_geral": null,
+  "leads_7d": 27,
   "tickets_abertos": 232,
   "periodo_dias": 7
  },
- "atendentes": [
-  {
-   "nome": "FG Advogados - Isadora ",
-   "leads": 1,
-   "mediana_min": 0.5
-  }
- ],
+ "atendentes": [],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 12
+  "Direto/Indicacao": 1
  },
  "criativos": [],
  "areas": {
-  "Nao identificada": 12
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 224,
-  "turnos": 473,
-  "respondidos": 470,
+  "grupos_ativos": 195,
+  "turnos": 363,
+  "respondidos": 360,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 24.4,
+  "mediana_min": 23.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 414,
-    "mediana_min": 21
+    "respostas": 316,
+    "mediana_min": 21.6
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 31,
-    "mediana_min": 1370.1
+    "respostas": 25,
+    "mediana_min": 1051.5
    },
    {
     "nome": "—",
-    "respostas": 15,
-    "mediana_min": 4.3
+    "respostas": 14,
+    "mediana_min": 4
    },
    {
     "nome": "Roseli",
-    "respostas": 8,
-    "mediana_min": 58.3
-   },
-   {
-    "nome": "Tiago Bernardo",
-    "respostas": 2,
-    "mediana_min": 88.4
+    "respostas": 5,
+    "mediana_min": 73.8
    }
   ],
   "sem_resposta_lista": [
@@ -158,135 +147,14 @@
   "espera_media_s": 3807
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-18T20:33:13.674Z",
-  "min_sem_lead": 266
+  "ultimo_lead_at": "2026-11-19T07:06:31.689Z",
+  "min_sem_lead": 188
  },
  "leads": [
   {
-   "nome": "Giftzando",
-   "tel": "5511*****818",
-   "criado": "08:13",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Mari✈️",
-   "tel": "5541*****019",
-   "criado": "10:08",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Patricia",
-   "tel": "5561*****892",
-   "criado": "10:46",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Willian",
-   "tel": "5511*****984",
-   "criado": "09:26",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Vitoria",
-   "tel": "5516*****810",
-   "criado": "15:08",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "christian",
-   "tel": "5519*****788",
-   "criado": "16:19",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Yasmim Costa",
-   "tel": "5562*****972",
-   "criado": "12:38",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "   Duda✨",
-   "tel": "5575*****852",
-   "criado": "11:21",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Eliete",
-   "tel": "5548*****181",
-   "criado": "17:33",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "TIAGO",
-   "tel": "5584*****078",
-   "criado": "16:52",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Gessica Furmaniak",
-   "tel": "5547*****479",
-   "criado": "12:44",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Magarete Ferreira",
-   "tel": "5533*****956",
-   "criado": "10:42",
+   "nome": "Léo Santos",
+   "tel": "5579*****983",
+   "criado": "04:06",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
