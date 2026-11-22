@@ -1,27 +1,27 @@
 {
- "gerado_em": "21/11/2026, 21:29",
+ "gerado_em": "21/11/2026, 21:44",
  "data_ref": "21/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 14,
+  "total": 15,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 1,
   "fora_horario": 0,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 50,
+  "leads_7d": 51,
   "tickets_abertos": 220,
   "periodo_dias": 7
  },
  "atendentes": [],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 14
+  "Direto/Indicacao": 15
  },
  "criativos": [],
  "areas": {
-  "Nao identificada": 14
+  "Nao identificada": 15
  },
  "sem_resposta_lista": [
   {
@@ -174,8 +174,8 @@
   "espera_media_s": 3954
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-22T00:19:38.189Z",
-  "min_sem_lead": 10
+  "ultimo_lead_at": "2026-11-22T00:39:46.274Z",
+  "min_sem_lead": 5
  },
  "leads": [
   {
@@ -292,6 +292,17 @@
    "nome": "Cristiano",
    "tel": "5521*****589",
    "criado": "07:39",
+   "atendente": "—",
+   "espera_min": null,
+   "status": "RESOLVIDO",
+   "origem": "Direto/Indicacao",
+   "criativo": null,
+   "area": "Nao identificada"
+  },
+  {
+   "nome": "Fran",
+   "tel": "5549*****979",
+   "criado": "21:39",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
