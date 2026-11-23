@@ -1,61 +1,67 @@
 {
- "gerado_em": "22/11/2026, 19:03",
- "data_ref": "22/11/2026",
+ "gerado_em": "23/11/2026, 08:59",
+ "data_ref": "23/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 7,
+  "total": 1,
   "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
   "pct_sla": 0,
   "mediana_geral": null,
-  "leads_7d": 58,
-  "tickets_abertos": 221,
+  "leads_7d": 55,
+  "tickets_abertos": 223,
   "periodo_dias": 7
  },
  "atendentes": [],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 7
+  "Direto/Indicacao": 1
  },
  "criativos": [],
  "areas": {
-  "Nao identificada": 7
+  "Nao identificada": 1
  },
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 192,
-  "turnos": 400,
-  "respondidos": 396,
+  "grupos_ativos": 158,
+  "turnos": 291,
+  "respondidos": 287,
   "sem_resposta": 4,
   "sem_resposta_grupos": 4,
-  "mediana_min": 20.7,
+  "mediana_min": 24.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 355,
-    "mediana_min": 19.8
+    "respostas": 256,
+    "mediana_min": 20.1
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 25,
-    "mediana_min": 1436.7
-   },
-   {
-    "nome": "—",
-    "respostas": 9,
-    "mediana_min": 7.1
+    "respostas": 21,
+    "mediana_min": 2328.7
    },
    {
     "nome": "Roseli",
-    "respostas": 7,
+    "respostas": 5,
     "mediana_min": 28
+   },
+   {
+    "nome": "—",
+    "respostas": 5,
+    "mediana_min": 16.3
    }
   ],
   "sem_resposta_lista": [
+   {
+    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
+    "dia": "23/11",
+    "desde": "07:13",
+    "ts": 1795428813091
+   },
    {
     "grupo": "R.F.D.P x WORKS CONSTRUCAO E SERVICOS LTDA",
     "dia": "19/11",
@@ -73,12 +79,6 @@
     "dia": "18/11",
     "desde": "10:21",
     "ts": 1795008113784
-   },
-   {
-    "grupo": "A.M.L x FOOD BRANDS INDUSTRIA DE PRODUTOS ALIMENTICIOS S/A",
-    "dia": "16/11",
-    "desde": "11:31",
-    "ts": 1794839482843
    }
   ]
  },
@@ -95,12 +95,6 @@
   ],
   "grupos": [
    {
-    "grupo": "A.M.L x FOOD BRANDS INDUSTRIA DE PRODUTOS ALIMENTICIOS S/A",
-    "dia": "16/11",
-    "desde": "11:31",
-    "ts": 1794839482843
-   },
-   {
     "grupo": "M.J.D.S.S x LEO S.A.",
     "dia": "18/11",
     "desde": "10:21",
@@ -117,15 +111,21 @@
     "dia": "19/11",
     "desde": "18:40",
     "ts": 1795124429816
+   },
+   {
+    "grupo": "M.R.F x KHRONOS SERVICOS ESPECIALIZADOS LTDA",
+    "dia": "23/11",
+    "desde": "07:13",
+    "ts": 1795428813091
    }
   ]
  },
  "contratos": {
   "dias": 7,
-  "total": 3,
+  "total": 2,
   "por_vendedor": {
    "Tiago Bernardo": 1,
-   "Roseli": 2
+   "Roseli": 1
   },
   "lista": [
    {
@@ -145,102 +145,27 @@
     "ts": 1794925918175,
     "origem": "Anúncio: fb.me/6lIu0yPSl",
     "de_anuncio": true
-   },
-   {
-    "vendedor": "Roseli",
-    "cliente": "R",
-    "dia": "16/11",
-    "hora": "11:37",
-    "ts": 1794839864681,
-    "origem": "Anúncio: fb.me/6lIu0yPSl",
-    "de_anuncio": true
    }
   ]
  },
  "agora": {
-  "fila": 145,
-  "abertos": 221,
+  "fila": 147,
+  "abertos": 223,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 3954
+  "espera_media_s": 3911
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-22T21:16:08.032Z",
-  "min_sem_lead": 47
+  "ultimo_lead_at": "2026-11-23T10:55:53.156Z",
+  "min_sem_lead": 63
  },
  "leads": [
   {
-   "nome": "Guilherme T Centella",
-   "tel": "5511*****214",
-   "criado": "04:00",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Maria❤️",
-   "tel": "5594*****687",
-   "criado": "18:16",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Leleh",
-   "tel": "5511*****778",
-   "criado": "07:16",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Ana 💗",
-   "tel": "5531*****446",
-   "criado": "16:31",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Marleide",
-   "tel": "5561*****955",
-   "criado": "15:52",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Flavia Alves",
-   "tel": "5511*****889",
-   "criado": "16:04",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Marinaldo Furtado",
-   "tel": "5591*****954",
-   "criado": "13:28",
+   "nome": "Luana Oliveira",
+   "tel": "5511*****710",
+   "criado": "07:55",
    "atendente": "—",
    "espera_min": null,
    "status": "RESOLVIDO",
