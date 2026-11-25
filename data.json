@@ -1,5 +1,5 @@
 {
- "gerado_em": "25/11/2026, 20:31",
+ "gerado_em": "25/11/2026, 20:46",
  "data_ref": "25/11/2026",
  "sla_min": 15,
  "kpi": {
@@ -38,11 +38,11 @@
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 188,
-  "turnos": 427,
+  "grupos_ativos": 189,
+  "turnos": 428,
   "respondidos": 425,
-  "sem_resposta": 2,
-  "sem_resposta_grupos": 2,
+  "sem_resposta": 3,
+  "sem_resposta_grupos": 3,
   "mediana_min": 23.4,
   "atendentes": [
    {
@@ -73,6 +73,12 @@
   ],
   "sem_resposta_lista": [
    {
+    "grupo": "D.D.A.F x ITAU",
+    "dia": "25/11",
+    "desde": "20:38",
+    "ts": 1795649900720
+   },
+   {
     "grupo": "Á.C",
     "dia": "23/11",
     "desde": "16:53",
@@ -101,6 +107,12 @@
     "dia": "23/11",
     "desde": "16:53",
     "ts": 1795463630862
+   },
+   {
+    "grupo": "D.D.A.F x ITAU",
+    "dia": "25/11",
+    "desde": "20:38",
+    "ts": 1795649900720
    }
   ]
  },
@@ -121,7 +133,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-25T23:03:16.960Z",
-  "min_sem_lead": 28
+  "min_sem_lead": 43
  },
  "leads": [
   {
