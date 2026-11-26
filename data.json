@@ -1,69 +1,56 @@
 {
- "gerado_em": "25/11/2026, 21:46",
- "data_ref": "25/11/2026",
+ "gerado_em": "26/11/2026, 09:54",
+ "data_ref": "26/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 12,
-  "no_sla": 4,
+  "total": 0,
+  "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
-  "pct_sla": 100,
-  "mediana_geral": -0.1,
-  "leads_7d": 69,
-  "tickets_abertos": 238,
+  "pct_sla": 0,
+  "mediana_geral": null,
+  "leads_7d": 63,
+  "tickets_abertos": 239,
   "periodo_dias": 7
  },
- "atendentes": [
-  {
-   "nome": "Roseli",
-   "leads": 1,
-   "mediana_min": 1.4
-  },
-  {
-   "nome": "Tiago Bernardo",
-   "leads": 1,
-   "mediana_min": 0.3
-  }
- ],
+ "atendentes": [],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 12
+  "Direto/Indicacao": 0
  },
  "criativos": [],
- "areas": {
-  "Nao identificada": 12
- },
+ "areas": {},
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 189,
-  "turnos": 428,
-  "respondidos": 425,
+  "grupos_ativos": 175,
+  "turnos": 360,
+  "respondidos": 357,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 23.4,
+  "mediana_min": 23.5,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 380,
-    "mediana_min": 19.9
+    "respostas": 320,
+    "mediana_min": 23.2
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 22,
-    "mediana_min": 1391.9
+    "respostas": 18,
+    "mediana_min": 838.7
    },
    {
     "nome": "—",
-    "respostas": 18,
-    "mediana_min": 2.7
+    "respostas": 17,
+    "mediana_min": 2.4
    },
    {
     "nome": "Roseli",
-    "respostas": 4,
-    "mediana_min": 94.3
+    "respostas": 1,
+    "mediana_min": 154.9
    },
    {
     "nome": "Tiago Bernardo",
@@ -74,9 +61,9 @@
   "sem_resposta_lista": [
    {
     "grupo": "D.D.A.F x ITAU",
-    "dia": "25/11",
-    "desde": "20:38",
-    "ts": 1795649900720
+    "dia": "26/11",
+    "desde": "09:54",
+    "ts": 1795697667832
    },
    {
     "grupo": "Á.C",
@@ -110,9 +97,9 @@
    },
    {
     "grupo": "D.D.A.F x ITAU",
-    "dia": "25/11",
-    "desde": "20:38",
-    "ts": 1795649900720
+    "dia": "26/11",
+    "desde": "09:54",
+    "ts": 1795697667832
    }
   ]
  },
@@ -123,150 +110,17 @@
   "lista": []
  },
  "agora": {
-  "fila": 158,
-  "abertos": 238,
+  "fila": 159,
+  "abertos": 239,
   "com_atendimento": 3,
-  "online": 2,
-  "offline": 2,
+  "online": 1,
+  "offline": 3,
   "ausentes": 0,
-  "espera_media_s": 3527
+  "espera_media_s": 3508
  },
  "captacao": {
-  "ultimo_lead_at": "2026-11-26T00:11:21.074Z",
-  "min_sem_lead": 36
+  "ultimo_lead_at": "2026-11-26T02:30:15.178Z",
+  "min_sem_lead": 624
  },
- "leads": [
-  {
-   "nome": "RYAN (Ex Bradesco) Prospecção Nov_2026 - Rose",
-   "tel": "5511*****806",
-   "criado": "18:17",
-   "atendente": "Roseli",
-   "espera_min": 1.4,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Ana Júlia",
-   "tel": "5519*****504",
-   "criado": "17:18",
-   "atendente": "Tiago Bernardo",
-   "espera_min": 0.3,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Joyce Pacheco Advocacia",
-   "tel": "5527*****046",
-   "criado": "09:53",
-   "atendente": "—",
-   "espera_min": -0.6,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "5511987062120",
-   "tel": "5511*****120",
-   "criado": "09:54",
-   "atendente": "—",
-   "espera_min": -1413.2,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Ilma Souza",
-   "tel": "5511*****366",
-   "criado": "18:49",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Emanoel",
-   "tel": "5517*****661",
-   "criado": "11:34",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Elza",
-   "tel": "5571*****794",
-   "criado": "17:40",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Yure Davi Bolos & Cia",
-   "tel": "5537*****218",
-   "criado": "20:03",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Disponivel",
-   "tel": "5511*****156",
-   "criado": "16:16",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "July",
-   "tel": "5549*****113",
-   "criado": "21:11",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Jao Moura 🤠",
-   "tel": "5511*****990",
-   "criado": "18:34",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Wagner",
-   "tel": "5561*****727",
-   "criado": "15:43",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  }
- ]
+ "leads": []
 }
