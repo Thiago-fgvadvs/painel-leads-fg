@@ -1,49 +1,41 @@
 {
- "gerado_em": "26/11/2026, 21:58",
- "data_ref": "26/11/2026",
+ "gerado_em": "27/11/2026, 07:13",
+ "data_ref": "27/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 2,
-  "no_sla": 1,
+  "total": 0,
+  "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
-  "pct_sla": 100,
-  "mediana_geral": 0.5,
-  "leads_7d": 65,
+  "pct_sla": 0,
+  "mediana_geral": null,
+  "leads_7d": 59,
   "tickets_abertos": 234,
   "periodo_dias": 7
  },
- "atendentes": [
-  {
-   "nome": "FG Advogados - Isadora ",
-   "leads": 1,
-   "mediana_min": 0.5
-  }
- ],
+ "atendentes": [],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 2
+  "Direto/Indicacao": 0
  },
  "criativos": [],
- "areas": {
-  "Nao identificada": 2
- },
+ "areas": {},
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
-  "grupos_ativos": 195,
-  "turnos": 454,
-  "respondidos": 451,
+  "grupos_ativos": 198,
+  "turnos": 452,
+  "respondidos": 449,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
   "mediana_min": 23.6,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 409,
-    "mediana_min": 23.1
+    "respostas": 407,
+    "mediana_min": 22.6
    },
    {
     "nome": "FG Advogados - Isadora ",
@@ -128,30 +120,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-26T22:36:35.916Z",
-  "min_sem_lead": 142
+  "min_sem_lead": 697
  },
- "leads": [
-  {
-   "nome": "Absolut Company",
-   "tel": "5511*****221",
-   "criado": "14:54",
-   "atendente": "FG Advogados - Isadora ",
-   "espera_min": 0.5,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Celso Gaiteiro",
-   "tel": "5546*****095",
-   "criado": "19:36",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  }
- ]
+ "leads": []
 }
