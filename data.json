@@ -1,54 +1,46 @@
 {
- "gerado_em": "27/11/2026, 21:48",
- "data_ref": "27/11/2026",
+ "gerado_em": "28/11/2026, 07:03",
+ "data_ref": "28/11/2026",
  "sla_min": 15,
  "kpi": {
-  "total": 3,
-  "no_sla": 1,
+  "total": 0,
+  "no_sla": 0,
   "fora_sla": 0,
   "sem_resposta": 0,
   "fora_horario": 0,
-  "pct_sla": 100,
-  "mediana_geral": 1.7,
-  "leads_7d": 62,
-  "tickets_abertos": 234,
+  "pct_sla": 0,
+  "mediana_geral": null,
+  "leads_7d": 46,
+  "tickets_abertos": 235,
   "periodo_dias": 7
  },
- "atendentes": [
-  {
-   "nome": "Roseli",
-   "leads": 1,
-   "mediana_min": 1.7
-  }
- ],
+ "atendentes": [],
  "origem": {
   "Anuncio": 0,
-  "Direto/Indicacao": 3
+  "Direto/Indicacao": 0
  },
  "criativos": [],
- "areas": {
-  "Nao identificada": 3
- },
+ "areas": {},
  "sem_resposta_lista": [],
  "fora_sla_lista": [],
  "juridico": {
   "dias": 7,
   "grupos_ativos": 212,
-  "turnos": 522,
-  "respondidos": 519,
+  "turnos": 516,
+  "respondidos": 513,
   "sem_resposta": 3,
   "sem_resposta_grupos": 3,
-  "mediana_min": 31.6,
+  "mediana_min": 29.8,
   "atendentes": [
    {
     "nome": "Advogados - FG",
-    "respostas": 473,
-    "mediana_min": 27.5
+    "respostas": 470,
+    "mediana_min": 26.3
    },
    {
     "nome": "FG Advogados - Isadora ",
-    "respostas": 26,
-    "mediana_min": 503.7
+    "respostas": 23,
+    "mediana_min": 317.7
    },
    {
     "nome": "—",
@@ -118,8 +110,8 @@
   "lista": []
  },
  "agora": {
-  "fila": 150,
-  "abertos": 234,
+  "fila": 151,
+  "abertos": 235,
   "com_atendimento": 3,
   "online": 1,
   "offline": 3,
@@ -128,41 +120,7 @@
  },
  "captacao": {
   "ultimo_lead_at": "2026-11-27T19:43:17.523Z",
-  "min_sem_lead": 305
+  "min_sem_lead": 860
  },
- "leads": [
-  {
-   "nome": "cliente - Rose",
-   "tel": "5564*****292",
-   "criado": "16:43",
-   "atendente": "Roseli",
-   "espera_min": 1.7,
-   "status": "NO_SLA",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Priscila Meira",
-   "tel": "5569*****876",
-   "criado": "15:57",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  },
-  {
-   "nome": "Eriverton",
-   "tel": "5592*****841",
-   "criado": "11:46",
-   "atendente": "—",
-   "espera_min": null,
-   "status": "RESOLVIDO",
-   "origem": "Direto/Indicacao",
-   "criativo": null,
-   "area": "Nao identificada"
-  }
- ]
+ "leads": []
 }
